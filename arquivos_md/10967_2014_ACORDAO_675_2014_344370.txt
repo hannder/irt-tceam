@@ -1,0 +1,303 @@
+{
+  "acordao": "675/2014",
+  "processo": "10967/2014",
+  "data_sessao": "19 de novembro de 2014",
+  "orgao": "Instituto de Previdência do Município de Coari - COARIPREV",
+  "municipio": "Coari",
+  "exercicio": "2013",
+  "responsavel": [
+    "Emídio Rodrigues Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar pela IRREGULARIDADE das contas do Instituto Municipal de Previdência de Coari - COARIPREV, exercício de 2013, de responsabilidade do Sra. Emídio Rodrigues Neto, conforme art. 22, inciso III, da Lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar pela IRREGULARIDADE das contas do Instituto Municipal de Previdência de Coari - COARIPREV, exercício de 2013, de responsabilidade do Sra. Emídio Rodrigues Neto, conforme art. 22, inciso III, da Lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A deliberação indica uma falha nas contas do instituto, impactando a fidedignidade das informações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22",
+              "descricao": "Artigo que trata do julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar multas ao Sr. Emídio Rodrigues Neto: - a) No valor de R$ 3.000,00 (três mil reais), com base no art. 308, inciso III da  Resolução  04/2002  (Regimento  Interno  do  TCE/AM)  c/c  o  art.  54, inciso I da Lei nº 2423/1996 (Lei Orgânica do TCE/AM), pela irregularidade dos itens 8.3, 8.3.3, 8.4, 8.5 e 8.15 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multas ao Sr. Emídio Rodrigues Neto: - a) No valor de R$ 3.000,00 (três mil reais), com base no art. 308, inciso III da  Resolução  04/2002  (Regimento  Interno  do  TCE/AM)  c/c  o  art.  54, inciso I da Lei nº 2423/1996 (Lei Orgânica do TCE/AM), pela irregularidade dos itens 8.3, 8.3.3, 8.4, 8.5 e 8.15 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica falhas nos controles internos que levaram às irregularidades mencionadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 (Regimento Interno do TCE/AM)",
+              "artigo": "308",
+              "descricao": "Artigo que trata da aplicação de multas por irregularidades."
+            },
+            {
+              "norma": "Lei nº 2423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "54",
+              "descricao": "Artigo que trata da competência para aplicação de sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar multas ao Sr. Emídio Rodrigues Neto: - b) No valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), com base no art. 308, inciso VI, da Resolução nº 04/2002 (Regimento Interno do TCE/AM) c/c o art. 54, inciso III da Lei nº 2423/1996 (Lei Orgânica do TCE/AM), pela irregularidade dos itens 8.6, 8.8, 8.11 e 8.13 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multas ao Sr. Emídio Rodrigues Neto: - b) No valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), com base no art. 308, inciso VI, da Resolução nº 04/2002 (Regimento Interno do TCE/AM) c/c o art. 54, inciso III da Lei nº 2423/1996 (Lei Orgânica do TCE/AM), pela irregularidade dos itens 8.6, 8.8, 8.11 e 8.13 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A aplicação de multa sugere irregularidades nos pagamentos e contratos, indicando burla ao processo legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 (Regimento Interno do TCE/AM)",
+              "artigo": "308",
+              "descricao": "Artigo que trata da aplicação de multas por irregularidades."
+            },
+            {
+              "norma": "Lei nº 2423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "54",
+              "descricao": "Artigo que trata da competência para aplicação de sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "notificação",
+      "descricao": "NOTIFICAR o interessado com cópia do Relatório Conclusivo da DICERP,  Relatório/voto  e  Acórdão  para  ciência  do  decisório  e,  querendo,  apresente  o devido recurso",
+      "trechos_identificados": [
+        {
+          "trecho": "NOTIFICAR o interessado com cópia do Relatório Conclusivo da DICERP,  Relatório/voto  e  Acórdão  para  ciência  do  decisório  e,  querendo,  apresente  o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve um procedimento padrão do TCE e não indica irregularidade ou problema estrutural na gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - a) ORGANIZAÇÃO ADMINISTRATIVA do COARIPREV (Restrições 3, 4, 6 e 7 do relatório conclusivo nº 06/2014); - b) CONTABILIDADE PREVIDENCIÁRIA do COARIPREV (Restrições 9, 10, 14 e 15 do relatório conclusivo nº 06/2014); - c) CONTRIBUIÇÕES PREVIDENCIÁRIAS do instituto de previdência (Restrições 20, 23, 24, 25, 26, 28, 31, 32 E 33 do relatório conclusivo nº 06/2014); - d) BENEFÍCIOS  PREVIDENCIÁRIOS (Restrição nº 34 do Relatório Conclusivo nº 06/2014); - e) DOS INVESTIMENTOS (Restrições nº 37, 38, 39, 40, 41, 43 do relatório conclusivo nº 06/2014); - f) DA COMPENSAÇÃO PREVIDENCIÁRIA (Restrição nº 45 do relatório conclusivo nº 06/2014); - g) DAS LICITAÇÕES E CONTRATOS (Restrições nº 46 e 47 do relatório conclusivo nº 06/2014) - h) DO SETOR PESSOAL ( Restrições nº 51 e 54 do relatório conclusivo nº 06/2014); - i) do patrimônio (Restrição nº 56 do relatório conclusivo nº 06/2014)",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - a) ORGANIZAÇÃO ADMINISTRATIVA do COARIPREV (Restrições 3, 4, 6 e 7 do relatório conclusivo nº 06/2014)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para organizar a administração indica deficiências nos controles internos e na estrutura organizacional.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - b) CONTABILIDADE PREVIDENCIÁRIA do COARIPREV (Restrições 9, 10, 14 e 15 do relatório conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A determinação para organizar a contabilidade previdenciária indica falhas na comprovação de valores e na gestão contábil.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - c) CONTRIBUIÇÕES PREVIDENCIÁRIAS do instituto de previdência (Restrições 20, 23, 24, 25, 26, 28, 31, 32 E 33 do relatório conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação para regularizar as contribuições previdenciárias indica problemas no cálculo e repasse das contribuições.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - d) BENEFÍCIOS  PREVIDENCIÁRIOS (Restrição nº 34 do Relatório Conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A10A",
+          "tipologia_irregularidade": "Concessão ilegal de benefícios previdenciários",
+          "descricao": "Concessão ilegal de benefícios previdenciários",
+          "justificativa_tipologia": "A determinação relacionada aos benefícios previdenciários sugere possíveis irregularidades na concessão desses benefícios.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - e) DOS INVESTIMENTOS (Restrições nº 37, 38, 39, 40, 41, 43 do relatório conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A169A",
+          "tipologia_irregularidade": "Os recursos previdenciários foram aplicados no mercado financeiro de acordo com as determinações legais",
+          "descricao": "Os recursos previdenciários não foram aplicados no mercado financeiro de acordo com as determinações legais",
+          "justificativa_tipologia": "A determinação sobre os investimentos indica que os recursos não estão sendo aplicados conforme a legislação.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - f) DA COMPENSAÇÃO PREVIDENCIÁRIA (Restrição nº 45 do relatório conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A29B",
+          "tipologia_irregularidade": "Ausência de providências para compensação previdenciária",
+          "descricao": "Ausência de providências para compensação previdenciária",
+          "justificativa_tipologia": "A determinação sobre a compensação previdenciária indica falta de ação para garantir o equilíbrio financeiro do RPPS.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - g) DAS LICITAÇÕES E CONTRATOS (Restrições nº 46 e 47 do relatório conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A determinação sobre licitações e contratos indica falhas nos processos licitatórios e contratuais.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - h) DO SETOR PESSOAL ( Restrições nº 51 e 54 do relatório conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles.",
+          "justificativa_tipologia": "A determinação sobre o setor de pessoal indica irregularidades na gestão de pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR ao COARIPREV, sob pena de multa nas próximas prestações de contas do Instituto, que providencie as recomendações feitas pela DICERP para o fiel cumprimento da Lei em relação à: - i) do patrimônio (Restrição nº 56 do relatório conclusivo nº 06/2014)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A determinação sobre o patrimônio indica deficiências na gestão patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "representação",
+      "descricao": "REPRESENTAR  ao Ministério Público Estadual: - a) Que apure se houve concessão de empréstimo realizada em exercícios anteriores pelo COARIPREV, no valor de R$ 697.417,00, à pessoa física/jurídica 'Adriano Texeira Salan', em desacordo com o art. 6º, V, da Lei nº 9.717/98, podendo os responsáveis estarem incursos no art. 11, I da Lei nº 8.429,92, sem prejuízo da iniciativa do controle externo, insculpida no art. 125, II da Lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "REPRESENTAR  ao Ministério Público Estadual: - a) Que apure se houve concessão de empréstimo realizada em exercícios anteriores pelo COARIPREV, no valor de R$ 697.417,00, à pessoa física/jurídica 'Adriano Texeira Salan', em desacordo com o art. 6º, V, da Lei nº 9.717/98, podendo os responsáveis estarem incursos no art. 11, I da Lei nº 8.429,92, sem prejuízo da iniciativa do controle externo, insculpida no art. 125, II da Lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A161A",
+          "tipologia_irregularidade": "O Órgão Gestor do RPPS não concedeu empréstimos a servidores ou ao município utilizando recursos previdenciários",
+          "descricao": "Foi identificado que o Órgão Gestor do RPPS concedeu empréstimos a servidores ou ao município utilizando recursos previdenciários.",
+          "justificativa_tipologia": "A representação ao Ministério Público indica suspeita de irregularidades na concessão de empréstimos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "6",
+              "descricao": "Dispõe sobre regras para organização e funcionamento dos RPPS."
+            },
+            {
+              "norma": "Lei nº 8.429/92",
+              "artigo": "11",
+              "descricao": "Dispõe sobre as sanções aplicáveis aos agentes públicos nos casos de enriquecimento ilícito no exercício de mandato, cargo, emprego ou função na administração pública direta, indireta ou fundacional."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "125",
+              "descricao": "Lei Orgânica do TCE/AM que trata do controle externo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "representação",
+      "descricao": "REPRESENTAR  ao Ministério Público Estadual: - b) Que  apure  a  concessão  de  empréstimo  realizada  em  exercícios anteriores pelo COARIPREV,  no valor de R$  3.9000.000,00, em desacordo com o art. 6º, V da Lei nº 9.717/98, podendo os responsáveis estarem inclusos no art. 11, I da Lei nº 8429,92, sem prejuízo da iniciativa do controle externo, insculpida no art. 125, II, da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "REPRESENTAR  ao Ministério Público Estadual: - b) Que  apure  a  concessão  de  empréstimo  realizada  em  exercícios anteriores pelo COARIPREV,  no valor de R$  3.9000.000,00, em desacordo com o art. 6º, V da Lei nº 9.717/98, podendo os responsáveis estarem inclusos no art. 11, I da Lei nº 8429,92, sem prejuízo da iniciativa do controle externo, insculpida no art. 125, II, da Lei nº 2.423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A161A",
+          "tipologia_irregularidade": "O Órgão Gestor do RPPS não concedeu empréstimos a servidores ou ao município utilizando recursos previdenciários",
+          "descricao": "Foi identificado que o Órgão Gestor do RPPS concedeu empréstimos a servidores ou ao município utilizando recursos previdenciários.",
+          "justificativa_tipologia": "A representação ao Ministério Público indica suspeita de irregularidades na concessão de empréstimos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "6",
+              "descricao": "Dispõe sobre regras para organização e funcionamento dos RPPS."
+            },
+            {
+              "norma": "Lei nº 8429/92",
+              "artigo": "11",
+              "descricao": "Dispõe sobre as sanções aplicáveis aos agentes públicos nos casos de enriquecimento ilícito no exercício de mandato, cargo, emprego ou função na administração pública direta, indireta ou fundacional."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "125",
+              "descricao": "Lei Orgânica do TCE/AM que trata do controle externo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar multa ao Sr. Emídio Rodrigues Neto no valor de 9.864,27 (nove mil, oitocentos e sessenta e quatro reais e vinte e sete centavos), com base no art. 308, inciso  II da Resolução nº 04/2002 (Regimento  Interno do TCE/AM), pelo atraso do envio do ACP nos meses de janeiro a maio, junho, julho, outubro e novembro do exercício de 2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Emídio Rodrigues Neto no valor de 9.864,27 (nove mil, oitocentos e sessenta e quatro reais e vinte e sete centavos), com base no art. 308, inciso  II da Resolução nº 04/2002 (Regimento  Interno do TCE/AM), pelo atraso do envio do ACP nos meses de janeiro a maio, junho, julho, outubro e novembro do exercício de 2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso no envio de documentos é uma falha no cumprimento de prazos estabelecidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 (Regimento Interno do TCE/AM)",
+              "artigo": "308",
+              "descricao": "Artigo que trata da aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

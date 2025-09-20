@@ -1,0 +1,183 @@
+{
+  "acordao": "1308/2019",
+  "processo": "11589/2018",
+  "data_sessao": "11 de Dezembro de 2019",
+  "orgao": "Fundo de Previdência Social do Município de Manacapuru - FUNPREVIM",
+  "municipio": "Manacapuru",
+  "exercicio": "2017",
+  "responsavel": [
+    "Ailton  Santos  Andrade",
+    "Jucimar Fonseca da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do Sr. Jucimar  Fonseca  da Silva , Diretor-Presidente do Fundo de Previdência Social do Município de  Manacapuru  -  FUNPREVIM,  no  período  de 02/01  à  14/08/2017 , conforme art.  22,  III,  da  Lei  nº  2.423/96  c/c  art.  188,  §  1º,  III,  'b',  da Resolução nº 04/02- RI TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do Sr. Jucimar  Fonseca  da Silva , Diretor-Presidente do Fundo de Previdência Social do Município de  Manacapuru  -  FUNPREVIM,  no  período  de 02/01  à  14/08/2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de registro de conta contábil",
+          "descricao": "Ausência de registro de conta contábil",
+          "justificativa_tipologia": "A prestação de contas é um registro contábil importante, e sua irregularidade indica uma falha nesse registro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Julgamento das contas como irregulares"
+            },
+            {
+              "norma": "Resolução nº 04/02- RI TCE/AM",
+              "artigo": "188",
+              "descricao": "Disposições sobre o julgamento de contas no âmbito do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular Julgar Irregular a Prestação de Contas do Sr. Ailton Santos  Andrade ,  Diretor-Presidente  do  Fundo  de  Previdência  Social do  Município  de  Manacapuru  -  FUNPREVIM,  no  período  de 15/08  à 31/12/2017 ,  conforme art. 22, III, da Lei nº 2.423/96 c/c art. 188, § 1º, III, 'b', da Resolução nº 04/02- RI TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular Julgar Irregular a Prestação de Contas do Sr. Ailton Santos  Andrade ,  Diretor-Presidente  do  Fundo  de  Previdência  Social do  Município  de  Manacapuru  -  FUNPREVIM,  no  período  de 15/08  à 31/12/2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de registro de conta contábil",
+          "descricao": "Ausência de registro de conta contábil",
+          "justificativa_tipologia": "A prestação de contas é um registro contábil importante, e sua irregularidade indica uma falha nesse registro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Julgamento das contas como irregulares"
+            },
+            {
+              "norma": "Resolução nº 04/02- RI TCE/AM",
+              "artigo": "188",
+              "descricao": "Disposições sobre o julgamento de contas no âmbito do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Ailton Santos Andrade no valor de R$ 13.654,39 (treze mil, seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e  nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Ailton Santos Andrade no valor de R$ 13.654,39 (treze mil, seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e  nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A aplicação de multa está relacionada a irregularidades que violam normas contábeis e financeiras, impactando a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54",
+              "descricao": "Multa por infração à norma legal"
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308",
+              "descricao": "Aplicação de multa por atos praticados com grave infração à norma legal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Jucimar  Fonseca  da  Silva no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Jucimar  Fonseca  da  Silva no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A aplicação de multa está relacionada a irregularidades que violam normas contábeis e financeiras, impactando a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54",
+              "descricao": "Multa por infração à norma legal"
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308",
+              "descricao": "Aplicação de multa por atos praticados com grave infração à norma legal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A1B",
+          "tipologia_irregularidade": "Estrutura física do Departamento inadequada para o desempenho das funções/atribuídas e delegadas ao RPPS",
+          "descricao": "Espaço inadequado pode ocasionar má gestão de organização documental necessária a gestão pessoal dos segurados, consequentemente perda ou arquivamento equivocado das informações. Informações e execuções das atividades essências por apenas um servidor pode ocasionar a centralização dessas informações com risco da descontinuidade dos serviços rotineiros, caso este servidor venha se afastar por situações adversas. Não dispondo de controle processual e Procedimentos Padrão Operacional da tramitação dos processos, corre-se risco da perda de prazos legais a serem cumpridos ou processos ficarem paralisados sem informações e passadas a parte interessada.",
+          "justificativa_tipologia": "A Determinação visa corrigir e prevenir falhas na gestão previdenciária, garantindo a conformidade com as normas e a continuidade dos serviços.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que oriente as próximas Comissões designadas a  vistoriar  o  RPPS  do  Município  de  Manacapuru  que  verifiquem  o cumprimento das determinações elencadas no voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que oriente as próximas Comissões designadas a  vistoriar  o  RPPS  do  Município  de  Manacapuru  que  verifiquem  o cumprimento das determinações elencadas no voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A1B",
+          "tipologia_irregularidade": "Estrutura física do Departamento inadequada para o desempenho das funções/atribuídas e delegadas ao RPPS",
+          "descricao": "Espaço inadequado pode ocasionar má gestão de organização documental necessária a gestão pessoal dos segurados, consequentemente perda ou arquivamento equivocado das informações. Informações e execuções das atividades essências por apenas um servidor pode ocasionar a centralização dessas informações com risco da descontinuidade dos serviços rotineiros, caso este servidor venha se afastar por situações adversas. Não dispondo de controle processual e Procedimentos Padrão Operacional da tramitação dos processos, corre-se risco da perda de prazos legais a serem cumpridos ou processos ficarem paralisados sem informações e passadas a parte interessada.",
+          "justificativa_tipologia": "A determinação para orientar as comissões de vistoria visa garantir que as futuras inspeções foquem no cumprimento das determinações já estabelecidas, melhorando a gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o  encaminhamento  da  cópia  dos  autos  ao  Ministério Público do Estado, de acordo com o artigo 1º, XXIV, da Lei nº2423/96, em  razão  das  irregularidades  constatadas  e  não  sanadas  para  a adoção de providência que entender necessárias.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  da  cópia  dos  autos  ao  Ministério Público do Estado, de acordo com o artigo 1º, XXIV, da Lei nº2423/96, em  razão  das  irregularidades  constatadas  e  não  sanadas  para  a adoção de providência que entender necessárias.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A1B",
+          "tipologia_irregularidade": "Estrutura física do Departamento inadequada para o desempenho das funções/atribuídas e delegadas ao RPPS",
+          "descricao": "Espaço inadequado pode ocasionar má gestão de organização documental necessária a gestão pessoal dos segurados, consequentemente perda ou arquivamento equivocado das informações. Informações e execuções das atividades essências por apenas um servidor pode ocasionar a centralização dessas informações com risco da descontinuidade dos serviços rotineiros, caso este servidor venha se afastar por situações adversas. Não dispondo de controle processual e Procedimentos Padrão Operacional da tramitação dos processos, corre-se risco da perda de prazos legais a serem cumpridos ou processos ficarem paralisados sem informações e passadas a parte interessada.",
+          "justificativa_tipologia": "O encaminhamento ao Ministério Público é uma ação para garantir que as irregularidades sejam devidamente investigadas e que as medidas cabíveis sejam tomadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º",
+              "descricao": "Encaminhamento de cópia dos autos ao Ministério Público"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

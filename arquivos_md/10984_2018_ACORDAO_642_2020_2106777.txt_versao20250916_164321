@@ -1,0 +1,440 @@
+{
+  "acordao": "642/2020",
+  "processo": "10984/2018",
+  "data_sessao": "24 de Junho de 2020",
+  "orgao": "Câmara Municipal de Benjamin Constant",
+  "municipio": "Benjamin Constant",
+  "exercicio": "2017",
+  "responsavel": [
+    "Ociney Cabral Firmino"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas anual da Câmara  de Benjamin Constant, exercício 2007, sob a responsabilidade do Sr. Ociney Cabral Firmino, Presidente da Câmara Municipal e Ordenador de Despesas, em decorrência de atos praticados com grave infração às normas legais em relação às impropriedades 02, 04, 05 e 06, não sanadas  do  Relatório  Conclusivo  nº  63/2020  -  DICAMI  (fls.  10951124), nos termos dos artigos 1.º, II, 22, III, alíneas 'b' e 'c', e artigo 25,  parágrafo  único,  todos  da  Lei  Estadual  n.  2.423/1996  (Lei Orgânica do Tribunal de Contas do Estado do Amazonas), e artigo 5.º,  II,  da  Resolução  n.  04/2002-TCE/AM  (Regimento  Interno  do Tribunal de Contas do Estado do Amazonas)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas anual da Câmara  de Benjamin Constant, exercício 2007, sob a responsabilidade do Sr. Ociney Cabral Firmino, Presidente da Câmara Municipal e Ordenador de Despesas, em decorrência de atos praticados com grave infração às normas legais em relação às impropriedades 02, 04, 05 e 06, não sanadas  do  Relatório  Conclusivo  nº  63/2020  -  DICAMI  (fls.  10951124).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho descreve que houve uma irregularidade na Prestação de Contas anual da Câmara Municipal, indicando uma falha na comprovação de despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/1996",
+              "artigo": "1.º, II",
+              "descricao": "Define as competências do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996",
+              "artigo": "22, III, alíneas 'b' e 'c'",
+              "descricao": "Estabelece as condições para julgamento das contas como irregulares."
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996",
+              "artigo": "25, parágrafo único",
+              "descricao": "Define a aplicação de sanções em caso de irregularidades."
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "5.º, II",
+              "descricao": "Regulamenta o Regimento Interno do Tribunal de Contas do Estado do Amazonas, estabelecendo critérios para irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Ociney Cabral Firmino no valor de R$ 14.000,00 (catorze  mil  reais),  nos  termos  da  redação  do  art.  54,  VI  da  Lei  nº 2423/1996, dada pela Lei Complementar nº 204/2020 e art. 308, VI da Resolução nº 04/2002, com redação dada pela Resolução nº 04/2018, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Ociney Cabral Firmino no valor de R$ 14.000,00 (catorze  mil  reais).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OUTROS",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho descreve a aplicação de uma multa, que não se enquadra em nenhuma das tipologias de irregularidades listadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "54, VI",
+              "descricao": "Define as sanções aplicáveis pelo Tribunal de Contas."
+            },
+             {
+              "norma": "Lei Complementar nº 204/2020",
+              "artigo": "N/A",
+              "descricao": "Altera a redação do art. 54 da Lei nº 2423/1996."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta a aplicação de multas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2018",
+              "artigo": "N/A",
+              "descricao": "Altera a redação da Resolução nº 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao   Sr.  Ociney  Cabral  Firmino  sobre  a  decisão  deste Tribunal Pleno.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao   Sr.  Ociney  Cabral  Firmino  sobre  a  decisão  deste Tribunal Pleno.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OUTROS",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho refere-se a um procedimento administrativo (dar ciência), que não configura uma irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: observe atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações de conta, esclarecendo que a inobservância destes prazos compromete o planejamento dos  trabalhos  de  campo,  passível  de  responsabilização com a consequente aplicação de multas por cerceamento do exercício do controle externo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: observe atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações de conta, esclarecendo que a inobservância destes prazos compromete o planejamento dos  trabalhos  de  campo,  passível  de  responsabilização com a consequente aplicação de multas por cerceamento do exercício do controle externo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OUTROS",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho é uma determinação para observar prazos, o que por si só não indica uma irregularidade, mas sim uma advertência sobre o cumprimento de normas processuais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: encaminhe pelo sistema SAP os dados necessários à apreciação  da  legalidade dos  atos de pessoal  pelo Tribunal de Contas do Estado do Amazonas, observando o disposto na Resolução TCE/AM nº 16/2009;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: encaminhe pelo sistema SAP os dados necessários à apreciação  da  legalidade dos  atos de pessoal  pelo Tribunal de Contas do Estado do Amazonas, observando o disposto na Resolução TCE/AM nº 16/2009",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho é uma determinação para o envio de dados via sistema SAP, o que por si só não indica uma irregularidade, mas sim um requisito para o processo de fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 16/2009",
+              "artigo": "N/A",
+              "descricao": "Regulamenta o envio de dados de pessoal ao TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: não  atrase  o  envio  das  informações  ao  sistema  econtas,  bem como o seu adequado preenchimento, nos termos  da  Resolução  nº  07/02-TCE,  c/c  Resolução  nº 10/2012-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: não  atrase  o  envio  das  informações  ao  sistema  econtas,  bem como o seu adequado preenchimento, nos termos  da  Resolução  nº  07/02-TCE,  c/c  Resolução  nº 10/2012-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho é uma determinação para o envio tempestivo e correto de informações ao sistema e-contas, o que por si só não indica uma irregularidade, mas sim um requisito para o processo de fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            },
+            {
+              "norma": "Resolução nº 07/02-TCE",
+              "artigo": "N/A",
+              "descricao": "Regulamenta o envio de informações ao sistema e-contas."
+            },
+            {
+              "norma": "Resolução nº 10/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Complementa a regulamentação sobre o sistema e-contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: encaminhe no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei estadual nº 2.423/96 e do §1º da Resolução nº 11/2009 c/c §3º do art. 165 da CF/88;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: encaminhe no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei estadual nº 2.423/96 e do §1º da Resolução nº 11/2009 c/c §3º do art. 165 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho é uma determinação para o envio tempestivo dos Relatórios de Gestão Fiscal e Relatórios Resumidos da Execução Orçamentária, o que por si só não indica uma irregularidade, mas sim um requisito para o processo de fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            },
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "32, alínea 'h' do inciso II",
+              "descricao": "Define a obrigatoriedade de envio de documentos ao TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 11/2009",
+              "artigo": "§1º",
+              "descricao": "Regulamenta o envio de documentos ao TCE/AM."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "165, §3º",
+              "descricao": "Estabelece a elaboração de orçamentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: dê publicidade aos Relatórios de Gestão Fiscal (RGF) e Resumidos  da  Execução  Orçamentária  (RREO),  dentro dos prazos estipulados pelo art. 52, c/c o §2º do art. 55, sob pena de multa por prática de infração administrativa (art. 5º da Lei federal nº 10.028/2000), quanto aos RGF;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: dê publicidade aos Relatórios de Gestão Fiscal (RGF) e Resumidos  da  Execução  Orçamentária  (RREO),  dentro dos prazos estipulados pelo art. 52, c/c o §2º do art. 55, sob pena de multa por prática de infração administrativa (art. 5º da Lei federal nº 10.028/2000), quanto aos RGF",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho é uma determinação para dar publicidade aos relatórios fiscais, indicando uma possível falha na transparência da gestão fiscal, mas sem descrever uma ocorrência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            },
+            {
+              "norma": "Art. 52 da Lei Complementar nº 101/2000",
+              "artigo": "N/A",
+              "descricao": "Estabelece os prazos para publicação dos relatórios de gestão fiscal."
+            },
+            {
+              "norma": "Art. 55, §2º da Lei Complementar nº 101/2000",
+              "artigo": "N/A",
+              "descricao": "Define as condições para a publicação dos relatórios de gestão fiscal."
+            },
+            {
+              "norma": "Lei federal nº 10.028/2000",
+              "artigo": "5º",
+              "descricao": "Define as multas por infrações administrativas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: atenda ao art. 45 da Constituição Estadual c/c art. 43 da Lei  nº  2.423/96  que  estabelece a  Criação  de  Controle Interno no âmbito Municipal;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: atenda ao art. 45 da Constituição Estadual c/c art. 43 da Lei  nº  2.423/96  que  estabelece a  Criação  de  Controle Interno no âmbito Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação explicita a ausência de implementação do Controle Interno no âmbito Municipal",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "45",
+              "descricao": "Estabelece a necessidade de controle interno no âmbito estadual."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "43",
+              "descricao": "Regulamenta a criação de controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: cumpra  os  art.  48  e  48-A  da  Lei  Complementar  n.º 101/2000,  alterada  pela  Lei  Complementar  nº  131/2009 c/c  inciso  II,  art.  34  da  Lei  estadual  nº  2.423/96  que estabelece a obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: cumpra  os  art.  48  e  48-A  da  Lei  Complementar  n.º 101/2000,  alterada  pela  Lei  Complementar  nº  131/2009 c/c  inciso  II,  art.  34  da  Lei  estadual  nº  2.423/96  que estabelece a obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "A determinação explicita a importância da transparência na gestão fiscal, e o não cumprimento das determinações podem levar a irregularidades na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            },
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "48",
+              "descricao": "Define as normas para a transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "48-A",
+              "descricao": "Define as normas para a transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar nº 131/2009",
+              "artigo": "N/A",
+              "descricao": "Altera dispositivos da Lei Complementar nº 101/2000."
+            },
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "34, inciso II",
+              "descricao": "Estabelece a obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: tome providência nas cobranças necessárias dos créditos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: tome providência nas cobranças necessárias dos créditos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação refere-se a tomada de providências em relação a cobrança de créditos. É relevante para o índice pois o não cumprimento pode gerar prejuízos financeiros ao erário público",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: resolva os casos de acumulação de cargos dos servidores citados nesta proposta de voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: resolva os casos de acumulação de cargos dos servidores citados nesta proposta de voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A determinação refere-se a resolução de casos de acumulação de cargos, o que configura uma irregularidade relacionada a pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            },
+             {
+              "norma": "Constituição Federal",
+              "artigo": "37, XVI",
+              "descricao": "Veda a acumulação remunerada de cargos públicos, exceto nos casos expressamente previstos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: observe, por último, que a reincidência, nas próximas Prestações de Contas, das determinações ora veiculadas, acarretará  o  julgamento  da  irregularidade  da  respectiva Conta, conforme prevê a alínea 'e' do inciso III do § 1º do art. 188 do Regimento Interno/TCE-AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: observe, por último, que a reincidência, nas próximas Prestações de Contas, das determinações ora veiculadas, acarretará  o  julgamento  da  irregularidade  da  respectiva Conta, conforme prevê a alínea 'e' do inciso III do § 1º do art. 188 do Regimento Interno/TCE-AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OUTROS",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "Este trecho é um aviso sobre as consequências da reincidência, não descrevendo uma irregularidade em si.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, § 1º, alínea 'e', inciso III",
+              "descricao": "Prevê o julgamento da irregularidade da conta em caso de reincidência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: a manutenção dos documentos técnicos de obras/reformas/serviços  de  Engenharia  nos  arquivos  da CBJM  para quando da presença da Comissão de Inspeção  da  DICOP/TCE  se  possa  analisá-los  in  loco evitando a necessidade de solicitação por notificação;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: a manutenção dos documentos técnicos de obras/reformas/serviços  de  Engenharia  nos  arquivos  da CBJM  para quando da presença da Comissão de Inspeção  da  DICOP/TCE  se  possa  analisá-los  in  loco evitando a necessidade de solicitação por notificação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho é uma determinação para a manutenção de documentos técnicos de obras, o que por si só não indica uma irregularidade, mas uma facilitação para a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Estabelece as diretrizes para o cumprimento das decisões do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem,  nos  termos  do  art.  188,  §2º,  do  Regimento Interno/TCE-AM, que: observe o art. 6º, IX, da Lei federal n.º 8.666/93 para fins de elaboração de Projeto Básico para obras e serviços de  Engenharia  quanto  aos  documentos:  Especificações Técnicas,  Planilha  Orçamentária,  Composição  de  Custo Unitário, Cronograma Físico-Financeiro, Projeto Arquitetônico  (se  couber)  e/ou  Projeto  Geométrico  (se couber) em parceria com a Prefeitura Municipal e/ou outro órgão técnico na esfera estadual/federal; todos

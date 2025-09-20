@@ -1,0 +1,74 @@
+{
+  "acordao": "626/2023",
+  "processo": "10570/2023",
+  "data_sessao": "03 de abril de 2023",
+  "orgao": "Prefeitura Municipal de Juruá",
+  "municipio": "Juruá",
+  "exercicio": "2022",
+  "responsavel": [],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que extraia cópia do Relatório de Auditoria de Levantamento  do  DEAS  constante  nestes  autos  (fls.  52-119)  e encaminhe-o à DICAMI  para fins de juntada ao processo de Prestação  de  Contas  Anual,  do  exercício  de  2022,  do  Município  de Juruá,  assim  que  ocorrer  sua  autuação  nesta  Corte  de  Contas,  de modo que seja apreciada a matéria apurada na auditoria, com oferta do exercício ao contraditório e ampla defesa e demais procedimentos decorrentes do rito estabelecido no artigo 73 e seguintes da Resolução nº 04/2002 - RITCEAM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que extraia cópia do Relatório de Auditoria de Levantamento  do  DEAS  constante  nestes  autos  (fls.  52-119)  e encaminhe-o à DICAMI  para fins de juntada ao processo de Prestação  de  Contas  Anual,  do  exercício  de  2022,  do  Município  de Juruá,  assim  que  ocorrer  sua  autuação  nesta  Corte  de  Contas,  de modo que seja apreciada a matéria apurada na auditoria, com oferta do exercício ao contraditório e ampla defesa e demais procedimentos decorrentes do rito estabelecido no artigo 73 e seguintes da Resolução nº 04/2002 - RITCEAM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho determina o envio de relatório de auditoria para ser apreciado em processo de contas anual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - RITCEAM",
+              "artigo": "73",
+              "descricao": "Procedimentos do rito processual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência à Prefeitura Municipal de Juruá e à Secretaria Municipal de Saúde daquela Municipalidade, na pessoa de seus atuais gestores,  do  Relatório  de  Auditoria  de  Levantamento  do  DEAS,  nos termos do artigo 210 da Resolução nº 04/2002 - RITCEAM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência à Prefeitura Municipal de Juruá e à Secretaria Municipal de Saúde daquela Municipalidade, na pessoa de seus atuais gestores,  do  Relatório  de  Auditoria  de  Levantamento  do  DEAS,  nos termos do artigo 210 da Resolução nº 04/2002 - RITCEAM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho determina a ciência do relatório de auditoria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - RITCEAM",
+              "artigo": "210",
+              "descricao": "Termos da ciência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  presente  processo,  considerando  que  os  achados  de auditoria serão analisados no processo de Prestação de Contas Anual de  2022  do  Município  de  Juruá,  a  ser  autuado  por  esta  Corte  de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  presente  processo,  considerando  que  os  achados  de auditoria serão analisados no processo de Prestação de Contas Anual de  2022  do  Município  de  Juruá,  a  ser  autuado  por  esta  Corte  de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho determina o arquivamento do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

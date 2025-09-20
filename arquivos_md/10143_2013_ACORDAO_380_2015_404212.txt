@@ -1,0 +1,36 @@
+{
+  "acordao": "380/2015",
+  "processo": "10143/2013",
+  "data_sessao": "10 de Junho de 2015",
+  "orgao": "Câmara de Tapauá",
+  "municipio": "Tapauá",
+  "exercicio": "2012",
+  "responsavel": [
+    "Carlos Gonçalves da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Embargo de Declaração",
+      "descricao": "Conhecer os Embargos de Declaração, interposto pelo Sr. Carlos Gonçalves da Silva, Presidente da Câmara e Ordenador de Despesas da Câmara de Tapauá, em 15.04 a 15.08 e 19.12 a 31.12.2012, para, no mérito, dar provimento, a fim de corrigir a contradição existente no Acórdão 127/2015, mediante a retificação parcial do texto em que consta ' em consonância com o pronunciamento do Ministério Público junto a este Tribunal' para ' em desacordo com o pronunciamento do Ministério Público junto a este Tribunal', conforme a Proposta de Voto deste Relator, mantendo integralmente as demais disposições.",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer os Embargos de Declaração, interposto pelo Sr. Carlos Gonçalves da Silva, Presidente da Câmara e Ordenador de Despesas da Câmara de Tapauá, em 15.04 a 15.08 e 19.12 a 31.12.2012, para, no mérito, dar provimento, a fim de corrigir a contradição existente no Acórdão 127/2015, mediante a retificação parcial do texto em que consta ' em consonância com o pronunciamento do Ministério Público junto a este Tribunal' para ' em desacordo com o pronunciamento do Ministério Público junto a este Tribunal', conforme a Proposta de Voto deste Relator, mantendo integralmente as demais disposições.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Ação de conhecer e dar provimento a embargos de declaração, retificando parcialmente o texto do acórdão original para corrigir uma contradição, indicando a necessidade de precisão e correção nas informações e registros contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "11, III, alínea 'f', item 1",
+              "descricao": "Competência do Tribunal de Contas do Estado do Amazonas para julgar o caso."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "acordao": "728/2017",
+  "processo": "11434/2016",
+  "data_sessao": "4 de Julho de 2017",
+  "orgao": "Fundo Municipal de Previdência Social de Beruri - FUNPREB",
+  "municipio": "Beruri",
+  "exercicio": "2015",
+  "responsavel": [
+    "Sidney Oliveira Miranda"
+  ],
+  "itens": [
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o  Senhor Sidney  Oliveira  Miranda, Diretor Geral do Fundo  de  Previdência  Social  do  Município de Beruri -FUNPREB e Ordenador de Despesas, à época, no valor de 581.569,63 (quinhentos  e  oitenta  e  um  mil,  quinhentos  e sessenta  e  nove  reais  e sessenta e três centavos), nos termos do art. 304, VI, da Res. 04/2002, c/c o disposto no art. 22, III, 'c' e 'd' e §2º, 'a' da Lei nº. 2423/1996),  em razão  dos  montantes  listados  nos  itens  nº. 03  e  05 do Relatório Conclusivo nº. 26/2016 - DICERP, às fls. 206/219 dos autos:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Justificar de forma  documental  se  a  contratação  de Assessoria Jurídica, no valor de R$ 36.000,00 ,  foi  utilizada de forma efetiva por este fundo previdenciário, demonstrando  documentalmente  os  trabalhos  efetivamente prestados ao Fundo pela Assessoria Jurídica, sem prejuízo quanto  a aplicabilidade do §2º do art. 20 da  Lei nº. 2423/1996  -  LOTCE/AM.  Contratado:  Walcimar  de  Souza Oliveira. CPF:  310.963.012-53.  OAB:  2469,  modalidade: Convite nº. 001/2015.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar de forma  documental  se  a  contratação  de Assessoria Jurídica, no valor de R$ 36.000,00 ,  foi  utilizada de forma efetiva por este fundo previdenciário, demonstrando  documentalmente  os  trabalhos  efetivamente prestados ao Fundo pela Assessoria Jurídica, sem prejuízo quanto  a aplicabilidade do §2º do art. 20 da  Lei nº. 2423/1996  -  LOTCE/AM.  Contratado:  Walcimar  de  Souza Oliveira. CPF:  310.963.012-53.  OAB:  2469,  modalidade: Convite nº. 001/2015.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "O trecho relata a ausência de justificativa e documentação que comprove a efetividade dos serviços prestados pela assessoria jurídica contratada, o que é fundamental para demonstrar a correta aplicação dos recursos públicos e a escolha adequada do fornecedor.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "20",
+              "descricao": "Regulamenta a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "O jurisdicionado não enviou nenhum documento que comprove  que  o  profissional  contratado  realizou  qualquer trabalho  que  justifique  a  despesa.  Neste  sentido,  houve  a identificação  de  falhas  de  natureza  grave,  especialmente omissão  em  licitar,  contrariando  o  dever  de,  em  regra, omissão em comprovar a execução do contrato de assessoria jurídica no valor de R$ 36.000,00 . Desta forma, concordo com a manifestação da Comissão de Inspeção e a manifestação  do  Representante  Ministerial  desta  Corte  de Contas, imputando glosa do valor integral ao responsável , tendo em vista que não foi devidamente solucionado o que foi apontado em questão.",
+      "trechos_identificados": [
+        {
+          "trecho": "O jurisdicionado não enviou nenhum documento que comprove  que  o  profissional  contratado  realizou  qualquer trabalho  que  justifique  a  despesa.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A33B",
+          "tipologia_irregularidade": "Ausência de comprovação da efetiva entrega dos produtos",
+          "descricao": "Ausência de comprovação da efetiva entrega dos produtos.",
+          "justificativa_tipologia": "A ausência de documentação que comprova a efetiva entrega dos serviços contratados é uma irregularidade, pois impede a verificação da correta aplicação dos recursos públicos e a comprovação de que o contrato foi cumprido.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Neste  sentido,  houve  a identificação  de  falhas  de  natureza  grave,  especialmente omissão  em  licitar,  contrariando  o  dever  de,  em  regra, omissão em comprovar a execução do contrato de assessoria jurídica no valor de R$ 36.000,00 .",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A omissão em licitar é uma irregularidade grave, pois impede a seleção da proposta mais vantajosa para a administração pública e fere o princípio da isonomia.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Nesse  sentido,  justifique  a  não  apresentação das  conciliações  bancárias  no  Processo  de  Prestação  de Contas Anual, as contas 'Conta Única RPPS' e 'Aplicações Financeiras  de  Liquidez  Imediata' representam  um  valor de R$ 545.569,63, sem prejuízo quanto a aplicabilidade do §2º, art. 20 da Lei nº. 2423/1996 - LOTCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Nesse  sentido,  justifique  a  não  apresentação das  conciliações  bancárias  no  Processo  de  Prestação  de Contas Anual, as contas 'Conta Única RPPS' e 'Aplicações Financeiras  de  Liquidez  Imediata' representam  um  valor de R$ 545.569,63, sem prejuízo quanto a aplicabilidade do §2º, art. 20 da Lei nº. 2423/1996  - LOTCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A ausência de conciliação bancária impede a verificação da exatidão dos saldos contábeis e a identificação de possíveis irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "20",
+              "descricao": "Regulamenta a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "O  responsável  enviou  defesa  às  fls.  166;  196/197,  porém, apesar  de  ter  encaminhado  o  Relatório  de  Razão  Analítico dos  dois  saldos solicitados,  a  Comissão  de  Inspeção  tinha solicitado a base  documental  de  tais  registros, pois a contabilidade não  mais  é  do  que  o  registro dos  fatos patrimoniais,  no  entanto  esse  registro  deve  possuir  base documental, que neste caso em questão seriam os extratos bancários,  os  quais  não  constam  nos  autos.  Desta  forma, concordo com a manifestação da Comissão de Inspeção e a manifestação  do  Representante  Ministerial  desta  Corte  de Contas, imputando glosa do valor integral ao responsável , tendo em vista que não foi devidamente solucionado o que foi apontado em questão.",
+      "trechos_identificados": [
+        {
+          "trecho": "O  responsável  enviou  defesa  às  fls.  166;  196/197,  porém, apesar  de  ter  encaminhado  o  Relatório  de  Razão  Analítico dos  dois  saldos solicitados,  a  Comissão  de  Inspeção  tinha solicitado a base  documental  de  tais  registros, pois a contabilidade não  mais  é  do  que  o  registro dos  fatos patrimoniais,  no  entanto  esse  registro  deve  possuir  base documental, que neste caso em questão seriam os extratos bancários,  os  quais  não  constam  nos  autos.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A ausência de extratos bancários impede a verificação da exatidão dos saldos contábeis e a identificação de possíveis irregularidades na movimentação financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que  devem  ser recolhidos  na  esfera  Estadual  para  o  órgão  Encargos Gerais do Estado - SEFAZ por descumprimento de/pelas improbidades apontadas.  O  recolhimento  deve  ser  feito  no  prazo  de  30  dias, com  a devida comprovação nestes autos (art. 72, III, 'a' da Lei nº. 2423/1996 e art.  308,  §3°,  da  Res.  04/2002).  Expirado  o  prazo  estabelecido,  e  não havendo recolhimento da referida quantia, determine ao Chefe do Poder Executivo daquele município que proceda a inscrição na Dívida Ativa do Município e a imediata cobrança judicial, cientificando este Tribunal de todas as medidas adotadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  devem  ser recolhidos  na  esfera  Estadual  para  o  órgão  Encargos Gerais do Estado - SEFAZ por descumprimento de/pelas improbidades apontadas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação de recolhimento na esfera Estadual para o órgão Encargos Gerais do Estado (SEFAZ) por descumprimento de improbidades está relacionada ao tema de Execução Financeira e Orçamentária, especificamente à inobservância do regime de conta única.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "O  recolhimento  deve  ser  feito  no  prazo  de  30  dias, com  a devida comprovação nestes autos (art. 72, III, 'a' da Lei nº. 2423/1996 e art.  308,  §3°,  da  Res.  04/2002).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação de recolhimento em um prazo específico, com comprovação nos autos, reforça a necessidade de cumprimento das normas de Execução Financeira e Orçamentária, especificamente o regime de conta única.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Res. 04/2002",
+              "artigo": "308",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        },
+        {
+          "trecho": "Expirado  o  prazo  estabelecido,  e  não havendo recolhimento da referida quantia, determine ao Chefe do Poder Executivo daquele município que proceda a inscrição na Dívida Ativa do Município e a imediata cobrança judicial, cientificando este Tribunal de todas as medidas adotadas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação ao Chefe do Poder Executivo para inscrição na Dívida Ativa e cobrança judicial está relacionada à gestão fiscal, especificamente à necessidade de adotar providências para cobrança de dívida ativa.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Senhor Sidney  Oliveira Miranda , Diretor  Geral  do  FUNPREB  e  Ordenador  de  Despesas,  à época, nos termos dos arts. 18, II, da LC 6/1991, c/c o art. 1º, II, art. 22, III,  'b'  e  'c',  todos  da  Lei  nº.  2423/1996  e  artigo  188,  §1º,  inciso  III, alíneas  'b'  e  'c',  a  Prestação  de  Contas  do  Fundo  de  Previdência Social do  Município de Beruri  - FUNPREB, referente ao exercício de 2015.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao  Sr. Sidney  Oliveira  Miranda, Diretor  Geral  do FUNPREB e Ordenador de Despesas, à época, no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), na forma prevista no art. 1º, XXVI, da Lei 2423/96, nos termos do art. 54, II, da Lei 2423/96 c/c o art. 308, VI, da Res. 04/2002, inciso acrescentado pelo art. 2º, da Resolução nº. 25/2012, pelo cometimento das impropriedades listadas neste voto de nºs. 01, 03, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18 e 19 do Relatório Conclusivo nº. 26/2016 , às fls. 206/219 dos autos, que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ por descumprimento de/pelas  improbidades  apontadas.  O  recolhimento  deve  ser  feito  no prazo de 30 dias. Recolha aos cofres da Fazenda Estadual o valor da multa  ora  aplicada,  com  a  devida  comprovação  nestes  autos.  Na hipótese de expirar este prazo, aquela importância deverá ser atualizada monetariamente  (artigo  55,  da  Lei  nº.  2423/1996),  ficando  a  DICREX autorizada a adotar as medidas previstas no artigo 173 da Subseção III, da Seção III, do Capítulo X, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Sr. Sidney  Oliveira  Miranda, Diretor  Geral  do FUNPREB e Ordenador de Despesas, à época, no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), na forma prevista no art. 1º, XXVI, da Lei 2423/96, nos termos do art. 54, II, da Lei 2423/96 c/c o art. 308, VI, da Res. 04/2002, inciso acrescentado pelo art. 2º, da Resolução nº. 25/2012, pelo cometimento das impropriedades listadas neste voto de nºs. 01, 03, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18 e 19 do Relatório Conclusivo nº. 26/2016 , às fls. 206/219 dos autos, que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ por descumprimento de/pelas  improbidades  apontadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A aplicação de multa ao responsável por diversas irregularidades aponta para uma falha grave na execução orçamentária e financeira, que pode envolver a burla do processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "1º, XXVI",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "54, II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Res. 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 25/2012",
+              "artigo": "2º",
+              "descricao": "Acrescenta inciso ao art. 308 da Resolução nº. 04/2002"
+            }
+          ]
+        },
+        {
+          "trecho": "O  recolhimento  deve  ser  feito  no prazo de 30 dias. Recolha aos cofres da Fazenda Estadual o valor da multa  ora  aplicada,  com  a  devida  comprovação  nestes  autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A imposição de um prazo para recolhimento e a necessidade de comprovação nos autos está relacionada à gestão fiscal, especificamente à necessidade de adotar providências para a cobrança da dívida ativa resultante da multa aplicada.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Na hipótese de expirar este prazo, aquela importância deverá ser atualizada monetariamente  (artigo  55,  da  Lei  nº.  2423/1996),  ficando  a  DICREX autorizada a adotar as medidas previstas no artigo 173 da Subseção III, da Seção III, do Capítulo X, da Resolução nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação de atualização monetária e autorização para a DICREX adotar medidas específicas em caso de não pagamento está relacionada à gestão fiscal, especificamente à necessidade de adotar providências para a cobrança da dívida ativa resultante da multa aplicada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "173",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhe à atual Administração do Fundo de Previdência Social do Município  de  Beruri  -  FUNPREB,  as  cópias  autênticas  das  peças emitidas  pela  Comissão  de  Inspeção  e  pela  Representante  Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe à atual Administração do Fundo de Previdência Social do Município  de  Beruri  -  FUNPREB,  as  cópias  autênticas  das  peças emitidas  pela  Comissão  de  Inspeção  e  pela  Representante  Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para encaminhar as peças à administração atual visa fortalecer o controle interno, garantindo que as falhas identificadas sejam conhecidas e evitadas em futuras prestações de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notifique o Senhor Sidney  Oliveira  Miranda , Diretor Geral do FUNPREB  e Ordenador de Despesas, à época, com cópia do Relatório/Voto  e  Acórdão  para  ter  ciência  do  decisório  e,  querendo, apresentem o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notifique o Senhor Sidney  Oliveira  Miranda , Diretor Geral do FUNPREB  e Ordenador de Despesas, à época, com cópia do Relatório/Voto  e  Acórdão  para  ter  ciência  do  decisório  e,  querendo, apresentem o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A notificação é um procedimento padrão para garantir que o responsável tenha ciência das decisões do tribunal, possibilitando o direito de defesa e recurso, sendo parte das rotinas administrativas do órgão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002-RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002-RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação para adotar as providências após a ocorrência da coisa julgada faz parte dos procedimentos internos do TCE e visa garantir o cumprimento das decisões tomadas, sendo parte das rotinas administrativas do órgão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "159",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "160",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "162",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

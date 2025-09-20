@@ -1,0 +1,185 @@
+{
+  "acordao": "224/2020",
+  "processo": "11395/2019",
+  "data_sessao": "10 de Março de 2020",
+  "orgao": "Fundo de Previdência Social do Município de Maués - SISPREV",
+  "municipio": "Maués",
+  "exercicio": "2018",
+  "responsavel": [
+    "Cleunildo de Oliveira Alves"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual, referente ao exercício de 2018, do Fundo de Previdência Social do Município de  Maués  -  SISPREV , de  responsabilidade  do Sr.  Cleunildo  de Oliveira  Alves ,  Gestor  do  SISPREV  e  Ordenador  de  Despesas,  à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual, referente ao exercício de 2018, do Fundo de Previdência Social do Município de  Maués  -  SISPREV , de  responsabilidade  do Sr.  Cleunildo  de Oliveira  Alves ,  Gestor  do  SISPREV  e  Ordenador  de  Despesas,  à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento regular com ressalvas, a ausência de notas explicativas é uma deficiência contábil relevante que pode comprometer a transparência e a compreensão das demonstrações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Cleunildo de Oliveira Alves, Gestor do Fundo de  Previdência  Social  do  Município  de  Maués  -  SISPREV e Ordenador de Despesas, à época, no valor de R$ 2.000,00 (dois mil reais)   na  forma  prevista  no  artigo  1º,  inciso  XXVI  e  52  da  Lei  nº. , 2423/1996  -  LOTCE,  c/c  o  artigo  308,  inciso  VII,  da  Resolução  nº. 04/2002  -  RITCE/AM,  atualizada  em  09.11.2018,  tendo  em  vista  as impropriedades não saneadas na Fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda SEFAZ.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Cleunildo de Oliveira Alves, Gestor do Fundo de  Previdência  Social  do  Município  de  Maués  -  SISPREV e Ordenador de Despesas, à época, no valor de R$ 2.000,00 (dois mil reais)   na  forma  prevista  no  artigo  1º,  inciso  XXVI  e  52  da  Lei  nº. , 2423/1996  -  LOTCE,  c/c  o  artigo  308,  inciso  VII,  da  Resolução  nº. 04/2002  -  RITCE/AM,  atualizada  em  09.11.2018,  tendo  em  vista  as impropriedades não saneadas na Fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda SEFAZ.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A aplicação de multa indica que houve irregularidades que justificaram a penalidade, o que é relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "52",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "308, inciso VII",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem que  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades em futuras prestações de contas:",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem que  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades em futuras prestações de contas:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para evitar impropriedades em futuras prestações de contas indica uma preocupação com as deficiências nos processos internos da organização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "188",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhar documentos comprobatórios que comprovem, no anexo da Dívida Flutuante, os pagamentos referentes ao IRRF e suas retenções;",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar documentos comprobatórios que comprovem, no anexo da Dívida Flutuante, os pagamentos referentes ao IRRF e suas retenções;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A falta de documentos comprobatórios indica uma falha na gestão contábil e na documentação das despesas, o que é relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Comprovar se o RPPS enviou o Demonstrativo da Política de Investimentos - DPIN à Secretaria de Políticas de Previdência Social  -  SPPS,  em  consonância com  o  artigo  1º,  parágrafo único,  c/c  o  artigo  6º,  incisos  IV  e  VI,  da  Lei  nº.  9.717/1998; artigo 5º, inciso XVI, alínea 'g', da Portaria MPS nº. 204/2008 e artigo 1º da Portaria MPS nº. 519/2011;",
+      "trechos_identificados": [
+        {
+          "trecho": "Comprovar se o RPPS enviou o Demonstrativo da Política de Investimentos - DPIN à Secretaria de Políticas de Previdência Social  -  SPPS,  em  consonância com  o  artigo  1º,  parágrafo único,  c/c  o  artigo  6º,  incisos  IV  e  VI,  da  Lei  nº.  9.717/1998; artigo 5º, inciso XVI, alínea 'g', da Portaria MPS nº. 204/2008 e artigo 1º da Portaria MPS nº. 519/2011;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A167B",
+          "tipologia_irregularidade": "O RPPS encaminhou o Demonstrativo da Política de Investimentos - DPIN à Secretaria de Previdência do Ministério da Economia",
+          "descricao": "O RPPS não enviou o Demonstrativo da Política de Investimentos - DPIN à Secretaria de Previdência do Ministério da Economia.",
+          "justificativa_tipologia": "A ausência de comprovação do envio do DPIN é uma falha grave que impede a supervisão e o controle dos investimentos do RPPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 9.717/1998",
+              "artigo": "6º, incisos IV e VI",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal e dá outras providências."
+            },
+            {
+              "norma": "Portaria MPS nº. 204/2008",
+              "artigo": "5º, inciso XVI, alínea 'g'",
+              "descricao": "Estabelece parâmetros para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            },
+            {
+              "norma": "Portaria MPS nº. 519/2011",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre os parâmetros para a alocação de recursos dos regimes próprios de previdência social (RPPS) e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhar o Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR do RPPS ao MPS, em consonância com o artigo 6º, da Lei nº.  9.717/1998, c/c o artigo 5º, inciso XVI, alínea 'd', da Portaria MPS nº. 204/2008 e artigo 22 da Portaria MPS nº. 402/2008.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar o Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR do RPPS ao MPS, em consonância com o artigo 6º, da Lei nº.  9.717/1998, c/c o artigo 5º, inciso XVI, alínea 'd', da Portaria MPS nº. 204/2008 e artigo 22 da Portaria MPS nº. 402/2008.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A168B",
+          "tipologia_irregularidade": "O Órgão Gestor do RPPS encaminhou o Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR à Secretaria de Previdência do Ministério da Economia",
+          "descricao": "O Órgão Gestor do RPPS não encaminhou o Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR à Secretaria de Previdência do Ministério da Economia.",
+          "justificativa_tipologia": "A determinação para encaminhar o DAIR indica uma falha na comunicação e transparência das informações financeiras do RPPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 9.717/1998",
+              "artigo": "6º",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal e dá outras providências."
+            },
+            {
+              "norma": "Portaria MPS nº. 204/2008",
+              "artigo": "5º, inciso XVI, alínea 'd'",
+              "descricao": "Estabelece parâmetros para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            },
+            {
+              "norma": "Portaria MPS nº. 402/2008",
+              "artigo": "22",
+              "descricao": "Dispõe sobre as normas para avaliação atuarial dos regimes próprios de previdência social (RPPS)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "acordao": "502/2020",
+  "processo": "11640/2019",
+  "data_sessao": "20 de Maio de 2020",
+  "orgao": "Comissão Geral de Licitação - CGL",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Sidney Coelho",
+    "Victor Fabian Soares Cipriano"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual,  da Comissão Geral de Licitação - CGL, referente ao exercício de 2018, de responsabilidade  do  Senhor Victor  Fabian  Soares  Cipriano , Ex  Presidente da Comissão Geral de Licitação - CGL, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual,  da Comissão Geral de Licitação - CGL, referente ao exercício de 2018, de responsabilidade  do  Senhor Victor  Fabian  Soares  Cipriano , Ex  Presidente da Comissão Geral de Licitação - CGL, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho é um julgamento formal da prestação de contas, sem indicar irregularidades contábeis específicas, ausência de notas explicativas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual,  da Comissão Geral de Licitação - CGL, referente ao exercício de 2018, de responsabilidade do Senhor Sidney Coelho , Ex - Vice Presidente da Comissão  Geral  de  Licitação  -  CGL  e  Ordenador  de  Despesas,  à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual,  da Comissão Geral de Licitação - CGL, referente ao exercício de 2018, de responsabilidade do Senhor Sidney Coelho , Ex - Vice Presidente da Comissão  Geral  de  Licitação  -  CGL  e  Ordenador  de  Despesas,  à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho é um julgamento formal da prestação de contas, sem indicar irregularidades contábeis específicas, ausência de notas explicativas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar",
+      "descricao": "Aplicar  Multa ao  Senhor Victor  Fabian  Soares  Cipriano, Ex  Presidente  da  Comissão  Geral  de  Licitação  -  CGL no  valor  de R$ 5.000,00 (cinco mil reais), na forma prevista no artigo 1º, inciso XXVI e 52  da  Lei  nº.  2423/1996  -  LOTCE,  c/c  o  artigo  308,  inciso  VII,  da Resolução nº. 04/2002 - RITCE/AM, atualizada em 09.11.2018, tendo em vista as impropriedades não saneadas na Fundamentação do Voto, que deverá ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Senhor Victor  Fabian  Soares  Cipriano, Ex  Presidente  da  Comissão  Geral  de  Licitação  -  CGL no  valor  de R$ 5.000,00 (cinco mil reais), na forma prevista no artigo 1º, inciso XXVI e 52  da  Lei  nº.  2423/1996  -  LOTCE,  c/c  o  artigo  308,  inciso  VII,  da Resolução nº. 04/2002 - RITCE/AM, atualizada em 09.11.2018, tendo em vista as impropriedades não saneadas na Fundamentação do Voto, que deverá ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Aplicação de multa, sem especificar a irregularidade contábil subjacente, apenas cita as impropriedades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "52",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "308, inciso VII",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar",
+      "descricao": "Aplicar  Multa ao  Senhor Sidney  Coelho, Ex  -  Vice  Presidente  da Comissão Geral de Licitação - CGL e Ordenador de Despesas, à época, no valor de R$ 5.000,00 (cinco mil reais), na forma prevista no artigo 1º,  inciso XXVI e 52 da Lei nº. 2423/1996 - LOTCE, c/c o artigo 308, inciso  VII,  da  Resolução  nº.  04/2002  -  RITCE/AM,  atualizada  em 09.11.2018, tendo em  vista as impropriedades não  saneadas  na Fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Senhor Sidney  Coelho, Ex  -  Vice  Presidente  da Comissão Geral de Licitação - CGL e Ordenador de Despesas, à época, no valor de R$ 5.000,00 (cinco mil reais), na forma prevista no artigo 1º,  inciso XXVI e 52 da Lei nº. 2423/1996 - LOTCE, c/c o artigo 308, inciso  VII,  da  Resolução  nº.  04/2002  -  RITCE/AM,  atualizada  em 09.11.2018, tendo em  vista as impropriedades não  saneadas  na Fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Aplicação de multa, sem especificar a irregularidade contábil subjacente, apenas cita as impropriedades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "52",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "308, inciso VII",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Justificar  os  envios  dos Balancetes Mensais a esta Corte de Contas,  via sistema  e-Contas,  dessa  CGL,  FORA  do  prazo estabelecido pela Lei Complementar nº 06/1991, art. 15, c/c o art. 20,  inciso  II,  com  nova  redação  dada  pela  Lei  Complementar  nº 24/2000 e Resolução TCE nº 13/2015.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar  os  envios  dos Balancetes Mensais a esta Corte de Contas,  via sistema  e-Contas,  dessa  CGL,  FORA  do  prazo estabelecido pela Lei Complementar nº 06/1991, art. 15, c/c o art. 20,  inciso  II,  com  nova  redação  dada  pela  Lei  Complementar  nº 24/2000 e Resolução TCE nº 13/2015.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Balancetes Mensais entregues fora do prazo, prejudicando o acompanhamento tempestivo das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15",
+              "descricao": "Dispõe sobre a organização da administração financeira do Estado, em especial sobre os balancetes mensais."
+            },
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "20, inciso II",
+              "descricao": "Dispõe sobre a organização da administração financeira do Estado, em especial sobre os balancetes mensais."
+            },
+            {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "Não consta",
+              "descricao": "Nova redação dada pela Lei Complementar nº 24/2000"
+            },
+            {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre os procedimentos de envio de informações ao TCE/AM por meio eletrônico."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Justificar a ausência do Inventário dos Bens Patrimoniais dessa CGL, junto a Prestação de Contas, uma vez que, foi encaminhado somente  o  resumo por Grupo  Contábil, em  cumprimento  a Resolução nº 05/1990 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar a ausência do Inventário dos Bens Patrimoniais dessa CGL, junto a Prestação de Contas, uma vez que, foi encaminhado somente  o  resumo por Grupo  Contábil, em  cumprimento  a Resolução nº 05/1990 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência do inventário detalhado impede o controle adequado do patrimônio público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 05/1990 - TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a apresentação de informações patrimoniais ao TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Justificar o valor dos itens registrado no Almoxarifado de Bens de Consumo dessa CGL.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar o valor dos itens registrado no Almoxarifado de Bens de Consumo dessa CGL.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A4B",
+          "tipologia_irregularidade": "Inventário do estoque de materiais sem indicação do valor total dos materiais",
+          "descricao": "Inventário do estoque de materiais sem indicação do valor total dos materiais",
+          "justificativa_tipologia": "Falta de justificativa sobre o valor registrado no almoxarifado dificulta o controle dos bens de consumo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Justificar as impropriedades referentes à contratação da empresa  LBC  Conservadora  e  Serviços  LTDA.,  sem  cobertura contratual, com pagamentos a título de Indenização (natureza de despesa nº 33909301), que teve como objeto Serviços de Agente de Portaria.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar as impropriedades referentes à contratação da empresa  LBC  Conservadora  e  Serviços  LTDA.,  sem  cobertura contratual, com pagamentos a título de Indenização (natureza de despesa nº 33909301), que teve como objeto Serviços de Agente de Portaria.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Pagamento de indenização sem cobertura contratual burla o processo legal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Ausência do Projeto Básico com o detalhamento do objeto, em cumprimento ao art. 7º, I, da Lei nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do Projeto Básico com o detalhamento do objeto, em cumprimento ao art. 7º, I, da Lei nº 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "A ausência de detalhamento no projeto básico dificulta a correta execução e fiscalização da obra.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "7º, I",
+              "descricao": "Dispõe sobre o detalhamento do projeto básico para licitações e contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Ausência da pesquisa de preços no mercado (no mínimo três propostas), em cumprimento ao art. 40, § 2º, II e art. 43, IV, da Lei nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência da pesquisa de preços no mercado (no mínimo três propostas), em cumprimento ao art. 40, § 2º, II e art. 43, IV, da Lei nº 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A ausência de pesquisa de preços pode levar ao sobrepreço.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "40, § 2º, II",
+              "descricao": "Dispõe sobre a necessidade de pesquisa de preços para licitações e contratos."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "43, IV",
+              "descricao": "Dispõe sobre a necessidade de pesquisa de preços para licitações e contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Ausência  da  justificativa que  caracterizou  a  situação  de urgência, em cumprimento ao art. 26, I, da Lei nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  da  justificativa que  caracterizou  a  situação  de urgência, em cumprimento ao art. 26, I, da Lei nº 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A falta de justificativa para a situação de urgência impede a verificação da legalidade da dispensa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "26, I",
+              "descricao": "Dispõe sobre a justificativa necessária para a dispensa de licitação em casos de urgência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Ausência da razão da escolha do fornecedor, em cumprimento ao art. 26, II, da Lei nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência da razão da escolha do fornecedor, em cumprimento ao art. 26, II, da Lei nº 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A ausência da razão da escolha do fornecedor impede a verificação da economicidade da contratação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "26, II",
+              "descricao": "Dispõe sobre a necessidade de justificativa para a escolha do fornecedor em processos de dispensa de licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Ausência do Termo de Ajuste de Contas, documento necessário para proceder a liquidação dos valores devidos, no qual deverá constar a descrição dos serviços e/ou materiais, a atestação minuciosa dos serviços prestados e/ou recebimento de materiais e a  quitação,  sem  ressalvas,  pelo  prestador  dos  serviços  e/ou fornecedor de materiais, em cumprimento ao art. 63, § 2º, I, da Lei nº 4.320/1964.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do Termo de Ajuste de Contas, documento necessário para proceder a liquidação dos valores devidos, no qual deverá constar a descrição dos serviços e/ou materiais, a atestação minuciosa dos serviços prestados e/ou recebimento de materiais e a  quitação,  sem  ressalvas,  pelo  prestador  dos  serviços  e/ou fornecedor de materiais, em cumprimento ao art. 63, § 2º, I, da Lei nº 4.320/1964.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A falta de documento de ajuste de contas dificulta a comprovação da despesa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "63, § 2º, I",
+              "descricao": "Dispõe sobre a obrigatoriedade de documentos comprobatórios para a liquidação de despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Justificar  os  pagamentos  referentes  aos  Contratos  e  Termos Aditivos  aos  referidos  contratos,  firmado  com  a  empresa  LBC Conservadora e Serviços LTDA., cujo objeto foi Serviços de Agente de Portaria nas dependências da nova sede da CGL.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar  os  pagamentos  referentes  aos  Contratos  e  Termos Aditivos  aos  referidos  contratos,  firmado  com  a  empresa  LBC Conservadora e Serviços LTDA., cujo objeto foi Serviços de Agente de Portaria nas dependências da nova sede da CGL.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A21B",
+          "tipologia_irregularidade": "Deficiências no controle e fiscalização da execução contratual",
+          "descricao": "Deficiências no controle e fiscalização da execução contratual.",
+          "justificativa_tipologia": "A determinação para justificar os pagamentos sugere que há dúvidas sobre a regularidade da execução contratual.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas: Justificar a necessidade da Contratação da empresa EVEREST Arquitetura e Engenharia LTDA., vencedora da Tomada de Preços, para reforma  e  adequação  da  nova  sede  da  Comissão Geral  de Licitação  do  Poder  Executivo  -  CGL,  localizada  na  Rua  Belo Horizonte s/nº -Bairro Adrianópolis, conforme despacho  de Homologação, publicado no Diário Oficial do Estado do Amazonas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar a necessidade da Contratação da empresa EVEREST Arquitetura e Engenharia LTDA., venced

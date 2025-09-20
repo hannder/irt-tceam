@@ -1,0 +1,323 @@
+{
+  "acordao": "51/2014",
+  "processo": "10050/2012",
+  "data_sessao": "19 de novembro de 2014",
+  "orgao": "Prefeitura Municipal de Autazes",
+  "municipio": "Autazes",
+  "exercicio": "2011",
+  "responsavel": [
+    "Raimundo Wanderley Penalber Sampaio"
+  ],
+  "itens": [
+    {
+      "tipo": "JULGAR IRREGULARES",
+      "descricao": "JULGAR  IRREGULARES a PRESTAÇÃO  DE    CONTAS    DA DE CONTAS DA PREFEITURA  MUNICIPAL  DE  AUTAZES , , relativa  ao EXERCÍCIO  FINANCEIRO  DE 2011 , na Gestão do Senhor RAIMUNDO WANDERLAN PENALBER SAMPAIO , Prefeito e Ordenador de Despesas, à época, em conformidade com o artigo 71, inciso II e artigo 75, da CF/88 c/c artigo 40, II, da CE/89 e artigo 1º, inciso II, artigo 2º e 5º da lei nº 2423/96 com fundamento no artigo 18, da LC nº 06/91 c/c o artigo 22, inciso III, alínea 'b' c/c artigo 25, da Lei nº 2423/96.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "CONSIDERAR EM DÉBITO",
+      "descricao": "CONSIDERAR  EM  DÉBITO o Senhor RAIMUNDO WANDERLAN PENALBER  SAMPAIO ,  Prefeito  e  Ordenador  de  Despesas,  à  época,  nos  termos  das alíneas 'b' e 'c' do inciso III e § 2º do art. 22 da Lei 2.423/96  - TCE/AM e determine a devolução aos cofres públicos do montante de R$ 1.101.240,00 (Um Milhão, Cento e Um Mil,  Duzentos  e Quarenta  Reais), corrigido  nos moldes  do  artigo  305,  da  Resolução  nº 04/2001-TCE/AM, face à impropriedade descrita no ÍTEM 8.9 do Relatório/Voto.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "FIXAR O PRAZO",
+      "descricao": "FIXAR O PRAZO DE 30 (TRINTA) DIAS, PARA O RECOLHIMENTO  DOS  VALORES  IMPUTADOS  AOS  COFRES  MUNICIPAIS  DE AUTAZES, acrescidos  das  atualizações monetárias  e  dos  juros  de  mora  devidos,  com comprovação perante esta Corte de Contas nos termos do art. 72, III, alínea 'a', da Lei nº 2.423/96  -  TCE/AM  (Lei  Orgânica),  c/c  o  art.  169,  I  e  art.  306,  §  único,  III,  ambos  da Resolução nº 04/2002 - TCE/AM (Regimento Interno).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "RECOMENDAR À PREFEITURA MUNICIPAL DE AUTAZES, caso o valor da  condenação  não  venha  a  ser  recolhida  dentro  do  prazo  estipulado, A INSTAURAÇÃO DA COBRANÇA EXECUTIVA E A INSCRIÇÃO DO DÉBITO NA DÍVIDA ATIVA, em consonância com o art. 72, III, alínea 'a' e art. 73, ambos da Lei nº 2.423/96 TCE/AM (Lei Orgânica), c/c o art. 169,  II e  art. 173  e 308,  § 6º, todos da Resolução nº 04/2002 - TCE/AM (Regimento Interno).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "EM DECORRÊNCIA DOS INDÍCIOS DE IMPROBIDADE ADMINISTRATIVA (Lei 8.429/92) RECOMENDAR ao Ministério Público de Contas que, se for o caso, REPRESENTE ao MINISTÉRIO PÚBLICO ESTADUAL acerca das irregularidades  consignadas  neste  caderno  processual,  colocando-se  os  autos  à  sua disposição, para que sejam adotadas as medidas cabíveis à espécie, nos termos do artigo 114,  inciso  III,  da  Lei  Estadual  nº  2.423/1996  e  artigo  54,  inciso  XII,  da  Resolução  nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "ENCAMINHAR",
+      "descricao": "ENCAMINHAR  À  SECRETARIA  DA  RECEITA  FEDERAL  DO BRASIL - SRFB em conformidade com o artigo 2º da LF 11.457/07, às impropriedades contidas  nos ITENS  8.6,  8.8 e 8.10 do  Relatório/Voto  ( Restrições  10,  12 ,  e 14 ,  do Relatório Conclusivo - DICAMI).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAR A PREFEITURA MUNICIPAL DE AUTAZES",
+      "descricao": "REALIZAÇÃO  DE  CONCURSO  PÚBLICO  URGENTE para aumentar, sobremaneira, o controle interno e a FISCALIZAÇÃO INTERCORRENTE no âmbito daquele município e/ou PROCESSO SELETIVO SIMPLIFICADO , ITEM 8.20 do Relatório/Voto ( Restrição 37 , do Relatório Conclusivo -DICAMI)  nos  termos  da  Lei  nº  91/2011,  com  atenção  aos dispositivos da Constituição Federal e da Resolução nº 04/2002TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "REALIZAÇÃO  DE  CONCURSO  PÚBLICO  URGENTE para aumentar, sobremaneira, o controle interno e a FISCALIZAÇÃO INTERCORRENTE no âmbito daquele município e/ou PROCESSO SELETIVO SIMPLIFICADO , ITEM 8.20 do Relatório/Voto ( Restrição 37 , do Relatório Conclusivo -DICAMI)  nos  termos  da  Lei  nº  91/2011,  com  atenção  aos dispositivos da Constituição Federal e da Resolução nº 04/2002TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação de concurso público urgente para aumentar o controle interno sugere que o controle interno existente é inadequado ou insuficientemente implementado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 91/2011",
+              "artigo": "Não consta",
+              "descricao": "A recomendação de realização de concurso público  nos termos  da  Lei  nº  91/2011."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "Não consta",
+              "descricao": "A recomendação de realização de concurso público com atenção aos dispositivos da Constituição Federal."
+            },
+            {
+              "norma": "Resolução nº 04/2002TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "A recomendação de realização de concurso público com atenção aos dispositivos da Resolução nº 04/2002TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR A PREFEITURA MUNICIPAL DE AUTAZES",
+      "descricao": "OBSERVE E CUMPRA as  determinações  insculpida  no  art. 164, § 3º da Constituição Federal e art. 43 da Lei Complementar nº 101/00, que se refere à obrigatoriedade da  permanência de saldo em instituição bancária;",
+      "trechos_identificados": [
+        {
+          "trecho": "OBSERVE E CUMPRA as  determinações  insculpida  no  art. 164, § 3º da Constituição Federal e art. 43 da Lei Complementar nº 101/00, que se refere à obrigatoriedade da  permanência de saldo em instituição bancária",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A deliberação trata da necessidade de observar o princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "164, § 3º",
+              "descricao": "Obrigatoriedade da  permanência de saldo em instituição bancária."
+            },
+            {
+              "norma": "Lei Complementar nº 101/00",
+              "artigo": "43",
+              "descricao": "Obrigatoriedade da  permanência de saldo em instituição bancária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR A PREFEITURA MUNICIPAL DE AUTAZES",
+      "descricao": "OBSERVE E CUMPRA as disposições da Lei n° 8.666/1993;",
+      "trechos_identificados": [
+        {
+          "trecho": "OBSERVE E CUMPRA as disposições da Lei n° 8.666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "A deliberação trata da Lei Geral de Licitações",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/1993",
+              "artigo": "Não consta",
+              "descricao": "Disposições da Lei n° 8.666/1993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR A PREFEITURA MUNICIPAL DE AUTAZES",
+      "descricao": "O ENVIO DOS DOCUMENTOS REFERENTES AOS APOSENTADOS  E  PENSIONISTAS daquela  Municipalidade nos moldes da Resolução nº 02/1990 e artigos 31, I, II III, §§§ 1º 2º e 3º da Lei nº 2423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "O ENVIO DOS DOCUMENTOS REFERENTES AOS APOSENTADOS  E  PENSIONISTAS daquela  Municipalidade nos moldes da Resolução nº 02/1990 e artigos 31, I, II III, §§§ 1º 2º e 3º da Lei nº 2423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A2B",
+          "tipologia_irregularidade": "Desatualização das bases cadastrais dos RPPS",
+          "descricao": "Foi identificado que RPPS não regulamentou a realização de censos previdenciários periódicos, de modo que impossibilite auditar os dados de suas bases cadastrais.",
+          "justificativa_tipologia": "Refere-se ao envio de documentos relacionados a aposentados e pensionistas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 02/1990",
+              "artigo": "Não consta",
+              "descricao": "Envio de documentos referentes aos aposentados e pensionistas"
+            },
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "31, I, II III, §§§ 1º 2º e 3º",
+              "descricao": "Envio de documentos referentes aos aposentados e pensionistas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR A PROXIMA COMISSÃO DE INSPEÇÃO",
+      "descricao": "Verifique aplicação do saldo remanescente para o exercício de 2011,  na  monta  de R$  12.254.245,65 ,  e  se  as  consignações retidas  no  exercício  e  restos  a  pagar  foram  de  fato  quitados, tendo em vista esta disponibilidade financeira",
+      "trechos_identificados": [
+        {
+          "trecho": "Verifique aplicação do saldo remanescente para o exercício de 2011,  na  monta  de R$  12.254.245,65 ,  e  se  as  consignações retidas  no  exercício  e  restos  a  pagar  foram  de  fato  quitados, tendo em vista esta disponibilidade financeira",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "A recomendação solicita a verificação da aplicação do saldo remanescente, o que está ligado aos restos a pagar.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR A PROXIMA COMISSÃO DE INSPEÇÃO",
+      "descricao": "Que as Comissões vindouras deste Tribunal, determinadas a procederem a inspeção ordinária 'in loco' na Prefeitura Municipal ora em comento, em exercícios futuros, que observem se  há  reincidência  nas  restrições  lançadas  no RELATÓRIO CONCLUSIVO  Nº  57/2012-DICAMI , ás fls. 744/806, caso persistam, DEVERÃO  SER PASSIVAS  DE  IMPOSIÇÕES  DE MULTA por  esta  Corte  de  Contas  aos RESPONSÀVEIS pela execução das despesas, na forma prevista no artigo 54, inciso VII, da Lei 2.423/96-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Que as Comissões vindouras deste Tribunal, determinadas a procederem a inspeção ordinária 'in loco' na Prefeitura Municipal ora em comento, em exercícios futuros, que observem se  há  reincidência  nas  restrições  lançadas  no RELATÓRIO CONCLUSIVO  Nº  57/2012-DICAMI , ás fls. 744/806, caso persistam, DEVERÃO  SER PASSIVAS  DE  IMPOSIÇÕES  DE MULTA por  esta  Corte  de  Contas  aos RESPONSÀVEIS pela execução das despesas, na forma prevista no artigo 54, inciso VII, da Lei 2.423/96-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Esta recomendação de observância da reincidência das restrições está ligada à necessidade de melhoria do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96-TCE/AM",
+              "artigo": "54, inciso VII",
+              "descricao": "Imposição de multa aos responsáveis pela execução das despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR A PROXIMA COMISSÃO DE INSPEÇÃO",
+      "descricao": "E  ainda, remeta  cópia  da  documentação  pertinente  as decisões  desta  Corte  e  as  auditorias  realizadas  ao  Ministério Público  do  Estado,  para  ajuizamento  das  ações civis  e  penais cabíveis,  em  atenção  ao  artigo,  22,  inciso  III,  §  3º,  da  Lei nº2423/96 c/c o artigo 190, inciso III, alínea 'b', do Regimento Interno desta Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "E  ainda, remeta  cópia  da  documentação  pertinente  as decisões  desta  Corte  e  as  auditorias  realizadas  ao  Ministério Público  do  Estado,  para  ajuizamento  das  ações civis  e  penais cabíveis,  em  atenção  ao  artigo,  22,  inciso  III,  §  3º,  da  Lei nº2423/96 c/c o artigo 190, inciso III, alínea 'b', do Regimento Interno desta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "A necessidade de comunicação ao Ministério Público sobre as auditorias se relaciona com o escopo e a efetividade do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº2423/96",
+              "artigo": "22, inciso III, § 3º",
+              "descricao": "Remessa de documentação ao Ministério Público para ações cabíveis"
+            },
+            {
+              "norma": "Regimento Interno desta Corte de Contas",
+              "artigo": "190, inciso III, alínea 'b'",
+              "descricao": "Remessa de documentação ao Ministério Público para ações cabíveis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR A PROXIMA COMISSÃO DE INSPEÇÃO",
+      "descricao": "Quanto  aos ITENS  17  e  18 do RELATÓRIO  CONCLUSIVO  Nº 57/2012-DICAMI , às fls. 744/806, por se tratar de RECURSOS FEDERAIS , que seja dado ciência do teor das impropriedades listadas nos itens supramencionados ao TRIBUNAL DE CONTAS DA UNIÃO-TCU.",
+      "trechos_identificados": [
+        {
+          "trecho": "Quanto  aos ITENS  17  e  18 do RELATÓRIO  CONCLUSIVO  Nº 57/2012-DICAMI , às fls. 744/806, por se tratar de RECURSOS FEDERAIS , que seja dado ciência do teor das impropriedades listadas nos itens supramencionados ao TRIBUNAL DE CONTAS DA UNIÃO-TCU.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "A comunicação ao TCU sobre as impropriedades com recursos federais está relacionada com o escopo de atuação do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar MULTA",
+      "descricao": "Aplicar MULTA no  valor  de R$ 1.096,03 (Um  Mil, Noventa e Seis Reais e Três Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER SAMPAIO , Prefeito  e  Ordenador  de  Despesas,  à  época,  em  razão  do ATRASO na  remessa  da Prestação de Contas Anuais a este Tribunal de Contas nos termos do art. 308, inciso II, com nova redação dada pelo artigo 2º,  da Resolução nº 25/2012-TCE/AM ( ITEM 8.1 do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  valor  de R$ 1.096,03 (Um  Mil, Noventa e Seis Reais e Três Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER SAMPAIO , Prefeito  e  Ordenador  de  Despesas,  à  época,  em  razão  do ATRASO na  remessa  da Prestação de Contas Anuais a este Tribunal de Contas nos termos do art. 308, inciso II, com nova redação dada pelo artigo 2º,  da Resolução nº 25/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na entrega da prestação de contas, um descumprimento de prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Multa por atraso na remessa da Prestação de Contas Anuais"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308, inciso II",
+              "descricao": "Multa por atraso na remessa da Prestação de Contas Anuais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar MULTA",
+      "descricao": "Aplicar MULTA no  valor  de R$  13.152,36 (Treze  Mil,  Cento  e Cinquenta e Dois Reais e Trinta e Seis Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER  SAMPAIO , Prefeito  e  Ordenador  de  Despesas,  à  época,  em  razão  do ATRASO na  remessa  da  Movimentação  Contábil  para  o  Sistema ACP referente  aos meses de JANEIRO a JUNHO e o NÃO ENVIO dos meses de JULHO a DEZEMBRO , nos moldes a seguir: ● R$ 1.096,03 (Um Mil, Noventa e Seis Reais e Três Centavos) por CADA MÊS  DE  ATRASO  FORA  DO  PRAZO  ESTABELECIDO  E  PELO  NÃO  ENVIO  DOS DADOS VIA ACP , totalizando o valor acima mencionado, tendo em vista a impropriedade descrita  no ITEM  8.2 , deste  Relatório/Voto,  com  fulcro  no  artigo  308,  inciso  II,  da Resolução nº 04/2002-TCE/AM, conforme tabela abaixo:",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  valor  de R$  13.152,36 (Treze  Mil,  Cento  e Cinquenta e Dois Reais e Trinta e Seis Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER  SAMPAIO , Prefeito  e  Ordenador  de  Despesas,  à  época,  em  razão  do ATRASO na  remessa  da  Movimentação  Contábil  para  o  Sistema ACP referente  aos meses de JANEIRO a JUNHO e o NÃO ENVIO dos meses de JULHO a DEZEMBRO , nos moldes a seguir: ● R$ 1.096,03 (Um Mil, Noventa e Seis Reais e Três Centavos) por CADA MÊS  DE  ATRASO  FORA  DO  PRAZO  ESTABELECIDO  E  PELO  NÃO  ENVIO  DOS DADOS VIA ACP , totalizando o valor acima mencionado, tendo em vista a impropriedade descrita  no ITEM  8.2 , deste  Relatório/Voto,  com  fulcro  no  artigo  308,  inciso  II,  da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A3B",
+          "tipologia_irregularidade": "Não envio de Balancetes Mensais",
+          "descricao": "Não envio de Balancetes Mensais.",
+          "justificativa_tipologia": "A multa é aplicada devido ao não envio de dados e informações contábeis, caracterizando uma falha no envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308, inciso II",
+              "descricao": "Multa por atraso na remessa da Movimentação Contábil para o Sistema ACP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar MULTA",
+      "descricao": "Aplicar MULTA no  valor  de R$ 1.096,03 (Um Mil, Noventa e Seis Reais e Três Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER SAMPAIO , Prefeito e Ordenador  de  Despesas,  à  época,  por  cada  bimestre  em  que  houve O ATRASO/NÃO ENCAMINHAMENTO DOS RELATÓRIOS RESUMIDOS DA EXECUÇÃO ORÇAMENTÁRIA ,  ou  seja,  1º,  2º,  3º,  4º,  5º  e  6º  bimestres  (conforme  quadro  abaixo), totalizando o montante de R$ 6.576,18 ,  (Seis  Mil,  Quinhentos e Setenta e Seis Reais e Dezoito  Centavos)      em  conformidade  com  o  artigo  308,  II,  da  Resolução  nº  04/2002TCE/AM, com nova redação dada pelo  artigo 2º, da Resolução nº 25/2012-TCE/AM ( ITEM 8.3 do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  valor  de R$ 1.096,03 (Um Mil, Noventa e Seis Reais e Três Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER SAMPAIO , Prefeito e Ordenador  de  Despesas,  à  época,  por  cada  bimestre  em  que  houve O ATRASO/NÃO ENCAMINHAMENTO DOS RELATÓRIOS RESUMIDOS DA EXECUÇÃO ORÇAMENTÁRIA ,  ou  seja,  1º,  2º,  3º,  4º,  5º  e  6º  bimestres  (conforme  quadro  abaixo), totalizando o montante de R$ 6.576,18 ,  (Seis  Mil,  Quinhentos e Setenta e Seis Reais e Dezoito  Centavos)      em  conformidade  com  o  artigo  308,  II,  da  Resolução  nº  04/2002TCE/AM, com nova redação dada pelo  artigo 2º, da Resolução nº 25/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa se refere ao atraso no encaminhamento dos Relatórios Resumidos da Execução Orçamentária (RREO), que é um descumprimento de prazos e normas de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Multa por atraso no encaminhamento dos Relatórios Resumidos da Execução Orçamentária"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Multa por atraso no encaminhamento dos Relatórios Resumidos da Execução Orçamentária"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar MULTA",
+      "descricao": "Aplicar MULTA no  valor  de R$ 1.096,03 (Um Mil, Noventa e Seis Reais e Três Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER SAMPAIO , Prefeito e Ordenador  de  Despesas,  à  época,  por  cada  semestre  em  que  houve ATRASO/NÃO ENCAMINHAMENTO DOS RELATÓRIOS RESUMIDOS DA EXECUÇÃO ORÇAMENTÁRIA ,  ou  seja,  1º,  2º,  semestre  (conforme  quadro  abaixo),  totalizando  o montante de R$ 2.192,06 , (Dois Mil, Cento e Noventa e Dois Reais e Seis Centavos)   em conformidade com o artigo 308, II, da Resolução nº 04/2002-TCE/AM, com nova redação dada pelo  artigo 2º, da Resolução nº 25/2012-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  valor  de R$ 1.096,03 (Um Mil, Noventa e Seis Reais e Três Centavos), ao Senhor RAIMUNDO WANDERLAN PENALBER SAMPAIO , Prefeito e Ordenador  de  Despesas,  à  época,  por  cada  semestre  em  que  houve ATRASO/NÃO ENCAMINHAMENTO DOS RELATÓRIOS RESUMIDOS DA EXECUÇÃO ORÇAMENTÁRIA ,  ou  seja,  1º,  2º,  semestre  (conforme  quadro  abaixo),  totalizando  o montante de R$ 2.192,06 , (Dois Mil, Cento e Noventa e Dois Reais e Seis Centavos)   em conformidade com o artigo 308, II, da Resolução nº 04/20

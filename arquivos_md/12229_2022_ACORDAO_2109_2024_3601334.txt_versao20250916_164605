@@ -1,0 +1,125 @@
+{
+  "acordao": "2109/2024",
+  "processo": "12229/2022",
+  "data_sessao": "20 de dezembro de 2024",
+  "orgao": "Secretaria Municipal de Educação - SEMED de Manaus",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Pauderney Tomaz Avelino"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Secretaria Municipal de Educação de Manaus -SEMED, exercício 2021, sob a responsabilidade  do Sr.  Pauderney  Tomaz  Avelino ,  Secretário  da SEMED, à época, nos termos do art. 1º, II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002- TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual da Secretaria Municipal de Educação de Manaus -SEMED, exercício 2021, sob a responsabilidade  do Sr.  Pauderney  Tomaz  Avelino ,  Secretário  da SEMED, à época, nos termos do art. 1º, II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002- TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho em questão relata o julgamento formal da prestação de contas, classificando-a como regular. Este tipo de informação não indica, por si só, uma falha ou irregularidade na gestão, mas sim o resultado da avaliação das contas apresentadas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a organização da Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Regimento interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Secretaria Municipal De Educação - Semed que:\n- atualize o  Portal da  Transparência  com  todos  os  dados ausentes referente às diárias concedidas no decorrer do exercício de 2021;\n- observe com maior rigor dos preceitos disposto no art. 4º c/c art. 12, §1º, ambos da Lei nº 4.320/64;\n- instrua melhor a Prestação de Contas de exercícios futuros, a fim de que sejam apresentados todos os documentos necessários para a demonstração do atendimento das normas que regem a Administração  Pública,  com  destaque  para  a  Lei  de  Licitações  e Contratos.",
+      "trechos_identificados": [
+        {
+          "trecho": "atualize o  Portal da  Transparência  com  todos  os  dados ausentes referente às diárias concedidas no decorrer do exercício de 2021",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho descreve a ausência de atualização do Portal da Transparência com dados sobre diárias, o que indica uma falha na transparência da gestão pública, cabendo a tipologia mencionada.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "observe com maior rigor dos preceitos disposto no art. 4º c/c art. 12, §1º, ambos da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho recomenda maior rigor na observância de preceitos da Lei nº 4.320/64, indicando uma possível fragilidade no cumprimento dessas normas, por isso foi selecionado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "4º",
+              "descricao": "Orçamento da despesa"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "12, §1º",
+              "descricao": "Regras para suplementação ou abertura de créditos"
+            }
+          ]
+        },
+        {
+          "trecho": "instrua melhor a Prestação de Contas de exercícios futuros, a fim de que sejam apresentados todos os documentos necessários para a demonstração do atendimento das normas que regem a Administração  Pública,  com  destaque  para  a  Lei  de  Licitações  e Contratos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho recomenda a melhor instrução da prestação de contas, sugerindo que as prestações atuais são deficientes e podem não atender às normas da Administração Pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Pauderney Tomaz Avelino , pessoalmente e por meio de  seus  Advogados  constituídos,  acerca  do  decisum  a  ser  exarado por este Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Pauderney Tomaz Avelino , pessoalmente e por meio de  seus  Advogados  constituídos,  acerca  do  decisum  a  ser  exarado por este Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Este trecho é meramente informativo sobre o processo. Portanto, não é uma irregularidade, nem relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo após o trânsito em julgado.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo após o trânsito em julgado.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Este trecho é meramente informativo sobre o processo. Portanto, não é uma irregularidade, nem relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

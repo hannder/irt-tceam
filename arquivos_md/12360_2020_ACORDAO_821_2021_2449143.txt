@@ -1,0 +1,172 @@
+{
+  "acordao": "821/2021",
+  "processo": "12360/2020",
+  "data_sessao": "10 de Agosto de 2021",
+  "orgao": "Agência Amazonense de Desenvolvimento Cultural - AADC",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Karenina Kanavati Lasmar"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual da Agência Amazonense de Desenvolvimento Cultural - AADC, sob responsabilidade da  Sra. Karenina  Kanavati  Lasmar ,  exercício  de  2019,  nos  termos  do art. 22, inciso II, da Lei nº 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual da Agência Amazonense de Desenvolvimento Cultural - AADC, sob responsabilidade da  Sra. Karenina  Kanavati  Lasmar ,  exercício  de  2019,  nos  termos  do art. 22, inciso II, da Lei nº 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento das contas como regular com ressalvas indica que foram encontradas impropriedades de natureza contábil",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Base legal para o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa à  Sra. Karenina  Kanavati  Lasmar, gestora  da  Agência Amazonense  de  Desenvolvimento  Cultural  -  AADC  no  exercício  de 2019,  no  valor  de R$  4.000,00 (Quatro  mil  reais),  pela  impropriedade remanescente  na  restrição  04  (letras  'a',  'b',  'c'  e  'd')  do  Relatório Conclusivo nº 11/2020-DICAI (fls. 1312/1351) e do Relatório/Voto, com base no art. 308, VII da Resolução nº 04/2002 - TCE/AM, com redação dada pela Resolução n. 04/2018 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa à  Sra. Karenina  Kanavati  Lasmar, gestora  da  Agência Amazonense  de  Desenvolvimento  Cultural  -  AADC  no  exercício  de 2019,  no  valor  de R$  4.000,00 (Quatro  mil  reais),  pela  impropriedade remanescente  na  restrição  04  (letras  'a',  'b',  'c'  e  'd')  do  Relatório Conclusivo nº 11/2020-DICAI (fls. 1312/1351) e do Relatório/Voto, com base no art. 308, VII da Resolução nº 04/2002 - TCE/AM, com redação dada pela Resolução n. 04/2018 - TCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada devido a impropriedade na prestação de contas, indicando falhas nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "308, VII",
+              "descricao": "Base legal para a aplicação da multa."
+            },
+            {
+              "norma": "Resolução n. 04/2018 - TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Redação dada pela Resolução n. 04/2018 - TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixação de prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para que o responsável recolha  o  valor  da  multa,  acima  registrado,  aos  Cofres  da Fazenda Pública Estadual para o órgão Fundo de Apoio ao Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias para que o responsável recolha  o  valor  da  multa,  acima  registrado,  aos  Cofres  da Fazenda Pública Estadual para o órgão Fundo de Apoio ao Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A fixação do prazo para recolhimento da multa é um procedimento padrão para execução financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Obrigatoriedade",
+      "descricao": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Obrigatoriedade de encaminhar comprovante de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Obrigatoriedade de encaminhar o comprovante de pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Advertência",
+      "descricao": "O não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal importará  na  continuidade  da  cobrança  administrativa  ou judicial do  título  executivo  (art.  73  da  Lei  Orgânica  do TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o referido prazo, a adotar as medidas previstas nas subseções III e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido  no  Acordo  de  Cooperação  firmado  com  o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável;",
+      "trechos_identificados": [
+        {
+          "trecho": "O não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal importará  na  continuidade  da  cobrança  administrativa  ou judicial do  título  executivo  (art.  73  da  Lei  Orgânica  do TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o referido prazo, a adotar as medidas previstas nas subseções III e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido  no  Acordo  de  Cooperação  firmado  com  o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A advertência sobre a continuidade da cobrança administrativa ou judicial reforça o aspecto financeiro e orçamentário da decisão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Base legal para a cobrança administrativa ou judicial do título executivo."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Medidas a serem adotadas pelo DERED em caso de não pagamento da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Agência Amazonense de Desenvolvimento Cultural AADC que promova a adequação do Portal de Transparência na forma da Lei n. 12527/2011 - Lei de Acesso à Informação, restrição 13;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Agência Amazonense de Desenvolvimento Cultural AADC que promova a adequação do Portal de Transparência na forma da Lei n. 12527/2011 - Lei de Acesso à Informação, restrição 13",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação para adequação do Portal de Transparência indica uma deficiência no cumprimento das normas de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 12527/2011",
+              "artigo": "N/A",
+              "descricao": "Lei de Acesso à Informação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  do  Pleno  -  SEPLENO que  extraia  cópia do Relatório/Voto e encaminhe  à  Sra. Karenina  Kanavati  Lasmar , juntamente com a decisão originada nos autos a fim de que tenha ciência do teor da restrição que foi alvo de recomendação.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  do  Pleno  -  SEPLENO que  extraia  cópia do Relatório/Voto e encaminhe  à  Sra. Karenina  Kanavati  Lasmar , juntamente com a decisão originada nos autos a fim de que tenha ciência do teor da restrição que foi alvo de recomendação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação para encaminhar cópia do relatório visa garantir que a responsável esteja ciente da recomendação, inserindo-se no contexto de envio e acompanhamento de informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

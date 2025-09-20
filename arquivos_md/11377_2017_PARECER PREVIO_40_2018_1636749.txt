@@ -1,0 +1,62 @@
+{
+  "acordao": "40/2018",
+  "processo": "11377/2017",
+  "data_sessao": "09 de Outubro de 2018",
+  "orgao": "Prefeitura Municipal de Benjamin Constant",
+  "municipio": "Benjamin Constant",
+  "exercicio": "2016",
+  "responsavel": [
+    "Iracema Maia da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Benjamin Constant, o cumprimento do art.127, §§ 5º, 6º e 7º da Constituição do Estado do Amazonas, em especial o p razo de 60 (sessenta) dias para o julgamento das contas da Sra.  Iracema  Maia  da  Silva - Prefeita  do  Município  de  Benjamin Constant no exercício de 2016.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contasda  Prefeitura  Municipal  de Benjmain  Constant  -  exercício  2016,  sob  a  responsabilidade da Sra. Iracema Maia da Silva - Prefeita do Município de Benjmain Constant -, com fulcro no art. 1º, II da Lei n.º 2.423/96 c/c o art. 5º, II da  Resolução n.º  04/02  -  RI-TCE/AM,  em  razão  da  manutenção  de  impropriedades referentes  a  atos  praticados  com  grave  infração  à  norma  legal  e regulamentar.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Iracema Maia da Silva - Prefeita do Município de Benjamin Constant, exercício 2016  -  no valor de R$ 8.768,24 (oito  mil, setecentos e sessenta e oito reais e vinte e quatro centavos), com fulcro no  art.  308,  II  da  Resolução  n.º  04/02  -  RI-TCE/AM,  distribuídos  da seguinte maneira:\n\na)  R$  6.576,18  (seis  mil,  quinehntos  e  setenta  e  seis  reais  e  dezoito centavos)  em  razão  do  envio  com  atraso  dos  balancetes  mensais referentes  aos  meses  de  janeiro,  fevereiro,  março,  abril,  novembro  e dezembro (subitem 3.6 do presente Relatório/Voto, referente ao item 02 dos  questionamentos  da  DICAMI  contidos  no  Relatório  Conclusivo  n.º 30/2018  -  DICAMI),  sendo  aplicado  o  valor  de  R$  1.096,03  (um  mil  e noventa e seis reais e três centavos) por mês de atraso no envio dos balancetes mensais;\nb) R$  2.192, 06 (dois mil, cento e noventa  e dois reais e  seis centavos) em razão do envio com atraso dos RREO´s referentes aos 1º e 6º bimestre de 2016 (subitem 3.2 do presente Relatório/Voto, referente ao  item  02  dos  questionamentos  da  DICREA contidos  no  Relatório Conclusivo  n.º  30/2018  -  DICAMI),  sendo  aplicado  o  valor  de  R$ 1.096,03 (um mil e noventa e seis reais e três centavos) por bimestre de atraso no envio dos RREO´s.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Iracema Maia da Silva - Prefeita do Município de Benjamin Constant, exercício 2016  -  no valor de R$ 8.768,24 (oito  mil, setecentos e sessenta e oito reais e vinte e quatro centavos), com fulcro no  art.  308,  II  da  Resolução  n.º  04/02  -  RI-TCE/AM,  distribuídos  da seguinte maneira:\na)  R$  6.576,18  (seis  mil,  quinehntos  e  setenta  e  seis  reais  e  dezoito centavos)  em  razão  do  envio  com  atraso  dos  balancetes  mensais referentes  aos  meses  de  janeiro,  fevereiro,  março,  abril,  novembro  e dezembro (subitem 3.6 do presente Relatório/Voto, referente ao item 02 dos  questionamentos  da  DICAMI  contidos  no  Relatório  Conclusivo  n.º 30/2018  -  DICAMI),  sendo  aplicado  o  valor  de  R$  1.096,03  (um  mil  e noventa e seis reais e três centavos) por mês de atraso no envio dos balancetes mensais.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação trata de aplicação de multa por envio com atraso de balancetes mensais, o que se enquadra na tipologia de balancetes mensais entregues fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Aplica multa por envio com atraso de balancetes mensais."
+            }
+          ]
+        },
+        {
+          "trecho": "b) R$  2.192, 06 (dois mil, cento e noventa  e dois reais e  seis centavos) em razão do envio com atraso dos RREO´s referentes aos 1º e 6º bimestre de 2016 (subitem 3.2 do presente Relatório/Voto, referente ao  item  02  dos  questionamentos  da  DICREA contidos  no  Relatório Conclusivo  n.º  30/2018  -  DICAMI),  sendo  aplicado  o  valor  de  R$ 1.096,03 (um mil e noventa e seis reais e três centavos) por bimestre de atraso no envio dos RREO´s.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação trata de aplicação de multa por envio com atraso de RREO´s, o que se enquadra na tipologia de balancetes mensais entregues fora do prazo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Iracema Maia da Silva - Prefeita do Município de Benjamin Constant, exercício 2016  - no valor de R$10.960,31 (dez mil, novecentos e sessenta reais e trinta e um centavos), com fulcro no 54, II da  Lei  n.º  2.423/96  c/c  o  art.  308,  VI  da  Resolução  n.º  04/02  -  RITCE/AM,  em  razão  da  manutenção  das  impropriedades  contidas  nos subitens  2.1(i,  iii  e  iv),  2.2  (ii  e  iii),  3.1,  3.7  e  3.8 do  Relatório/Voto, referentes aos Itens I - subitens 1.1, 1.3 e 1.4 -,  II - subitens 2.2 e 2.3 do Relatório Conclusivo n.º 88/2018 - DICOP, Item 01 dos questionamentos da DICREA e Itens 03 e 07 dos questionamentos da DICAMI contidos no Relatório Conclusivo n.º 30/2018 - DICAMI;",
+      "trechos_identificados": []
+    }
+  ]
+}

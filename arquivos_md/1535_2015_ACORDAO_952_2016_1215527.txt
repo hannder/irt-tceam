@@ -1,0 +1,99 @@
+{
+  "acordao": "952/2016",
+  "processo": "1535/2015",
+  "data_sessao": "06 de Dezembro de 2016",
+  "orgao": "Fundação de Vigilância em Saúde do Estado do Amazonas - FVS/AM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Bernardino Cláudio de Albuquerque"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com  ressalvas a Prestação de Contas do Sr. Bernardino  Cláudio  de  Albuquerque,  responsável  pela  Fundação  de Vigilância  em  Saúde  do  Estado  do  Amazonas,  no curso  do  exercício 2014.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com  ressalvas a Prestação de Contas do Sr. Bernardino  Cláudio  de  Albuquerque,  responsável  pela  Fundação  de Vigilância  em  Saúde  do  Estado  do  Amazonas,  no curso  do  exercício 2014.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O julgamento com ressalvas indica que, apesar da aprovação, foram identificadas falhas que não justificam a rejeição total das contas, mas que merecem registro e correção. A ausência de notas explicativas impede a total transparência das contas",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao  Sr.  Bernardino Cláudio de Albuquerque, no valor de R$ 2.000,00 (dois mil reais), que deve ser recolhida na esfera Estadual para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ,  pelas  restrições detectadas. O recolhimento deve ser feito no prazo de 30 dias. Expirado o prazo, caso  não  haja  recolhimento do valor da condenação, autorizar desde já a instauração de cobrança executiva, com arrimo no art. 173, do Regimento Interno do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao  Sr.  Bernardino Cláudio de Albuquerque, no valor de R$ 2.000,00 (dois mil reais), que deve ser recolhida na esfera Estadual para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ,  pelas  restrições detectadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica que houve falhas ou irregularidades na gestão que justificam a sanção, apontando para deficiências no controle interno",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "173",
+              "descricao": "instauração de cobrança executiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundação de Vigilância Em Saúde do Estado do Amazonas - FVS/AM : adote  as medidas necessárias para a realização do concurso público nos termos do inciso II do art. 37 da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundação de Vigilância Em Saúde do Estado do Amazonas - FVS/AM : adote  as medidas necessárias para a realização do concurso público nos termos do inciso II do art. 37 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação para realizar concurso público sugere uma necessidade de regularizar a situação dos servidores, possivelmente com excesso de temporários ou comissionados, o que indica uma fragilidade na gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "37",
+              "descricao": "Realização de concurso público"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundação de Vigilância Em Saúde do Estado do Amazonas - FVS/AM : encaminhe  a  esta  Corte  os  atos  de  admissão  de  pessoal ocorridos no exercício de 2014 para apreciação de sua legalidade, nos termos do art. 259 e seguintes da Resolução nº 04/02.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundação de Vigilância Em Saúde do Estado do Amazonas - FVS/AM : encaminhe  a  esta  Corte  os  atos  de  admissão  de  pessoal ocorridos no exercício de 2014 para apreciação de sua legalidade, nos termos do art. 259 e seguintes da Resolução nº 04/02.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação para encaminhar os atos de admissão para análise de legalidade sugere potenciais irregularidades ou falta de clareza nos processos de admissão de pessoal. Embora não seja uma irregularidade em si, a necessidade de revisão indica um risco de não conformidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/02",
+              "artigo": "259",
+              "descricao": "Apreciação de legalidade dos atos de admissão de pessoal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "acordao": "43/2019",
+  "processo": "11282/2016",
+  "data_sessao": "29 de Janeiro de 2019",
+  "orgao": "Câmara Municipal de Eirunepé",
+  "municipio": "Eirunepé",
+  "exercicio": "2015",
+  "responsavel": [
+    "Raimundo Augusto Rebouças Pinheiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  da  Câmara Municipal de Eirunepé , de responsabilidade do Sr. Raimundo Augusto Rebouças Pinheiro , no curso do exercício 2015, com fulcro no art. 22, II e 24 da Lei 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Raimundo Augusto Rebouças Pinheiro no valor de R$ 2.500,00 , que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a',  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Conceder Prazo ao Sr. Raimundo Augusto Rebouças Pinheiro de 30 dias para o recolhimento da multa aos cofres da Fazenda Pública (art. 72,III,  alínea  'a'  da  Lei  2.423/96)  com as devidas atualizações monetárias (art.  55  da  Lei  2.423/96  c/c  o  art.  308,  §  3º  da  Resolução  TCE  04/02), ficando, desde já, autorizada a DICREX a adoção das medidas previstas no art. 175 da Resolução TCE 04/02.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Eirunepé que : Inclua  a  escrituração  contábil  das  despesas  com  materiais  de consumo  assim  como,  realize  o  Inventário  dos  materiais  de  consumo, permanentes e demais que compõem o ativo da Câmara supracitada",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Eirunepé que : Inclua  a  escrituração  contábil  das  despesas  com  materiais  de consumo  assim  como,  realize  o  Inventário  dos  materiais  de  consumo, permanentes e demais que compõem o ativo da Câmara supracitada",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A recomendação explicita uma deficiência na escrituração contábil e na gestão de ativos, indicando que os valores registrados nos balanços podem não ser confiáveis devido à falta de comprovação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Eirunepé que : Observe com máximo rigor a Lei de Licitações e Contratos",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Eirunepé que : Observe com máximo rigor a Lei de Licitações e Contratos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de rigor no cumprimento da Lei de Licitações e Contratos, o que inclui a necessidade de pesquisa de preços para garantir a economicidade e a transparência nas contratações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência deste  Acórdão  ao Sr.  Raimundo  Augusto  Rebouças Pinheiro e à Câmara Municipal de Eirunepé",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o presente processo, após cumprimento da decisão acima, nos termos regimentais.",
+      "trechos_identificados": []
+    }
+  ]
+}

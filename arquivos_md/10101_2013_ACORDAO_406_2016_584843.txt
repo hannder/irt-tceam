@@ -1,0 +1,446 @@
+{
+  "acordao": "406/2016",
+  "processo": "10101/2013",
+  "data_sessao": "04 de Maio de 2016",
+  "orgao": "Regime Próprio de Previdência Social do Município de Urucará -URUCARAPREV",
+  "municipio": "Urucará",
+  "exercicio": "2012",
+  "responsavel": [
+    "Macário Góes da Silva",
+    "Walcilene Teixeira Ribeiro"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Macário  Góes  da Silva , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 01/01/2012 a 01/04/2012, em virtude das seguintes impropriedades:\nNão comprovação da adequada utilização das diárias a ele concedidas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Não comprovação da adequada utilização das diárias a ele concedidas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "O trecho descreve a não comprovação da utilização de diárias, indicando uma falha na prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Macário  Góes  da Silva , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 01/01/2012 a 01/04/2012, em virtude das seguintes impropriedades:\nAusência  de  documentos  (Dispensa  de  Licitação  n.º  001/2012  e 002/2012) na sede do RPPS de Urucará prejudicando a realização de inspeções por este TCE/AM e controle social;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  documentos  (Dispensa  de  Licitação  n.º  001/2012  e 002/2012) na sede do RPPS de Urucará prejudicando a realização de inspeções por este TCE/AM e controle social",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A ausência de documentos impede a fiscalização e o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Macário  Góes  da Silva , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 01/01/2012 a 01/04/2012, em virtude das seguintes impropriedades:\nNão encaminhamento, no prazo estipulado, dos documentos previstos na Resolução  n.º  08/11 -TCE/AM  (Certificado  de regularidade  previdenciária  -  CRP,  Comprovante  do  repasse  e recolhimento ao RPPS dos valores decorrentes das contribuições, aportes  de  recursos  e  débitos  de  parcelamento,  Demonstrativo previdenciário,  Demonstrativo  do  resultado  da  avaliação  atuarial, Balancete  mensal,  Balanço  Orçamentário,  Balanço  Financeiro, Balanço Patrimonial e Demonstrações de Variações Patrimoniais)",
+      "trechos_identificados": [
+        {
+          "trecho": "Não encaminhamento, no prazo estipulado, dos documentos previstos na Resolução  n.º  08/11 -TCE/AM  (Certificado  de regularidade  previdenciária  -  CRP,  Comprovante  do  repasse  e recolhimento ao RPPS dos valores decorrentes das contribuições, aportes  de  recursos  e  débitos  de  parcelamento,  Demonstrativo previdenciário,  Demonstrativo  do  resultado  da  avaliação  atuarial, Balancete  mensal,  Balanço  Orçamentário,  Balanço  Financeiro, Balanço Patrimonial e Demonstrações de Variações Patrimoniais)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso no envio dos documentos dificulta a fiscalização e o acompanhamento das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 08/11 - TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Menciona o não encaminhamento dos documentos no prazo estipulado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Macário  Góes  da Silva , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 01/01/2012 a 01/04/2012, em virtude das seguintes impropriedades:\nAusência  de  efetivo  controle  sobre  os  descontos  realizados  em folha de pagamento de aposentados e pensionistas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  efetivo  controle  sobre  os  descontos  realizados  em folha de pagamento de aposentados e pensionistas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A ausência de controle sobre os descontos em folha de pagamento indica uma falha no controle financeiro e administrativo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Macário  Góes  da Silva , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 01/01/2012 a 01/04/2012, em virtude das seguintes impropriedades:\nNão comprovação da regular gestão de despesas extra orçamentárias  no  valor  de  R$  11.330,39  registradas  no  Balanço Financeiro de fls. 25;",
+      "trechos_identificados": [
+        {
+          "trecho": "Não comprovação da regular gestão de despesas extra orçamentárias  no  valor  de  R$  11.330,39  registradas  no  Balanço Financeiro de fls. 25",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "Não comprovar a regularidade de despesas extra orçamentárias é uma irregularidade na execução orçamentária e financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Macário  Góes  da Silva , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 01/01/2012 a 01/04/2012, em virtude das seguintes impropriedades:\nAusência de controle interno previsto no art. 18 da Portaria MPS n.º 402/2008",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de controle interno previsto no art. 18 da Portaria MPS n.º 402/2008",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ausência de controle interno é uma deficiência grave na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria MPS n.º 402/2008",
+              "artigo": "18",
+              "descricao": "Menciona a ausência de controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Multar o Sr. Macário Góes da Silva :\nEm R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 308, VI, da Resolução n.º 04/02 TCE/AM,  em  razão  das  irregularidades  descritas  no  item  9.1  deste Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Em R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 308, VI, da Resolução n.º 04/02 TCE/AM,  em  razão  das  irregularidades  descritas  no  item  9.1  deste Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Sanção aplicada em decorrencia da não implementação do controle interno",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 TCE/AM",
+              "artigo": "308",
+              "descricao": "Fundamentação legal para a aplicação da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Considerar em alcance o Sr. Macário Góes da Silva para que, com fulcro no art. 306, III, do RI-TCE/AM, devolva ao erário municipal R$ 6.150,00 em virtude da não comprovação de regular utilização das diárias a ele concedidas (item 12.3.2 do Relatório Conclusivo n.º 9/2013-DICERP RPPS - MUNICÍPIO DE URUCARÁ)",
+      "trechos_identificados": [
+        {
+          "trecho": "devolva ao erário municipal R$ 6.150,00 em virtude da não comprovação de regular utilização das diárias a ele concedidas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O trecho indica a necessidade de devolução de valores ao erário, caracterizando potencial dano ao patrimônio público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "306",
+              "descricao": "Fundamentação legal para a devolução ao erário municipal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação de Contas da Sra. Walcilene Teixeira Ribeiro , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 02/04/2012 a 31/12/2012, em razão das seguintes impropriedades:\nNão encaminhamento, no prazo estipulado, dos documentos previstos na  Resolução  n.º  08/11  -  TCE/AM  (Certificado  de  regularidade previdenciária  -  CRP,  Comprovante  do  repasse  e  recolhimento  ao RPPS dos valores decorrentes das contribuições, aportes de recursos e débitos de parcelamento, Demonstrativo previdenciário, Demonstrativo do resultado da avaliação atuarial, Balancete mensal, Balanço  Orçamentário,  Balanço  Financeiro,  Balanço  Patrimonial  e Demonstrações de Variações Patrimoniais)",
+      "trechos_identificados": [
+        {
+          "trecho": "Não encaminhamento, no prazo estipulado, dos documentos previstos na  Resolução  n.º  08/11  -  TCE/AM  (Certificado  de  regularidade previdenciária  -  CRP,  Comprovante  do  repasse  e  recolhimento  ao RPPS dos valores decorrentes das contribuições, aportes de recursos e débitos de parcelamento, Demonstrativo previdenciário, Demonstrativo do resultado da avaliação atuarial, Balancete mensal, Balanço  Orçamentário,  Balanço  Financeiro,  Balanço  Patrimonial  e Demonstrações de Variações Patrimoniais)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso no envio dos documentos impede a fiscalização e o acompanhamento das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  n.º  08/11  -  TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Refere-se ao não encaminhamento dos documentos no prazo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação de Contas da Sra. Walcilene Teixeira Ribeiro , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 02/04/2012 a 31/12/2012, em razão das seguintes impropriedades:\nUtilização de designação genérica vedada pela NBC T.16.6, aprovada pela Resolução CFC n.º 1.133/2008",
+      "trechos_identificados": [
+        {
+          "trecho": "Utilização de designação genérica vedada pela NBC T.16.6, aprovada pela Resolução CFC n.º 1.133/2008",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Uso de designação genérica em documentos contábeis representa uma irregularidade contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução CFC n.º 1.133/2008",
+              "artigo": "Não especificado",
+              "descricao": "Menciona a NBC T.16.6 e a aprovação pela Resolução CFC n.º 1.133/2008."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação de Contas da Sra. Walcilene Teixeira Ribeiro , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 02/04/2012 a 31/12/2012, em razão das seguintes impropriedades:\nNão comprovação da regular gestão de despesas extra orçamentária no valor de R$ 11.330,39 registradas no Balanço Financeiro de fls. 25",
+      "trechos_identificados": [
+        {
+          "trecho": "Não comprovação da regular gestão de despesas extra orçamentária no valor de R$ 11.330,39 registradas no Balanço Financeiro de fls. 25",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A ausência de comprovação da regular gestão de despesas extra orçamentárias configura uma irregularidade na execução financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação de Contas da Sra. Walcilene Teixeira Ribeiro , responsável pela gestão do Regime Próprio de Previdência Social do Município de Urucará entre 02/04/2012 a 31/12/2012, em razão das seguintes impropriedades:\nAusência de controle interno previsto no art. 18 da Portaria  MPS n.º 402/2008",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de controle interno previsto no art. 18 da Portaria  MPS n.º 402/2008",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ausência de controle interno é uma deficiência grave na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria MPS n.º 402/2008",
+              "artigo": "18",
+              "descricao": "Menciona a ausência de controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Multar a Sra. Walcilene Teixeira Ribeiro :\nEm R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e em  razão  das  irregularidades  descritas  no  item  9.4  deste  Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Em R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e em  razão  das  irregularidades  descritas  no  item  9.4  deste  Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Sanção aplicada em decorrencia da não implementação do controle interno",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "À  Prefeitura  Municipal  de  Urucará  que  observe,  na  elaboração  do inventário de bens móveis do RPPS de Urucará, o art. 94 da Lei n.º 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "observe,  na  elaboração  do inventário de bens móveis do RPPS de Urucará, o art. 94 da Lei n.º 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho determina a observância do art. 94 da Lei nº 4.320/64, que trata da contabilização dos bens patrimoniais, indicando uma preocupação com a gestão patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 4.320/64",
+              "artigo": "94",
+              "descricao": "Determina a observância do artigo na elaboração do inventário de bens móveis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "À  Prefeitura  Municipal  de  Urucará  que  realize,  em respeito ao art. 126 da Constituição Estadual, efetivo controle interno sobre o RPPS de Urucará",
+      "trechos_identificados": [
+        {
+          "trecho": "realize,  em respeito ao art. 126 da Constituição Estadual, efetivo controle interno sobre o RPPS de Urucará",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho determina a realização de controle interno, o que indica uma preocupação com a estruturação e implementação adequadas do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "126",
+              "descricao": "Determina a realização de efetivo controle interno sobre o RPPS de Urucará."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Aos gestores responsáveis pela administração do RPPS de Urucará durante  o  exercício  de  2012  que  observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Portaria  MPS  n.º  402/2008",
+      "trechos_identificados": [
+        {
+          "trecho": "observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Portaria  MPS  n.º  402/2008",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Orientação para observar a portaria do MPS para evitar reincidência em irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria MPS n.º 402/2008",
+              "artigo": "Não especificado",
+              "descricao": "Orientação para observar os dizeres da portaria para evitar reincidência em irregularidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Aos gestores responsáveis pela administração do RPPS de Urucará durante  o  exercício  de  2012  que  observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Resolução n.º 10/12 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Resolução n.º 10/12 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Orientação para observar a resolução do TCE para evitar reincidência em irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 10/12 - TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Orientação para observar os dizeres da resolução para evitar reincidência em irregularidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Aos gestores responsáveis pela administração do RPPS de Urucará durante  o  exercício  de  2012  que  observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Resolução n.º 08/11 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Resolução n.º 08/11 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Orientação para observar a resolução do TCE para evitar reincidência em irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 08/11 - TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Orientação para observar os dizeres da resolução para evitar reincidência em irregularidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Aos gestores responsáveis pela administração do RPPS de Urucará durante  o  exercício  de  2012  que  observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Resolução n.º 05/08 - TCE/AM (art.  9º  e  incisos)",
+      "trechos_identificados": [
+        {
+          "trecho": "observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da Resolução n.º 05/08 - TCE/AM (art.  9º  e  incisos)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Orientação para observar a resolução do TCE para evitar reincidência em irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 05/08 - TCE/AM",
+              "artigo": "9º",
+              "descricao": "Orientação para observar os dizeres da resolução para evitar reincidência em irregularidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Aos gestores responsáveis pela administração do RPPS de Urucará durante  o  exercício  de  2012  que  observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da NBC  T  16.6",
+      "trechos_identificados": [
+        {
+          "trecho": "observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, os dizeres da NBC  T  16.6",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Observar a norma de contabilidade para evitar repetição de irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "NBC  T  16.6",
+              "artigo": "Não especificado",
+              "descricao": "Orientação para observar os dizeres da norma para evitar reincidência em irregularidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Aos gestores responsáveis pela administração do RPPS de Urucará durante  o  exercício  de  2012  que  observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, o princípio da  segregação  de funções",
+      "trechos_identificados": [
+        {
+          "trecho": "observem,  a fim  de  que  as irregularidades inerentes a cada um não se reiterem, o princípio da  segregação  de funções",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T

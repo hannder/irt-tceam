@@ -1,0 +1,104 @@
+{
+  "acordao": "1729/2023",
+  "processo": "11842/2023",
+  "data_sessao": "15 de agosto de 2023",
+  "orgao": "Centro de Educação Tecnológica do Amazonas - CETAM",
+  "municipio": "Manaus",
+  "exercicio": "2022",
+  "responsavel": [
+    "José Augusto de Melo Neto",
+    "Hellen Cristina Silva Matute"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  do  Centro  de  Educação Tecnológica  do  Amazonas  -  CETAM,  sob  reponsabilidade  do Sr. José  Augusto  de  Melo  Neto , na  condição  de  Diretor-Geral e ordenador de despesas, referente ao exercício de 2022, com fundamento no art. 22, inciso I e art. 23, da Lei nº 2.423/96 c/c art. 5°, II, da Resolução n° 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  do  Centro  de  Educação Tecnológica  do  Amazonas  -  CETAM,  sob  reponsabilidade  do Sr. José  Augusto  de  Melo  Neto , na  condição  de  Diretor-Geral e ordenador de despesas, referente ao exercício de 2022, com fundamento no art. 22, inciso I e art. 23, da Lei nº 2.423/96 c/c art. 5°, II, da Resolução n° 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Este trecho é um julgamento formal da prestação de contas como regular, sem apontar irregularidades específicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, inciso I",
+              "descricao": "Fundamentação para julgar regular a prestação de contas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Fundamentação para julgar regular a prestação de contas."
+            },
+            {
+              "norma": "Resolução n° 04/2002 - TCE/AM",
+              "artigo": "5°, II",
+              "descricao": "Fundamentação para julgar regular a prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao Sr.  José  Augusto  de  Melo  Neto na  condição  de Diretor-Geral e ordenador de despesas, à época, de acordo com art. 23, da Lei nº 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr.  José  Augusto  de  Melo  Neto na  condição  de Diretor-Geral e ordenador de despesas, à época, de acordo com art. 23, da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere a um ato administrativo formal de quitação, sem indicar irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Fundamentação para dar quitação ao responsável."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  José  Augusto  de  Melo  Neto  e  à  Sra.  Hellen Cristina Silva Matute",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  José  Augusto  de  Melo  Neto  e  à  Sra.  Hellen Cristina Silva Matute",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Apenas dar ciência, sem indicar irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o presente processo, nos termos e prazos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o presente processo, nos termos e prazos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Procedimento padrão do TCE, sem indicar ou tratar de qualquer irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "acordao": "112/2024",
+  "processo": "12046/2022",
+  "data_sessao": "27 de Novembro de 2024",
+  "orgao": "Prefeitura Municipal de Barreirinha",
+  "municipio": "Barreirinha",
+  "exercicio": "2021",
+  "responsavel": [
+    "Glênio José Marques Seixas"
+  ],
+  "itens": [
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar o  encaminhamento  após  o  trânsito  em  julgado,  deste Processo  contendo  o  Parecer  Prévio  à  Câmara  Municipal  Barreirinha para providências e julgamento, por força da tese fixada pelo Supremo Tribunal Federal no Recurso Extraordinário nº 848.826/DF de 17/08/2016",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  após  o  trânsito  em  julgado,  deste Processo  contendo  o  Parecer  Prévio  à  Câmara  Municipal  Barreirinha para providências e julgamento, por força da tese fixada pelo Supremo Tribunal Federal no Recurso Extraordinário nº 848.826/DF de 17/08/2016",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Determinação para encaminhamento à Câmara Municipal, não indicando irregularidade inerente à gestão, mas seguindo rito processual.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Recurso Extraordinário nº 848.826/DF",
+              "artigo": "s/a",
+              "descricao": "Tese fixada pelo STF sobre o julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar o  Envio  de  cópia  destes  autos  ao  Ministério  Público  do Estado do Amazonas cópia deste processo para que adote as medidas que entender cabíveis",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  Envio  de  cópia  destes  autos  ao  Ministério  Público  do Estado do Amazonas cópia deste processo para que adote as medidas que entender cabíveis",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Determinação para encaminhamento ao Ministério Público, não indicando irregularidade inerente à gestão, mas rito processual.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Atos de Governo:  descumprimento  do  prazo  de publicação dos Relatórios de Gestão Fiscal e Resumido da Execução Orçamentária, violando os artigos art. 55, §2º da Lei de Responsabilidade Fiscal, art. 165, §3º da Constituição Federal de 1988 e  o  art.  32,  inciso  II,  alínea 'h'  da  Lei  nº  2.423/1996-LOTCEAM (questionamentos 01 e 02 do Ofício nº 168/2021 -DICREA); descumprimento do limite máximo de despesas com pessoal, considerando o atingimento do percentual apurado, de 59,47% , o que evidencia um excesso de 5,47 pontos percentuais acima do permitido, configurando grave irregularidade que compromete a saúde financeira do município e impacta negativamente sua capacidade de investir em políticas  públicas  essenciais,  além  de  violar  o  equilíbrio  fiscal  exigido pela  legislação,  contrariedade  disposto  no  art.  20,  III,  'b'  da  LC 101/2000-LRF. Atos de Gestão  Falta de transparência na gestão fiscal: : dados  como  despesas,  receitas  e  informações  sobre  pessoal  foram publicados de forma intempestiva ou não foram simplesmente publicados; ausência de dados necessários à análise de endividamento e  outros  limites  fiscais:  não  publicação  dos  relatórios  no  sistema  eContas e SICONFI; Superfaturamento quantitativo (Achado 6): serviços pagos que não foram executados nas quantidades  contratadas; falha em  comprovar  a  aplicação  dos  materiais  adquiridos;  violação  de princípios  como  legalidade,  eficiência  e  economicidade  (art.  37,  CF); Projeto  Básico  com  especificações  técnicas  deficientes  (Achado  3 ; ) ausência de normas, caracterização de materiais e critérios de medição;  falhas  comprometendo  o  controle  e  a  transparência  na execução contratual; descumprimento da Resolução nº 27/2012TCE/AM, Anexo II, Item 2.3.",
+      "trechos_identificados": [
+        {
+          "trecho": "descumprimento  do  prazo  de publicação dos Relatórios de Gestão Fiscal e Resumido da Execução Orçamentária, violando os artigos art. 55, §2º da Lei de Responsabilidade Fiscal, art. 165, §3º da Constituição Federal de 1988 e  o  art.  32,  inciso  II,  alínea 'h'  da  Lei  nº  2.423/1996-LOTCEAM (questionamentos 01 e 02 do Ofício nº 168/2021 -DICREA)",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Ofício nº 168/2021 -DICREA\"; justificativa=\"O trecho descreve o descumprimento do prazo de publicação dos relatórios, indicando uma falha na gestão fiscal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "55, §2º",
+              "descricao": "O prazo para publicação do RGF."
+            },
+            {
+              "norma": "Constituição Federal de 1988",
+              "artigo": "165, §3º",
+              "descricao": "Dispõe sobre os orçamentos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/1996-LOTCEAM",
+              "artigo": "32, inciso II, alínea 'h'",
+              "descricao": "Norma da LOTCEAM sobre a apresentação de contas."
+            }
+          ]
+        },
+        {
+          "trecho": "descumprimento do limite máximo de despesas com pessoal, considerando o atingimento do percentual apurado, de 59,47% , o que evidencia um excesso de 5,47 pontos percentuais acima do permitido, configurando grave irregularidade que compromete a saúde financeira do município e impacta negativamente sua capacidade de investir em políticas  públicas  essenciais,  além  de  violar  o  equilíbrio  fiscal  exigido pela  legislação,  contrariedade  disposto  no  art.  20,  III,  'b'  da  LC 101/2000-LRF",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho descreve o descumprimento do limite de despesas com pessoal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC 101/2000-LRF",
+              "artigo": "20, III, 'b'",
+              "descricao": "Define os limites de gastos com pessoal."
+            }
+          ]
+        },
+        {
+          "trecho": "Atos de Gestão  Falta de transparência na gestão fiscal: : dados  como  despesas,  receitas  e  informações  sobre  pessoal  foram publicados de forma intempestiva ou não foram simplesmente publicados; ausência de dados necessários à análise de endividamento e  outros  limites  fiscais:  não  publicação  dos  relatórios  no  sistema  eContas e SICONFI",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho descreve a falta de transparência na gestão fiscal, indicando que dados essenciais não foram publicados no sistema eContas e SICONFI.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Superfaturamento quantitativo (Achado 6): serviços pagos que não foram executados nas quantidades contratadas; falha em  comprovar  a  aplicação  dos  materiais  adquiridos;  violação  de princípios  como  legalidade,  eficiência  e  economicidade  (art.  37,  CF)",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 6\"; justificativa=\"O trecho descreve superfaturamento quantitativo, com serviços pagos que não foram executados e falha em comprovar a aplicação dos materiais.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF",
+              "artigo": "37",
+              "descricao": "Princípios da administração pública."
+            }
+          ]
+        },
+        {
+          "trecho": "Projeto  Básico  com  especificações  técnicas  deficientes  (Achado  3 ; ) ausência de normas, caracterização de materiais e critérios de medição;  falhas  comprometendo  o  controle  e  a  transparência  na execução contratual; descumprimento da Resolução nº 27/2012-TCE/AM, Anexo II, Item 2.3.",
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 3\"; justificativa=\"O trecho descreve falhas no projeto básico, com especificações técnicas deficientes.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 27/2012-TCE/AM",
+              "artigo": "Anexo II, Item 2.3",
+              "descricao": "Requisitos para o projeto básico."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciencia",
+      "descricao": "Dar ciência ao Sr. Glênio José Marques Seixas -  Prefeito Municipal de Barreirinha e Ordenador da Despesas, no exercício 2021, por meio de seus advogados, acerca do julgado.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Glênio José Marques Seixas -  Prefeito Municipal de Barreirinha e Ordenador da Despesas, no exercício 2021, por meio de seus advogados, acerca do julgado.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Apenas dar ciência ao responsável, não se caracteriza como irregularidade.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

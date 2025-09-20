@@ -1,0 +1,229 @@
+{
+  "acordao": "815/2021",
+  "processo": "11444/2019",
+  "data_sessao": "10 de Agosto de 2021",
+  "orgao": "Instituto Municipal de Engenharia, Fiscalização, Segurança e Educação do Trânsito e Transporte de Manacapuru - IMTRANS",
+  "municipio": "Manacapuru",
+  "exercicio": "2018",
+  "responsavel": [
+    "Elvis Lemos Martins"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do I nstituto Municipal de Engenharia, Fiscalização, Segurança e Educação do Trânsito e Transporte  de  Manacapuru-IMTRANS/MPU , referente  ao  exercício 2018, sob a responsabilidade do Senhor Elvis Lemos Martins, DiretorPresidente e Ordenador de Despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual do I nstituto Municipal de Engenharia, Fiscalização, Segurança e Educação do Trânsito e Transporte  de  Manacapuru-IMTRANS/MPU , referente  ao  exercício 2018, sob a responsabilidade do Senhor Elvis Lemos Martins, DiretorPresidente e Ordenador de Despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A aprovação irregular das contas anuais do exercício de 2018 pelo  Diretor-Presidente e Ordenador de Despesas do IMTRANS/MPU, Elvis Lemos Martins, sugere uma possível falta de comprovação das despesas, impactando a fidedignidade e transparência das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "22, inciso III, alínea b",
+              "descricao": "Lei n. 2423/96 - LO/TCE e do art. 188, §1º, III, alínea b"
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "188, §1º, III, alínea b",
+              "descricao": "Lei n. 2423/96 - LO/TCE e do art. 188, §1º, III, alínea b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao  Senhor Elvis  Lemos  Martins ,  Diretor-Presidente  do IMTRANS Manacapuru, exercício 2018, no valor total de R$ 32.774,80 (trinta e dois mil, setecentos e setenta e quatro reais e oitenta centavos)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Senhor Elvis  Lemos  Martins ,  Diretor-Presidente  do IMTRANS Manacapuru, exercício 2018, no valor total de R$ 32.774,80 (trinta e dois mil, setecentos e setenta e quatro reais e oitenta centavos)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa foi aplicada por não cumprir os limites com Gasto total com pessoal (54%).",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No valor R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos) por cada mês de competência em que não houve envio de dados via E-contas, ou seja, de fevereiro à dezembro de 2018, totalizando o  valor  de  R$  18.774,80 (dezoito  mil,  setecentos  e setenta e quatro reais e oitenta centavos)",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos) por cada mês de competência em que não houve envio de dados via E-contas, ou seja, de fevereiro à dezembro de 2018, totalizando o  valor  de  R$  18.774,80 (dezoito  mil,  setecentos  e setenta e quatro reais e oitenta centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "Multa devido ao não envio de dados periódicos ao e-Contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "308, I, a",
+              "descricao": "com fulcro no art. 308, I,  a,  da Resolução n. 04/2002-TCE/AM, com nova redação dada pela Resolução n. 04/2018-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  14.000,00  (quatorze  mil  reais) por  atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, com fulcro no art. 308, VI da Resolução n. 04/2002TCE/AM,  atualizada  pela  Resolução  n.  04/2018-TCE/AM,  em razão das impropriedades remanescentes nos itens 1.3, 1.6, 1.7, 1.8, 1.9 e 1.10 da fundamentação do voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  14.000,00  (quatorze  mil  reais) por  atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, com fulcro no art. 308, VI da Resolução n. 04/2002TCE/AM,  atualizada  pela  Resolução  n.  04/2018-TCE/AM,  em razão das impropriedades remanescentes nos itens 1.3, 1.6, 1.7, 1.8, 1.9 e 1.10 da fundamentação do voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A multa foi aplicada em decorrência de atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial em razão das impropriedades remanescentes",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "com fulcro no art. 308, VI da Resolução n. 04/2002TCE/AM,  atualizada  pela  Resolução  n.  04/2018-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Envie todos os balancetes, bem como todas as prestações de  contas  mensais  nas  formas e prazos estabelecidos na legislação pertinente.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Envie todos os balancetes, bem como todas as prestações de  contas  mensais  nas  formas e prazos estabelecidos na legislação pertinente.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação se dá devido a Balancetes Mensais entregues fora do prazo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Providencie a criação de controle interno próprio ou solicite ao  controle  interno  municipal  centralizado  que  atue  na entidade,  com  a  análise  e  emissão  do  parecer/relatório correspondente",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Providencie a criação de controle interno próprio ou solicite ao  controle  interno  municipal  centralizado  que  atue  na entidade,  com  a  análise  e  emissão  do  parecer/relatório correspondente",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Recomendação para implementar o Controle Interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Realize melhor dimensionamento das previsões de receitas de forma que elas se tornem indispensáveis para a tomada  de  decisões  para  realização  dos  programas  do governo, indicando assim um orçamento mais realista.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Realize melhor dimensionamento das previsões de receitas de forma que elas se tornem indispensáveis para a tomada  de  decisões  para  realização  dos  programas  do governo, indicando assim um orçamento mais realista.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "Recomendação para  realizar melhor dimensionamento das previsões de receitas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Adote as providências necessárias para a regularização e amortização da Dívida Flutuante, bem como para a responsabilização de quem deu causa à situação deficitária identificada, com a devida devolução dos valores consignáveis.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Adote as providências necessárias para a regularização e amortização da Dívida Flutuante, bem como para a responsabilização de quem deu causa à situação deficitária identificada, com a devida devolução dos valores consignáveis.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "Recomendação para adotar as providências necessárias para a regularização e amortização da Dívida Flutuante.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Implemente,  com  brevidade,  o  sistema  Informatizado  de geração  de  guias  de  arrecadação  municipal.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Implemente,  com  brevidade,  o  sistema  Informatizado  de geração  de  guias  de  arrecadação  municipal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A5B",
+          "tipologia_irregularidade": "Cumprimento da Meta bimestral de arrecadação",
+          "descricao": "Cumprimento da Meta bimestral de arrecadação",
+          "justificativa_tipologia": "Implementar  com  brevidade,  o  sistema  Informatizado  de geração  de  guias  de  arrecadação  municipal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Providencie  procurador  jurídico  próprio  para  a  entidade (com a adequação do quadro de pessoal) ou, em caso de contratação, que esta seja feita mediante licitação adequada, na forma da Lei Federal n. 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Providencie  procurador  jurídico  próprio  para  a  entidade (com a adequação do quadro de pessoal) ou, em caso de contratação, que esta seja feita mediante licitação adequada, na forma da Lei Federal n. 8.666/93.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação se da pela  necessidade de adequação do quadro de pessoal com procurador  jurídico  próprio  para  a  entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n. 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "contratação, que esta seja feita mediante licitação adequada, na forma da Lei Federal n. 8.666/93"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que:  Os  contratos  administrativos do Instituto Municipal  de Engenharia, Fiscalização e Educação do Trânsito e Transportes de Manacapuru, possuam responsável designado  para  fiscalização de contrato",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Engenharia,  Fiscalização, Segurança  e  Educação  do  Trânsito  e  Transporte  de  ManacapuruIMTRANS/MPU que: Os  contratos  administrativos do Instituto Municipal  de Engenharia, Fiscalização e Educação do Trânsito e Transportes de Manacapuru, possuam responsável designado  para  fiscalização de contrato",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Ausência de controle de fiscalização de contratos.",
+          "justificativa_tipologia": "Recomendação para que que nos contratos administrativos do Instituto Municipal  de Engenharia, Fiscalização e Educação do Trânsito e Transportes de Manacapuru, possuam responsável designado  para  fiscalização de contrato",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

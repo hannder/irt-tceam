@@ -1,0 +1,75 @@
+{
+  "acordao": "469/2021",
+  "processo": "12478/2020",
+  "data_sessao": "19 de Maio de 2021",
+  "orgao": "Fundação Televisão e Rádio Cultura do Amazonas - FUNTEC",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Oswaldo Jodas Lopes Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Fundação Televisão e Rádio Cultura do Amazonas - FUNTEC, exercício 2019, sob responsabilidade do Sr. Oswaldo Jodas Lopes Filho ,  com fundamento no art. 54, VII da L. 2423/96 (Lei Orgânica do TCE/AM) c/c art. 308, VII, da Res. 04/02 (RITCE/AM);",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Fundação Televisão e Rádio Cultura do Amazonas - FUNTEC, exercício 2019, sob responsabilidade do Sr. Oswaldo Jodas Lopes Filho ,  com fundamento no art. 54, VII da L. 2423/96 (Lei Orgânica do TCE/AM) c/c art. 308, VII, da Res. 04/02 (RITCE/AM);",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A tipologia se aplica pois o texto determina o julgamento regular com ressalvas das contas, indicando que houve impropriedades mas que não são graves o suficiente para rejeição, estando ligadas a área contábil",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "54, VII",
+              "descricao": "Lei Orgânica do TCE/AM"
+            },
+            {
+              "norma": "Res. 04/02",
+              "artigo": "308, VII",
+              "descricao": "RITCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Fundação  Televisão  e  Rádio  Cultura  do  Amazonas  FUNTEC a abertura de Procedimentos Administrativos Disciplinares para a investigação de acumulações reputadas ilícitas de cargos públicos por seus servidores;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Fundação  Televisão  e  Rádio  Cultura  do  Amazonas  FUNTEC a abertura de Procedimentos Administrativos Disciplinares para a investigação de acumulações reputadas ilícitas de cargos públicos por seus servidores;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A tipologia reflete a identificação de acumulação ilícita de cargos, indicando uma não conformidade com as normas sobre acúmulo de cargos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Fundação  Televisão  e  Rádio  Cultura  do  Amazonas  Funtec a otimização de seu respectivo sítio eletrônico nas conformidades dos argumentos colacionados no Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  Fundação  Televisão  e  Rádio  Cultura  do  Amazonas  Funtec a otimização de seu respectivo sítio eletrônico nas conformidades dos argumentos colacionados no Relatório/Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A tipologia se adequa pois a recomendação para otimizar o site indica uma deficiência na transparência ativa da entidade, caracterizando uma falha na divulgação de informações relevantes.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

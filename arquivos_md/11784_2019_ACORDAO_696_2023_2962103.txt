@@ -1,0 +1,205 @@
+{
+  "acordao": "696/2023",
+  "processo": "11784/2019",
+  "data_sessao": "18 de Abril de 2023",
+  "orgao": "Câmara Municipal de Juruá",
+  "municipio": "Juruá",
+  "exercicio": "2018",
+  "responsavel": [
+    "Fernandes da Silva Mota",
+    "Rosiete Valente Melo"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Fernandes  da  Silva Mota ,  na  qualidade  de  Presidente da Câmara Municipal de Juruá, no exercício  de  2018,  com  fundamento  no  artigo,  22,  III,  da  Lei  nº 2.423/1996 (Lei Orgânica deste Tribunal de Contas) c/c os arts. 188, III, da Resolução nº 4/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Fernandes  da  Silva Mota ,  na  qualidade  de  Presidente da Câmara Municipal de Juruá, no exercício  de  2018",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A descrição indica uma falha na apresentação das contas, ou seja, as contas foram apresentadas de forma irregular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, III",
+              "descricao": "Lei Orgânica deste Tribunal de Contas"
+            },
+            {
+              "norma": "Resolução nº 4/2002-TCE/AM",
+              "artigo": "188, III",
+              "descricao": "Arts. 188, III, da Resolução nº 4/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ao  Sr. Fernandes  da  Silva  Mota , no valor  de  R$ 14.000,00 (quatorze mil reais), com fulcro no art. 308, VI, da Resolução nº 04/2002-TCEAM c/c o art. 54, VI, da Lei Estadual nº 2.423/1996, por todos  os  achados  elencados  na  Proposta  de  Voto  instrutora  destes autos, fixando o prazo de 30 dias, para que o responsável recolha o valor da multa, mencionado no presente item, na esfera Estadual para o órgão  Fundo  de  apoio  ao  Exercício  do  Controle  Externo  -  FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  '5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo -FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"A\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  Sr. Fernandes  da  Silva  Mota , no valor  de  R$ 14.000,00 (quatorze mil reais), com fulcro no art. 308, VI, da Resolução nº 04/2002-TCEAM c/c o art. 54, VI, da Lei Estadual nº 2.423/1996, por todos  os  achados  elencados  na  Proposta  de  Voto  instrutora  destes autos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A multa aplicada indica que houve falhas no controle interno da Câmara Municipal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCEAM",
+              "artigo": "308, VI",
+              "descricao": "Art. 308, VI, da Resolução nº 04/2002-TCEAM"
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "54, VI",
+              "descricao": "Art. 54, VI, da Lei Estadual nº 2.423/1996"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Rosiete Valente Melo , na condição de Presidente da Comissão de Licitação da Câmara Municipal de Juruá, no valor de R$  14.000,00 (quatorze  mil  reais),  com  fulcro  no  art.  308,  VI,  da Resolução  nº  04/2002-TCEAM  c/c  o  art.  54,  VI,  da  Lei  Estadual  nº 2.423/1996,  em  vista  da  impropriedade  constante  no  Item  II  desta Proposta de Voto, fixando o prazo de 30 dias, para que o responsável recolha  o  valor  da  multa,  mencionado  no  presente  item,  na  esfera Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"A\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Rosiete Valente Melo , na condição de Presidente da Comissão de Licitação da Câmara Municipal de Juruá, no valor de R$  14.000,00 (quatorze  mil  reais),  com  fulcro  no  art.  308,  VI,  da Resolução  nº  04/2002-TCEAM  c/c  o  art.  54,  VI,  da  Lei  Estadual  nº 2.423/1996,  em  vista  da  impropriedade  constante  no  Item  II  desta Proposta de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "justificativa_tipologia": "A multa aplicada a Presidente da Comissão de Licitação indica inaptidão para promover o processo licitatório.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCEAM",
+              "artigo": "308, VI",
+              "descricao": "Art. 308, VI, da Resolução nº 04/2002-TCEAM"
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "54, VI",
+              "descricao": "Art. 54, VI, da Lei Estadual nº 2.423/1996"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ao  Sr. Fernandes  da  Silva  Mota , no valor  de  R$ 20.481,60 (vinte  mil,  quatrocentos  e  oitenta  e  um  reais  e  sessenta centavos), com fulcro no artigo 54, I, da Lei Orgânica TCE/AM c/c o art. 308,  inciso  I,  alínea  'A',  do  Regimento  Interno  desta  Corte,  pela remessa intempestiva dos balancetes mensais referentes aos meses de janeiro  a  dezembro  de  2018,  via  sistema  E-contas,  desatendendo  ao que apregoa a Lei Complementar n. 06/1991, conforme exposto no Item IV  desta  Proposta  de  Voto,  fixando  o  prazo  de  30  dias  para  que  o responsável recolha o valor da multa, mencionado no presente item, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"A\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  Sr. Fernandes  da  Silva  Mota , no valor  de  R$ 20.481,60 (vinte  mil,  quatrocentos  e  oitenta  e  um  reais  e  sessenta centavos), com fulcro no artigo 54, I, da Lei Orgânica TCE/AM c/c o art. 308,  inciso  I,  alínea  'A',  do  Regimento  Interno  desta  Corte,  pela remessa intempestiva dos balancetes mensais referentes aos meses de janeiro  a  dezembro  de  2018,  via  sistema  E-contas,  desatendendo  ao que apregoa a Lei Complementar n. 06/1991, conforme exposto no Item IV  desta  Proposta  de  Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O texto descreve a remessa intempestiva dos balancetes mensais, caracterizando a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "54, I",
+              "descricao": "Artigo 54, I, da Lei Orgânica TCE/AM"
+            },
+            {
+              "norma": "Regimento Interno desta Corte",
+              "artigo": "308, inciso I, alínea 'A'",
+              "descricao": "Art. 308, inciso I, alínea 'A', do Regimento Interno desta Corte"
+            },
+            {
+              "norma": "Lei Complementar n. 06/1991",
+              "artigo": "Não consta",
+              "descricao": "Lei Complementar n. 06/1991"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Fernandes da Silva Mota , no montante total  de R$146.514,16 (cento  e  quarenta  e  seis  mil,  quinhentos  e quatorze reais e dezesseis centavos), pelas impropriedades elencadas no Item II desta Proposta de Voto, fixando o prazo de 30 (trinta) dias, para que  o responsável recolha o valor do alcance mencionado neste item, na  esfera  Municipal  para  o  órgão  Câmara  Municipal  de Juruá",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Fernandes da Silva Mota , no montante total  de R$146.514,16 (cento  e  quarenta  e  seis  mil,  quinhentos  e quatorze reais e dezesseis centavos), pelas impropriedades elencadas no Item II desta Proposta de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação de alcance indica que houve dano ao erário municipal devido a irregularidades na gestão financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Comissão  de  Inspeção  que verifique  o  Relatório  e Parecer do Controle Interno do Órgão e se está sendo observado de forma adequada o disposto no artigo 74, da Constituição Federal, a fim de  que  a  Câmara  Municipal  exerça  com  afinco o  Controle  Interno  da Casa Legislativa",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Comissão  de  Inspeção  que verifique  o  Relatório  e Parecer do Controle Interno do Órgão e se está sendo observado de forma adequada o disposto no artigo 74, da Constituição Federal, a fim de  que  a  Câmara  Municipal  exerça  com  afinco o  Controle  Interno  da Casa Legislativa",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação indica a necessidade de fortalecer o controle interno na Câmara Municipal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Art. 74 da Constituição Federal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que  as  recomendações expostas no Relatório Conclusivo nº 38/2022 (fls. 463) sejam observadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que  as  recomendações expostas no Relatório Conclusivo nº 38/2022 (fls. 463) sejam observadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação para observar as recomendações indica uma ausência ou deficiência nos procedimentos internos, que precisam ser normatizados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência acerca  do  julgamento  da  Prestação  de  Contas  do  Sr. Fernandes  da  Silva  Mota ,  no  exercício  de  2018,  aos  responsáveis envolvidos nos autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência acerca  do  julgamento  da  Prestação  de  Contas  do  Sr. Fernandes  da  Silva  Mota ,  no  exercício  de  2018,  aos  responsáveis envolvidos nos autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ciência sobre o julgamento não indica diretamente uma irregularidade, mas pode estar relacionada à falta de informações detalhadas nas demonstrações contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

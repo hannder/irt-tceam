@@ -1,0 +1,211 @@
+{
+  "acordao": "209/2019",
+  "processo": "11540/2018",
+  "data_sessao": "26 de Março de 2019",
+  "orgao": "Assembléia Legislativa do Estado do Amazonas - ALEAM",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Josué Cláudio de Souza Neto",
+    "Abdala Habib Fraxe Junior",
+    "David Antonio Abisai Pereira de Almeida"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  Regular as  Contas  da Assembleia  Legislativa  do  Estado  do Amazonas (ALEAM) ,  referentes  ao exercício  financeiro  de  2017 ,  de responsabilidade  dos  Srs.  Josué  Cláudio  de  Souza  Neto  (Período  de 01/01/2017 a 31/01/2017),  Sr. David Antonio Abisai Pereira de Almeida (Períodos de 01/02 a 08/05 e 05/10 a 31/12/2017) e Abdala Habib Fraxe Júnior (Período de 09/05 a 04/10/2017).",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular as  Contas  da Assembleia  Legislativa  do  Estado  do Amazonas (ALEAM) ,  referentes  ao exercício  financeiro  de  2017 ,  de responsabilidade  dos  Srs.  Josué  Cláudio  de  Souza  Neto  (Período  de 01/01/2017 a 31/01/2017),  Sr. David Antonio Abisai Pereira de Almeida (Períodos de 01/02 a 08/05 e 05/10 a 31/12/2017) e Abdala Habib Fraxe Júnior (Período de 09/05 a 04/10/2017).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A deliberação envolve o julgamento das contas como regulares, o que, por si só, não aponta para um problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  atual  gestor  da  ALEAM,  Sr. Josué  Cláudio  de  Souza Neto, que observe os itens abaixo, encaminhando-lhe cópia do Parecer 6573/2018-DMP-EFC (fls. 1163/1166), do Relatório/Voto e do Acórdão:",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  atual  gestor  da  ALEAM,  Sr. Josué  Cláudio  de  Souza Neto, que observe os itens abaixo, encaminhando-lhe cópia do Parecer 6573/2018-DMP-EFC (fls. 1163/1166), do Relatório/Voto e do Acórdão:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação, por si só, não indica uma irregularidade, mas sim uma orientação para melhoria da gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Disponibilize Portal da Transparência simples, objetivo e organizado, que oferte, sem óbices, o necessário controle social efetivo por  parte  dos  cidadãos,  em  efetivo  atendimento  ao  art.  8°  da  Lei  n° 12.527/2011 (Lei de Acesso à Informação)",
+      "trechos_identificados": [
+        {
+          "trecho": "Disponibilize Portal da Transparência simples, objetivo e organizado, que oferte, sem óbices, o necessário controle social efetivo por  parte  dos  cidadãos,  em  efetivo  atendimento  ao  art.  8°  da  Lei  n° 12.527/2011 (Lei de Acesso à Informação)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação explicita uma deficiência na transparência da gestão pública, o que é um problema concreto e estrutural.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  n° 12.527/2011",
+              "artigo": "8",
+              "descricao": "Dispõe sobre os mecanismos de transparência na administração pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Atente  aos  requisitos  necessários  para  dispor  de  um  Controle Interno estruturado e efetivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente  aos  requisitos  necessários  para  dispor  de  um  Controle Interno estruturado e efetivo.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para estruturar e efetivar o controle interno indica uma deficiência que, se não corrigida, pode levar a problemas de gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "ao Sr. Josué Cláudio de Souza Neto , nos termos dos arts. 23 e 72,  I,  ambos  da  Lei  n.  2423,  de  10/12/1996,  c/c  o  art.  189,  I,  da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "ao Sr. Josué Cláudio de Souza Neto , nos termos dos arts. 23 e 72,  I,  ambos  da  Lei  n.  2423,  de  10/12/1996,  c/c  o  art.  189,  I,  da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A quitação, por si só, não indica uma irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423",
+              "artigo": "23",
+              "descricao": "Não consta descrição para este artigo."
+            },
+            {
+              "norma": "Lei n. 2423",
+              "artigo": "72, I",
+              "descricao": "Não consta descrição para este artigo."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Não consta descrição para este artigo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "ao  Sr. David Antônio Abisai Pereira de Almeida ,  nos  termos dos arts. 23 e 72, I, ambos da Lei n. 2423, de 10/12/1996, c/c o art. 189, I, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "ao  Sr. David Antônio Abisai Pereira de Almeida ,  nos  termos dos arts. 23 e 72, I, ambos da Lei n. 2423, de 10/12/1996, c/c o art. 189, I, da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A quitação, por si só, não indica uma irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423",
+              "artigo": "23",
+              "descricao": "Não consta descrição para este artigo."
+            },
+            {
+              "norma": "Lei n. 2423",
+              "artigo": "72, I",
+              "descricao": "Não consta descrição para este artigo."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Não consta descrição para este artigo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "ao Sr. Abdala Habib Fraxe Júnior , nos termos dos arts. 23 e 72, I, ambos da Lei n. 2423, de 10/12/1996, c/c o art. 189, I, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "ao Sr. Abdala Habib Fraxe Júnior , nos termos dos arts. 23 e 72, I, ambos da Lei n. 2423, de 10/12/1996, c/c o art. 189, I, da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A quitação, por si só, não indica uma irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423",
+              "artigo": "23",
+              "descricao": "Não consta descrição para este artigo."
+            },
+            {
+              "norma": "Lei n. 2423",
+              "artigo": "72, I",
+              "descricao": "Não consta descrição para este artigo."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Não consta descrição para este artigo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno a adoção das providências previstas no art. 161 da Resolução 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno a adoção das providências previstas no art. 161 da Resolução 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para adoção de providências internas do TCE não indica, por si só, uma irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "161",
+              "descricao": "Não consta descrição para este artigo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

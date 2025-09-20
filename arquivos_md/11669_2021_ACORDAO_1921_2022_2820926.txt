@@ -1,0 +1,105 @@
+{
+  "acordao": "1921/2022",
+  "processo": "11669/2021",
+  "data_sessao": "8 de Novembro de 2022",
+  "orgao": "Fundo Social de Solidariedade/Fundo Manaus Solidária",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Elisabeth Valeiko do Carmo Ribeiro",
+    "Ramiz Wladimir Braga dos Santos Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual Fundo Social de Solidariedade - FMS, exercício financeiro de 2020, sob a responsabilidade da Sra. Elisabeth Valeiko do Carmo Ribeiro , na qualidade  de  Presidente  do  Fundo  Manaus  Solidária,  à  época,  no período de 01/01/2020 até 31/12/2020, nos termos do art. 22, inciso II, da Lei nº 2.423/1996 c/c art. 188, § 1° inciso II, da Resolução n° 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual Fundo Social de Solidariedade - FMS, exercício financeiro de 2020, sob a responsabilidade da Sra. Elisabeth Valeiko do Carmo Ribeiro , na qualidade  de  Presidente  do  Fundo  Manaus  Solidária,  à  época,  no período de 01/01/2020 até 31/12/2020",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O texto indica um julgamento com ressalvas, mas sem detalhar uma irregularidade especifica, apenas citação da legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "188, § 1° inciso II",
+              "descricao": "Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgar regular",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  Fundo  Social  de Solidariedade -FMS, exercício financeiro de 2020, sob responsabilidade do Sr. Ramiz  Wladimir Braga  dos  Santos Junior , na qualidade de ordenador de despesas do Fundo Manaus Solidária,  à  época,  no  período  01/02/2020  até  31/12/2020,  nos termos do art. 22, inciso I, da Lei nº 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  Fundo  Social  de Solidariedade -FMS, exercício financeiro de 2020, sob responsabilidade do Sr. Ramiz  Wladimir Braga  dos  Santos Junior , na qualidade de ordenador de despesas do Fundo Manaus Solidária,  à  época,  no  período  01/02/2020  até  31/12/2020",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O texto indica um julgamento regular, mas sem detalhar uma irregularidade específica, apenas citação da legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso I",
+              "descricao": "Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual gestão do Fundo Social de Solidariedade/Fundo Manaus Solidária, que promova o aparelhamento  de  controle  interno  apto  a  atender  às  demandas fiscalizatórias decorrentes de parcerias com entes privados, uma vez que estas perfazem vultoso montante das despesas realizadas pelo Fundo",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à atual gestão do Fundo Social de Solidariedade/Fundo Manaus Solidária, que promova o aparelhamento  de  controle  interno  apto  a  atender  às  demandas fiscalizatórias decorrentes de parcerias com entes privados, uma vez que estas perfazem vultoso montante das despesas realizadas pelo Fundo",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para aparelhamento do controle interno indica uma deficiência na estrutura existente, afetando a fiscalização das parcerias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação a Sra.  Elisabeth  Valeiko  do  Carmo  Ribeiro , na qualidade  de  Presidente  do  Fundo  Manaus  Solidária,  à  época,  no período  de  01/01/2020  até  31/12/2020,  e  ao Sr. Ramiz  Wladimir Braga dos Santos Junior , na qualidade de ordenador de despesas do  Fundo  Manaus  Solidária,  à  época,  no  período  01/02/2020  até 31/12/2020, com fulcro no art. 24 da Lei nº 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação a Sra.  Elisabeth  Valeiko  do  Carmo  Ribeiro , na qualidade  de  Presidente  do  Fundo  Manaus  Solidária,  à  época,  no período  de  01/01/2020  até  31/12/2020,  e  ao Sr. Ramiz  Wladimir Braga dos Santos Junior , na qualidade de ordenador de despesas do  Fundo  Manaus  Solidária,  à  época,  no  período  01/02/2020  até 31/12/2020",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O texto indica a quitação, mas sem detalhar uma irregularidade específica, apenas citação da legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "24",
+              "descricao": "Quitação"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

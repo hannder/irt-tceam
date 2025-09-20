@@ -1,0 +1,226 @@
+{
+  "acordao": "609/2024",
+  "processo": "12270/2021",
+  "data_sessao": "23 de Abril de 2024",
+  "orgao": "Câmara Municipal de Caapiranga",
+  "municipio": "Caapiranga",
+  "exercicio": "2020",
+  "responsavel": [
+    "Jorge Martins Sobrinho"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do Sr. Jorge Martins Sobrinho, responsável pela Câmara Municipal de Caapiranga, no curso do exercício de 2020, na forma do art. 22, inciso III, alínea 'b' da Lei Nº 2423/96, c/c os artigos 11, III, alínea 'a', item '2' e 188, § 1º, III, 'b', da Resolução nº 04/2002-TCE, pelas irregularidades",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Descumprimento dos prazos de publicação do RGF referente ao 1° e 2° semestres de 2020.",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento dos prazos de publicação  do  RGF  referente  ao  1°  e  2°  semestres  de 2020.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A deliberação descreve o não cumprimento de prazos na publicação do Relatório de Gestão Fiscal (RGF), o que prejudica a transparência e o controle fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 15/2013",
+              "artigo": "55, §2º",
+              "descricao": "Descumprimento dos prazos de publicação do RGF referente ao 1° e 2° semestres de 2020 Critério: Resolução TCE nº 15/2013, alterada  pela Resolução  nº  24/2013,  com  fulcro  no  art.  55,  §2º  (prazo legal  30  dias  após  o  período)  c/c  art.  51,  §2º  c/c  art.  63, inciso III, §1º da LRF;"
+            },
+            {
+              "norma": "Resolução nº 24/2013",
+              "artigo": "55, §2º",
+              "descricao": "Descumprimento dos prazos de publicação do RGF referente ao 1° e 2° semestres de 2020 Critério: Resolução TCE nº 15/2013, alterada  pela Resolução  nº  24/2013,  com  fulcro  no  art.  55,  §2º  (prazo legal  30  dias  após  o  período)  c/c  art.  51,  §2º  c/c  art.  63, inciso III, §1º da LRF;"
+            },
+             {
+              "norma": "CF/88",
+              "artigo": "165,§ 3º",
+              "descricao": "Descumprimento dos prazos de publicação do RGF referente ao 1° e 2° semestres de 2020 Critério: Resolução TCE nº 15/2013, alterada  pela Resolução  nº  24/2013,  com  fulcro  no  art.  55,  §2º  (prazo legal  30  dias  após  o  período)  c/c  art.  51,  §2º  c/c  art.  63, inciso III, §1º da LRF;"
+            },
+               {
+              "norma": "LC 101/00",
+              "artigo": "63,III,§1º",
+              "descricao": "Descumprimento dos prazos de publicação do RGF referente ao 1° e 2° semestres de 2020 Critério: Resolução TCE nº 15/2013, alterada  pela Resolução  nº  24/2013,  com  fulcro  no  art.  55,  §2º  (prazo legal  30  dias  após  o  período)  c/c  art.  51,  §2º  c/c  art.  63, inciso III, §1º da LRF;"
+            },
+               {
+              "norma": "LC 101/00",
+              "artigo": "51,§2º",
+              "descricao": "Descumprimento dos prazos de publicação do RGF referente ao 1° e 2° semestres de 2020 Critério: Resolução TCE nº 15/2013, alterada  pela Resolução  nº  24/2013,  com  fulcro  no  art.  55,  §2º  (prazo legal  30  dias  após  o  período)  c/c  art.  51,  §2º  c/c  art.  63, inciso III, §1º da LRF;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Os balancetes mensais, via sistema e-Contas, da Câmara Municipal de Caapiranga, referentes ao período de março, setembro, outubro e novembro de 2020, foram encaminhados fora do prazo estabelecido pela Lei Complementar nº 06/1991, art. 15, c/c o art. 20, inciso II, com nova redação dada pela Lei Complementar nº 24/2000 e Resolução TCE nº 13/2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Os balancetes mensais, via sistema eContas, da Câmara Municipal de Caapiranga, referentes ao  período  de  março,  setembro,  outubro  e  novembro  de 2020,  foram  encaminhados  fora do  prazo  estabelecido pela  Lei  Complementar nº 06/1991, art. 15, c/c o art. 20, inciso II,  com nova redação dada pela Lei Complementar nº 24/2000 e Resolução TCE nº 13/2015",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A entrega dos balancetes mensais fora do prazo prejudica o acompanhamento tempestivo da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15",
+              "descricao": "Entrega dos balancetes mensais fora do prazo"
+            },
+            {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "20, inciso II",
+              "descricao": "Entrega dos balancetes mensais fora do prazo"
+            },
+            {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "n/a",
+              "descricao": "Entrega dos balancetes mensais fora do prazo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência de informações no Portal de Transparência em consulta realizada em 14.09.2021, em descumprimento aos arts. 48, 55, § 2º, da Lei Complementar nº 101/00",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de informações no Portal de Transparência em consulta realizada em 14.09.2021, em descumprimento aos arts. 48, 55, § 2º, da Lei Complementar nº 101/00",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A ausência de informações no Portal da Transparência dificulta o controle social e o acompanhamento da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/00",
+              "artigo": "48",
+              "descricao": "Ausência de informações no Portal de Transparência"
+            },
+            {
+              "norma": "Lei Complementar nº 101/00",
+              "artigo": "55, § 2º",
+              "descricao": "Ausência de informações no Portal de Transparência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Não registro dos horários de frequência de entrada e saída, no livro de ponto dos servidores em cargos efetivos e comissionado relativo ao exercício de 2020",
+      "trechos_identificados": [
+        {
+          "trecho": "Não registro dos horários de frequência de entrada e saída, no livro de ponto dos servidores em cargos efetivos e comissionado relativo ao exercício de 2020",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A17B",
+          "tipologia_irregularidade": "Uso de controle de frequência manual em detrimento do uso de sistema eletrônico",
+          "descricao": "Uso de controle de frequência manual em detrimento do uso de sistema eletrônico",
+          "justificativa_tipologia": "A ausência de registro dos horários de frequência dificulta o controle do cumprimento da jornada de trabalho.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência de controles específicos de almoxarifado, com registro contínuo e permanente de controle de entrada e saída dos objetos, bem como, das existências dos estoques, como determina a Lei nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de controles específicos de almoxarifado,  com registro contínuo e permanente de controle  de  entrada  e  saída  dos  objetos,  bem como,  das existências dos estoques, como  determina a Lei nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A ausência de controle de almoxarifado dificulta a gestão do patrimônio público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "n/a",
+              "descricao": "Ausência de controles específicos de almoxarifado, com registro contínuo e permanente de controle de entrada e saída dos objetos, bem como, das existências dos estoques"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar multa ao Sr. Jorge Martins Sobrinho no valor de R$ 8.533,99 (oito mil, quinhentos e trinta e três reais e noventa e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, mencionado no item 22 do Relatório/Voto, nos termos do art. 54, inciso I, alínea 'c', da Lei Estadual nº 2.423/1996 LOTCE/AM, em razão da Restrição nº 01, o descumprimento dos prazos de publicação do Relatório de Gestão Fiscal -RGF, referente ao 1° e 2° semestres de 2020",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar multa ao Sr. Jorge Martins Sobrinho no valor de R$ 6.827,20 (seis mil, oitocentos e vinte e sete reais e vinte centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, mencionado no item 24 do Relatório/Voto, nos termos do art. 54, inciso I, alínea 'a', da Lei Estadual nº 2.423/1996 LOTCE/AM, em razão da Restrição nº 02, o atraso no envio dos balancetes mensais referentes ao período de março, setembro outubro e novembro de 2020",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar multa ao Sr. Jorge Martins Sobrinho no valor de R$10.240,80 (dez mil, duzentos e quarenta reais e oitenta centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, mencionado no item 36 do Relatório/Voto, nos termos do dos artigos 1º, XXVI e 54, III, alínea 'b', Lei nº 2423/96 c/c o art. 308, inciso III da Resolução 04/2002, pela Restrição nº 04 (Ausência de informações no Portal de Transparência e Restrição nº 07 (Não registro dos horários de frequência de entrada e saída, no livro de ponto dos servidores em cargos efetivos e comissionado relativo ao exercício de 2020), e Restrição nº 09 (Ausência de controles específicos de almoxarifado",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Que observe com  rigor  os  prazos  de  publicação  dos dados do Relatório de Gestão Fiscal - RGF, via Sistema eContas-GEFIS,  em  cumprimento  aos  normativos  legais desta Corte de Contas, sob pena de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Que observe com  rigor  os  prazos  de  publicação  dos dados do Relatório de Gestão Fiscal - RGF, via Sistema eContas-GEFIS,  em  cumprimento  aos  normativos  legais desta Corte de Contas, sob pena de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A11C",
+          "tipologia_irregularidade": "Publicação do RREO até 30 dias após o encerramento do período",
+          "descricao": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona).",
+          "justificativa_tipologia": "A recomendação de observar rigorosamente os prazos de publicação do RGF é fundamental para garantir a transparência e a conformidade legal na gestão fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Que observe com rigor os prazos de remessa dos balancetes mensais, via Sistema e-Contas, em cumprimento aos normativos legais desta Corte de Contas, sob pena de reincidência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Que observe com rigor os prazos de remessa dos balancetes mensais, via Sistema e-Contas, em cumprimento aos normativos legais desta Corte de Contas, sob pena de reincidência.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A recomendação enfatiza a importância da entrega dos balancetes mensais dentro dos prazos estabelecidos, o que é crucial para a manutenção da regularidade contábil e fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar  ciência ao Sr.  Jorge  Martins  Sobrinho acerca  da  decisão, ficando  autorizada  a  emissão  de  nova  notificação  ao  interessado, caso a primeira seja frustrada. Ato contínuo, se, por ventura, persistir a  problemática,  para  não  restarem  dúvidas quanto  à sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art.97, da Resolução nº 04/2002",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar ciência ao Sr. Juarez Frazão Rodrigues Júnior - OAB/AM nº 5851 , advogado do interessado, acerca da decisão, ficando autorizada  a  emissão  de  nova  notificação  ao  interessado,  caso  a primeira  seja  frustrada.  Ato  contínuo,  se,  por  ventura,  persistir  a problemática,  para  não  restarem  dúvidas  quanto  à  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "arquivamento",
+      "descricao": "Arquivar o processo, após cumpridas as diligências processuais.",
+      "trechos_identificados": []
+    }
+  ]
+}

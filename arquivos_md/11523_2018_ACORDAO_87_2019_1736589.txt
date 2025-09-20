@@ -1,0 +1,263 @@
+{
+  "acordao": "87/2019",
+  "processo": "11523/2018",
+  "data_sessao": "12 de Fevereiro de 2019",
+  "orgao": "Serviço de Pronto Atendimento Joventina Dias - SPA JOVENTINA DIAS",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Elcinei  de  Lima  Sampaio",
+    "Marcio  Rafael Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular com  Ressalvas a Prestação de Contas Anual do Serviço de Pronto Atendimento Joventina Dias - SPA JOVENTINA DIAS, exercício de 2017, sob a responsabilidade do Sr. Marcio Rafael Rodrigues ,  Diretor-Geral da Unidade de Saúde, durante o período de janeiro a outubro de 2017, com fundamento nos arts. 19, II, 22, II, e 24, da Lei n.º  2.423/1996 (Lei  Orgânica deste Tribunal de Contas) c/c os arts.  188,  §  1º,  II,  da  Resolução  04/2002-TCE/AM (Regimento Interno deste Tribunal de Contas)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com  Ressalvas a Prestação de Contas Anual do Serviço de Pronto Atendimento Joventina Dias - SPA JOVENTINA DIAS, exercício de 2017, sob a responsabilidade do Sr. Marcio Rafael Rodrigues ,  Diretor-Geral da Unidade de Saúde, durante o período de janeiro a outubro de 2017, com fundamento nos arts. 19, II, 22, II, e 24, da Lei n.º  2.423/1996 (Lei  Orgânica deste Tribunal de Contas) c/c os arts.  188,  §  1º,  II,  da  Resolução  04/2002-TCE/AM (Regimento Interno deste Tribunal de Contas)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento com ressalvas, o trecho em si se refere ao julgamento formal, não descrevendo uma irregularidade específica. A tipologia foi escolhida por ser mais aderente aos problemas contábeis mencionados no documento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "19, II, 22, II, e 24",
+              "descricao": "Lei  Orgânica deste Tribunal de Contas"
+            },
+            {
+              "norma": "Resolução  04/2002-TCE/AM",
+              "artigo": "188, § 1º, II",
+              "descricao": "Regimento Interno deste Tribunal de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Marcio Rafael Rodrigues, Diretor-Geral da Unidade de Saúde, durante o período de janeiro a outubro de 2017, com fundamento no art. 24, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas)",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Marcio Rafael Rodrigues, Diretor-Geral da Unidade de Saúde, durante o período de janeiro a outubro de 2017, com fundamento no art. 24, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar da quitação, o trecho em si se refere a um ato administrativo regular, não descrevendo uma irregularidade específica. A tipologia foi escolhida por ser mais aderente aos problemas contábeis mencionados no documento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "24",
+              "descricao": "Lei Orgânica deste Tribunal de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular com  Ressalvas a Prestação de Contas Anual do Serviço de Pronto Atendimento Joventina Dias - SPA JOVENTINA DIAS,  exercício  de  2017,  sob  a  responsabilidade  da Sra.  Elcinei  de Lima  Sampaio , Diretora-Geral da  Unidade  de  Saúde,  durante  o período de novembro a dezembro de 2017, com fundamento nos arts. 19, II, 22, II, e 24, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas)  c/c  os  arts.  188,  §  1º,  II,  da  Resolução  04/2002-TCE/AM (Regimento Interno deste Tribunal de Contas)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com  Ressalvas a Prestação de Contas Anual do Serviço de Pronto Atendimento Joventina Dias - SPA JOVENTINA DIAS,  exercício  de  2017,  sob  a  responsabilidade  da Sra.  Elcinei  de Lima  Sampaio , Diretora-Geral da  Unidade  de  Saúde,  durante  o período de novembro a dezembro de 2017, com fundamento nos arts. 19, II, 22, II, e 24, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas)  c/c  os  arts.  188,  §  1º,  II,  da  Resolução  04/2002-TCE/AM (Regimento Interno deste Tribunal de Contas)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento com ressalvas, o trecho em si se refere ao julgamento formal, não descrevendo uma irregularidade específica. A tipologia foi escolhida por ser mais aderente aos problemas contábeis mencionados no documento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "19, II, 22, II, e 24",
+              "descricao": "Lei Orgânica deste Tribunal de Contas"
+            },
+            {
+              "norma": "Resolução  04/2002-TCE/AM",
+              "artigo": "188, § 1º, II",
+              "descricao": "Regimento Interno deste Tribunal de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação a Sra. Elcinei de Lima Sampaio , Diretora-Geral da Unidade de Saúde, durante o período de novembro a dezembro de 2017, com fundamento no art. 24, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas)",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação a Sra. Elcinei de Lima Sampaio , Diretora-Geral da Unidade de Saúde, durante o período de novembro a dezembro de 2017, com fundamento no art. 24, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar da quitação, o trecho em si se refere a um ato administrativo regular, não descrevendo uma irregularidade específica. A tipologia foi escolhida por ser mais aderente aos problemas contábeis mencionados no documento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "24",
+              "descricao": "Lei Orgânica deste Tribunal de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar aos  responsáveis, Sr. Marcio Rafael Rodrigues e Sra. Elcinei de Lima Sampaio , e à atual gestão da Unidade de Saúde, alertando aos mesmos de que a reincidência poderá causar a irregularidade das próximas contas anuais do órgão, além da aplicação de multa cabível:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observem com maior rigor as regras previstas na Lei n.º 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Observem com maior rigor as regras previstas na Lei n.º 8.666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A recomendação de observar as regras da Lei nº 8.666/1993 sugere deficiências ou descumprimento prévio dessas normas, indicando um problema concreto na gestão de licitações. A tipologia foi escolhida por ser aderente a problemas em licitações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "Não consta",
+              "descricao": "Lei de Licitações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observem com maior rigor as regras previstas na Lei n.° 4.320/1964",
+      "trechos_identificados": [
+        {
+          "trecho": "Observem com maior rigor as regras previstas na Lei n.° 4.320/1964",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação de observar a Lei nº 4.320/1964 sugere um problema concreto na execução orçamentária ou financeira da unidade. A tipologia foi escolhida por ser aderente aos problemas de execução orçamentaria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 4.320/1964",
+              "artigo": "Não consta",
+              "descricao": "Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "observem estritamente os ditames da lei em relação à utilização da modalidade de licitação correta, levando em consideração o valor global das despesas de mesma natureza, com desenvolvimento de amplo planejamento da execução orçamentária",
+      "trechos_identificados": [
+        {
+          "trecho": "observem estritamente os ditames da lei em relação à utilização da modalidade de licitação correta, levando em consideração o valor global das despesas de mesma natureza, com desenvolvimento de amplo planejamento da execução orçamentária",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A49A",
+          "tipologia_irregularidade": "Emergência fabricada",
+          "descricao": "A auditoria observou, por reiteradas vezes, a utilização de dispensa de licitação, com base no art. 24, IV, da Lei 8.666/1993 ou no art. 75, VIII, da Lei 14.133/2023, para casos de emergência ou de calamidade pública. No entanto, quando se analisa minuciosamente o caso concreto, observa-se que não se trata de emergência resultante de fato imprevisível, mas sim decorrente de falta de planejamento, de inércia administrativa ou de má gestão de recursos públicos. - Contudo, em que pese a comprovação da falta de planejamento e a inércia administrativa, entende-se cabível a dispensa de licitação com fundamento nesses dispositivos, em virtude da essencialidade do serviço, porém deve-se avaliar a responsabilização dos agentes públicos que concorreram para originar a situação emergencial.",
+          "justificativa_tipologia": "O texto detalha a necessidade de observar a modalidade correta de licitação e considerar o valor global das despesas, o que aponta para riscos de fracionamento ou escolha inadequada da modalidade licitatória. A tipologia escolhida representa bem essa falha de planejamento e uso indevido de emergências.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Em futuras prestações de contas, solicitem à CGE o Parecer do Controle Interno acerca da regularidade das contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Em futuras prestações de contas, solicitem à CGE o Parecer do Controle Interno acerca da regularidade das contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "A recomendação de solicitar o Parecer do Controle Interno sugere que a gestão atual pode estar negligenciando a importância do controle interno. A tipologia escolhida representa essa falta de controle nas transações financeiras.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Atentem para o planejamento e pagamento dos serviços tomados pela unidade gestora, evitando o acúmulo de débitos que são usualmente pagos sob a rubrica 'indenização'",
+      "trechos_identificados": [
+        {
+          "trecho": "Atentem para o planejamento e pagamento dos serviços tomados pela unidade gestora, evitando o acúmulo de débitos que são usualmente pagos sob a rubrica 'indenização'",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A recomendação para evitar o acúmulo de débitos pagos como 'indenização' aponta para um problema concreto de burla ao processo legal de pagamento e licitação, justificando a tipologia escolhida.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  próxima  Comissão  de  Inspeção  que,  no  ato  da  futura auditoria nas contas do Serviço de Pronto Atendimento Joventina Dias -  SPA  JOVENTINA  DIAS,  verifique  se  as  medidas  recomendadas foram cumpridas, a fim de não ensejar a reincidência das respectivas impropriedades, o que ocasionaria a irregularidade das Contas, com aplicação de multa, nos termos do art. 188, § 1º, III, 'e', da Resolução n.º 4/2002 - TCE/AM c/c o art. 22, III, § 1º, da Lei n.º 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  próxima  Comissão  de  Inspeção  que,  no  ato  da  futura auditoria nas contas do Serviço de Pronto Atendimento Joventina Dias -  SPA  JOVENTINA  DIAS,  verifique  se  as  medidas  recomendadas foram cumpridas, a fim de não ensejar a reincidência das respectivas impropriedades, o que ocasionaria a irregularidade das Contas, com aplicação de multa, nos termos do art. 188, § 1º, III, 'e', da Resolução n.º 4/2002 - TCE/AM c/c o art. 22, III, § 1º, da Lei n.º 2.423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Determinar à Comissão de Inspeção que verifique o cumprimento das medidas recomendadas para evitar a reincidência de impropriedades indica uma preocupação com a eficácia do sistema de controle interno na unidade auditada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 4/2002 - TCE/AM",
+              "artigo": "188, § 1º, III, 'e'",
+              "descricao": "Regimento Interno do TCE/AM"
+            },
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "22, III, § 1º",
+              "descricao": "Lei Orgânica do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar os responsáveis, Sr. Marcio Rafael Rodrigues e Sra. Elcinei de Lima Sampaio , sobre o desfecho atribuído aos autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar os responsáveis, Sr. Marcio Rafael Rodrigues e Sra. Elcinei de Lima Sampaio , sobre o desfecho atribuído aos autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A notificação dos responsáveis sobre o desfecho dos autos é um procedimento padrão para garantir a ciência e o cumprimento das determinações do Tribunal. Este procedimento está relacionado à estrutura do Controle Interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

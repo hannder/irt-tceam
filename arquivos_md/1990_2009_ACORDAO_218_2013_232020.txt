@@ -1,0 +1,361 @@
+{
+  "acordao": "218/2013",
+  "processo": "1990/2009",
+  "data_sessao": "11 de dezembro de 2013",
+  "orgao": "AMAZONASTUR",
+  "municipio": "Manaus",
+  "exercicio": "2008",
+  "responsavel": [
+    "Oreni Campelo Braga da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "IRREGULARIDADE",
+      "descricao": "Julgar pela IRREGULARIDADE das Contas da Empresa Estadual de Turismo -AMAZONASTUR/Destaque, referente ao exercício de 2008, de responsabilidade da Sra. Oreni Campelo  Braga da Silva, Diretora-Presidente da AMAZONASTUR e ordenadora de despesas, nos termos do art. 22, III, alínea \"b\" c/c o art. 25, ambos da Lei n° 2.423/96-TCE/AM e art. 5°, inciso II, da Resolução n° 04/2002-RITCE, para:",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar pela IRREGULARIDADE das Contas da Empresa Estadual de Turismo -AMAZONASTUR/Destaque, referente ao exercício de 2008, de responsabilidade da Sra. Oreni Campelo  Braga da Silva, Diretora-Presidente da AMAZONASTUR e ordenadora de despesas, nos termos do art. 22, III, alínea \"b\" c/c o art. 25, ambos da Lei n° 2.423/96-TCE/AM e art. 5°, inciso II, da Resolução n° 04/2002-RITCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "O trecho descreve um julgamento de irregularidade nas contas, indicando problemas na apresentação e avaliação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96-TCE/AM",
+              "artigo": "22, III, alínea \"b\" c/c o art. 25",
+              "descricao": "Base legal para o julgamento de irregularidade das contas."
+            },
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "5°, inciso II",
+              "descricao": "Regulamenta o julgamento de irregularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "GLOSAR o montante de R$ 22.112,36 (vinte e dois mil, cento e doze reais e trinta e seis centavos), em alcance da Sra. Oreni Campelo Braga da Silva, pela má gestão financeira que gerou encargos neste valor, pela não quitação de suas obrigações, tendo em vista a geração de despesa em desfavor da Administração Pública, causando dano ao Erário, descrito no item 6.2 do relatório/voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "GLOSAR o montante de R$ 22.112,36 (vinte e dois mil, cento e doze reais e trinta e seis centavos), em alcance da Sra. Oreni Campelo Braga da Silva, pela má gestão financeira que gerou encargos neste valor, pela não quitação de suas obrigações, tendo em vista a geração de despesa em desfavor da Administração Pública, causando dano ao Erário, descrito no item 6.2 do relatório/voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho determina a glosa de um montante devido à má gestão financeira e não quitação de obrigações, o que configura dano ao erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "FIXAR o  prazo  de  30  (trinta)  dias,  para  que  a  Sra.  Oreni  Campelo Braga  da  SIlva,  Diretora-Presidente  da  AMAZONASTUR  e  ordenadora  de  despesas, recolha o valor do débito que lhe foi aplicado aos cofres públicos (art. 72, III, 'c', da Lei nº 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o  prazo  de  30  (trinta)  dias,  para  que  a  Sra.  Oreni  Campelo Braga  da  SIlva,  Diretora-Presidente  da  AMAZONASTUR  e  ordenadora  de  despesas, recolha o valor do débito que lhe foi aplicado aos cofres públicos (art. 72, III, 'c', da Lei nº 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho determina um prazo para o recolhimento de débito, estabelecendo procedimentos a serem seguidos pela DICREX.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Define o prazo para recolhimento do débito."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "Seção III, do Capítulo X, da",
+              "descricao": "Autoriza a DICREX a adotar medidas para garantir o recolhimento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "AUTORIZAR , em  caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73  da  Lei  nº  2.423/96,  art.  169,  II,  art.  173,  e  §  6º  do  art.  308,  todos  da  Resolução  nº 04/2002- TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR , em  caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73  da  Lei  nº  2.423/96,  art.  169,  II,  art.  173,  e  §  6º  do  art.  308,  todos  da  Resolução  nº 04/2002- TCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho autoriza a inscrição do débito em dívida ativa e ação executiva em caso de não recolhimento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "art. 169, II, art. 173, e § 6º do art. 308",
+              "descricao": "Define os procedimentos para a inscrição em dívida ativa e ação executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "DETERMINAR à Origem que: a)  Observe  e  cumpra  com maior  rigor  as  normas  vigentes,  encaminhando suas contas anuais, por meio da Secretaria Estadual ou Municipal a que estiver vinculada, sob pena de aplicação de multa, item 1 do relatório/voto; b) Encaminhe  sua  Prestação  de  Contas  Anual  no  prazo  estabelecido, contendo todos os documentos exigidos na legislação, sob pena de aplicação de sanções, Item 2 do relatório/voto; c) Envie sempre os originais dos documentos exigidos por esta Corte quando da Prestação de Contas, devidamente assinados, sob pena de aplicação de multa, item 3.1 do relatório/voto; d)  Quando  não  for  de  sua  total  responsabilidade  a  emissão  de  qualquer documento,  que  a  AMAZONASTUR  tome  as  providências  cabíveis  para  solucionar qualquer atraso  ou  ausência  na  emissão  de  qualquer  documentação,  item  3.3 do relatório/voto; e) Tome  as  devidas  providências  a  fim  de  adequar  as  demonstrações contábeis conforme preceitua a Lei n° 11.638/2007, sob pena de aplicação de multa, item 5.1 do relatório/voto; f)  Tome as providências tempestivas e cabíveis em caso de pendências de prestação  de  contas  de  adiantamentos,  sob  pena  de  aplicação  de  sanções  por  este Tribunal, item 5.2 do relatório/voto; g) Nas próximas prestações de contas, envie de forma correta e tempestiva as conciliações bancárias de todas as contas constantes das demonstrações contábeis, item 5.3 do relatório/voto; h) Observe com maior rigor os ditames da Lei n° 6.404/76 a fim de classificar as  contas  corretamente,  contabilizando  as  obras  em  andamento  e  conclusas,  no  Ativo Imobilizado, bem como, contabilize a correta depreciação, sob pena de aplicação de multa, item 5.4 do relatório/voto; i) Altere a contabilização dos bens de consumo a fim de que seja evidenciado a  real  situação  da  empresa  quanto  ao  estoque,  cumprindo,  portanto,  o  princípio  da competência,  registrando  os  atos  e  fatos  contábeis  de  maneira  correta,  sob  pena  de aplicação de multa, item 5.6 do relatório/voto; j)  Cumpra piamente os ditames da Lei n° 11.638/2007 e demais legislações contábeis, item 5.7 do relatório/voto; k) Apresente as informações de previsão orçamentária (Balanço Orçamentário) de acordo com as normas e técnicas contábeis, de forma que o resultado de previsão corresponda à realidade da empresa, sob pena de aplicação de multa, item 8.1 do relatório/voto; l) Na próxima prestação de contas, apresente o DRPIEO, de forma completa e correta, devidamente harmonizado com os dados contidos no Balanço Financeiro, sob pena de aplicação de multa, item 9.1 do relatório/voto; m) Tenha mais atenção na elaboração do Anexo 17 da Lei n. 4.320/64, sob pena de aplicação de multa, item 9.2 do relatório/voto; n) Tome as providências para garantir a compatibilização das informações do inventário dos bens com os valores registrados no Balanço Patrimonial, com a segregação e adequação necessária, sob pena de aplicação de multa, item 10.1 do relatório/voto; o) Tome as providências cabíveis a fim de trabalhar com um único sistema de escrituração contábil, sob pena de aplicação de multa, item 12 do relatório/voto; p)  Cumpra  o  estabelecido  no  art.  16,  da  LRF  n°  101/2000,  sob  pena  de aplicação de multa, item 13.4 do relatório/voto; q)  Tome  as  providências  cabíveis  para  regularização  do  seu  quadro  de pessoal, conforme descrito no item 16.1 do relatório/voto; r) Providencie um  sistema  que  dê  suporte  às  atividades do setor de patrimônio, realize inventários sistemáticos e compatibilize os controles patrimoniais com os montantes  registrados  pela  contabilidade  em  cumprimento  aos  dispositivos  da  Lei  n. 4.320/64, sob pena de aplicação de multa, item 18 do relatório/voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  e  cumpra  com maior  rigor  as  normas  vigentes,  encaminhando suas contas anuais, por meio da Secretaria Estadual ou Municipal a que estiver vinculada, sob pena de aplicação de multa, item 1 do relatório/voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação exige o cumprimento rigoroso das normas vigentes para o encaminhamento das contas anuais.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Encaminhe  sua  Prestação  de  Contas  Anual  no  prazo  estabelecido, contendo todos os documentos exigidos na legislação, sob pena de aplicação de sanções, Item 2 do relatório/voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação exige o cumprimento rigoroso das normas vigentes para o encaminhamento das contas anuais dentro do prazo.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Envie sempre os originais dos documentos exigidos por esta Corte quando da Prestação de Contas, devidamente assinados, sob pena de aplicação de multa, item 3.1 do relatório/voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação exige o envio dos originais dos documentos devidamente assinados.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Quando  não  for  de  sua  total  responsabilidade  a  emissão  de  qualquer documento,  que  a  AMAZONASTUR  tome  as  providências  cabíveis  para  solucionar qualquer atraso  ou  ausência  na  emissão  de  qualquer  documentação,  item  3.3 do relatório/voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação exige que a AMAZONASTUR tome providências em caso de atraso ou ausência de documentos, mesmo que a emissão não seja de sua responsabilidade.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Tome as devidas providências a fim de adequar as demonstrações contábeis conforme preceitua a Lei n° 11.638/2007, sob pena de aplicação de multa, item 5.1 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação determina a adequação das demonstrações contábeis conforme a Lei nº 11.638/2007, indicando uma possível não conformidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 11.638/2007",
+              "artigo": "Não aplicável",
+              "descricao": "Determina a adequação das demonstrações contábeis."
+            }
+          ]
+        },
+        {
+          "trecho": "Tome as providências tempestivas e cabíveis em caso de pendências de prestação de contas de adiantamentos, sob pena de aplicação de sanções por este Tribunal, item 5.2 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação exige a resolução tempestiva das pendências na prestação de contas de adiantamentos, sugerindo falhas nessa área.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Nas próximas prestações de contas, envie de forma correta e tempestiva as conciliações bancárias de todas as contas constantes das demonstrações contábeis, item 5.3 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A deliberação exige a correta e tempestiva conciliação bancária das contas, indicando a existência de problemas nessa área.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Observe com maior rigor os ditames da Lei n° 6.404/76 a fim de classificar as contas corretamente, contabilizando as obras em andamento e conclusas, no Ativo Imobilizado, bem como, contabilize a correta depreciação, sob pena de aplicação de multa, item 5.4 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "A deliberação exige a correta classificação das contas e contabilização das obras e depreciação conforme a Lei nº 6.404/76, indicando problemas nessa área.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 6.404/76",
+              "artigo": "Não aplicável",
+              "descricao": "Determina a correta classificação das contas e contabilização das obras e depreciação."
+            }
+          ]
+        },
+        {
+          "trecho": "Altere a contabilização dos bens de consumo a fim de que seja evidenciado a  real  situação  da  empresa  quanto  ao  estoque,  cumprindo,  portanto,  o  princípio  da competência,  registrando  os  atos  e  fatos  contábeis  de  maneira  correta,  sob  pena  de aplicação de multa, item 5.6 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques)",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques)",
+          "justificativa_tipologia": "A deliberação exige a correta contabilização dos bens de consumo para evidenciar a real situação do estoque, cumprindo o princípio da competência.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Cumpra piamente os ditames da Lei n° 11.638/2007 e demais legislações contábeis, item 5.7 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação exige o cumprimento da Lei nº 11.638/2007 e demais legislações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 11.638/2007",
+              "artigo": "Não aplicável",
+              "descricao": "Determina o cumprimento da legislação contábil."
+            }
+          ]
+        },
+        {
+          "trecho": "Apresente as informações de previsão orçamentária (Balanço Orçamentário) de acordo com as normas e técnicas contábeis, de forma que o resultado de previsão corresponda à realidade da empresa, sob pena de aplicação de multa, item 8.1 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação exige a apresentação de informações de previsão orçamentária de acordo com as normas e técnicas contábeis.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Na próxima prestação de contas, apresente o DRPIEO, de forma completa e correta, devidamente harmonizado com os dados contidos no Balanço Financeiro, sob pena de aplicação de multa, item 9.1 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação exige a apresentação do DRPIEO de forma completa e correta, harmonizado com o Balanço Financeiro.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Tenha mais atenção na elaboração do Anexo 17 da Lei n. 4.320/64, sob pena de aplicação de multa, item 9.2 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação exige atenção na elaboração do Anexo 17 da Lei nº 4.320/64.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "Não aplicável",
+              "descricao": "Determina atenção na elaboração do Anexo 17."
+            }
+          ]
+        },
+        {
+          "trecho": "Tome as providências para garantir a compatibilização das informações do inventário dos bens com os valores registrados no Balanço Patrimonial, com a segregação e adequação necessária, sob pena de aplicação de multa, item 10.1 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "justificativa_tipologia": "A deliberação exige a compatibilização das informações do inventário dos bens com os valores do Balanço Patrimonial.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Tome as providências cabíveis a fim de trabalhar com um único sistema de escrituração contábil, sob pena de aplicação de multa, item 12 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de registro de conta contábil",
+          "descricao": "Ausência de registro de conta contábil",
+          "justificativa_tipologia": "A deliberação exige a utilização de um único sistema de escrituração contábil.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Cumpra o estabelecido no art. 16, da LRF n° 101/2000, sob pena de aplicação de multa, item 13.4 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A77A",
+          "tipologia_irregularidade": "Regra de Ouro descumprida",
+          "descricao": "Não cumpriu o desejável Regra de Ouro.",
+          "justificativa_tipologia": "A deliberação exige o cumprimento do art. 16 da LRF, relacionado à gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LRF n° 101/2000",
+              "artigo": "16",
+              "descricao": "Determina o cumprimento das metas fiscais."
+            }
+          ]
+        },
+        {
+          "trecho": "Tome as providências cabíveis para regularização do seu quadro de pessoal, conforme descrito no item 16.1 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A18B",
+          "tipologia_irregularidade": "Ausência de hipótese de isenção de taxa de inscrição para cidadãos contemplados em lei",
+          "descricao": "Ausência de hipótese de isenção de taxa de inscrição para cidadãos contemplados em lei",
+          "justificativa_tipologia": "A deliberação exige a regularização do quadro de pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Providencie um sistema que dê suporte às atividades do setor de patrimônio, realize inventários sistemáticos e compatibilize os controles patrimoniais com os montantes registrados pela contabilidade em cumprimento aos dispositivos da Lei n. 4.320/64, sob pena de aplicação de multa, item 18 do relatório/voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A deliberação exige um sistema de suporte ao setor de patrimônio, inventários sistemáticos e compatibilização dos controles patrimoniais com os montantes registrados pela contabilidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "Não aplicável",
+              "descricao": "Determina o cumprimento dos dispositivos para o setor de patrimônio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "DETERMINAR à próxima Comissão de Inspeção que: a) Verifique se a contabilidade da  AMAZONASTUR se ajustou às normas e legislações vigentes, item 5.1 do relatório/voto; b) Verifique o saldo e o registro da conta 'Reservas de Capital', detectando se a mesma encontra-se conforme a legislação em vigor, item 5.7 do relatório/voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Verifique se a contabilidade da  AMAZONASTUR se ajustou às normas e legislações vigentes, item 5.1 do relatório/voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTER

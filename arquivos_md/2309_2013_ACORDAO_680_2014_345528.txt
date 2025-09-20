@@ -1,0 +1,18 @@
+{
+  "acordao": "680/2014",
+  "processo": "2309/2013",
+  "data_sessao": "25 de novembro de 2014",
+  "orgao": "Fundo Previdenciário do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Silvestre de Castro Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Arquivamento",
+      "descricao": "ACORDAM os Excelentíssimos  Senhores  Conselheiros do Tribunal de Contas do Estado do Amazonas, reunidos em sessão Plenária, no exercício da competência atribuída pelo  art. 40, II, da Constituição Estadual, c/c os arts. 1º, II, 2º, 4º e 5º, I, da Lei nº 2423/96 e arts. 5º, II e 11, inciso III, alínea 'a', item 3, da Resolução nº 04/2002-TCE/AM, à unanimidade, nos termos da proposta de voto do Auditor-Relator, em divergência com o pronunciamento do Ministério Público junto ao Tribunal de Contas, no sentido de determinar o arquivamento dos autos.",
+      "trechos_identificados": []
+    }
+  ]
+}

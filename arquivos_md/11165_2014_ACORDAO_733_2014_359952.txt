@@ -1,0 +1,192 @@
+{
+  "acordao": "733/2014",
+  "processo": "11165/2014",
+  "data_sessao": "11 de dezembro de 2014",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Manacapuru",
+  "municipio": "Manacapuru",
+  "exercicio": "2013",
+  "responsavel": [
+    "Filadelfo Pereira Pacheco",
+    "Flávia Ferreira da Silva",
+    "Astride Ferreira da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "CONSIDERAR a Responsável, Sra. Flávia Ferreira da Silva (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 18/04/2013 a 01/12/2013), REVEL, em conformidade com o preconizado pelo art. 20, § 3º, da Lei n.º 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "CONSIDERAR a Responsável, Sra. Flávia Ferreira da Silva (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 18/04/2013 a 01/12/2013), REVEL, em conformidade com o preconizado pelo art. 20, § 3º, da Lei n.º 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho indica o registro de revelia, que é um procedimento administrativo sem apontar uma irregularidade em si.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "20",
+              "descricao": "Registro de revelia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "JULGAR IRREGULAR a Prestação de Contas do Serviço Autônomo de Água e Esgoto - SAAE Manacapuru, exercício de 2013, referente ao período de 02/01/2013 a 17/04/2013, de responsabilidade do Sr. Filadelfo Pereira Pacheco (Diretor do SAAE Manacapuru e Ordenadora de Despesas no período de 02/01/2013 a 17/04/2013), ao período de 18/04/2013 a 01/12/2013, de responsabilidade da Sra. Flávia Ferreira da Silva (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 18/04/2013 a 01/12/2013), e ao período de 02/12/2013 a 31/12/2013, de responsabilidade da Sra. Astride Ferreira da Silva (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 02/12/2013 a 31/12/2013) nos termos dos arts. 22, III, 'b' e 25 da Lei n.º 2.423/96 c/c o art. 188, § 1º, III, 'b' da Resolução 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR IRREGULAR a Prestação de Contas do Serviço Autônomo de Água e Esgoto - SAAE Manacapuru, exercício de 2013, referente ao período de 02/01/2013 a 17/04/2013, de responsabilidade do Sr. Filadelfo Pereira Pacheco (Diretor do SAAE Manacapuru e Ordenadora de Despesas no período de 02/01/2013 a 17/04/2013), ao período de 18/04/2013 a 01/12/2013, de responsabilidade da Sra. Flávia Ferreira da Silva (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 18/04/2013 a 01/12/2013), e ao período de 02/12/2013 a 31/12/2013, de responsabilidade da Sra. Astride Ferreira da Silva (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 02/12/2013 a 31/12/2013) nos termos dos arts. 22, III, 'b' e 25 da Lei n.º 2.423/96 c/c o art. 188, § 1º, III, 'b' da Resolução 04/02TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho aponta para a irregularidade das contas devido a falhas no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22",
+              "descricao": "III, 'b'"
+            },
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "25",
+              "descricao": "multa"
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188",
+              "descricao": "§ 1º, III, 'b'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "APLICAR MULTA ao Responsável, SR. FILADELFO PEREIRA PACHECO (Diretor do SAAE Manacapuru e Ordenadora de Despesas no período de 02/01/2013 a 17/04/2013), a ser recolhida aos cofres estaduais, nos termos do art. 1º, XXVI, da Lei n. 2.423/1996 c/c o art. 5º, XXVI, da Resolução nº 04/02, no valor de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 54, I e II, da Lei n.º 2423/96 (Lei Orgânica) e no art. 308, III e VI, da Resolução n.º 04/2002 (Regimento Interno), em virtude das graves infrações às normas legais, elencadas abaixo:\n9.1.3.1Ausência de movimentação de contas Patrimoniais no registro da Dívida Ativa fato que contraria o 'Manual de Procedimentos - Dívida Ativa', face o Débito de R$ 722.620,97;\n9.1.3.2Ausência da descrição dos débitos junto à Eletrobrás nos Balanços apresentados na presente Prestação de Contas, não atendendo, assim, às exigências contidas nos arts. 83 a 106 da Lei nº. 4.320/64;\n9.1.3.3Ausência de justificação que fundamentasse a contratação direta efetuada pela Dispensa de Licitação n° 094/2013, que teve como objeto a contratação da empresa Norte Motores e Serviços Ltda. para Consertos e Reparos de Motores e Bombas submersas, visto que tal dispensa se deu com fulcro no inc. IV do art. 26 da lei 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA ao Responsável, SR. FILADELFO PEREIRA PACHECO (Diretor do SAAE Manacapuru e Ordenadora de Despesas no período de 02/01/2013 a 17/04/2013), a ser recolhida aos cofres estaduais, nos termos do art. 1º, XXVI, da Lei n. 2.423/1996 c/c o art. 5º, XXVI, da Resolução nº 04/02, no valor de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 54, I e II, da Lei n.º 2423/96 (Lei Orgânica) e no art. 308, III e VI, da Resolução n.º 04/2002 (Regimento Interno)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Aplicação de multa por irregularidades na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/1996",
+              "artigo": "1",
+              "descricao": "XXVI"
+            },
+            {
+              "norma": "Resolução nº 04/02",
+              "artigo": "5",
+              "descricao": "XXVI"
+            },
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "54",
+              "descricao": "I e II"
+            },
+            {
+              "norma": "Resolução n.º 04/2002",
+              "artigo": "308",
+              "descricao": "III e VI"
+            }
+          ]
+        },
+        {
+          "trecho": "Ausência de movimentação de contas Patrimoniais no registro da Dívida Ativa fato que contraria o 'Manual de Procedimentos - Dívida Ativa', face o Débito de R$ 722.620,97",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A ausência de movimentação em contas patrimoniais e o não registro de dívida ativa indicam falhas na conciliação bancária e no controle contábil, resultando em divergências entre os saldos contábeis e a situação financeira real.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência da descrição dos débitos junto à Eletrobrás nos Balanços apresentados na presente Prestação de Contas, não atendendo, assim, às exigências contidas nos arts. 83 a 106 da Lei nº. 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O não atendimento das exigências dos arts. 83 a 106 da Lei nº 4.320/64 implica na ausência de informações essenciais nas notas explicativas, prejudicando a transparência e a correta interpretação das demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 4.320/64",
+              "artigo": "83 a 106",
+              "descricao": "Exigências de informações nas demonstrações contábeis"
+            }
+          ]
+        },
+        {
+          "trecho": "Ausência de justificação que fundamentasse a contratação direta efetuada pela Dispensa de Licitação n° 094/2013, que teve como objeto a contratação da empresa Norte Motores e Serviços Ltda. para Consertos e Reparos de Motores e Bombas submersas, visto que tal dispensa se deu com fulcro no inc. IV do art. 26 da lei 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A ausência de justificativa adequada para a contratação direta por dispensa de licitação indica descumprimento dos requisitos legais e falta de transparência no processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "26",
+              "descricao": "inc. IV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "APLICAR MULTA à Responsável SRA. FLÁVIA FERREIRA DA SILVA (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 18/04/2013 a 01/12/2013), a ser recolhida aos cofres estaduais, nos termos do art. 1º, XXVI, da Lei n. 2.423/1996 c/c o art. 5º, XXVI, da Resolução nº 04/02, na forma como segue:\n\nNo valor de 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 54, I e II, da Lei n.º 2423/96 (Lei Orgânica) e no art. 308, III e VI, da Resolução n.º 04/2002 (Regimento Interno), em virtude das graves infrações às normas legais",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA à Responsável SRA. FLÁVIA FERREIRA DA SILVA (Diretora do SAAE Manacapuru e Ordenadora de Despesas no período de 18/04/2013 a 01/12/2013), a ser recolhida aos cofres estaduais, nos termos do art. 1º, XXVI, da Lei n. 2.423/1996 c/c o art. 5º, XXVI, da Resolução nº 04/02, na forma como segue:\n\nNo valor de 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 54, I e II, da Lei n.º 2423/96 (Lei Orgânica) e no art. 308, III e VI, da Resolução n.º 04/2002 (Regimento Interno), em virtude das graves infrações às normas legais",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Aplicação de multa por descumprimento de normas legais, com foco em Gestão Fiscal",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/1996",
+              "artigo": "1",
+              "descricao": "XXVI"
+            },
+            {
+              "norma": "Resolução nº 04/02",
+              "artigo": "5",
+              "descricao": "XXVI"
+            },
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "54",
+              "descricao": "I e II"
+            },
+            {
+              "norma": "Resolução n.º 04/2002",
+              "artigo": "308",
+              "descricao": "III e VI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

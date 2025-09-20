@@ -1,0 +1,101 @@
+{
+  "acordao": "1722/2022",
+  "processo": "11322/2020",
+  "data_sessao": "04 de Outubro de 2022",
+  "orgao": "Câmara Municipal de Anori",
+  "municipio": "Anori",
+  "exercicio": "2019",
+  "responsavel": [
+    "Jose Alves Roberto"
+  ],
+  "itens": [
+    {
+      "tipo": "ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual da Câmara  Municipal  de  Anori,  de  responsabilidade  do  S r. Jose  Alves Roberto , na condição de Vereador-Presidente e Ordenador de Despesa,  referente  ao  exercício  de  2019,  em  razão  das  restrições apontadas  pela  Comissão  de  Inspeção,  e  não  totalmente  sanadas, ressalvando-se ainda, que nenhuma das restrições tem potencial lesivo ao Erário, com fundamento no art. 22, II e da Lei nº 2423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "quitação",
+      "descricao": "Dar  quitação ao Sr.  Jose  Alves  Roberto ,  de  conformidade  com  os arts.  24  e  72,  II,  ambos  da  Lei  nº  2.423/1996,  c/c  art.  189,  II,  da Resolução nº 02/2002 RITCE-AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar Recomendação à  origem,  nos  termos  do  Art.  188,  §2º  do Regimento Interno/TCEAM, no sentido de:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "proceder  à  criação  de  uma  Procuradoria  Jurídica para salvaguardar os interesses do Legislativo Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "proceder  à  criação  de  uma  Procuradoria  Jurídica para salvaguardar os interesses do Legislativo Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A criação de uma procuradoria jurídica visa fortalecer a estrutura de controle interno e garantir a legalidade e segurança jurídica dos atos do Legislativo Municipal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "manter  esforços  no  sentido  da  manutenção  do Portal  de  Transparência  atualizado  em  tempo  real,  em observância ao disposto na Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "manter  esforços  no  sentido  da  manutenção  do Portal  de  Transparência  atualizado  em  tempo  real,  em observância ao disposto na Lei Complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A manutenção do Portal de Transparência atualizado em tempo real é fundamental para garantir a transparência e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a necessidade de manter o Portal de Transparência atualizado em tempo real."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "atentar a todas as regras contidas na Lei 8666/93, quanto à autuação dos Processos Licitatórios",
+      "trechos_identificados": [
+        {
+          "trecho": "atentar a todas as regras contidas na Lei 8666/93, quanto à autuação dos Processos Licitatórios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A recomendação para atentar às regras da Lei 8666/93 visa evitar irregularidades e garantir a legalidade nos processos licitatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "Não consta",
+              "descricao": "Estabelece normas para licitações e contratos da Administração Pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar  ciência ao Sr.  Jose  Alves  Roberto ,  bem  como  à  advogada  da viúva  do  gestor  falecido,  sobre  o  teor  desta  Decisão,  com  cópia  do Relatório-Voto e do respectivo Acórdão",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "arquivamento",
+      "descricao": "Arquivar o  presente  processo,  após  cumpridas  as  determinações acima",
+      "trechos_identificados": []
+    }
+  ]
+}

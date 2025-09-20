@@ -1,0 +1,351 @@
+{
+  "acordao": "64/2017",
+  "processo": "11383/2016",
+  "data_sessao": "2017-01-31",
+  "orgao": "Câmara Municipal de Urucará",
+  "municipio": "Urucará",
+  "exercicio": "2015",
+  "responsavel": [
+    "Almir Fernandes Guimarães"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Regular com Ressalvas",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Almir Fernandes Guimarães, Presidente da Câmara Municipal de Urucará, exercício de 2015, enquanto Ordenador de Despesa, nos termos do art. 1º, II, 22, II, e 24 da Lei n° 2.423/1996 e art. 188, § 1º, II, e 189, II, da Resolução n° 04/2002 - TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Almir Fernandes Guimarães, no valor de R$ 3.500,00 (três mil e quinhentos reais), nos termos do parágrafo único do art. 53 da Lei n° 2.423/96, que devem ser recolhidos aos cofres da Fazenda Estadual para o órgão Encargos Gerais do Estado - SEFAZ, realitivamente às restrições 1, 5, 6, 11 e 12 do Relatório Conclusivo nº 126/2016 - C.I/DICAMI",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Intempestividade na remessa dos informes periódicos referentes ao mes de outubro de 2015, com atrasos de 759 dias, encaminhados via Portal E-Contas fora do prazo concedido na Ata da 38ª Sessão Administrativa desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Intempestividade na remessa dos informes periódicos referentes ao mes de outubro de 2015, com atrasos de 759 dias, encaminhados via Portal E-Contas fora do prazo concedido na Ata da 38ª Sessão Administrativa desta Corte de Contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve o envio de informações fora do prazo estabelecido.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Permanência em caixa de valores monetários durante todo exercício de 2015, em observância ao art. 43 da Lei nº 101/00 c/c o § 3º do art. 164 da CF/88 c/c os §§ 1º e 2º do Art. 156, da CE/89",
+      "trechos_identificados": [
+        {
+          "trecho": "Permanência em caixa de valores monetários durante todo exercício de 2015, em observância ao art. 43 da Lei nº 101/00 c/c o § 3º do art. 164 da CF/88 c/c os §§ 1º e 2º do Art. 156, da CE/89",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho descreve a manutenção de valores em caixa durante todo o exercício, contrariando o princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 101/00",
+              "artigo": "43",
+              "descricao": "Permanência em caixa de valores monetários durante todo exercício de 2015."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "164",
+              "descricao": "Permanência em caixa de valores monetários durante todo exercício de 2015."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "156",
+              "descricao": "Permanência em caixa de valores monetários durante todo exercício de 2015."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Ausência de Lei que regulamente o quantitativo mínimo de cargos comissionados, que devam ser preenchidos exclusivamente  por  servidores  efetivos  conforme  determina  o art. 37, inciso V, da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Lei que regulamente o quantitativo mínimo de cargos comissionados, que devam ser preenchidos exclusivamente  por  servidores  efetivos  conforme  determina  o art. 37, inciso V, da Constituição Federal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A7B",
+          "tipologia_irregularidade": "Excesso de cargos comissionados",
+          "descricao": "Excesso de cargos comissionados",
+          "justificativa_tipologia": "O trecho descreve a ausência de lei regulamentando o quantitativo mínimo de cargos comissionados preenchidos por servidores efetivos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37",
+              "descricao": "Ausência de Lei que regulamente o quantitativo mínimo de cargos comissionados, que devam ser preenchidos exclusivamente  por  servidores  efetivos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Pregão Eletrônico nº 002/2015 - CMU -subitem 5 - no processo licitatório usou-se Projeto Básico, considerando que para a modalidade de Pregão Eletrônico o termo correto seria Termo de Referência, conforme determina o art. 22, II, do Decreto nº 21.178/00",
+      "trechos_identificados": [
+        {
+          "trecho": "Pregão Eletrônico nº 002/2015 - CMU -subitem 5 - no processo licitatório usou-se Projeto Básico, considerando que para a modalidade de Pregão Eletrônico o termo correto seria Termo de Referência, conforme determina o art. 22, II, do Decreto nº 21.178/00",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "A utilização de projeto básico em vez de termo de referência é uma irregularidade na licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto nº 21.178/00",
+              "artigo": "22",
+              "descricao": "Para a modalidade de Pregão Eletrônico o termo correto seria Termo de Referência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Pregão Eletrônico nº 002/2015 - CMU -subitem 6 - na fase externa do pregão, não houve o cumprimento do prazo mínimos de 08 dias úteis, contados da publicação do aviso no Diário Oficial, para que os interessados procurarem suas propostas, na forma do art. 10, §2°, do Decreto nº 21.178/00",
+      "trechos_identificados": [
+        {
+          "trecho": "Pregão Eletrônico nº 002/2015 - CMU -subitem 6 - na fase externa do pregão, não houve o cumprimento do prazo mínimos de 08 dias úteis, contados da publicação do aviso no Diário Oficial, para que os interessados procurarem suas propostas, na forma do art. 10, §2°, do Decreto nº 21.178/00",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "Não cumprimento do prazo mínimo de 8 dias úteis para que os interessados procurem suas propostas é uma irregularidade na licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto nº 21.178/00",
+              "artigo": "10",
+              "descricao": "na fase externa do pregão, não houve o cumprimento do prazo mínimos de 08 dias úteis, contados da publicação do aviso no Diário Oficial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Pregão Eletrônico nº 002/2015 - CMU - subitem 7 - ausência do parecer jurídico sobre o edital e a minuta do contrato, no âmbito da Comissão, contrariando o art. 22, VII, do Decreto nº 21.178/00",
+      "trechos_identificados": [
+        {
+          "trecho": "Pregão Eletrônico nº 002/2015 - CMU - subitem 7 - ausência do parecer jurídico sobre o edital e a minuta do contrato, no âmbito da Comissão, contrariando o art. 22, VII, do Decreto nº 21.178/00",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A ausência de parecer jurídico é uma irregularidade na licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto nº 21.178/00",
+              "artigo": "22",
+              "descricao": "ausência do parecer jurídico sobre o edital e a minuta do contrato"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Termo  de  Contrato 001/2015 - subitem 1 - minuta do contrato não foi previamente examinada e aprovada pela assessoria jurídica da Administração, contrariando o art. 38, parágrafo único, da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Termo  de  Contrato 001/2015 - subitem 1 - minuta do contrato não foi previamente examinada e aprovada pela assessoria jurídica da Administração, contrariando o art. 38, parágrafo único, da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A ausência de parecer jurídico é uma irregularidade no termo de contrato.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38",
+              "descricao": "minuta do contrato não foi previamente examinada e aprovada pela assessoria jurídica da Administração"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Termo de Contrato 001/2015 - subitem 2 - não consta nos autos listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado, contrariando o art. 67, caput e §1º, da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Termo de Contrato 001/2015 - subitem 2 - não consta nos autos listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado, contrariando o art. 67, caput e §1º, da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "Não consta listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "67",
+              "descricao": "não consta nos autos listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Termo  de  Contrato 002/2015 - subitem 1 - minuta do contrato não foi previamente examinada e aprovada pela assessoria jurídica da Administração, contrariando o art. 38, parágrafo único, da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Termo  de  Contrato 002/2015 - subitem 1 - minuta do contrato não foi previamente examinada e aprovada pela assessoria jurídica da Administração, contrariando o art. 38, parágrafo único, da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "minuta do contrato não foi previamente examinada e aprovada pela assessoria jurídica da Administração",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38",
+              "descricao": "minuta do contrato não foi previamente examinada e aprovada pela assessoria jurídica da Administração"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Termo de Contrato 002/2015 - subitem 2 - não consta nos autos listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado, contrariando o art. 67, caput e §1º, da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Termo de Contrato 002/2015 - subitem 2 - não consta nos autos listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado, contrariando o art. 67, caput e §1º, da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "não consta nos autos listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "67",
+              "descricao": "não consta nos autos listas de verificação, relatórios de acompanhamento ou outros controles que sinalizem o efetivo acompanhamento e fiscalização da execução contratual por parte de representante da Administração especialmente designado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe  estritamente o  cumprimento  no  prazo  de  remessa  dos informes periódicos via Portal e-Contas  a  este Tribunal, conforme estabelece  o  art.  3º,  da  Resolução  TCE  nº  13/2015,  assim  como,  às Decisões  Administrativas  do  Egrégio  Tribunal  Pleno  desta  Corte  de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  estritamente o  cumprimento  no  prazo  de  remessa  dos informes periódicos via Portal e-Contas  a  este Tribunal, conforme estabelece  o  art.  3º,  da  Resolução  TCE  nº  13/2015,  assim  como,  às Decisões  Administrativas  do  Egrégio  Tribunal  Pleno  desta  Corte  de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação de observar o cumprimento no prazo de remessa dos informes periódicos via Portal e-Contas se enquadra como alerta de envio de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "3",
+              "descricao": "remessa  dos informes periódicos via Portal e-Contas  a  este Tribunal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Nas despesas com aquisições de peças e serviços de manutenções  de  veículos  de  propriedade  da  Câmara  Municipal  de Urucará, expresse nas notas de empenhos, notas de liquidações e notas fiscais  das  despesas  realizadas,  indicação  da  placa  e  propriedade  do veículo,  comprovando  assim,  a  legalidade  da  despesa  e  a  sua  fiel liquidação, em atenção ao regramento contido no artigos 62 e 63, § 2º, incisos II e III, da Lei nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Nas despesas com aquisições de peças e serviços de manutenções  de  veículos  de  propriedade  da  Câmara  Municipal  de Urucará, expresse nas notas de empenhos, notas de liquidações e notas fiscais  das  despesas  realizadas,  indicação  da  placa  e  propriedade  do veículo,  comprovando  assim,  a  legalidade  da  despesa  e  a  sua  fiel liquidação, em atenção ao regramento contido no artigos 62 e 63, § 2º, incisos II e III, da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A recomendação visa comprovar a legalidade da despesa e a sua fiel liquidação, em atenção ao regramento contido no artigos 62 e 63, § 2º, incisos II e III, da Lei nº 4.320/64",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "62",
+              "descricao": "Nas despesas com aquisições de peças e serviços de manutenções  de  veículos  de  propriedade  da  Câmara  Municipal  de Urucará, expresse nas notas de empenhos, notas de liquidações e notas fiscais  das  despesas  realizadas,  indicação  da  placa  e  propriedade  do veículo"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "63",
+              "descricao": "Nas despesas com aquisições de peças e serviços de manutenções  de  veículos  de  propriedade  da  Câmara  Municipal  de Urucará, expresse nas notas de empenhos, notas de liquidações e notas fiscais  das  despesas  realizadas,  indicação  da  placa  e  propriedade  do veículo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Programe  seus  procedimentos  administrativos  de  controle  dos pagamentos de despesas via bancária, nos termos do art. 65 da Lei nº 4.320/1964,  e  que  as  disponibilidades  de  caixa,  sejam  mantidas  em instituições financeira, conforme prevê o art. 43, da Lei nº 101/2000 c/c o § 3º do art. 164 da CF/88 e os §§ 1º e 2º, do art. 156, da CE/89, evitando assim possíveis prejuízos ao erário municipal, pela perda de rentabilidade imediato com possíveis aplicações no mercado financeiro",
+      "trechos_identificados": [
+        {
+          "trecho": "Programe  seus  procedimentos  administrativos  de  controle  dos pagamentos de despesas via bancária, nos termos do art. 65 da Lei nº 4.320/1964,  e  que  as  disponibilidades  de  caixa,  sejam  mantidas  em instituições financeira, conforme prevê o art. 43, da Lei nº 101/2000 c/c o § 3º do art. 164 da CF/88 e os §§ 1º e 2º, do art. 156, da CE/89, evitando assim possíveis prejuízos ao erário municipal, pela perda de rentabilidade imediato com possíveis aplicações no mercado financeiro",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "A recomendação visa  controle  dos pagamentos de despesas via bancária, nos termos do art. 65 da Lei nº 4.320/1964,  e  que  as  disponibilidades de caixa,  sejam  mantidas  em instituições financeira",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "65",
+              "descricao": "Programe  seus  procedimentos  administrativos  de  controle  dos pagamentos de despesas via bancária"
+            },
+            {
+              "norma": "Lei nº 101/2000",
+              "artigo": "43",
+              "descricao": " as  disponibilidades  de  caixa,  sejam  mantidas  em instituições financeira"
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "164",
+              "descricao": "as  disponibilidades  de  caixa,  sejam  mantidas  em instituições financeira"
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "156",
+              "descricao": "as  disponibilidades  de  caixa,  sejam  mantidas  em instituições financeira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Sepleno  -  Secretaria  do  Tribunal  Pleno que  adote  as providências  previstas  no  art.  161,  §  1º,  da  Resolução  n°  04/2002  TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

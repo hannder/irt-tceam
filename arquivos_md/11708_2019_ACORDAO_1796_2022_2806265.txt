@@ -1,0 +1,144 @@
+{
+  "acordao": "1796/2022",
+  "processo": "11708/2019",
+  "data_sessao": "18 de Outubro de 2022",
+  "orgao": "Câmara Municipal de Manacapuru",
+  "municipio": "Manacapuru",
+  "exercicio": "2018",
+  "responsavel": [
+    "Francisco Coelho da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Manacapuru sob a responsabilidade do Sr. Francisco Coelho da Silva , presidente no exercício de 2018, nos termos do art. 22, inciso III da Lei n. 2423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Manacapuru sob a responsabilidade do Sr. Francisco Coelho da Silva , presidente no exercício de 2018, nos termos do art. 22, inciso III da Lei n. 2423/1996.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A prestação de contas é julgada irregular, indicando falhas na apresentação e documentação contábil, o que pode incluir a ausência de notas explicativas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "22, inciso III",
+              "descricao": "Define as responsabilidades em caso de irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr. Francisco  Coelho  da  Silva, presidente  da Câmara Municipal de Manacapuru à época, no valor de R$ 13.654,39 (treze  mil,  seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e  nove centavos) ,  pelos  Achados  1,  2,  3,  5  e  6  do  Relatório  Conclusivo  nº 15/2021-DICAMI (fls. 3714/3753) e pelo Achado 1 do Relatório Conclusivo  n.  28/2021-DICAPE  (fls.  3754/3767),  impropriedades  que constituem grave infração à norma legal e também constam elencadas neste Relatório/Voto, com base no art. 308, VI da Resolução nº 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Francisco  Coelho  da  Silva, presidente  da Câmara Municipal de Manacapuru à época, no valor de R$ 13.654,39 (treze  mil,  seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e  nove centavos) ,  pelos  Achados  1,  2,  3,  5  e  6  do  Relatório  Conclusivo  nº 15/2021-DICAMI (fls. 3714/3753) e pelo Achado 1 do Relatório Conclusivo  n.  28/2021-DICAPE  (fls.  3754/3767),  impropriedades  que constituem grave infração à norma legal e também constam elencadas neste Relatório/Voto, com base no art. 308, VI da Resolução nº 04/2002 - TCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A10B",
+          "tipologia_irregularidade": "Descumprimento de medidas para redução de Gasto com pessoal ao limite previsto na LRF",
+          "descricao": "Pagamentos sem processo administrativo contendo justificativa para a dispensa de licitação, razão da escolha do fornecedor, pesquisa de mercado e sem cobertura contratual.",
+          "justificativa_tipologia": "Aplicação de multa por irregularidades graves indica descumprimento de normas de gestão fiscal, incluindo potencialmente a Lei de Responsabilidade Fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Base legal para aplicação de multas por infrações à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance ao Sr. Francisco Coelho da Silva no valor de R$ 9.372,61 (nove mil, trezentos e setenta e dois reais e sessenta e um  centavos) , pelo  Achado  8  do  Relatório  Conclusivo  nº  15/2021DICAMI (fls. 3714/3753), impropriedade devidamente elencada também neste Relatório/Voto, com base no art. 305 da Resolução nº 04/2002 TCE/AM alterada pela Resolução nº 04/2018.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance ao Sr. Francisco Coelho da Silva no valor de R$ 9.372,61 (nove mil, trezentos e setenta e dois reais e sessenta e um  centavos) , pelo  Achado  8  do  Relatório  Conclusivo  nº  15/2021DICAMI (fls. 3714/3753), impropriedade devidamente elencada também neste Relatório/Voto, com base no art. 305 da Resolução nº 04/2002 TCE/AM alterada pela Resolução nº 04/2018.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A consideração em alcance indica a necessidade de ressarcimento de valores, sugerindo pagamentos irregulares que contornaram os processos legais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "305",
+              "descricao": "Base legal para a determinação de alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  atual  gestor  da  Câmara Municipal de  Manacapuru no sentido de observar com mais rigor a concessão de diárias obedecendo aos normativos legais também  quanto à comprovação destas e providenciar a realização de concurso público a fim de sanear a questão de pessoal na entidade.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  atual  gestor  da  Câmara Municipal de  Manacapuru no sentido de observar com mais rigor a concessão de diárias obedecendo aos normativos legais também  quanto à comprovação destas e providenciar a realização de concurso público a fim de sanear a questão de pessoal na entidade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação para realizar concurso público para sanear a questão do pessoal na entidade sugere uma deficiência estrutural que pode impactar na qualidade e eficiência da gestão pública.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao  atual  gestor  da  Câmara Municipal de  Manacapuru no sentido de observar com mais rigor a concessão de diárias obedecendo aos normativos legais também  quanto à comprovação destas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A20B",
+          "tipologia_irregularidade": "Concessão de diárias e ajudas de custo irregulares",
+          "descricao": "Concessão de diárias e ajudas de custo irregulares",
+          "justificativa_tipologia": "A recomendação de observar com mais rigor a concessão de diárias e a comprovação destas sugere a existência de problemas recorrentes que precisam ser corrigidos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Comissão  de  Inspeção -DICAMI que, quando  da próxima  verificação in  loco ,  examine  se  o  pagamento  de  adicional  a servidor  foi  cessado  (achado  01  do  relatório  conclusivo  nº.  28/2021DICAPE).",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Comissão  de  Inspeção -DICAMI que, quando  da próxima  verificação in  loco ,  examine  se  o  pagamento  de  adicional  a servidor  foi  cessado  (achado  01  do  relatório  conclusivo  nº.  28/2021DICAPE).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A82B",
+          "tipologia_irregularidade": "Pagamento ilegal de parcela remuneratória",
+          "descricao": "Pagamento ilegal de parcela remuneratória",
+          "justificativa_tipologia": "Recomendação de verificação de pagamento de adicional a servidor",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência do decisório prolatado nos autos ao Sr. Francisco Coelho da Silva, Presidente da Câmara Municipal de Manacapuru, à época.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência do decisório prolatado nos autos ao Sr. Francisco Coelho da Silva, Presidente da Câmara Municipal de Manacapuru, à época.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "null",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

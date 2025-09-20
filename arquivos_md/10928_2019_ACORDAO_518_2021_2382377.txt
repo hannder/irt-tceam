@@ -1,0 +1,84 @@
+{
+  "acordao": "518/2021",
+  "processo": "10928/2019",
+  "data_sessao": "01 de Junho de 2021",
+  "orgao": "Câmara Municipal de Careiro da Várzea",
+  "municipio": "Careiro da Várzea",
+  "exercicio": "2018",
+  "responsavel": [
+    "Maria da Conceiçao da Costa e Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas da Sra. Maria da Conceiçao da Costa e Costa, responsável pela Câmara Municipal do Careiro da Várzea , exercício de 2018 , nos termos do art. 22, inciso II da LO-TCE-AM c/c artigo 188, inciso I e § 1º, inciso II da Resolução TCE nº 04/2002, com as ressalvas indicadas nos achados 02 e 08 da DICAMI.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa à Sra. Maria da Conceiçao da Costa e Costa, no valor de R$  5.000,00 ,  nos  termos  do art.  54,  inciso  VII  da  Lei  Orgânica  do TCE/AM , e fixar prazo de 30 dias para que o responsável recolha o valor da  multa,  na  esfera  Estadual  para  o   Fundo  de  Apoio  ao  Exercício  do Controle  Externo  -  FAECE,  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE', em face dos seguintes achados constantes da Notificação nº 01/2019DICAMI:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Achado 02 - ausência de disponibilidade financeira ante as obrigações nos últimos dois quadrimestres de seu exercício, descumprimento do disposto no art. 42 da LRF",
+      "trechos_identificados": [
+        {
+          "trecho": "Achado 02 - ausência de disponibilidade financeira ante as obrigações nos últimos dois quadrimestres de seu exercício, descumprimento do disposto no art. 42 da LRF",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A63B",
+          "tipologia_irregularidade": "Suficiência de Disponibilidade de Caixa e Inscrição em Restos a Pagar, especialmente nos últimos dois quadrimestres não atendida",
+          "descricao": "Ente não possui disponibilidade de caixa suficiente para cumprir as despesas contraídas no exercício verificado.",
+          "justificativa_tipologia": "O trecho descreve a ausência de disponibilidade financeira para cumprir obrigações, o que está alinhado com a falta de suficiência de caixa",
+          "fundamentacao_legal": [
+            {
+              "norma": "LRF",
+              "artigo": "42",
+              "descricao": "Descumprimento do art. 42 da LRF, que trata da necessidade de disponibilidade financeira para cumprimento das obrigações nos últimos quadrimestres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Achado 08 - atraso de 87 dias na publicação do extrato das cartas contratos (02 e 03/2018) no Diário Oficial dos Municípios,  descumprindo  o  disposto  no  art.  61,  parágrafo único da Lei nacional nº 8.666/93 e o art. 90, §§ 1º e 4º da Lei Orgânica do município do Careiro da Várzea.",
+      "trechos_identificados": [
+        {
+          "trecho": "Achado 08 - atraso de 87 dias na publicação do extrato das cartas contratos (02 e 03/2018) no Diário Oficial dos Municípios,  descumprindo  o  disposto  no  art.  61,  parágrafo único da Lei nacional nº 8.666/93 e o art. 90, §§ 1º e 4º da Lei Orgânica do município do Careiro da Várzea.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho descreve um atraso na publicação de documentos, o que indica falta de transparência",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nacional nº 8.666/93",
+              "artigo": "61, parágrafo único",
+              "descricao": "Atraso na publicação do extrato das cartas contratos descumprindo o art. 61 da Lei nº 8.666/93."
+            },
+            {
+              "norma": "Lei Orgânica do município do Careiro da Várzea",
+              "artigo": "90, §§ 1º e 4º",
+              "descricao": "Descumprimento do art. 90, §§ 1º e 4º da Lei Orgânica do município do Careiro da Várzea, referente à publicidade dos atos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Representação",
+      "descricao": "Representar ao Ministério Público Estadual , em face do achado 08 da DICAMI, para que adote as medidas que entender cabíveis.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência à Sra. Maria da Conceiçao da Costa e Costa, por meio de seus patronos, acerca do julgado.",
+      "trechos_identificados": []
+    }
+  ]
+}

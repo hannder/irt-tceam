@@ -1,0 +1,177 @@
+{
+  "acordao": "68/2015",
+  "processo": "1385/2007",
+  "data_sessao": "09 de dezembro de 2015",
+  "orgao": "Prefeitura Municipal de Boca do Acre",
+  "municipio": "Boca do Acre",
+  "exercicio": "2006",
+  "responsavel": [
+    "Antônio Iran de Souza Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas Anual do Município de Boca do Acre, referente ao exercício financeiro de 2006, de responsabilidade do ordenador de despesa, Sr. Antônio Iran de Souza Lima, prefeito municipal, conforme o art. 22, inciso III, 'b', da Lei n.º 2.423/96-LO/TCE), considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas Anual do Município de Boca do Acre,  referente  ao  exercício  financeiro  de  2006,  de  responsabilidade  do  ordenador  de despesa, Sr. Antônio Iran de Souza Lima , prefeito municipal, conforme o art. 22, inciso III, 'b', da Lei n.º 2.423/96-LO/TCE),  considerando  as  ocorrências  das  restrições sobreditas e não sanadas desta instrução",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "O texto descreve que a prestação de contas foi considerada irregular devido a restrições não sanadas, indicando problemas na apresentação e avaliação das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Define as responsabilidades e processos para julgamento de contas, classificando irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao Sr. Antônio Iran de Souza Lima , Prefeito Municipal de Boca do Acre, exercício financeiro de 2006, com fulcro no artigo 54, II, da Lei nº 2.423/96 c/c artigo 308, VI da Resolução nº 04/2002 TCE/AM, no valor de R$ 8.800,00 (oito mil e oitocentos reais) em face do disposto nos itens 22; 32/35; 37/39, do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Antônio Iran de Souza Lima , Prefeito Municipal de Boca do Acre, exercício financeiro de 2006, com fulcro no artigo 54, II, da Lei nº 2.423/96 c/c artigo 308, VI da Resolução nº 04/2002 TCE/AM, no valor de R$ 8.800,00 (oito mil e oitocentos reais) em face do disposto nos itens 22; 32/35; 37/39, do Relatório/Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "A multa é aplicada devido a falhas identificadas no relatório/voto, relacionados a informações sobre o quadro de pessoal, indicando não cumprimento das responsabilidades do Sistema de Controle Interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Estabelece as sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308",
+              "descricao": "Define os critérios para aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao Sr. Antônio Iran de Souza Lima , Prefeito Municipal de Boca do Acre, exercício financeiro de 2006, com fulcro no artigo 54, II, da Lei nº 2.423/96 c/c artigo 308, II da Resolução nº 04/2002 TCE/AM, no valor de R$ 12.056,33 (doze mil, cinquenta  e  seis  reais e trinta e três centavos) , em face aos atrasos de remessa dos dados pelo e-Contas nos 11 meses do ano de 2012 (jan/nov), conforme consta no item 17/20 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Antônio Iran de Souza Lima , Prefeito Municipal de Boca do Acre, exercício financeiro de 2006, com fulcro no artigo 54, II, da Lei nº 2.423/96 c/c artigo 308, II da Resolução nº 04/2002 TCE/AM, no valor de R$ 12.056,33 (doze mil, cinquenta  e  seis  reais e trinta e três centavos) , em face aos atrasos de remessa dos dados pelo e-Contas nos 11 meses do ano de 2012 (jan/nov), conforme consta no item 17/20 do Relatório/Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido aos atrasos na remessa de dados pelo e-Contas, classificando como entrega de balancetes mensais fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Estabelece as sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308",
+              "descricao": "Define os critérios para aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao Sr. Antônio Iran de Lima Souza , Prefeito Municipal de Boca do Acre, exercício financeiro de 2006, com fulcro no artigo 54, I, da Lei nº 2.423/96 c/c artigo 308, III da Resolução nº 04/2002 TCE/AM, no valor de R$ 4.143,67 ; em face do disposto nos itens 23/29 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Antônio Iran de Lima Souza , Prefeito Municipal de Boca do Acre, exercício financeiro de 2006, com fulcro no artigo 54, I, da Lei nº 2.423/96 c/c artigo 308, III da Resolução nº 04/2002 TCE/AM, no valor de R$ 4.143,67 ; em face do disposto nos itens 23/29 do Relatório/Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A multa é aplicada devido a despesas realizadas sem o devido processo legal, conforme os itens 23/29 do relatório/voto, resultando em ausência de elementos mínimos de caracterização dos bens.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Estabelece as sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308",
+              "descricao": "Define os critérios para aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que adote os procedimentos legais relativos às Prestações de Contas Anual, principalmente quanto:Aos Balancetes Mensais, cumprindo o disposto no art. 48, da Lei Complementar nº 101/2000;Aos créditos adicionais e as hipóteses de abertura, em conformidade com o art. 43, da Lei nº 4.320/64;Aos contratos de obras e serviços de engenharia, devendo o Gestor sempre encaminhar toda a documentação exigida pela Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem  que  adote  os  procedimentos  legais  relativos  às Prestações de Contas Anual, principalmente quanto:Aos Balancetes Mensais, cumprindo o disposto no art. 48, da Lei Complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação se refere ao cumprimento do prazo para envio dos balancetes mensais, o que se enquadra na tipologia de irregularidade relacionada ao envio de documentos fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "48",
+              "descricao": "Estabelece normas para a transparência na gestão fiscal, incluindo a divulgação de balancetes mensais."
+            }
+          ]
+        },
+        {
+          "trecho": "Determinar à  origem  que  adote  os  procedimentos  legais  relativos  às Prestações de Contas Anual, principalmente quanto:Aos créditos adicionais e as hipóteses de abertura, em conformidade com o art. 43, da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A20B",
+          "tipologia_irregularidade": "Concessão de diárias e ajudas de custo irregulares",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A determinação sobre a abertura de créditos adicionais está relacionada a normas orçamentárias e pode indicar potenciais irregularidades na gestão orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "43",
+              "descricao": "Define as regras para abertura de créditos suplementares e especiais."
+            }
+          ]
+        },
+        {
+          "trecho": "Determinar à  origem  que  adote  os  procedimentos  legais  relativos  às Prestações de Contas Anual, principalmente quanto:Aos contratos de obras e serviços de engenharia, devendo o Gestor sempre encaminhar toda a documentação exigida pela Lei nº 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A determinação relacionada aos contratos de obras e serviços de engenharia visa garantir a conformidade com a legislação de licitações, prevenindo irregularidades em contratações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Não especificado",
+              "descricao": "Regulamenta as licitações e contratos administrativos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

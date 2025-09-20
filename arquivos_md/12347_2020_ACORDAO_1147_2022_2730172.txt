@@ -1,0 +1,70 @@
+{
+  "acordao": "1147/2022",
+  "processo": "12347/2020",
+  "data_sessao": "19 de julho de 2022",
+  "orgao": "Agência de Defesa Agropecuária e Florestal do Estado do Amazonas - ADAF",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Alexandre Henrique Freitas Araujo"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  do Sr.  Alexandre  Henrique Freitas Araújo , responsável pela Agência de Defesa Agropecuária e Florestal  do  Estado  do  Amazonas  -  ADAF,  no  curso  do  exercício 2019.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  do Sr.  Alexandre  Henrique Freitas Araújo , responsável pela Agência de Defesa Agropecuária e Florestal  do  Estado  do  Amazonas  -  ADAF,  no  curso  do  exercício 2019.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A ação de julgar regular a prestação de contas não se enquadra em uma irregularidade, mas sim em um julgamento formal da prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr.  Alexandre Henrique Freitas Araújo conforme art. 23 da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr.  Alexandre Henrique Freitas Araújo conforme art. 23 da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A ação de dar quitação não se enquadra em uma irregularidade, mas sim em um julgamento formal da prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Quitação ao Sr.  Alexandre Henrique Freitas Araújo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência do  desfecho  dos  autos  ao Sr.  Alexandre  Henrique Freitas Araújo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência do  desfecho  dos  autos  ao Sr.  Alexandre  Henrique Freitas Araújo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A ação de dar ciência não se enquadra em uma irregularidade, mas sim em um registro de ato administrativo regular.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

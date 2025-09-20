@@ -1,0 +1,53 @@
+{
+  "acordao": "668/2019",
+  "processo": "11080/2017",
+  "data_sessao": "30 de Julho de 2019",
+  "orgao": "Câmara Municipal de Juruá",
+  "municipio": "Juruá",
+  "exercicio": "2016",
+  "responsavel": [
+    "Francisco Rocha da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Francisco Rocha da Silva, responsável pela Câmara Municipal de Juruá, no curso do exercício 2016, com fulcro no artigo 22, III, b, da Lei Estadual n. 2423/1996 (Lei Orgânica TCE/AM), em decorrência de atos praticados com grave infração às normas legais, conforme as irregularidades descritas na fundamentação da Proposta de Voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa o Sr. Francisco Rocha da Silva, responsável pela Câmara Municipal de Juruá, no curso do exercício 2016, no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), nos termos do inciso VI do art. 308 da Resolução nº 4/2002 (RITCE/AM), em decorrência dos atos praticados com grave infração às normas legais (restrição n.ºs: 3, 4, 10, 11, 12,13, 14 do Relatório Conclusivo da DICAMI), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas (art. 72, inciso III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Juruá, nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: Busque o pagamento de dívidas perante decorrentes de gestões anteriores em atenção ao princípio da continuidade administrativa (restrição nº 01, 05 e 15)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Juruá, nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: Realize novo processo licitatório tão logo encerre o contrato de prestação de serviços contábeis em que não ocorra prestação de serviços contínuos na sede do Poder Legislativo Municipal sob a possibilidade, em caso de não atendimento, de aplicação da multa prevista no art. 308, inc. V, ou na alínea 'b' do inc. IV em caso de reincidência (restrição nº 06)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Juruá, nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: Elabore anualmente, no início de cada exercício, orçamento mensal como instrumento de planejamento das receitas e despesas da Câmara Municipal de Juruá, sob pena de aplicação da multa prevista no inc. VI do art. 308 do Regimento Interno deste TCE/AM (restrição nº 07)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Juruá, nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: Publique mensalmente, no portal da transparência, a relação de todas as compras feitas pelo Poder Legislativo Municipal, de maneira a clarificar a identificação do bem comprado, seu preço unitário, a quantidade adquirida, o nome do vendedor e o valor total da operação Municipal sob a possibilidade, em caso de não atendimento, de aplicação da multa prevista no art. 308, inc. V, ou na alínea 'b' do inc. IV em caso de reincidência (restrição nº 08)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Comissão de Inspeção para que nas próximas inspeções: Verifique quais as providências adotadas pelo atual gestor, assim como por quem o venha substituir, no sentido de regularizar a situação jurídica quanto: a) a ausência de Registro de Ponto dos servidores de forma eletrônica - REINCIDÊNCIA (restrição nº 13) e, b) Ausência de Concurso Público para provimento de suas atividades finalísticas, em especial para o cargo de Advogado/Procurador da Câmara, conforme determina o artigo 37 da CF/88 - (restrição 12)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Comissão de Inspeção para que nas próximas inspeções: Acompanhe o cumprimento das determinações proferidas na Proposta de Voto.",
+      "trechos_identificados": []
+    }
+  ]
+}

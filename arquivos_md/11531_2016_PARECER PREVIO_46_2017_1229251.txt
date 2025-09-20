@@ -1,0 +1,102 @@
+{
+  "acordao": "46/2017",
+  "processo": "11531/2016",
+  "data_sessao": "19 de Julho de 2017",
+  "orgao": "Prefeitura Municipal de Novo Aripuanã",
+  "municipio": "Novo Aripuanã",
+  "exercicio": "2015",
+  "responsavel": [
+    "Raimundo Robson de Sá"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  Regular  com  Ressalvas a Prestação  de  Contas  do Sr. Raimundo  Robson  de  Sá ,  responsável  pela  Prefeitura  Municipal  de Novo Aripuanã, no exercício de 2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalvas a Prestação  de  Contas  do Sr. Raimundo  Robson  de  Sá ,  responsável  pela  Prefeitura  Municipal  de Novo Aripuanã, no exercício de 2015",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação envolve o julgamento das contas, indicando a necessidade de ressalvas, o que pode estar relacionado a inconsistências na contabilidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Raimundo  Robson  de  Sá , no  valor  de R$ 4.400,00, que  devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ, pelas improbidades apontadas no Relatório/Voto. O recolhimento deve ser feito, no prazo de 30 dias , com comprovação perante este Tribunal, nos termos do art. 72, III da Lei nº 2423/96 c/c o art. 169,  I,  do Regimento  Interno deste Tribunal (Resolução  nº  04/2002),  autorizando  a  instauração  de  inscrição  do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não  recolhimento  dos  valores  da  condenação, ex VI  o  art.173,  do Regimento Interno deste Tribunal de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Raimundo  Robson  de  Sá , no  valor  de R$ 4.400,00, que  devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ, pelas improbidades apontadas no Relatório/Voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "Aplicação de multa devido a improbidades indicam descumprimento de normas de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III",
+              "descricao": "A multa é aplicada conforme este artigo da lei."
+            },
+            {
+              "norma": "Regimento  Interno deste Tribunal (Resolução  nº  04/2002)",
+              "artigo": "169, I",
+              "descricao": "O regimento interno estabelece os procedimentos para aplicação de multas."
+            }
+          ]
+        },
+        {
+          "trecho": "O recolhimento deve ser feito, no prazo de 30 dias , com comprovação perante este Tribunal, nos termos do art. 72, III da Lei nº 2423/96 c/c o art. 169,  I,  do Regimento  Interno deste Tribunal (Resolução  nº  04/2002),  autorizando  a  instauração  de  inscrição  do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não  recolhimento  dos  valores  da  condenação, ex VI  o  art.173,  do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Procedimentos para inscrição em dívida ativa, ainda que não descrevam uma irregularidade, são importantes para a efetividade da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III",
+              "descricao": "O recolhimento é obrigatório conforme este artigo."
+            },
+            {
+              "norma": "Regimento  Interno deste Tribunal (Resolução  nº  04/2002)",
+              "artigo": "169, I",
+              "descricao": "O regimento interno autoriza a inscrição em dívida ativa."
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Este artigo estabelece os procedimentos para a cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr.  Raimundo  Robson  de  Sá ,  com  cópia  do  Acórdão, relatório/voto, para ciência do feito e interposição de recurso apropriado, caso queira",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr.  Raimundo  Robson  de  Sá ,  com  cópia  do  Acórdão, relatório/voto, para ciência do feito e interposição de recurso apropriado, caso queira",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A notificação é um procedimento administrativo que visa garantir o devido processo legal e não indica necessariamente uma irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

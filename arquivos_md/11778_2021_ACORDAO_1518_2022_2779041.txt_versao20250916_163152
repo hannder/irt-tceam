@@ -1,0 +1,74 @@
+{
+  "acordao": "1518/2022",
+  "processo": "11778/2021",
+  "data_sessao": "13 de Setembro de 2022",
+  "orgao": "Fundo Especial do Corpo de Bombeiros Militar do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Danizio Valente Gonçalves Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual, da Unidade Gestora Fundo Especial  do  Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas  FUNESBOM,  de  responsabilidade  do  Sr. Danizio  Valente  Gonçalves Neto ,  referente  ao  exercício  de  2020,  conforme  os  ditames  do art.  188, §1º,  I,  da  Resolução  nº  04/2002-  RITCE/AM,  c/c  art.  22,  I,  da  Lei  nº 2423/96-LOTCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual, da Unidade Gestora Fundo Especial  do  Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas  FUNESBOM,  de  responsabilidade  do  Sr. Danizio  Valente  Gonçalves Neto ,  referente  ao  exercício  de  2020,  conforme  os  ditames  do art.  188, §1º,  I,  da  Resolução  nº  04/2002-  RITCE/AM,  c/c  art.  22,  I,  da  Lei  nº 2423/96-LOTCE/AM",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "A irregularidade se refere à aprovação das contas, mas a justificativa é relativa a não apresentação de saldo contábil.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Ainda que o item indique aprovação das contas, a tipologia foi escolhida por associar-se à verificação da correta aplicação de recursos públicos e da conformidade das contas apresentadas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Dar  quitação ao  Sr. Danizio  Valente  Gonçalves Neto , Presidente  do Conselho  de  Administração  do  FUNESBOM,  de  conformidade  com  os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao  Sr. Danizio  Valente  Gonçalves Neto , Presidente  do Conselho  de  Administração  do  FUNESBOM,  de  conformidade  com  os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "O item se refere a dar quitação, o que pressupõe conformidade nas rotinas internas.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"O item se refere a dar quitação, o que pressupõe conformidade nas rotinas internas, mas a tipologia do controle interno é a que melhor se aplica no contexto.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 02/2002 TCE-AM",
+              "artigo": "189",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Dar  ciência ao  Sr. Danizio  Valente  Gonçalves  Neto ,  sobre  o  teor  da decisão, com cópia do Relatório-Voto e do respectivo Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao  Sr. Danizio  Valente  Gonçalves  Neto ,  sobre  o  teor  da decisão, com cópia do Relatório-Voto e do respectivo Acórdão",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "O item se refere a dar ciência, o que pressupõe conformidade nas rotinas internas.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"O item se refere a dar ciência, o que pressupõe conformidade nas rotinas internas, mas a tipologia do controle interno é a que melhor se aplica no contexto.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

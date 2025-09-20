@@ -1,0 +1,68 @@
+{
+  "acordao": "74/2023",
+  "processo": "11411/2019",
+  "data_sessao": "06 de Junho de 2023",
+  "orgao": "Prefeitura Municipal de Pauini",
+  "municipio": "Pauini",
+  "exercicio": "2018",
+  "responsavel": [
+    "Eliana de Oliveira Amorim"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria de Controle Externo - SECEX, que adote as medidas necessárias para a autuação de processos a serem em seguida submetidos a julgamento nos termos da Portaria deste TCE-AM nº 152/2021, com o carreamento a eles dos documentos e relatórios constantes destes autos, nos termos da competência disposta no artigo 71, incisos VIII, IX, X, XI e seu parágrafo primeiro da Constituição Federal e nos artigos 59, §1º e §2º e 73-A da Lei de Responsabilidade Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria de Controle Externo - SECEX, que adote as medidas necessárias para a autuação de processos a serem em seguida submetidos a julgamento nos termos da Portaria deste TCE-AM nº 152/2021, com o carreamento a eles dos documentos e relatórios constantes destes autos, nos termos da competência disposta no artigo 71, incisos VIII, IX, X, XI e seu parágrafo primeiro da Constituição Federal e nos artigos 59, §1º e §2º e 73-A da Lei de Responsabilidade Fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não se aplica",
+          "codigo_irregularidade": "Não se aplica",
+          "tipologia_irregularidade": "Não se aplica",
+          "descricao": "Não se aplica",
+          "justificativa_tipologia": "O trecho é uma determinação processual interna do TCE-AM, não indicando um problema de gestão pública a ser corrigido.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, incisos VIII, IX, X, XI e seu parágrafo primeiro",
+              "descricao": "Competência do Tribunal de Contas para fiscalização e julgamento de contas."
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "59, §1º e §2º",
+              "descricao": "Disposições sobre as consequências do descumprimento dos limites de despesa com pessoal."
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "73-A",
+              "descricao": "Sanções aplicáveis em caso de gestão irregular de recursos públicos."
+            },
+             {
+              "norma": "Portaria do TCE-AM nº 152/2021",
+              "artigo": "Não se aplica",
+              "descricao": "Procedimentos internos do TCE-AM para julgamento de processos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência do decisum à interessada, Sra. Eliana de Oliveira Amorim, e à Câmara Municipal de Pauini.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência do decisum à interessada, Sra. Eliana de Oliveira Amorim, e à Câmara Municipal de Pauini.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não se aplica",
+          "codigo_irregularidade": "Não se aplica",
+          "tipologia_irregularidade": "Não se aplica",
+          "descricao": "Não se aplica",
+          "justificativa_tipologia": "O trecho é uma notificação sobre a decisão, não indicando um problema de gestão pública a ser corrigido.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

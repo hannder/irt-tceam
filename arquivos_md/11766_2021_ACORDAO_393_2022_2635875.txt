@@ -1,0 +1,165 @@
+{
+  "acordao": "393/2022",
+  "processo": "11766/2021",
+  "data_sessao": "29 de março de 2022",
+  "orgao": "Fundação de Apoio ao Idoso Doutor Thomas - FDT",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Martha Moutinho da Costa Cruz"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual  da Fundação de Apoio ao Idoso Doutor Thomas-FDT, exercício 2020, de responsabilidade  da Sra . Martha Moutinho da Costa Cruz , DiretoraPresidente à época, nos termos do art. 22, inciso II, da Lei n.º 2.423/96LOTCE/AM  c/c  art.  188,  §1º,  inciso  II,  da  Resolução  n.º  04/2002RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual  da Fundação de Apoio ao Idoso Doutor Thomas-FDT, exercício 2020, de responsabilidade  da Sra . Martha Moutinho da Costa Cruz , DiretoraPresidente à época, nos termos do art. 22, inciso II, da Lei n.º 2.423/96LOTCE/AM  c/c  art.  188,  §1º,  inciso  II,  da  Resolução  n.º  04/2002RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A regularidade com ressalvas indica que, apesar da aprovação, foram encontradas impropriedades que não justificam a rejeição das contas, mas que precisam ser mencionadas e corrigidas. Como a aprovação é ressalvada, indica que apesar de tudo, há falhas de apresentação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem , nos termos do art. 188, §1º, inciso III, alínea 'e', da Resolução n.º 04/2002-RITCE/AM, que:\n10.2.1 Insira  no  Portal  da  Transparência  todos  os  demais  certames licitatórios informados no Sistema e-Contas, e mantenham o Portal da Transparência devidamente atualizado em cumprimento ao disposto no art.  8º,  §1º,  I,  da  Lei  n.º  12.572/11  e  art.  7º,  §2º,  VI,  Decreto  n.º 7.724/2012, sob pena de responsabilização por reincidência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Origem , nos termos do art. 188, §1º, inciso III, alínea 'e', da Resolução n.º 04/2002-RITCE/AM, que: Insira  no  Portal  da  Transparência  todos  os  demais  certames licitatórios informados no Sistema e-Contas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação para inserir certames licitatórios no Portal da Transparência indica uma falha pré-existente na divulgação dessas informações, o que caracteriza uma ausência de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/2002-RITCE/AM",
+              "artigo": "188, §1º, inciso III, alínea 'e'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "Determinar à Origem , nos termos do art. 188, §1º, inciso III, alínea 'e', da Resolução n.º 04/2002-RITCE/AM, que: mantenham o Portal da Transparência devidamente atualizado em cumprimento ao disposto no art.  8º,  §1º,  I,  da  Lei  n.º  12.572/11  e  art.  7º,  §2º,  VI,  Decreto  n.º 7.724/2012, sob pena de responsabilização por reincidência.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação para manter o Portal da Transparência atualizado indica uma falha pré-existente na atualização dessas informações, o que caracteriza uma ausência de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/2002-RITCE/AM",
+              "artigo": "188, §1º, inciso III, alínea 'e'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n.º 12.572/11",
+              "artigo": "8º, §1º, I",
+              "descricao": "Dispõe sobre o acesso à informação."
+            },
+            {
+              "norma": "Decreto n.º 7.724/2012",
+              "artigo": "7º, §2º, VI",
+              "descricao": "Regulamenta a Lei nº 12.527/2011, que dispõe sobre o acesso à informação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem , nos termos do art. 188, §1º, inciso III, alínea 'e', da Resolução n.º 04/2002-RITCE/AM, que:\n10.2.2 Abstenha-se da realização de despesas sem a correspondente cobertura financeira, sob pena de responsabilização por reincidência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Origem , nos termos do art. 188, §1º, inciso III, alínea 'e', da Resolução n.º 04/2002-RITCE/AM, que: Abstenha-se da realização de despesas sem a correspondente cobertura financeira, sob pena de responsabilização por reincidência.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A determinação de abster-se de realizar despesas sem cobertura financeira indica que essa prática ocorreu, caracterizando uma irregularidade na execução orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/2002-RITCE/AM",
+              "artigo": "188, §1º, inciso III, alínea 'e'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção que verifique a reincidência  ou  não  em  relação  aos  achados  01 e  04  do  Relatório Conclusivo nº 54/2021-DICAMM (fls. 5663-5694).",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção que verifique a reincidência  ou  não  em  relação  aos  achados  01 e  04  do  Relatório Conclusivo nº 54/2021-DICAMM (fls. 5663-5694).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para verificar a reincidência em relação aos achados do relatório conclusivo indica que já foram identificadas deficiências ou irregularidades anteriores que precisam ser monitoradas para garantir a implementação de medidas corretivas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à Sra. Martha Moutinho da Costa Cruz ,  com  cópia  do Relatório/Voto e Acórdão adotado pelo colegiado, para que tome ciência do decisório.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência à Sra. Martha Moutinho da Costa Cruz ,  com  cópia  do Relatório/Voto e Acórdão adotado pelo colegiado, para que tome ciência do decisório.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Dar ciência não é uma irregularidade, mas um alerta sobre as responsabilidades futuras em caso de reincidência",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência à  Sra. Michele de Melo Freitas e Araújo , com cópia do Relatório/Voto e Acórdão adotado pelo colegiado, para que tome ciência do decisório.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência à  Sra. Michele de Melo Freitas e Araújo , com cópia do Relatório/Voto e Acórdão adotado pelo colegiado, para que tome ciência do decisório.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Dar ciência não é uma irregularidade, mas um alerta sobre as responsabilidades futuras em caso de reincidência",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

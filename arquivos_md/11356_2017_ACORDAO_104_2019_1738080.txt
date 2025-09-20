@@ -1,0 +1,28 @@
+{
+  "acordao": "104/2019",
+  "processo": "11356/2017",
+  "data_sessao": "19 de Fevereiro de 2019",
+  "orgao": "Hospital Geral Dr.Geraldo da Rocha",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Ana Maria Belota de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Regular com Ressalvas",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  da Senhora Ana Maria Belota de Oliveira , Diretora-Geral do Hospital Dr. Geraldo da Rocha , exercício de 2016, nos termos do art. 22, inciso II, da Lei AM nº 2.423/1996 c/c art. 188, inciso II; §1º, inciso I, todos da Resolução TCE nº 04/2002",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar  Multa ao Sra.  Ana  Maria  Belota  de  Oliveira no  valor  de R$ 13.654,39 , nos termos do art. 54, inciso II da Lei 2.423/1996 c/c art. 308, inciso  VI  do  RI-TCE/AM , pelo  cometimento  de  graves  infrações  às normas legais  ou  regulamentares,  conforme  fundamentação  expendida acima, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE .",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivar o presente processo",
+      "descricao": "Arquivar o presente processo por perda de objeto/por cumprimento de decisão.",
+      "trechos_identificados": []
+    }
+  ]
+}

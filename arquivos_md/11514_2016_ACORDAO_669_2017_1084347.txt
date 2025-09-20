@@ -1,0 +1,62 @@
+{
+  "acordao": "669/2017",
+  "processo": "11514/2016",
+  "data_sessao": "27 de Junho de 2017",
+  "orgao": "Fundo Municipal de Defesa do Consumidor - FUMDECOM",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Ramiz Wladimir Braga dos Santos Junior",
+    "Alessandro Cohen Melo",
+    "Márcio Lima Noronha"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do  Sr. Ramiz Wladimir Braga dos Santos Junior, responsável pelo FUMDECOM, de 1/1/2015 a 29/4/2015.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas do Sr.  Márcio Lima Noronha, responsável pelo FUMDECOM, de 30/4/2015 a 31/12/2015.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar regular com  ressalvas a Prestação de Contas do Sr. Alessandro Cohen Melo, responsável pelo FUMDECOM, de 4/5/2015 a 31/12/2015.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Fundo Municipal de Defesa do Consumidor -FUMDECOM que providencie o saneamento da impropriedade atinente à impossibilidade de executar o orçamento seu.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao Fundo Municipal de Defesa do Consumidor -FUMDECOM que providencie o saneamento da impropriedade atinente à impossibilidade de executar o orçamento seu.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A deliberação determina o saneamento de impropriedade relacionada à impossibilidade de executar o orçamento, indicando uma falha na execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Ramiz Wladimir Braga dos Santos Junior.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr.Márcio Lima Noronha.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Alessandro Cohen Melo.",
+      "trechos_identificados": []
+    }
+  ]
+}

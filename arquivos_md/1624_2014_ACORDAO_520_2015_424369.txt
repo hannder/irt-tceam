@@ -1,0 +1,91 @@
+{
+  "acordao": "520/2015",
+  "processo": "1624/2014",
+  "data_sessao": "22 de julho de 2015",
+  "orgao": "Secretaria Municipal de Meio Ambiente e Sustentabilidade - SEMMAS",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Kátia Helena Serafina Cruz Schweikardt"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  Regular  com  Ressalvas as  Contas  Anuais  da  Secretaria Municipal  de  Meio  Ambiente  e  Sustentabilidade  -  SEMMAS,  exercício  de  2013,  sob responsabilidade  da  Senhora  Kátia  Helena  Serafina  Cruz  Schweickardt,  Secretária Municipal e ordenadora de despesas à época, nos termos do art. 1°, II e art. 22, II, ambos da Lei n° 2.423/96, c/c os artigos 5°,  II e 188, §  1°,  II,  da Resolução n° 04/2002-TCE, considerando as ocorrências das restrições constantes nesta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalvas as  Contas  Anuais  da  Secretaria Municipal  de  Meio  Ambiente  e  Sustentabilidade  -  SEMMAS,  exercício  de  2013,  sob responsabilidade  da  Senhora  Kátia  Helena  Serafina  Cruz  Schweickardt,  Secretária Municipal e ordenadora de despesas à época, nos termos do art. 1°, II e art. 22, II, ambos da Lei n° 2.423/96, c/c os artigos 5°,  II e 188, §  1°,  II,  da Resolução n° 04/2002-TCE, considerando as ocorrências das restrições constantes nesta instrução",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação envolve o julgamento das contas, mas não indica diretamente uma irregularidade contábil ou financeira específica que justifique a marcação como 'relevante_para_indice'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1°",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE",
+              "artigo": "5°",
+              "descricao": "Normas sobre processo de Contas"
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE",
+              "artigo": "188",
+              "descricao": "Normas sobre processo de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Que  observe  ao  fiel  cumprimento  dos  dispositivos  que  norteiam  a Administração Pública, em especial ao art. 60, § 3°, da Lei n° 4.320/64, na celebração de contratos  conforme  a  despesa  executada  no  exercício  e  dentro  do  limite  das  cotas bimestrais autorizadas pela SEMEF",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  observe  ao  fiel  cumprimento  dos  dispositivos  que  norteiam  a Administração Pública, em especial ao art. 60, § 3°, da Lei n° 4.320/64, na celebração de contratos  conforme  a  despesa  executada  no  exercício  e  dentro  do  limite  das  cotas bimestrais autorizadas pela SEMEF",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A recomendação para celebrar contratos conforme a despesa executada e dentro do limite das cotas bimestrais autorizadas indica uma preocupação com o planejamento e controle das despesas contratuais, o que se relaciona com a tipologia de ausência de planejamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 4.320/64",
+              "artigo": "60",
+              "descricao": "Dispõe sobre o Estatuto Jurídico da Licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Que obtenha um maior controle no procedimento de abastecimento de combustíveis nos automóveis da Instituição, em consonância ao Sistema de Controle contratado pela Prefeitura de Manaus.",
+      "trechos_identificados": [
+        {
+          "trecho": "Que obtenha um maior controle no procedimento de abastecimento de combustíveis nos automóveis da Instituição, em consonância ao Sistema de Controle contratado pela Prefeitura de Manaus.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de maior controle no abastecimento de combustíveis, indicando uma deficiência nos controles internos existentes para essa atividade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

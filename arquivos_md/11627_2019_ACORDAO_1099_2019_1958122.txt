@@ -1,0 +1,130 @@
+{
+  "acordao": "1099/2019",
+  "processo": "11627/2019",
+  "data_sessao": "23 de Outubro de 2019",
+  "orgao": "Hospital Geral Dr.Geraldo da Rocha",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Ana Maria Belota de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas da Sra. Ana Maria Belota de Oliveira ,  Diretora-Geral do Hospital Dr. Geraldo da Rocha, exercício de  2018,  em  razão  das  impropriedades  consideradas  não  sanadas, nos  termos  do  art.  22,  inciso  III,  alíneas  'b'  e  'c',  da  Lei  AM  nº 2.423/1996 c/c art. 188, inciso II; §1º, inciso III, alíneas 'b' e 'c', todos da Resolução TCE nº 04/2002",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa a Sra.  Ana  Maria  Belota  de  Oliveira no  valor  de R$ 15.000,00 (quinze mil reais), que deverá ser recolhida no prazo de 30 dias  para  o  Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE, nos termos do art. 54, inciso II da Lei 2.423/1996 c/c art. 308, inciso  VI  do  RI-TCE/AM, pelo  cometimento  de  graves  infrações  às normas legais ou regulamentares, devido as seguintes impropriedades: não  comprovação  dos  valores  constantes  no  Balanço  Patrimonial",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "devido as seguintes impropriedades: não  comprovação  dos  valores  constantes  no  Balanço  Patrimonial",
+      "trechos_identificados": [
+        {
+          "trecho": "não  comprovação  dos  valores  constantes  no  Balanço  Patrimonial",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho descreve a ausência de comprovação dos valores no balanço patrimonial, indicando falta de documentação suporte.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "null",
+              "descricao": "Constituição Federal de 1988."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "ausência  de  análise  da  Depreciação/Amortização/Exaustão  dos  bens móveis",
+      "trechos_identificados": [
+        {
+          "trecho": "ausência  de  análise  da  Depreciação/Amortização/Exaustão  dos  bens móveis",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "O trecho descreve a ausência de análise da depreciação, indicando uma possível irregularidade na gestão patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "null",
+              "descricao": "Constituição Federal de 1988."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "pagamento indenizatório por serviços prestados sem contrato.",
+      "trechos_identificados": [
+        {
+          "trecho": "pagamento indenizatório por serviços prestados sem contrato.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Pagamento indenizatório sem contrato burla o processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "null",
+              "descricao": "Constituição Federal de 1988."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa ao Sra.  Ana  Maria  Belota  de  Oliveira no  valor  de 15.361,20 (quinze  mil, trezentos  e  sessenta  e  um  reais  e  vinte centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE, nos termos do art. 54, inciso IV da Lei 2.423/1996 c/c art. 308, inciso I, alínea 'a', do  RI-TCE/AM, pelo  atraso  no  envio  dos  balancetes  mensais  com prazos de entrega no exercício de 2018.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "pelo  atraso  no  envio  dos  balancetes  mensais  com prazos de entrega no exercício de 2018.",
+      "trechos_identificados": [
+        {
+          "trecho": "pelo  atraso  no  envio  dos  balancetes  mensais  com prazos de entrega no exercício de 2018.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso na entrega de balancetes mensais indica deficiências nos controles internos e na gestão da documentação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "55",
+              "descricao": "A administração financeira, orçamentária, patrimonial e contábil da União, dos Estados, dos Municípios e do Distrito Federal será exercida com a observância dos princípios da legalidade, economicidade, da razoabilidade, da moralidade, da publicidade, da impessoalidade, da responsabilidade e da eficiência, mediante a adoção de medidas e instrumentos de controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciencia",
+      "descricao": "Dar  ciência a Sra.  Ana  Maria  Belota  de  Oliveira do  presente Acordão",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "encaminhamento",
+      "descricao": "Encaminhar cópia  dos  autos  ao  Ministério  Público  do  Estado  do Amazonas, para as providências que entender cabíveis.",
+      "trechos_identificados": []
+    }
+  ]
+}

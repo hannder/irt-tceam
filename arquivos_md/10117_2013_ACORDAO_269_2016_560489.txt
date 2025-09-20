@@ -1,0 +1,58 @@
+{
+  "acordao": "269/2016",
+  "processo": "10117/2013",
+  "data_sessao": "30 de março de 2016",
+  "orgao": "Câmara Municipal de Parintins",
+  "municipio": "Parintins",
+  "exercicio": "2012",
+  "responsavel": [
+    "Juscelino Melo Manso"
+  ],
+  "itens": [
+    {
+      "tipo": "MULTA",
+      "descricao": "Aplicar MULTA no valor de R$ 7.000,00 (sete mil reais) com fulcro no art. 53,  parágrafo  único,  da  Lei  Orgânica  n.  2423/1996,  pelas  restrições  remanescentes constantes nos itens 24.1, 24.2, 24.3, 24.4, 24.5, mantidas em função das argumentações respectivamente nos itens 25, 26 e 27, bem como pelas restrições mantidas referentes ao Contrato n.º 001/2012-CMP,  constantes  nos  itens  36.1,  36.2, 36.3, 36.4 e 36.5, comentados nos itens 37 à 42, todos do Relatório/Voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Obedecer a todos os trâmites legais do prévio empenho, liquidação e posterior pagamento, nos termos da Lei nº 4320/1964",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Manter a declaração de bens e valores dos assessores, vereadores  e  demais  servidores,  atualizada  anualmente,  e  as  insira  nas  respectivas pastas funcionais",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Fazer constar  nos  assentamentos  anotações  acerca  da  vida funcional  de  todos  os  assessores  parlamentares,  constando  Portarias  de  nomeação, exoneração,  documentos  pessoais  (RG,  CPF,  certidão  de  casamento  ou  nascimento, comprovante de endereço, escolaridade, férias e licenças diversas)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Que ao término do mandato, os vereadores apresentem as suas declarações  de  bens  de  modo  que  seja  registrado  em  livro  próprio  e  divulgados  ao conhecimento público",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Aumentar o  percentual  de  cargos  comissionados  direcionados aos servidores efetivos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Realizar o  controle  de  frequência  de  todos  os seus  servidores, inclusive  daqueles  cujos  a  gerência  de  frequência  é  realizada  pelos  gabinetes  dos vereadores, sob pena de multa em caso de reincidência",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Para nos próximos editais, adotar expressamente o art. 31, §5º da Lei 8666/1993",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Que quando contratar com entidade sem fins lucrativos, que seja por  meio  de 'Convênio' , que  deverá  obedecer  aos  procedimentos  da  legislação correspondente, devendo, inclusive, ser remetida a esta Corte a prestação de contas do mesmo",
+      "trechos_identificados": []
+    }
+  ]
+}

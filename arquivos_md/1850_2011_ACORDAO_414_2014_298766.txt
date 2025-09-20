@@ -1,0 +1,105 @@
+{
+  "acordao": "414/2014",
+  "processo": "1850/2011",
+  "data_sessao": "30 de julho de 2014",
+  "orgao": "Fundação de Medicina Tropical",
+  "municipio": "Manaus",
+  "exercicio": "2010",
+  "responsavel": [
+    "Muni Lourenço Silva",
+    "Sinésio Talhari"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas da Fundação de Medicina Tropical, exercício de 2010, conforme dispõe o Art. 22, II da Lei n.º 2.423/96-LO/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a  Prestação de Contas da Fundação de Medicina Tropical, exercício de 2010, conforme dispõe o Art. 22, II da Lei n.º 2.423/96-LO/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição não detalha uma falha especifica contabilidade mas somente a forma de julgamento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, II",
+              "descricao": "Dispõe sobre o julgamento das contas como regular com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à administração da Fundação de Medicina Tropical que realize os devidos ajustes na legislação, restando-se assim, em consonância com as suas características reais de autonomia financeira, sob pena de aplicação das sanções previstas no Art. 54, II da Lei nº 2423/96, caso ocorra reincidência da presente irregularidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  à  administração  da  Fundação  de  Medicina  Tropical que realize  os  devidos  ajustes  na  legislação,  restando-se  assim,  em  consonância  com  as  suas características reais de autonomia financeira, sob pena de aplicação das sanções previstas no Art. 54, II da Lei nº 2423/96, caso ocorra reincidência da presente irregularidade",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A tipologia reflete a ausência de ações para garantir a conformidade legal e financeira da entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, II",
+              "descricao": "Sanções em caso de reincidência de irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a notificação do gestor responsável, tanto da FMT quanto da AMAZONPREV para que regularize a situação posta em pauta, nos itens 15, 16 e 17; efetuando as devidas compensações previdenciárias. E para eivar de efetividade o feito, faz-se necessário a comunicação da Secretaria da Receita Federal do Brasil e o INSS",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a notificação do gestor responsável ,  tanto  da  FMT quanto da  AMAZONPREV para  que  regularize  a  situação  posta  em  pauta,  nos  itens  15,  16  e  17; efetuando as devidas compensações previdenciárias.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação visa corrigir falhas no repasse de contribuições previdenciárias, o que se relaciona diretamente com a tipologia escolhida.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "E para eivar de efetividade o feito, faz-se necessário a comunicação da Secretaria da Receita Federal do Brasil e o INSS",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A notificação à Receita Federal e ao INSS está ligada à necessidade de regularizar as contribuições previdenciárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem para que adote providencias junto a Fundação de Medicina Tropical a fim de realizar concurso público para substituir a irregular terceirização de mão de obra contratada por meio de cooperativas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem para que adote providencias junto a Fundação de Medicina Tropical a fim de realizar concurso público para substituir a irregular terceirização de mão de obra contratada por meio de cooperativas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Arts. 18, 23 e 53 da Lei Federal de Licitações e Contratos nº 14.133/2021; Art. 37, II da CF.",
+          "justificativa_tipologia": "A recomendação visa a substituição da terceirização irregular por meio de concurso público, em linha com a ausência de concurso público.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "acordao": "29/2020",
+  "processo": "11051/2017",
+  "data_sessao": "03 de Dezembro de 2020",
+  "orgao": "Prefeitura Municipal de Codajás",
+  "municipio": "Codajás",
+  "exercicio": "2016",
+  "responsavel": [
+    "Abraham Lincoln Dib Bastos"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr.  Abraham  Lincoln  Dib Bastos, referente ao exercício de 2016, com fundamento no art. 22, III, 'b' e 'c', da Lei Estadual n.2.423/96, face à permanência das impropriedades elencadas no Relatório/Voto, nos respectivos subitens ali citados",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  Sr.  Abraham  Lincoln  Dib Bastos, referente ao exercício de 2016, com fundamento no art. 22, III, 'b' e 'c', da Lei Estadual n.2.423/96, face à permanência das impropriedades elencadas no Relatório/Voto, nos respectivos subitens ali citados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação refere-se ao julgamento irregular das contas devido a impropriedades na prestação de contas, indicando falhas na documentação contábil e na transparência da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "22",
+              "descricao": "Fundamenta a irregularidade da prestação de contas devido à permanência das impropriedades identificadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Abraham  Lincoln  Dib  Bastos ,  no  valor  de R$ 20.481,60 (vinte mil, quatrocentos e oitenta e um  reais e sessenta centavos), nos termos do art.308, I, 'a', da Resolução n.04/2002, e fixar prazo de 30 dias para que o responsável recolha o valor da multa,  pelo atraso dos meses de janeiro a dezembro, no encaminhamento de dados por meio magnético fora do prazo estabelecido no artigo 4º da Resolução nº10/2012-TCE,  na  esfera  Estadual para  o  órgão  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Abraham  Lincoln  Dib  Bastos ,  no  valor  de R$ 20.481,60 (vinte mil, quatrocentos e oitenta e um  reais e sessenta centavos), nos termos do art.308, I, 'a', da Resolução n.04/2002, e fixar prazo de 30 dias para que o responsável recolha o valor da multa,  pelo atraso dos meses de janeiro a dezembro, no encaminhamento de dados por meio magnético fora do prazo estabelecido no artigo 4º da Resolução nº10/2012-TCE,  na  esfera  Estadual para  o  órgão  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE'.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A aplicação de multa por atraso no encaminhamento de dados indica descumprimento de prazos estabelecidos para o envio de informações contábeis, afetando a transparência e o controle externo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.04/2002",
+              "artigo": "308",
+              "descricao": "Base legal para aplicação de multa devido a irregularidades."
+            },
+            {
+              "norma": "Resolução nº10/2012-TCE",
+              "artigo": "4º",
+              "descricao": "Estabelece o prazo para encaminhamento de dados por meio magnético."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa ao Sr. Abraham  Lincoln  Dib  Bastos no  valor de R$14.000,00 (catorze  mil  reais), nos  termos  do  artigo  54,  VI,  da  Lei Estadual n.2.423/96, c/c art.308, VI, da Resolução n.04/2002, pela prática de  atos  com  grave  infração  à  norma  legal,  regulamentar,  de  natureza contábil, financeira, orçamentária, operacional e patrimonial, face à permanência das impropriedades listadas no item 15 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Abraham  Lincoln  Dib  Bastos no  valor de R$14.000,00 (catorze  mil  reais), nos  termos  do  artigo  54,  VI,  da  Lei Estadual n.2.423/96, c/c art.308, VI, da Resolução n.04/2002, pela prática de  atos  com  grave  infração  à  norma  legal,  regulamentar,  de  natureza contábil, financeira, orçamentária, operacional e patrimonial, face à permanência das impropriedades listadas no item 15 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A18A",
+          "tipologia_irregularidade": "Aplicação de 70% dos Recursos FUNDEB com a Remuneração dos Profissionais do Magistério da Educação Básica",
+          "descricao": "Ausência de comprovação da efetiva entrega dos produtos.",
+          "justificativa_tipologia": "A aplicação de multa por grave infração à norma legal de natureza contábil, financeira, orçamentária, operacional e patrimonial indica falhas significativas na gestão fiscal, afetando a alocação e o controle de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "54",
+              "descricao": "Base legal para aplicação de multa por infração à norma legal."
+            },
+            {
+              "norma": "Resolução n.04/2002",
+              "artigo": "308",
+              "descricao": "Detalha os procedimentos para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "alcance",
+      "descricao": "Considerar em Alcance o Sr. Abraham Lincoln Dib Bastos no valor de R$671.011,61 (seiscentos  e  setenta  e  um mil,  onze reais  e  sessenta  e um centavos), com devolução aos cofres públicos, corrigidos nos moldes do artigo 304, inciso I, da Resolução nº 04/2002 - Regimento Interno do TCE, devido à restrição do item 17 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Abraham Lincoln Dib Bastos no valor de R$671.011,61 (seiscentos  e  setenta  e  um mil,  onze reais  e  sessenta  e um centavos), com devolução aos cofres públicos, corrigidos nos moldes do artigo 304, inciso I, da Resolução nº 04/2002 - Regimento Interno do TCE, devido à restrição do item 17 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação de alcance indica a necessidade de restituição de valores aos cofres públicos devido a restrições ou irregularidades na execução financeira, sugerindo burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - Regimento Interno do TCE",
+              "artigo": "304",
+              "descricao": "Estabelece os procedimentos para a correção de valores a serem devolvidos aos cofres públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar a remessa de cópia dos autos ao Ministério Público Estadual, para  a  apuração  de  possíveis  atos  de  improbidade  administrativa  e criminais",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a remessa de cópia dos autos ao Ministério Público Estadual, para  a  apuração  de  possíveis  atos  de  improbidade  administrativa  e criminais",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação de remessa dos autos ao Ministério Público indica suspeita de atos de improbidade administrativa e criminais, apontando para possíveis falhas na transparência e legalidade da gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "notificação",
+      "descricao": "Notificar o Sr. Abraham Lincoln Dib Bastos , com cópia do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Abraham Lincoln Dib Bastos , com cópia do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A notificação ao responsável para ciência do decisório e possibilidade de recurso é um procedimento administrativo padrão, indicando a necessidade de normatização das rotinas internas para garantir o devido processo legal e a transparência nas decisões.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

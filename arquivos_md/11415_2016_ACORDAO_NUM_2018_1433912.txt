@@ -1,0 +1,238 @@
+{
+  "acordao": "215/2018",
+  "processo": "11415/2016",
+  "data_sessao": "11 de Abril de 2018",
+  "orgao": "Câmara Municipal de Uarini",
+  "municipio": "Uarini",
+  "exercicio": "2015",
+  "responsavel": [
+    "Luiz Marcos do Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar  Irregular as  Contas  da  Câmara  Municipal  de  Uarini, exercício de 2015, sob a responsabilidade do Sr. Luiz Marcos do Nascimento , Presidente do Legislativo Municipal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe mui estritamente a competência contábil nos registros de obrigações patronais, contabilizando-se apenas o período a que se referem os dados",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe mui estritamente a competência contábil nos registros de obrigações patronais, contabilizando-se apenas o período a que se referem os dados",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho determina a observância da competência contábil nos registros de obrigações patronais, contabilizando-se apenas o período a que se referem os dados, o que está relacionado com a correta aplicação dos princípios contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe também fielmente o equilíbrio fiscal, nos termos do artigo  42  da  Lei  Complementar  101/00,  sob  cominação  da pena prevista pelo artigo 359-B do Código Penal ao responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe também fielmente o equilíbrio fiscal, nos termos do artigo  42  da  Lei  Complementar  101/00,  sob  cominação  da pena prevista pelo artigo 359-B do Código Penal ao responsável",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A22A",
+          "tipologia_irregularidade": "Cumprimento da Regra de Ouro - os ingressos financeiros oriundos do endividamento (operações de crédito) não devem ser superiores às despesas de capital (investimentos, inversões financeiras e amortização da dívida)",
+          "descricao": "Realização de operações de crédito superou e/ou está superando as despesas de capital.",
+          "justificativa_tipologia": "O trecho determina a observância do equilíbrio fiscal, conforme o artigo 42 da Lei Complementar 101/00, que está diretamente relacionado ao cumprimento da regra de ouro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar 101/00",
+              "artigo": "42",
+              "descricao": "Determina a observância do equilíbrio fiscal."
+            },
+            {
+              "norma": "Código Penal",
+              "artigo": "359-B",
+              "descricao": "Pena prevista para o descumprimento do equilíbrio fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Numere  as  folhas  dos  procedimentos  licitatórios,  conforme instrui o artigo 38, caput, da Lei de Licitações e Contratos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Numere  as  folhas  dos  procedimentos  licitatórios,  conforme instrui o artigo 38, caput, da Lei de Licitações e Contratos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "O trecho determina a numeração das folhas dos procedimentos licitatórios, conforme o artigo 38, caput, da Lei de Licitações e Contratos, que está relacionado com a regularidade e a transparência nos processos licitatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Licitações e Contratos",
+              "artigo": "38, caput",
+              "descricao": "Instrui sobre a numeração das folhas dos procedimentos licitatórios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Comunicar à Secretaria da Receita Federal  acerca de possível não recolhimento de valores previdenciários referentes às gratificações natalinas",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar à Secretaria da Receita Federal  acerca de possível não recolhimento de valores previdenciários referentes às gratificações natalinas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "O trecho determina comunicar à Secretaria da Receita Federal sobre possível não recolhimento de valores previdenciários referentes às gratificações natalinas, que está relacionado com a regularidade dos pagamentos e das contas de diárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ,  nos  termos  do  artigo  54,  IV,  da  lei  nº  2423/96, referente à não-alimentação do Sistema de Atos de Pessoal (item 22  do  relatório  técnico),  com  quantificação  mediada  pelo  artigo 308, I, a), de nosso Regimento Interno, no valor de R$ 3.288,09 (7,5% do valor máximo)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ,  nos  termos  do  artigo  54,  IV,  da  lei  nº  2423/96, referente à não-alimentação do Sistema de Atos de Pessoal (item 22  do  relatório  técnico),  com  quantificação  mediada  pelo  artigo 308, I, a), de nosso Regimento Interno, no valor de R$ 3.288,09 (7,5% do valor máximo)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2B",
+          "tipologia_irregularidade": "Ausência do relatório dos processos licitatórios, dispensas, inexigibilidades",
+          "descricao": "Não foram apresentados os processos referentes as licitações.",
+          "justificativa_tipologia": "O trecho aplica uma multa referente à não alimentação do Sistema de Atos de Pessoal, o que está relacionado com a ausência dos relatórios dos processos licitatórios, dispensas, inexigibilidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, IV",
+              "descricao": "Aplica multa referente à não-alimentação do Sistema de Atos de Pessoal."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, I, a",
+              "descricao": "Quantificação da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ,  nos  termos  do  artigo  54,  II,  da  lei  nº  2423/96, referente a uma  série  de  irregularidades concernentes  aos relatórios  de  gestão  fiscal  (violações  ao  artigo  5º,  I,  da  lei  nº 10.028/00; aos artigos 48 e 55, § 2º da Lei de Responsabilidade Fiscal),  a  contratos  e  procedimentos  licitatórios  (violações  aos artigos 15, § 7º; 24, X; 25, I; 38, VI e parágrafo único da Lei de Licitações e Contratos, e aos artigos 94 e 96 da lei nº 4.320/64), e a diárias desprovidas de comprovantes e portarias concessórias. A quantia devida se calcula através do artigo 308,  VI, de nosso Regimento Interno, in numeris, R$ 21.920,64",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ,  nos  termos  do  artigo  54,  II,  da  lei  nº  2423/96, referente a uma  série  de  irregularidades concernentes  aos relatórios  de  gestão  fiscal  (violações  ao  artigo  5º,  I,  da  lei  nº 10.028/00; aos artigos 48 e 55, § 2º da Lei de Responsabilidade Fiscal),  a  contratos  e  procedimentos  licitatórios  (violações  aos artigos 15, § 7º; 24, X; 25, I; 38, VI e parágrafo único da Lei de Licitações e Contratos, e aos artigos 94 e 96 da lei nº 4.320/64), e a diárias desprovidas de comprovantes e portarias concessórias.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa por uma série de irregularidades, incluindo violações aos relatórios de gestão fiscal, Lei de Responsabilidade Fiscal, contratos, procedimentos licitatórios, lei 4320/64 e diárias sem comprovação, que está relacionada com a não publicação do RREO.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, II",
+              "descricao": "Aplica multa referente a uma série de irregularidades."
+            },
+            {
+              "norma": "Lei nº 10.028/00",
+              "artigo": "5º, I",
+              "descricao": "Violações concernentes aos relatórios de gestão fiscal."
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "48",
+              "descricao": "Violações concernentes aos relatórios de gestão fiscal."
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "55, § 2º",
+              "descricao": "Violações concernentes aos relatórios de gestão fiscal."
+            },
+            {
+              "norma": "Lei de Licitações e Contratos",
+              "artigo": "15, § 7º",
+              "descricao": "Violações concernentes a contratos e procedimentos licitatórios."
+            },
+            {
+              "norma": "Lei de Licitações e Contratos",
+              "artigo": "24, X",
+              "descricao": "Violações concernentes a contratos e procedimentos licitatórios."
+            },
+            {
+              "norma": "Lei de Licitações e Contratos",
+              "artigo": "25, I",
+              "descricao": "Violações concernentes a contratos e procedimentos licitatórios."
+            },
+            {
+              "norma": "Lei de Licitações e Contratos",
+              "artigo": "38, VI",
+              "descricao": "Violações concernentes a contratos e procedimentos licitatórios."
+            },
+            {
+              "norma": "Lei de Licitações e Contratos",
+              "artigo": "38, parágrafo único",
+              "descricao": "Violações concernentes a contratos e procedimentos licitatórios."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Violações concernentes a contratos e procedimentos licitatórios."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "96",
+              "descricao": "Violações concernentes a contratos e procedimentos licitatórios."
+            }
+          ]
+        },
+        {
+          "trecho": "A quantia devida se calcula através do artigo 308,  VI, de nosso Regimento Interno, in numeris, R$ 21.920,64",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "O trecho calcula a quantia devida através do artigo 308,  VI, do Regimento Interno que está relacionada com a ausência de atividades de controle interno para transações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, VI",
+              "descricao": "Cálculo da quantia devida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Cientificar o responsável acerca do desfecho deste processo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Cientificar o responsável acerca do desfecho deste processo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho visa cientificar o responsável acerca do desfecho do processo, o que está relacionado com a ausência de normatização das rotinas internas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

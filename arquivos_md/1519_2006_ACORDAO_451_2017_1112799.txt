@@ -1,0 +1,93 @@
+{
+  "acordao": "451/2017",
+  "processo": "1519/2006",
+  "data_sessao": "02 de Maio de 2017",
+  "orgao": "Fundação de Medicina Tropical Dr. Heitor Vieira Dourado - FMT/HVD",
+  "municipio": "Manaus",
+  "exercicio": "2005",
+  "responsavel": [
+    "Francisco Alves dos Santos",
+    "Sinésio Talhari"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas da Fundação de Medicina Tropical, referente ao exercício de 2005, de responsabilidade do Sr.  Sinésio  Talhari  (Diretor  Presidente)  e  do  Sr.  Francisco  Alves  dos Santos, Ordenador de Despesas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação de Contas da Fundação de Medicina Tropical, referente ao exercício de 2005, de responsabilidade do Sr.  Sinésio  Talhari  (Diretor  Presidente)  e  do  Sr.  Francisco  Alves  dos Santos, Ordenador de Despesas;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O julgamento com ressalvas indica que, apesar de não haver irregularidades graves, existem aspectos que precisam de atenção e correção, o que impacta a fidedignidade das contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem que evite as reincidências constantes no Relatório Técnico e Parecer Ministerial dos autos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem que evite as reincidências constantes no Relatório Técnico e Parecer Ministerial dos autos;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "A recomendação para evitar reincidências indica deficiências no controle interno que, se não corrigidas, podem levar a futuras irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao  Sr.  Sinésio  Talhari  e ao  Sr. Francisco  Alves  dos Santos, nos termos do art. 24, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao  Sr.  Sinésio  Talhari  e ao  Sr. Francisco  Alves  dos Santos, nos termos do art. 24, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A quitação, apesar das ressalvas, sugere que as contas foram consideradas aceitáveis dentro de um determinado contexto, e a tipologia contábil reflete a necessidade de melhor documentação nos registros patrimoniais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a quitação dos responsáveis"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189",
+              "descricao": "Dispõe sobre a quitação dos responsáveis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o presente processo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o presente processo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O arquivamento indica que, apesar das ressalvas, o processo foi finalizado, e a tipologia documental reflete a necessidade de garantir que todos os documentos exigidos estejam presentes nas prestações de contas anuais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "acordao": "349/2018",
+  "processo": "11333/2017",
+  "data_sessao": "30 de Maio de 2018",
+  "orgao": "Serviço de Pronto Atendimento e Hospital Dr. Aristóteles Platão Bezerra de Araújo - SPA Platão de Araújo",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Jose Diniz Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  Regular  com  ressalvas a  Prestação  de  Contas  do Sr. Jose Diniz Filho , responsável pelo Serviço de Pronto Atendimento  e  Hospital  Dr.  Aristóteles  Platão  Bezerra  de Araújo ,  no  curso do exercício 2016, nos termos do artigo 1º,  II, 22, II, e 24 da Lei n. 2423/1996; e artigos 188, § 1º, II, e 189, II, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  ressalvas a  Prestação  de  Contas  do Sr. Jose Diniz Filho , responsável pelo Serviço de Pronto Atendimento  e  Hospital  Dr.  Aristóteles  Platão  Bezerra  de Araújo ,  no  curso do exercício 2016, nos termos do artigo 1º,  II, 22, II, e 24 da Lei n. 2423/1996; e artigos 188, § 1º, II, e 189, II, da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho define o julgamento das contas como regular com ressalvas, o que indica que, apesar de algumas impropriedades, a gestão foi aceitável. Como é um julgamento formal, o trecho não indica um problema concreto que possa persistir ao longo do tempo, caso não seja corrigido.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "1º, II, 22, II, e 24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "188, § 1º, II, e 189, II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Serviço  de  Pronto  Atendimento  e  Hospital  Dr.Aristóteles Platão Bezerra de Araújo - SPA Platão de Araújo que observe com rigor o cumprimento das normas legais, principalmente no que diz respeito",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Serviço  de  Pronto  Atendimento  e  Hospital  Dr.Aristóteles Platão Bezerra de Araújo - SPA Platão de Araújo que observe com rigor o cumprimento das normas legais, principalmente no que diz respeito",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A recomendação para observar o cumprimento das normas legais é genérica e não descreve uma falha concreta. A recomendação não indica um problema real que possa persistir ao longo do tempo, caso não seja corrigido.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Obrigatoriedade  de  fazer  constar  em  todas  as  pastas funcionais  as  declarações  do  Diretor,  Vice  Diretor  e  de todos os servidores com cargos comissionados",
+      "trechos_identificados": [
+        {
+          "trecho": "Obrigatoriedade  de  fazer  constar  em  todas  as  pastas funcionais  as  declarações  do  Diretor,  Vice  Diretor  e  de todos os servidores com cargos comissionados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A13B",
+          "tipologia_irregularidade": "Descumprimento do Programa de Integridade",
+          "descricao": "Ausência de Declaração de bens",
+          "justificativa_tipologia": "A recomendação de incluir as declarações de bens nas pastas funcionais é relevante para o índice, pois indica uma deficiência no controle interno e na gestão de pessoal, que pode levar a problemas de integridade e transparência na administração pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Maior  controle  patrimonial,  incluso  a  elaboração  de Inventário de bens patrimoniais contendo todos os dados inerentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Maior  controle  patrimonial,  incluso  a  elaboração  de Inventário de bens patrimoniais contendo todos os dados inerentes",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação de elaborar um inventário de bens patrimoniais com todos os dados inerentes é relevante para o índice, pois indica uma deficiência no controle patrimonial, que pode levar a problemas de desvio e má gestão dos bens públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observância do contido nos artigos 2º, 24, 25 e 26 da Lei N°8.666/1993,  com  o  fito  de  evitar  o  fracionamento  de despesas quando da contratação de compras e/ou serviços que possam ser realizadas de forma planejada e dentro do exercício fiscal em tela",
+      "trechos_identificados": [
+        {
+          "trecho": "Observância do contido nos artigos 2º, 24, 25 e 26 da Lei N°8.666/1993,  com  o  fito de evitar o  fracionamento  de despesas quando da contratação de compras e/ou serviços que possam ser realizadas de forma planejada e dentro do exercício fiscal em tela",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A recomendação de observar os artigos da Lei nº 8.666/1993 para evitar o fracionamento de despesas é relevante para o índice, pois indica uma deficiência no planejamento e na gestão das contratações, que pode levar à fuga de licitação e à contratação de serviços e compras de forma inadequada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei N°8.666/1993",
+              "artigo": "2º, 24, 25 e 26",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a Secex - Secretaria Geral do Controle Externo que a próxima  Comissão  de  Inspeção  verifique  o  cumprimento  das recomendações  expostas  no  item  anterior,  bem  como se  ainda persiste a ausência de fotos dos servidores nas fichas funcionais",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a Secex - Secretaria Geral do Controle Externo que a próxima  Comissão  de  Inspeção  verifique  o  cumprimento  das recomendações  expostas  no  item  anterior,  bem  como se  ainda persiste a ausência de fotos dos servidores nas fichas funcionais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Este trecho descreve uma determinação para que a Secex verifique o cumprimento de recomendações anteriores e a persistência da ausência de fotos nas fichas funcionais. Embora seja uma ação de acompanhamento importante, por si só, não aponta para uma irregularidade ou deficiência estrutural na gestão pública, a menos que a verificação revele o não cumprimento das recomendações ou a persistência da ausência das fotos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Jose Diniz Filho com cópia do Relatório/Voto e deste Acórdão para ciência do decisório.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Jose Diniz Filho com cópia do Relatório/Voto e deste Acórdão para ciência do decisório.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A notificação por si só não configura uma irregularidade, mas sim um procedimento administrativo para garantir a ciência do responsável sobre as decisões do Tribunal de Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "acordao": "49/2014",
+  "processo": "2164/2007",
+  "data_sessao": "29 de janeiro de 2014",
+  "orgao": "Fundo Municipal do Meio Ambiente",
+  "municipio": "Manaus",
+  "exercicio": "2006",
+  "responsavel": [
+    "Luciana Montenegro Valente"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar Regular com Ressalvas ,  nos  termos dos arts. 1º, II e 22, II, da Lei 2.423/96 c/c o art.188, §1º, II, da Resolução 4/2002-TCE/AM, a Prestação de Contas Anuais do Fundo Municipal de Meio Ambiente - FMMA , referente ao exercício de 2006 , de responsabilidade da Sra. LUCIANA  MONTENEGRO  VALENTE , na condição  de Presidente do FMMA e Ordenadora de Despesas, à época.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas ,  nos  termos dos arts. 1º, II e 22, II, da Lei 2.423/96 c/c o art.188, §1º, II, da Resolução 4/2002-TCE/AM, a Prestação de Contas Anuais do Fundo Municipal de Meio Ambiente - FMMA , referente ao exercício de 2006 , de responsabilidade da Sra. LUCIANA  MONTENEGRO  VALENTE , na condição  de Presidente do FMMA e Ordenadora de Despesas, à época.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica um julgamento formal das contas, mas não aponta irregularidades que afetem a gestão pública, não se enquadrando como problema concreto, estrutural ou recorrente na gestão pública.O tema da irregularidade foi classificado como CONTABILIDADE devido à menção à Prestação de Contas Anuais e informações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II e 22, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, sua competência e funcionamento, e dá outras providências."
+            },
+            {
+              "norma": "Resolução 4/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Dar Quitação a Sra. LUCIANA MONTENEGRO VALENTE , na condição de Presidente do FMMA e Ordenadora de Despesas no exercício de 2006, na forma prevista nos arts. 24 e 72, II, da Lei 2.423/1996, c/c art. 189, II, da Resolução 4/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar Quitação a Sra. LUCIANA MONTENEGRO VALENTE , na condição de Presidente do FMMA e Ordenadora de Despesas no exercício de 2006, na forma prevista nos arts. 24 e 72, II, da Lei 2.423/1996, c/c art. 189, II, da Resolução 4/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A quitação não indica irregularidades que afetem a gestão pública, não se enquadrando como problema concreto, estrutural ou recorrente na gestão pública.  O tema da irregularidade foi classificado como CONTABILIDADE devido à menção à Ordenação de Despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/1996",
+              "artigo": "24 e 72, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, sua competência e funcionamento, e dá outras providências."
+            },
+            {
+              "norma": "Resolução 4/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  Administração  do Fundo  Municipal  de  Meio Ambiente - FMMA : a) Em atendimento  ao  disposto  nos  arts.  1º  e  3º  da  Lei  n.  6.496/77,  nas contratações  para  a  execução  de  obras  ou  prestação  de  quaisquer serviços  profissionais referentes à Engenharia, à Arquitetura e à Agronomia, exija a Anotação de Responsabilidade  Técnica  -  ART,  cuja  ausência  sujeitará  o  profissional  ou  a  empresa  à multa prevista na alínea \"a\" do art. 73 da Lei nº 5.194, de 24 de dezembro de 1966, e demais cominações legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Em atendimento  ao  disposto  nos  arts.  1º  e  3º  da  Lei  n.  6.496/77,  nas contratações  para  a  execução  de  obras  ou  prestação  de  quaisquer serviços  profissionais referentes à Engenharia, à Arquitetura e à Agronomia, exija a Anotação de Responsabilidade  Técnica  -  ART,  cuja  ausência  sujeitará  o  profissional  ou  a  empresa  à multa prevista na alínea \"a\" do art. 73 da Lei nº 5.194, de 24 de dezembro de 1966, e demais cominações legais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "A ausência de ART em contratações de obras e serviços de engenharia, arquitetura e agronomia é uma deficiência grave no controle e fiscalização da execução contratual, podendo levar a falhas técnicas, riscos à segurança e prejuízos financeiros. Foi classificado como OBRAS PÚBLICAS dada a natureza do objeto.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 6.496/77",
+              "artigo": "1º e 3º",
+              "descricao": "Dispõe sobre a Anotação de Responsabilidade Técnica de profissionais de Engenharia, Arquitetura e Agronomia, e dá outras providências."
+            },
+            {
+              "norma": "Lei nº 5.194, de 24 de dezembro de 1966",
+              "artigo": "73",
+              "descricao": "Regula o exercício das profissões de Engenheiro, Arquiteto e Agrônomo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  Administração  do Fundo  Municipal  de  Meio Ambiente - FMMA : b) Na realização de despesas cujos somatórios excedam ao limite legalmente permitido,  realize  o  devido  procedimento  licitatório  em  observância  à  Lei  n.  8.666/93  e demais normativos pertinentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Na realização de despesas cujos somatórios excedam ao limite legalmente permitido,  realize  o  devido  procedimento  licitatório  em  observância  à  Lei  n.  8.666/93  e demais normativos pertinentes",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "A não realização de licitação quando o valor das despesas excede o limite legalmente permitido indica falhas graves no planejamento e controle das contratações, caracterizando um problema estrutural que compromete a transparência e a economicidade da gestão. O tema foi classificado como LICITAÇÕES E CONTRATOS devido à sua relação com procedimentos licitatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "DETERMINAR à Secretaria do Tribunal Pleno que: a) Encaminhe à atual Administração do Fundo Municipal de Meio Ambiente - FMMA , cópia do Acórdão a ser proferido, para que observe as recomendações expostas, evitando, no futuro, o cometimento das mesmas falhas",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe à atual Administração do Fundo Municipal de Meio Ambiente - FMMA , cópia do Acórdão a ser proferido, para que observe as recomendações expostas, evitando, no futuro, o cometimento das mesmas falhas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de encaminhar cópia do acórdão visa garantir que a administração esteja ciente das recomendações e evite a repetição de falhas, auxiliando na implementação do Controle Interno.O tema da irregularidade foi classificado como CONTROLE INTERNO devido à sua relação com o aprimoramento da gestão e fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "DETERMINAR à Secretaria do Tribunal Pleno que: b) Adote as providências previstas no artigo 162, § 1º , do Regimento Interno",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote as providências previstas no artigo 162, § 1º , do Regimento Interno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de adotar providências internas do Tribunal de Contas não implica irregularidades na gestão do órgão.O tema da irregularidade foi classificado como CONTROLE INTERNO devido à sua relação com a implementação de um controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "162, § 1º",
+              "descricao": "Estabelece procedimentos internos do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

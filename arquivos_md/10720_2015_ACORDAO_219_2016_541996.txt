@@ -1,0 +1,248 @@
+{
+  "acordao": "219/2016",
+  "processo": "10720/2015",
+  "data_sessao": "09 de março de 2016",
+  "orgao": "Regime Próprio de Previdência Social do Município de Urucará - RPPS/ URUCARAPREV",
+  "municipio": "Urucará",
+  "exercicio": "2014",
+  "responsavel": [
+    "Arnei dos Santos Matias"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidades",
+      "descricao": "Julgar Irregulares as Contas do RPPS MUNICIPAL DE URUCARÁUrucaráPrev ,  referentes  ao  exercício  financeiro  de  2014,  de  responsabilidade  do  Sr. Arnei dos Santos Matias , na forma do art. 22, inciso III, alíneas 'b' e 'c' c/c art. 25, da Lei  nº  2.423/96-LO/TCE,  considerando  as  ocorrências  das  restrições sobreditas  e  não sanadas desta instrução.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregulares as Contas do RPPS MUNICIPAL DE URUCARÁUrucaráPrev ,  referentes  ao  exercício  financeiro  de  2014,  de  responsabilidade  do  Sr. Arnei dos Santos Matias , na forma do art. 22, inciso III, alíneas 'b' e 'c' c/c art. 25, da Lei  nº  2.423/96-LO/TCE,  considerando  as  ocorrências  das  restrições sobreditas  e  não sanadas desta instrução.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica que as contas foram julgadas irregulares devido a ocorrências não sanadas, o que sugere falhas na documentação contábil e ausência de informações essenciais, refletindo uma potencial ausência de notas explicativas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, inciso III, alíneas 'b' e 'c' c/c art. 25",
+              "descricao": "Define as responsabilidades sobre as contas irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar  o alcance do  montante  de R$  4.556,82 (quatro  mil, quinhentos e cinquenta e seis reais e oitenta e dois centavos), com devolução aos cofres públicos corrigidos nos moldes do art. 304, inciso VI, da Resolução nº 04/2002-Regimento Interno do TCE, devido às restrições n°s 12, 15 e 18.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  o alcance do  montante  de R$  4.556,82 (quatro  mil, quinhentos e cinquenta e seis reais e oitenta e dois centavos), com devolução aos cofres públicos corrigidos nos moldes do art. 304, inciso VI, da Resolução nº 04/2002-Regimento Interno do TCE, devido às restrições n°s 12, 15 e 18.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação de alcance de montante devido a restrições específicas indica a necessidade de ressarcimento de valores aos cofres públicos, sugerindo irregularidades na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "304, inciso VI",
+              "descricao": "Define os procedimentos para correção de valores devidos aos cofres públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Comunicar  ao  Poder  Executivo  Municipal ,  que  no  caso  de  não recolhimento do valor da condenação, ex vi o art.173 da Res. Nº04/2002 - RITCE/AM e expirado  o  prazo  estabelecido,  o  débito  deverá  ser  inscrito  na  Dívida  Ativa  Municipal, seguido da imediata cobrança judicial, cientificando este Tribunal de todas as medidas adotadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar  ao  Poder  Executivo  Municipal ,  que  no  caso  de  não recolhimento do valor da condenação, ex vi o art.173 da Res. Nº04/2002 - RITCE/AM e expirado  o  prazo  estabelecido,  o  débito  deverá  ser  inscrito  na  Dívida  Ativa  Municipal, seguido da imediata cobrança judicial, cientificando este Tribunal de todas as medidas adotadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A notificação para inscrição em dívida ativa e cobrança judicial, caso o valor da condenação não seja recolhido, está relacionada a irregularidades na execução orçamentária e respeito ao princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. Nº04/2002 - RITCE/AM",
+              "artigo": "173",
+              "descricao": "Define os procedimentos para inscrição em dívida ativa e cobrança judicial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa de R$ 10.000,00 (dez mil reais) com base no art. 54, II e III, da Lei 2.423/96, c/c o art, 308, V e VI, da Resolução n° 04/02, devido às restrições não sanadas (n° 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 18 e 19).",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa de R$ 10.000,00 (dez mil reais) com base no art. 54, II e III, da Lei 2.423/96, c/c o art, 308, V e VI, da Resolução n° 04/02, devido às restrições não sanadas (n° 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 18 e 19).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa devido a restrições não sanadas indica deficiências no sistema de controle interno, que não foram corrigidas a tempo de evitar a penalidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, II e III",
+              "descricao": "Estabelece as bases para aplicação de multas por irregularidades."
+            },
+            {
+              "norma": "Resolução n° 04/02",
+              "artigo": "308, V e VI",
+              "descricao": "Define os critérios e procedimentos para aplicação de sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomende à origem para que: faça  a  reescrituração  do  Livro  Tombo  contendo  as  informações mínimas indicadas no art. 94 da Lei n. 4320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "faça  a  reescrituração  do  Livro  Tombo  contendo  as  informações mínimas indicadas no art. 94 da Lei n. 4320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação para reescrituração do Livro Tombo, conforme o art. 94 da Lei n. 4320/64, visa corrigir a ausência ou insuficiência de informações mínimas nos registros de bens patrimoniais, indicando um problema na gestão patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4320/64",
+              "artigo": "94",
+              "descricao": "Define as informações mínimas que devem constar no Livro Tombo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomende à origem para que: observe com maior rigor as exigências da legislação de licitações e contratos,  que  formalize  os  processos  de  dispensa  de  licitação  e  preceda  todas  as contratações  de  compras, obras  e/ou  serviços  de  ampla  pesquisa  de  mercado,  como condição básica para seleção da melhor proposta à Administração",
+      "trechos_identificados": [
+        {
+          "trecho": "observe com maior rigor as exigências da legislação de licitações e contratos,  que  formalize  os  processos  de  dispensa  de  licitação  e  preceda  todas  as contratações  de  compras, obras  e/ou  serviços  de  ampla  pesquisa  de  mercado,  como condição básica para seleção da melhor proposta à Administração",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "justificativa_tipologia": "A recomendação para observar com maior rigor a legislação de licitações e contratos, formalizar os processos de dispensa e realizar ampla pesquisa de mercado visa evitar sobrepreço e garantir a seleção da melhor proposta.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificada",
+              "artigo": "Não especificado",
+              "descricao": "Implícita a legislação sobre licitações e contratos (e.g., Lei nº 8.666/93, Lei nº 14.133/21)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determine à origem para que : apresente a regularização das impropriedades listadas nas Restrições nº 03, 04, 05, 06, 07, 08, 09 e 10, ou as medidas saneadoras tomadas",
+      "trechos_identificados": [
+        {
+          "trecho": "apresente a regularização das impropriedades listadas nas Restrições nº 03, 04, 05, 06, 07, 08, 09 e 10, ou as medidas saneadoras tomadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para regularizar impropriedades ou apresentar medidas saneadoras indica falhas nos controles internos que precisam ser corrigidas, refletindo uma implementação insuficiente ou estruturação inadequada do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificada",
+              "artigo": "Não especificado",
+              "descricao": "Implícita a legislação sobre controle interno (e.g., art. 74 da Constituição Federal)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determine à origem para que: doravante as diárias do presidente do RPPS sejam autorizadas pela autoridade máxima do Executivo Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "doravante as diárias do presidente do RPPS sejam autorizadas pela autoridade máxima do Executivo Municipal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T1A19A",
+          "tipologia_irregularidade": "Falta de segregação de funções",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "A determinação para que as diárias do presidente do RPPS sejam autorizadas pela autoridade máxima do Executivo Municipal visa garantir a segregação de funções e evitar pagamentos irregulares.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificada",
+              "artigo": "Não especificado",
+              "descricao": "Implícita a legislação sobre segregação de funções e controle de gastos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determine à origem para que: observe com maior rigor os prazos de recolhimento de tributos de modo a evitar o pagamento de juros e multas.",
+      "trechos_identificados": [
+        {
+          "trecho": "observe com maior rigor os prazos de recolhimento de tributos de modo a evitar o pagamento de juros e multas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A30B",
+          "tipologia_irregularidade": "Não conformidade com leis e regulamentos",
+          "descricao": "Não conformidade com leis e regulamentos",
+          "justificativa_tipologia": "A determinação para observar os prazos de recolhimento de tributos visa evitar o pagamento de juros e multas, o que indica uma falha no controle interno e na conformidade com leis e regulamentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificada",
+              "artigo": "Não especificado",
+              "descricao": "Implícita a legislação tributária e sobre gestão financeira responsável."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima comissão de inspeção que auditar as contas do  UrucaráPrev  para  que  verifique  o  cumprimento  das  determinações/recomendações desta Corte.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima comissão de inspeção que auditar as contas do  UrucaráPrev  para  que  verifique  o  cumprimento  das  determinações/recomendações desta Corte.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "A determinação para que a próxima comissão de inspeção verifique o cumprimento das determinações e recomendações desta Corte está relacionada à garantia da implementação e eficácia do sistema de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificada",
+              "artigo": "Não especificado",
+              "descricao": "Implícita a legislação sobre controle interno e fiscalização de contas públicas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

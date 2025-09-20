@@ -1,0 +1,176 @@
+{
+  "acordao": "816/2016",
+  "processo": "2349/2013",
+  "data_sessao": "27 de Setembro de 2016",
+  "orgao": "Secretaria Municipal de Finanças, Tecnologia da Informação e Controle Interno - SEMEF",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Alfredo Paes dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "Regular com Ressalvas",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  Anuais  da Secretaria Municipal de Finanças, Tecnologia da Informação e Controle Interno - SEMEF, exercício de 2012, sob a responsabilidade do Sr. Alfredo Paes dos Santos , Secretário Municipal da SEMEF, nos termos do inciso II do art. 1º e do inciso II do art. 22, todos da Lei nº 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  Anuais  da Secretaria Municipal de Finanças, Tecnologia da Informação e Controle Interno - SEMEF, exercício de 2012, sob a responsabilidade do Sr. Alfredo Paes dos Santos , Secretário Municipal da SEMEF, nos termos do inciso II do art. 1º e do inciso II do art. 22, todos da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O julgamento regular com ressalvas indica que, embora a prestação de contas tenha sido aprovada, foram identificadas pequenas inconformidades que não comprometem a gestão como um todo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar Quitação ao Sr. Alfredo Paes dos Santos , nos termos dos arts. 24 e 72, II,  ambos da Lei n. 2.423, de 10/12/1996, c/c o art. 189, II, da Resolução 04/2002  TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar Quitação ao Sr. Alfredo Paes dos Santos , nos termos dos arts. 24 e 72, II,  ambos da Lei n. 2.423, de 10/12/1996, c/c o art. 189, II, da Resolução 04/2002  TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A quitação é um ato administrativo que reconhece o cumprimento das obrigações financeiras e contábeis por parte do responsável, encerrando o processo de responsabilização sobre as contas julgadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423, de 10/12/1996",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Lei n. 2.423, de 10/12/1996",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução 04/2002  TCE/AM",
+              "artigo": "189",
+              "descricao": "Regimento interno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Providências no sentido de equipar a Secretaria para que recepcione a hospedagem em datacenter da SEMEF dos sistemas GISS Online, ISSQN, GINFES e ICAD",
+      "trechos_identificados": [
+        {
+          "trecho": "Providências no sentido de equipar a Secretaria para que recepcione a hospedagem em datacenter da SEMEF dos sistemas GISS Online, ISSQN, GINFES e ICAD",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação de equipar a secretaria para hospedar sistemas importantes indica uma preocupação com a infraestrutura tecnológica e a disponibilidade de informações relevantes para a gestão fiscal e tributária, impactando a transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Procedimentos de parametrização e conciliação entre as entradas e saídas  dos  materiais  de  estoques  e  incorporação  e  desincorporação  de  bens  com  o sistema de registro contábil, afim de atender o disposto nos art. 63 e 104 da Lei 4320/64;",
+      "trechos_identificados": [
+        {
+          "trecho": "Procedimentos de parametrização e conciliação entre as entradas e saídas  dos  materiais  de  estoques  e  incorporação  e  desincorporação  de  bens  com  o sistema de registro contábil, afim de atender o disposto nos art. 63 e 104 da Lei 4320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A recomendação de parametrizar e conciliar dados de estoque com o registro contábil indica uma preocupação com a integridade e confiabilidade das informações contábeis, visando melhorar a gestão patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4320/64",
+              "artigo": "63",
+              "descricao": "Dispõe sobre normas gerais de direito financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei 4320/64",
+              "artigo": "104",
+              "descricao": "Dispõe sobre normas gerais de direito financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Promova  cobrança  à  empresa  EICON  Controles  Inteligentes  de Negócios  para  que  realize  a  transferência  e  instalação  da  base  de  dados  para  o datacenter da SEMEF, caso ainda não tenha sido realizada;",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova  cobrança  à  empresa  EICON  Controles  Inteligentes  de Negócios  para  que  realize  a  transferência  e  instalação  da  base  de  dados  para  o datacenter da SEMEF, caso ainda não tenha sido realizada",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação de cobrar a transferência e instalação da base de dados para o datacenter da SEMEF sugere uma preocupação com a segurança e o controle dos dados, impactando a transparência e o acesso à informação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção que verifique o cumprimento de todas as recomendações do item 3",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção que verifique o cumprimento de todas as recomendações do item 3",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para que a próxima comissão de inspeção verifique o cumprimento das recomendações indica uma preocupação com a melhoria contínua dos processos e a correção de falhas identificadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Secretaria do Tribunal Pleno que adote as providências previstas no artigo 162, § 1º, da Resolução 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  à  Secretaria do Tribunal Pleno que adote as providências previstas no artigo 162, § 1º, da Resolução 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Esta determinação se refere a procedimentos internos do Tribunal de Contas para dar seguimento ao processo, sem indicar diretamente uma falha na gestão do órgão fiscalizado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "162",
+              "descricao": "Regimento interno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

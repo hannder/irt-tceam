@@ -1,0 +1,288 @@
+{
+  "acordao": "657/2014",
+  "processo": "11080/2014",
+  "data_sessao": "25 de novembro de 2014",
+  "orgao": "Câmara Municipal do Careiro",
+  "municipio": "Careiro",
+  "exercicio": "2013",
+  "responsavel": [
+    "João Doza de Oliveira Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar multa o  Sr.  João  Doza  de  Oliveira  Neto,  Presidente  da Câmara  Municipal  e  Ordenador  de  Despesas, no  valor  de  R$  4.384,12 (quatro  mil, trezentos e oitenta e quatro reais e doze centavos), referente a 10% do valor previsto no art.  54,  §2.º,  da  Lei  n.º  2.423/96,  c/c  o  art.  1º,  da  Resolução  TCE/AM  n.º  25/12, conforme estabelece  o  art.  53, parágrafo único, da Lei n.° 2.423/96, alterado pela  Lei Complementar n.º 114/2013, pelas impropriedades identificadas nos itens 1.2, 1.5, 1.8 e 1.10 , do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa o  Sr.  João  Doza  de  Oliveira  Neto,  Presidente  da Câmara  Municipal  e  Ordenador  de  Despesas, no  valor  de  R$  4.384,12 (quatro  mil, trezentos e oitenta e quatro reais e doze centavos), referente a 10% do valor previsto no art.  54,  §2.º,  da  Lei  n.º  2.423/96,  c/c  o  art.  1º,  da  Resolução  TCE/AM  n.º  25/12, conforme estabelece  o  art.  53, parágrafo único, da Lei n.° 2.423/96, alterado pela  Lei Complementar n.º 114/2013, pelas impropriedades identificadas nos itens 1.2, 1.5, 1.8 e 1.10 , do Relatório/Voto.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Voto\"; justificativa=\"Aplicação de multa por diversas impropriedades, indicando problemas na gestão orçamentária e patrimonial. Escolhida tipologia genérica, pois o trecho não discrimina a natureza específica das irregularidades.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, §2.º",
+              "descricao": "Define o valor base para aplicação da multa."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 25/12",
+              "artigo": "1º",
+              "descricao": "Estabelece critérios para aplicação de multas."
+            },
+            {
+              "norma": "Lei n.° 2.423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "Define as condições para aplicação de multas."
+            },
+            {
+              "norma": "Lei Complementar n.º 114/2013",
+              "artigo": "Não citado",
+              "descricao": "Altera a Lei n.° 2.423/96, estabelecendo novas diretrizes para aplicação de sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "DETERMINAR à Câmara Municipal do Careiro que: a) atualize e providencie melhorias no detalhamento das informações, com fins de atender as expectativas de controle social pela população na forma que determina o art. 48, caput c/c o art. 73-B, ambos da LC 101/2000, item 1.2 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "atualize e providencie melhorias no detalhamento das informações, com fins de atender as expectativas de controle social pela população na forma que determina o art. 48, caput c/c o art. 73-B, ambos da LC 101/2000, item 1.2 do Relatório/Voto",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório/Voto, item 1.2\"; justificativa=\"Determinação para melhorar o detalhamento das informações visando o controle social, o que indica uma falha prévia na apresentação das contas. Classificado como 'Ausência de Notas Explicativas' por ser a tipologia mais aderente.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC 101/2000",
+              "artigo": "48, caput",
+              "descricao": "Estabelece a transparência na gestão fiscal."
+            },
+            {
+              "norma": "LC 101/2000",
+              "artigo": "73-B",
+              "descricao": "Dispõe sobre a divulgação de informações para o controle social."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "DETERMINAR à Câmara Municipal do Careiro que: b)  atualize  as  pastas  funcionais  de  seus servidores  conforme  ocorram  as movimentações de alteração, item 1.4 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "atualize  as  pastas  funcionais  de  seus servidores  conforme  ocorram  as movimentações de alteração, item 1.4 do Relatório/Voto",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório/Voto, item 1.4\"; justificativa=\"É preciso manter as pastas funcionais dos servidores sempre atualizadas para melhor gestão do pessoal e para fins de auditoria.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "DETERMINAR à Câmara Municipal do Careiro que: c)  cumprir  as  determinações  assinaladas  no  art.  94,  da  Lei  Federal  n°. 4.320/64, item 1.6 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "cumprir  as  determinações  assinaladas  no  art.  94,  da  Lei  Federal  n°. 4.320/64, item 1.6 do Relatório/Voto",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório/Voto, item 1.6\"; justificativa=\"Requerimento para cumprir determinações do art. 94 da Lei 4.320/64, que trata da comprovação dos valores registrados no Balanço Patrimonial, especificamente na conta 'Estoques'.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n°. 4.320/64",
+              "artigo": "94",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "DETERMINAR à Câmara Municipal do Careiro que: d)  observar  com  mais  rigor  as  formalidades  contidas  no  art.  38  da  lei  n°. 8666/93 quando da formatação do processo, item 1.8 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "observar  com  mais  rigor  as  formalidades  contidas  no  art.  38  da  lei  n°. 8666/93 quando da formatação do processo, item 1.8 do Relatório/Voto",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Deficiências no controle e fiscalização da execução contratual.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório/Voto, item 1.8\"; justificativa=\"É fundamental observar rigorosamente as formalidades na formatação dos processos para garantir a segurança jurídica e a correta aplicação dos recursos públicos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n°. 8666/93",
+              "artigo": "38",
+              "descricao": "Dispõe sobre o processo licitatório."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR à próxima Comissão de Inspeção que: a) averigue a edição e aplicação da regulamentação do art. 43, da Lei n°. 491/2011 conforme assegura o notificado, irem 1.3 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "averigue a edição e aplicação da regulamentação do art. 43, da Lei n°. 491/2011 conforme assegura o notificado, irem 1.3 do Relatório/Voto",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"Relatório/Voto, item 1.3\"; justificativa=\"A recomendação para averiguar a regulamentação do artigo indica a possibilidade de ausência de normas internas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n°. 491/2011",
+              "artigo": "43",
+              "descricao": "Necessidade de regulamentação específica (a ser verificada)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR à próxima Comissão de Inspeção que: b) averigue se há servidor designado  através de Portaria, para realizar o controle do sistema de registro de patrimônio, do contrário, aplicar o disposto no § 1° do art. 22, da Lei Estadual n°. 2.423/96 (Lei Orgânica do TCE/AM) c/c a alínea 'e' do inc. III do  §1°  do  art.  188,  Resolução  n°  04/2002  do  TCE-AM,  item  1.6  do  Relatório/Voto; Ratificar  a  informação  do  gestor  de  afixação  de  plaquetas  de  identificação  nos  bens patrimoniais referentes às Notas  de  Empenhos  20  e  21-  computadores  e  seus componentes, item 1.7 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "averigue se há servidor designado  através de Portaria, para realizar o controle do sistema de registro de patrimônio, do contrário, aplicar o disposto no § 1° do art. 22, da Lei Estadual n°. 2.423/96 (Lei Orgânica do TCE/AM) c/c a alínea 'e' do inc. III do  §1°  do  art.  188,  Resolução  n°  04/2002  do  TCE-AM,  item  1.6  do  Relatório/Voto; Ratificar  a  informação  do  gestor  de  afixação  de  plaquetas  de  identificação  nos  bens patrimoniais referentes às Notas  de  Empenhos  20  e  21-  computadores  e  seus componentes, item 1.7 do Relatório/Voto",
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A9B",
+          "tipologia_irregularidade": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório/Voto, item 1.6 e 1.7\"; justificativa=\"A recomendação para averiguar a designação de servidor para o controle do sistema de registro de patrimônio sugere que há uma falha no controle patrimonial.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n°. 2.423/96",
+              "artigo": "22, § 1°",
+              "descricao": "Estabelece medidas punitivas em caso de irregularidades."
+            },
+            {
+              "norma": "Resolução n° 04/2002 do TCE-AM",
+              "artigo": "188, §1°, III, alínea 'e'",
+              "descricao": "Dispõe sobre a organização e funcionamento do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR à próxima Comissão de Inspeção que: c) ratificar se o Poder Legislativo promoveu a revogação da Lei Complementar  n.°  01/94,  de 10/10/1994,  que  fixa  as  diárias  em  percentuais  sobre  o salário mínimo, do contrário, aplicar o  disposto no § 1.°  do art. 22, da Lei Estadual  n.° 2.423/96 c/c a alínea 'e' do inciso III do § 1.° do art. 188 da Resolução n.° 4/2002 do TCE/AM, item 1.9 do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "ratificar se o Poder Legislativo promoveu a revogação da Lei Complementar  n.°  01/94,  de 10/10/1994,  que  fixa  as  diárias  em  percentuais  sobre  o salário mínimo, do contrário, aplicar o  disposto no § 1.°  do art. 22, da Lei Estadual  n.° 2.423/96 c/c a alínea 'e' do inciso III do § 1.° do art. 188 da Resolução n.° 4/2002 do TCE/AM, item 1.9 do Relatório/Voto.",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A82B",
+          "tipologia_irregularidade": "Pagamento ilegal de parcela remuneratória",
+          "descricao": "Pagamento ilegal de parcela remuneratória",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório/Voto, item 1.9\"; justificativa=\"A recomendação sugere uma análise da legalidade da fixação de diárias com base no salário mínimo, o que se enquadra em 'Pagamento ilegal de parcela remuneratória'.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar  n.°  01/94",
+              "artigo": "Não citado",
+              "descricao": "Fixa  as  diárias  em  percentuais  sobre  o salário mínimo."
+            },
+            {
+              "norma": "Lei Estadual  n.° 2.423/96",
+              "artigo": "22, § 1.°",
+              "descricao": "Define sanções em caso de irregularidades."
+            },
+            {
+              "norma": "Resolução n.° 4/2002 do TCE/AM",
+              "artigo": "188, § 1.°, III, alínea 'e'",
+              "descricao": "Define as competências do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar multa o  Sr.  João  Doza  de  Oliveira  Neto,  Presidente  da Câmara Municipal e Ordenador de Despesas, no valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art.  308,  inciso  II,  da Resolução nº.  04/2002TCE/AM,  alterado  pela  Resolução  nº  25/2012-TCE/AM por  cada  mês  de  atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos  meses  de  outubro,  novembro  e  dezembro  de  2013  (3  meses),  totalizando  o montante  de R$  3.288,09 (três  mil,  duzentos e oitenta  e oito reais e nove centavos), item 1.1 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa o  Sr.  João  Doza  de  Oliveira  Neto,  Presidente  da Câmara Municipal e Ordenador de Despesas, no valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art.  308,  inciso  II,  da Resolução nº.  04/2002TCE/AM,  alterado  pela  Resolução  nº  25/2012-TCE/AM por  cada  mês  de  atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos  meses  de  outubro,  novembro  e  dezembro  de  2013  (3  meses),  totalizando  o montante  de R$  3.288,09 (três  mil,  duzentos e oitenta  e oito reais e nove centavos), item 1.1 do Relatório/Voto",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Voto, item 1.1\"; justificativa=\"Aplicação de multa por atraso no envio de demonstrativos contábeis, evidenciando descumprimento de prazos legais. A tipologia 'Balancetes Mensais entregues fora do prazo' é a mais adequada, pois se refere especificamente a esse tipo de atraso.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº.  04/2002TCE/AM",
+              "artigo": "308, inciso II",
+              "descricao": "Define a multa por atraso no envio de informações."
+            },
+            {
+              "norma": "Resolução nº  25/2012-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Altera a Resolução nº.  04/2002TCE/AM, estabelecendo novos critérios para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias ,  para  que  o Sr. João Doza de Oliveira Neto, recolha os valores das multas que lhe foram aplicadas aos cofres públicos (art.  72,  III,  'c',  da  Lei  nº  2423/96),  ficando  a  DICREX  autorizada  a  dotar  as  medidas previstas nas subseções III e  IV da Seção III, do Capítulo X, da Resolução nº 04/2002TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias ,  para  que  o Sr. João Doza de Oliveira Neto, recolha os valores das multas que lhe foram aplicadas aos cofres públicos (art.  72,  III,  'c',  da  Lei  nº  2423/96),  ficando  a  DICREX  autorizada  a  dotar  as  medidas previstas nas subseções III e  IV da Seção III, do Capítulo X, da Resolução nº 04/2002TCE/AM.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação para recolher os valores das multas aos cofres públicos em 30 dias está relacionada ao princípio da unidade de tesouraria, pois garante que os recursos públicos sejam devidamente direcionados e utilizados.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Dispõe sobre o recolhimento de multas aos cofres públicos."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Autoriza a DICREX a adotar medidas para o recolhimento das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "AUTORIZAR , em  caso  de  não  recolhimentos  dos  valores  de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei nº 2.423/96,  art. 169,  II,  art. 173, e § 6º do art. 308,  todos da Resolução nº 04/2002- TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR , em  caso  de  não  recolhimentos  dos  valores  de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei nº 2.423/96,  art. 169,  II,  art. 173, e § 6º do art. 308,  todos da Resolução nº 04/2002- TCE.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A autorização para inscrição do débito na Dívida Ativa e ação executiva visa garantir o recolhimento dos valores aos cofres públicos, em alinhamento com o princípio da unidade de tesouraria.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "73",
+              "descricao": "Dispõe sobre a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "169, II, art. 173, e § 6º do art. 308",
+              "descricao": "Dispõe sobre as medidas para a execução das decisões do TCE."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

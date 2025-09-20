@@ -1,0 +1,103 @@
+{
+  "acordao": "518/2023",
+  "processo": "12959/2021",
+  "data_sessao": "28 de Março de 2023",
+  "orgao": "Câmara Municipal de Urucará",
+  "municipio": "Urucará",
+  "exercicio": "2020",
+  "responsavel": [
+    "Mateus Garcia Paes"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  do Sr.  Mateus  Garcia  Paes, Presidente da Câmara Municipal de Urucará, referente ao exercício de 2020, com fundamento no art. 22, I, da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  do Sr.  Mateus  Garcia  Paes, Presidente da Câmara Municipal de Urucará, referente ao exercício de 2020, com fundamento no art. 22, I, da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Julgamento das contas como regular",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Fundamentação para julgar a prestação de contas regular."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao Sr.  Mateus  Garcia  Paes, Presidente  da  Câmara Municipal de Urucará, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr.  Mateus  Garcia  Paes, Presidente  da  Câmara Municipal de Urucará, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Quitação ao responsável",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Fundamentação para dar quitação ao responsável."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, I",
+              "descricao": "Fundamentação para dar quitação ao responsável."
+            },
+            {
+              "norma": "Resolução nº 02/2002 TCE-AM",
+              "artigo": "189, I",
+              "descricao": "Fundamentação para dar quitação ao responsável."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Mateus  Garcia  Paes, Presidente  da  Câmara Municipal  de  Urucará,  bem  como  aos  seus  Patronos,  se  for  o  caso, sobre o teor da decisão, com cópia do Relatório-Voto e deste Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Mateus  Garcia  Paes, Presidente  da  Câmara Municipal  de  Urucará,  bem  como  aos  seus  Patronos,  se  for  o  caso, sobre o teor da decisão, com cópia do Relatório-Voto e deste Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Ciência ao responsável",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Arquivamento dos autos",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "acordao": "209/2018",
+  "processo": "11344/2017",
+  "data_sessao": "11 de Abril de 2018",
+  "orgao": "Sistema de Previdência dos Servidores Públicos do Município de Presidente Figueiredo - SISPREV",
+  "municipio": "Presidente Figueiredo",
+  "exercicio": "2016",
+  "responsavel": [
+    "Suzana Farias de Araújo"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas Anual da Sra.  Suzana  Farias  de  Araújo ,  Diretora-Presidente  do  Sistema de Previdência dos Servidores Públicos do Município de Presidente Figueiredo, referente ao exercício de 2016, nos termos do art.1°, II e art. 22, inciso II, da Lei n° 2.423/96 c/c o art.5°, II, da Resolução n° 04/2002 - RI/TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Multar a  Sra. Suzana Farias de Araújo ,  Diretora-Presidente do Sistema de Previdência dos Servidores Públicos do Município de Presidente  Figueiredo,  no  valor  de R$  2.000,00 (dois  mil  reais) nos termos do art. 53, parágrafo único, da Lei nº 2.423/1996",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar prazo de 30 (trinta) dias pra o recolhimento das multas aos cofres da Fazenda Pública (art. 72, III, alínea 'a' da Lei 2.423/96) com as devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c  o  art.308,  §3º  da  Resolução  TCE  04/02),  ficando,  desde  já, autorizada a DICREX a adoção das medidas previstas no art.175 da Resolução TCE 04/02",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Regularize, em conjunto com Poderes Executivo e Legislativo, o  Certificado  de  Regularidade  Previdenciária  do  município perante a Subsecretaria dos Regimes Próprios de Previdência Social -SRPPS, vinculada ao Ministério da Fazenda, conforme art. 27 da Port. MPS nº 402/08 c/c arts. 7º, I a IV, 9º, II, da Lei nº 9.717/98",
+      "trechos_identificados": [
+        {
+          "trecho": "Regularize, em conjunto com Poderes Executivo e Legislativo, o  Certificado  de  Regularidade  Previdenciária  do  município perante a Subsecretaria dos Regimes Próprios de Previdência Social -SRPPS, vinculada ao Ministério da Fazenda, conforme art. 27 da Port. MPS nº 402/08 c/c arts. 7º, I a IV, 9º, II, da Lei nº 9.717/98",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A74B",
+          "tipologia_irregularidade": "Ausência de CRP",
+          "descricao": "Foi identificado a ausência de Certificado de Regularização Previdênciaria - CRP pela Secretaria de Previdência do Ministério da Fazenda.",
+          "justificativa_tipologia": "O trecho determina a regularização do CRP, o que indica que há uma ausência ou irregularidade relacionada a este certificado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Port. MPS nº 402/08",
+              "artigo": "27",
+              "descricao": "Regularização do Certificado de Regularidade Previdenciária"
+            },
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "7º, I a IV",
+              "descricao": "Disposições sobre a organização e o funcionamento dos regimes próprios de previdência social"
+            },
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "9º, II",
+              "descricao": "Normas para a manutenção do equilíbrio financeiro e atuarial dos regimes próprios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Promova a imediata reestruturação do Portal da Transparência do  SISPREV,  a  fim  de  proporcionar  aos  seus  segurados informações quanto à gestão do RPPS, conforme art. 1º,  VI, da Lei nº 9.717/98, art. 5º, VIII da Portaria MPS nº 204/08, art. 12  da  Portaria  MPS  nº  402/08  e  art.  4º,  III,  Lei  Municipal  nº 714/2014",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova a imediata reestruturação do Portal da Transparência do  SISPREV,  a  fim  de  proporcionar  aos  seus  segurados informações quanto à gestão do RPPS, conforme art. 1º,  VI, da Lei nº 9.717/98, art. 5º, VIII da Portaria MPS nº 204/08, art. 12  da  Portaria  MPS  nº  402/08  e  art.  4º,  III,  Lei  Municipal  nº 714/2014",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A descrição se refere à reestruturação do portal da transparência, o que indica uma ausência ou deficiência na divulgação de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "1º, VI",
+              "descricao": "Garantia de acesso dos segurados às informações relativas à gestão do RPPS"
+            },
+            {
+              "norma": "Portaria MPS nº 204/08",
+              "artigo": "5º, VIII",
+              "descricao": "Transparência na gestão do RPPS"
+            },
+            {
+              "norma": "Portaria MPS nº 402/08",
+              "artigo": "12",
+              "descricao": "Disposições sobre a divulgação de informações"
+            },
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "4º, III",
+              "descricao": "Normas sobre a gestão do RPPS no município"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Adote  as  providências  necessárias  para  reduzir  o  déficit atuarial  do  RPPS,  seja  implementado  plano  de  amortização, seja realizando na última hipótese a segregação de massas, conforme art. 20 da Port. MPS nº 403/08 c/c art. 9º, II, da Lei nº 9.717/98",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote  as  providências  necessárias  para  reduzir  o  déficit atuarial  do  RPPS,  seja  implementado  plano  de  amortização, seja realizando na última hipótese a segregação de massas, conforme art. 20 da Port. MPS nº 403/08 c/c art. 9º, II, da Lei nº 9.717/98",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A28B",
+          "tipologia_irregularidade": "Déficit de receita",
+          "descricao": "Déficit de receita",
+          "justificativa_tipologia": "A determinação para reduzir o déficit atuarial indica uma situação existente de déficit, o que configura uma irregularidade na gestão previdenciária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Port. MPS nº 403/08",
+              "artigo": "20",
+              "descricao": "Implementação de plano de amortização ou segregação de massas"
+            },
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "9º, II",
+              "descricao": "Manutenção do equilíbrio financeiro e atuarial dos RPPS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Promova  a  cobrança  do  valor  de  R$  3.333.203,00,  com  a devida atualização monetária, das contribuições patronal e dos servidores,  exercício  2016,  que  não  foram  recolhidas  pela Prefeitura do município de Presidente Figueiredo, sob pena de solidariedade, nos termos do art. 1º da Lei nº 9.717/98 e arts. 4º, 152 e 155 da Lei Municipal nº 714/2014",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova  a  cobrança  do  valor  de  R$  3.333.203,00,  com  a devida atualização monetária, das contribuições patronal e dos servidores,  exercício  2016,  que  não  foram  recolhidas  pela Prefeitura do município de Presidente Figueiredo, sob pena de solidariedade, nos termos do art. 1º da Lei nº 9.717/98 e arts. 4º, 152 e 155 da Lei Municipal nº 714/2014",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação de cobrança de contribuições não recolhidas indica uma falha no controle e repasse dessas contribuições, justificando a escolha desta tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "1º",
+              "descricao": "Normas gerais para a organização e o funcionamento dos RPPS"
+            },
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "4º",
+              "descricao": "Disposições sobre a gestão do RPPS no município"
+            },
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "152",
+              "descricao": "Normas sobre a cobrança de contribuições em atraso"
+            },
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "155",
+              "descricao": "Responsabilidade solidária em caso de não recolhimento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Promova  a  cobrança  imediata  da  contribuição  patronal  do auxílio-doença  das  competências  fevereiro,  março,  agosto, setembro e outubro/2016 da Prefeitura de Presidente Figueiredo,  recolhidas  em  atraso  sem  a  cobrança  de  juros, conforme  disposto  nos  arts.  152  e  155  da  Lei  Municipal  nº 714/2014",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova  a  cobrança  imediata  da  contribuição  patronal  do auxílio-doença  das  competências  fevereiro,  março,  agosto, setembro e outubro/2016 da Prefeitura de Presidente Figueiredo,  recolhidas  em  atraso  sem  a  cobrança  de  juros, conforme  disposto  nos  arts.  152  e  155  da  Lei  Municipal  nº 714/2014",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação de cobrança imediata das contribuições patronais do auxílio-doença, indica uma falha no controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos, com a não cobrança de juros nos recolhimentos em atraso.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "152",
+              "descricao": "Normas sobre a cobrança de contribuições em atraso"
+            },
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "155",
+              "descricao": "Responsabilidade solidária em caso de não recolhimento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Apresente nos próximos demonstrativos contábeis a escrituração  das contribuições  dos  servidores  referentes  aos auxílio-doença,  conforme  disposição  do  art.  16  da  Portaria MPS nº 402/08, art. 5º, XIII, da Portaria MPS nº 204/08 e art. 123 da Lei Municipal nº 714/2014",
+      "trechos_identificados": [
+        {
+          "trecho": "Apresente nos próximos demonstrativos contábeis a escrituração  das contribuições  dos  servidores  referentes  aos auxílio-doença,  conforme  disposição  do  art.  16  da  Portaria MPS nº 402/08, art. 5º, XIII, da Portaria MPS nº 204/08 e art. 123 da Lei Municipal nº 714/2014",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação para apresentar a escrituração das contribuições dos servidores referentes aos auxílios-doença, indica uma ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria MPS nº 402/08",
+              "artigo": "16",
+              "descricao": "Disposições sobre a escrituração contábil das contribuições"
+            },
+            {
+              "norma": "Portaria MPS nº 204/08",
+              "artigo": "5º, XIII",
+              "descricao": "Requisitos para a manutenção do CRP"
+            },
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "123",
+              "descricao": "Normas sobre as contribuições previdenciárias no município"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Solicite da Prefeitura de Presidente Figueiredo o envio mensal da  folha  de  pagamento  para  que  o  SISPREV  faça  o  efetivo controle  sobre  as  contribuições  patronal  e  dos  servidores, conforme  expressão  do  art.  127,  §  2º  da  Lei  Municipal  nº 714/2014 e art. 46 da Orientação Normativa nº 02/2009",
+      "trechos_identificados": [
+        {
+          "trecho": "Solicite da Prefeitura de Presidente Figueiredo o envio mensal da  folha  de  pagamento  para  que  o  SISPREV  faça  o  efetivo controle  sobre  as  contribuições  patronal  e  dos  servidores, conforme  expressão  do  art.  127,  §  2º  da  Lei  Municipal  nº 714/2014 e art. 46 da Orientação Normativa nº 02/2009",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação para solicitar o envio mensal da folha de pagamento indica que a falta desse controle é uma fragilidade que precisa ser corrigida.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 714/2014",
+              "artigo": "127, § 2º",
+              "descricao": "Disposições sobre o controle das contribuições previdenciárias"
+            },
+            {
+              "norma": "Orientação Normativa nº 02/2009",
+              "artigo": "46",
+              "descricao": "Normas sobre a gestão dos RPPS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Realize a avaliação atuarial em cada balanço e encaminhe o Demonstrativo de Resultado de Avaliação Atuarial à Subsecretaria  dos  Regimes  Próprios  de  Previdência  Social  SRPPS e ao Tribunal de Contas, conforme art. 5º, XVI, 'b', da Port. MPS nº 204/08 e art. 3º, 'd', da Res. TCE nº 08/11",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize a avaliação atuarial em cada balanço e encaminhe o Demonstrativo de Resultado de Avaliação Atuarial à Subsecretaria  dos  Regimes  Próprios  de  Previdência  Social  SRPPS e ao Tribunal de Contas, conforme art. 5º, XVI, 'b', da Port. MPS nº 204/08 e art. 3º, 'd', da Res. TCE nº 08/11",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A31B",
+          "tipologia_irregularidade": "Ausência de DRRA",
+          "descricao": "Ausência de DRRA",
+          "justificativa_tipologia": "A determinação de realizar a avaliação atuarial e encaminhar o demonstrativo indica que a ausência desse documento é um problema.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Port. MPS nº 204/08",
+              "artigo": "5º, XVI, 'b'",
+              "descricao": "Disposições sobre a avaliação atuarial e o demonstrativo"
+            },
+            {
+              "norma": "Res. TCE nº 08/11",
+              "artigo": "3º, 'd'",
+              "descricao": "Normas sobre a prestação de contas dos RPPS ao TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Faça a reavaliação periódica do ativo  imobilizado, desde que não ultrapasse o lapso temporal de quatro anos",
+      "trechos_identificados": [
+        {
+          "trecho": "Faça a reavaliação periódica do ativo  imobilizado, desde que não ultrapasse o lapso temporal de quatro anos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A determinação para reavaliar o ativo imobilizado indica deficiências nos registros e avaliações patrimoniais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à DICAMI  que  analise  as  restrições 5, 6 e 7 referentes às contribuições previdenciárias devidas pela Prefeitura Municipal  de  Presidente  Figueiredo,  no  âmbito  da Prestação de Contas Anual referente ao exercício de 2016, para apuração da responsabilidade",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência desta decisão à responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Cumpridas  as  determinações  acima, arquivar os  autos,  nos temos regimentais",
+      "trechos_identificados": []
+    }
+  ]
+}

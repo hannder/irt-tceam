@@ -1,0 +1,401 @@
+{
+  "acordao": "767/2014",
+  "processo": "10975/2014",
+  "data_sessao": "19 de dezembro de 2014",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Barreirinha - SAAE",
+  "municipio": "Barreirinha",
+  "exercicio": "2013",
+  "responsavel": [
+    "Luiz Carlos Pedreno Trindade",
+    "Airlaudio Picanço Batista Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "julgar pela Irregularidade das Contas do Serviço Autônomo de Água e Esgoto Barreirinha-SAAE, referente ao exercício de 2013, sob responsabilidade dos Srs. Luiz Carlos Pedreno Trindade e Airlaudio Picanço Batista Filho",
+      "trechos_identificados": [
+        {
+          "trecho": "julgar pela Irregularidade das Contas do Serviço Autônomo de Água e Esgoto Barreirinha-SAAE, referente ao exercício de 2013, sob responsabilidade dos Srs. Luiz Carlos Pedreno Trindade e Airlaudio Picanço Batista Filho",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de informações dificulta a transparência na gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96-TCE/AM",
+              "artigo": "22, III, alínea b",
+              "descricao": "Define a irregularidade das contas devido a atos de gestão ilegítimos ou antieconômicos que resultem em dano ao erário."
+            },
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "5°, inciso II",
+              "descricao": "Estabelece as condições para julgamento das contas como irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar Revel o  Sr. Luiz Carlos Pedreno Trindade ,  Diretor  do SAAE/Barreirinha, no período de 1.1.2013 a 31.3.2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar Revel o  Sr. Luiz Carlos Pedreno Trindade ,  Diretor  do SAAE/Barreirinha, no período de 1.1.2013 a 31.3.2013",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A revelia por não atender a notificação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Define as condições para considerar o responsável em revelia."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/2002",
+              "artigo": "88",
+              "descricao": "Estabelece o procedimento para aplicação da revelia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar o Sr. Luiz Carlos Pedreno Trindade, Diretor do SAAE/Barreirinha, no período de 1.1.2013 a 31.3.2013, no valor de R$ 8.768,25 (oito mil, setecentos  e  sessenta  e  oito  reais  e  vinte  e  cinco  centavos)",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Sr. Luiz Carlos Pedreno Trindade, Diretor do SAAE/Barreirinha, no período de 1.1.2013 a 31.3.2013, no valor de R$ 8.768,25 (oito mil, setecentos  e  sessenta  e  oito  reais  e  vinte  e  cinco  centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada devido a irregularidades graves na gestão contábil, financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Estabelece a multa por atos praticados com grave infração à norma legal ou regulamentar."
+            },
+            {
+              "norma": "Resolução n° 04/2000-RITCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Define o valor da multa em 20% do valor previsto na Lei nº 2.423/96."
+            },
+            {
+              "norma": "Resolução n° 25/2012-TCE/AM",
+              "artigo": "null",
+              "descricao": "Altera a Resolução n° 04/2000-RITCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Fixar o prazo de 30 (trinta) dias , para que o Sr. Luiz Carlos Pedreno Trindade , recolha o valor da multa que lhe foi aplicada aos cofres públicos",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias , para que o Sr. Luiz Carlos Pedreno Trindade , recolha o valor da multa que lhe foi aplicada aos cofres públicos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A multa não foi recolhida no tempo hábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Define o prazo para recolhimento da multa aos cofres públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A DICREX pode adotar medidas caso a multa não seja paga.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "null",
+              "descricao": "Autoriza a DICREX a adotar medidas para garantir o recolhimento da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar Revel o Sr. Airlaudio Picanço Batista Filho , Diretor do SAAE/Barreirinha, no período de 1.4.2013 a 31.12.2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar Revel o Sr. Airlaudio Picanço Batista Filho , Diretor do SAAE/Barreirinha, no período de 1.4.2013 a 31.12.2013",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A revelia por não atender a notificação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Define as condições para considerar o responsável em revelia."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/2002",
+              "artigo": "88",
+              "descricao": "Estabelece o procedimento para aplicação da revelia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar o Sr. Airlaudio Picanço Batista Filho , Diretor do SAAE/Barreirinha, no período de 1.4.2013 a 31.12.2013, no valor de R$ 8.768,25 (oito mil, setecentos  e  sessenta  e  oito  reais  e  vinte  e  cinco  centavos)",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Sr. Airlaudio Picanço Batista Filho , Diretor do SAAE/Barreirinha, no período de 1.4.2013 a 31.12.2013, no valor de R$ 8.768,25 (oito mil, setecentos  e  sessenta  e  oito  reais  e  vinte  e  cinco  centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada devido a irregularidades graves na gestão contábil, financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Estabelece a multa por atos praticados com grave infração à norma legal ou regulamentar."
+            },
+            {
+              "norma": "Resolução n° 04/2000-RITCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Define o valor da multa em 20% do valor previsto na Lei nº 2.423/96."
+            },
+            {
+              "norma": "Resolução n° 25/2012-TCE/AM",
+              "artigo": "null",
+              "descricao": "Altera a Resolução n° 04/2000-RITCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Fixar o prazo de 30 (trinta) dias , para que o Sr. Airlaudio Picanço Batista Filho , recolha o valor da multa que lhe foi aplicada aos cofres públicos",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias , para que o Sr. Airlaudio Picanço Batista Filho , recolha o valor da multa que lhe foi aplicada aos cofres públicos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A multa não foi recolhida no tempo hábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Define o prazo para recolhimento da multa aos cofres públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A DICREX pode adotar medidas caso a multa não seja paga.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "null",
+              "descricao": "Autoriza a DICREX a adotar medidas para garantir o recolhimento da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Autorizar , em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei nº 2.423/96, art. 169, II, art. 173, e § 6º do art. 308, todos da Resolução nº 04/2002- TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar , em caso de não recolhimento dos valores de condenação, a inscrição do débito  na Dívida  Ativa e ensejo à ação  executiva, ex vi do art. 73 da Lei nº 2.423/96, art. 169, II, art. 173, e § 6º do art. 308, todos da Resolução nº 04/2002- TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Ação executiva em caso de não recolhimento das multas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa e a ação executiva."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "169, II",
+              "descricao": "Regulamenta a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "173",
+              "descricao": "Regulamenta o processo de ação executiva."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "308",
+              "descricao": "Define os procedimentos para execução das decisões do TCE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem que, providencie a implementação do Portal da Transparência referente aos atos do SAAE, conforme exige a Lei n° 12.527/2011 - Lei de acesso a informação, observando as alterações trazidas pela LC n° 131 de 2009 inerentes ao art. 2° da Lei Complementar n° 101/2000, que passa a vigorar acrescida dos seguintes arts. 48-A, 73-B e 73-C",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Origem que, providencie a implementação do Portal da Transparência referente aos atos do SAAE, conforme exige a Lei n° 12.527/2011 - Lei de acesso a informação, observando as alterações trazidas pela LC n° 131 de 2009 inerentes ao art. 2° da Lei Complementar n° 101/2000, que passa a vigorar acrescida dos seguintes arts. 48-A, 73-B e 73-C",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "Implementação da transparência no orgão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 12.527/2011",
+              "artigo": "null",
+              "descricao": "Lei de Acesso à Informação"
+            },
+            {
+              "norma": "Lei Complementar n° 101/2000",
+              "artigo": "2",
+              "descricao": "Altera a Lei Complementar n° 101/2000, referente ao Portal da Transparência."
+            },
+            {
+              "norma": "Lei Complementar n° 101/2000",
+              "artigo": "48-A, 73-B e 73-C",
+              "descricao": "Artigos que tratam da transparência na gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe com mais rigor os prazos previstos nas normas legais desta Corte de Contas, bem como os dispositivos da Resolução nº 10/2012- TCE/AM, referente ao sistema ACP",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com mais rigor os prazos previstos nas normas legais desta Corte de Contas, bem como os dispositivos da Resolução nº 10/2012- TCE/AM, referente ao sistema ACP",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Recomendação para rigor no cumprimento de prazos e normas internas do TCE/AM.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 10/2012- TCE/AM",
+              "artigo": "null",
+              "descricao": "Dispõe sobre o sistema ACP para envio de informações ao TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe com mais rigor os ditames da Lei de Licitações n° 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com mais rigor os ditames da Lei de Licitações n° 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "Recomendação para rigor no cumprimento da Lei de Licitações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "null",
+              "descricao": "Lei de Licitações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar o Sr. Airlaudio Picanço Batista Filho , Diretor do SAAE/Barreirinha, no período de 1.4.2013 a 31.12.2013, no valor de R$ 1.096,03 (um mil e noventa e seis reais e três centavos), conforme o art. 308, II da Resolução n.º 04/2002TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por cada mês de atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos meses de janeiro a dezembro (12 meses), totalizando o montante de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos)",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Sr. Airlaudio Picanço Batista Filho , Diretor do SAAE/Barreirinha, no período de 1.4.2013 a 31.12.2013, no valor de R$ 1.096,03 (um mil e noventa e seis reais e três centavos), conforme o art. 308, II da Resolução n.º 04/2002TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por cada mês de atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos meses de janeiro a dezembro (12 meses), totalizando o montante de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Multa aplicada devido ao atraso no envio dos balancetes mensais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/2002TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Define a multa por atraso no encaminhamento de documentos."
+            },
+            {
+              "norma": "Resolução n.º 25/2012-TCE/AM",
+              "artigo": "null",
+              "descricao": "Altera a Resolução n.º 04/2002TCE/AM."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

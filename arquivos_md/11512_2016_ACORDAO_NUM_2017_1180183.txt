@@ -1,0 +1,96 @@
+{
+  "acordao": "41/2017",
+  "processo": "11512/2016",
+  "data_sessao": "9 de Fevereiro de 2017",
+  "orgao": "Secretaria Municipal Extraordinária",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Luiz Alberto Carijo de Gosztonyi"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar Regular a  Prestação de Contas do Sr. Luiz  Alberto Carijo de Gosztonyi, responsável pela Secretaria Municipal Extraordinária -SEMEX,  exercício  2015, nos  termos  do  art.  1º,  II,  22,  I,  e  23  da  Lei 2423/1996 e art. 188, § 1º, I, e 189, I, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular a  Prestação de Contas do Sr. Luiz  Alberto Carijo de Gosztonyi, responsável pela Secretaria Municipal Extraordinária -SEMEX,  exercício  2015, nos  termos  do  art.  1º,  II,  22,  I,  e  23  da  Lei 2423/1996 e art. 188, § 1º, I, e 189, I, da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho é um julgamento formal da prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "22, I",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "23",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "188, § 1º, I",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a Sepleno que adote as providências previstas no art. 161 da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a Sepleno que adote as providências previstas no art. 161 da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho é um procedimento interno do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "161",
+              "descricao": "providências a serem adotadas pela Sepleno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o presente processo nos termos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o presente processo nos termos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho é um procedimento interno do TCE.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

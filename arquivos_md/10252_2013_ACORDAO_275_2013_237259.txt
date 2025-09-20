@@ -1,0 +1,222 @@
+{
+  "acordao": "275/2013",
+  "processo": "10252/2013",
+  "data_sessao": "16 de dezembro de 2013",
+  "orgao": "Câmara Municipal de Nova Olinda do Norte",
+  "municipio": "Nova Olinda do Norte",
+  "exercicio": "2012",
+  "responsavel": [
+    "Guilherme Pereira Pena Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar IRREGULAR",
+      "descricao": "Julgar IRREGULAR a Prestação de Contas Anual da Câmara Municipal de Nova Olinda do Norte, relativas ao exercício de 2012, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, arts. 1°, II, 2°, 5°, I e 22, III,  'b' e art. 25 da Lei n° 2.423/96 c/c art. 11, III 'a' e art. 188, § 1°, III,  'b' da Resolução n° 04/02-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR a Prestação de Contas Anual da Câmara Municipal de Nova Olinda do Norte, relativas ao exercício de 2012, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, arts. 1°, II, 2°, 5°, I e 22, III,  'b' e art. 25 da Lei n° 2.423/96 c/c art. 11, III 'a' e art. 188, § 1°, III,  'b' da Resolução n° 04/02-TCE;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica uma falha na apresentação da prestação de contas anual da câmara municipal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Dispõe sobre o controle externo, a ser exercido pelo Congresso Nacional, com o auxílio do Tribunal de Contas, no que tange ao julgamento das contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluindo as fundações e sociedades instituídas e mantidas pelo poder público federal."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Define a competência do Tribunal de Contas do Estado para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluindo as fundações e sociedades instituídas e mantidas pelo Estado."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1°, II",
+              "descricao": "Estabelece a competência do Tribunal de Contas do Estado do Amazonas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "2°",
+              "descricao": "Define os responsáveis sujeitos à jurisdição do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "5°, I",
+              "descricao": "Dispõe sobre as sanções aplicáveis aos responsáveis que tiverem suas contas julgadas irregulares."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Especifica as irregularidades que podem levar à rejeição das contas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "25",
+              "descricao": "Trata da aplicação de multa aos responsáveis em caso de contas irregulares."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "11, III",
+              "descricao": "Define os procedimentos para o julgamento das contas anuais."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "188, § 1°, III",
+              "descricao": "Regulamenta os processos de tomada de contas especial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar MULTA",
+      "descricao": "Aplicar MULTA no montante de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos) ao  Sr.  Guilherme Pereira Pena Filho, com base no art. 54, III, da Lei Estadual n. 2.423/96, c/c o art. 308, VI da Resolução n. 04/02-TCE, concernentes aos itens 2 ao 17, e 18 , 'c', deste Relatório-Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no montante de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos) ao  Sr.  Guilherme Pereira Pena Filho, com base no art. 54, III, da Lei Estadual n. 2.423/96, c/c o art. 308, VI da Resolução n. 04/02-TCE, concernentes aos itens 2 ao 17, e 18 , 'c', deste Relatório-Voto;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "SANÇÕES",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho não descreve uma irregularidade, mas sim a aplicação de uma sanção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Define as multas aplicáveis em decorrência de irregularidades identificadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, VI",
+              "descricao": "Estabelece os procedimentos para a aplicação de multas e outras sanções pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "A Administração que seja obedecida às exigências do art. 4º, da Resolução n. 10/2012-TCE/AM, c/c o parágrafo 1º, art. 15, da Lei Complementar n. 06, de 22/01/91, com nova redação dada pela Lei Complementar n. 24/2000, no sentido de que não ocorram mais atrasos no envio dos dados informatizados e os demonstrativos contábeis a este Tribunal;",
+      "trechos_identificados": [
+        {
+          "trecho": "A Administração que seja obedecida às exigências do art. 4º, da Resolução n. 10/2012-TCE/AM, c/c o parágrafo 1º, art. 15, da Lei Complementar n. 06, de 22/01/91, com nova redação dada pela Lei Complementar n. 24/2000, no sentido de que não ocorram mais atrasos no envio dos dados informatizados e os demonstrativos contábeis a este Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação refere-se à necessidade de evitar atrasos na entrega de documentos contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 10/2012-TCE/AM",
+              "artigo": "4º",
+              "descricao": "Estabelece os prazos e formas para o envio de dados informatizados e demonstrativos contábeis ao Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei Complementar n. 06, de 22/01/91",
+              "artigo": "15, § 1º",
+              "descricao": "Define os prazos e responsabilidades para o envio de informações contábeis e financeiras ao Tribunal de Contas."
+            },
+            {
+              "norma": "Lei Complementar n. 24/2000",
+              "artigo": "null",
+              "descricao": "Altera a redação da Lei Complementar n. 06/91, especificando os prazos e procedimentos para o envio de informações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Que a partir da competência de junho de 2013, é passível de multa a ausência de envio do RGF ao Tribunal de Contas, conforme art. 32, II, alínea 'h', da Lei n. 2.423/96, com redação dada pela Lei Complementar n. 120, de 13 de junho de 2013.",
+      "trechos_identificados": [
+        {
+          "trecho": "Que a partir da competência de junho de 2013, é passível de multa a ausência de envio do RGF ao Tribunal de Contas, conforme art. 32, II, alínea 'h', da Lei n. 2.423/96, com redação dada pela Lei Complementar n. 120, de 13 de junho de 2013.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A recomendação está relacionada com o envio de dados e informações ao Tribunal de Contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "32, II, alínea 'h'",
+              "descricao": "Estabelece as multas aplicáveis em caso de descumprimento das normas relativas ao envio de informações ao Tribunal de Contas."
+            },
+            {
+              "norma": "Lei Complementar n. 120, de 13 de junho de 2013",
+              "artigo": "null",
+              "descricao": "Altera a redação da Lei n. 2.423/96, ajustando os prazos e procedimentos para o envio de informações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "A atual gestão que alimente o Sistema GEFIS na sua integralidade, observando a descrição dos campos contidos no sistema, de modo a guardar lógica conexão com os demais documentos enviados ao TCE, assim como os sistemas instituídos por esta Corte.",
+      "trechos_identificados": [
+        {
+          "trecho": "A atual gestão que alimente o Sistema GEFIS na sua integralidade, observando a descrição dos campos contidos no sistema, de modo a guardar lógica conexão com os demais documentos enviados ao TCE, assim como os sistemas instituídos por esta Corte.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A6B",
+          "tipologia_irregularidade": "Inconsistência de informações de processos licitatórios e de contratos nos sistemas",
+          "descricao": "Inconsistência de informações de processos licitatórios e de contratos nos sistemas.",
+          "justificativa_tipologia": "A determinação refere-se à necessidade de correta alimentação do sistema GEFIS, garantindo a consistência dos dados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "A atual gestão do Poder Legislativo do Município de Nova Olinda do Norte que atualize os instrumentos de transparências da gestão fiscal (Plano Plurianual, lei de Diretrizes Orçamentárias e Lei Orçamentária Anual do ente, assim como o Relatório de Gestão fiscal do Poder Legislativo) e os divulgue na internet ou em seu Portal de Transparência, cuja obrigatoriedade teve prazo limite em 27 de maio de 2013 para a municipalidade.",
+      "trechos_identificados": [
+        {
+          "trecho": "A atual gestão do Poder Legislativo do Município de Nova Olinda do Norte que atualize os instrumentos de transparências da gestão fiscal (Plano Plurianual, lei de Diretrizes Orçamentárias e Lei Orçamentária Anual do ente, assim como o Relatório de Gestão fiscal do Poder Legislativo) e os divulgue na internet ou em seu Portal de Transparência, cuja obrigatoriedade teve prazo limite em 27 de maio de 2013 para a municipalidade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação refere-se à atualização e divulgação dos instrumentos de transparência da gestão fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Autorizar desde já a inscrição do débito na dívida ativa e instauração de cobrança executiva, no caso de não-recolhimento do valor da condenação, nos moldes do art. 173 da Resolução n. 04/02-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já a inscrição do débito na dívida ativa e instauração de cobrança executiva, no caso de não-recolhimento do valor da condenação, nos moldes do art. 173 da Resolução n. 04/02-TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Procedimentos para recuperação de valores devidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "173",
+              "descricao": "Dispõe sobre os procedimentos para a inscrição de débitos na dívida ativa e a instauração de cobrança executiva."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

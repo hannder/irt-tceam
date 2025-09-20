@@ -1,0 +1,213 @@
+{
+  "acordao": "923/2017",
+  "processo": "1443 /2015",
+  "data_sessao": "19 de setembro de 2017",
+  "orgao": "Secretaria de Estado de Segurança Pública  - SSP",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Circe Maria Lima Gandra Baptista",
+    "Paulo Roberto Vital de Menezes",
+    "Nair Queiroz Blair"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular , a Prestação de Contas da Sra. Circe Maria Lima Gandra Baptista , Ex-Secretária Executiva de Segurança Pública e Ordenadora de Despesas, à época, e do Sr. Paulo Roberto Vital de Menezes ,  Ex-Secretário de Segurança Pública e Ordenador de Despesas,  à  época,  nos  termos  dos  artigos  18,  inciso  II,  da  Lei Complementar nº. 06/1991, c/c o artigo 1º, inciso II, artigo 22, inciso III, alíneas 'b' e 'c', todos da Lei nº. 2423/1996-LOTCE/AM e artigo 188,  §1º,  inciso  III,  alíneas  'b'  e  'c',  a  Prestação  de  Contas  da Secretaria  de  Estado  de  Segurança  Pública  -  SSP  (U.G:  22101), referente ao exercício de 2014",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular , a Prestação de Contas da Sra. Circe Maria Lima Gandra Baptista , Ex-Secretária Executiva de Segurança Pública e Ordenadora de Despesas, à época, e do Sr. Paulo Roberto Vital de Menezes ,  Ex-Secretário de Segurança Pública e Ordenador de Despesas,  à  época,  nos  termos  dos  artigos  18,  inciso  II,  da  Lei Complementar nº. 06/1991, c/c o artigo 1º, inciso II, artigo 22, inciso III, alíneas 'b' e 'c', todos da Lei nº. 2423/1996-LOTCE/AM e artigo 188,  §1º,  inciso  III,  alíneas  'b'  e  'c',  a  Prestação  de  Contas  da Secretaria  de  Estado  de  Segurança  Pública  -  SSP  (U.G:  22101), referente ao exercício de 2014",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica irregularidades na prestação de contas anual da Secretaria de Estado de Segurança Pública, o que pode estar relacionado à ausência ou inadequação das notas explicativas nas demonstrações contábeis, prejudicando a transparência e clareza das informações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº. 06/1991",
+              "artigo": "18, inciso II",
+              "descricao": "A Lei trata sobre a organização da administração financeira do Estado, e o artigo citado pode estabelecer normas para a prestação de contas e a necessidade de informações claras e detalhadas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996-LOTCE/AM",
+              "artigo": "1º, inciso II",
+              "descricao": "A Lei Orgânica do Tribunal de Contas do Estado do Amazonas estabelece as normas e procedimentos para o controle externo das contas públicas estaduais."
+            },
+            {
+              "norma": "Lei nº. 2423/1996-LOTCE/AM",
+              "artigo": "22, inciso III, alíneas 'b' e 'c'",
+              "descricao": "A Lei Orgânica do Tribunal de Contas do Estado do Amazonas estabelece as normas e procedimentos para o controle externo das contas públicas estaduais, incluindo a avaliação da conformidade e regularidade das contas apresentadas."
+            },
+             {
+              "norma": "Lei nº. 2423/1996-LOTCE/AM",
+              "artigo": "188, §1º, inciso III, alíneas 'b' e 'c'",
+              "descricao": "A Lei Orgânica do Tribunal de Contas do Estado do Amazonas estabelece as normas e procedimentos para o controle externo das contas públicas estaduais, incluindo a avaliação da conformidade e regularidade das contas apresentadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa a Sra. Circe  Maria  Lima  Gandra  Baptista , ExSecretária Executiva de  Segurança  Pública  e  Ordenadora  de Despesas,  à  época,  e Sr. Paulo  Roberto  Vital  de Menezes ,  ExSecretário  de  Segurança  Pública  e  Ordenador  de  Despesas,  à época, no valor de R$ 8.768,25 (Oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos) , na forma prevista no artigo 1º, inciso XXVI, da Lei nº 2.423 de 10.12.1996 - LOTCE, nos termos do artigo 54, inciso  II, da Lei  n 2.423/1996 - LOTCE c/c o artigo 308, inciso VI, do Regimento Interno (Resolução TCE nº. 04/2002), inciso acrescentado pelo artigo 2º, da Resolução nº 25, de 30 de agosto de 2012, pelo cometimento das impropriedades listadas neste voto de nºs 06,07,08,10,11, 12 e 14 do Relatório conclusivo e do Parecer Ministerial,  que  devem  ser  recolhidos  na  esfera  Estadual  para  o órgão  encargos  gerais  do  Estado  -  SEFAZ  por  descumprimento pelas impropriedades apontadas. O recolhimento feito, no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa a Sra. Circe  Maria  Lima  Gandra  Baptista , ExSecretária Executiva de  Segurança  Pública  e  Ordenadora  de Despesas,  à  época,  e Sr. Paulo  Roberto  Vital  de Menezes ,  ExSecretário  de  Segurança  Pública  e  Ordenador  de  Despesas,  à época, no valor de R$ 8.768,25 (Oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos) , na forma prevista no artigo 1º, inciso XXVI, da Lei nº 2.423 de 10.12.1996 - LOTCE, nos termos do artigo 54, inciso  II, da Lei  n 2.423/1996 - LOTCE c/c o artigo 308, inciso VI, do Regimento Interno (Resolução TCE nº. 04/2002), inciso acrescentado pelo artigo 2º, da Resolução nº 25, de 30 de agosto de 2012, pelo cometimento das impropriedades listadas neste voto de nºs 06,07,08,10,11, 12 e 14 do Relatório conclusivo e do Parecer Ministerial,  que  devem  ser  recolhidos  na  esfera  Estadual  para  o órgão  encargos  gerais  do  Estado  -  SEFAZ  por  descumprimento pelas impropriedades apontadas. O recolhimento feito, no prazo de 30 dias",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A aplicação de multa decorrente de irregularidades na prestação de contas e possíveis danos ao erário está relacionada à gestão fiscal inadequada, onde a falta de controle e a não aplicação correta dos recursos podem levar a prejuízos financeiros para o órgão público. A multa é uma forma de penalizar a gestão fiscal deficiente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423 de 10.12.1996 - LOTCE",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "A Lei Orgânica do Tribunal de Contas do Estado do Amazonas (LOTCE) define as infrações e sanções aplicáveis em caso de irregularidades na gestão de recursos públicos, incluindo multas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996 - LOTCE",
+              "artigo": "54, inciso II",
+              "descricao": "A Lei Orgânica do Tribunal de Contas do Estado do Amazonas (LOTCE) define as infrações e sanções aplicáveis em caso de irregularidades na gestão de recursos públicos, incluindo multas."
+            },
+            {
+              "norma": "Regimento Interno (Resolução TCE nº. 04/2002)",
+              "artigo": "308, inciso VI",
+              "descricao": "O Regimento Interno do TCE estabelece os procedimentos para aplicação de sanções, incluindo multas, em decorrência de irregularidades identificadas nos processos de controle externo."
+            },
+            {
+              "norma": "Resolução nº 25, de 30 de agosto de 2012",
+              "artigo": "2º",
+              "descricao": "A resolução pode alterar ou complementar o Regimento Interno do TCE, estabelecendo novas regras ou procedimentos para a aplicação de sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa a Sra. Nair Queiroz  Blair, Representante  da empresa  contratada,  no  montante  de R$  4.384,12 (Quatro  mil, trezentos e  oitenta  e  quatro  reais  e  doze  centavos) ,  na  forma prevista  no  artigo  1º,  inciso  XXVI,  da  Lei  2.423  de  10.12.1996  LOTCE, nos termos do artigo 54, inciso IV, da Lei n. 2.423/1996  LOTCE c/c o artigo 308, inciso I, alínea 'a', do Regimento  Interno (Resolução  TCE  nº.  04/2002),  redação  dada  pelo  artigo  2º,  da Resolução nº. 25, de 30 de agosto de 2012,  pelas impropriedades listadas à fl. 872, do Processo apenso nº 1120/2015, que devem ser recolhidos  na  esfera  Estadual  para  o  órgão  encargos  gerais  do Estado -SEFAZ por descumprimento pelas impropriedades apontadas. O recolhimento feito, no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa a Sra. Nair Queiroz  Blair, Representante  da empresa  contratada,  no  montante  de R$  4.384,12 (Quatro  mil, trezentos e  oitenta  e  quatro  reais  e  doze  centavos) ,  na  forma prevista  no  artigo  1º,  inciso  XXVI,  da  Lei  2.423  de  10.12.1996  LOTCE, nos termos do artigo 54, inciso IV, da Lei n. 2.423/1996  LOTCE c/c o artigo 308, inciso I, alínea 'a', do Regimento  Interno (Resolução  TCE  nº.  04/2002),  redação  dada  pelo  artigo  2º,  da Resolução nº. 25, de 30 de agosto de 2012,  pelas impropriedades listadas à fl. 872, do Processo apenso nº 1120/2015, que devem ser recolhidos  na  esfera  Estadual  para  o  órgão  encargos  gerais  do Estado -SEFAZ por descumprimento pelas impropriedades apontadas. O recolhimento feito, no prazo de 30 dias",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A multa aplicada à representante da empresa contratada sugere que a empresa pode ter cometido irregularidades na execução do contrato, como sobrepreço ou outras práticas que justificassem a penalidade. Essa prática afeta diretamente a legalidade, a economicidade e a transparência nos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423 de 10.12.1996 - LOTCE",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "A Lei Orgânica do Tribunal de Contas do Estado do Amazonas (LOTCE) define as infrações e sanções aplicáveis em caso de irregularidades na gestão de recursos públicos, incluindo multas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996 - LOTCE",
+              "artigo": "54, inciso IV",
+              "descricao": "A Lei Orgânica do Tribunal de Contas do Estado do Amazonas (LOTCE) define as infrações e sanções aplicáveis em caso de irregularidades na gestão de recursos públicos, incluindo multas."
+            },
+            {
+              "norma": "Regimento Interno (Resolução TCE nº. 04/2002)",
+              "artigo": "308, inciso I, alínea 'a'",
+              "descricao": "O Regimento Interno do TCE estabelece os procedimentos para aplicação de sanções, incluindo multas, em decorrência de irregularidades identificadas nos processos de controle externo."
+            },
+            {
+              "norma": "Resolução nº 25, de 30 de agosto de 2012",
+              "artigo": "2º",
+              "descricao": "A resolução pode alterar ou complementar o Regimento Interno do TCE, estabelecendo novas regras ou procedimentos para a aplicação de sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determine à Secretaria do Tribunal Pleno que: - 10.4.1 Encaminhe à atual Administração da Secretaria de Segurança Pública (U.G: 22101), as cópias autênticas das peças emitidas pela Comissão de Inspeção e pelo Representante  Ministerial,  visando  evitar  o  cometimento das  mesmas  impropriedades  em  Prestação  de  Contas futuras;",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe à atual Administração da Secretaria de Segurança Pública (U.G: 22101), as cópias autênticas das peças emitidas pela Comissão de Inspeção e pelo Representante  Ministerial,  visando  evitar  o  cometimento das  mesmas  impropriedades  em  Prestação  de  Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação de encaminhar cópias das peças à atual administração da SSP busca evitar a reincidência em impropriedades, o que está relacionado com a melhoria dos processos de prestação de contas e cumprimento dos prazos estabelecidos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notifique os Senhores Circe Maria Lima Gandra Baptista , Ex-Secretária Executiva de Segurança Pública e Ordenadora  de  Despesas,  à  época, Paulo  Roberto  Vital de Menezes , Ex-Secretário de Segurança Pública e Ordenador  de  Despesas,  à  época,  e Nair Queiroz  Blair, Representante  da  empresa  contratada,  com  cópia  do Relatório/Voto  e  Acórdão  para  ter  ciência  do  decisório  e, querendo, apresentem o devido recurso",
+      "trechos_identificados": [
+        {
+          "trecho": "Notifique os Senhores Circe Maria Lima Gandra Baptista , Ex-Secretária Executiva de Segurança Pública e Ordenadora  de  Despesas,  à  época, Paulo  Roberto  Vital de Menezes , Ex-Secretário de Segurança Pública e Ordenador  de  Despesas,  à  época,  e Nair Queiroz  Blair, Representante  da  empresa  contratada,  com  cópia  do Relatório/Voto  e  Acórdão  para  ter  ciência  do  decisório  e, querendo, apresentem o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A notificação dos responsáveis visa dar ciência das irregularidades encontradas e garantir o direito ao contraditório e à ampla defesa, o que está relacionado com a implementação de um sistema de controle interno eficaz e a garantia da responsabilização dos agentes públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquive os Processos apensos a estes autos (Processo nº. 3628/2016  e Processo nº 1120/2015),  tendo em vista que já foram objeto de análise no processo principal, analisado em questão",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquive os Processos apensos a estes autos (Processo nº. 3628/2016  e Processo nº 1120/2015),  tendo em vista que já foram objeto de análise no processo principal, analisado em questão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O arquivamento dos processos apensos após a análise no processo principal reflete um procedimento administrativo para evitar duplicidade de julgamentos e garantir a eficiência na gestão dos processos no âmbito do Tribunal de Contas. Essa eficiência contribui para o fortalecimento do sistema de controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Providências",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos artigos 159  e  160,  da  Resolução  nº  04/2002-RITCE,  adote  as providências do artigo 162, §2º, do RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Após a ocorrência da coisa julgada, nos termos dos artigos 159  e  160,  da  Resolução  nº  04/2002-RITCE,  adote  as providências do artigo 162, §2º, do RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de adotar as providências do artigo 162, §2º, do RITCE após a ocorrência da coisa julgada está relacionada com a implementação de um sistema de controle interno eficaz e a garantia da responsabilização dos agentes públicos. Isso inclui a execução das decisões do Tribunal de Contas e a correção das irregularidades encontradas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-RITCE",
+              "artigo": "159",
+              "descricao": "A Resolução nº 04/2002, que estabelece o Regimento Interno do Tribunal de Contas do Estado do Amazonas, define os procedimentos para a aplicação de decisões e sanções após o trânsito em julgado, garantindo a execução das deliberações do Tribunal."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCE",
+              "artigo": "160",
+              "descricao": "A Resolução nº 04/2002, que estabelece o Regimento Interno do Tribunal de Contas do Estado do Amazonas, define os procedimentos para a aplicação de decisões e sanções após o trânsito em julgado, garantindo a execução das deliberações do Tribunal."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCE",
+              "artigo": "162, §2º",
+              "descricao": "A Resolução nº 04/2002, que estabelece o Regimento Interno do Tribunal de Contas do Estado do Amazonas, define os procedimentos para a aplicação de decisões e sanções após o trânsito em julgado, garantindo a execução das deliberações do Tribunal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

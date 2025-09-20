@@ -1,0 +1,166 @@
+{
+  "acordao": "620/2021",
+  "processo": "11544/2018",
+  "data_sessao": "8 de Julho de 2021",
+  "orgao": "Secretaria Municipal de Educação - SEMED",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Katia Helena Serafina Cruz Schweickardt"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Realize tempestivamente os pagamentos do órgão, de modo a evitar o pagamento de juros e multas",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize tempestivamente os pagamentos do órgão, de modo a evitar o pagamento de juros e multas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "A determinação visa evitar pagamentos indevidos de juros e multas, o que está ligado à execução financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Publique tempestivamente os extratos dos contratos e contratações diretas, nos termos do art. 26 e 61, parágrafo único, ambos da Lei Federal nº 8666/93 ou aos dispositivos equivalentes  na  Lei  Federal  nº  14133/2021",
+      "trechos_identificados": [
+        {
+          "trecho": "Publique tempestivamente os extratos dos contratos e contratações diretas, nos termos do art. 26 e 61, parágrafo único, ambos da Lei Federal nº 8666/93 ou aos dispositivos equivalentes  na  Lei  Federal  nº  14133/2021",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A determinação sobre a publicação de extratos de contratos visa garantir a transparência dos atos administrativos, conforme exigido pela legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8666/93",
+              "artigo": "26 e 61",
+              "descricao": "Dispõe sobre a necessidade de publicação dos extratos dos contratos e contratações diretas"
+            },
+            {
+              "norma": "Lei Federal nº 14133/2021",
+              "artigo": "dispositivos equivalentes",
+              "descricao": "Nova Lei de Licitações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Nas contratações de obras e serviços de engenharia, exija o cumprimento  legal  de  todas  as  especificações  técnicas descritas  na  Lei  Federal  nº  8666/93  e  da  Súmula  258  do Tribunal de Contas da União - TCU",
+      "trechos_identificados": [
+        {
+          "trecho": "Nas contratações de obras e serviços de engenharia, exija o cumprimento  legal  de  todas  as  especificações  técnicas descritas  na  Lei  Federal  nº  8666/93  e  da  Súmula  258  do Tribunal de Contas da União - TCU",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "A determinação visa o cumprimento das especificações técnicas nas contratações de obras e serviços de engenharia, o que está relacionado aos requisitos legais do instrumento convocatório da licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8666/93",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre as especificações técnicas nas contratações de obras e serviços de engenharia"
+            },
+            {
+              "norma": "Súmula 258 do Tribunal de Contas da União - TCU",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre as especificações técnicas nas contratações de obras e serviços de engenharia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "O cumprimento do art. 48 e 49 da Lei Federal nº 14.129/2021 (Gestão de Riscos e Controle Interno)",
+      "trechos_identificados": [
+        {
+          "trecho": "O cumprimento do art. 48 e 49 da Lei Federal nº 14.129/2021 (Gestão de Riscos e Controle Interno)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação trata do cumprimento de artigos da Lei Federal relacionados à Gestão de Riscos e Controle Interno, tema diretamente relacionado com a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 14.129/2021",
+              "artigo": "48 e 49",
+              "descricao": "Dispõe sobre a Gestão de Riscos e Controle Interno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Que o Controle Interno exija o cumprimento da Lei Estadual nº 4738/2018 (Lei de Integridade do Amazonas)",
+      "trechos_identificados": [
+        {
+          "trecho": "Que o Controle Interno exija o cumprimento da Lei Estadual nº 4738/2018 (Lei de Integridade do Amazonas)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "A determinação visa que o Controle Interno exija o cumprimento da Lei de Integridade, tema diretamente relacionado com a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 4738/2018",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a Lei de Integridade do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Demonstre, em suas contratações a totalidade da previsibilidade de receita para as despesas delas decorrentes, ainda que a execução seja parcelada e ultrapasse o exercício financeiro",
+      "trechos_identificados": [
+        {
+          "trecho": "Demonstre, em suas contratações a totalidade da previsibilidade de receita para as despesas delas decorrentes, ainda que a execução seja parcelada e ultrapasse o exercício financeiro",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "A recomendação diz respeito a demonstração da previsibilidade de receita, mesmo quando a execução é parcelada, o que está ligado a execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "O uso de instrumentos da Nova Lei de Licitações quanto ao Estudo Técnico Preliminar",
+      "trechos_identificados": [
+        {
+          "trecho": "O uso de instrumentos da Nova Lei de Licitações quanto ao Estudo Técnico Preliminar",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "justificativa_tipologia": "A recomendação diz respeito ao uso de Estudo Técnico Preliminar previsto na Nova Lei de Licitações, o que está ligado a documentação exigida para licitações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

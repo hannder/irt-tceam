@@ -1,0 +1,225 @@
+{
+  "acordao": "913/2021",
+  "processo": "11938/2020",
+  "data_sessao": "27 de Agosto de 2021",
+  "orgao": "Fundo de Aposentadoria e Pensões do Município de Canutama - FAPEMUC",
+  "municipio": "Canutama",
+  "exercicio": "2019",
+  "responsavel": [
+    "Barnabé Andrade Leitão"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do Fundo de Aposentadorias e Pensões de Canutama -FAPEMUC, exercício de 2019, sob responsabilidade  do Sr.  Barnabé  Andrade Leitão ,  Diretor-Presidente  à época,  com  fulcro  no  art.  22,  inciso  III,  alínea  ' b' ,  da  Lei  n.  2423/96  LO/TCE e do art. 188, §1º, III, alínea ' b', da Resolução n. 04/2002-TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Barnabé  Andrade  Leitão , Diretor-Presidente  o Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC, exercício de  2019,  no  valor  de R$ 13.654,39 (treze  mil  seiscentos  e  cinquenta  e quatro reais e trinta e nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com grave  infração  à  norma  legal  ou  regulamentar  de  natureza  contábil, financeira, orçamentária, operacional e patrimonial, devido às restrições 1, 2 e 3, transcritas na fundamentação do Relatório/Voto;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC, que: Observe  as  disposições  da  Lei  Municipal  n.  331/2010  nas portarias e na instrução de processos relativos a concessões de diárias (item 1 da fundamentação do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  as  disposições  da  Lei  Municipal  n.  331/2010  nas portarias e na instrução de processos relativos a concessões de diárias (item 1 da fundamentação do Relatório/Voto);",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A determinação exige a observância da Lei Municipal nas concessões de diárias, o que está relacionado com a tipologia de ausência ou falha na prestação de contas de diárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal n. 331/2010",
+              "artigo": "Não especificado",
+              "descricao": "Dispõe sobre as normas para concessão de diárias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC , que: Providencie  a  realização  da  Avaliação  Atuarial  a  fim  de elaborar um novo plano de custeio para o FAPEMUC (item 2 da fundamentação do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Providencie  a  realização  da  Avaliação  Atuarial  a  fim  de elaborar um novo plano de custeio para o FAPEMUC (item 2 da fundamentação do Relatório/Voto);",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A76B",
+          "tipologia_irregularidade": "Falta de análise e acompanhamento da evolução financeira",
+          "descricao": "Não há análise e acompanhamento da evolução financeira do Regime Próprio de Previdência Social (RPPS).",
+          "justificativa_tipologia": "A determinação para realizar avaliação atuarial e elaborar um novo plano de custeio visa corrigir falhas na gestão financeira do FAPEMUC, o que se relaciona com a tipologia de falta de análise e acompanhamento da evolução financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC , que: Promova junto à Prefeitura de Canutama a imediata correção dos valores da base de cálculo dos descontos da contribuição previdenciária dos servidores, conforme determina o art. 1º, II e III, Lei Federal nº 9.717/98; art. 4º, §1º, IV, VIII, X, XI e XII, e §2º da Lei Federal nº 10.887/2004; art. 4º, §1º, Portaria MPS nº 402/2008; art. 29, §1º, ON MPS nº 02/2009; art. 14, §1º, da Lei  Municipal  nº  267/2003  (item  3  da  fundamentação  do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova junto à Prefeitura de Canutama a imediata correção dos valores da base de cálculo dos descontos da contribuição previdenciária dos servidores, conforme determina o art. 1º, II e III, Lei Federal nº 9.717/98; art. 4º, §1º, IV, VIII, X, XI e XII, e §2º da Lei Federal nº 10.887/2004; art. 4º, §1º, Portaria MPS nº 402/2008; art. 29, §1º, ON MPS nº 02/2009; art. 14, §1º, da Lei  Municipal  nº  267/2003  (item  3  da  fundamentação  do Relatório/Voto);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A necessidade de correção dos valores da base de cálculo dos descontos da contribuição previdenciária dos servidores está diretamente ligada à tipologia de ausência de controle sistemático do cálculo das contribuições.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 9.717/98",
+              "artigo": "1º, II e III",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios."
+            },
+            {
+              "norma": "Lei Federal nº 10.887/2004",
+              "artigo": "4º, §1º, IV, VIII, X, XI e XII, e §2º",
+              "descricao": "Dispõe sobre a aplicação de disposições da Emenda Constitucional nº 41, de 19 de dezembro de 2003, altera dispositivos das Leis nos 9.717, de 27 de novembro de 1998, 9.796, de 5 de maio de 1999, 10.876, de 2 de junho de 2004, e dá outras providências."
+            },
+            {
+              "norma": "Portaria MPS nº 402/2008",
+              "artigo": "4º, §1º",
+              "descricao": "Dispõe sobre as normas para organização e funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências."
+            },
+            {
+              "norma": "ON MPS nº 02/2009",
+              "artigo": "29, §1º",
+              "descricao": "Dispõe sobre as normas gerais de organização e funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "14, §1º",
+              "descricao": "Dispõe sobre a contribuição para o custeio do regime próprio de previdência social do Município de Canutama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC , que: Providencie a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos  servidores  da Prefeitura Municipal de Canutama e da Câmara Municipal de Canutama, com os valores devidamente atualizados, conforme disposto no art. 1º, II, da Lei Federal nº 9.717/98; art. 1º da Lei Municipal nº 325/2010; e arts. 13, I e II, § 1º, 14, § 4º, 19 e 20 da Lei Municipal nº 267/2003 (itens 4, 5, 6 e 7 da fundamentação do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Providencie a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos  servidores  da Prefeitura Municipal de Canutama e da Câmara Municipal de Canutama, com os valores devidamente atualizados, conforme disposto no art. 1º, II, da Lei Federal nº 9.717/98; art. 1º da Lei Municipal nº 325/2010; e arts. 13, I e II, § 1º, 14, § 4º, 19 e 20 da Lei Municipal nº 267/2003 (itens 4, 5, 6 e 7 da fundamentação do Relatório/Voto);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "Esta determinação está relacionada à ausência de recolhimento das contribuições previdenciárias, o que indica uma falha no controle sistemático do cálculo das contribuições e na conferência dos repasses.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 9.717/98",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios."
+            },
+            {
+              "norma": "Lei Municipal nº 325/2010",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre a contribuição para o custeio do regime próprio de previdência social do Município de Canutama."
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "13, I e II, § 1º, 14, § 4º, 19 e 20",
+              "descricao": "Dispõe sobre o Regime Próprio de Previdência Social dos Servidores Públicos do Município de Canutama e dá outras providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC , que: Providencie  a  emissão  do  Parecer  do  Conselho  Fiscal  na próxima prestação de contas do FAPEMUC, atendendo ao art. 2º, XXVIII da Resolução n. 04/2016-TCE/AM (item 8 da fundamentação do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Providencie  a  emissão  do  Parecer  do  Conselho  Fiscal  na próxima prestação de contas do FAPEMUC, atendendo ao art. 2º, XXVIII da Resolução n. 04/2016-TCE/AM (item 8 da fundamentação do Relatório/Voto);",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "A emissão de parecer pelo Conselho Fiscal é uma atividade de controle interno para garantir a regularidade das transações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2016-TCE/AM",
+              "artigo": "2º, XXVIII",
+              "descricao": "Dispõe sobre os documentos que devem instruir as prestações de contas anuais dos órgãos e entidades da administração pública estadual e municipal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC , que: Promova ações que visem a imediata regularização do saldo de  R$8.052.859,88  registrado  na  conta  Ativo  de  demais créditos de  curto prazo  (item  9 da  fundamentação  do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova ações que visem a imediata regularização do saldo de  R$8.052.859,88  registrado  na  conta  Ativo  de  demais créditos de  curto prazo  (item  9 da  fundamentação  do Relatório/Voto);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A regularização do saldo na conta 'Ativo de demais créditos de curto prazo' está relacionada à comprovação do valor registrado, o que se alinha com a tipologia de ausência de comprovação no balanço patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC , que: Providencie ações para a elaboração das Notas Explicativas, conforme estabelece o Manual de Contabilidade Aplicada ao Setor  Público  -  8ª  edição  (item  10  da  fundamentação  do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Providencie ações para a elaboração das Notas Explicativas, conforme estabelece o Manual de Contabilidade Aplicada ao Setor  Público  -  8ª  edição  (item  10  da  fundamentação  do Relatório/Voto);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A determinação para elaborar as Notas Explicativas está diretamente relacionada à ausência dessas notas nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Manual de Contabilidade Aplicada ao Setor Público",
+              "artigo": "Não especificado",
+              "descricao": "Normas e procedimentos para a contabilidade do setor público"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do Fundo de Aposentadorias e Pensões de Canutama - FAPEMUC , que: Providencie ações para o registro de todos os bens patrimoniais, utilizando se necessário, as técnicas de avaliação ou reavaliação dos bens, conforme estabelece o Manual de Contabilidade Aplicada ao Setor Público (item 11 da fundamentação do Relatório/Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Providencie ações para o registro de todos os bens patrimoniais, utilizando se necessário, as técnicas de avaliação ou reavaliação dos bens, conforme estabelece o Manual de Contabilidade Aplicada ao Setor Público (item 11 da fundamentação do Relatório/Voto);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A5B",
+          "tipologia_irregularidade": "Ausência de registro da entrada no inventário de bens",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "A determinação para registrar todos os bens patrimoniais está relacionada à ausência de registro no inventário de bens.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Manual de Contabilidade Aplicada ao Setor Público",
+              "artigo": "Não especificado",
+              "descricao": "Normas e procedimentos para a contabilidade do setor público"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

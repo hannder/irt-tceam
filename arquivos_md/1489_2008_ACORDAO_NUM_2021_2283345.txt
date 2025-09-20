@@ -1,0 +1,47 @@
+{
+  "acordao": "251/2020",
+  "processo": "1756/2018",
+  "data_sessao": "10 de Março de 2020",
+  "orgao": "Tribunal Pleno",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Manoel Adail Amaral Pinheiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Não conhecimento",
+      "descricao": "Não conhecer do presente Recurso de Reconsideração interposto pelo Sr.  Manoel  Adail  Amaral  Pinheiro ,  tendo  em  vista  que  o  recurso apresenta  tese  jurídica  padrão  e  genérica,  adaptável  a  qualquer processo,  não  guardando  relação  fático-jurídica com  o  Decisum vergastado",
+      "trechos_identificados": [
+        {
+          "trecho": "Não conhecer do presente Recurso de Reconsideração interposto pelo Sr.  Manoel  Adail  Amaral  Pinheiro ,  tendo  em  vista  que  o  recurso apresenta  tese  jurídica  padrão  e  genérica,  adaptável  a  qualquer processo,  não  guardando  relação  fático-jurídica com  o  Decisum vergastado",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho não descreve uma irregularidade real, mas sim uma análise sobre a forma do recurso apresentado.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste julgado ao Sr. Manoel Adail Amaral Pinheiro , por intermédio de seus patronos legalmente constituídos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência deste julgado ao Sr. Manoel Adail Amaral Pinheiro , por intermédio de seus patronos legalmente constituídos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho não descreve uma irregularidade real, mas sim uma ação administrativa de comunicação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

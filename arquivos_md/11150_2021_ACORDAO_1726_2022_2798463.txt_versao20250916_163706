@@ -1,0 +1,159 @@
+{
+  "acordao": "1726/2022",
+  "processo": "11150/2021",
+  "data_sessao": "04 de Outubro de 2022",
+  "orgao": "Serviço Autônomo de Água e Esgoto São Sebastião Uatumã-SAAE",
+  "municipio": "São Sebastião Uatumã",
+  "exercicio": "2020",
+  "responsavel": [
+    "Idilermando Zuani Prestes"
+  ],
+  "itens": [
+    {
+      "tipo": "regular",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Serviço Autônomo de Água e Esgoto de São Sebastião Uatumã-SAAE, de responsabilidade do Sr. Idilermando Zuani Prestes , referente ao exercício de 2020, em razão  do  saneamento  das  restrições  apontadas  pela  Comissão  de Inspeção, com fundamento no art. 22, I da Lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Serviço Autônomo de Água e Esgoto de São Sebastião Uatumã-SAAE, de responsabilidade do Sr. Idilermando Zuani Prestes , referente ao exercício de 2020, em razão  do  saneamento  das  restrições  apontadas  pela  Comissão  de Inspeção, com fundamento no art. 22, I da Lei nº 2423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "justificativa=\"Item não possui relação com as tipologias\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, I",
+              "descricao": "Fundamentação para julgar regular as contas após saneamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Dar quitação ao Sr. Idilermando Zuani Prestes , de conformidade com os  arts.  23  e  72,  I,  ambos  da  Lei  nº  2.423/1996,  c/c  art.  189,  I,  da Resolução nº 02/2002 RITCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Idilermando Zuani Prestes , de conformidade com os  arts.  23  e  72,  I,  ambos  da  Lei  nº  2.423/1996,  c/c  art.  189,  I,  da Resolução nº 02/2002 RITCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "justificativa=\"Item não possui relação com as tipologias\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispositivo legal para dar quitação ao responsável."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, I",
+              "descricao": "Dispositivo legal para dar quitação ao responsável."
+            },
+            {
+              "norma": "Resolução nº 02/2002 RITCE-AM",
+              "artigo": "189, I",
+              "descricao": "Norma interna do TCE-AM para dar quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar Recomendação à  origem,  nos  termos  do  Art.  188,  §2º  do Regimento Interno/TCEAM, para que atente ao disposto no art. 1º, § 1º c/c art. 8º da Lei Complementar nº 101/00, no sentido de: 3.1 -providenciar a realização do concurso  público, quando  houver  a  necessidade  de  contratação  de  novos servidores, visando adequar-se aos ditames da legislação em vigor, sob pena de aplicação de multa, por descumprimento de determinação deste Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar Recomendação à  origem,  nos  termos  do  Art.  188,  §2º  do Regimento Interno/TCEAM, para que atente ao disposto no art. 1º, § 1º c/c art. 8º da Lei Complementar nº 101/00, no sentido de: 3.1 -providenciar a realização do concurso  público, quando  houver  a  necessidade  de  contratação  de  novos servidores, visando adequar-se aos ditames da legislação em vigor, sob pena de aplicação de multa, por descumprimento de determinação deste Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Realização de contratações sem a devida realização de concurso público.",
+          "justificativa_tipologia": "justificativa=\"O trecho explicita a ausência de concurso público, em desconformidade com a legislação.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/00",
+              "artigo": "1º, § 1º",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar nº 101/00",
+              "artigo": "8º",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal."
+            },
+            {
+              "norma": "Regimento Interno/TCEAM",
+              "artigo": "188, §2º",
+              "descricao": "Fundamentação para a emissão de recomendação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "passar a realizar as cobranças periódicas de débitos de devedores do SAAE",
+      "trechos_identificados": [
+        {
+          "trecho": "passar a realizar as cobranças periódicas de débitos de devedores do SAAE",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Não-adoção de providências para cobrança de dívida ativa.",
+          "justificativa_tipologia": "justificativa=\"O trecho demonstra a não realização de cobrança de dívida ativa\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ciencia",
+      "descricao": "Dar  ciência ao Sr.  Idilermando  Zuani  Prestes ,  sobre  o  teor  desta Decisão, com cópia do Relatório-Voto e do respectivo Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Idilermando  Zuani  Prestes ,  sobre  o  teor  desta Decisão, com cópia do Relatório-Voto e do respectivo Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "justificativa=\"Item não possui relação com as tipologias\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Arquivar o presente processo, após  cumpridas  as  determinações acima",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o presente processo, após  cumpridas  as  determinações acima",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "justificativa=\"Item não possui relação com as tipologias\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "acordao": "1726/2022",
+  "processo": "11150/2021",
+  "data_sessao": "4 de Outubro de 2022",
+  "orgao": "Serviço Autônomo de Água e Esgoto São Sebastião Uatumã-SAAE",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2020",
+  "responsavel": [
+    "Idilermando Zuani Prestes"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Determinar Recomendação à  origem,  nos  termos  do  Art.  188,  §2º  do Regimento Interno/TCEAM, para que atente ao disposto no art. 1º, § 1º c/c art. 8º da Lei Complementar nº 101/00, no sentido de:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "providenciar a realização do concurso  público, quando  houver  a  necessidade  de  contratação  de  novos servidores, visando adequar-se aos ditames da legislação em vigor, sob pena de aplicação de multa, por descumprimento de determinação deste Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "providenciar a realização do concurso  público, quando  houver  a  necessidade  de  contratação  de  novos servidores, visando adequar-se aos ditames da legislação em vigor, sob pena de aplicação de multa, por descumprimento de determinação deste Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A deliberação explicita a ausência de concurso público para contratação de servidores, em desacordo com a legislação vigente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 1º, § 1º c/c art. 8º da Lei Complementar nº 101/00",
+              "artigo": "1º, § 1º c/c art. 8º",
+              "descricao": "Responsabilidade na gestão fiscal e necessidade de concurso público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "passar a realizar as cobranças periódicas de débitos de devedores do SAAE",
+      "trechos_identificados": [
+        {
+          "trecho": "passar a realizar as cobranças periódicas de débitos de devedores do SAAE",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho explicita a necessidade de cobranças de dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 1º, § 1º c/c art. 8º da Lei Complementar nº 101/00",
+              "artigo": "1º, § 1º c/c art. 8º",
+              "descricao": "Responsabilidade na gestão fiscal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

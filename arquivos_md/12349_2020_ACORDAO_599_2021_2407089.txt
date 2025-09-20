@@ -1,0 +1,73 @@
+{
+  "acordao": "599/2021",
+  "processo": "12349/2020",
+  "data_sessao": "29 de Junho de 2021",
+  "orgao": "Fundo Municipal de Sáude de Uarini",
+  "municipio": "Uarini",
+  "exercicio": "2019",
+  "responsavel": [
+    "Orivane Cordovil Lopes"
+  ],
+  "itens": [
+    {
+      "tipo": "Revelia",
+      "descricao": "Considerar revel a Sra. Orivane Cordovil Lopes, Secretária Municipal de Saúde de Uarini, à época, nos termos do art. 20, §4º, da Lei nº 2.423/1996 c/c o art. 88, da Resolução TCE/AM n.º 04/2002, pelo não atendimento à notificação desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel a Sra. Orivane Cordovil Lopes, Secretária Municipal de Saúde de Uarini, à época, nos termos do art. 20, §4º, da Lei nº 2.423/1996 c/c o art. 88, da Resolução TCE/AM n.º 04/2002, pelo não atendimento à notificação desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas.",
+          "justificativa_tipologia": "Omissão em responder à notificação do TCE-AM impede a verificação da regularidade da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "20, §4º",
+              "descricao": "Dispõe sobre a revelia em processos do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 04/2002",
+              "artigo": "88",
+              "descricao": "Regulamenta o processo de citação e notificação no âmbito do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do Fundo Municipal de Saúde de Uarini, exercício de 2019, sob responsabilidade da Sra.Orivane Cordovil Lopes, Secretária Municipal de Saúde de Uarini, à época, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alínea, 'b', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das irregularidades supracitadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual do Fundo Municipal de Saúde de Uarini, exercício de 2019, sob responsabilidade da Sra.Orivane Cordovil Lopes, Secretária Municipal de Saúde de Uarini, à época, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alínea, 'b', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das irregularidades supracitadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A9B",
+          "tipologia_irregularidade": "Ausência de atualidade na divulgação das despesas da entidade, detalhando sua execução (empenho, liquidação e pagamento) e identificando sua classificação orçamentária (unidade orçamentária, a função, a subfunção, categoria econômica, grupo, modalidade de aplicação, elemento de despesa e a fonte dos recursos)",
+          "descricao": "Não foram constatadas informações atualizadas sobre a execução das despesas do auditado, bem como o detalhamento da execução atualizadas das receitas com a classificação orçamentária.",
+          "justificativa_tipologia": "A prestação de contas foi julgada irregular devido às irregularidades supracitadas no acordão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do Tribunal de Contas n° 2.423/96",
+              "artigo": "19, inciso II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei Orgânica do Tribunal de Contas n° 2.423/96",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Estabelece as condições para que as contas sejam consideradas irregulares, incluindo a grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa a Sra.  Orivane  Cordovil  Lopes , Secretária  Municipal  de Saúde  de  Uarini,  à  época,  exercício  de  2019,  no  valor  total  de R$ 20.481,60 (vinte  mil,  quatrocentos  e  oitenta  e  um  reais  e  sessenta centavos), em razão do atraso quanto ao envio dos balancetes mensais do  Fundo  Municipal  de  Saúde,  referente  ao  período  de  janeiro a dezembro  de  2019,   nos  termos  do  art.  54,  I,  'a',  da  Lei  n°  2.423/96TCE/AM, alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c  art. 308, I,  'a',  da  Resolução  n.º  04/2002-TCE/AM, alterada  pela  Resolução n.º 4/2018  -  TCE/AM,  pela  impropriedade  constante  no  item  1  da fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30  dias na  esfera  Estadual  para  o  órgão  Secretaria  de  Estado  da Fazenda - SEFAZ, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a",  "trechos_identificados": []
+        }
+      ]
+    }

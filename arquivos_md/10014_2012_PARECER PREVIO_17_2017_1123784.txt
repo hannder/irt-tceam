@@ -1,0 +1,185 @@
+{
+  "acordao": "17/2017",
+  "processo": "10014/2012",
+  "data_sessao": "2017-04-04",
+  "orgao": "Prefeitura Municipal de Coari",
+  "municipio": "Coari",
+  "exercicio": "2011",
+  "responsavel": [
+    "Arnaldo Almeida Mitouso"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  do Sr.  Arnaldo  Almeida Mitouso , Prefeito e Ordenador de Despesa, responsável pela Prefeitura de Coari, no curso do exercício 2011, nos termos do inciso I do art. 1º, das alíneas b, c e d do inciso III do art. 22 e do parágrafo único do art. 25,  todos  da  Lei  nº  2.423/96,  em  decorrência  de  atos  praticados  com grave  infração  às  normas  legais  e  da  prática  de  dano  ao erário (irregularidades 3, 4, 6, 7, 8, 9, 10, 11, 12.a, 12.c, 13.a, 13.b, 13.c, 15, 17, 18, 20,  24, 25, 26, 27, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 89, 90 da notificação 4/2012; irregularidades 12.b, 19, 21, 22, 28, 37.f da notificação 206/2015 e irregularidades discriminadas no item 1 ao 53 da notificação 03/2012 e 203/2015)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de  Contas  do Sr.  Arnaldo  Almeida Mitouso , Prefeito e Ordenador de Despesa, responsável pela Prefeitura de Coari, no curso do exercício 2011, nos termos do inciso I do art. 1º, das alíneas b, c e d do inciso III do art. 22 e do parágrafo único do art. 25,  todos  da  Lei  nº  2.423/96,  em  decorrência  de  atos  praticados  com grave  infração  às  normas  legais  e  da  prática  de  dano  ao erário (irregularidades 3, 4, 6, 7, 8, 9, 10, 11, 12.a, 12.c, 13.a, 13.b, 13.c, 15, 17, 18, 20,  24, 25, 26, 27, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 83, 84, 85, 86, 87, 89, 90 da notificação 4/2012; irregularidades 12.b, 19, 21, 22, 28, 37.f da notificação 206/2015 e irregularidades discriminadas no item 1 ao 53 da notificação 03/2012 e 203/2015)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O descumprimento de metas fiscais é uma falha grave na gestão fiscal, com impacto significativo na sustentabilidade financeira da entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "25",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar  Multa ao Sr. Arnaldo  Almeida  Mitouso no  valor  de R$ 9.680,04, que  deve  ser  recolhida  na  esfera  Estadual  para  o  órgão Encargos Gerais do Estado - SEFAZ, na forma do inciso II do art. 308 da Resolução 4/2002 (RITCE/AM), com base no valor disciplinado à época, em razão de inobservância de prazos legais para remessa ao Tribunal, por meios informatizado, de balancetes, balanços, informações, demonstrativos  contábeis  ou  quaisquer  outros  documentos  solicitados (irregularidades 1 e 2 da notificação n° 4/2012). O recolhimento deve ser feito no prazo de 30 dias, com comprovação perante este Tribunal, tudo em  conformidade  com  a  alínea  'a'  do  inciso  III  do  art.  72  da  Lei  n° 2.423/96, c/c o §4° do art. 174 da Resolução n° 4/2002 (RI-TCE/AM), corrigido  monetariamente,  caso  o  recolhimento  ocorra  fora  do  prazo determinado (art. 55 da Lei n° 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Arnaldo  Almeida  Mitouso no  valor  de R$ 9.680,04, que  deve  ser  recolhida  na  esfera  Estadual  para  o  órgão Encargos Gerais do Estado - SEFAZ, na forma do inciso II do art. 308 da Resolução 4/2002 (RITCE/AM), com base no valor disciplinado à época, em razão de inobservância de prazos legais para remessa ao Tribunal, por meios informatizado, de balancetes, balanços, informações, demonstrativos  contábeis  ou  quaisquer  outros  documentos  solicitados (irregularidades 1 e 2 da notificação n° 4/2012). O recolhimento deve ser feito no prazo de 30 dias, com comprovação perante este Tribunal, tudo em  conformidade  com  a  alínea  'a'  do  inciso  III  do  art.  72  da  Lei  n° 2.423/96, c/c o §4° do art. 174 da Resolução n° 4/2002 (RI-TCE/AM), corrigido  monetariamente,  caso  o  recolhimento  ocorra  fora  do  prazo determinado (art. 55 da Lei n° 2.423/96)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O descumprimento dos prazos de entrega dos documentos é uma falha de envio de informações importante para o controle externo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308",
+              "descricao": "Dispõe sobre o regimento interno do TCE/AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n° 4/2002",
+              "artigo": "174",
+              "descricao": "Dispõe sobre o regimento interno do TCE/AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar  Multa ao Sr. Arnaldo  Almeida  Mitouso no  valor  de R$ 32.267,08 ,  que  deve  ser  recolhida  na  esfera  Estadual,  para  o  órgão Encargos Gerais do Estado - SEFAZ, nos termos do inciso VI do art. 308 da Resolução n° 4/2002 (RITCE/AM), com base no valor disciplinado à época, em decorrência de atos praticados com grave infração às normas legais (irregularidades 3, 4, 6, 7, 8, 9, 10, 11, 12.a, 12.c, 13.a, 13.b, 13.c, 15, 17, 18, 20,  24, 25, 26, 27, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82,  83,  84,  85,  86,  87,  89,  90  da  notificação  4/2012  e  irregularidades discriminadas no item 1 ao 53 da notificação 03/2012). O recolhimento deve  ser  feito  no  prazo  de  30  dias,  com  comprovação perante  este Tribunal, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei n° 2.423/96, c/c o §4° do art. 174 da Resolução n° 4/2002 (RITCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n° 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Arnaldo  Almeida  Mitouso no  valor  de R$ 32.267,08 ,  que  deve  ser  recolhida  na  esfera  Estadual,  para  o  órgão Encargos Gerais do Estado - SEFAZ, nos termos do inciso VI do art. 308 da Resolução n° 4/2002 (RITCE/AM), com base no valor disciplinado à época, em decorrência de atos praticados com grave infração às normas legais (irregularidades 3, 4, 6, 7, 8, 9, 10, 11, 12.a, 12.c, 13.a, 13.b, 13.c, 15, 17, 18, 20,  24, 25, 26, 27, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82,  83,  84,  85,  86,  87,  89,  90  da  notificação  4/2012  e  irregularidades discriminadas no item 1 ao 53 da notificação 03/2012). O recolhimento deve  ser  feito  no  prazo  de  30  dias,  com  comprovação perante  este Tribunal, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei n° 2.423/96, c/c o §4° do art. 174 da Resolução n° 4/2002 (RITCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n° 2.423/96)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A aplicação de multa por atos praticados com grave infração às normas legais indica descumprimento de normas fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 4/2002",
+              "artigo": "308",
+              "descricao": "Dispõe sobre o regimento interno do TCE/AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n° 4/2002",
+              "artigo": "174",
+              "descricao": "Dispõe sobre o regimento interno do TCE/AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar em  Alcance o Sr.  Arnaldo  Almeida Mitouso no  valor  de R$ 13.659.244,68 ,   que  deve ser recolhido na esfera  Municipal, para o órgão  Prefeitura  Municipal  de  Coari,  nos  termos  do  art.  304  do  RITCE/AM, no prazo de 30 dias, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III  do  art.  72  da  Lei  n°  2.423/96,  c/c  o  §4°  do  art.  174  da  Resolução  n° 4/2002  (RI-TCE/AM),  corrigido  monetariamente,  caso  o  recolhimento ocorra  fora  do  prazo  determinado  (art.  55  da  Lei  n°  2.423/96),  em decorrência das irregularidades abaixo:\n- 9.4.1. Consumo  de  combustível  sem  comprovação  de  que fora  utilizado na  manutenção  e  desenvolvimento  de ensino,  na  quantia  total  de  R$  1.439.708,88,  conforme tabela  de  fls.  5784  (irregularidade  12.b  da  notificação 206/2015);\n- 9.4.2. Pagamento de juros e multa no recolhimento de obrigações  previdenciárias,  no  valor  de  R$28.336,70, R$30.476,01, R$29.024,21 conforme tabela de fls. 5785/5786 e fls.5787/5790 (irregularidades 19, 21 e 22 da notificação 206/2015);\n- 9.4.3. Ausência  de  prestação  de  contas  de  adiantamentos concedidos, no valor de R$ 172.000,00, conforme tabela de fls. 5791/5793 (irregularidade 28 da notificação 206/2015);\n- 9.4.4. Pagamentos  sem  comprovação  de  notas  fiscais,  no valor de R$ 60.277,00, conforme fls.5793 (irregularidade 37.f da notificação 206/2015);\n- 9.4.5. Tomada de Preços N.º 001/2011 e Termo de Contrato nº 009/2011,  valor  não  executado  correspondente  a  R$ 227.668,17 (notificação 203/2015);\n- 9.4.6. Dispensa N.º 003/2011 -Termo de Contrato nº 022/2011,  valor  não  executado  correspondente  a  R$ 334.800,00 (notificação 203/2015);\n- 9.4.7. Concorrência Pública N.º 001/2011 - Termo de Contrato nº 065/2010, valor não executado correspondente a R$ 133.909,45 (notificação 203/2015);\n- 9.4.8. Carta Convite N.º 002/2011 -  NE 1914/2011, valor não executado  correspondente  a  R$  2.180,72  (notificação 203/2015);\n- 9.4.9. Carta Convite N.º 003/2011 -  NE 2054/2011, valor não executado  correspondente  a  R$  4.214,25  (notificação 203/2015);\n- 9.4.10. Carta Convite N.º 004/2011 -  NE 1922/2011, valor não executado  correspondente  a  R$  92.500,00  (notificação 203/2015);\n- 9.4.11. Carta  Convite  N.º  007/2011  -  Termo  de  Contrato  n.º 023/2011,  valor  não  executado  correspondente  a  R$ 23.444,20 (notificação 203/2015);\n- 9.4.12. Carta Convite N.º 010/2011 -  NE 4345/2011, valor não executado  correspondente  a  R$  86.478,88  (notificação 203/2015);\n- 9.4.13. Carta Convite N.º 026/2011 -  NE 6866/2011, valor não executado  correspondente  a  R$  1.458,70  (notificação 203/2015);\n- 9.4.14. Carta Convite N.º 027/2011 -  NE 5948/2011, valor não executado  correspondente  a  R$  6.383,33  (notificação 203/2015);\n- 9.4.15. Carta Convite N.º 028/2011 -  NE 0422/2012, valor não executado  correspondente  a  R$  29.969,60  (notificação 203/2015);\n- 9.4.16. Carta Convite N.º 029/2011 -NE  6184/2011, NE 7299/2011,  valor  não  executado  correspondente  a  R$ 38.320,79 (notificação 203/2015);\n- 9.4.17. Carta Convite N.º 030/2011, valor não executado correspondente a R$ 21.698,51 (notificação 203/2015);9.4.18. Carta Convite N.º 035/2011 -  NE 1236/2012, valor não executado  correspondente  a  R$  66.068,34  (notificação 203/2015);\n- 9.4.19. Carta Convite N.º 037/2011 -  NE 6848/2011, valor não executado  correspondente  a  R$  7.468,50  (notificação 203/2015);\n- 9.4.20. Carta Convite N.º 041/2011 -  NE 0492/2012, valor não executado  correspondente  a  R$  50.045,28  (notificação 203/2015);\n- 9.4.21. Carta Convite N.º 053/2010 -NE  0414/2011, NE 0415/2011, NE 0416/2011, valor não executado correspondente a R$ 11.381,65 (notificação 203/2015);\n- 9.4.22. Registro de Preço N.º 014/2011 - Termo de Contrato N.º 036/2011,  valor  não  executado  correspondente  a  R$ 2.458.333,35 (notificação 203/2015);\n- 9.4.23. Registro de Preço N.º 017/2011 - Termo de Contrato N.º 042/2011,  valor  não  executado  correspondente  a  R$ 1.138.500,00 (notificação 203/2015);\n- 9.4.24. Registro de Preço N.º 020/2011 - Termo de Contrato N.º 051/2011,  valor  não  executado  correspondente  a  R$ 366.116,50 (notificação 203/2015);\n- 9.4.25. Registro de Preço N.º 020/2011 - Termo de Contrato N.º 052/2011,  valor  não  executado  correspondente  a  R$ 1.488.009,10 (notificação 203/2015);\n- 9.4.26. Registro de Preço N.º 015/2010 - Termo de Contrato N.º 089/2010, valor não executado correspondente a R$1.441.244,76 (notificação 203/2015);\n- 9.4.27. Registro de Preço N.º 015/2010 - Termo de Contrato N.º 088/2010,  valor  não  executado  correspondente  a  R$ 3.869.227,80 (notificação 203/2015)",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em  Alcance o Sr.  Arnaldo  Almeida Mitouso no  valor  de R$ 13.659.244,68 ,   que  deve ser recolhido na esfera  Municipal, para o órgão  Prefeitura  Municipal  de  Coari,  nos  termos  do  art.  304  do  RITCE/AM, no prazo de 30 dias, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III  do  art.  72  da  Lei  n°  2.423/96,  c/c  o  §4°  do  art.  174  da  Resolução  n° 4/2002  (RI-TCE/AM),  corrigido  monetariamente,  caso  o  recolhimento ocorra  fora  do  prazo  determinado  (art.  55  da  Lei  n°  2.423/96),  em decorrência das irregularidades abaixo:",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação de alcance sugere uma possível responsabilização por desvio de recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE/AM",
+              "artigo": "304",
+              "descricao": "Regimento Interno do Tribunal de Contas do Amazonas"
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n° 4/2002",
+              "artigo": "174",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "Consumo  de  combustível  sem  comprovação  de  que fora  utilizado na  manutenção  e  desenvolvimento  de ensino,  na  quantia  total  de  R$  1.439.708,88,  conforme tabela  de  fls.  5784  (irregularidade  12.b  da  notificação 206/2015)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A ausência de comprovação de despesas caracteriza ausência de transparência na aplicação dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "83",
+              "descricao": "Obrigatoriedade de escrituração contábil"
+            }
+          ]
+        },
+        {
+          "trecho": "Pagamento de juros e multa no recolhimento de obrigações  previdenciárias,  no  valor  de  R$28.336,70, R$30.476,01, R$29.024,21 conforme tabela de fls. 5785/5786 e fls.5787/5790 (irregularidades 19, 21 e 22 da notificação 206/2015)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "O pagamento de multas e juros indica uma má gestão financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320

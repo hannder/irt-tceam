@@ -1,0 +1,156 @@
+{
+  "acordao": "1009/2015",
+  "processo": "10823/2015",
+  "data_sessao": "25 de novembro de 2015",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Rio Preto da Eva - SAAE",
+  "municipio": "Rio Preto da Eva",
+  "exercicio": "2014",
+  "responsavel": [
+    "Lauro da Cruz Farias"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas Anuais do Serviço Autônomo de Água  e  Esgoto  (SAAE)  do  Município  de  Rio  Preto  da  Eva/AM,  exercício  de  2014,  de responsabilidade do Sr. Lauro da Cruz Farias , Diretor-Presidente, nos termos do art. 71, II  da  CF/88  c/c  art.  40,  II  da  CE/89;  art.  22,  inciso  III,  alínea  'b'  c/c  art.  25  da  Lei  nº 2.423/96-LO/TCE;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar  em  Alcance do  montante  de R$  20.870,00 (vinte mil, oitocentos e setenta reais), com devolução aos cofres públicos corrigidos nos moldes do art.  304,  inciso  VI,  da  Resolução  nº  04/2002-Regimento  Interno  do  TCE,  devido  às restrições não sanadas abaixo discriminadas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Restrição  13: R$  1.970,00 por  despesas  que  totalizam  o montante  de  R$  1.970,00  (mil  novecentos  e  setenta  reais),  e  estão  relacionadas  a aquisição de peças automotivas e serviços de lanternagem, tendo em vista que o SAAE não possui veículo de qualquer espécie registrado em seu Patrimônio",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Restrição  13: R$  1.970,00 por  despesas  que  totalizam  o montante  de  R$  1.970,00  (mil  novecentos  e  setenta  reais),  e  estão  relacionadas  a aquisição de peças automotivas e serviços de lanternagem, tendo em vista que o SAAE não possui veículo de qualquer espécie registrado em seu Patrimônio",
+      "trechos_identificados": [
+        {
+          "trecho": "Restrição  13: R$  1.970,00 por  despesas  que  totalizam  o montante  de  R$  1.970,00  (mil  novecentos  e  setenta  reais),  e  estão  relacionadas  a aquisição de peças automotivas e serviços de lanternagem, tendo em vista que o SAAE não possui veículo de qualquer espécie registrado em seu Patrimônio",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A6B",
+          "tipologia_irregularidade": "Não incorporação de Ativo ao patrimônio",
+          "descricao": "Não incorporação de Ativo ao patrimônio.",
+          "justificativa_tipologia": "O trecho descreve despesas com aquisição de peças e serviços para veículos que não constam no patrimônio do SAAE, indicando uma possível irregularidade na gestão patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Restrição 20: R$ 3.900,00 por pagamento de diárias com valor superior ao previsto na Lei Municipal n° 309/2009;",
+      "trechos_identificados": [
+        {
+          "trecho": "Restrição 20: R$ 3.900,00 por pagamento de diárias com valor superior ao previsto na Lei Municipal n° 309/2009",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A82B",
+          "tipologia_irregularidade": "Pagamento ilegal de parcela remuneratória",
+          "descricao": "Pagamento ilegal de parcela remuneratória",
+          "justificativa_tipologia": "Pagamento de diárias em valor superior ao permitido por lei, caracterizando pagamento ilegal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal n° 309/2009",
+              "artigo": "Não consta",
+              "descricao": "Lei Municipal que define os valores máximos para o pagamento de diárias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Restrição  25:  R$  15.000,00 por  pagamento  de  Gratificação sem o devido amparo legal, gerando dano ao erário.",
+      "trechos_identificados": [
+        {
+          "trecho": "Restrição  25:  R$  15.000,00 por  pagamento  de  Gratificação sem o devido amparo legal, gerando dano ao erário.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A82B",
+          "tipologia_irregularidade": "Pagamento ilegal de parcela remuneratória",
+          "descricao": "Pagamento ilegal de parcela remuneratória",
+          "justificativa_tipologia": "Pagamento de gratificação sem amparo legal, configurando pagamento indevido.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Ausência de amparo legal para o pagamento da gratificação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar o prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento do valor do débito aos cofres da Fazenda Municipal, com a devida comprovação nos autos (art.72, III, 'a', da Lei  nº  2423/96)  e  com  a  devida  atualização  monetária (art.55,  da  Lei  nº  2423/96  LOTCE/AM c/c o art.308, § 3º, da Res. nº 04/02 - RITCE/AM);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Comunicar",
+      "descricao": "Comunicar  ao  Poder  Executivo  Municipal , que  no  caso  de  não recolhimento do valor da condenação, ex vi o art.173 da Res. nº04/2002  - RITCE/AM e expirado  o  prazo  estabelecido,  o  valor  do  débito  deverá  ser inscrito  na  Dívida  Ativa Municipal , seguido da imediata cobrança judicial, cientificando este Tribunal de todas as medidas adotadas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Aplicar  multa ao  responsável no  valor  de  R$  8.867,25 (oito mil, oitocentos e sessenta e sete reais e vinte e cinco centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com grave infração à norma legal ou  regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, correspondente às restrições n°s 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 22, 23, 25 e 27, elencadas no Relatório/Voto;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar  prazo de  30  (trinta)  dias para  o  recolhimento  aos  cofres  da Fazenda  Estadual  da multa  discriminada  no  item  9.5  deste  Acórdão,  com  a  devida comprovação perante a este Tribunal, nos termos dos arts. 72, III, 'a', da Lei nº 2.423/96;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Expirado o prazo estabelecido , o valor da multa deverá ser atualizado monetariamente (art. 55, da Lei nº 2.423/96 c/c o art. 308, § 3º da Resolução nº 04/2002TCE/AM),  autorizando  desde  já  a inscrição  da  penalidade  na  dívida  ativa e  a instauração  da  cobrança  executiva em  caso  de  não  recolhimento  do  valor da condenação, ex vi do art. 173, do Regimento Interno deste Tribunal de Contas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar à origem",
+      "descricao": "Determinar à origem:a) Que a atual gestão do SAAE acompanhe junto ao Chefe do Executivo Municipal  o  encaminhamento  do  Ofício  nº  088/2015-GAB/DIRETOR/SAAE.  E,  caso, infrutífero,  reitere  continuamente  a  solicitação  até  que  seja  regularizada  a  situação  em questão. No mais, que atente para que o ato normativo sobre concessão de diárias, a ser objeto  de  propositura  do  Chefe  do  Executivo,  contemple  as  orientações  do  art.  9º,  da Resolução TCE nº 05/2008;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar à origem",
+      "descricao": "Determinar à origem: b) Que a atual gestão do SAAE/RPE adote  o procedimento  próprio  para admissão de pessoas no serviço público quer seja pela regra do inciso XI, da CF/88 ou pelo inciso II, da CF/88, conforme o caso;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar à origem",
+      "descricao": "Determinar à origem: c) Que  a  atual  gestão  do  SAAE/RPE  proceda  à  realização  de  concurso público quer seja com auxílio da Prefeitura ou por iniciativa própria;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar à origem",
+      "descricao": "Determinar à origem: d) Que  a  atual  gestão  do  SAAE/RPE  acompanhe  junto  ao  Chefe  do Executivo  Municipal  o  encaminhamento  do  Ofício  nº  084/2015-GAB/DIRETOR/SAAE. Caso  infrutífero,  reitere  a  petição  continuamente,  até  que  se  ultime  a  regularização  da situação ora questionada;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar à origem",
+      "descricao": "Determinar à origem: e) Que a atual gestão do SAAE/RPE proceda à alimentação do Sistema de Atos de Pessoal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar a origem",
+      "descricao": "Recomendar a origem que o gestor procure uma forma de revitalizar o prédio  de  propriedade  do  SAAE,  evitando,  assim,  o  gasto  com  aluguel  que  poderá inviabilizar a administração do órgão;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar a Comissão de Inspeção",
+      "descricao": "Recomendar  a  Comissão  de  Inspeção designada  para  examinar  as contas do gestor da Prefeitura de 2015, que proceda ao acompanhamento  do cumprimento  da  devolução,  por  parte  de  cada  servidor  envolvido,  do  valor  excedente recebido  a  título  de  diárias.  Caso  não  constatada  tal  devolução,  adotar  as  medidas cabíveis;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Comunicar",
+      "descricao": "Comunicar  o  Ministério  da  Fazenda (Receita  Federal)  acerca  da inadimplência da Autarquia quanto ao não recolhimento das contribuições previdenciárias (segurado e patronal) no exercício financeiro em questão.",
+      "trechos_identificados": []
+    }
+  ]
+}

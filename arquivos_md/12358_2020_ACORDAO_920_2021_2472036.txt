@@ -1,0 +1,24 @@
+{
+  "acordao": "920/2021",
+  "processo": "12358/2020",
+  "data_sessao": "27 de Agosto de 2021",
+  "orgao": "Secretaria de Estado da Segurança Pública - SSP",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Anezio Brito de Paiva",
+    "Louismar de Matos Bonates"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Secretaria de Estado da Segurança  Pública  -  SSP/AM,  exercício  de  2019,  sob  responsabilidade dos Srs. Louismar de Matos Bonates ,  Secretário  Executivo de Estado de  Segurança,  e Anezio  Brito  de  Paiva ,  Ordenador  de  despesas,  nos termos do art. 1º, II e art. 22º, I, ambos da Lei nº 2.423/96 c/c art. 5º, II e 188, § 1º, I, da Resolução n. 4/2002-TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação aos Srs. Senhores Louismar de Matos Bonates , Secretário Executivo de Estado de Segurança, e Anezio Brito de Paiva , Ordenador de despesas, com fulcro no art. 22, I c/c o art. 23 ambos da Lei 2423/96.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "acordao": "455/2025",
+  "processo": "12139/2024",
+  "data_sessao": "19 de março de 2025",
+  "orgao": "Câmara Municipal de Manaquiri",
+  "municipio": "Manaquiri",
+  "exercicio": "2023",
+  "responsavel": [
+    "Willian Bruno Cordeiro da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da Câmara Municipal de Manaquiri, referente ao exercício financeiro de 2023, de responsabilidade do Sr. Willian Bruno Cordeiro da Silva , na qualidade de Presidente do órgão legislativo municipal, nos termos do art. 22, II, da Lei  Estadual  nº  2.423/96  c/c  o  art.  188,  §1º,  II,  do  Regimento  Interno deste Tribunal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Willian Bruno Cordeiro da Silva , na qualidade de Presidente  do  órgão  legislativo  municipal,  conforme  art.  24  e  72,  II, ambos  da  Lei  Estadual  nº  2.423/96  c/c  o  art.  189,  II,  da  Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável. (Achado 01)",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação para elaborar rotinas de trabalho que permitam a divulgação em tempo real de informações detalhadas sobre receitas está diretamente relacionada ao princípio da transparência na administração pública. A ausência dessa divulgação caracteriza uma falha na transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável. (Achado 02)",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação para elaborar rotinas de trabalho que permitam a divulgação em tempo real de informações detalhadas sobre receitas está diretamente relacionada ao princípio da transparência na administração pública. A ausência dessa divulgação caracteriza uma falha na transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre licitações realizadas e contratos firmados, conforme legislação aplicável. (Achado 03)",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre licitações realizadas e contratos firmados, conforme legislação aplicável.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação para elaborar rotinas de trabalho que permitam a divulgação em tempo real de informações detalhadas sobre licitações e contratos está diretamente relacionada ao princípio da transparência na administração pública. A ausência dessa divulgação caracteriza uma falha na transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas  sobre  dados  de  folhas  de  pagamentos, conforme legislação aplicável. (Achado 04)",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas  sobre  dados  de  folhas  de  pagamentos, conforme legislação aplicável.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação para elaborar rotinas de trabalho que permitam a divulgação em tempo real de informações detalhadas sobre a folha de pagamento está diretamente relacionada ao princípio da transparência na administração pública. A ausência dessa divulgação caracteriza uma falha na transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "adote os requisitos mínimos  a serem  cumpridos na realização  de  audiências  públicas  obrigatórias  durante  as fases de  elaboração,  discussão  e  aprovação  das  Leis Orçamentárias, conforme Nota Técnica Nº 01/2023DICAMI/SECEX,  publicada  em  13  de  março  de  2023,  no Diário Oficial Eletrônico do Tribunal de Contas do Amazonas. (Achado 06)",
+      "trechos_identificados": [
+        {
+          "trecho": "adote os requisitos mínimos  a serem  cumpridos na realização  de  audiências  públicas  obrigatórias  durante  as fases de  elaboração,  discussão  e  aprovação  das  Leis Orçamentárias, conforme Nota Técnica Nº 01/2023DICAMI/SECEX,  publicada  em  13  de  março  de  2023,  no Diário Oficial Eletrônico do Tribunal de Contas do Amazonas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação para que se adote requisitos mínimos para realização de audiências públicas, está relacionada a dar publicidade das informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam o envio tempestivo ao TCE-AM, através do sistema E-Contas, das informações pormenorizadas sobre Receitas, conforme legislação aplicável. (Achado 07)",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam o envio tempestivo ao TCE-AM, através do sistema E-Contas, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O envio de dados periódicos ao e-Contas é essencial para a fiscalização e transparência da gestão pública. A determinação para elaborar rotinas de trabalho que garantam esse envio tempestivo está diretamente relacionada ao cumprimento das obrigações de envio de documentos e informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elabore e desenvolva rotinas de trabalho que garantam o envio tempestivo  e  completo  ao  TCE-AM,  através  das Prestações  de  Contas  Mensais  e  Anuais,  das  informações pormenorizadas  e  fidedignas,  sobre  Licitações,  conforme legislação aplicável. (Achado 08)",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que garantam o envio tempestivo  e  completo  ao  TCE-AM,  através  das Prestações  de  Contas  Mensais  e  Anuais,  das  informações pormenorizadas  e  fidedignas,  sobre  Licitações,  conforme legislação aplicável.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O envio tempestivo e completo de informações sobre licitações é fundamental para a fiscalização e transparência da gestão pública. A determinação para elaborar rotinas de trabalho que garantam esse envio está diretamente relacionada ao cumprimento das obrigações de envio de documentos e informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "estruture  e  promova  treinamentos  para  sua  equipe  de Controle Interno com vistas ao atendimento dos conteúdos mínimos prescritos no Art. 215, Resolução nº 4 do TCE-AM. (Achado 10)",
+      "trechos_identificados": [
+        {
+          "trecho": "estruture  e  promova  treinamentos  para  sua  equipe  de Controle Interno com vistas ao atendimento dos conteúdos mínimos prescritos no Art. 215, Resolução nº 4 do TCE-AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação para estruturar e promover treinamentos para a equipe de Controle Interno está diretamente relacionada à necessidade de garantir que os servidores possuam o conhecimento e as habilidades necessárias para desempenhar suas funções de forma eficaz. A ausência de treinamento adequado pode comprometer a qualidade do controle interno e a detecção de irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 4 do TCE-AM",
+              "artigo": "215",
+              "descricao": "Conteúdos mínimos prescritos para o Controle Interno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "estruture  adequadamente  o  Controle  Interno  e  promova treinamentos  para  sua  equipe  com  vistas  ao  atendimento das  atribuições  que  competem  ao  Sistema  de  Controle Interno,  previstas  no  Art.  5º  da  Resolução  nº  9/2016  do TCE/AM  e  no  Art.  74  da  Constituição  Federal  de  1988. (Achado 11)",
+      "trechos_identificados": [
+        {
+          "trecho": "estruture  adequadamente  o  Controle  Interno  e  promova treinamentos  para  sua  equipe  com  vistas  ao  atendimento das  atribuições  que  competem  ao  Sistema  de  Controle Interno,  previstas  no  Art.  5º  da  Resolução  nº  9/2016  do TCE/AM  e  no  Art.  74  da  Constituição  Federal  de  1988.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação para estruturar adequadamente o Controle Interno e promover treinamentos para a equipe está diretamente relacionada à necessidade de garantir que o sistema de controle interno seja eficaz e capaz de detectar e prevenir irregularidades. A ausência de estrutura adequada e treinamento pode comprometer a qualidade do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 9/2016 do TCE/AM",
+              "artigo": "5º",
+              "descricao": "Atribuições que competem ao Sistema de Controle Interno"
+            },
+            {
+              "norma": "Constituição Federal de 1988",
+              "artigo": "74",
+              "descricao": "Disposições sobre o Sistema de Controle Interno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Instrua  seus  processos  de  inexigibilidade  de  licitação  em conformidade com o que preceitua os Artigos nº 15, 25, e 38 da  Lei  Federal  8.666/1993,  juntando  todos  os  elementos obrigatórios  previstos  em  seus  incisos,  conforme  o  caso. (Achado 13)",
+      "trechos_identificados": [
+        {
+          "trecho": "Instrua  seus  processos  de  inexigibilidade  de  licitação  em conformidade com o que preceitua os Artigos nº 15, 25, e 38 da  Lei  Federal  8.666/1993,  juntando  todos  os  elementos obrigatórios  previstos  em  seus  incisos,  conforme  o  caso.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A determinação para instruir os processos de inexigibilidade de licitação em conformidade com os artigos da Lei Federal 8.666/1993 está diretamente relacionada à necessidade de garantir a legalidade e a transparência nos processos de contratação. A ausência de instrução adequada pode levar a contratações irregulares e prejuízos ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "15",
+              "descricao": "Disposições sobre inexigibilidade de licitação"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "25",
+              "descricao": "Disposições sobre inexigibilidade de licitação"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Disposições sobre inexigibilidade de licitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Instrua  seus  processos  licitatórios  em  conformidade  com  o que  preceitua  os  Artigos  nº  15,  26,  e  38  da  Lei  Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso. (Achado 14)",
+      "trechos_identificados": [
+        {
+          "trecho": "Instrua  seus  processos  licitatórios  em  conformidade  com  o que  preceitua  os  Artigos  nº  15,  26,  e  38  da  Lei  Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A determinação para instruir os processos licitatórios em conformidade com os artigos da Lei Federal 8.666/1993 está diretamente relacionada à necessidade de garantir a legalidade e a transparência nos processos de contratação. A ausência de instrução adequada pode levar a contratações irregulares e prejuízos ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "15",
+              "descricao": "Disposições sobre processos licitatórios"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "26",
+              "descricao": "Disposições sobre processos licitatórios"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Disposições sobre processos licitatórios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Instrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso. (Achado 15)",
+      "trechos_identificados": [
+        {
+          "trecho": "Instrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A determinação para instruir os processos licitatórios em conformidade com o artigo da Lei Federal 8.666/1993 está diretamente relacionada à necessidade de garantir a legalidade e a transparência nos processos de contratação. A ausência de instrução adequada pode levar a contratações irregulares e prejuízos ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Disposições sobre processos licitatórios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Instrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso. (Achado 16)",
+      "trechos_identificados": [
+        {
+          "trecho": "Instrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A determinação para instruir os processos licitatórios em conformidade com o artigo da Lei Federal 8.666/1993 está diretamente relacionada à necessidade de garantir a legalidade e a transparência nos processos de contratação. A ausência de instrução adequada pode levar a contratações irregulares e prejuízos ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Disposições sobre processos licitatórios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Designe  formalmente  os  responsáveis  por  acompanhar  e fiscalizar a execução  dos  contratos  firmados, além  de instituir outras medidas para aprimorar os controles internos incidentes sobre tais contratos, conforme preceitua o Art. 67 da Lei Federal nº 8.666/1993. (Achado 17)",
+      "trechos_identificados": [
+        {
+          "trecho": "Designe  formalmente  os  responsáveis  por  acompanhar  e fiscalizar a execução  dos  contratos  firmados, além  de instituir outras medidas para aprimorar os controles internos incidentes sobre tais contratos, conforme preceitua o Art. 67 da Lei Federal nº 8.666/1993.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "A designação formal de responsáveis pelo acompanhamento e fiscalização da execução dos contratos, bem como a instituição de medidas para aprimorar os controles internos sobre tais contratos, conforme preceitua o Art. 67 da Lei Federal nº 8.666/1993, é crucial para garantir a legalidade e a eficiência na execução dos contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/1993",
+              "artigo": "67",
+              "descricao": "Formalização dos responsáveis por acompanhar e fiscalizar a execução dos contratos firmados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Apresente  plano  de  ação  detalhado,  com  cronograma  e responsáveis pela implementação do concurso público, para o devido acompanhamento pela Corte de Contas. (Achado 18)",
+      "trechos_identificados": [
+        {
+          "trecho": "Apresente  plano  de  ação  detalhado,  com  cronograma  e responsáveis pela implementação do concurso público, para o devido acompanhamento pela Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "A apresentação de um plano de ação detalhado para a implementação do concurso público é essencial para garantir a transparência e o controle do processo. A ausência de um plano de ação pode dificultar o acompanhamento da Corte de Contas e comprometer a lisura do concurso.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Promova  a  atualização  dos  controles  patrimoniais,  com  os registros de  baixa  de  bens  inservíveis e indicação de servidor responsável pela gestão patrimonial. (Achado 20)",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova  a  atualização  dos  controles  patrimoniais,  com  os registros de  baixa  de  bens  inservíveis e indicação de servidor responsável pela gestão patrimonial.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A atualização dos controles patrimoniais, com os registros de baixa de bens inservíveis e indicação de servidor responsável pela gestão patrimonial, é essencial para garantir a correta gestão dos bens públicos e evitar desvios ou perdas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Empreenda esforços para melhoria dos controles de almoxarifado, principalmente no que tange à segregação de funções, e aos instrumentos de controle de entrada e saída de materiais, identificando responsáveis e eventos, visando sanar  as  fragilidades  identificadas,  e  que  a  Comissão  de Inspeção  que  auditará  as  contas  do  exercício  de  2024, verifique sua eficiência e efetividade. (Achado 21)",
+      "trechos_identificados": [
+        {
+          "trecho": "Empreenda esforços para melhoria dos controles de almoxarifado, principalmente no que tange à segregação de funções, e aos instrumentos de controle de entrada e saída de materiais, identificando responsáveis e eventos, visando sanar  as  fragilidades  identificadas,  e  que  a  Comissão  de Inspeção  que  auditará  as  contas  do  exercício  de  2024, verifique sua eficiência e efetividade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos.",
+          "justificativa_tipologia": "A melhoria dos controles de almoxarifado, com segregação de funções e instrumentos de controle de entrada e saída de materiais, é essencial para garantir a correta gestão dos estoques e evitar desvios ou perdas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Mantenha controle de almoxarifado que reflita com fidedignidade  o  que  consta  nas  demonstrações  contábeis. (Achado 22)",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha controle de almoxarifado que reflita com fidedignidade  o  que  consta  nas  demonstrações  contábeis.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A8B",
+          "tipologia_irregularidade": "Divergência entre os registros contábeis das contas de Bens Permanentes e a existência física dos bens",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens.",
+          "justificativa_tipologia": "A manutenção de um controle de almoxarifado que reflita com fidedignidade o que consta nas demonstrações contábeis é essencial para garantir a consistência e a confiabilidade das informações financeiras e patrimoniais da entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "83",
+              "descricao": "Obrigatoriedade de escrituração contábil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Tome  providências para regularização do saldo de R$ 871.384,48  da  conta  'Valores  em  Trânsito  Realizável  a Curto Prazo' e caso  necessário instaure procedimento administrativo para averiguar eventuais irregularidades cometidas por gestões anteriores. (Achado 23)",
+      "trechos_identificados": [
+        {
+          "trecho": "Tome  providências para regularização do saldo de R$ 871.384,48  da  conta  'Valores  em  Trânsito  Realizável  a Curto Prazo' e caso  necessário instaure procedimento administrativo para averiguar eventuais irregularidades cometidas por gestões anteriores.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A determinação para regularizar o saldo da conta 'Valores em Trânsito Realizável a Curto Prazo' e, se necessário, instaurar procedimento administrativo para apurar eventuais irregularidades cometidas por gestões anteriores, está diretamente relacionada à necessidade de garantir a correta aplicação dos recursos públicos e a responsabilização dos responsáveis por eventuais desvios ou irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Empreenda esforços para que sejam cumpridos os prazos de implantação  constantes  no  Plano  de  Ação  do  Município, situação que deverá ser atestada pela próxima Inspeção a ser realizada no ano de 2025. (Achado 05)",
+      "trechos_identificados": [
+        {
+          "trecho": "Empreenda esforços para que sejam

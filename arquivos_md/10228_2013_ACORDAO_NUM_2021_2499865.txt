@@ -1,0 +1,180 @@
+{
+  "acordao": "261/2020",
+  "processo": "13796/2017",
+  "data_sessao": "10 de Março de 2020",
+  "orgao": "Câmara Municipal de Boca do Acre",
+  "municipio": "Boca do Acre",
+  "exercicio": "2012",
+  "responsavel": [
+    "Alysson Pereira de Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Recurso",
+      "descricao": "Conhecer do Recurso de Revisão interposto pelo Sr. Alysson Pereira de Lima ,  responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer do Recurso de Revisão interposto pelo Sr. Alysson Pereira de Lima ,  responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Este trecho se refere ao conhecimento do recurso, e não a uma irregularidade em si. Escolha de tema apenas para atender o modelo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Provimento Parcial",
+      "descricao": "Dar  Provimento  Parcial ao  Recurso  de  Revisão  interposto  pelo Sr. Alysson Pereira de Lima ,  responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12, para excluir os itens 9.5 e 9.6 'a', conforme fundamentação do Relatório/Voto e alterar os itens 9.3, 9.6 'b' e 9.8, do Acórdão n.º 472/2016 -TCE -Tribunal Pleno, constante nos autos  do  Processo  n°.  10.228/2013,  em  apenso,  que  passará  a  vigorar com a seguinte redação",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  Provimento  Parcial ao  Recurso  de  Revisão  interposto  pelo Sr. Alysson Pereira de Lima ,  responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12, para excluir os itens 9.5 e 9.6 'a', conforme fundamentação do Relatório/Voto e alterar os itens 9.3, 9.6 'b' e 9.8, do Acórdão n.º 472/2016 -TCE -Tribunal Pleno, constante nos autos  do  Processo  n°.  10.228/2013,  em  apenso,  que  passará  a  vigorar com a seguinte redação",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Este trecho se refere ao provimento parcial do recurso, e não a uma irregularidade em si. Escolha de tema apenas para atender o modelo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular , com ressalvas , a Prestação de Contas do Sr. Alysson Pereira de Lima , responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12, nos termos do art. 22, II, art. 24 da lei n.º 2423/96 c/c art. 188, §1º, II da Resolução n.º 4/02 - TCE/AM (falhas 2.2, 2.3, 2.4, 2.5, 2.17, 2.18, 2.20, 2.21.1 e 2.21.2)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular , com ressalvas , a Prestação de Contas do Sr. Alysson Pereira de Lima , responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12, nos termos do art. 22, II, art. 24 da lei n.º 2423/96 c/c art. 188, §1º, II da Resolução n.º 4/02 - TCE/AM (falhas 2.2, 2.3, 2.4, 2.5, 2.17, 2.18, 2.20, 2.21.1 e 2.21.2)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Apesar de mencionar algumas falhas, este trecho representa um julgamento formal da prestação de contas, sendo regular com ressalvas. Escolha de tema apenas para atender o modelo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "22, II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "24",
+              "descricao": "Responsabilidade do gestor"
+            },
+            {
+              "norma": "Resolução n.º 4/02 - TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ao Sr.  Alysson  Pereira  de  Lima , responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12, no valor de R$ 3.400,00 (valor reduzido, em sessão, pelo Conselheiro Ari Jorge Moutinho da Costa Júnior e acatado pelo relator), nos termos do art. 53, parágrafo único, da Lei n.º 2423/96, c/c art. 308, VII, da Resolução n.º 4/02 - TCE/AM, com redação dada pelo art. 2º da Resolução n.º 4/18 - TCE/AM, pelas falhas constantes nos itens 2.3, 2.4, 2.5, 2.17, 2.18, 2.20, 2.21.1 e 2.21.2.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao Sr.  Alysson  Pereira  de  Lima , responsável pela Câmara Municipal de Boca do Acre, no período de 08.05 a 31.12.12, no valor de R$ 3.400,00 (valor reduzido, em sessão, pelo Conselheiro Ari Jorge Moutinho da Costa Júnior e acatado pelo relator), nos termos do art. 53, parágrafo único, da Lei n.º 2423/96, c/c art. 308, VII, da Resolução n.º 4/02 - TCE/AM, com redação dada pelo art. 2º da Resolução n.º 4/18 - TCE/AM, pelas falhas constantes nos itens 2.3, 2.4, 2.5, 2.17, 2.18, 2.20, 2.21.1 e 2.21.2.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica que as falhas nos itens 2.3, 2.4, 2.5, 2.17, 2.18, 2.20, 2.21.1 e 2.21.2, representam deficiências na implementação do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "Multa por irregularidades"
+            },
+            {
+              "norma": "Resolução n.º 4/02 - TCE/AM",
+              "artigo": "308, VII",
+              "descricao": "Multa por irregularidades"
+            },
+            {
+              "norma": "Resolução n.º 4/18 - TCE/AM",
+              "artigo": "2º",
+              "descricao": "Redação dada ao art. 308, VII, da Resolução n.º 4/02 - TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixação de prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres  da  Fazenda  Estadual  do  valor  da  multa  imposta,  com comprovação perante este Tribunal do valor  recolhido,  tudo  em conformidade com a alínea 'a' do inciso III do art. 72 da Lei n° 2.423/96,  c/c o §4°  do  art. 174  da  Resolução  4/2002  (RITCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n° 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres  da  Fazenda  Estadual  do  valor  da  multa  imposta,  com comprovação perante este Tribunal do valor  recolhido,  tudo  em conformidade com a alínea 'a' do inciso III do art. 72 da Lei n° 2.423/96,  c/c o §4°  do  art. 174  da  Resolução  4/2002  (RITCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n° 2.423/96)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Este trecho se refere a fixação de prazo para recolhimento de multa, não indicando um problema estrutural na gestão. Escolha de tema apenas para atender o modelo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72",
+              "descricao": "cobrança de multa"
+            },
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "174",
+              "descricao": "cobrança de multa"
+            },
+             {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "55",
+              "descricao": "correção monetária"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Manutenção de itens",
+      "descricao": "Determinar a  manutenção  dos  demais  itens  insertos  no  Acórdão  n.º 472/2016  -TCE  -Tribunal  Pleno,  proferido  nos  autos  do  Processo  n°. 10.228/2013, em apenso",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a  manutenção  dos  demais  itens  insertos  no  Acórdão  n.º 472/2016  -TCE  -Tribunal  Pleno,  proferido  nos  autos  do  Processo  n°. 10.228/2013, em apenso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Este trecho se refere à manutenção dos demais itens do acórdão, não a uma irregularidade em si. Escolha de tema apenas para atender o modelo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência da decisão ao Sr. Alysson Pereira de Lima , seus advogados, e demais partes interessadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência da decisão ao Sr. Alysson Pereira de Lima , seus advogados, e demais partes interessadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Este trecho se refere a dar ciência da decisão, não a uma irregularidade em si. Escolha de tema apenas para atender o modelo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

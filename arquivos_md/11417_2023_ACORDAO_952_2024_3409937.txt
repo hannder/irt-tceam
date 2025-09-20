@@ -1,0 +1,88 @@
+{
+  "acordao": "952/2024",
+  "processo": "11417/2023",
+  "data_sessao": "18 de Junho de 2024",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Parintins - SAAE",
+  "municipio": "Parintins",
+  "exercicio": "2022",
+  "responsavel": [
+    "Fermiliano de Souza Tavares"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do Serviço Autônomo de Água  e  Esgoto  de  Parintins  SAAE,  exercício  de  2022,  sob  a responsabilidade do Sr. Fermiliano de Souza Tavares, com fundamento no art. 22, III, \"b\" e \"c\" da Lei Estadual nº 2.423/1996",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Fermiliano  de  Souza  Tavares no  valor  de R$ 20.481,60 , conforme art. 308, I, \"a\" da Resolução nº 04/2002 c/c art. 54, I, \"a\" da Lei Estadual nº 2.423/1996 e fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'.  Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Fermiliano  de  Souza  Tavares no  valor  de R$ 6.827,19 ,  fundamentado  no  art.  308,  V,  da  Resolução  nº  04/2002  c/c 54, V, da Lei Estadual nº 2.423/1996 e fixar prazo de 30 dias para que o responsável recolha o valor da multa na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'.  Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Fermiliano  de  Souza  Tavares no  valor  de R$ 13.654,39 ,  de  acordo com o art. 308, VI da Resolução nº 04/2002 c/c art. 54, VI da Lei Estadual nº 2.423/1996 e fixar prazo de 30 dias para que o responsável recolha o valor da MULTAna esfera Estadual para o órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  '5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo -FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance ao Sr. Fermiliano de Souza Tavares no valor de R$  43.178,64 em  razão  das  restrições  apontadas  no  Relatório  nº 271/2023-DICAMI (págs. 491/596) e fixar prazo de 30 (trinta) dias para que  o  responsável  recolha  o  valor  do  ALCANCE  na  esfera  Estadual para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE,  através de DAR  avulso  extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações - PRINCIPAL ALCANCE  APLICADO  PELO  TCE/AM',  órgão  Fundo  de  Apoio  ao Exercício  do  Controle  Externo  -  FAECE  com  a  devida  comprovação perante esta Corte de Contas e a devida atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Res. nº 04/02 -RITCE/AM).  Dentro  do  prazo  anteriormente  conferido,  é obrigatório o encaminhamento do comprovante de pagamento (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem  como  proceder, conforme  estabelecido  no  Acordo  de  Cooperação  firmado  com  o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas -  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance ao Sr. Fermiliano de Souza Tavares no valor de R$  86.000,00 em  razão  das  restrições  apontadas  no  Relatório Conclusivo  nº  47/2024-DICOP  (págs.  601/613)  e  fixar  prazo  de 30 (trinta) dias para que o responsável recolha o valor do ALCANCE, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações - PRINCIPAL ALCANCE  APLICADO  PELO  TCE/AM',  órgão  Fundo  de  Apoio  ao Exercício  do  Controle  Externo  -  FAECE  com  a  devida  comprovação perante esta Corte de Contas e a devida atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Res. nº 04/02 -RITCE/AM).  Dentro  do  prazo  anteriormente  conferido,  é obrigatório o encaminhamento do comprovante de pagamento (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem  como  proceder, conforme  estabelecido  no  Acordo  de  Cooperação  firmado  com  o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas -  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Prefeitura  Municipal  de  Parintins para  que  capacitem seus servidores quanto às ilegalidades apresentadas nestes Achados, bem como se adequem às exigências da Nova de Lei de Licitações e Contratos Nº 14.133/2021 e da LC Nº 123/06",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Prefeitura  Municipal  de  Parintins  caso  não  cumpram com suas obrigações contratuais, seja imputado débito, em solidariedade, sob a responsabilidade da Contratada (DPA Contabilidade)  e  do  Gestor  do  SAAE,  em  função  do  descumprimento parcial  do  Contrato  Administrativo,  em  função  do  descumprimento parcial  do  Contrato  Administrativo  que  tinha  como  objeto  realizar  o desenvolvimento e a manutenção do portal da transparência do SAAE, no exercício 2022",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar fundamentado  na  função  fiscalizadora  e  pedagógica  do TCE/AM, em ação conjunta, às três (3) Unidades Gestoras de Parintis: (a) Prefeitura Municipal de Parintins; (b) Câmara Municipal de Parintins e (c) Serviço Autônomo de Água e Esgosto de Parintins - SAAE, deve ser  realizada  no  sentido  de  que  todas  elas  envidem  esforços,  para, efetivamente, criar e/ou aperfeiçoar o sistema de controle interno, nos moldes  da  Resolução  nº  09/2016-TCE/AM,  por  meio  de  instrumentos de  cooperação  interinstitucionais  para  compartilhar  conhecimentos, experiências e boas práticas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao  SAAE  para  que  proceda  com  o  levantamento  de pendências  e  faça o inventário no Almoxarifado e, também,  no Imobilizado,  para  sanear  diferenças  entre  o  sistema  contábil  e  os controles do setor de almoxarifado e de patrimônio",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao SAAE que proceda com o levantamento de pendências do Ativo Circulante referente no que  se refere às diferenças a regularizar de exercícios anteriores",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao SAAE que nos exercícios vindouros insira as informações  de  maneira  tempestiva,  pois  procedimento  intempestivo afeta  diretamente  as  auditorias  financeiras,  contábeis,  de  controle  de licitações e contratos/aditivos, encadeando preliminarmente em sanção pecuniária conforme Regimento Interno deste TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao SAAE que realize processo seletivo simplificado para a contratação de funcionários",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Fermiliano de Souza Tavares e demais interessados",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, após o cumprimento integral dos itens acima, na forma disposta no Regimento Interno desta Corte de Contas.",
+      "trechos_identificados": []
+    }
+  ]
+}

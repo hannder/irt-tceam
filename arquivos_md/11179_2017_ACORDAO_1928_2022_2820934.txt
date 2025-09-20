@@ -1,0 +1,180 @@
+{
+  "acordao": "1928/2022",
+  "processo": "11179/2017",
+  "data_sessao": "08 de Novembro de 2022",
+  "orgao": "Serviço Autônomo de Água e Esgoto São Sebastião Uatumã-SAAE",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2016",
+  "responsavel": [
+    "Pedro Furtado Terço"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidades",
+      "descricao": "as despesas com diárias para cobertura de despesas de alimentação, pousada e locomoção urbana concedidas, não apresentam o comprovante de deslocamento do servidor, contrariando o expresso no art. 4º da Lei Municipal n° 15 de 13 de agosto de 2013, comprometendo assim a fiel liquidação das despesas em descompasso com art. 63. §2° inciso III, da Lei n° 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "as despesas com diárias para cobertura de despesas de alimentação, pousada e locomoção urbana concedidas, não apresentam o comprovante de deslocamento do servidor, contrariando o expresso no art. 4º da Lei Municipal n° 15 de 13 de agosto de 2013, comprometendo assim a fiel liquidação das despesas em descompasso com art. 63. §2° inciso III, da Lei n° 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "O trecho descreve a ausência de comprovação de deslocamento de servidor em despesas com diárias, configurando falha na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal n° 15 de 13 de agosto de 2013",
+              "artigo": "4º",
+              "descricao": "Comprovante de deslocamento do servidor"
+            },
+            {
+              "norma": "Lei n° 4.320/64",
+              "artigo": "63",
+              "descricao": "Fiel liquidação das despesas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "não realização da efetiva Cobrança Administrativa, conforme registrado nos Créditos a Longo Prazo do Ativo Não-Circulante do Balanço Patrimonial do exercício - Anexo 14, proveniente da inscrição de Dívida Ativa Não Tributária dos usuários beneficiados com fornecimento de Água Potável da zona rural e urbana do município, créditos esses, por conseguinte, seriam escriturados como receita do exercício, caracterizando assim, inobservância por parte da administração da Autarquia as determinações expressas no art. 1l, da LC n° 101/2000-LRF",
+      "trechos_identificados": [
+        {
+          "trecho": "não realização da efetiva Cobrança Administrativa, conforme registrado nos Créditos a Longo Prazo do Ativo Não-Circulante do Balanço Patrimonial do exercício - Anexo 14, proveniente da inscrição de Dívida Ativa Não Tributária dos usuários beneficiados com  fornecimento de Água Potável da zona rural e urbana do município, créditos esses, por conseguinte, seriam escriturados como  receita do exercício, caracterizando assim, inobservância por parte da administração da Autarquia as determinações expressas no art. 1l, da LC n° 101/2000-LRF",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho descreve a não realização de cobrança administrativa de dívida ativa, apontando para uma falha na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC n° 101/2000-LRF",
+              "artigo": "11",
+              "descricao": "Determinações expressas na lei."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "ausência de registros analíticos dos bens de caráter permanente adquirido no exercício, bem como os adquiridos em exercícios anteriores, considerando que os mesmos não possuem qualquer indicação de elementos necessários para a perfeita caracterização, identificação e localização de cada um deles, e ainda, a inexistência de agentes responsáveis pela sua guarda e administração, contrariando assim, o artigo 94 da Lei 4.320/1964",
+      "trechos_identificados": [
+        {
+          "trecho": "ausência de registros analíticos dos bens de caráter permanente adquirido no exercício, bem como os adquiridos em exercícios anteriores, considerando que os mesmos não possuem qualquer indicação de elementos necessários para a perfeita caracterização, identificação e localização de cada um deles, e ainda, a inexistência de agentes responsáveis pela sua guarda e administração, contrariando assim, o artigo 94 da Lei 4.320/1964",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "O trecho descreve a ausência de registros analíticos de bens permanentes, indicando falta de controle patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/1964",
+              "artigo": "94",
+              "descricao": "Indicação de elementos necessários para a perfeita caracterização, identificação e localização de cada um dos bens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "em análise, referente ao Processo de Dispensa de Licitação N° 007-2016, Contrato n° 15/2016, contratado: Prime Consultoria EPP, cujo objeto é a realização de serviços de informatização de Patrimônio, constatou-se que o mesmo não está sendo prestado de forma satisfatório e efetiva",
+      "trechos_identificados": [
+        {
+          "trecho": "em análise, referente ao Processo de Dispensa de Licitação  N°  007-2016,  Contrato  n°  15/2016,  contratado: Prime  Consultoria  EPP,  cujo  objeto  é  a  realização  de serviços de informatização de Patrimônio, constatou-se que o  mesmo não está sendo prestado de forma satisfatório e efetiva",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16B",
+          "tipologia_irregularidade": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "justificativa_tipologia": "O trecho descreve a prestação de serviço insatisfatória, indicando possíveis falhas na gestão do contrato e falta de fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "ausência de comprovante de recolhimento referente a competência, da parte patronal e do empregado, respectivamente restando assim, configurado a ausência de controle de consignações e infringindo o prazo de pagamento Estabelecido no artigo 216, I, \"b\", do Decreto n. 3.048/99 (Regulamento da Previdência Social) c/c o art. 12, I, e artigo 9, I, alínea \"m\" da mesma norma",
+      "trechos_identificados": [
+        {
+          "trecho": "ausência  de  comprovante  de  recolhimento  referente  a competência, da parte patronal e do empregado, respectivamente restando assim, configurado a ausência de controle de consignações e infringindo o prazo de pagamento Estabelecido no artigo 216, I, \"b\", do Decreto n. 3.048/99 (Regulamento da Previdência Social) c/c o art. 12, I, e artigo 9, I, alínea \"m\" da mesma norma",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "O trecho descreve a ausência de comprovante de recolhimento previdenciário, apontando para uma falha nos repasses e controles.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto n. 3.048/99",
+              "artigo": "216",
+              "descricao": "Prazo de pagamento"
+            },
+            {
+              "norma": "Decreto n. 3.048/99",
+              "artigo": "12",
+              "descricao": "Controle de consignações"
+            },
+            {
+              "norma": "Decreto n. 3.048/99",
+              "artigo": "9",
+              "descricao": "Controle de consignações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "o Portal da Transparência encontra-se desatualizado, contrariando assim o art. 48, do parágrafo único, II da LC n° 101/2000-LRF, alterado pela LC n° 131/2009, bem como, o inc. VI, do § 3º do art. 8º, da Lei n° 12.527/2011, que regula o Acesso à Informação prevista no inciso XXXIII, do art. 5º, no inciso II do § 3o do art. 37 e no § 2 do art. 216 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "o Portal da Transparência encontra-se desatualizado, contrariando assim o art. 48, do parágrafo único, II da LC n° 101/2000-LRF, alterado pela LC n° 131/2009, bem como, o inc. VI, do § 3º do art. 8º, da Lei n° 12.527/2011, que regula o Acesso à Informação prevista no inciso XXXIII, do art. 5º, no inciso II do § 3o do art. 37 e no § 2 do art. 216 da Constituição Federal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho descreve a desatualização do Portal da Transparência, violando a legislação sobre transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC n° 101/2000-LRF",
+              "artigo": "48",
+              "descricao": "Transparência da Gestão Fiscal"
+            },
+            {
+              "norma": "LC n° 131/2009",
+              "artigo": "art. 8º",
+              "descricao": "Acesso à Informação"
+            },
+            {
+              "norma": "Lei n° 12.527/2011",
+              "artigo": "5º",
+              "descricao": "Acesso à Informação"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37",
+              "descricao": "Acesso à Informação"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "216",
+              "descricao": "Acesso à Informação"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

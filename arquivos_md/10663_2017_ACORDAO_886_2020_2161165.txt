@@ -1,0 +1,28 @@
+{
+  "acordao": "886/2020",
+  "processo": "10663/2017",
+  "data_sessao": "9 de Setembro de 2020",
+  "orgao": "Câmara Municipal de São Gabriel da Cachoeira",
+  "municipio": "São Gabriel da Cachoeira",
+  "exercicio": "2016",
+  "responsavel": [
+    "Edilson Fonseca Gonçalves"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas do Sr. Edilson Fonseca Gonçalves, Presidente da Câmara Municipal de São Gabriel da Cachoeira, Referente Ao Exercício de 2016.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Edilson Fonseca Gonçalves no valor de R$ 8.768,25 , que  deverá  ser  recolhida  no prazo  de  30  dias para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE, pelos itens 1, 9 e 10 elencadas no Relatório Conclusivo Nº 174/2019-CI/DICAMI (fls. 743/775) com fulcro no art. 54, inciso II, da Lei n.° 2423/96-LOTCE c/c art. 308, inciso VI, da Resolução n° 04/02- RITCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Edilson Fonseca Gonçalves do teor desta decisão.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "acordao": "60/2018",
+  "processo": "1528/2006",
+  "data_sessao": "18 de Dezembro de 2018",
+  "orgao": "Prefeitura Municipal de Carauari",
+  "municipio": "Carauari",
+  "exercicio": "2005",
+  "responsavel": [
+    "Bruno Luis Litaiff Ramalho"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas,  do Sr.Bruno  Luis  Litaiff Ramalho responsável à época pela Prefeitura Municipal de Carauarí, no curso do exercício do exercício de 2005, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2° e 5°, I e 22, III, 'b' e 'c' da Lei n° 2.423/96 c/c art. 11, II e III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas,  do Sr.Bruno  Luis  Litaiff Ramalho responsável à época pela Prefeitura Municipal de Carauarí, no curso do exercício do exercício de 2005, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2° e 5°, I e 22, III, 'b' e 'c' da Lei n° 2.423/96 c/c art. 11, II e III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A deliberação indica um julgamento formal de irregularidade nas contas, apontando para potenciais problemas na gestão financeira que afetam a integridade e a conformidade das demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Norma da constituição estadual que versa sobre o julgamento das contas dos administradores públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1°, II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e suas competências."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "2",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e suas competências."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "5°, I",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e suas competências."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e suas competências."
+            },
+            {
+              "norma": "Resolução nº 04/02-TCE",
+              "artigo": "11, II e III, 'a', '2'",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/02-TCE",
+              "artigo": "188, § 1°, III, 'b' e 'c'",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Bruno Luis Litaiff Ramalho no valor de 352.857,32 que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Carauari,), em função das glosas referenciadas nas  NEs  ns. 0875/2005 (valor  R$  7.000,00); 0138/2005 (valor  R$ 52.800,00); 057/2005, (valor R$  108.281,15); 067/2005 (valor R4 38.036,09) 068/2005 (valor R$ 146.740,08), especificadas neste Relatório/voto, ITENS  1, 2, 7, 11 e 12 - impropriedades detectadas pela DICOP e pelo Ministério Público de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Bruno Luis Litaiff Ramalho no valor de 352.857,32 que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Carauari,), em função das glosas referenciadas nas  NEs  ns. 0875/2005 (valor  R$  7.000,00); 0138/2005 (valor  R$ 52.800,00); 057/2005, (valor R$  108.281,15); 067/2005 (valor R4 38.036,09) 068/2005 (valor R$ 146.740,08), especificadas neste Relatório/voto, ITENS  1, 2, 7, 11 e 12 - impropriedades detectadas pela DICOP e pelo Ministério Público de Contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação para considerar o responsável em alcance indica a necessidade de ressarcimento de valores, sugerindo irregularidades nos pagamentos e possível dano ao erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "a  Prefeitura  Municipal  de  Carauari  que  sejam  observados  e cumpridos as determinações contidas nos dispositivos legais transcritos abaixo:",
+      "trechos_identificados": [
+        {
+          "trecho": "a  Prefeitura  Municipal  de  Carauari  que  sejam  observados  e cumpridos as determinações contidas nos dispositivos legais transcritos abaixo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Art. 4º da Resolução n. 07/202 e Resolução n. 02/2007 TCE/AM/ c/c o art. 15 § 1º da Lei Complementar n. 06/91",
+      "trechos_identificados": [
+        {
+          "trecho": "Art. 4º da Resolução n. 07/202 e Resolução n. 02/2007 TCE/AM/ c/c o art. 15 § 1º da Lei Complementar n. 06/91",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 07/202",
+              "artigo": "4",
+              "descricao": "Não foi possível identificar o conteúdo da resolução apenas pelo número"
+            },
+            {
+              "norma": "Resolução n. 02/2007 TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Não foi possível identificar o conteúdo da resolução apenas pelo número"
+            },
+            {
+              "norma": "Lei Complementar n. 06/91",
+              "artigo": "15 § 1º",
+              "descricao": "Dispõe sobre a organização da Administração Fazendária do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Arts.  52  e  54  da  Complementar  n.  101/00  c/c  o  art.  1º  e  2º  da Resolução n. 06/2000-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Arts.  52  e  54  da  Complementar  n.  101/00  c/c  o  art.  1º  e  2º  da Resolução n. 06/2000-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n. 101/00",
+              "artigo": "52 e 54",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal."
+            },
+            {
+              "norma": "Resolução n. 06/2000-TCE/AM",
+              "artigo": "1º e 2º",
+              "descricao": "Não foi possível identificar o conteúdo da resolução apenas pelo número"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Art. 11 e § 4º do art. 9º da Lei n. 101/2000 - LRF",
+      "trechos_identificados": [
+        {
+          "trecho": "Art. 11 e § 4º do art. 9º da Lei n. 101/2000 - LRF",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 101/2000",
+              "artigo": "11",
+              "descricao": "Estabelece exigências para a instituição de benefícios fiscais."
+            },
+            {
+              "norma": "Lei n. 101/2000",
+              "artigo": "9º",
+              "descricao": "§ 4º Define as condições para a realização de operações de crédito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Lei n. 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Lei n. 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Art. 1º, § 1º da lei 101/2000 - LRF",
+      "trechos_identificados": [
+        {
+          "trecho": "Art. 1º, § 1º da lei 101/2000 - LRF",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": [
+            {
+              "norma": "lei 101/2000",
+              "artigo": "1º, § 1º",
+              "descricao": "Define a responsabilidade na gestão fiscal e seus princípios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Art. 259 c/c o art. 260, inciso II, § 2º da Resolução n. 04/2002  TCE/AM, assim como maior controle sobre seu patrimônio a fim de evitar a  reincidência  que  poderá  ensejar  na  irregularidade  de  Prestações  de Contas futuras, nos termos do art. 22, § 1º, da lei n. 2.423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Art. 259 c/c o art. 260, inciso II, § 2º da Resolução n. 04/2002  TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002  TCE/AM",
+              "artigo": "259 c/c o art. 260, inciso II, § 2º",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "maior controle sobre seu patrimônio a fim de evitar a  reincidência  que  poderá  ensejar  na  irregularidade  de  Prestações  de Contas futuras, nos termos do art. 22, § 1º, da lei n. 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A determinação para que a prefeitura observe e cumpra as determinações legais, por si só, não indica um problema estrutural ou recorrente na gestão, logo  relevante_para_indice = false",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "22, § 1º",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e suas competências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Bruno Luis Litaiff Ramalho no valor de 15.443,43, (quinze  mil  quatrocentos  e  quarenta  e  três  reais  e  quarenta  e  três centavos)  que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, nos termos dos art. 1°, XXVI, 54 I, II, III da Lei 2423/1996 (Lei Orgânica do TCE/AM) c/c art. 308, III, V e VI da Resolução n° 04/2002 (Regimento Interno do TCE/AM), pelas seguintes impropriedades:  ITENS 2; 3; 4; 5 e 6 deste Relatório/Voto, concernente às irregularidades detectadas pela DICAMI, e ITENS: 1 à 38 deste  Relatório/voto,  detectadas  pela  DICOP,  excetuando  o  subitem: 'ausência de Estudo de Impacto Ambiental '.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Bruno Luis Litaiff Ramalho no valor de 15.443,43, (quinze  mil  quatrocentos  e  quarenta  e  três  reais  e  quarenta  e  três centavos)  que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, nos termos dos art. 1°, XXVI, 54 I, II, III da Lei 2423/1996 (Lei Orgânica do TCE/AM) c/c art. 308, III, V e VI da Resolução n° 04/2002 (Regimento Interno do TCE/AM), pelas seguintes impropriedades:  ITENS 2; 3; 4; 5 e 6 deste Relatório/Voto, concernente às irregularidades detectadas pela DICAMI, e ITENS: 1 à 38 deste  Relatório/voto,  detectadas  pela  DICOP,  excetuando  o  subitem: 'ausência de Estudo de Impacto Ambiental '",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa devido a diversas impropriedades detectadas indica deficiências nos controles internos da entidade, que permitiram a ocorrência de irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "1°, XXVI",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e suas competências."
+            },
+            {
+              "norma": "Lei 2423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "54 I, II, III",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e suas competências."
+            },
+            {
+              "norma": "Resolução n° 04/2002 (Regimento Interno do TCE/AM)",
+              "artigo": "308, III, V e VI",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

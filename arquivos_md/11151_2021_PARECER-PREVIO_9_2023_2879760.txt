@@ -1,0 +1,70 @@
+{
+  "acordao": "9/2023",
+  "processo": "11151/2021",
+  "data_sessao": "07 de Fevereiro de 2023",
+  "orgao": "Prefeitura Municipal de Rio Preto da Eva",
+  "municipio": "Rio Preto da Eva",
+  "exercicio": "2020",
+  "responsavel": [
+    "Anderson Jose de Sousa"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o encaminhamento do Parecer Prévio, publicado e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Rio Preto da Eva, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o encaminhamento do Parecer Prévio, publicado e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Rio Preto da Eva, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação envolve o cumprimento de formalidades do processo fiscalizatório",
+          "fundamentacao_legal": [
+            {
+              "norma": "CE/1989",
+              "artigo": "127",
+              "descricao": "Atribuição de competência à Câmara Municipal para julgar as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo-SECEX  que  tome  as medidas cabíveis para a autuação de processos apartados referentes aos Atos de Gestão, que deverão ser devidamente instruídos, respeitando a competência de cada órgão técnico, acompanhadas das documentações referentes às impropriedades apontadas nos relatórios técnicos e pareceres constantes nestes autos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  de  Controle  Externo-SECEX  que  tome  as medidas cabíveis para a autuação de processos apartados referentes aos Atos de Gestão, que deverão ser devidamente instruídos, respeitando a competência de cada órgão técnico, acompanhadas das documentações referentes às impropriedades apontadas nos relatórios técnicos e pareceres constantes nestes autos;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa a garantir o cumprimento de processos internos do Tribunal de Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que dê ciência desta Decisão ao interessado, bem como à Câmara Municipal de Rio Preto da Eva e à Prefeitura Municipal de Rio Preto da Eva.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que dê ciência desta Decisão ao interessado, bem como à Câmara Municipal de Rio Preto da Eva e à Prefeitura Municipal de Rio Preto da Eva.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "A determinação trata de um procedimento administrativo para dar ciência da decisão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

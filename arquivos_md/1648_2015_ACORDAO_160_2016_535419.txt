@@ -1,0 +1,41 @@
+{
+  "acordao": "160/2016",
+  "processo": "1648/2015",
+  "data_sessao": "17 de Fevereiro de 2016",
+  "orgao": "Fundo Municipal de Direitos Humanos - FMDH",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Maria Goreth Garcia do Carmo Ribeiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  Regular a  Prestação  de  Contas  do  Fundo  Municipal  de  Direitos Humanos-  FMDH,  exercício  2014,  de  responsabilidade  da  Sra. Maria  Goreth  Garcia  do Carmo  Ribeiro ,  Gestora,  nos  termos  do  art.  22,  inciso  I,  c/c  art.  23,  da  Lei  nº.  2.423/96LO/TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular a  Prestação  de  Contas  do  Fundo  Municipal  de  Direitos Humanos-  FMDH,  exercício  2014,  de  responsabilidade  da  Sra. Maria  Goreth  Garcia  do Carmo  Ribeiro ,  Gestora,  nos  termos  do  art.  22,  inciso  I,  c/c  art.  23,  da  Lei  nº.  2.423/96LO/TCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas como regular, o que não indica um problema concreto ou recorrente na gestão pública. Apesar disso, o tipo de julgamento remete a dados contábeis que precisam estar completos para o julgamento ter acontecido",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2.423/96-LO/TCE",
+              "artigo": "22, inciso I",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2.423/96-LO/TCE",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

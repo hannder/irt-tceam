@@ -1,0 +1,82 @@
+{
+  "acordao": "11/2019",
+  "processo": "10047/2012",
+  "data_sessao": "23 de Abril de 2019",
+  "orgao": "Prefeitura Municipal de Humaitá",
+  "municipio": "Humaitá",
+  "exercicio": "2011",
+  "responsavel": [
+    "José Cidenei Lobo do Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. José Cidenei Lobo do Nascimento - Prefeito do Município de Humaitá, exercício 2011 -, no valor de R$ 5.120,40 (cinco mil,  cento e  vinte  reais e  quarenta  centavos),  com fulcro no art. 308, I, \"b\" da Resolução n.º 04/02 -RI-TCE/AM (modificada pela Resolução n.º 04/2018), em razão da impropriedade descrita no item 01 do Relatório/Voto, referente ao envio do atraso do RREO´s relativos aos 1º, 5º  e  6º  bimestres,  sendo  aplicado  multa  de R$  1.706,80 (um  mil, setecentos  e  seis  reais  e  oitenta  centavos) por  bimestre  de  atraso do envio do RREO.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. José Cidenei Lobo do Nascimento - Prefeito do Município de Humaitá, exercício 2011 -, no valor de R$ 5.120,40 (cinco mil,  cento e  vinte  reais e  quarenta  centavos),  com fulcro no art. 308, I, \"b\" da Resolução n.º 04/02 -RI-TCE/AM (modificada pela Resolução n.º 04/2018), em razão da impropriedade descrita no item 01 do Relatório/Voto, referente ao envio do atraso do RREO´s relativos aos 1º, 5º  e  6º  bimestres,  sendo  aplicado  multa  de R$  1.706,80 (um  mil, setecentos  e  seis  reais  e  oitenta  centavos) por  bimestre  de  atraso do envio do RREO.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio dos Relatórios Resumidos de Execução Orçamentária (RREO), indicando uma falha na gestão fiscal e no cumprimento dos prazos estabelecidos pela legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 -RI-TCE/AM",
+              "artigo": "308, I, b",
+              "descricao": "A multa é aplicada com fulcro no artigo 308, I, \"b\" da Resolução n.º 04/02 -RI-TCE/AM (modificada pela Resolução n.º 04/2018)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. José Cidenei Lobo do Nascimento, Prefeito do Município de Humaitá, exercício 2011 -, no valor de R$ 6.827,19 (seis mil, oitocentos e vinte e sete reais e dezenove centavos), com fulcro no art. 308, V da Resolução  n.º 04/02 -RI-TCE/AM,  em  razão  de  ato antieconômido praticado pelo gestor e analisado no item 03 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. José Cidenei Lobo do Nascimento, Prefeito do Município de Humaitá, exercício 2011 -, no valor de R$ 6.827,19 (seis mil, oitocentos e vinte e sete reais e dezenove centavos), com fulcro no art. 308, V da Resolução  n.º 04/02 -RI-TCE/AM,  em  razão  de  ato antieconômido praticado pelo gestor e analisado no item 03 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A multa se refere a um ato antieconômico praticado pelo gestor, indicando uso ineficiente ou inadequado de recursos públicos, o que justifica a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 -RI-TCE/AM",
+              "artigo": "308, V",
+              "descricao": "A multa é aplicada com fulcro no artigo 308, V da Resolução n.º 04/02 -RI-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. José Cidenei Lobo do Nascimento , Prefeito do Município de Humaitá, exercício 2011, no valor de R$ 30.688,87 (trinta mil,  seiscentos  e  oitenta  e  oito  reais  e  oitenta  e  sete  centavos),  com fulcro no art. 308, VI da Resolução n.º 04/02 - RI-TCE/AM, em razão dos atos praticados com grave infração à norma legal, constatados nos itens 04,  05,  06  (subitens  \"i\",  \"ii\",  e  \"iv\"),  07  (subitens  \"i\"  e  \"ii\"),  08,  09,  10 (subitem  \"i\"),  11,  12,  13,  14,  16,  17,  18,  19,  20, 24  (subitem  \"i\"),  25 (subitens \"i\", \"ii\", \"iii\" e \"v\"), 26 (subitens \"i\", \"ii\", \"iii\" e \"v\"), 27 (subitens \"i\", \"ii\", \"iii\", \"v\", \"vii e \"viii\"), 29 (subitem \"i\"), 30 (subitem \"i\") e 31 (subitens \"i\" e \"vi\") do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. José Cidenei Lobo do Nascimento , Prefeito do Município de Humaitá, exercício 2011, no valor de R$ 30.688,87 (trinta mil,  seiscentos  e  oitenta  e  oito  reais  e  oitenta  e  sete  centavos),  com fulcro no art. 308, VI da Resolução n.º 04/02 - RI-TCE/AM, em razão dos atos praticados com grave infração à norma legal, constatados nos itens 04,  05,  06  (subitens  \"i\",  \"ii\",  e  \"iv\"),  07  (subitens  \"i\"  e  \"ii\"),  08,  09,  10 (subitem  \"i\"),  11,  12,  13,  14,  16,  17,  18,  19,  20, 24  (subitem  \"i\"),  25 (subitens \"i\", \"ii\", \"iii\" e \"v\"), 26 (subitens \"i\", \"ii\", \"iii\" e \"v\"), 27 (subitens \"i\", \"ii\", \"iii\", \"v\", \"vii e \"viii\"), 29 (subitem \"i\"), 30 (subitem \"i\") e 31 (subitens \"i\" e \"vi\") do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A multa se refere a atos praticados com grave infração à norma legal, indicando irregularidades na gestão financeira e orçamentária, incluindo falta de licitação, que justifica a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "A multa é aplicada com fulcro no artigo 308, VI da Resolução n.º 04/02 - RI-TCE/AM."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

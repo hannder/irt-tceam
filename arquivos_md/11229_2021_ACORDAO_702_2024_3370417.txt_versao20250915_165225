@@ -1,0 +1,174 @@
+{
+  "acordao": "702/2024",
+  "processo": "11229/2021",
+  "data_sessao": "14 de maio de 2024",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Maués - SAAE",
+  "municipio": "Maués",
+  "exercicio": "2020",
+  "responsavel": [
+    "Valeria Pinto Soares"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  do  Serviços  Autônomo  de Água e Esgoto de Maués, relativa ao exercício de 2020, de responsabilidade  da Sra.  Valéria  Pinto  Soares ,  nos  termos  do  art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, I, c/c art. 29 da Lei n° 2.423/96, e art. 223, da Resolução n° 04/02-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de  Contas  do  Serviços  Autônomo  de Água e Esgoto de Maués, relativa ao exercício de 2020, de responsabilidade  da Sra.  Valéria  Pinto  Soares ,  nos  termos  do  art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, I, c/c art. 29 da Lei n° 2.423/96, e art. 223, da Resolução n° 04/02-TCE/AM.",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Julgamento irregular das contas devido a falhas não especificadas na gestão orçamentária, financeira e patrimonial, com base em diversos artigos de leis e resoluções.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A irregularidade é o julgamento das contas como tal. A tipologia reflete a ausência de informações e comprovações necessárias para a regularidade contábil.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Artigo da Constituição Estadual que trata da competência do Tribunal de Contas para julgar as contas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar a aplicação de recursos públicos."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "29",
+              "descricao": "Refere-se às irregularidades encontradas na prestação de contas."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE/AM",
+              "artigo": "223",
+              "descricao": "Dispõe sobre o processo de tomada de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa à Sra. Valeria Pinto Soares, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, aplicada em razão das impropriedades não sanadas listadas no Relatório-Voto, na esfera Estadual para o órgão Fundo de Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Valeria Pinto Soares, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, aplicada em razão das impropriedades não sanadas listadas no Relatório-Voto, na esfera Estadual para o órgão Fundo de Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Aplicação de multa devido a impropriedades não sanadas, indicando falhas na comprovação de despesas.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório-Voto\"; justificativa=\"A aplicação de multa indica irregularidade na comprovação de despesas. A tipologia reflete a ausência de comprovação documental.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar ao  Serviço  Autônomo  de  Água  e  Esgoto  de  Maués  Saae:\n- 10.3.1. A  elaboração,  no  prazo  máximo  de  90  dias,  de  estudo  que permita identificar a composição das perdas, bem como, elaboração de plano de ação para sua redução.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Serviço  Autônomo  de  Água  e  Esgoto de  Maués  Saae:\n- 10.3.1. A  elaboração,  no  prazo  máximo  de  90  dias,  de  estudo  que permita identificar a composição das perdas, bem como, elaboração de plano de ação para sua redução.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Recomendação para elaborar estudo sobre perdas e plano de ação para redução, indicando atraso ou falta de planejamento na gestão.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação explicita a necessidade de estudo e plano de ação para reduzir perdas, revelando falha de planejamento financeiro.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "- 10.3.2. A promoção de estudo para atualizar o valor das tarifas bem como a atualização cadastral, com prazo máximo de 180 dias para sua atualização.",
+      "trechos_identificados": [
+        {
+          "trecho": "- 10.3.2. A promoção de estudo para atualizar o valor das tarifas bem como a atualização cadastral, com prazo máximo de 180 dias para sua atualização.",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Recomendação para estudo de atualização de tarifas e cadastramento, implicando em fragilidade na gestão e arrecadação.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para atualização de tarifas e cadastramento sinaliza gestão fiscal deficiente.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "- 10.3.3. A criação de programa de subsídios para aqueles com menor capacidade financeira, por renda e por faixa de consumo.",
+      "trechos_identificados": [
+        {
+          "trecho": "- 10.3.3. A criação de programa de subsídios para aqueles com menor capacidade financeira, por renda e por faixa de consumo.",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A20B",
+          "tipologia_irregularidade": "Concessão de diárias e ajudas de custo irregulares",
+          "descricao": "Recomendação para criar programa de subsídios devido à possível incapacidade financeira, refletindo gestão financeira inadequada.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A recomendação explicita a necessidade de atenção à capacidade financeira dos usuários, e está relacionada à política de gestão de recursos da organização.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "- 10.3.4. A apresentação de planejamento que possibilite acompanhar o  desempenho  no  cumprimento  das  metas  estabelecidas  no  Novo Marco do Saneamento.",
+      "trechos_identificados": [
+        {
+          "trecho": "- 10.3.4. A apresentação de planejamento que possibilite acompanhar o  desempenho  no  cumprimento  das  metas  estabelecidas  no  Novo Marco do Saneamento.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Recomendação para apresentar planejamento, apontando deficiência no acompanhamento do desempenho e cumprimento de metas.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Recomendação para melhoria do planejamento e acompanhamento de metas revela falha estrutural na gestão.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "- 10.3.5. A  adequação  imediata  do  sítio  eletrônico  do  SAAE  Maués (saaemaues.am.gov.br), no sentido de promover a transparência, com informações relativas à sua gestão, tais como, economias, volume de água  produzido,  indicadores  de  perdas,  percentual  de  cobertura  da rede de abastecimento; percentual da cobertura da rede de coleta de esgotos, receitas e despesas, investimentos realizados, dentre outros.",
+      "trechos_identificados": [
+        {
+          "trecho": "- 10.3.5. A  adequação  imediata  do  sítio  eletrônico  do  SAAE  Maués (saaemaues.am.gov.br), no sentido de promover a transparência, com informações relativas à sua gestão, tais como, economias, volume de água  produzido,  indicadores  de  perdas,  percentual  de  cobertura  da rede de abastecimento; percentual da cobertura da rede de coleta de esgotos, receitas e despesas, investimentos realizados, dentre outros.",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Recomendação para adequar o sítio eletrônico do SAAE para promover a transparência, revelando falta de informações.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para adequar o site do SAAE implica falta de transparência na gestão, impactando no controle social.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "- 10.3.6. A  implementação  de  um  programa  sequencial  de  educação ambiental  a  fim  de  que  a  população  contribua  para  o  sucesso  do programa de saneamento básico.",
+      "trechos_identificados": [
+        {
+          "trecho": "- 10.3.6. A  implementação  de  um  programa  sequencial  de  educação ambiental  a  fim  de  que  a  população  contribua  para  o  sucesso  do programa de saneamento básico.",
+          "tema_irregularidade": "MEIO AMBIENTE",
+          "codigo_irregularidade": "T9A95B",
+          "tipologia_irregularidade": "Falta de Integração da Educação Ambiental nos Currículos Escolares",
+          "descricao": "Recomendação para implementar programa de educação ambiental, evidenciando falta de engajamento da população no saneamento.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A recomendação demonstra uma preocupação com a integração da comunidade escolar em temas de sustentabilidade e preservação do meio ambiente.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "- 10.4. Determinar à  DICAMB  e  a  SECEX  que  analisem  a  possibilidade  de apresentar  representação  em  face  da  Prefeitura  de  Maués  para averiguação das ações que seriam de sua responsabilidade no que se refere as falhas na efetividade e eficácia do Sistema de Água e Esgoto da Municipalidade.",
+      "trechos_identificados": [
+        {
+          "trecho": "- 10.4. Determinar à  DICAMB  e  a  SECEX  que  analisem  a  possibilidade  de apresentar  representação  em  face  da  Prefeitura  de  Maués  para averiguação das ações que seriam de sua responsabilidade no que se refere as falhas na efetividade e eficácia do Sistema de Água e Esgoto da Municipalidade.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Determinação para analisar representação devido a falhas na efetividade e eficácia do sistema de água e esgoto.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para analisar representação em face da prefeitura indica problemas sérios na gestão e efetividade do sistema.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

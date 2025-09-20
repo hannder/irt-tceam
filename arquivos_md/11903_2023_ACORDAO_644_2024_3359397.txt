@@ -1,0 +1,38 @@
+{
+  "acordao": "644/2024",
+  "processo": "11903/2023",
+  "data_sessao": "29 de Abril de 2024",
+  "orgao": "Câmara Municipal de Boa Vista do Ramos",
+  "municipio": "Boa Vista do Ramos",
+  "exercicio": "2022",
+  "responsavel": [
+    "Silvano Menezes Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas as contas anuais da Câmara Municipal de Boa Vista do Ramos, exercício de 2022, sob a responsabilidade do Sr. Silvano Menezes Rodrigues , Presidente, com fundamento no art. 22, II e 24 da Lei nº 2.423/96 c.c art. 188, §1º, inciso II da Resolução nº 04/2002-RITCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Silvano Menezes Rodrigues , Presidente e Ordenador de Despesas daquele órgão, que a reincidência das restrições listadas e de outras determinações feitas por esta Corte poderá resultar no julgamento pela irregularidade das próximas prestações de contas, conforme art. 22, §1º, da Lei 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a inclusão das restrições n° 10, 12, 15 e 16 no escopo da Comissão de Inspeção que realizará a fiscalização in loco na Câmara Municipal de Boa Vista do Ramos no ano de 2024 a fim de verificar se eventuais impropriedades foram, de fato, sanadas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Dar ciência",
+      "descricao": "Dar ciência ao Sr. Silvano Menezes Rodrigues e aos demais interessados no processo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivar",
+      "descricao": "Arquivar o processo após cumprimento de decisão.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "acordao": "2056/2022",
+  "processo": "12486/2020",
+  "data_sessao": "29 de Novembro de 2022",
+  "orgao": "Procuradoria Geral de Justiça do Estado do Amazonas-PGJ",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Sra. Leda Mara Nascimento Albuquerque",
+    "Sr. Carlos Fábio Braga Monteiro"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar  regular as  contas  da Procuradoria-Geral  de  Justiça  do Estado  do  Amazonas-PGJ , referentes  ao  exercício  de  2019,  de responsabilidade dos Sra. Leda  Mara  Nascimento  Albuquerque (gestora e ordenadora de despesa) e Sr. Carlos Fábio Braga Monteiro (ordenador  de  despesa),  nos  termos do  art.  22, I,  da  Lei  n. 2423/1996, conforme Fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular as  contas  da Procuradoria-Geral  de  Justiça  do Estado  do  Amazonas-PGJ , referentes  ao  exercício  de  2019,  de responsabilidade dos Sra. Leda  Mara  Nascimento  Albuquerque (gestora e ordenadora de despesa) e Sr. Carlos Fábio Braga Monteiro (ordenador  de  despesa),  nos  termos do  art.  22, I,  da  Lei  n. 2423/1996, conforme Fundamentação do Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação, apesar de julgar as contas regulares, carece de notas explicativas detalhadas que auxiliem na transparência e compreensão das demonstrações contábeis, seguindo os princípios da clareza e da accountability.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "22",
+              "descricao": "Julgar regular as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar  quitação aos Sra.  Leda  Mara  Nascimento  Albuquerque  e Sr. Carlos Fábio Braga Monteiro",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação aos Sra.  Leda  Mara  Nascimento  Albuquerque  e Sr. Carlos Fábio Braga Monteiro",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação, apesar de julgar as contas regulares, carece de notas explicativas detalhadas que auxiliem na transparência e compreensão das demonstrações contábeis, seguindo os princípios da clareza e da accountability.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar  ciência aos Sra.  Leda  Mara  Nascimento  Albuquerque e Sr. Carlos  Fábio  Braga  Monteiro , acerca  deste  Voto  e  do  decisório superveniente",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência aos Sra.  Leda  Mara  Nascimento  Albuquerque e Sr. Carlos  Fábio  Braga  Monteiro , acerca  deste  Voto  e  do  decisório superveniente",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A ação de dar ciência, embora não seja uma irregularidade em si, indica a necessidade de atenção aos prazos e procedimentos estabelecidos para a entrega de informações, que é um aspecto fundamental do controle e da transparência na administração pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Arquivar os autos, expirados os prazos legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, expirados os prazos legais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação de arquivar os autos, embora não constitua uma irregularidade, ressalta a importância da observância dos prazos legais para a conclusão dos processos e a garantia da transparência na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

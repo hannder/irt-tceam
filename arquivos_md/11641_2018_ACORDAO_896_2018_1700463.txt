@@ -1,0 +1,80 @@
+{
+  "acordao": "896/2018",
+  "processo": "11641/2018",
+  "data_sessao": "18 de Dezembro de 2018",
+  "orgao": "Fundo Municipal de Cultura - FMC",
+  "municipio": "Não Identificado",
+  "exercicio": "2017",
+  "responsavel": [
+    "Márcio Gonçalves Bentes de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas do Fundo Municipal de Cultura FMC, no curso do exercício de 2017, de responsabilidade do Sr. Márcio Gonçalves Bentes de Souza , Diretor e Ordenador de Despesas, dando plena quitação ao responsável, nos termos dos artigos 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 189, I, Resolução nº 04/2002-TCE/AM - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Fundo Municipal de Cultura FMC, no curso do exercício de 2017, de responsabilidade do Sr. Márcio Gonçalves Bentes de Souza , Diretor e Ordenador de Despesas, dando plena quitação ao responsável, nos termos dos artigos 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 189, I, Resolução nº 04/2002-TCE/AM - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares e não apresenta indícios de problemas estruturais na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Márcio Gonçalves Bentes de Souza do respectivo Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Márcio Gonçalves Bentes de Souza do respectivo Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho indica uma comunicação formal sobre o acórdão, sem apontar irregularidades ou problemas de gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve um procedimento padrão de arquivamento, sem indicar irregularidades ou problemas de gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

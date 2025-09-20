@@ -1,0 +1,39 @@
+{
+    "acordao": "1133/2020",
+    "processo": "11696/2019",
+    "data_sessao": "03 de Dezembro de 2020",
+    "orgao": "Instituto de Desenvolvimento Agropecuário e Florestal Sustentável do Estado do Amazonas - IDAM",
+    "municipio": "Manaus",
+    "exercicio": "2018",
+    "responsavel": [
+        "Luiz Carlos do Herval Filho"
+    ],
+    "itens": [
+        {
+            "tipo": "irregularidade",
+            "descricao": "Aplicar Multa ao Sr. Luiz Carlos do Herval Filho no valor de R$ 6.000,00 (seis mil reis) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, nos termos do art. 54, inciso IV da Lei nº 2.423/96 c/c art. 308,  inciso  I,  alínea  a,  da  Resolução  04/2002-TCE/AM,  por  conta  das impropriedades  não  sanadas  no  item  10,  do  relatório  conclusivo nº 42/2019-DICAI, e nos itens 3 e 5 da Informação conclusiva nº 260/2019 DICAI/AM",
+            "trechos_identificados": [
+                {
+                    "trecho": "Aplicar Multa ao Sr. Luiz Carlos do Herval Filho no valor de R$ 6.000,00 (seis mil reis) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, nos termos do art. 54, inciso IV da Lei nº 2.423/96 c/c art. 308,  inciso  I,  alínea  a,  da  Resolução  04/2002-TCE/AM,  por  conta  das impropriedades  não  sanadas  no  item  10,  do  relatório  conclusivo nº 42/2019-DICAI, e nos itens 3 e 5 da Informação conclusiva nº 260/2019 DICAI/AM",
+                    "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+                    "codigo_irregularidade": "T4A6A",
+                    "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+                    "descricao": "O pagamento de multa é consequência de outras irregularidades detectadas nos relatórios mencionados.",
+                    "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"relatório conclusivo nº 42/2019-DICAI e Informação conclusiva nº 260/2019 DICAI/AM\"; justificativa=\"A multa é aplicada em razão de impropriedades não sanadas, indicando falhas na gestão financeira e orçamentária.\"",
+                    "fundamentacao_legal": [
+                        {
+                            "norma": "Lei nº 2.423/96",
+                            "artigo": "54, inciso IV",
+                            "descricao": "Define as sanções aplicáveis em caso de irregularidades nas contas."
+                        },
+                        {
+                            "norma": "Resolução 04/2002-TCE/AM",
+                            "artigo": "308, inciso I, alínea a",
+                            "descricao": "Regulamenta os procedimentos para aplicação de multas pelo TCE/AM."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

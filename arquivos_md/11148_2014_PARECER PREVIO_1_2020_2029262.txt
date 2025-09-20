@@ -1,0 +1,304 @@
+{
+  "acordao": "1/2020",
+  "processo": "11148/2014",
+  "data_sessao": "2020-02-04",
+  "orgao": "Prefeitura Municipal de São Paulo de Olivença",
+  "municipio": "São Paulo de Olivença",
+  "exercicio": "2013",
+  "responsavel": [
+    "Raimundo Nonato Souza Martins"
+  ],
+  "itens": [
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa com fundamento no art. 308, VII, do RI-TCE/AM c/c art. 53, parágrafo único, da Lei n.º 2.423/96, ao Sr. Raimundo Nonato Souza Martins no valor de R$ 10.000,00 (Dez mil reais) devido às irregularidades abaixo descritas e determinar o recolhimento no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de serviço de informação ao cidadão com instalações físicas de atendimento a interessados consoante Lei n.º 12.527/2011",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de serviço de informação ao cidadão com instalações físicas de atendimento a interessados consoante Lei n.º 12.527/2011",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho descreve a ausência de um serviço essencial de informação ao cidadão, impactando negativamente a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 12.527/2011",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Acesso à Informação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de registros analíticos de todos os bens de caráter permanente com indicação dos elementos necessários para a perfeita caracterização de cada um deles e dos agentes responsáveis pela sua guarda e administração",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de registros analíticos de todos os bens de caráter permanente com indicação dos elementos necessários para a perfeita caracterização de cada um deles e dos agentes responsáveis pela sua guarda e administração",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "Ausência de registros detalhados dos bens patrimoniais dificulta o controle e a responsabilização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Não especificado",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não envio de atos de pessoal por meio do sistema ACP",
+      "trechos_identificados": [
+        {
+          "trecho": "Não envio de atos de pessoal por meio do sistema ACP",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas.",
+          "justificativa_tipologia": "Não envio de informações impede o controle e a transparência dos atos de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Não especificado",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Pagamentos, às expensas do Poder Executivo Municipal, de proventos e pensões, quando há servidores submetidos ao RPPS",
+      "trechos_identificados": [
+        {
+          "trecho": "Pagamentos, às expensas do Poder Executivo Municipal, de proventos e pensões, quando há servidores submetidos ao RPPS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A83A",
+          "tipologia_irregularidade": "Ausência de pagamento devido",
+          "descricao": "Ausência de pagamento de valores devidos a trabalhadores, como salários, horas extras, férias, etc.",
+          "justificativa_tipologia": "Pagamento inadequado de proventos e pensões indica falha na gestão do RPPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Não especificado",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não atendimento da Lei Complementar n.º 01/2012 e da Lei Municipal n.º  11/2011, os quais versam sobre Estatuto e Plano de Carreiras dos Servidores Públicos do Município de São Paulo de Olivença, visto que há mais servidores labutando do que cargos públicos criados",
+      "trechos_identificados": [
+        {
+          "trecho": "Não atendimento da Lei Complementar n.º 01/2012 e da Lei Municipal n.º  11/2011, os quais versam sobre Estatuto e Plano de Carreiras dos Servidores Públicos do Município de São Paulo de Olivença, visto que há mais servidores labutando do que cargos públicos criados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles.",
+          "justificativa_tipologia": "Número excessivo de servidores em relação aos cargos criados indica irregularidade na gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 01/2012",
+              "artigo": "Não especificado",
+              "descricao": "Estatuto dos Servidores Públicos do Município de São Paulo de Olivença"
+            },
+            {
+              "norma": "Lei Municipal n.º 11/2011",
+              "artigo": "Não especificado",
+              "descricao": "Plano de Carreiras dos Servidores Públicos do Município de São Paulo de Olivença"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Termo de contrato n.º 005/2013-PSPO (Ausência de anotação de responsabilidade técnica do profissional incumbido de elaborar projeto básico e ausência de anotação de responsabilidade técnica do responsável pela execução dos serviços)",
+      "trechos_identificados": [
+        {
+          "trecho": "Termo de contrato n.º 005/2013-PSPO (Ausência de anotação de responsabilidade técnica do profissional incumbido de elaborar projeto básico e ausência de anotação de responsabilidade técnica do responsável pela execução dos serviços)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A17B",
+          "tipologia_irregularidade": "O Projeto Básico não foi elaborado por profissional legalmente habilitado com o registro ART ou RRT, junto ao respectivo Conselho",
+          "descricao": "O Projeto Básico não foi elaborado por profissional legalmente habilitado com o registro ART ou RRT, junto ao respectivo Conselho",
+          "justificativa_tipologia": "O trecho descreve a ausência de ART/RRT, documentos essenciais para a responsabilização técnica em obras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Não especificado",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Carta-Contrato n.º 139/2013-PSPO (Ausência de convites e seus anexos, não exigência de orçamento analítico, ausência de anotação de responsabilidade técnica do profissional incumbido de elaborar projeto básico, ausência de anotação de responsabilidade técnica do responsável pela execução dos serviços, ausência de documentos de ordem técnica subscrito por profissional habilitado, ausência de planilhas de medição e ausência de termo de recebimento provisório e definitivo dos serviços prestados)",
+      "trechos_identificados": [
+        {
+          "trecho": "Carta-Contrato n.º 139/2013-PSPO (Ausência de convites e seus anexos, não exigência de orçamento analítico, ausência de anotação de responsabilidade técnica do profissional incumbido de elaborar projeto básico, ausência de anotação de responsabilidade técnica do responsável pela execução dos serviços, ausência de documentos de ordem técnica subscrito por profissional habilitado, ausência de planilhas de medição e ausência de termo de recebimento provisório e definitivo dos serviços prestados)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "Ausência de documentos essenciais no processo contratual indica irregularidades graves.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Não especificado",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Termo de contrato n.º 003/2012-PSPO (ausência de atestado fornecido por outro órgão ou entidade públicos confirmando que a licitante havia realizado objeto semelhante conforme exigência, ausência de anotação de responsabilidade técnica do profissional responsável pela elaboração de projeto básico, ausência de notas de empenho, ausência de anotação de responsabilidade técnica do responsável pela execução da obra, ausência de comprovantes de pagamento, ausência de laudos de medição, ausência de justificativas para a demora na conclusão do serviço e dano ao erário na ordem de R$ 94.749,36 (Noventa e quatro mil, setecentos e quarenta e nove reais e trinta e seis centavos) por execução apenas parcial de escola na comunidade São Domingos)",
+      "trechos_identificados": [
+        {
+          "trecho": "Termo de contrato n.º 003/2012-PSPO (ausência de atestado fornecido por outro órgão ou entidade públicos confirmando que a licitante havia realizado objeto semelhante conforme exigência, ausência de anotação de responsabilidade técnica do profissional responsável pela elaboração de projeto básico, ausência de notas de empenho, ausência de anotação de responsabilidade técnica do responsável pela execução da obra, ausência de comprovantes de pagamento, ausência de laudos de medição, ausência de justificativas para a demora na conclusão do serviço e dano ao erário na ordem de R$ 94.749,36 (Noventa e quatro mil, setecentos e quarenta e nove reais e trinta e seis centavos) por execução apenas parcial de escola na comunidade São Domingos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A2B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "Ausência de documentos e irregularidades na execução contratual resultam em dano ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Não especificado",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Carta  Convite  n.º  034B/2013 (Ausência  de  Projetos  Arquitetônicos, incluindo desenhos, memoriais de cálculo, tabelas, Ausência de Indicação precisa dos elementos de reforma, como, demolições, novas construções, o  que  estava  construído,  o  que  seria  ampliado  e  demais elementos suficientes e necessários que possibilitem a melhor avaliação do custo da obra e a definição dos métodos e do prazo de execução, Ausência de Projetos complementares de Instalações Elétricas e Hidrossanitárias, incluindo desenhos, tabelas e memoriais de cálculo, Ausência  de  Indicação  da  base  de  dados  utilizada  para  o levantamento dos custos dos itens de serviço, Ausência de Anotação de Responsabilidade Técnica -ART  dos responsáveis técnicos pela elaboração  do  Projeto  Básico  e/ou  Orçamento, Documentos  de  ordem técnica não foram subscritos por profissional legalmente habilitado, com menção  ao  título  profissional,  nome  e  registro  no  CREA,  conforme disposição dos art. 13 e 14 da Lei 5.194/66 c/c o art. 1º da resolução nº 282/83  CONFEA, ausência de Documentos de liquidação  da  despesa: Planilhas de medição, Laudos de medição, comprovação do recolhimento de tributos, Notas de Liquidação e autorização de pagamento  e  ausência  de  Termo  de  Recebimento  Provisório  e/ou Definitivo)",
+      "trechos_identificados": [
+        {
+          "trecho": "Carta  Convite  n.º  034B/2013 (Ausência  de  Projetos  Arquitetônicos, incluindo desenhos, memoriais de cálculo, tabelas, Ausência de Indicação precisa dos elementos de reforma, como, demolições, novas construções, o  que  estava  construído,  o  que  seria  ampliado  e  demais elementos suficientes e necessários que possibilitem a melhor avaliação do custo da obra e a definição dos métodos e do prazo de execução, Ausência de Projetos complementares de Instalações Elétricas e Hidrossanitárias, incluindo desenhos, tabelas e memoriais de cálculo, Ausência  de  Indicação  da  base  de  dados  utilizada  para  o levantamento dos custos dos itens de serviço, Ausência de Anotação de Responsabilidade Técnica -ART  dos responsáveis técnicos pela elaboração  do  Projeto  Básico  e/ou  Orçamento, Documentos  de  ordem técnica não foram subscritos por profissional legalmente habilitado, com menção  ao  título  profissional,  nome  e  registro  no  CREA,  conforme disposição dos art. 13 e 14 da Lei 5.194/66 c/c o art. 1º da resolução nº 282/83  CONFEA, ausência de Documentos de liquidação  da  despesa: Planilhas de medição, Laudos de medição, comprovação do recolhimento de tributos, Notas de Liquidação e autorização de pagamento  e  ausência  de  Termo  de  Recebimento  Provisório  e/ou Definitivo)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A9C",
+          "tipologia_irregularidade": "O Projeto Básico não possui Desenhos Técnicos que representem os elementos gráficos mínimos para caracterização/execução do objeto",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial.",
+          "justificativa_tipologia": "Ausência de elementos essenciais no projeto básico impossibilita o controle e a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 5.194/66",
+              "artigo": "13 e 14",
+              "descricao": "Dispõe sobre o exercício das profissões de Engenheiro, Arquiteto e Engenheiro-Agrônomo."
+            },
+            {
+              "norma": "resolução nº 282/83 CONFEA",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre a obrigatoriedade da Anotação de Responsabilidade Técnica (ART) nos serviços de engenharia, arquitetura e agronomia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Carta-Contrato n.º 002/2013-PSPO (Projeto  básico  inconsistente,  visto que não foram especificados os itens de serviço que seriam produzidos, ausência  de  cronograma  físico-financeiro, ausência  de portaria de designação  dos  responsáveis  por  fiscalizar  o  contrato,  ausência  de comprovantes  de  recolhimento  de  tributos  municipais  e  ausência  de termo de recebimento provisório e definitivo)",
+      "trechos_identificados": [
+        {
+          "trecho": "Carta-Contrato n.º 002/2013-PSPO (Projeto  básico  inconsistente,  visto que não foram especificados os itens de serviço que seriam produzidos, ausência  de  cronograma  físico-financeiro, ausência  de portaria de designação  dos  responsáveis  por  fiscalizar  o  contrato,  ausência  de comprovantes  de  recolhimento  de  tributos  municipais  e  ausência  de termo de recebimento provisório e definitivo)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial.",
+          "justificativa_tipologia": "Projeto básico inadequado e falta de fiscalização comprometem a execução e o controle da obra.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Não especificado",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão da Prefeitura Municipal de São Paulo de Olivença que cumpra as determinações sugeridas no Voto bem como à Câmara Municipal de São Paulo de Olivença que observe o prazo descrito no art. 127, § 6º, da Constituição Estadual para julgamento das Contas do ex-Prefeito, com base no Parecer Prévio fornecido por este TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à atual gestão da Prefeitura Municipal de São Paulo de Olivença que cumpra as determinações sugeridas no Voto bem como à Câmara Municipal de São Paulo de Olivença que observe o prazo descrito no art. 127, § 6º, da Constituição Estadual para julgamento das Contas do ex-Prefeito, com base no Parecer Prévio fornecido por este TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não aplicável",
+          "codigo_irregularidade": "Não aplicável",
+          "tipologia_irregularidade": "Não aplicável",
+          "descricao": "Não aplicável",
+          "justificativa_tipologia": "Não aplicável",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "127, § 6º",
+              "descricao": "Prazo para julgamento das Contas do ex-Prefeito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Raimundo  Nonato  Souza  Martins , à  Câmara Municipal de São Paulo de Olivença, para que proceda ao procedimento previsto no art. 127, § 5º, da Constituição Estadual, e à atual gestão da Prefeitura Municipal de São Paulo de Olivença.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Raimundo  Nonato  Souza  Martins , à  Câmara Municipal de São Paulo de Olivença, para que proceda ao procedimento previsto no art. 127, § 5º, da Constituição Estadual, e à atual gestão da Prefeitura Municipal de São Paulo de Olivença.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não aplicável",
+          "codigo_irregularidade": "Não aplicável",
+          "tipologia_irregularidade": "Não aplicável",
+          "descricao": "Não aplicável",
+          "justificativa_tipologia": "Não aplicável",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "127, § 5º",
+              "descricao": "Procedimento a ser seguido."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

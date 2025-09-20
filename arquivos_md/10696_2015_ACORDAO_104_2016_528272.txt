@@ -1,0 +1,158 @@
+{
+  "acordao": "104/2016",
+  "processo": "10696/2015",
+  "data_sessao": "17 de Fevereiro de 2016",
+  "orgao": "Câmara Municipal de Humaitá",
+  "municipio": "Humaitá",
+  "exercicio": "2014",
+  "responsavel": [
+    "Rademacker Chaves"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar REGULAR COM RESSALVAS",
+      "descricao": "Julgar REGULAR COM RESSALVAS , com fulcro no artigo art. 22, II da Lei  nº  2.423/96,  a  Prestação  de  Contas,  referente  ao  exercício  de  2014,  da  Câmara Municipal de Humaitá, de responsabilidade do Senhor Rademacker Chaves , Presidente e Ordenador de Despesas, à época;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multar",
+      "descricao": "Multar o  Senhor  Rademacker  Chaves,  na  forma  prevista  no  art.  308, inciso II, da Resolução 04/2002, no montante de R$ 2.192,06 (dois mil cento e noventa e dois reais e seis centavos), referente aos atrasos no envio, via GEFIS, do Relatório de Gestão Fiscal, referente ao 1º e 2º semestres;",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o  Senhor  Rademacker  Chaves,  na  forma  prevista  no  art.  308, inciso II, da Resolução 04/2002, no montante de R$ 2.192,06 (dois mil cento e noventa e dois reais e seis centavos), referente aos atrasos no envio, via GEFIS, do Relatório de Gestão Fiscal, referente ao 1º e 2º semestres",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio dos relatórios de gestão fiscal via GEFIS, o que está relacionado ao tema de envio de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002",
+              "artigo": "308, inciso II",
+              "descricao": "Artigo que fundamenta a aplicação de multa por atraso no envio de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar  o  prazo de  30  (trinta)  dias  (artigo  174  do  RITCE),  para  que  o Senhor Rademacker Chaves, recolha aos cofres da Fazenda Estadual o valor da multa ora  aplicada,  com  a  devida,  comprovação  nos  autos,  o  qual  deverá  ser  atualizado monetariamente,  na  hipótese  de  expirar  o  prazo  concedido  (artigo  55,  da  Lei  nº. 2423/1996 - LOTCE), ficando a DICREX autorizada a adotar as medidas das Subseções III e IV da Secção III, do Capítulo X, da Resolução nº. 04/2002-RITCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar  o  prazo de  30  (trinta)  dias  (artigo  174  do  RITCE),  para  que  o Senhor Rademacker Chaves, recolha aos cofres da Fazenda Estadual o valor da multa ora  aplicada,  com  a  devida,  comprovação  nos  autos,  o  qual  deverá  ser  atualizado monetariamente,  na  hipótese  de  expirar  o  prazo  concedido  (artigo  55,  da  Lei  nº. 2423/1996 - LOTCE), ficando a DICREX autorizada a adotar as medidas das Subseções III e IV da Secção III, do Capítulo X, da Resolução nº. 04/2002-RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Fixação de prazo para recolhimento de valores, em si, não indica uma irregularidade, porém está relacionada com a execução orçamentária",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE",
+              "artigo": "174",
+              "descricao": "Fixa o prazo para o recolhimento da multa."
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "55",
+              "descricao": "Determina a atualização monetária em caso de expiração do prazo concedido para recolhimento."
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "Seções III e IV da Secção III, do Capítulo X",
+              "descricao": "Autoriza a DICREX a adotar medidas em caso de não recolhimento no prazo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à  atual  Administração  da  Câmara  Municipal  de  Humaitá para: Manter atualizado o Portal Transparência , com as informações  pormenorizadas  sobre  a  execução  orçamentária  e  financeira  da  Câmara disponibilizadas à sociedade, via internet, em tempo real, conforme determina o princípio da transparência e os artigos 48, inciso II, e 48 - A, da Lei de Responsabilidade Fiscal, c/c o artigo 8º, da Lei nº. 12.527/2011 (caput e §§ 1º e 2º); Elaborar  os  Relatórios de Viagens  relativos as diárias concedidas aos servidores da Câmara com informações mais detalhadas a respeito dos objetivos e finalidades das viagens",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  atual  Administração  da  Câmara  Municipal  de  Humaitá para: Manter atualizado o Portal Transparência , com as informações  pormenorizadas  sobre  a  execução  orçamentária  e  financeira  da  Câmara disponibilizadas à sociedade, via internet, em tempo real, conforme determina o princípio da transparência e os artigos 48, inciso II, e 48 - A, da Lei de Responsabilidade Fiscal, c/c o artigo 8º, da Lei nº. 12.527/2011 (caput e §§ 1º e 2º)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação de manter o portal da transparência atualizado está diretamente relacionada à tipologia de ausência de divulgação de publicações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "48, inciso II, e 48-A",
+              "descricao": "Determina a transparência na gestão fiscal, incluindo a disponibilização de informações sobre a execução orçamentária e financeira."
+            },
+            {
+              "norma": "Lei nº. 12.527/2011",
+              "artigo": "8º (caput e §§ 1º e 2º)",
+              "descricao": "Regulamenta o direito de acesso à informação, incluindo a divulgação de informações de interesse público."
+            }
+          ]
+        },
+        {
+          "trecho": "Elaborar  os  Relatórios de Viagens  relativos as diárias concedidas aos servidores da Câmara com informações mais detalhadas a respeito dos objetivos e finalidades das viagens",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A recomendação de elaborar relatórios de viagens detalhados está relacionada com a tipologia de ausência ou falha na prestação de contas de diárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificar",
+      "descricao": "Notificar o  Senhor Rademacker Chaves, com cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso;",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o  Senhor Rademacker Chaves, com cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a um procedimento padrão do TCE, e não a uma irregularidade em si. O responsável pela unidade administrativa é notificado da decisão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Adoção de providências",
+      "descricao": "Após a ocorrência da coisa julgada administrativa, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE, adotar as providências do  artigo  162, §2º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Após a ocorrência da coisa julgada administrativa, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE, adotar as providências do  artigo  162, §2º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a um procedimento padrão do TCE, e não a uma irregularidade em si. Refere-se aos procedimentos internos a serem adotados após o trânsito em julgado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "159 e 160",
+              "descricao": "Dispõe sobre os termos da coisa julgada administrativa."
+            },
+            {
+              "norma": "RITCE",
+              "artigo": "162, §2º",
+              "descricao": "Dispõe sobre as providências a serem adotadas após a ocorrência da coisa julgada administrativa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

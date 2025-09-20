@@ -1,0 +1,104 @@
+{
+  "acordao": "1250/2019",
+  "processo": "11455/2018",
+  "data_sessao": "2019-12-03",
+  "orgao": "Hospital  Infantil Dr.Fajardo",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Aly Nasser Abrahim Ballut"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr.Aly  Nasser  Abrahim Ballut,  então  Diretor-Geral  do  Hospital  Infantil  Dr.  Fajardo,  exercício  de 2017, nos termos dos arts. 22, III, b , da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  Sr.Aly  Nasser  Abrahim Ballut,  então  Diretor-Geral  do  Hospital  Infantil  Dr.  Fajardo,  exercício  de 2017, nos termos dos arts. 22, III, b , da Lei nº 2.423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas foi considerada irregular, o que significa que houve falhas ou omissões na documentação, dificultando o acompanhamento da gestão dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III, b",
+              "descricao": "Fundamenta a decisão de julgar irregular a prestação de contas devido a falhas identificadas na gestão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa ao  Sr. Aly Nasser  Abrahim  Ballut  no  valor  de  R$ 14.000,00 (Catorze Mil), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Sr. Aly Nasser  Abrahim  Ballut  no  valor  de  R$ 14.000,00 (Catorze Mil), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho descreve a aplicação de uma multa a um responsável, indicando uma sanção financeira por irregularidades encontradas, e o destino dos recursos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho especifica os procedimentos para o cumprimento da multa e as consequências do não pagamento, destacando a necessidade de comprovação e os meios de cobrança.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Estabelece a obrigatoriedade do encaminhamento do comprovante de pagamento e as consequências do não cumprimento da obrigação pecuniária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Recomendar aos  atuais  e  futuros  gestores  do  Hospital  Infantil  Dr. Fajardo que  observem,  rigorosamente,  as  normas  que  regem  suas atividades, notadamente aquelas relativas à atuação proba, gerencial e eficiente da  Administração  Pública  na  realização  de  contratações públicas, por licitação, ou mesmo de suas dispensas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar aos  atuais  e  futuros  gestores  do  Hospital  Infantil  Dr. Fajardo que  observem,  rigorosamente,  as  normas  que  regem  suas atividades, notadamente aquelas relativas à atuação proba, gerencial e eficiente da  Administração  Pública  na  realização  de  contratações públicas, por licitação, ou mesmo de suas dispensas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "O trecho recomenda a observância das normas em contratações públicas e suas dispensas, sugerindo que houve problemas nesses processos, como justificativas inadequadas para dispensas de licitação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "notificação",
+      "descricao": "Notificar o  Sr. Aly  Nasser  Abrahim  Ballut ,  com  cópia  do  Acórdão, Relatório/voto, para ciência do feito e interposição de recurso apropriado, caso queira.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o  Sr. Aly  Nasser  Abrahim  Ballut ,  com  cópia  do  Acórdão, Relatório/voto, para ciência do feito e interposição de recurso apropriado, caso queira.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Este trecho é uma notificação formal, um procedimento administrativo padrão, e não indica diretamente uma irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

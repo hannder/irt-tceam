@@ -1,0 +1,216 @@
+{
+  "acordao": "748/2015",
+  "processo": "1439/2014",
+  "data_sessao": "16 de Setembro de 2015",
+  "orgao": "Companhia de Saneamento do Amazonas - COSAMA",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Heraldo Beleza da Câmara"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Heraldo Beleza da Câmara ,  Diretor-Presidente da Companhia  de Saneamento do Amazonas  COSAMA, exercício 2013, com fulcro no art. 22, II c/c art. 24 da Lei 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Heraldo Beleza da Câmara ,  Diretor-Presidente da Companhia  de Saneamento do Amazonas  COSAMA, exercício 2013, com fulcro no art. 22, II c/c art. 24 da Lei 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Ainda que julgadas regulares com ressalva, as contas demonstram ausência de informações importantes sobre as demonstrações contábeis",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22, II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "24",
+              "descricao": "Fundamentação legal para a emissão de ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Multar o Sr.  Heraldo  Beleza  da  Câmara, no  valor  de R$  4.468,42 (Quatro  mil,  quatrocentos  e  sessenta  e  oito  reais  e  quarenta  e  dois  centavos),  pelo descumprimento  dos  princípios  contábeis  e  de  administração  pública  (subitem  10.4  do Relatório/Voto), com fulcro no art. 53, Parágrafo Único, da Lei Orgânica 2.423/96 com a nova redação dada pelo art. 2º da Lei Complementar nº 114/2013.",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Sr.  Heraldo  Beleza  da  Câmara, no  valor  de R$  4.468,42 (Quatro  mil,  quatrocentos  e  sessenta  e  oito  reais  e  quarenta  e  dois  centavos),  pelo descumprimento  dos  princípios  contábeis  e  de  administração  pública  (subitem  10.4  do Relatório/Voto), com fulcro no art. 53, Parágrafo Único, da Lei Orgânica 2.423/96 com a nova redação dada pelo art. 2º da Lei Complementar nº 114/2013.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A aplicação de multa ao responsável decorre do descumprimento de princípios contábeis e de administração pública, apontando para uma possível má gestão dos recursos, passivel de gerar dano ao erário",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica 2.423/96",
+              "artigo": "53",
+              "descricao": "Sanções aplicáveis aos responsáveis em caso de irregularidades"
+            },
+            {
+              "norma": "Lei Complementar nº 114/2013",
+              "artigo": "2",
+              "descricao": "Alteração da redação do art. 53 da Lei Orgânica 2.423/96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o prazo de 30  dias  para  recolher a  multa  aos cofres  da Fazenda Pública Estadual nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM, e caso não seja recolhida, proceda à inscrição na dívida ativa, em consonância com art. 73 da Lei nº 2.423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o prazo de 30  dias  para  recolher a  multa  aos cofres  da Fazenda Pública Estadual nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM, e caso não seja recolhida, proceda à inscrição na dívida ativa, em consonância com art. 73 da Lei nº 2.423/1996.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "A determinação visa garantir o recolhimento de valores devidos ao erário, evitando prejuízos à gestão fiscal e ao equilíbrio das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Procedimentos relativos à aplicação de multas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Procedimentos para recolhimento de multas"
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "73",
+              "descricao": "Procedimentos para inscrição em dívida ativa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar  à  atual  Direção  da  Companhia  de  Saneamento  do Amazonas - COSAMA: que  observe, com  maior  rigor,  o  cumprimento  da  Lei  de Licitações 8.666/93;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  à  atual  Direção  da  Companhia  de  Saneamento  do Amazonas - COSAMA: que  observe, com  maior  rigor,  o  cumprimento  da  Lei  de Licitações 8.666/93;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Deficiências no controle e fiscalização da execução contratual.",
+          "justificativa_tipologia": "A recomendação de maior rigor no cumprimento da Lei de Licitações indica uma preocupação com a gestão e a legalidade dos processos licitatórios, visando evitar irregularidades em contratações públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  de Licitações 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o processo licitatório"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar  à  atual  Direção  da  Companhia  de  Saneamento  do Amazonas - COSAMA: que  observe,  com  maior  rigor,  o  cumprimento  do  Decreto 21.178/2000 e Decreto 24.818/2005;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  à  atual  Direção  da  Companhia  de  Saneamento  do Amazonas - COSAMA: que  observe,  com  maior  rigor,  o  cumprimento  do  Decreto 21.178/2000 e Decreto 24.818/2005;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Deficiências no controle e fiscalização da execução contratual.",
+          "justificativa_tipologia": "A recomendação de maior rigor no cumprimento dos decretos visa a melhoria da gestão e a legalidade dos processos administrativos internos, em especial a execução contratual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto 21.178/2000",
+              "artigo": "Não consta",
+              "descricao": "Regulamentação interna da Companhia"
+            },
+            {
+              "norma": "Decreto 24.818/2005",
+              "artigo": "Não consta",
+              "descricao": "Regulamentação interna da Companhia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar  à  atual  Direção  da  Companhia  de  Saneamento  do Amazonas - COSAMA: que observe, com maior rigor, os procedimentos administrativos necessários à correta manutenção da Unidade, inclusive a Lei 4.320/64.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  à  atual  Direção  da  Companhia  de  Saneamento  do Amazonas - COSAMA: que observe, com maior rigor, os procedimentos administrativos necessários à correta manutenção da Unidade, inclusive a Lei 4.320/64.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação de maior rigor nos procedimentos administrativos indica falhas nos processos de controle interno, com o objetivo de melhorar a conformidade e a eficiência na gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "Não consta",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Comunicação",
+      "descricao": "Comunicar  à  atual Direção  da  Companhia  de  Saneamento  do Amazonas COSAMA que a reincidência poderá acarretar na irregularidade das contas futuras, nos termos do art. 22, III, §1º da Lei 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar  à  atual Direção  da  Companhia  de  Saneamento  do Amazonas COSAMA que a reincidência poderá acarretar na irregularidade das contas futuras, nos termos do art. 22, III, §1º da Lei 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "A comunicação sobre a possibilidade de irregularidade das contas futuras em caso de reincidência indica que as falhas apontadas são significativas e podem comprometer a gestão da entidade, exigindo atenção e medidas corretivas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22, III, §1º",
+              "descricao": "Advertência sobre as consequências da reincidência em irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à próxima Comissão de Inspeção que verifique o efetivo cumprimento das determinações/recomendações, a fim de verificar possíveis reincidências.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à próxima Comissão de Inspeção que verifique o efetivo cumprimento das determinações/recomendações, a fim de verificar possíveis reincidências.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para que a próxima Comissão de Inspeção verifique o cumprimento das determinações indica que o controle interno da entidade é falho ou inexistente, sendo necessário o acompanhamento externo para garantir a correção das irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

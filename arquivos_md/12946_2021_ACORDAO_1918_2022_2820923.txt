@@ -1,0 +1,33 @@
+{
+  "acordao": "1918/2022",
+  "processo": "12946/2021",
+  "data_sessao": "08 de Novembro de 2022",
+  "orgao": "Instituto de Previdência Social dos Servidores Públicos Municipais de Humaitá",
+  "municipio": "Humaitá",
+  "exercicio": "2020",
+  "responsavel": [
+    "Raimundo Alves de Aguiar"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a Prestação  de  Contas  Anual  do  Instituto de Previdência Social dos Servidores Públicos Municipais de Humaitá-HUMAITAPREV, referente ao exercício de 2020, de responsabilidade  do Sr. Raimundo Alves de Aguiar",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Raimundo Alves de Aguiar , Superintendente da HUMAITAPREV à época",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Raimundo  Alves  de  Aguiar e  aos  demais interessados do teor desta decisão",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  presente  processo  após  cumpridos  os  itens  anteriores, nos termos regimentais.",
+      "trechos_identificados": []
+    }
+  ]
+}

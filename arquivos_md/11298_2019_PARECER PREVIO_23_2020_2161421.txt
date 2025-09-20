@@ -1,0 +1,214 @@
+{
+  "acordao": "23/2020",
+  "processo": "11298/2019",
+  "data_sessao": "09 de Setembro de 2020",
+  "orgao": "Prefeitura Municipal de Tefé",
+  "municipio": "Tefé",
+  "exercicio": "2018",
+  "responsavel": [
+    "Normando Bessa de Sá"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas da Prefeitura Municipal de Tefé, referente ao exercício de 2018, tendo como responsável o Sr. Normando Bessa de Sá , Prefeito e Ordenador de Despesas, nos termos do art. 19, inciso  II  c/c  o  art.  22,  inciso  III,  alíneas  'b'  e  'c',  da  Lei  Orgânica  deste Tribunal de Contas n° 2.423/96, em razão das falhas supracitadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas da Prefeitura Municipal de Tefé, referente ao exercício de 2018, tendo como responsável o Sr. Normando Bessa de Sá , Prefeito e Ordenador de Despesas, nos termos do art. 19, inciso  II  c/c  o  art.  22,  inciso  III,  alíneas  'b'  e  'c',  da  Lei  Orgânica  deste Tribunal de Contas n° 2.423/96, em razão das falhas supracitadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição menciona falhas na prestação de contas, o que pode estar relacionado à ausência de informações importantes que deveriam constar nas notas explicativas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c'",
+              "descricao": "Base legal para julgar irregular a prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Considerar em alcance",
+      "descricao": "Considerar  em  Alcance o Sr.  Normando  Bessa  de  Sa , Prefeito  e Ordenador de Despesas, no montante de R$ 58.531,30 (cinquenta e oito mil, quinhentos e trinta e um reais e trinta centavos), nos termos do art. 304, inciso II, da Resolução nº 04/2002-TCE/AM, em virtude da diferença detectada  nas  disponibilidades  financeiras  da  Prefeitura  Municipal  de Tefé, por ocasião da análise do saldo para o exercício seguinte registrado no Balanço Financeiro de 2018 e cópias dos extratos bancário/aplicações financeiras encaminhados na Conciliação Bancária/Prestação de Contas, constante  nos  itens  15  e  16,  da  fundamentação  do Relatório/Voto,  que devem ser recolhidos, no prazo de 30 dias ,  na  esfera  Municipal para o órgão Prefeitura Municipal de Tefé.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr.  Normando  Bessa  de  Sa , Prefeito  e Ordenador de Despesas, no montante de R$ 58.531,30 (cinquenta e oito mil, quinhentos e trinta e um reais e trinta centavos), nos termos do art. 304, inciso II, da Resolução nº 04/2002-TCE/AM, em virtude da diferença detectada  nas  disponibilidades  financeiras  da  Prefeitura  Municipal  de Tefé, por ocasião da análise do saldo para o exercício seguinte registrado no Balanço Financeiro de 2018 e cópias dos extratos bancário/aplicações financeiras encaminhados na Conciliação Bancária/Prestação de Contas, constante  nos  itens  15  e  16,  da  fundamentação  do Relatório/Voto,  que devem ser recolhidos, no prazo de 30 dias ,  na  esfera  Municipal para o órgão Prefeitura Municipal de Tefé.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A consideração em alcance devido a diferenças nas disponibilidades financeiras pode indicar burla no processo de pagamento, possivelmente através de pagamentos irregulares a fornecedores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso II",
+              "descricao": "Base legal para a consideração em alcance do responsável."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Normando Bessa de Sa , Prefeito Municipal de Tefé e  Ordenador  de  Despesas, no  valor  de  R$  1.706,80  (mil,  setecentos  e seis  reais  e  oitenta  centavos),  nos  termos  do  art.  54,  I  'a',  da  Lei  n° 2.423/96-TCE/AM, alterada pela Lei Complementar n° 204/2020-TCE/AM c/c  art.  308,  I,  'a',  da  Resolução  n.º  04/2002-TCE/AM,  alterada  pela Resolução  n.º  4/2018  -  TCE/AM,  pelo  descumprimento  do  prazo  na inserção dos dados contábeis (janeiro a maio e julho a dezembro/2018), perfazendo  o  montante  de R$  18.774,80 (dezoito  mil,  setecentos  e setenta  e  quatro  reais  e  oitenta  centavos),  constante  no  item  13,  da fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30  dias para  o  Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  'a",  "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Normando Bessa de Sa , Prefeito Municipal de Tefé e  Ordenador  de  Despesas, no  valor  de R$ 1.706,80 (mil,  setecentos  e seis  reais  e  oitenta  centavos),  nos  termos  do  art.  54,  I  'b',  da  Lei  n° 2.423/96-TCE/AM, alterada pela Lei Complementar n° 204/2020-TCE/AM c/c art. 308,  inciso I, 'b', da  Resolução  nº.  04/2002-TCE/AM  pelo descumprimento do prazo no envio dos Relatórios Resumidos  de Execução Orçamentária (1°, 2°, 3º, 4º, 5° e 6º bimestres/2018), perfazendo  o  montante  de R$ 10.240,80 (dez  mil,  duzentos  e  quarenta reais  e  oitenta  centavos),  constante  no  item  19,  da  fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  "  , "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Normando Bessa de Sa , Prefeito Municipal de Tefé e Ordenador de Despesas, no valor de R$ 1.706,80 (um mil, setecentos e seis  reais  e  oitenta  centavos),  nos  termos  do  art.  54,  I  'c',  da  Lei  n° 2.423/96-TCE/AM, alterada pela Lei Complementar n° 204/2020-TCE/AM c/c art. 308, inciso I, 'c', da  Resolução  nº.  04/2002-TCE/AM  pelo descumprimento do prazo no envio do Relatório de Gestão Fiscal (1º, 2º e 3º  quadrimestres/2018),  perfazendo  o  montante  de R$  5.120,40 (cinco mil, cento e vinte reais e quarenta centavos) constante nos itens 20 e 21, da fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Normando Bessa de Sa , Prefeito Municipal de Tefé e  Ordenador  de  Despesas,  no  valor  de R$ 27.308,78 (vinte  e  sete  mil, trezentos  e  oito  reais  e  setenta  e  oito  centavos),  nos  casos  praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira,  orçamentária,  operacional  e  patrimonial,  conforme  os  termos do  art.  54,  VI,  da  Lei  n°  2.423/96,  alterada  pela  Lei  Complementar  n° 204/2020-TCE/AM  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002TCE/AM, alterada pela Resolução n.º 04/2018-TCE/AM, pelas impropriedades constantes nos itens 12, 14, 17 'h', 18, 22, 23, 24, 25, 26, 27, 28  e 30, da  fundamentação  do Relatório/Voto,  que  deverá  ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Normando Bessa de Sa , Prefeito Municipal de Tefé e  Ordenador  de  Despesas,  no  valor  de R$  17.067,99 (dezessete  mil, sessenta e sete reais e noventa e nove centavos), conforme os termos do art. 54,  V,  da  Lei  n°  2.423/96,  alterada  pela  Lei  Complementar  n° 204/2020-TCE/AM  c/c  art.  308,  inciso  V,  da  Resolução  n°  04/2002TCE/AM,  alterada  pela  Resolução  n.º  04/2018-TCE/AM,  por  atos  de gestão  ilegítimo  e  antieconômico  de  que  resulte  injustificado  dano  ao erário, itens 15 e 16, da fundamentação do Relatório/Voto, que deverá ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Tefé que: 10.8.1. Os  esforços  necessários  para  a  atualização  do  sistema betha fly patrimônio ocorram de forma prioritária para que então seja realizada a correta identificação da  relação de bens  daquela Unidade; Itens 17 'b', 17 'c' e 17 'd', da fundamentação do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Os  esforços  necessários  para  a  atualização  do  sistema betha fly patrimônio ocorram de forma prioritária para que então seja realizada a correta identificação da  relação de bens  daquela Unidade",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A recomendação de priorizar a atualização do sistema patrimonial indica uma preocupação com a correta identificação e controle dos bens, o que está relacionado à caracterização adequada dos bens patrimoniais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Tefé que: 10.8.2. Adote medidas no sentido de garantir a efetiva cobrança dos tributos  de  sua  competência,  conforme  regra  constitucional,  bem como a adequada apuração de valores inadimplentes do IPTU e a sua correspondente inscrição em dívida ativa, nos moldes do art. 39 da Lei nº 4.320/64; Item 26, da fundamentação do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote medidas no sentido de garantir a efetiva cobrança dos tributos  de  sua  competência,  conforme  regra  constitucional,  bem como a adequada apuração de valores inadimplentes do IPTU e a sua correspondente inscrição em dívida ativa, nos moldes do art. 39 da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A recomendação para garantir a cobrança de tributos e apuração de dívida ativa está diretamente relacionada à não adoção de providências para cobrança da dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "39",
+              "descricao": "Necessidade de inscrição de débitos em dívida ativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Tefé que: 10.8.3. Nos  processos  de  concessão  de  diárias  seja  observado  o previsto  no  parágrafo  único  do  art.  9º  da  Resolução  nº  05/2008TCE, e os princípios da formalidade dos processos administrativo, motivação  legal,  publicidade  e  do  interesse  público;  Item  29,  da fundamentação do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Nos  processos  de  concessão  de  diárias  seja  observado  o previsto  no  parágrafo  único  do  art.  9º  da  Resolução  nº  05/2008TCE, e os princípios da formalidade dos processos administrativo, motivação  legal,  publicidade  e  do  interesse  público",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial.",
+          "justificativa_tipologia": "A recomendação para observar os processos de concessão de diárias está relacionada à ausência ou falha na prestação de contas de diárias, pois visa garantir a transparência e a correta aplicação dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 05/2008-TCE",
+              "artigo": "9º",
+              "descricao": "Necessidade de observância dos requisitos para concessão de diárias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Tefé que: 10.8.4. Observe com rigor o cumprimento da Resolução n° 08/2016TCE/AM; Item 30, da fundamentação do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com rigor o cumprimento da Resolução n° 08/2016TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação de observar o cumprimento da Resolução nº 08/2016-TCE/AM está relacionada à implementação do controle interno, pois esta resolução estabelece diretrizes e normas para o funcionamento do sistema de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 08/2016-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Necessidade de cumprimento da resolução para garantir o controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Tefé que: 10.8.5. os processos licitatórios sigam rigorosamente o preceituado no  art.  38,  da  Lei  nº  8.666/93.  Itens  31  e  32,  da  fundamentação do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "os processos licitatórios sigam rigorosamente o preceituado no  art.  38,  da  Lei  nº  8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A recomendação para que os processos licitatórios sigam o art. 38 da Lei nº 8.666/93 está relacionada à ausência de processo licitatório ou à dispensa/inexigibilidade de licitação sem amparo legal, pois o art. 38 estabelece os requisitos para a instrução do processo licitatório.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38",
+              "descricao": "Necessidade de observância dos requisitos para a instrução do processo licitatório."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o  encaminhamento  ao  Ministério  Público  do  Estadual,  nos termos do art. 190, inciso III, alínea b da Resolução nº 04/2002-RI-TCE, para que possa tomar as medidas que considerar cabíveis.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  ao  Ministério  Público  do  Estadual,  nos termos do art. 190, inciso III, alínea b da Resolução nº 04/2002-RI-TCE, para que possa tomar as medidas que considerar cabíveis.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "O envio ao Ministério Público indica uma possível omissão do controle interno em relação às irregularidades encontradas, necessitando de investigação adicional.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-RI-TCE",
+              "artigo": "190, inciso III, alínea b",
+              "descricao": "Base legal para o encaminhamento ao Ministério Público."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "acordao": "743/2015",
+  "processo": "2299/2013",
+  "data_sessao": "09 de setembro de 2015",
+  "orgao": "Tribunal de Justiça do Estado do Amazonas - TJAM",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "João de Jesus Abdala Simões",
+    "Ari Jorge Moutinho da Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar Regular com  Ressalvas as Contas dos Excelentíssimos Senhores Desembargadores, Dr. João de Jesus Abdala Simões (01/01/2012 a 03/07/2012) e Dr. Ari Jorge Moutinho da Costa (04/07/2012 a 31/12/2012), responsáveis pelo Egrégio Tribunal de Justiça do Estado do Amazonas durante o exercício financeiro de 2012;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar  à  origem que  proceda  à  definitiva  adesão  do  TJAM  ao regime próprio de previdência social do Estado do Amazonas em respeito ao art. 40, § 20, da Constituição Federal, realize prévio empenho ao efetuar pagamento de diárias a seus servidores  conforme  determina  a  Lei  n.º  4.320/64  e  tome  providências  para  que  haja controle dos bens do TJAM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  à  origem que  proceda  à  definitiva  adesão  do  TJAM  ao regime próprio de previdência social do Estado do Amazonas em respeito ao art. 40, § 20, da Constituição Federal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A179B",
+          "tipologia_irregularidade": "O RPPS celebrou termo de adesão com a Secretaria Especial de Previdência do Ministério da Economia para fins de requerimento da compensação previdenciária",
+          "descricao": "O RPPS não celebrou termo de adesão com a Secretaria Especial de Previdência do Ministério da Economia para fins de compensação previdenciária.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de adesão ao regime próprio de previdência, o que indica uma falha ou omissão nesse processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "40, § 20",
+              "descricao": "A recomendação visa o cumprimento do dispositivo constitucional que trata da adesão ao regime próprio de previdência social."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar  à  origem que realize prévio empenho ao efetuar pagamento de diárias a seus servidores  conforme  determina  a  Lei  n.º  4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação de realizar prévio empenho indica uma falha no processo de execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 4.320/64",
+              "artigo": "Não consta",
+              "descricao": "A recomendação visa o cumprimento da lei que estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar  à  origem que tome  providências  para  que  haja controle dos bens do TJAM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A recomendação de tomar providências para o controle dos bens indica uma deficiência na gestão patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "CIÊNCIA",
+      "descricao": "Cientificar os interessados a  respeito  do  desfecho concedido a estes autos, bem como a atual direção da Colenda Corte de Justiça do Estado do Amazonas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "QUITAÇÃO",
+      "descricao": "Conceder termo de quitação, com fulcro no art. 189, II, da Resolução n.º 04/02 - TCE/AM, a ambos os gestores;",
+      "trechos_identificados": [
+        {
+          "trecho": "Conceder termo de quitação, com fulcro no art. 189, II, da Resolução n.º 04/02 - TCE/AM, a ambos os gestores",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Concessão de termo de quitação dos responsáveis",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 - TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Artigo que trata da quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar o registro do Acórdão e o posterior arquivamento deste feito no setor competente.",
+      "trechos_identificados": []
+    }
+  ]
+}

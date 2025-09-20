@@ -1,0 +1,74 @@
+{
+  "acordao": "871/2021",
+  "processo": "12238/2020",
+  "data_sessao": "19 de Agosto de 2021",
+  "orgao": "Assembléia Legislativa do Estado do Amazonas - ALEAM",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Josué Cláudio de Souza Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  da Assembleia  Legislativa  do Estado do Amazonas - ALE/AM , exercício 2019, sob a responsabilidade do Sr. Josué Cláudio de Souza Neto - Presidente da ALE/AM, è época -, nos termos do art. 1, II, 'a' c/c 22, I, ambos da Lei Estadual n. 2.423/96, bem como nos termos do art. 5º, II da Resolução n.º 04/02 - RI-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  da Assembleia  Legislativa  do Estado do Amazonas - ALE/AM , exercício 2019, sob a responsabilidade do Sr. Josué Cláudio de Souza Neto - Presidente da ALE/AM, è época -, nos termos do art. 1, II, 'a' c/c 22, I, ambos da Lei Estadual n. 2.423/96, bem como nos termos do art. 5º, II da Resolução n.º 04/02 - RI-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Ainda que o trecho fale sobre regularidade, ele indica a necessidade de comprovação do valor registrado na conta, o que se relaciona com a tipologia de irregularidade referente à falta de comprovação de valores no balanço patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "1, II, 'a'",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, definindo as competências para julgamento de contas."
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Define os procedimentos para o julgamento das contas anuais pelos órgãos do Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Estabelece as normas para o funcionamento interno do Tribunal de Contas do Estado do Amazonas, incluindo os procedimentos para julgamento de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao  Sr. Josué  Cláudio  de  Souza  Neto -  Presidente  da Assembleia Legislativa do Estado do Amazonas, à época -, nos termos do art. 23 da Lei Estadual n. 2.423/96 c/c o art. 189, I da Resolução n. 04/02 - RI-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao  Sr. Josué  Cláudio  de  Souza  Neto -  Presidente  da Assembleia Legislativa do Estado do Amazonas, à época -, nos termos do art. 23 da Lei Estadual n. 2.423/96 c/c o art. 189, I da Resolução n. 04/02 - RI-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Ainda que o trecho fale sobre quitação, ele indica a necessidade de comprovação do valor registrado na conta, o que se relaciona com a tipologia de irregularidade referente à falta de comprovação de valores no balanço patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "23",
+              "descricao": "Autoriza a emissão de quitação ao responsável pelas contas julgadas regulares."
+            },
+            {
+              "norma": "Resolução n. 04/02 - RI-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Define os procedimentos para concessão de quitação em processos de prestação de contas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

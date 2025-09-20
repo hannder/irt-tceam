@@ -1,0 +1,345 @@
+{
+  "acordao": "116/2018",
+  "processo": "1538 /2014",
+  "data_sessao": "27 de fevereiro de 2018",
+  "orgao": "Agência de Desenvolvimento Sustentável do Amazonas - ADS (Destaque)",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Raimundo Valdelino Rodrigues Cavalcante"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregular",
+      "descricao": "Julgar Irregular a Prestação de Contas da Agência de Desenvolvimento Sustentável - ADS - Destaque, exercício 2013, sob a responsabilidade do Sr. Raimundo Valdelino Rodrigues Cavalcante, Diretor-Presidente e Ordenador  de  Despesas,  nos termos do inciso II do art . 1º e da alínea 'b do inciso  III do art. 22, todos  da  Lei  nº  2.423/96,  em  decorrência  de  graves  infrações  às normas legais e regulamentares (irregularidades 05, 10, 11, 14, 15, e 19.2  da  Notificação  nº  43/2014  e  irregularidades  3,  10  e  18  da Notificação nº 53/2015)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  multa ao Sr.  Raimundo  Valdelino Rodrigues Cavalcante, Diretor-Presidente  e  Ordenador  de  Despesas,  exercício  2013,  no valor de R$43.841,28 (quarenta e três mil, oitocentos e quarenta um reais e vinte e oito centavos),  nos  termos do inciso VI do art.308 da Resolução nº 04/2002 (RITCE/AM),  em decorrência de atos praticados  com  grave  infração  às  normas  legais  e  regulamentares (irregularidades 05, 10, 11, 14, 15, e 19.2 da Notificação nº 43/2014 e irregularidades 3, 10 e 18 da Notificação nº 53/2015)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres da Fazenda  Estadual  do  valor  da  multa  imposta,  com  comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96, c/c o §4° do art. 174 da Resolução nº 04/2002 (RI-TCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei nº 2.423/96)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar  a  realização  de  auditoria  operacional,  no  âmbito  da  ADS, nos programas de regionalização da merenda escolar e de regionalização  de  móveis  escolares,  bem  como  nas  subvenções  à juta, à malva e à borracha, com o objetivo de se aferir a legitimidade, a legalidade, a economicidade e efetividade das ações, em vista dos parâmetros finalísticos dos respectivos atos de concessão de crédito, nos termos do art. 1º, c/c o inciso I do art. 30 da Lei Orgânica do TCE, a ser desempenhada por setor específico deste Tribunal, Departamento  de  Auditoria  Operacional,  observando  a  Proposta  de voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Remessa",
+      "descricao": "Remeter  os  autos  à  DICREX  para  que  efetue  os  procedimentos previstos na Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: obedeça  a  fase  da  liquidação  das  despesas,  com documentos  comprobatórios,  nos  termos  dos  arts. 62  e  63  da  Lei  federal  nº  4.320/64,  sob  pena  de aplicação de glosa",
+      "trechos_identificados": [
+        {
+          "trecho": "obedeça  a  fase  da  liquidação  das  despesas,  com documentos  comprobatórios,  nos  termos  dos  arts. 62  e  63  da  Lei  federal  nº  4.320/64,  sob  pena  de aplicação de glosa",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A deliberação orienta a obediência à fase de liquidação das despesas, conforme estabelecido na Lei nº 4.320/64, o que está relacionado à correta aplicação dos recursos públicos e ao princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  federal  nº  4.320/64",
+              "artigo": "62 e 63",
+              "descricao": "Dispõe sobre a fase de liquidação das despesas, com documentos comprobatórios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: regularize as pendências em relação ao INSS, tanto no que se refere à obrigação do empregado, quanto à  patronal,  sob  pena  de  responder  a  crime  de apropriação  indébita  previdenciária (Lei federal  nº 8213/91 e Lei federal nº 9.983/00)",
+      "trechos_identificados": [
+        {
+          "trecho": "regularize as pendências em relação ao INSS, tanto no que se refere à obrigação do empregado, quanto à  patronal,  sob  pena  de  responder  a  crime  de apropriação  indébita  previdenciária (Lei federal  nº 8213/91 e Lei federal nº 9.983/00)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A78B",
+          "tipologia_irregularidade": "Inobservância do Piso Salarial do Magistério",
+          "descricao": "Pagamento de salário inferior ao piso salarial do magistério.",
+          "justificativa_tipologia": "A determinação de regularizar as pendências com o INSS está relacionada ao cumprimento das obrigações trabalhistas e previdenciárias, incluindo o pagamento do piso salarial do magistério, conforme estabelecido na Lei nº 11.784/2008.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal  nº 8213/91",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre os Planos de Benefícios da Previdência Social"
+            },
+            {
+              "norma": "Lei federal nº 9.983/00",
+              "artigo": "Não consta",
+              "descricao": "Altera e acrescenta dispositivos ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, e à Lei nº 7.492, de 16 de junho de 1986, e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: envide esforços para implementar o controle interno dentro da estrutura da ADS, na linha da orientação do art. 74 da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "envide esforços para implementar o controle interno dentro da estrutura da ADS, na linha da orientação do art. 74 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para implementar o controle interno dentro da estrutura da ADS está diretamente relacionada à tipologia de 'Não implementação do Controle Interno', pois visa fortalecer a gestão e fiscalização dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "74",
+              "descricao": "Dispõe sobre o Sistema de Controle Interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: mantenha a documentação comprobatória de todas as despesas na sede da ADS, sob pena de serem glosadas,  nos  termos  da  Lei  nº  2.423/96,  c/c  a Resolução nº 04/2002-RI/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "mantenha a documentação comprobatória de todas as despesas na sede da ADS, sob pena de serem glosadas,  nos  termos  da  Lei  nº  2.423/96,  c/c  a Resolução nº 04/2002-RI/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A determinação para manter a documentação comprobatória das despesas na sede da ADS está relacionada à necessidade de garantir a transparência e a disponibilidade das informações para fins de auditoria e fiscalização, o que se enquadra na tipologia de 'Ausência de documentação na Prestação de Contas Anuais'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº  2.423/96",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e dá outras providências."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RI/TCE",
+              "artigo": "Não consta",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: adote  medidas  para  realizar  concurso  público  e instituir o plano de cargos e salários (inciso II do art. 37 da CF/88)",
+      "trechos_identificados": [
+        {
+          "trecho": "adote  medidas  para  realizar  concurso  público  e instituir o plano de cargos e salários (inciso II do art. 37 da CF/88)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A determinação para realizar concurso público e instituir o plano de cargos e salários está relacionada à necessidade de garantir a legalidade e a eficiência na gestão de pessoal, o que se enquadra na tipologia de 'Ausência de Concurso público'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "37",
+              "descricao": "Dispõe sobre a investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: realize uma conciliação de valores pendentes entre os extrato bancário (Conta Bancária nº 22.449-9) e a  conta  contábil,  a  fim  de  atender  ao  princípio  da fidedignidade dos dados contábeis nas futuras demonstrações de contas",
+      "trechos_identificados": [
+        {
+          "trecho": "realize uma conciliação de valores pendentes entre os extrato bancário (Conta Bancária nº 22.449-9) e a  conta  contábil,  a  fim  de  atender  ao  princípio  da fidedignidade dos dados contábeis nas futuras demonstrações de contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A determinação para realizar a conciliação entre o extrato bancário e a conta contábil está diretamente relacionada à tipologia de 'Conciliação Bancária. Divergência entre saldo contábil e saldo bancário', pois visa garantir a fidedignidade dos dados contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: cumpra as fases da execução da despesa (empenho, liquidação e pagamento) e demais regras da contabilidade pública, nos termos da Lei federal  nº  4.320/64  e  do  Manual  de  Contabilidade Aplicado ao Setor Público - MCASP",
+      "trechos_identificados": [
+        {
+          "trecho": "cumpra as fases da execução da despesa (empenho, liquidação e pagamento) e demais regras da contabilidade pública, nos termos da Lei federal  nº  4.320/64  e  do Manual de Contabilidade Aplicado ao Setor Público - MCASP",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação orienta o cumprimento das fases da execução da despesa, conforme estabelecido na Lei nº 4.320/64 e no MCASP, o que está relacionado à correta aplicação dos recursos públicos e ao princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal  nº  4.320/64",
+              "artigo": "Não consta",
+              "descricao": "Estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Manual de Contabilidade Aplicado ao Setor Público - MCASP",
+              "artigo": "Não consta",
+              "descricao": "Manual de Contabilidade Aplicado ao Setor Público"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: tome  providências  para  realizar  as  cobranças  do valor  de  R$  275.280,00,  contabilizados  na  conta 'crédito pendente'  no  Balanço Patrimonial, sob pena de responsabilidade solidária",
+      "trechos_identificados": [
+        {
+          "trecho": "tome  providências  para  realizar  as  cobranças  do valor  de  R$  275.280,00,  contabilizados  na  conta 'crédito pendente'  no  Balanço Patrimonial, sob pena de responsabilidade solidária",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Não-adoção de providências para cobrança de dívida ativa",
+          "justificativa_tipologia": "A determinação para realizar as cobranças do valor contabilizado na conta 'crédito pendente' está relacionada à tipologia de 'Não-adoção de providências para cobrança de dívida ativa', pois visa garantir o retorno dos recursos aos cofres públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: zele pelo adequado preenchimento das informações no  sistema E-Contas,  nos  termos  da Resolução  nº 13/2015-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "zele pelo adequado preenchimento das informações no  sistema E-Contas,  nos  termos  da Resolução  nº 13/2015-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação para zelar pelo adequado preenchimento das informações no sistema E-Contas está relacionada à tipologia de 'Não envio de dados periódicos ao e-Contas', pois visa garantir a transparência e a disponibilidade das informações para fins de controle externo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  nº 13/2015-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre o Sistema de Controle Externo (e-Contas)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: faça constar do processo licitatório parecer conclusivo da consultoria jurídica acerca das minutas dos editais, bem como de contratos, etc. a luz  do  art.  38,  parágrafo  único,  da  Lei  federal  nº 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "faça constar do processo licitatório parecer conclusivo da consultoria jurídica acerca das minutas dos editais, bem como de contratos, etc. a luz  do  art.  38,  parágrafo  único,  da  Lei  federal  nº 8.666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A deliberação de exigir parecer jurídico conclusivo nos processos licitatórios visa garantir a legalidade e a segurança jurídica dos contratos, o que se relaciona com a ausência da razão da escolha do fornecedor.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  federal  nº 8.666/1993",
+              "artigo": "38",
+              "descricao": "Dispõe sobre a obrigatoriedade de constar no processo licitatório o parecer jurídico."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: efetue  planejamento  adequado  das  contratações, de modo a realizar tempestivamente os respectivos procedimentos  licitatórios  e  evitar  que  a  prestação dos  serviços  ou  o  fornecimento  de  bens  ocorram sem  amparo  contratual,  contrariando o art. 60, parágrafo  único,  da  Lei  federal  nº  8.666/1993,  ou que seja firmado ajuste emergencial, em desacordo com  as  hipóteses contempladas  no  art.  24,  inciso IV, da citada lei",
+      "trechos_identificados": [
+        {
+          "trecho": "efetue  planejamento  adequado  das  contratações, de modo a realizar tempestivamente os respectivos procedimentos  licitatórios  e  evitar  que  a  prestação dos  serviços  ou  o  fornecimento  de  bens  ocorram sem  amparo  contratual,  contrariando o art. 60, parágrafo  único,  da  Lei  federal  nº  8.666/1993,  ou que seja firmado ajuste emergencial, em desacordo com  as  hipóteses contempladas  no  art.  24,  inciso IV, da citada lei",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A determinação para efetuar planejamento adequado das contratações e evitar a prestação de serviços sem amparo contratual ou ajustes emergenciais está relacionada à tipologia de 'Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial', pois visa garantir que as dispensas de licitação sejam devidamente justificadas e estejam em conformidade com a lei.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  federal  nº 8.666/1993",
+              "artigo": "60",
+              "descricao": "Dispõe sobre a obrigatoriedade de todo contrato ter forma escrita."
+            },
+            {
+              "norma": "Lei  federal  nº 8.666/1993",
+              "artigo": "24",
+              "descricao": "Dispõe sobre os casos em que é dispensável a licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: adote providências no sentido de mudar a sistemática administrativa na aplicação dos recursos  via  destaque,  de  forma  a  tornar  mais eficientes a formalização e o registro dos contratos, as  operações  de  entrega  e  de  destinação dos gêneros,  considerando  que  a  origem  dos  recursos (destaque)  não  exime  a  unidade  de  comprovar  a regularidade  de  todas  as  fases  de  despesa,  nos termos da Lei federal nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "adote providências no sentido de mudar a sistemática administrativa na aplicação dos recursos  via  destaque,  de  forma  a  tornar  mais eficientes a formalização e o registro dos contratos, as  operações  de  entrega  e  de  destinação dos gêneros,  considerando  que  a  origem  dos  recursos (destaque)  não  exime  a  unidade  de  comprovar  a regularidade  de  todas  as  fases  de  despesa,  nos termos da Lei federal nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação para mudar a sistemática administrativa na aplicação dos recursos via destaque visa evitar a burla do processo legal de pagamento, garantindo a regularidade em todas as fases da despesa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal nº 4.320/64",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre as normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados e dos Municípios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Origem,  nos  termos  do  art.  188,  §  2º  do  Regimento Interno/TCE-AM, que: observe, por último, que a reincidência, nas próximas prestações de contas, das determinações ora veiculadas, sustentará o julgamento das Contas pela Irregularidade, conforme prevê a alínea 'e' do inciso III  do  parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "observe, por último, que a reincidência, nas próximas prestações de contas, das determinações ora veiculadas, sustentará o julgamento das Contas pela Irregularidade, conforme prevê a alínea 'e' do inciso III  do  parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "O descumprimento recorrente das determinações do Tribunal de Contas, que visa o fortalecimento dos controles internos, caracteriza o descumprimento do Programa de Integridade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "Dispõe sobre os procedimentos para o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

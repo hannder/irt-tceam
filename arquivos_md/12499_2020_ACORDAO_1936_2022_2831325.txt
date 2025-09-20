@@ -1,0 +1,143 @@
+{
+  "acordao": "1936/2022",
+  "processo": "12499/2020",
+  "data_sessao": "22 de Novembro de 2022",
+  "orgao": "Fundo Municipal para o Desenvolvimento e Meio Ambiente-FMDMA",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Antônio Nelson de Oliveira Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas do  Fundo Municipal para Desenvolvimento do Meio Ambiente-FMDMA, sob a responsabilidade  do Sr.  Antônio  Nelson  de  Oliveira  Junior , no exercício de 2019, nos termos do art. 22, inciso II da Lei nº 2423/96, dando-lhe quitação com fulcro no art. 24 da Lei nº 2423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas do  Fundo Municipal para Desenvolvimento do Meio Ambiente-FMDMA, sob a responsabilidade  do Sr.  Antônio  Nelson  de  Oliveira  Junior , no exercício de 2019, nos termos do art. 22, inciso II da Lei nº 2423/96, dando-lhe quitação com fulcro no art. 24 da Lei nº 2423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A aprovação com ressalvas indica que, embora a prestação de contas tenha sido aceita, foram identificadas questões que merecem atenção. A análise contábil pode revelar falhas formais ou de procedimento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "24",
+              "descricao": "Quitação das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que observe com rigor os limites de repasse e aplicação de recursos legalmente estabelecidos",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que observe com rigor os limites de repasse e aplicação de recursos legalmente estabelecidos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A recomendação para observar os limites de repasse e aplicação de recursos indica um risco de má gestão orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que inclua no relatório descritivo das atividades desempenhadas pelo FMDMA o valor individual destinado  a  estas,  a  fim  de  contribuir  na  apreciação  da utilização dos recursos",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que inclua no relatório descritivo das atividades desempenhadas pelo FMDMA o valor individual destinado  a  estas,  a  fim  de  contribuir  na  apreciação  da utilização dos recursos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação para detalhar o valor individual destinado às atividades visa aumentar a transparência na utilização de recursos públicos, facilitando o controle social e a fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que envie  também  os  procedimentos  administrativos  de doações de equipamentos e afins recebidos pelo Fundo",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que envie  também  os  procedimentos  administrativos  de doações de equipamentos e afins recebidos pelo Fundo",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A8B",
+          "tipologia_irregularidade": "Divergência entre os registros contábeis das contas de Bens Permanentes e a existência física dos bens",
+          "descricao": "Divergência entre os registros contábeis das contas de Bens Permanentes e a existência física dos bens",
+          "justificativa_tipologia": "A recomendação para enviar os procedimentos administrativos de doações de equipamentos e afins recebidos pelo Fundo visa garantir o controle patrimonial e a transparência nas operações financeiras.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que otimize a aplicação dos recursos disponíveis ao Fundo no  intuito  de  que  ao  fim  do  exercício  não  reste  saldo disponível à utilização",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que otimize a aplicação dos recursos disponíveis ao Fundo no  intuito  de  que  ao  fim  do  exercício  não  reste  saldo disponível à utilização",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A recomendação para otimizar a aplicação dos recursos visa garantir que o Fundo cumpra seus objetivos e utilize os recursos disponíveis de forma eficiente.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que observe  com  rigor  o  prazo  para  recolhimento  das despesas previdenciárias",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao atual gestor do Fundo Municipal Para o Desenvolvimento e Meio Ambiente - FMDMA que observe  com  rigor  o  prazo  para  recolhimento  das despesas previdenciárias",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A71B",
+          "tipologia_irregularidade": "Ausência de Contrapartida Laboral",
+          "descricao": "Prestação de serviço sem a devida contrapartida laboral, como salário, vale- transporte, vale-refeição, horas extras, etc.",
+          "justificativa_tipologia": "A recomendação para observar o prazo para recolhimento das despesas previdenciárias visa evitar multas e juros, além de garantir a regularidade fiscal do Fundo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência do  decisório  prolatado  nestes  autos  ao Sr.  Antônio Nelson de Oliveira Junior , gestor do FMDMA no exercício de 2019",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência do  decisório  prolatado  nestes  autos  ao Sr.  Antônio Nelson de Oliveira Junior , gestor do FMDMA no exercício de 2019",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A comunicação formal ao gestor sobre a decisão visa garantir que ele esteja ciente das recomendações e possa implementar as melhorias necessárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

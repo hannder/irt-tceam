@@ -1,0 +1,97 @@
+{
+  "acordao": "013/2015",
+  "processo": "1780/2012",
+  "data_sessao": "14 de janeiro de 2015",
+  "orgao": "Fundação Municipal de Eventos e Turismo - MANAUSTUR",
+  "municipio": "Manaus",
+  "exercicio": "2011",
+  "responsavel": [
+    "Sr. Arlindo Pedro da Silva Júnior"
+  ],
+  "itens": [
+    {
+      "tipo": "regular",
+      "descricao": "Julgar  REGULAR,  com  Ressalvas ,  com  fulcro  no  artigo  1º,  II,  22, inciso II, da Lei n. 2.423/1996; e artigo 188, § 1º, inciso II, da Resolução TC nº. 4/2002, a Prestação de Contas, relativa ao exercício de 2011, da Fundação Municipal de Eventos e Turismo  -  Manaustur ,  de  responsabilidade  do  Senhor ARLINDO  PEDRO DA SILVA JUNIOR, Presidente e Ordenador de Despesas, à época, dando por boas firmes e valiosas todas as recomendações contidas no Relatório de Auditoria NR. 02/2013 - DICAI MA (fls. 1053/1175A) e no voto do Relator (fls. 1192/1225), cujas cópias reprográficas deverão ser remetidas  à  atual  Administração  da Manaustur para  que,  no  futuro,  evite  reincidir  nas mesmas falhas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  REGULAR,  com  Ressalvas ,  com  fulcro  no  artigo  1º,  II,  22, inciso II, da Lei n. 2.423/1996; e artigo 188, § 1º, inciso II, da Resolução TC nº. 4/2002, a Prestação de Contas, relativa ao exercício de 2011, da Fundação Municipal de Eventos e Turismo  -  Manaustur ,  de  responsabilidade  do  Senhor ARLINDO  PEDRO DA SILVA JUNIOR, Presidente e Ordenador de Despesas, à época, dando por boas firmes e valiosas todas as recomendações contidas no Relatório de Auditoria NR. 02/2013 - DICAI MA (fls. 1053/1175A) e no voto do Relator (fls. 1192/1225), cujas cópias reprográficas deverão ser remetidas  à  atual  Administração  da Manaustur para  que,  no  futuro,  evite  reincidir  nas mesmas falhas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"o trecho não indica irregularidade\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/1996",
+              "artigo": "1º, II, 22, inciso II",
+              "descricao": "Fundamentação para julgar regular com ressalvas."
+            },
+            {
+              "norma": "Resolução TC nº. 4/2002",
+              "artigo": "188, § 1º, inciso II",
+              "descricao": "Fundamentação para julgar regular com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Nos termos do artigo 24 da Lei n°. 2423/1996, c/c o artigo 189, inciso II, da  Resolução  nº.  4/2002  dar  quitação  ao  Senhor ARLINDO  PEDRO  DA  SILVA JUNIOR, Presidente e Ordenador de Despesas da Fundação Municipal de Eventos e Turismo - Manaustur , à época",
+      "trechos_identificados": [
+        {
+          "trecho": "Nos termos do artigo 24 da Lei n°. 2423/1996, c/c o artigo 189, inciso II, da  Resolução  nº.  4/2002  dar  quitação  ao  Senhor ARLINDO  PEDRO  DA  SILVA JUNIOR, Presidente e Ordenador de Despesas da Fundação Municipal de Eventos e Turismo - Manaustur , à época",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"o trecho não indica irregularidade\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n°. 2423/1996",
+              "artigo": "24",
+              "descricao": "Fundamentação para dar quitação."
+            },
+            {
+              "norma": "Resolução  nº.  4/2002",
+              "artigo": "189, inciso II",
+              "descricao": "Fundamentação para dar quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "DETERMINAR que a Secretaria do Tribunal Pleno, após a ocorrência da  coisa  julgada  administrativa,  nos  termos  dos  artigos  159  e  160,  da  Resolução  n. 04/2002 - RITCE, adote as providências do artigo 162, §1º, do RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR que a Secretaria do Tribunal Pleno, após a ocorrência da  coisa  julgada  administrativa,  nos  termos  dos  artigos  159  e  160,  da  Resolução  n. 04/2002 - RITCE, adote as providências do artigo 162, §1º, do RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"o trecho não indica irregularidade\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  n. 04/2002 - RITCE",
+              "artigo": "159 e 160",
+              "descricao": "Fundamentação para a determinação."
+            },
+            {
+              "norma": "artigo 162, §1º, do RITCE",
+              "artigo": "162",
+              "descricao": "Fundamentação para a determinação."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

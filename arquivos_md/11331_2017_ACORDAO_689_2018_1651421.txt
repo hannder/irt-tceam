@@ -1,0 +1,111 @@
+{
+  "acordao": "689/2018",
+  "processo": "11331/2017",
+  "data_sessao": "23 de Outubro de 2018",
+  "orgao": "Secretaria Municipal de Parcerias e Projetos Estratégicos - SEMPPE",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Carlos Antonio da Silva  Moura",
+    "Luiz Alberto Carijo de Gosztonyi"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a  Prestação de Contas Anual  da Secretaria  Municipal Extraordinária  (SEMEX) de  responsabilidade  dos  gestores Sr.  Luiz Alberto  Carijo  de  Gosztonyi (01/01  a  31/10/2016)  e Sr.  Carlos Antônio da Silva Moura (01/11 a 31/12/2016), referente ao exercício 2016, na forma do art. 71, II, da CF/1988, arts. 1º, II, 2º, 4º, 5º, I, 22, I, e art. 23, todos da Lei nº 2.423/1996 c/c arts. 11, III, alínea 'a', item '3' e 188, § 1º, I, da Resolução TCE nº 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a  Prestação de Contas Anual  da Secretaria  Municipal Extraordinária  (SEMEX) de  responsabilidade  dos  gestores Sr.  Luiz Alberto  Carijo  de  Gosztonyi (01/01  a  31/10/2016)  e Sr.  Carlos Antônio da Silva Moura (01/11 a 31/12/2016), referente ao exercício 2016, na forma do art. 71, II, da CF/1988, arts. 1º, II, 2º, 4º, 5º, I, 22, I, e art. 23, todos da Lei nº 2.423/1996 c/c arts. 11, III, alínea 'a', item '3' e 188, § 1º, I, da Resolução TCE nº 04/2002.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A regularidade das contas, por si só, não indica um problema estrutural ou recorrente na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "2º",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "4º",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "5º, I",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "11, III, alínea 'a', item '3'",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "188, § 1º, I",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Luiz Alberto Carijo de Gosztonyi ,  ao Sr. Carlos Antônio  da  Silva  Moura e  a Secretaria  Municipal  Extraordinária  SEMEX.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Luiz Alberto Carijo de Gosztonyi ,  ao Sr. Carlos Antônio  da  Silva  Moura e  a Secretaria  Municipal  Extraordinária  SEMEX.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A ciência de atos sem apontar irregularidades não indica um problema concreto, estrutural ou recorrente na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar , após cumpridas as determinações, nos termos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar , após cumpridas as determinações, nos termos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O arquivamento do processo, por si só, não demonstra uma falha concreta, estrutural ou recorrente na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

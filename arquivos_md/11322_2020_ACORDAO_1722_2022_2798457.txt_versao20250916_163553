@@ -1,0 +1,139 @@
+{
+  "acordao": "1722/2022",
+  "processo": "11322/2020",
+  "data_sessao": "4 de Outubro de 2022",
+  "orgao": "TCE-Tribunal Pleno",
+  "municipio": "Anori",
+  "exercicio": "2019",
+  "responsavel": [
+    "Jose Alves Roberto"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual da Câmara  Municipal  de  Anori,  de  responsabilidade  do  S r. Jose  Alves Roberto , na condição de Vereador-Presidente e Ordenador de Despesa,  referente  ao  exercício  de  2019,  em  razão  das  restrições apontadas  pela  Comissão  de  Inspeção,  e  não  totalmente  sanadas, ressalvando-se ainda, que nenhuma das restrições tem potencial lesivo ao Erário, com fundamento no art. 22, II e da Lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual da Câmara  Municipal  de  Anori,  de  responsabilidade  do  S r. Jose  Alves Roberto , na condição de Vereador-Presidente e Ordenador de Despesa,  referente  ao  exercício  de  2019,  em  razão  das  restrições apontadas  pela  Comissão  de  Inspeção,  e  não  totalmente  sanadas, ressalvando-se ainda, que nenhuma das restrições tem potencial lesivo ao Erário, com fundamento no art. 22, II e da Lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Identificadas ressalvas nas contas não totalmente sanadas e sem potencial lesivo ao erário, indicando ausência de comprovação de valores no Balanço Patrimonial.",
+          "justificativa_tipologia": "justificativa=Apesar de não terem potencial lesivo ao Erário, as restrições apontadas pela Comissão de Inspeção e não totalmente sanadas indicam ausência de comprovação do valor registrado na conta VPD Pagas Antecipadamente do Balanço Patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Fundamentação para o julgamento regular com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "proceder  à  criação  de  uma  Procuradoria  Jurídica para salvaguardar os interesses do Legislativo Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "proceder  à  criação  de  uma  Procuradoria  Jurídica para salvaguardar os interesses do Legislativo Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "manter  esforços  no  sentido  da  manutenção  do Portal  de  Transparência  atualizado  em  tempo  real,  em observância ao disposto na Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "manter  esforços  no  sentido  da  manutenção  do Portal  de  Transparência  atualizado  em  tempo  real,  em observância ao disposto na Lei Complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "null",
+              "descricao": "Exigência de transparência na gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "atentar a todas as regras contidas na Lei 8666/93, quanto à autuação dos Processos Licitatórios",
+      "trechos_identificados": [
+        {
+          "trecho": "atentar a todas as regras contidas na Lei 8666/93, quanto à autuação dos Processos Licitatórios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "null",
+              "descricao": "Normas gerais sobre licitações e contratos administrativos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciencia",
+      "descricao": "Dar  ciência ao Sr.  Jose  Alves  Roberto ,  bem  como  à  advogada  da viúva  do  gestor  falecido,  sobre  o  teor  desta  Decisão,  com  cópia  do Relatório-Voto e do respectivo Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Jose  Alves  Roberto ,  bem  como  à  advogada  da viúva  do  gestor  falecido,  sobre  o  teor  desta  Decisão,  com  cópia  do Relatório-Voto e do respectivo Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Arquivar o  presente  processo,  após  cumpridas  as  determinações acima",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  presente  processo,  após  cumpridas  as  determinações acima",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

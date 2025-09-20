@@ -1,0 +1,142 @@
+{
+  "acordao": "612/2020",
+  "processo": "11201/2017",
+  "data_sessao": "17 de Junho de 2020",
+  "orgao": "Fundo Estadual de Recursos Hídricos - FERH/AM",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Antônio  Ademir  Stroski",
+    "Luis  Henrique  Piva"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno,  evite  a  ocorrência  das  seguintes  impropriedades,  em  futuras prestações de contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de informações sobre admissões, exonerações e fichas financeiras, nas pastas funcionais dos servidores.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2C",
+          "tipologia_irregularidade": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "O trecho descreve a falta de informações essenciais sobre servidores, caracterizando uma falha na gestão de pessoal e controle documental.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 13, § 1º e § 2º, da Lei nº 8.429/92.",
+              "artigo": "Art. 13, § 1º e § 2º",
+              "descricao": "Apresentação de declaração de bens"
+            }
+          ]
+        },
+        {
+          "trecho": "Ausência da Declaração de Bens do Ordenador de Despesas do Fundo Estadual de Recursos Hídricos - FERH.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A9B",
+          "tipologia_irregularidade": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A falta de declaração de bens do ordenador de despesas indica uma falha no controle patrimonial e na transparência da gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Artigo 70 da Constituição Federal/88",
+              "artigo": "Artigo 70",
+              "descricao": "O controle interno, a ser exercido pelo Poder Executivo, na forma da lei, abrangerá, entre outros, a avaliação do cumprimento das metas previstas no plano plurianual"
+            },
+            {
+              "norma": "Artigo 94 da Lei nº 4.320/64",
+              "artigo": "Artigo 94",
+              "descricao": "O controle da execução orçamentária compreenderá: I - a verificação do cumprimento das normas legais e regulamentares;"
+            }
+          ]
+        },
+        {
+          "trecho": "Ausência do Parecer do dirigente do Órgão de Controle Interno junto à Prestação de contas, consoante o que prescreve o Inciso III, do Art. 10 da Lei nº 2.423/96 (Lei Orgânica do TCE-AM), C/C o art. 77, do Decreto Estadual nº 7.682/83.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "Omitir o parecer do controle interno é uma deficiência grave que impede a avaliação adequada das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Inciso III, do Art. 10 da Lei nº 2.423/96",
+              "artigo": "Inciso III, do Art. 10",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "art. 77, do Decreto Estadual nº 7.682/83",
+              "artigo": "art. 77",
+              "descricao": "Normas sobre Contabilidade Pública do Estado do Amazonas e dá outras providências"
+            }
+          ]
+        },
+        {
+          "trecho": "Disponibilidade de caixa, no final do exercício. Pede-se ao gestor esclarecimento  em  razão  desta  importância  ter  permanecido  sem movimentação,  deixando  de  ser  aplicado  em  ações  de  interesse público.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A não utilização de recursos disponíveis em caixa para ações de interesse público caracteriza uma falha na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 75, III, da Lei nº 4.320/64",
+              "artigo": "Art. 75, III",
+              "descricao": "O serviço da dívida pública compreende: III - a manutenção do registro dos documentos comprobatórios das operações."
+            }
+          ]
+        },
+        {
+          "trecho": "Prática reiterada de conduta omissiva ilegal em afronta ao art. 37 da CF/88, à Lei de Responsabilidade Fiscal e à própria Lei Estadual n° 3.167/2007 em face da baixa execução orçamentária do Fundo e ausência  de  destinação  de  recursos  para  atingimento  de  seus objetivos de criação.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A baixa execução orçamentária e a não destinação de recursos para os objetivos do fundo são falhas graves na gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "art. 37 da CF/88",
+              "artigo": "art. 37",
+              "descricao": "A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência"
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal."
+            },
+            {
+              "norma": "Lei Estadual n° 3.167/2007",
+              "artigo": "Não especificado",
+              "descricao": "Dispõe sobre o Fundo Estadual de Recursos Hídricos - FERH e dá outras providências."
+            }
+          ]
+        },
+        {
+          "trecho": "Burla à legislação, uma vez que o art. 35, parágrafo único, da Lei n° 3.167/2017, impõe que 'serão despendidos até 7,5% (sete e meio por  cento)  dos  recursos  do  Fundo  Estadual  de  Recursos  Hídricos com  despesas  de  custeio  e  pessoal,  destinando-se  o  restante, obrigatoriamente, para a efetiva elaboração de projetos e execução de obras e serviços do Plano Estadual de Recursos Hídricos.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "A falta de aplicação dos recursos em projetos e obras conforme estabelecido na lei configura desvio de finalidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "art. 35, parágrafo único, da Lei n° 3.167/2017",
+              "artigo": "art. 35",
+              "descricao": "Serão despendidos até 7,5% (sete e meio por  cento)  dos  recursos  do  Fundo  Estadual  de  Recursos  Hídricos com  despesas  de  custeio  e  pessoal,  destinando-se  o  restante, obrigatoriamente, para a efetiva elaboração de projetos e execução de obras e serviços do Plano Estadual de Recursos Hídricos"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

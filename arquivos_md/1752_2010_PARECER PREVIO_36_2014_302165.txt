@@ -1,0 +1,409 @@
+{
+  "acordao": "36/2014",
+  "processo": "1752/2010",
+  "data_sessao": "30 de julho de 2014",
+  "orgao": "Prefeitura Municipal de Barreirinha",
+  "municipio": "Barreirinha",
+  "exercicio": "2009",
+  "responsavel": [
+    "Mecias Pereira Batista"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidades",
+      "descricao": "Julgar Irregulares a Prestação de Contas da Prefeitura Municipal de Barreirinha, exercício de 2009 sob a responsabilidade do Sr. Mecias Pereira Batista, Ordenador de Despesas, nos termos do inciso I do art. 1º, das alíneas b e c do inciso III do art. 22 e do parágrafo único do art. 25, todos da Lei nº 2.423/96, em decorrência de atos praticados com grave infração às normas legais (irregularidades '10', '12', '13', '16', '20', '24', '37', '40', 'a', 'b', 'c' 'd', 'e' e 'i') e de dano ao erário (irregularidades '19', 'a', 'b', 'd', 'e' e 'i')",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Declarar em Alcance, no montante total de R$ 1.231.727.58 (um milhão duzentos e trinta e um mil setecentos e vinte sete reais e cinquenta e oito centavos) o Sr. Mecias Pereira Batista, Prefeito e Ordenador de Despesas, exercício 2009, em virtude dos seguintes fatos: a) divergência entre o saldo das conciliações e dos extratos bancários no montante de R$ 842.133,54 (oitocentos e quarenta e dois mil, cento e trinta e três reais e cinquenta e quatro centavos), nos termos do inciso VI do art. 304 do RI-TCE/AM [irregularidade '19' (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '2' do item 21 do Relatório)]; b) não execução dos serviços da planilha orçamentária no montante de R$ 22.000,00, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'a' - Carta Convite 14/2009 (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '1' do item 23 do Relatório)]; c) não execução dos serviços discriminados na planilha orçamentária no valor de R$ 100.063,29, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'b' - Carta Convite 23/2009 (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '2' do item 23 do Relatório)]; d) não execução dos serviços da planilha de medição correspondente ao montante de R$ 127.257,45, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'd' - Carta Convite (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '3' do item 23 do Relatório)]; e) não execução dos serviços relacionados na planilha de medição no valor de R$ 139.273,30, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'e' (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '4' do item 23 do Relatório)]; f) não execução dos serviços discriminados na planilha orçamentária, no valor de R$ 1.000,00, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'i' (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '8' do item 23 do Relatório)].",
+      "trechos_identificados": [
+        {
+          "trecho": "divergência entre o saldo das conciliações e dos extratos bancários no montante de R$ 842.133,54 (oitocentos e quarenta e dois mil, cento e trinta e três reais e cinquenta e quatro centavos), nos termos do inciso VI do art. 304 do RI-TCE/AM [irregularidade '19' (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '2' do item 21 do Relatório)]",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "Divergência entre saldo das conciliações e extratos bancários indica falha na gestão contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Inciso VI do art. 304"
+            }
+          ]
+        },
+        {
+          "trecho": "não execução dos serviços da planilha orçamentária no montante de R$ 22.000,00, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'a' - Carta Convite 14/2009 (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '1' do item 23 do Relatório)]",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A não execução de serviços orçamentários é uma irregularidade na execução financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE",
+              "artigo": "304",
+              "descricao": "Inciso I do art. 304"
+            }
+          ]
+        },
+        {
+          "trecho": "não execução dos serviços discriminados na planilha orçamentária no valor de R$ 100.063,29, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'b' - Carta Convite 23/2009 (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '2' do item 23 do Relatório)]",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A não execução de serviços orçamentários é uma irregularidade na execução financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE",
+              "artigo": "304",
+              "descricao": "Inciso I do art. 304"
+            }
+          ]
+        },
+        {
+          "trecho": "não execução dos serviços da planilha de medição correspondente ao montante de R$ 127.257,45, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'd' - Carta Convite (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '3' do item 23 do Relatório)]",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A não execução de serviços orçamentários é uma irregularidade na execução financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE",
+              "artigo": "304",
+              "descricao": "Inciso I do art. 304"
+            }
+          ]
+        },
+        {
+          "trecho": "não execução dos serviços relacionados na planilha de medição no valor de R$ 139.273,30, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'e' (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '4' do item 23 do Relatório)]",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A não execução de serviços orçamentários é uma irregularidade na execução financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE",
+              "artigo": "304",
+              "descricao": "Inciso I do art. 304"
+            }
+          ]
+        },
+        {
+          "trecho": "não execução dos serviços discriminados na planilha orçamentária, no valor de R$ 1.000,00, nos termos da segunda parte do inciso I do art. 304 do RI-TCE [irregularidade 'i' (que também foi objeto de outra notificação por retratar dano ao erário, irregularidade '8' do item 23 do Relatório)]",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A não execução de serviços orçamentários é uma irregularidade na execução financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE",
+              "artigo": "304",
+              "descricao": "Inciso I do art. 304"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao Sr. Mecias Pereira Batista, Prefeito e Ordenador de Despesas, exercício 2009 no valor de R$10.000,00 nos termos do inciso VI do art. 308 da Resolução 4/2002 (RITCE/AM), com base no valor disciplinado pela Resolução 1/2009, à época, em razão de grave infração às normas legais e regulamentares (irregularidades '10', '12', '13', '16', '20', '24', '37', '40', 'a', 'b', 'c' 'd', 'e' e 'i')",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Mecias Pereira Batista, Prefeito e Ordenador de Despesas, exercício 2009 no valor de R$10.000,00 nos termos do inciso VI do art. 308 da Resolução 4/2002 (RITCE/AM), com base no valor disciplinado pela Resolução 1/2009, à época, em razão de grave infração às normas legais e regulamentares (irregularidades '10', '12', '13', '16', '20', '24', '37', '40', 'a', 'b', 'c' 'd', 'e' e 'i')",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A10B",
+          "tipologia_irregularidade": "Descumprimento de medidas para redução de Gasto com pessoal ao limite previsto na LRF",
+          "descricao": "Pagamentos sem processo administrativo contendo justificativa para a dispensa de licitação, razão da escolha do fornecedor, pesquisa de mercado e sem cobertura contratual.",
+          "justificativa_tipologia": "O descumprimento de normas legais e regulamentares, especialmente em licitações e contratos, é um forte indicador de problemas na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Inciso VI do art. 308"
+            },
+            {
+              "norma": "Resolução 1/2009",
+              "artigo": "N/A",
+              "descricao": "Valor disciplinado pela Resolução 1/2009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem, nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: a) Não atrase o envio das informações ao sistema ACP, bem como o seu adequado preenchimento, nos termos da Resolução 07/02-TCE, c/c Resolução 10/2012TCE/AM; b) Envide esforços para a manutenção de controle do patrimônio dos bens móveis e imóveis, nos termos do art. 94 e 96 da Lei 4.320/64, bem como mantenha o livro de tombo atualizado e com todas as informações adequadas; c) Encaminhe no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88; d) Dê publicidade aos Relatórios de Gestão Fiscal (RGF) e Resumidos da Execução Orçamentária (RREO), dentro dos prazos estipulados pelo art. 52, c/c o §2º do art. 55, sob pena de multa por prática de infração administrativa (art. 5º da Lei 10.028/2000), quanto aos RGF; e) Nas licitações e contratos observe todas as regras estipuladas pela Lei 8.666/93, tais como as relacionadas ao: orçamento analítico (art. 6º, IX, 'f' c/c art. 7º, § 2º, II da lei 8666/93), projetos arquitetônicos (art. 6º, IX, 'e' c/c art. 40, § 2º, I da lei 8666/93), diário de obra ou documento equivalente (art. 67, § 1º da Lei 8666/93), laudo de vistoria (art. 67, § 1º da Lei 8666/93), projeto básico aprovado pela autoridade competente (art. 6º, IX c/c art. 7º, § 2º, I, II, III, IV da Lei 8666/93), entre outras; f) Contabilize todos os atos e fatos exigidos pela Demonstração das Variações Patrimoniais e pelo Balanço Patrimonial, nos termos dos arts. 104 e 105 da Lei 4.320/64; g) Cumpra com o pagamento de suas obrigações no prazo correto, a fim de evitar o pagamento e juros e, por conseguinte, a prática de dano ao erário, sob pena de devolver o valor do dano aos cofres públicos; h) Inscreva devidamente as obrigações nos restos a pagar, nos termos do art. 36 da Lei 4.320/64; i) Observe as regras disciplinadas pela Lei Orgânica de Barreirinha; j) Preencha apenas aqueles cargos criados por Lei, nos termos dos incisos I e II do art. 37 da CF/88; k) Em caso de emergência que só sejam adquiridos objetos necessários ao atendimento dessa situação, nos termos do inciso IV do art. 24 da Lei 8.666/93; l) a concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita seja acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que se inicie sua vigência e nos dois seguintes, atendendo ao disposto na lei de diretrizes orçamentárias e aos demais incisos disciplinados pelo art. 14 da LRF; m) Observe, por último, que a reincidência do agente responsável no cumprimento das determinações ora veiculadas acarretará o julgamento das suas respectivas Contas irregulares, conforme prevê a alínea 'e' do inciso III do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Não atrase o envio das informações ao sistema ACP, bem como o seu adequado preenchimento, nos termos da Resolução 07/02-TCE, c/c Resolução 10/2012TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A falta de envio de informações ao sistema ACP dificulta a transparência e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 07/02-TCE",
+              "artigo": "N/A",
+              "descricao": "Termos da Resolução 07/02-TCE"
+            },
+            {
+              "norma": "Resolução 10/2012TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Termos da Resolução 10/2012TCE/AM"
+            }
+          ]
+        },
+        {
+          "trecho": "Envide esforços para a manutenção de controle do patrimônio dos bens móveis e imóveis, nos termos do art. 94 e 96 da Lei 4.320/64, bem como mantenha o livro de tombo atualizado e com todas as informações adequadas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "O não controle do patrimônio pode levar a desvios e perdas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "94",
+              "descricao": "Termos do art. 94"
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "96",
+              "descricao": "Termos do art. 96"
+            }
+          ]
+        },
+        {
+          "trecho": "Encaminhe no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A falta de envio dos relatórios dificulta o controle fiscal e a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "32",
+              "descricao": "Alínea 'h' do inciso II do art. 32"
+            },
+            {
+              "norma": "Resolução 11/2009",
+              "artigo": "N/A",
+              "descricao": "§1º da Resolução 11/2009"
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "165",
+              "descricao": "§3º do art. 165"
+            }
+          ]
+        },
+        {
+          "trecho": "Dê publicidade aos Relatórios de Gestão Fiscal (RGF) e Resumidos da Execução Orçamentária (RREO), dentro dos prazos estipulados pelo art. 52, c/c o §2º do art. 55, sob pena de multa por prática de infração administrativa (art. 5º da Lei 10.028/2000), quanto aos RGF",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A31B",
+          "tipologia_irregularidade": "Ausência de atualidade na divulgação do Relatório Resumido da Execução Orçamentária (RREO)",
+          "descricao": "Não foi identificado o Relatório publicado dentro dos prazos determinados em lei.",
+          "justificativa_tipologia": "Dar publicidade é essencial para transparência na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 52",
+              "artigo": "N/A",
+              "descricao": "Prazos estipulados pelo art. 52"
+            },
+            {
+              "norma": "Art. 55",
+              "artigo": "N/A",
+              "descricao": "§2º do art. 55"
+            },
+            {
+              "norma": "Lei 10.028/2000",
+              "artigo": "5",
+              "descricao": "Multa por prática de infração administrativa (art. 5º da Lei 10.028/2000), quanto aos RGF"
+            }
+          ]
+        },
+        {
+          "trecho": "Nas licitações e contratos observe todas as regras estipuladas pela Lei 8.666/93, tais como as relacionadas ao: orçamento analítico (art. 6º, IX, 'f' c/c art. 7º, § 2º, II da lei 8666/93), projetos arquitetônicos (art. 6º, IX, 'e' c/c art. 40, § 2º, I da lei 8666/93), diário de obra ou documento equivalente (art. 67, § 1º da Lei 8666/93), laudo de vistoria (art. 67, § 1º da Lei 8666/93), projeto básico aprovado pela autoridade competente (art. 6º, IX c/c art. 7º, § 2º, I, II, III, IV da Lei 8666/93), entre outras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "O descumprimento das regras de licitação pode levar a irregularidades na gestão dos contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "6",
+              "descricao": "orçamento analítico (art. 6º, IX, 'f'"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "7",
+              "descricao": "art. 7º, § 2º, II"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "6",
+              "descricao": "projetos arquitetônicos (art. 6º, IX, 'e'"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "40",
+              "descricao": "art. 40, § 2º, I"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "67",
+              "descricao": "diário de obra ou documento equivalente (art. 67, § 1º"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "67",
+              "descricao": "laudo de vistoria (art. 67, § 1º"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "6",
+              "descricao": "projeto básico aprovado pela autoridade competente (art. 6º, IX"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "7",
+              "descricao": "art. 7º, § 2º, I, II, III, IV"
+            }
+          ]
+        },
+        {
+          "trecho": "Contabilize todos os atos e fatos exigidos pela Demonstração das Variações Patrimoniais e pelo Balanço Patrimonial, nos termos dos arts. 104 e 105 da Lei 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A contabilização correta dos atos é fundamental para a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "104",
+              "descricao": "Termos dos arts. 104"
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "105",
+              "descricao": "Termos dos arts. 105"
+            }
+          ]
+        },
+        {
+          "trecho": "Cumpra com o pagamento de suas obrigações no prazo correto, a fim de evitar o pagamento e juros e, por conseguinte, a prática de dano ao erário, sob pena de devolver o valor do dano aos cofres públicos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O descumprimento das obrigações financeiras pode levar a prejuízos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Inscreva devidamente as obrigações nos restos a pagar, nos termos do art. 36 da Lei 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "A inscrição correta nos restos a pagar é essencial para a gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "36",
+              "descricao": "Termos do art. 36"
+            }
+          ]
+        },
+        {
+          "trecho": "Observe as regras disciplinadas pela Lei Orgânica de Barreirinha",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "N/A",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "N/A",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica de Barreirinha",
+              "artigo": "N/A",
+              "descricao": "Regras disciplinadas pela Lei Orgânica de Barreirinha"
+            }
+          ]
+        },
+        {
+          "trecho": "Preencha apenas aqueles cargos criados por Lei, nos termos dos incisos I e II do art. 37 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O preenchimento de cargos sem lei é uma irregularidade na gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "37",
+              "descricao": "Termos dos incisos I e II do art. 37"
+            }
+          ]
+        },
+        {
+          "trecho": "Em caso de emergência que só sejam adquiridos objetos necessários ao atendimento dessa situação, nos termos do inciso IV do art. 24 da Lei 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "Adquirir objetos sem emergência é burla a licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "24",
+              "descricao": "Termos do inciso IV do art. 24"
+            }
+          ]
+        },
+        {
+          "trecho": "a concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita seja acompanhada

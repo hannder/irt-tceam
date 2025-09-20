@@ -1,0 +1,64 @@
+{
+  "acordao": "992/2017",
+  "processo": "1599/2014",
+  "data_sessao": "31 de outubro de 2017",
+  "orgao": "SUSAM",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "José Duarte dos Santos Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Conhecimento",
+      "descricao": "Conhecer os presentes Embargos de Declaração interposto pelo do Sr. Sr. José Duarte dos Santos Filho , Secretário Executivo e Ordenador de Despesas, à época;",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer os presentes Embargos de Declaração interposto pelo do Sr. Sr. José Duarte dos Santos Filho , Secretário Executivo e Ordenador de Despesas, à época;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A deliberação apenas registra o conhecimento dos Embargos de Declaração, sem indicar irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Negação de Provimento",
+      "descricao": "Negar Provimento, ratificando in totum o Acórdão nº 624/2017 - TCE - Tribunal Pleno, às folhas 723/724 dos presentes autos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar Provimento, ratificando in totum o Acórdão nº 624/2017 - TCE - Tribunal Pleno, às folhas 723/724 dos presentes autos;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A deliberação apenas registra a Negação de Provimento, sem indicar irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência , desta decisão ao ora Embargante.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência , desta decisão ao ora Embargante.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A deliberação apenas determina a ciência da decisão ao embargante, sem indicar irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

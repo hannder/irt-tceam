@@ -1,0 +1,53 @@
+{
+  "acordao": "635/2025",
+  "processo": "12088/2024",
+  "data_sessao": "24 de Abril de 2025",
+  "orgao": "Fundo Estadual de Incentivo ao Cumprimento de Metas da Educação Básica - FEICMEB",
+  "municipio": "Manaus",
+  "exercicio": "2023",
+  "responsavel": [
+    "Arlete Ferreira Mendonca"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a  Prestação de Contas do Fundo Estadual de Incentivo ao Cumprimento  de  Metas  da  Educação  Básica  -  FEICMEB,  de responsabilidade da Sra. Arlete Ferreira Mendonça , exercício de 2023, nos termos do art. 22, inciso I, da Lei n.º 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a  Prestação de Contas do Fundo Estadual de Incentivo ao Cumprimento  de  Metas  da  Educação  Básica  -  FEICMEB,  de responsabilidade da Sra. Arlete Ferreira Mendonça , exercício de 2023, nos termos do art. 22, inciso I, da Lei n.º 2.423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere ao julgamento das contas, não indicando irregularidade contábil, mas sim uma decisão sobre a regularidade das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar a Sra. Arlete Ferreira Mendonca com cópia do Relatório/Voto e do Acórdão para ciência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar a Sra. Arlete Ferreira Mendonca com cópia do Relatório/Voto e do Acórdão para ciência.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho se refere a uma notificação para ciência, não indicando irregularidade relacionada a documentos ou informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

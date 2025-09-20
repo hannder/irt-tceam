@@ -1,0 +1,276 @@
+{
+  "acordao": "570/2025",
+  "processo": "12104/2024",
+  "data_sessao": "08 de Abril de 2025",
+  "orgao": "Câmara Municipal de Nova Olinda do Norte",
+  "municipio": "Nova Olinda do Norte",
+  "exercicio": "2023",
+  "responsavel": [
+    "Leandro D'Ávila de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual da Câmara Municipal de Nova Olinda do Norte, referente ao exercício de 2023, de responsabilidade do Sr. Leandro D'Ávila de Oliveira , Gestor e Ordenador de Despesas, nos termos dos arts. 1°, II, 'a', e 22, II, da Lei nº 2.423/1996, c/c o art.188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual da Câmara Municipal de Nova Olinda do Norte, referente ao exercício de 2023, de responsabilidade do Sr. Leandro D'Ávila de Oliveira , Gestor e Ordenador de Despesas, nos termos dos arts. 1°, II, 'a', e 22, II, da Lei nº 2.423/1996, c/c o art.188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A tipologia foi selecionada por se tratar de um julgamento das contas com ressalva. Não apresenta indícios de problemas estruturais ou recorrentes na gestão pública que justifiquem marcar como 'relevante_para_indice = True'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "1°, II, 'a'",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Leandro D'Ávila de Oliveira , Gestor e Ordenador de  Despesas  da  Câmara  Municipal  de  Nova  Olinda  do  Norte,  no exercício de 2023, no valor de R$ 1.706,80 (um mil, setecentos e seis reais  e  oitenta  centavos) , pela  inobservância  do  prazo  legal,  para remessa  ao  Tribunal  de  Contas,  do  balancete  mensal  do  mês  de novembro do exercício de 2023, nos termos do art. 54, I, 'a', da Lei nº 2.423/1996  c/c  o  art.  308,  I,  'a',  da  Resolução  nº  04/2002-TCE/AM, conforme  achado  nº  01,  constante  da  fundamentação  do  Voto,  e  fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de dar avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante  de  pagamento  (autenticado  pelo  Banco)  a  esta  Corte  de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade  da  cobrança  administrativa  ou  judicial  do  título  executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III  e  IV  da  Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado  com  o  Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil  Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Leandro D'Ávila de Oliveira , Gestor e Ordenador de  Despesas  da  Câmara  Municipal  de  Nova  Olinda  do  Norte,  no exercício de 2023, no valor de R$ 1.706,80 (um mil, setecentos e seis reais  e  oitenta  centavos) , pela  inobservância  do  prazo  legal,  para remessa  ao  Tribunal  de  Contas,  do  balancete  mensal  do  mês  de novembro do exercício de 2023, nos termos do art. 54, I, 'a', da Lei nº 2.423/1996  c/c  o  art.  308,  I,  'a',  da  Resolução  nº  04/2002-TCE/AM, conforme  achado  nº  01,  constante  da  fundamentação  do  Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa devido ao envio de balancete mensal fora do prazo, o que configura uma irregularidade na gestão documental e no cumprimento de prazos legais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "54, I, 'a'",
+              "descricao": "Fundamentação para aplicação de multa por inobservância do prazo legal"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "Fundamentação para aplicação de multa por inobservância do prazo legal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Leandro D'Ávila de Oliveira , Gestor e Ordenador de  Despesas  da  Câmara  Municipal  de  Nova  Olinda  do  Norte,  no exercício de 2023, no valor de R$ 8.000,00 (oito mil reais) , nos termos do art.  54,  VII,  da  Lei  n°  2.423/1996  c/c  art.  308,  VII,  da  Resolução  n° 04/2002-TCE/AM, pelos achados não sanados nº 02, 03, 05, 06 e 08, constantes  da  fundamentação  do  Voto,  e  fixar prazo  de  30  dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Leandro D'Ávila de Oliveira , Gestor e Ordenador de  Despesas  da  Câmara  Municipal  de  Nova  Olinda  do  Norte,  no exercício de 2023, no valor de R$ 8.000,00 (oito mil reais) , nos termos do art.  54,  VII,  da  Lei  n°  2.423/1996  c/c  art.  308,  VII,  da  Resolução  n° 04/2002-TCE/AM, pelos achados não sanados nº 02, 03, 05, 06 e 08, constantes  da  fundamentação  do  Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Aplicação de multa por múltiplos achados não sanados, indicando falhas na gestão orçamentária e no cumprimento de obrigações legais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/1996",
+              "artigo": "54, VII",
+              "descricao": "Fundamentação para aplicação de multa por achados não sanados"
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, VII",
+              "descricao": "Fundamentação para aplicação de multa por achados não sanados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Nova Olinda do Norte, sob pena de sanção em caso de reincidência, que:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Implemente mecanismos de controle eficazes, garantindo que os balancetes mensais sejam enviados dentro do prazo estabelecido pela legislação vigente (achado nº 01)",
+      "trechos_identificados": [
+        {
+          "trecho": "Implemente mecanismos de controle eficazes, garantindo que os balancetes mensais sejam enviados dentro do prazo estabelecido pela legislação vigente (achado nº 01)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para implementar mecanismos de controle eficazes indica uma deficiência no sistema de controle interno, que pode levar a irregularidades recorrentes. Por isso, 'relevante_para_indice' foi definido como 'true'.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Implemente mecanismos de controle eficazes, para garantir a publicação dos relatórios de gestão fiscal dentro do  prazo  legal  de  30  (trinta)  dias  após  o  encerramento  de cada  quadrimestre  ou  semestre,  assegurando  a  ampla divulgação das informações públicas (achado nº 02)",
+      "trechos_identificados": [
+        {
+          "trecho": "Implemente mecanismos de controle eficazes, para garantir a publicação dos relatórios de gestão fiscal dentro do  prazo  legal  de  30  (trinta)  dias  após  o  encerramento  de cada  quadrimestre  ou  semestre,  assegurando  a  ampla divulgação das informações públicas (achado nº 02)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A recomendação visa garantir a publicação dos relatórios de gestão fiscal dentro do prazo legal, o que está diretamente relacionado à transparência e ao controle social dos gastos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Promova esforços para cumprimento da regra constitucional do concurso  público, bem  como  que  se abstenha de contratar servidores temporários ou comissionados para funções que deveriam ser ocupadas por servidores efetivos, exceto nas hipóteses legalmente justificadas (achado nº 03)",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova esforços para cumprimento da regra constitucional do concurso  público, bem  como  que  se abstenha de contratar servidores temporários ou comissionados para funções que deveriam ser ocupadas por servidores efetivos, exceto nas hipóteses legalmente justificadas (achado nº 03)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação para promover esforços no cumprimento da regra do concurso público e abster-se de contratar servidores temporários ou comissionados para funções que deveriam ser ocupadas por efetivos indica uma deficiência no planejamento de pessoal e no cumprimento da legislação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Mantenha atualizadas e corretamente registradas as versões das leis que regem  seu quadro de pessoal, garantindo que as informações prestadas durante as fiscalizações estejam corretas (achado nº 04)",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha atualizadas e corretamente registradas as versões das leis que regem  seu quadro de pessoal, garantindo que as informações prestadas durante as fiscalizações estejam corretas (achado nº 04)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A recomendação para manter atualizadas e corretamente registradas as versões das leis que regem o quadro de pessoal indica uma fragilidade na normatização das rotinas internas, o que pode levar a decisões inconsistentes e a dificuldades na fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Regularize a concessão das gratificações, garantindo que todo  pagamento  adicional  seja  formalmente  concedido  por ato específico e devidamente fundamentado (achado nº 05)",
+      "trechos_identificados": [
+        {
+          "trecho": "Regularize a concessão das gratificações, garantindo que todo  pagamento  adicional  seja  formalmente  concedido  por ato específico e devidamente fundamentado (achado nº 05)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A14B",
+          "tipologia_irregularidade": "Pagamento de Gratificação não regulamentada",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "A recomendação para regularizar a concessão de gratificações e garantir que todo pagamento adicional seja formalmente concedido por ato específico e devidamente fundamentado indica uma fragilidade no controle dos gastos com pessoal e no cumprimento da legislação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Tome as providencias cabíveis, junto ao  vereador Jorge William Biazze Campos ,  a  fim  de regularizar sua situação funcional, de forma que opte por apenas um dos cargos de professor, além do cargo de vereador, em consonância com o art. 38, III, da Constituição Federal (achado nº 06)",
+      "trechos_identificados": [
+        {
+          "trecho": "Tome as providencias cabíveis, junto ao  vereador Jorge William Biazze Campos ,  a  fim  de regularizar sua situação funcional, de forma que opte por apenas um dos cargos de professor, além do cargo de vereador, em consonância com o art. 38, III, da Constituição Federal (achado nº 06)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A recomendação para que o vereador regularize sua situação funcional, optando por apenas um dos cargos de professor, além do cargo de vereador, indica um possível acúmulo ilegal de cargos, o que é uma irregularidade grave que pode comprometer a independência e a imparcialidade do agente público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "38, III",
+              "descricao": "Norma que trata sobre a situação funcional de vereadores"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Anexe imediatamente as pesquisas de preços aos autos dos  respectivos  processos  licitatórios, assegurando  sua correta  formalização  e  integralidade  documental,  por  se tratar de elemento essencial a instrução e regularidade dos procedimentos,  conforme  a  legislação  vigente  (achado  nº 07)",
+      "trechos_identificados": [
+        {
+          "trecho": "Anexe imediatamente as pesquisas de preços aos autos dos  respectivos  processos  licitatórios, assegurando  sua correta  formalização  e  integralidade  documental,  por  se tratar de elemento essencial a instrução e regularidade dos procedimentos,  conforme  a  legislação  vigente  (achado  nº 07)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A recomendação para anexar imediatamente as pesquisas de preços aos processos licitatórios indica uma fragilidade na formalização e integralidade documental, o que pode comprometer a transparência e a economicidade das contratações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Proceda à publicação integral de todos os Termos Contratuais celebrados, garantindo  a  devida  transparência, e,  a  partir  dos  próximos  certames,  publique  os  instrumentos convocatórios antes da data da sessão pública, possibilitando ampla  concorrência e permitindo que  os licitantes interessados tenham tempo hábil para a elaboração de suas propostas, em observância aos princípios da publicidade, isonomia e eficiência administrativa (achado nº 08)",
+      "trechos_identificados": [
+        {
+          "trecho": "Proceda à publicação integral de todos os Termos Contratuais celebrados, garantindo  a  devida  transparência, e,  a  partir  dos  próximos  certames,  publique  os  instrumentos convocatórios antes da data da sessão pública, possibilitando ampla  concorrência e permitindo que  os licitantes interessados tenham tempo hábil para a elaboração de suas propostas, em observância aos princípios da publicidade, isonomia e eficiência administrativa (achado nº 08)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A recomendação para proceder à publicação integral dos Termos Contratuais e dos instrumentos convocatórios indica uma fragilidade na transparência dos processos licitatórios, o que pode comprometer a ampla concorrência e a economicidade das contratações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Adote medidas administrativas e eficazes para assegurar a disponibilidade de caixa necessária ao cumprimento integral  de  suas  obrigações  financeiras,  posicionamento  o qual acompanho (achado nº 09)",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote medidas administrativas e eficazes para assegurar a disponibilidade de caixa necessária ao cumprimento integral  de  suas  obrigações  financeiras,  posicionamento  o qual acompanho (achado nº 09)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "A recomendação para adotar medidas administrativas e eficazes para assegurar a disponibilidade de caixa indica uma fragilidade na gestão financeira, o que pode comprometer o cumprimento das obrigações e a qualidade dos serviços públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência do  teor  desta  decisão  ao  responsável,  ao Sr.  Leandro D'Ávila de Oliveira",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, após expirados os prazos legais.",
+      "trechos_identificados": []
+    }
+  ]
+}

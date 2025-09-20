@@ -1,0 +1,290 @@
+{
+  "acordao": "1133/2023",
+  "processo": "12255/2022",
+  "data_sessao": "13 de Junho de 2023",
+  "orgao": "Fundo Estadual de Assistência Social - FEAS",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Alessandra Campelo da Silva",
+    "Maricilia Teixeira da Costa ",
+    "Kely Patrícia Paixão Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a  Prestação  de  Contas  Anual  do Fundo Estadual de Assistência  Social  -  FEAS , referente  ao exercício  financeiro  de 2021 , de  responsabilidade  da Sra. Maricilia Teixeira da  Costa , Gestora e Ordenadora de Despesas no período de 01/01 a 17/03/2021, nos termos do art. 22, inciso I, e 23 da Lei n° 2.423/96 c/c art. 188, § 1°, inciso I, da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a  Prestação  de  Contas  Anual  do Fundo Estadual de Assistência  Social  -  FEAS , referente  ao exercício  financeiro  de 2021 , de  responsabilidade  da Sra. Maricilia Teixeira da  Costa , Gestora e Ordenadora de Despesas no período de 01/01 a 17/03/2021, nos termos do art. 22, inciso I, e 23 da Lei n° 2.423/96 c/c art. 188, § 1°, inciso I, da Resolução n° 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apresenta o julgamento das contas como regulares.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, inciso I",
+              "descricao": "Dispõe sobre o julgamento das contas como regulares."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre o julgamento das contas como regulares."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "188, § 1°, inciso I",
+              "descricao": "Dispõe sobre o julgamento das contas como regulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual do Fundo Estadual de Assistência Social -FEAS, referente ao exercício financeiro de 2021 , de responsabilidade da Sra. Alessandra Campelo da Silva , Gestora e Ordenadora de Despesas no período de 18/03 a 15/09/2021; e da Sra. Kely Patrícia Paixão Silva , Gestora e Ordenadora  de  Despesas  no  período  de  15/09  a  31/12/2021,  nos termos do art. 22, inciso II, e 24 da Lei n° 2.423/96 c/c art. 188, § 1°,",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual do Fundo Estadual de Assistência Social -FEAS, referente ao exercício financeiro de 2021 , de responsabilidade da Sra. Alessandra Campelo da Silva , Gestora e Ordenadora de Despesas no período de 18/03 a 15/09/2021; e da Sra. Kely Patrícia Paixão Silva , Gestora e Ordenadora  de  Despesas  no  período  de  15/09  a  31/12/2021,  nos termos do art. 22, inciso II, e 24 da Lei n° 2.423/96 c/c art. 188, § 1°,",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apresenta o julgamento das contas como regulares com ressalvas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre o julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre o julgamento das contas como regulares com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Dar quitação à Sra. Maricilia Teixeira da Costa , Gestora no período de 01/01 a 17/03/2021, nos termos dos arts. 23 e 72, I, ambos da Lei n° 2.423/96, c/c o art. 189, I, da Resolução nº 04/2002 -TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação à Sra. Maricilia Teixeira da Costa , Gestora no período de 01/01 a 17/03/2021, nos termos dos arts. 23 e 72, I, ambos da Lei n° 2.423/96, c/c o art. 189, I, da Resolução nº 04/2002 -TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apresenta a quitação da gestora",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a quitação."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72, I",
+              "descricao": "Dispõe sobre a quitação."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Dispõe sobre a quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Dar  quitação à Sra.  Alessandra  Campelo  da  Silva , Gestora  no período de 18/03 a 15/09/2021, nos termos dos arts. 24 e 72, II, ambos da  Lei  n°  2.423/96,  c/c  o  art.  189,  II,  da  Resolução  nº  04/2002  TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação à Sra.  Alessandra  Campelo  da  Silva , Gestora  no período de 18/03 a 15/09/2021, nos termos dos arts. 24 e 72, II, ambos da  Lei  n°  2.423/96,  c/c  o  art.  189,  II,  da  Resolução  nº  04/2002  TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apresenta a quitação da gestora",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a quitação."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72, II",
+              "descricao": "Dispõe sobre a quitação."
+            },
+            {
+              "norma": "Resolução nº 04/2002  TCE/AM",
+              "artigo": "189,  II",
+              "descricao": "Dispõe sobre a quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Dar quitação à Sra. Kely Patricia Paixao Silva , Gestora no período de 15/09 a 31/12/2021, nos termos dos arts. 24 e 72, II, ambos da Lei n° 2.423/96, c/c o art. 189, II, da Resolução nº 04/2002 -TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação à Sra. Kely Patricia Paixao Silva , Gestora no período de 15/09 a 31/12/2021, nos termos dos arts. 24 e 72, II, ambos da Lei n° 2.423/96, c/c o art. 189, II, da Resolução nº 04/2002 -TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apresenta a quitação da gestora",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a quitação."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72, II",
+              "descricao": "Dispõe sobre a quitação."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Dispõe sobre a quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual gestão do Fundo Estadual de Assistência Social FEAS que: - Observe  a obrigatoriedade de elaboração das notas explicativas em consonância com o MCASP, especialmente no que tange à divulgação das políticas contábeis adotadas pelo órgão público",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  a obrigatoriedade de elaboração das notas explicativas em consonância com o MCASP, especialmente no que tange à divulgação das políticas contábeis adotadas pelo órgão público",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A recomenda que se elabore as notas explicativas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "MCASP",
+              "artigo": "Itens 2.3, 3.3, 4.3, 5.3 e 8",
+              "descricao": "Dispõe sobre Notas Explicativas das Demonstrações Contábeis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual gestão do Fundo Estadual de Assistência Social FEAS que: - Observe a obrigatoriedade de estabelecimento de cláusula resolutiva em contratos emergenciais, conforme jurisprudência do Tribunal de Contas da União (TCU)",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe a obrigatoriedade de estabelecimento de cláusula resolutiva em contratos emergenciais, conforme jurisprudência do Tribunal de Contas da União (TCU)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "Recomendação para observar a obrigatoriedade de cláusula resolutiva em contratos emergenciais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Tribunal de Contas da União",
+              "artigo": "Não consta",
+              "descricao": "Recomendação para observar a obrigatoriedade de cláusula resolutiva em contratos emergenciais, conforme jurisprudência do Tribunal de Contas da União (TCU)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual gestão do Fundo Estadual de Assistência Social FEAS que: - Evite o pagamento das despesas sem cobertura contratual",
+      "trechos_identificados": [
+        {
+          "trecho": "Evite o pagamento das despesas sem cobertura contratual",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Recomendação para evitar o pagamento de despesas sem cobertura contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Recomendação para evitar o pagamento de despesas sem cobertura contratual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria do Tribunal Pleno - SEPLENO, que adote as providências dispostas no art. 162 da Resolução nº 04/2002 - TCE/AM, dentre elas, a cientificação das interessadas sobre o julgamento deste processo, encaminhando-lhes cópia do Relatório/Voto e do Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria do Tribunal Pleno - SEPLENO, que adote as providências dispostas no art. 162 da Resolução nº 04/2002 - TCE/AM, dentre elas, a cientificação das interessadas sobre o julgamento deste processo, encaminhando-lhes cópia do Relatório/Voto e do Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho apresenta a determinação de adoção de providências.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "162",
+              "descricao": "Dispõe sobre as providências a serem adotadas pela Secretaria do Tribunal Pleno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  processo,  após  o  cumprimento  integral  do  decisório,  nos termos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  processo,  após  o  cumprimento  integral  do  decisório,  nos termos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apresenta o arquivamento do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do Tribunal de Contas",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre arquivamento do processo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

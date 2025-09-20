@@ -1,0 +1,147 @@
+{
+  "acordao": "59/2016",
+  "processo": "10972/2015",
+  "data_sessao": "25 de Outubro de 2016",
+  "orgao": "Prefeitura Municipal de Santo Antônio do Içá",
+  "municipio": "Santo Antônio do Içá",
+  "exercicio": "2014",
+  "responsavel": [
+    "Sr. Abraão Magalhães Lasmar"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas da Prefeitura Municipal de Alvarães, exercício financeiro de 2012, de responsabilidade do Sr. Mário Tomaz Litaiff , enquanto Ordenador de Despesas, nos termos dos arts. 1º, inciso II; 19, inciso II, 22, inciso III, alíneas 'b' e 'c', e 25 da Lei Estadual nº 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas da Prefeitura Municipal de Alvarães, exercício financeiro de 2012, de responsabilidade do Sr. Mário Tomaz Litaiff , enquanto Ordenador de Despesas, nos termos dos arts. 1º, inciso II; 19, inciso II, 22, inciso III, alíneas 'b' e 'c', e 25 da Lei Estadual nº 2.423/1996",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição do trecho indica que a prestação de contas foi julgada irregular, sugerindo uma falha na apresentação das informações financeiras, o que se alinha com a ausência de notas explicativas nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "Fundamenta a irregularidade da prestação de contas."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "19, inciso II",
+              "descricao": "Fundamenta a irregularidade da prestação de contas."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso III, alíneas 'b' e 'c'",
+              "descricao": "Fundamenta a irregularidade da prestação de contas."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "25",
+              "descricao": "Fundamenta a irregularidade da prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Mário Tomaz Litaiff no valor de R$ 2.879.097,26 (dois milhões, oitocentos e setenta e nove mil, noventa e sete reais e vinte e seis centavos) que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Alvarães, nos termos postos pela Comissão da DICOP, com devolução aos cofres públicos corrigidos nos moldes do art. 304, inciso VI, da Resolução nº 04/2002 RI/TCE. O recolhimento deve ser feito no prazo de 30 dias para que o responsável pelas contas proceda ao recolhimento do alcance aos cofres da Fazenda Municipal, com a devida comprovação perante este Tribunal, nos termos do art. 72, II, da Lei nº 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Mário Tomaz Litaiff no valor de R$ 2.879.097,26 (dois milhões, oitocentos e setenta e nove mil, noventa e sete reais e vinte e seis centavos) que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Alvarães, nos termos postos pela Comissão da DICOP, com devolução aos cofres públicos corrigidos nos moldes do art. 304, inciso VI, da Resolução nº 04/2002 RI/TCE. O recolhimento deve ser feito no prazo de 30 dias para que o responsável pelas contas proceda ao recolhimento do alcance aos cofres da Fazenda Municipal, com a devida comprovação perante este Tribunal, nos termos do art. 72, II, da Lei nº 2.423/1996",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação de recolhimento de valores indica que houve prejuízo ao erário, possivelmente por desvio de recursos ou pagamentos irregulares, o que se alinha com a tipologia de burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 RI/TCE",
+              "artigo": "304, inciso VI",
+              "descricao": "Define a correção dos valores a serem devolvidos aos cofres públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, II",
+              "descricao": "Estabelece o prazo e a forma de comprovação do recolhimento do alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Mário Tomaz Litaiff no valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos) que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ, referente às restrições de nº 1 a 7, 12 a 16, 18, 19, 23 e 24 apontadas na Notificação nº 07/2013 pela DICAMI, às fls. 710/718 dos autos, bem como às restrições nº 1 a 35 apontadas pela DICOP na Notificação nº 001/20013, às fls. 370/556 dos autos, consideradas não sanadas, por grave infração à norma legal, dano ao erário e não atendimento, no prazo fixado, sem causa justificada, à diligência ou à decisão do Tribunal nos termos do art. 54, incisos II, III e IV, da Lei Estadual nº 2.423/1996, conforme sugerido nos relatórios conclusivos das Comissões de Inspeção e no Parecer Ministerial; O recolhimento deve ser feito no prazo de 30 dias, para que o responsável pelas contas proceda ao recolhimento dos valores das multas aos cofres da Fazenda Estadual, com a devida comprovação perante este Tribunal, nos termos do art. 72, II, da Lei nº 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Mário Tomaz Litaiff no valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos) que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ, referente às restrições de nº 1 a 7, 12 a 16, 18, 19, 23 e 24 apontadas na Notificação nº 07/2013 pela DICAMI, às fls. 710/718 dos autos, bem como às restrições nº 1 a 35 apontadas pela DICOP na Notificação nº 001/20013, às fls. 370/556 dos autos, consideradas não sanadas, por grave infração à norma legal, dano ao erário e não atendimento, no prazo fixado, sem causa justificada, à diligência ou à decisão do Tribunal nos termos do art. 54, incisos II, III e IV, da Lei Estadual nº 2.423/1996, conforme sugerido nos relatórios conclusivos das Comissões de Inspeção e no Parecer Ministerial; O recolhimento deve ser feito no prazo de 30 dias, para que o responsável pelas contas proceda ao recolhimento dos valores das multas aos cofres da Fazenda Estadual, com a devida comprovação perante este Tribunal, nos termos do art. 72, II, da Lei nº 2.423/1996",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A9B",
+          "tipologia_irregularidade": "Omissão do Responsável pela Unidade de Controle Interno",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A aplicação de multa por infração à norma legal e dano ao erário, devido a restrições não sanadas e não atendimento a diligências, indica falhas nos controles internos e omissão na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "54, incisos II, III e IV",
+              "descricao": "Fundamenta a aplicação de multa por infração à norma legal, dano ao erário e não atendimento a diligências do Tribunal."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, II",
+              "descricao": "Estabelece o prazo e a forma de comprovação do recolhimento das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Representar ao Ministério Público Estadual , de acordo com o inciso XXIV do art. 1º, da Lei nº 2423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Representar ao Ministério Público Estadual , de acordo com o inciso XXIV do art. 1º, da Lei nº 2423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O encaminhamento ao Ministério Público Estadual sugere a identificação de possíveis irregularidades graves, como desvio de recursos, que exigem investigação adicional.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "1º, inciso XXIV",
+              "descricao": "Fundamenta a representação ao Ministério Público Estadual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Enviar à Prefeitura Municipal de Alvarães , cópia do Decisório proferido, bem como do Parecer Ministerial e dos Relatórios/Informações Conclusivos das Comissões de Inspeção in loco, para que promova as determinações/recomendações neles sugeridas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Enviar à Prefeitura Municipal de Alvarães , cópia do Decisório proferido, bem como do Parecer Ministerial e dos Relatórios/Informações Conclusivos das Comissões de Inspeção in loco, para que promova as determinações/recomendações neles sugeridas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para que a prefeitura promova as recomendações sugere que o controle interno é insuficientemente implementado ou estruturado.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

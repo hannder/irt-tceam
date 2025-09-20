@@ -1,0 +1,162 @@
+{
+  "acordao": "1396/2013",
+  "processo": "2462/2010",
+  "data_sessao": "05 de agosto de 2013",
+  "orgao": "PREFEITURA MUNICIPAL DO CAREIRO",
+  "municipio": "Careiro",
+  "exercicio": "2010, 2011 e 2012",
+  "responsavel": [],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar ILEGAL e negar REGISTRO (art: 19, IV, 0 art. 31, I, da Lei n. 2423/96 e art. 59 , IV, 0 art. 261, $ 2\" do Regimento Interno) aos Termos de Contrato Temporário acostados às fls. 160/285, e seus respectivos aditamentos; a ocupação das   funçães de professor, microscopista, médico da família, enfermagem; cirurgião dentista; técnico de higiene bucal e auxiliar de consultório dentárice por descumprimento do inciso IX do artigo 37 da CRFBI88",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar ILEGAL e negar REGISTRO (art: 19, IV, 0 art. 31, I, da Lei n. 2423/96 e art. 59 , IV, 0 art. 261, $ 2\" do Regimento Interno) aos Termos de Contrato Temporário acostados às fls. 160/285, e seus respectivos aditamentos; a ocupação das   funçães de professor, microscopista, médico da família, enfermagem; cirurgião dentista; técnico de higiene bucal e auxiliar de consultório dentárice por descumprimento do inciso IX do artigo 37 da CRFBI88",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A deliberação aponta para a ilegalidade e a negativa de registro de contratos temporários para funções permanentes, indicando uma possível burla à exigência de concurso público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "19, IV",
+              "descricao": "Julgar ILEGAL e negar REGISTRO"
+            },
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "31, I",
+              "descricao": "Julgar ILEGAL e negar REGISTRO"
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "59, IV",
+              "descricao": "Julgar ILEGAL e negar REGISTRO"
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "261, $ 2",
+              "descricao": "Julgar ILEGAL e negar REGISTRO"
+            },
+            {
+              "norma": "CRFBI88",
+              "artigo": "37, IX",
+              "descricao": "descumprimento do inciso IX do artigo 37 da CRFBI88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "conceder ao Chefe do Poder Executivo do Município do Careiro, 0 prazo de 90 (noventa) dias para que determine a0 órgão competente às seguintes providências:",
+      "trechos_identificados": [
+        {
+          "trecho": "conceder ao Chefe do Poder Executivo do Município do Careiro, 0 prazo de 90 (noventa) dias para que determine a0 órgão competente às seguintes providências:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A13B",
+          "tipologia_irregularidade": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "descricao": "Ausência de controle de fiscalização de contratos.",
+          "justificativa_tipologia": "Esta determinação é um alerta sobre a necessidade de adequação aos limites de gastos com pessoal impostos pela Lei de Responsabilidade Fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "medidas regularizadoras   cabíveis, fazendo cessar todo e qualquer pagamento decorrente desses atos ($ 30 do art: 261 da Resolução n. 04/2002), se ainda existentes; sob pena de Ihe ser aplicada a medida prevista no $ 4 do referido dispositivo",
+      "trechos_identificados": [
+        {
+          "trecho": "medidas regularizadoras   cabíveis, fazendo cessar todo e qualquer pagamento decorrente desses atos ($ 30 do art: 261 da Resolução n. 04/2002), se ainda existentes",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A82B",
+          "tipologia_irregularidade": "Pagamento ilegal de parcela remuneratória",
+          "descricao": "Pagamento ilegal de parcela remuneratória",
+          "justificativa_tipologia": "A determinação de cessar pagamentos decorrentes de atos irregulares indica uma falha na gestão de pessoal, especificamente relacionada ao pagamento indevido de valores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "261",
+              "descricao": "cessar todo e qualquer pagamento decorrente desses atos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "sob pena de Ihe ser aplicada a medida prevista no $ 4 do referido dispositivo",
+      "trechos_identificados": [
+        {
+          "trecho": "sob pena de Ihe ser aplicada a medida prevista no $ 4 do referido dispositivo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A79B",
+          "tipologia_irregularidade": "Não pagamento de Salários",
+          "descricao": "Pagamento de salário inferior ao piso salarial do magistério.",
+          "justificativa_tipologia": "Esta parte especifica a consequência do descumprimento da determinação, que está relacionada à regularização dos atos e pagamentos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "regularize; por meio de Concurso Público de provas, 0 seu quadro funcional; tendo em vista a impossibilidade de admissão de servidores temporários funçães permanentes;",
+      "trechos_identificados": [
+        {
+          "trecho": "regularize; por meio de Concurso Público de provas, 0 seu quadro funcional; tendo em vista a impossibilidade de admissão de servidores temporários funçães permanentes;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A determinação de realizar concurso público para regularizar o quadro funcional indica uma falha estrutural na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Departamento da Egrégia Primeira Câmara; que: 8,3.2eapós 0 julgamento; remeta cópia da Decisão a DICAMI para 10022/2012 e 10175/2013, exercícios de 2010, 2011 do   Município do Careiro;  respectivamente; dos e 2012, que ainda não foram julgados por esta Corte de Contas 8.3.1- adote as providências previstas no art: 161 do Regimento Interno;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao Departamento da Egrégia Primeira Câmara; que: 8,3.2eapós 0 julgamento; remeta cópia da Decisão a DICAMI para 10022/2012 e 10175/2013, exercícios de 2010, 2011 do   Município do Careiro;  respectivamente; dos e 2012, que ainda não foram julgados por esta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "Esta deliberação se refere a procedimentos internos do TCE e ao envio de informações para outros processos, não indicando diretamente uma irregularidade na gestão do órgão fiscalizado.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "adote as providências previstas no art: 161 do Regimento Interno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "Esta parte se refere ao cumprimento de procedimentos internos do TCE, não refletindo uma irregularidade na gestão do órgão fiscalizado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "161",
+              "descricao": "adote as providências previstas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

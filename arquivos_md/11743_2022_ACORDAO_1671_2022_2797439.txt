@@ -1,0 +1,109 @@
+{
+  "acordao": "1671/2022",
+  "processo": "11743/2022",
+  "data_sessao": "4 de Outubro de 2022",
+  "orgao": "Fundo  de  Previdência  Social dos  Servidores Públicos de Manaquiri -FUNPREV",
+  "municipio": "Manaquiri",
+  "exercicio": "2021",
+  "responsavel": [
+    "Ayrton Romero da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "irregular",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual,  do  Fundo  de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV,  exercício  financeiro  de  2021,  de  responsabilidade do Sr. Ayrton Romero da Silva ,  nos termos do art. 22, inciso III, da Lei nº 2423/96-LOTCE/AM  c/c  o  art.  188,  §1º,  inciso  III,  da Resolução nº 04/2002-RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Anual,  do  Fundo  de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV,  exercício  financeiro  de  2021,  de  responsabilidade do Sr. Ayrton Romero da Silva ,  nos termos do art. 22, inciso III, da Lei nº 2423/96-LOTCE/AM  c/c  o  art.  188,  §1º,  inciso  III,  da Resolução nº 04/2002-RITCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas anual do FUNPREV foi julgada irregular, o que configura uma falha na prestação de contas, pois não atende aos requisitos de regularidade exigidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96-LOTCE/AM",
+              "artigo": "22, inciso III",
+              "descricao": "Define as irregularidades na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "188, §1º, inciso III",
+              "descricao": "Regulamenta o julgamento das contas pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Ayrton  Romero  da  Silva no valor  de  R$ 68.271,96 (sessenta e oito mil, duzentos e setenta e um reais e noventa e seis centavos) , nos termos do art. 54, inciso VI, da Lei nº 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002 por grave infração a norma legal ou regulamentar em razão das impropriedades não sanadas nos itens 01, 02, 03, 05, 06, 07, 08, 10,  15,  16,  19  e  20  constantes  no  âmbito  da Notificação  nº 02/2022-CI/DICAMI (fls. 792-795) e fixar prazo de 30 (trinta) dias para  que  o  responsável  recolha  o  valor  da  MULTA",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Ayrton  Romero  da  Silva no valor  de  R$ 68.271,96 (sessenta e oito mil, duzentos e setenta e um reais e noventa e seis centavos) , nos termos do art. 54, inciso VI, da Lei nº 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002 por grave infração a norma legal ou regulamentar em razão das impropriedades não sanadas nos itens 01, 02, 03, 05, 06, 07, 08, 10,  15,  16,  19  e  20  constantes  no  âmbito  da Notificação  nº 02/2022-CI/DICAMI (fls. 792-795) e fixar prazo de 30 (trinta) dias para  que  o  responsável  recolha  o  valor  da  MULTA",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A aplicação de multa por infração a norma legal ou regulamentar, indica inobservancia aos princípios básicos que regem a Administração Publica.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, inciso VI",
+              "descricao": "Define as sanções aplicáveis pelo TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta a aplicação de multas por infrações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar que mantenha a atual gestão do Fundo de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV mantenha o Portal da Transparência devidamente atualizado, com divulgação em tempo real das informações de interesse coletivo ou geral, conforme dispõe o art. 8°, §§ 2° e 4° da Lei nº 12.527/2012 e que  observe  com  maior  rigor  o  disposto  no  art.  67  da  Lei  nº 8.666/1993, acerca da nomeação formal de fiscal do contrato, sob pena de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que mantenha a atual gestão do Fundo de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV mantenha o Portal da Transparência devidamente atualizado, com divulgação em tempo real das informações de interesse coletivo ou geral, conforme dispõe o art. 8°, §§ 2° e 4° da Lei nº 12.527/2012",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação para manter o Portal da Transparência atualizado indica uma necessidade de melhoria na divulgação de informações, o que pode indicar uma ausência de divulgação prévia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2012",
+              "artigo": "8°, §§ 2° e 4°",
+              "descricao": "Define as obrigações de transparência dos órgãos públicos."
+            }
+          ]
+        },
+        {
+          "trecho": "que  observe  com  maior  rigor  o  disposto  no  art.  67  da  Lei  nº 8.666/1993, acerca da nomeação formal de fiscal do contrato, sob pena de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "justificativa_tipologia": "A determinação para observar com maior rigor a nomeação formal de fiscal do contrato indica uma deficiência anterior nesse processo, o que pode comprometer a regularidade da execução contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "67",
+              "descricao": "Estabelece a obrigatoriedade de fiscalização dos contratos administrativos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

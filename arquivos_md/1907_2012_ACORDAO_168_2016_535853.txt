@@ -1,0 +1,185 @@
+{
+  "acordao": "168/2016",
+  "processo": "1907/2012",
+  "data_sessao": "17 de fevereiro de 2016",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Iranduba - SAAE",
+  "municipio": "Iranduba",
+  "exercicio": "2011",
+  "responsavel": [
+    "Enilda Maria Brandão Eduardo Lins",
+    "Waldir Frota Reis"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regulares com ressalvas a Prestação de Contas Anual do SAAE/Iranduba referente ao exercício de 2011, de responsabilidade da Sra. Enilda Maria Brandão Eduardo Lins, na condição de Diretora-Presidente e ordenadora da despesa no período de 01.01 a 30.03.2011 (art. 22, inc. II e 24 da Lei Estadual n° 2.423/96), sem aplicação de multa, dando baixa em sua responsabilidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regulares com ressalvas a Prestação de Contas Anual do SAAE/Iranduba referente ao exercício de 2011, de responsabilidade da Sra. Enilda Maria Brandão Eduardo Lins, na condição de Diretora-Presidente e ordenadora da despesa no período de 01.01 a 30.03.2011 (art. 22, inc. II e 24 da Lei Estadual n° 2.423/96), sem aplicação de multa, dando baixa em sua responsabilidade",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação envolve o julgamento das contas e, apesar de apresentar ressalvas, não detalha irregularidades que justifiquem marcar como 'relevante_para_indice'",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n° 2.423/96",
+              "artigo": "22, inc. II e 24",
+              "descricao": "Dispõe sobre as sanções aplicáveis aos responsáveis por irregularidades na gestão de recursos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar Irregulares a Prestação de Contas Anual do SAAE/Iranduba referente ao exercício de 2011, de responsabilidade do Sr. Waldir Frota Reis, na condição de Diretor-Presidente e ordenador de despesa no período de 31.03 a 31.12.2011 (art. 22, inc. III, alíneas 'b' a 'd', e 25 da Lei Estadual n° 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregulares a Prestação de Contas Anual do SAAE/Iranduba referente ao exercício de 2011, de responsabilidade do Sr. Waldir Frota Reis, na condição de Diretor-Presidente e ordenador de despesa no período de 31.03 a 31.12.2011 (art. 22, inc. III, alíneas 'b' a 'd', e 25 da Lei Estadual n° 2.423/96)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Considerando o julgamento das contas como irregulares, o que indica problemas significativos na gestão, e a menção à Lei Estadual n° 2.423/96, que trata de sanções por irregularidades, classifica-se como relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n° 2.423/96",
+              "artigo": "22, inc. III, alíneas 'b' a 'd', e 25",
+              "descricao": "Dispõe sobre as sanções aplicáveis aos responsáveis por irregularidades na gestão de recursos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao Sr. Waldir Frota Reis no valor de R$ 13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos), com base no art. 54, II e III, da Lei Orgânica TCE/AM c/c o art. 308, V e VI, do Regimento Interno TCE/AM, relativa às restrições remanescentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Waldir Frota Reis no valor de R$ 13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos), com base no art. 54, II e III, da Lei Orgânica TCE/AM c/c o art. 308, V e VI, do Regimento Interno TCE/AM, relativa às restrições remanescentes",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A18A",
+          "tipologia_irregularidade": "Aplicação de 70% dos Recursos FUNDEB com a Remuneração dos Profissionais do Magistério da Educação Básica",
+          "descricao": "Ausência de comprovação da efetiva entrega dos produtos.",
+          "justificativa_tipologia": "A aplicação de multa indica uma não conformidade grave o suficiente para ser considerada relevante para o índice, pois aponta para falhas na gestão que justificaram a penalidade",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "54, II e III",
+              "descricao": "Estabelece as sanções aplicáveis pelo TCE/AM em caso de irregularidades."
+            },
+            {
+              "norma": "Regimento Interno TCE/AM",
+              "artigo": "308, V e VI",
+              "descricao": "Define os procedimentos internos do TCE/AM relativos às sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Julgar em alcance o Sr. Waldir Frota Reis no valor total de R$ 3.069,23 (Três mil, sessenta e nove reais e vinte e três centavos), em função das glosas especificadas no Relatório Conclusivo Técnico da DICAMI e no Parecer Ministerial",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar em alcance o Sr. Waldir Frota Reis no valor total de R$ 3.069,23 (Três mil, sessenta e nove reais e vinte e três centavos), em função das glosas especificadas no Relatório Conclusivo Técnico da DICAMI e no Parecer Ministerial",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A determinação de alcance indica que houve dano ao erário, um problema concreto e relevante na gestão de recursos públicos",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Comunicar ao INSS, possível apropriação indébita previdenciária, previsto no artigo 168-A, §12, inciso I do Código Penal",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar ao INSS, possível apropriação indébita previdenciária, previsto no artigo 168-A, §12, inciso I do Código Penal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial.",
+          "justificativa_tipologia": "A determinação para comunicar possível apropriação indébita previdenciária ao INSS indica uma irregularidade grave que pode ter impacto significativo na gestão previdenciária e nas finanças públicas, justificando a classificação como relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Código Penal",
+              "artigo": "168-A, §12, inciso I",
+              "descricao": "Tipifica o crime de apropriação indébita previdenciária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao setor administrativo e financeiro da autarquia: O registro contábil do valor atualizado dos Créditos de Dívida Ativa Não Tributária no Balanço Patrimonial do exercício de 2011",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao setor administrativo e financeiro da autarquia: O registro contábil do valor atualizado dos Créditos de Dívida Ativa Não Tributária no Balanço Patrimonial do exercício de 2011",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A recomendação de registro contábil do valor atualizado dos Créditos de Dívida Ativa Não Tributária no Balanço Patrimonial indica uma deficiência no registro contábil e no controle da dívida ativa, o que justifica a classificação como relevante para o índice",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao setor administrativo e financeiro da autarquia: Adoção de sistema de controle patrimonial e atualização contínua e temporal do livro Tombo e cumprimento rigoroso da norma ditada pelo artigo 94 da Lei 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao setor administrativo e financeiro da autarquia: Adoção de sistema de controle patrimonial e atualização contínua e temporal do livro Tombo e cumprimento rigoroso da norma ditada pelo artigo 94 da Lei 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação de adotar um sistema de controle patrimonial e atualizar o livro Tombo indica uma deficiência nos controles patrimoniais que, se não corrigida, pode levar a perdas e desvios de bens públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "94",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao setor administrativo e financeiro da autarquia: Atualização das pastas funcionais dos servidores",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao setor administrativo e financeiro da autarquia: Atualização das pastas funcionais dos servidores",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2C",
+          "tipologia_irregularidade": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A recomendação de atualizar as pastas funcionais dos servidores indica uma deficiência na gestão de informações sobre os servidores, mas não é grave o suficiente para ser considerada relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

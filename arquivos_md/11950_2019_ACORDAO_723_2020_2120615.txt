@@ -1,0 +1,96 @@
+{
+  "acordao": "723/2020",
+  "processo": "11950/2019",
+  "data_sessao": "15 de Julho de 2020",
+  "orgao": "Câmara Municipal de Atalaia do Norte",
+  "municipio": "Atalaia do Norte",
+  "exercicio": "2018",
+  "responsavel": [
+    "Adelson da Silva Saldanha"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas Anual da Câmara Municipal de Atalaia do Norte/AM, relativa ao exercício de 2018, de responsabilidade do Sr. Adelson da Silva  Saldanha, nos  termos  do  art.  71,  II,  c/c  o  art.  75  da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº  2423/96,  e  art.  188,  §1º,  II,  da  Resolução  nº  04/2002TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas Anual da Câmara Municipal de Atalaia do Norte/AM, relativa ao exercício de 2018, de responsabilidade do Sr. Adelson da Silva  Saldanha, nos  termos  do  art.  71,  II,  c/c  o  art.  75  da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº  2423/96,  e  art.  188,  §1º,  II,  da  Resolução  nº  04/2002TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O texto trata do julgamento das contas, sendo um procedimento interno do TCE, além disso não caracteriza um problema estrutural ou recorrente na gestão publica",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Dispõe sobre as normas estabelecidas para os Tribunais de Contas dos Estados, bem como suas competências e organização."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Regulamenta a organização e funcionamento do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Estabelece as competências do Tribunal de Contas do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Regulamenta os procedimentos de análise e julgamento das prestações de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos presentes autos, após o cumprimento das formalidades legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos presentes autos, após o cumprimento das formalidades legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a uma determinação processual, não indicando problemas na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "aplicar  Multa ,  ao  Sr. Adelson da Silva Saldanha no valor de R$ 20.481,60 , nos termos do art. 308, I, a da  Res.  04/02-TCE/AM,  tendo  em  vista  o  atraso constatado  no  envio  de  todos  os  balancetes  mensais,  que deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "aplicar  Multa ,  ao  Sr. Adelson da Silva Saldanha no valor de R$ 20.481,60 , nos termos do art. 308, I, a da  Res.  04/02-TCE/AM,  tendo  em  vista  o  atraso constatado  no  envio  de  todos  os  balancetes  mensais,  que deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso no envio de balancetes mensais é uma falha no cumprimento de prazos e procedimentos, impactando a transparência e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. 04/02-TCE/AM",
+              "artigo": "308, I, a",
+              "descricao": "Estabelece as sanções aplicáveis por irregularidades verificadas nas contas, incluindo multas por atraso no envio de documentos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

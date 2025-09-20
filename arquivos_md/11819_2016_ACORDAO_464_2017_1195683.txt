@@ -1,0 +1,23 @@
+{
+  "acordao": "464/2017",
+  "processo": "11819/2016",
+  "data_sessao": "02 de Maio de 2017",
+  "orgao": "Controladoria Geral do Estado - CGE",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Leopoldo Peres Sobrinho"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Controladoria Geral do Estado - CGE, referente ao exercício de 2015, de responsabilidade do Sr. Leopoldo Peres Sobrinho, Controlador Geral e Ordenador de Despesas, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, I, da Lei Estadual nº 2423/96, e art. 188, §1º, I, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Leopoldo Peres Sobrinho, nos termos do art. 23, da Lei Estadual nº 2423/96, c/c art. 189, I, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

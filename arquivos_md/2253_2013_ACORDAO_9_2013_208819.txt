@@ -1,0 +1,41 @@
+{
+  "acordao": "009/2013",
+  "processo": "2253/2013",
+  "data_sessao": "02 de outubro de 2013",
+  "orgao": "Agência de Comunicação Social-AGECOM",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Lúcia Carla da Gama Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "DECISÃO",
+      "descricao": "JULGAR REGULAR a Prestação de Contas de responsabilidade da Sra. Lúcia Carla da Gama Rodrigues, do cargo de Chefe da Agência de Comunicação Social, referente ao exercício de 2012 e DAR QUITAÇÃO à responsável, nos termos do art. 22, I c/c o art. 23 da Lei n. 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR REGULAR a Prestação de Contas de responsabilidade da Sra. Lúcia Carla da Gama Rodrigues, do cargo de Chefe da Agência de Comunicação Social, referente ao exercício de 2012 e DAR QUITAÇÃO à responsável, nos termos do art. 22, I c/c o art. 23 da Lei n. 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O julgamento regular da prestação de contas é uma avaliação geral da conformidade dos registros contábeis, enquanto a tipologia se refere à ausência de informações detalhadas e explicativas nas demonstrações contábeis, que são elementos específicos e complementares aos registros contábeis principais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "22",
+              "descricao": "JULGAR REGULAR a Prestação de Contas"
+            },
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "23",
+              "descricao": "DAR QUITAÇÃO à responsável"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

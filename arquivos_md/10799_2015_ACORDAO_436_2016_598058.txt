@@ -1,0 +1,418 @@
+{
+  "acordao": "436/2016",
+  "processo": "10799/2015",
+  "data_sessao": "11 de Maio de 2016",
+  "orgao": "Câmara Municipal de Fonte Boa",
+  "municipio": "Fonte Boa",
+  "exercicio": "2014",
+  "responsavel": [
+    "Francisco Aroldo Araújo Coelho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar  Irregular a  Prestação de Contas da Câmara Municipal de Fonte Boa, exercício de 2014, sob a responsabilidade do Senhor Francisco Aroldo de Araújo Coelho , nos termos dos arts. 22, III, 'b' e 25, da Lei n. 2.423/96, c/c o art. 188, II e § 1º, III, 'b', da Resolução 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação de Contas da Câmara Municipal de Fonte Boa, exercício de 2014, sob a responsabilidade do Senhor Francisco Aroldo de Araújo Coelho , nos termos dos arts. 22, III, 'b' e 25, da Lei n. 2.423/96, c/c o art. 188, II e § 1º, III, 'b', da Resolução 04/02-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de notas explicativas impede a adequada compreensão das demonstrações contábeis, prejudicando a transparência e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "Define as responsabilidades dos gestores de recursos públicos."
+            },
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "25",
+              "descricao": "Estabelece as sanções para irregularidades nas contas públicas."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, II",
+              "descricao": "Regulamenta os procedimentos para julgamento de contas no TCE/AM."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, § 1º, III, 'b'",
+              "descricao": "Define os critérios para irregularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar multa ao Senhor Francisco Aroldo de Araújo Coelho , responsável  pela  Câmara  Municipal  de  Fonte  Boa,  exercício  de  2014,  no  valor  de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, alterada pela Resolução n°. 25, de 30 de agosto de 2012, por todas as infrações às normas legais e/ ou regulamentares, quais sejam:",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Senhor Francisco Aroldo de Araújo Coelho , responsável  pela  Câmara  Municipal  de  Fonte  Boa,  exercício  de  2014,  no  valor  de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, alterada pela Resolução n°. 25, de 30 de agosto de 2012, por todas as infrações às normas legais e/ ou regulamentares, quais sejam:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "SANÇÃO",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "Este trecho descreve a aplicação de uma multa, e não uma irregularidade em si.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define as sanções aplicáveis por irregularidades nas contas públicas."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta a aplicação de multas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 25, de 30 de agosto de 2012",
+              "artigo": "N/A",
+              "descricao": "Altera a Resolução nº 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Violação ao artigo 32, inciso II, da Lei Orgânica do Tribunal de Contas do Estado do Amazonas, uma vez que não observou o prazo para remessa do Relatório de Gestão Fiscal a esta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Violação ao artigo 32, inciso II, da Lei Orgânica do Tribunal de Contas do Estado do Amazonas, uma vez que não observou o prazo para remessa do Relatório de Gestão Fiscal a esta Corte de Contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O descumprimento do prazo para remessa do RGF é uma falha grave que impede o controle tempestivo das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas",
+              "artigo": "32, inciso II",
+              "descricao": "Estabelece as obrigações dos jurisdicionados em relação ao envio de documentos ao TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Inobservância do prazo para publicação do Relatório de Gestão Fiscal, violando o disposto no artigo 48-A c/c o §2º, do art. 55 da LC 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Inobservância do prazo para publicação do Relatório de Gestão Fiscal, violando o disposto no artigo 48-A c/c o §2º, do art. 55 da LC 101/2000",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O não cumprimento do prazo de publicação do RGF compromete a transparência da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC 101/2000",
+              "artigo": "48-A",
+              "descricao": "Define as exigências de transparência na gestão fiscal."
+            },
+            {
+              "norma": "LC 101/2000",
+              "artigo": "55, §2º",
+              "descricao": "Estabelece os prazos para publicação do RGF."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de apresentação de documento que comprovasse a afixação e/ou disponibilidade do Relatório de  Gestão Fiscal no mural da Câmara de Fonte Boa, não comprovando o atendimento ao disposto atendimento do disposto no artigo 49, da Lei de Responsabilidade Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de apresentação de documento que comprovasse a afixação e/ou disponibilidade do Relatório de  Gestão Fiscal no mural da Câmara de Fonte Boa, não comprovando o atendimento ao disposto atendimento do disposto no artigo 49, da Lei de Responsabilidade Fiscal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A falta de comprovação da afixação do RGF impede o acesso da população às informações sobre a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "49",
+              "descricao": "Determina a ampla divulgação dos instrumentos de transparência fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Violação ao  artigo  70, da Constituição Federal/88, uma vez que não observou  a  adoção  das  condutas  necessárias  para  a  implantação  de  um  Sistema  de Controle Interno, tal como delineado nos arts. 31 e 74 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "Violação ao  artigo  70, da Constituição Federal/88, uma vez que não observou  a  adoção  das  condutas  necessárias  para  a  implantação  de  um  Sistema  de Controle Interno, tal como delineado nos arts. 31 e 74 da Constituição Federal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A não implementação de um Sistema de Controle Interno é uma falha grave que compromete a gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "70",
+              "descricao": "Atribui ao controle externo a fiscalização contábil, financeira, orçamentária, operacional e patrimonial das entidades da Administração Pública."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "31",
+              "descricao": "Define a responsabilidade dos Municípios pela fiscalização de seus atos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Estabelece a obrigatoriedade de um sistema de controle interno para a Administração Pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Inscrição  em  Restos  a  Pagar  sem  nenhum  respaldo  financeiro, violando o disposto no 42 da Lei de Responsabilidade Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "Inscrição  em  Restos  a  Pagar  sem  nenhum  respaldo  financeiro, violando o disposto no 42 da Lei de Responsabilidade Fiscal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "Inscrição em restos a pagar sem lastro financeiro compromete o equilíbrio orçamentário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "42",
+              "descricao": "Veda a inscrição em restos a pagar sem disponibilidade financeira."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Violação aos artigos 94 a 96, da Lei nº 4.320/6470, uma vez que não houve o controle eficiente  de materiais em estoque no almoxarifado e manutenção dos registros sintéticos dos bens móveis e imóveis e o levantamento geral desses bens",
+      "trechos_identificados": [
+        {
+          "trecho": "Violação aos artigos 94 a 96, da Lei nº 4.320/6470, uma vez que não houve o controle eficiente  de materiais em estoque no almoxarifado e manutenção dos registros sintéticos dos bens móveis e imóveis e o levantamento geral desses bens",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A ausência de controle patrimonial é uma falha grave que pode levar à perda de bens públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94 a 96",
+              "descricao": "Estabelece as normas gerais de contabilidade pública, incluindo o controle patrimonial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Violação ao artigo 8º, da Lei n. 12.527/2011, uma vez que não criou o serviço de informações ao cidadão, nos órgãos e entidades do  poder público, em local com condições apropriadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Violação ao artigo 8º, da Lei n. 12.527/2011, uma vez que não criou o serviço de informações ao cidadão, nos órgãos e entidades do  poder público, em local com condições apropriadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A41B",
+          "tipologia_irregularidade": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "descricao": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "justificativa_tipologia": "A ausência do serviço de informações ao cidadão dificulta o acesso da população às informações públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 12.527/2011",
+              "artigo": "8º",
+              "descricao": "Define a obrigatoriedade de criação de serviços de informações ao cidadão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  ao  atual  Presidente da Câmara Municipal de Fonte Boa a adoção das seguintes medidas:\nObservância  das  disposições contidas  no  artigo  70,  da  Constituição Federal/88, adotando ações que objetivem a implantação do Sistema de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "Observância  das  disposições contidas  no  artigo  70,  da  Constituição Federal/88, adotando ações que objetivem a implantação do Sistema de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa corrigir a ausência de um sistema de controle interno, um problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "70",
+              "descricao": "Estabelece o controle externo da administração pública."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "31",
+              "descricao": "Define as responsabilidades dos Municípios pela fiscalização de seus atos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Estabelece a obrigatoriedade de um sistema de controle interno para a Administração Pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  ao  atual  Presidente da Câmara Municipal de Fonte Boa a adoção das seguintes medidas: Observe  as  disposições  constantes  nos  artigos  94  a  96,  da  Lei  nº 4.320/6470, e providencie a realização de um controle eficiente de materiais em estoque no almoxarifado e manutenção dos registros sintéticos dos bens móveis e imóveis  e o levantamento geral desses bens",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  as  disposições  constantes  nos  artigos  94  a  96,  da  Lei  nº 4.320/6470, e providencie a realização de um controle eficiente de materiais em estoque no almoxarifado e manutenção dos registros sintéticos dos bens móveis e imóveis  e o levantamento geral desses bens",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A determinação visa corrigir a ausência de controle patrimonial, um problema recorrente na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/6470",
+              "artigo": "94 a 96",
+              "descricao": "Estabelece as normas gerais de contabilidade pública, incluindo o controle patrimonial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  ao  atual  Presidente da Câmara Municipal de Fonte Boa a adoção das seguintes medidas: Crie o serviço de informações ao cidadão, nos órgãos e entidades do poder  público,  em  local  com  condições  apropriadas  na  forma  exigida  pela  Lei  n. 12.527/2011 - Lei de Acesso à Informação.",
+      "trechos_identificados": [
+        {
+          "trecho": "Crie o serviço de informações ao cidadão, nos órgãos e entidades do poder  público,  em  local  com  condições  apropriadas  na  forma  exigida  pela  Lei  n. 12.527/2011 - Lei de Acesso à Informação.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A41B",
+          "tipologia_irregularidade": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "descricao": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "justificativa_tipologia": "A determinação visa corrigir a falta de um canal de comunicação com o cidadão, um problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 12.527/2011",
+              "artigo": "N/A",
+              "descricao": "Lei de Acesso à Informação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  próxima Comissão de Inspeção do Município de Fonte Boa ,  verifique  se  o  futuro  gestor  observou de forma adequada a adoção das seguintes medidas: Observância  das  disposições contidas  no  artigo  70,  da  Constituição Federal/88, adotando ações que objetivem a implantação do Sistema de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "Observância  das  disposições contidas  no  artigo  70,  da  Constituição Federal/88, adotando ações que objetivem a implantação do Sistema de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação à comissão de inspeção visa garantir que a implantação do controle interno seja verificada e mantida, corrigindo uma deficiência estrutural persistente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "70",
+              "descricao": "Atribui ao controle externo a fiscalização contábil, financeira, orçamentária, operacional e patrimonial das entidades da Administração Pública."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "31",
+              "descricao": "Define a responsabilidade dos Municípios pela fiscalização de seus atos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Estabelece a obrigatoriedade de um sistema de controle interno para a Administração Pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  próxima Comissão de Inspeção do Município de Fonte Boa ,  verifique  se  o  futuro  gestor  observou de forma adequada a adoção das seguintes medidas: Observe se  foram  adotadas  medidas  quanto  à  observância  das disposições  constantes  nos  artigos  94  a  96,  da  Lei  nº  4.320/6470,  e  verifique  se  foi providenciada  a  realização  de um  controle  eficiente  de  materiais  em  estoque  no almoxarifado  e  a  manutenção  dos  registros  sintéticos  dos  bens móveis  e  imóveis  e  o levantamento geral desses bens.",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe se  foram  adotadas  medidas  quanto  à  observância  das disposições  constantes  nos  artigos  94  a  96,  da  Lei  nº  4.320/6470,  e  verifique  se  foi providenciada  a  realização  de um  controle  eficiente  de  materiais  em  estoque  no almoxarifado  e  a  manutenção  dos  registros  sintéticos  dos  bens móveis  e  imóveis  e  o levantamento geral desses bens.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A determinação à comissão de inspeção visa garantir a manutenção do controle patrimonial, corrigindo uma deficiência persistente na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/6470",
+              "artigo": "94 a 96",
+              "descricao": "Estabelece as normas gerais de contabilidade pública, incluindo o controle patrimonial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  próxima Comissão de Inspeção do Município de Fonte Boa ,  verifique  se  o  futuro  gestor  observou de forma adequada a adoção das seguintes medidas: Crie o serviço de informações ao cidadão, nos órgãos e entidades do poder  público,  em  local  com  condições  apropriadas  na  forma  exigida  pela  Lei  n. 12.527/2011 - Lei de Acesso à Informação.",
+      "trechos_identificados": [
+        {
+          "trecho": "Crie o serviço de informações ao cidadão, nos órgãos e entidades do poder  público,  em  local  com  condições  apropriadas  na  forma  exigida  pela  Lei  n. 12.527/2011 - Lei de Acesso à Informação.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A41B",
+          "tipologia_irregularidade": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "descricao": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "justificativa_tipologia": "A determinação à comissão de inspeção visa garantir a criação e manutenção de um canal de comunicação com o cidadão, corrigindo uma deficiência estrutural persistente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 12.527/2011",
+              "artigo": "N/A",
+              "descricao": "Lei de Acesso à Informação"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "acordao": "050/2015",
+  "processo": "2009/2011",
+  "data_sessao": "23 de setembro de 2015",
+  "orgao": "Prefeitura Municipal de Tabatinga",
+  "municipio": "Tabatinga",
+  "exercicio": "2010",
+  "responsavel": [
+    "Saul Nunes Bemerguy"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar IRREGULARES as contas da Prefeitura Municipal de Tabatinga, referentes ao exercício financeiro de 2010, de responsabilidade do ordenador de despesa, Senhor SAUL NUNES BEMERGUY, conforme o art. 22, inciso III, alínea 'a' 'b' 'c' c/c art. 25, da Lei n.º 2.423/96-LO/TCE), considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULARES as contas da Prefeitura Municipal de Tabatinga, referentes ao exercício financeiro de 2010, de responsabilidade do ordenador de despesa, Senhor SAUL NUNES BEMERGUY, conforme o art. 22, inciso III, alínea 'a' 'b' 'c' c/c art. 25, da Lei n.º 2.423/96-LO/TCE), considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "As contas foram julgadas irregulares devido a restrições financeiras e orçamentárias não sanadas, indicando um problema na gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, inciso III, alínea 'a' 'b' 'c'",
+              "descricao": "Fundamenta a irregularidade das contas devido às restrições financeiras e orçamentárias."
+            },
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "25",
+              "descricao": "Estabelece disposições sobre as consequências da irregularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em ALCANCE o ordenador de despesa, SAUL NUNES BEMERGUY, aplicando a GLOSA no montante de R$ 7.952.111,93 (sete milhões, novecentos e cinquenta e dois mil, cento e onze reais e noventa e três centavos), com devolução aos cofres públicos corrigidos, devido à restrição a seguir, com base no artigo 304, II, III, IV e V, da Resolução nº4/2002-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em ALCANCE o ordenador de despesa, SAUL NUNES BEMERGUY, aplicando a GLOSA no montante de R$ 7.952.111,93 (sete milhões, novecentos e cinquenta e dois mil, cento e onze reais e noventa e três centavos), com devolução aos cofres públicos corrigidos, devido à restrição a seguir, com base no artigo 304, II, III, IV e V, da Resolução nº4/2002-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A aplicação de alcance indica irregularidades nos pagamentos, possivelmente burlando processos legais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº4/2002-TCE",
+              "artigo": "304, II, III, IV e V",
+              "descricao": "Base legal para a aplicação de alcance e glosa ao ordenador de despesa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar MULTA ao ordenador de despesa SAUL NUNES BEMERGUY: a) por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, com base no art. 54, inciso II, da Lei 2.423/96 c/c com artigo 308, inciso VI, do Regimento Interno, das restrições dos itens 10.1, 10.2, 10.4 a 10.36 e item 11.1 a 11.20, no valor de R$43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos);b) por ato de gestão ilegítimo ou antieconômico de que resulte dano ao erário, com base no artigo 54, III, da Lei Orgânica c/c artigo 308, V, do Regimento Interno, diante das restrição 11.21 a 11.24, acerca das obras e serviços de engenharia apontados no relatório conclusivo n 16769/2014-DICOP (fls.957/980), no valor de R$21.290,64 (vinte e um mil, duzentos e noventa reais e sessenta e quatro centavos)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA ao ordenador de despesa SAUL NUNES BEMERGUY: a) por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, com base no art. 54, inciso II, da Lei 2.423/96 c/c com artigo 308, inciso VI, do Regimento Interno, das restrições dos itens 10.1, 10.2, 10.4 a 10.36 e item 11.1 a 11.20, no valor de R$43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "A multa é aplicada devido a infrações de normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais, indicando problemas na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, inciso II",
+              "descricao": "Base legal para a aplicação de multa devido a infração de normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, inciso VI",
+              "descricao": "Base legal para a aplicação de multa em decorrência das restrições mencionadas."
+            }
+          ]
+        },
+        {
+          "trecho": "b) por ato de gestão ilegítimo ou antieconômico de que resulte dano ao erário, com base no artigo 54, III, da Lei Orgânica c/c artigo 308, V, do Regimento Interno, diante das restrição 11.21 a 11.24, acerca das obras e serviços de engenharia apontados no relatório conclusivo n 16769/2014-DICOP (fls.957/980), no valor de R$21.290,64 (vinte e um mil, duzentos e noventa reais e sessenta e quatro centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A1A",
+          "tipologia_irregularidade": "Fracionamento do objeto, resultando em fuga ao procedimento licitatório",
+          "descricao": "Ausência da conta Depreciação/Amortização/Exaustão acumulada no Balanço Patrimonial.",
+          "justificativa_tipologia": "A multa é aplicada devido a atos de gestão ilegítimos ou antieconômicos que resultaram em dano ao erário, especificamente relacionados a obras e serviços de engenharia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica",
+              "artigo": "54, III",
+              "descricao": "Base legal para a aplicação de multa devido a ato de gestão ilegítimo ou antieconômico com dano ao erário."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, V",
+              "descricao": "Base legal para a aplicação de multa em decorrência das restrições mencionadas nas obras e serviços de engenharia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de trinta dias para o recolhimento aos cofres públicos pelo responsável no valor das penalidades impostas, com comprovação perante este Tribunal, acrescido da atualização monetária e dos juros de mora devidos, nos termos dos arts.73 e 74 da Lei Estadual n.2423/96 e art. 169, I, da Resolução n.04/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de trinta dias para o recolhimento aos cofres públicos pelo responsável no valor das penalidades impostas, com comprovação perante este Tribunal, acrescido da atualização monetária e dos juros de mora devidos, nos termos dos arts.73 e 74 da Lei Estadual n.2423/96 e art. 169, I, da Resolução n.04/02-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Esta determinação refere-se ao processo de execução orçamentária e financeira, especificamente ao pagamento de multas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2423/96",
+              "artigo": "73",
+              "descricao": "Estabelece o prazo para recolhimento das penalidades impostas."
+            },
+            {
+              "norma": "Lei Estadual n.2423/96",
+              "artigo": "74",
+              "descricao": "Estabelece as condições para a atualização monetária e juros de mora sobre as penalidades."
+            },
+            {
+              "norma": "Resolução n.04/02-TCE",
+              "artigo": "169, I",
+              "descricao": "Estabelece o processo de comprovação do recolhimento perante o Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação para inscrição em dívida ativa e cobrança executiva refere-se à gestão fiscal e à recuperação de valores devidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa e a instauração da cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Determinar que o ex-Prefeito e ordenador de despesa, senhor SAUL NUNES BEMERGUY, fique inabilitado por cinco anos para o exercício de cargo de comissão ou função de confiança dos órgão da Administração Estadual, com fundamento no art.56 da Lei Estadual nº2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que o ex-Prefeito e ordenador de despesa, senhor SAUL NUNES BEMERGUY, fique inabilitado por cinco anos para o exercício de cargo de comissão ou função de confiança dos órgão da Administração Estadual, com fundamento no art.56 da Lei Estadual nº2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A107B",
+          "tipologia_irregularidade": "Excesso de Cargos Comissionados",
+          "descricao": "A administração pública mantém um número excessivo de cargos comissionados, em detrimento de cargos efetivos ocupados por meio de concurso público, violando os princípios da legalidade, da impessoalidade e da eficiência.",
+          "justificativa_tipologia": "A inabilitação para o exercício de cargo comissionado é uma sanção relacionada à gestão de pessoal e ao uso de cargos de confiança.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº2423/96",
+              "artigo": "56",
+              "descricao": "Fundamenta a inabilitação para o exercício de cargo de comissão ou função de confiança."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Representar à Receita Federal do Brasil para que proceda ao levantamento dos dados previdenciários dos servidores da Prefeitura Municipal de Tabatinga, que porventura contribuam para a Previdência Social",
+      "trechos_identificados": [
+        {
+          "trecho": "Representar à Receita Federal do Brasil para que proceda ao levantamento dos dados previdenciários dos servidores da Prefeitura Municipal de Tabatinga, que porventura contribuam para a Previdência Social",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de acesso á informação por parte dos inativos",
+          "descricao": "Foi identificado ausência de comprovação de que os inativos tiveram acesso ás informações da gestão do RPPS.",
+          "justificativa_tipologia": "A representação à Receita Federal indica a necessidade de verificar a situação previdenciária dos servidores, o que está relacionado à gestão previdenciária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº2.423/96",
+              "artigo": "1º",
+              "descricao": "Competência do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Representar ao Ministério Público Estadual, de acordo com o inciso XXIV do art. 1º da Lei Estadual nº2.423/96, para apurar a responsabilidade e improbidade administrativa do ex-Prefeito Municipal de Tabatinga, Senhor SAUL NUNES BEMERGUY, Gestor e Ordenador das Despesas referentes ao exercício financeiro de 2010, por infringência às normas legais já mencionadas e danos ao erário",
+      "trechos_identificados": [
+        {
+          "trecho": "Representar ao Ministério Público Estadual, de acordo com o inciso XXIV do art. 1º da Lei Estadual nº2.423/96, para apurar a responsabilidade e improbidade administrativa do ex-Prefeito Municipal de Tabatinga, Senhor SAUL NUNES BEMERGUY, Gestor e Ordenador das Despesas referentes ao exercício financeiro de 2010, por infringência às normas legais já mencionadas e danos ao erário",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A17A",
+          "tipologia_irregularidade": "Aplicação de 25% da receita vinculável na Manutenção e Desenvolvimento do Ensino",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A representação ao Ministério Público indica a suspeita de improbidade administrativa e danos ao erário, o que está relacionado à gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº2.423/96",
+              "artigo": "1º, XXIV",
+              "descricao": "Fundamenta a representação ao Ministério Público Estadual para apuração de responsabilidade e improbidade administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "aplicar MULTA ao ordenador de despesa SAUL NUNES BEMERGUY , por inobservância dos prazos legais para remessa ao tribunal, por meio informatizado ou documental, de balancetes, demonstrações contábeis e documentos referentes a receita e despesa, diante da restrição do item 10.3, no valor total de R$8.768,24 (oito mil, setecentos e sessenta e oito reais e vinte e quatro centavos), referente a cada mês de competência não encaminhado a esta Corte (maio a dezembro de 2010), com base no art.308, II, do Regimento Interno",
+      "trechos_identificados": [
+        {
+          "trecho": "aplicar MULTA ao ordenador de despesa SAUL NUNES BEMERGUY , por inobservância dos prazos legais para remessa ao tribunal, por meio informatizado ou documental, de balancetes, demonstrações contábeis e documentos referentes a receita e despesa, diante da restrição do item 10.3, no valor total de R$8.768,24 (oito mil, setecentos e sessenta e oito reais e vinte e quatro centavos), referente a cada mês de competência não encaminhado a esta Corte (maio a dezembro de 2010), com base no art.308, II, do Regimento Interno",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido à inobservância dos prazos para remessa de documentos, indicando falhas no cumprimento de obrigações de transparência e controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, II",
+              "descricao": "Base legal para a aplicação de multa devido à inobservância dos prazos para remessa de documentos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

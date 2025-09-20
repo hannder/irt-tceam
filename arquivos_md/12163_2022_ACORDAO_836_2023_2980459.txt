@@ -1,0 +1,104 @@
+{
+  "acordao": "836/2023",
+  "processo": "12163/2022",
+  "data_sessao": "9 de Maio de 2023",
+  "orgao": "Fundo Municipal de Desenvolvimento Urbano - FMDU",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Carlos Alberto Valente Araújo"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas do Sr. Carlos Alberto Valente Araújo, responsável pelo Fundo Municipal de Desenvolvimento Urbano de Manaus - FMDU, nos termos do artigo 22, inciso I, da Lei n. 2423/1996 - LOTCE/AM c/c o artigo 188, §1º, inciso I, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Sr. Carlos Alberto Valente Araújo, responsável pelo Fundo Municipal de Desenvolvimento Urbano de Manaus - FMDU, nos termos do artigo 22, inciso I, da Lei n. 2423/1996 - LOTCE/AM c/c o artigo 188, §1º, inciso I, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação não apresenta indícios de irregularidade, apenas o julgamento das contas como regulares.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "22, inciso I",
+              "descricao": "Lei n. 2423/1996 - LOTCE/AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso I",
+              "descricao": "RITCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao SECEX - Secretaria Geral do Controle Externo que providencie a inclusão no escopo das Comissões de Inspeção da SEMED e da SEMINF, do exercício de 2021, para apurar as despesas relacionadas a processos licitatórios e instrumentos contratuais que foram destacadas orçamentariamente pelo FMDU.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao SECEX - Secretaria Geral do Controle Externo que providencie a inclusão no escopo das Comissões de Inspeção da SEMED e da SEMINF, do exercício de 2021, para apurar as despesas relacionadas a processos licitatórios e instrumentos contratuais que foram destacadas orçamentariamente pelo FMDU.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16B",
+          "tipologia_irregularidade": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "descricao": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona)",
+          "justificativa_tipologia": "A recomendação indica a necessidade de apuração de despesas relacionadas a processos licitatórios e instrumentos contratuais, o que sugere a existência de possíveis irregularidades a serem investigadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Carlos Alberto Valente Araújo, nos termos do art. 24 da Lei n. 2423/1996;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Carlos Alberto Valente Araújo, nos termos do art. 24 da Lei n. 2423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação não apresenta indícios de irregularidade, apenas a quitação das contas como regulares.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "24",
+              "descricao": "LOTCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, conforme art. 162, §1º da Resolução n. 04/2002- TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo, conforme art. 162, §1º da Resolução n. 04/2002- TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas.",
+          "justificativa_tipologia": "A deliberação não apresenta indícios de irregularidade, apenas a determinação de arquivamento do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "162, §1º",
+              "descricao": "TCE/AM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

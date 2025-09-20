@@ -1,0 +1,64 @@
+{
+  "acordao": "1306/2023",
+  "processo": "12821/2019",
+  "data_sessao": "04 de Julho de 2023",
+  "orgao": "Tribunal Pleno",
+  "municipio": "Manaus",
+  "exercicio": "2023",
+  "responsavel": [
+    "Gean Campos de Barros"
+  ],
+  "itens": [
+    {
+      "tipo": "Conhecer",
+      "descricao": "Conhecer dos Embargos de Declaração apresentados pelo Sr. Gean Campos  de  Barros, tendo em vista restarem preenchidos os requisitos de admissibilidade;",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer dos Embargos de Declaração apresentados pelo Sr. Gean Campos  de  Barros, tendo em vista restarem preenchidos os requisitos de admissibilidade;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere ao ato de conhecer os embargos, um procedimento formal, não indicando irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Negar Provimento",
+      "descricao": "Negar Provimento no mérito, aos embargos de declaração apresentados  pelo Sr. Gean  Campos  de  Barros, em  razão  da inexistência  de  omissão  no  julgado  vergastado,  mantendo-se,  na integralidade, o Parecer Prévio nº. 75/2023-TCE-Tribunal Pleno;",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar Provimento no mérito, aos embargos de declaração apresentados  pelo Sr. Gean  Campos  de  Barros, em  razão  da inexistência  de  omissão  no  julgado  vergastado,  mantendo-se,  na integralidade, o Parecer Prévio nº. 75/2023-TCE-Tribunal Pleno;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere à negativa dos embargos, um procedimento formal, não indicando irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Dar ciência",
+      "descricao": "Dar  ciência do Decisum ao Sr. Gean  Campos  de  Barros, por intermédio de seu advogado constituído nos autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência do Decisum ao Sr. Gean  Campos  de  Barros, por intermédio de seu advogado constituído nos autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere à ciência do Decisum, um procedimento formal, não indicando irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

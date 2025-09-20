@@ -1,0 +1,52 @@
+{
+  "acordao": "899/2016",
+  "processo": "11742/2016",
+  "data_sessao": "08 de Novembro de 2016",
+  "orgao": "Fundo Municipal de Inclusão Sócioeducacional",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Luiza Maria Bessa Rebelo"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "ACORDAM os Excelentíssimos Senhores Conselheiros do Tribunal de Contas do Estado do Amazonas, reunidos em Sessão Plenária, no exercício da competência atribuída pelo art. 40,  II, da Constituição Estadual, c/c o art. 18, inciso II, da Lei Complementar nº 06/91, arts. 1º, II, 2º, 4º e 5º,  I,  da  Lei  nº  2423/96 e arts. 5º,  II e 11,  III, alínea 'a',  item  4, da Resolução nº 04/2002-TCE/AM, à  unanimidade , nos  termos  do  voto  do  Excelentíssimo  Senhor Conselheiro-Relator, em consonância com o pronunciamento do Ministério Público junto a  este  Tribunal,  no  sentido  de julgar  Regular  a  Prestação  de  Contas  da  Sra.  Luiza Maria Bessa Rebelo , Diretora Geral da Escola de Serviço Público Municipal e  Inclusão Socioeducacional  -  ESPI,  exercício  2015,  determinando  à  DICREX  a  expedição  de quitação ao responsável com fulcro no art. 22, I c/c o art. 23 ambos da Lei 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "julgar  Regular  a  Prestação  de  Contas  da  Sra.  Luiza Maria Bessa Rebelo , Diretora Geral da Escola de Serviço Público Municipal e  Inclusão Socioeducacional  -  ESPI,  exercício  2015",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica o julgamento regular das contas, mas não aponta uma falha ou ausência de elementos contábeis que justifiquem o apontamento de uma tipologia contábil.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "determinando  à  DICREX  a  expedição  de quitação ao responsável com fulcro no art. 22, I c/c o art. 23 ambos da Lei 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho se refere a um procedimento formal de quitação, não indicando falhas estruturais no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22, I",
+              "descricao": "Determina a expedição de quitação ao responsável."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "23",
+              "descricao": "Expedição de quitação."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

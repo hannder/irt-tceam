@@ -1,0 +1,98 @@
+{
+  "acordao": "1411/2022",
+  "processo": "10952/2020",
+  "data_sessao": "23 de Agosto de 2022",
+  "orgao": "Câmara Municipal de Eirunepé",
+  "municipio": "Eirunepé",
+  "exercicio": "2019",
+  "responsavel": [
+    "Raimundo Nonato Cunha de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas   da  Câmara Municipal  de  Eirunepé,  sob  responsabilidade  do  Sr. Raimundo Nonato Cunha de Oliveira ,  no curso do exercício 2019, com fundamento no art. 22, II e 24 da Lei nº 2.423/96 c/c art. 188, §1º, inciso II da Resolução nº 04/2002-RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas   da  Câmara Municipal  de  Eirunepé,  sob  responsabilidade  do  Sr. Raimundo Nonato Cunha de Oliveira ,  no curso do exercício 2019, com fundamento no art. 22, II e 24 da Lei nº 2.423/96 c/c art. 188, §1º, inciso II da Resolução nº 04/2002-RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento das contas com ressalvas, não sendo um problema recorrente na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, II e 24",
+              "descricao": "Fundamentação para o julgamento das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Base legal para o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que  haja  ressalva  no  sentido  que  a  Câmara  Municipal  de Eirunepé cumpra com rigor os prazos estabelecidos nas Resoluções nº 15/13  e  24/13,  ambas  desta  Corte  de  Contas,  que  dizem  respeito  à entrega dos Relatórios de Gestão Fiscal, sob pena de reincidência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que  haja  ressalva  no  sentido  que  a  Câmara  Municipal  de Eirunepé cumpra com rigor os prazos estabelecidos nas Resoluções nº 15/13  e  24/13,  ambas  desta  Corte  de  Contas,  que  dizem  respeito  à entrega dos Relatórios de Gestão Fiscal, sob pena de reincidência.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A determinação ressalva o descumprimento dos prazos para entrega dos Relatórios de Gestão Fiscal, o que indica uma falha na gestão fiscal que pode persistir ao longo do tempo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resoluções nº 15/13 e 24/13",
+              "artigo": "Não aplicável",
+              "descricao": "Normas do TCE/AM sobre os prazos de entrega dos Relatórios de Gestão Fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao  Sr. Raimundo Nonato Cunha de Oliveira ,  responsável pela Câmara Municipal de Eirunepé, exercício de 2019, da decisão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao  Sr. Raimundo Nonato Cunha de Oliveira ,  responsável pela Câmara Municipal de Eirunepé, exercício de 2019, da decisão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A comunicação da decisão ao responsável é um procedimento administrativo e não indica diretamente um problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo por cumprimento de decisão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo por cumprimento de decisão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O arquivamento do processo é um procedimento interno do TCE e não indica um problema na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

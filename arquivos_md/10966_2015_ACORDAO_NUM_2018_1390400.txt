@@ -1,0 +1,332 @@
+{
+  "acordao": "92/2018",
+  "processo": "10966/2015",
+  "data_sessao": "27 de fevereiro de 2018",
+  "orgao": "Câmara Municipal do Careiro - CMC",
+  "municipio": "Careiro",
+  "exercicio": "2014",
+  "responsavel": [
+    "João Doza de Oliveira Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  Irregular a  Prestação  de Contas  da Câmara  Municipal  de Careiro, exercício 2014, de responsabilidades do Sr. João Doza de Oliveira Neto -  Presidente e Ordenador das despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de Contas  da Câmara  Municipal  de Careiro, exercício 2014, de responsabilidades do Sr. João Doza de Oliveira Neto -  Presidente e Ordenador das despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A descrição indica um problema na forma como as contas foram apresentadas, avaliadas ou classificadas, o que pode distorcer a correta interpretação das demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "O Tribunal de Contas tem competência para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "A Constituição Estadual estabelece a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define o objeto de controle externo a cargo do Tribunal de Contas do Estado, abrangendo as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "2º",
+              "descricao": "Responsabilidade pela comprovação da legalidade e legitimidade dos atos de gestão."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "5º",
+              "descricao": "Define as exigências para apresentação da prestação de contas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Trata das irregularidades passíveis de julgamento."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "25",
+              "descricao": "Menciona a obrigação de sanar irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa na  ordem de R$ 4.384,12 (quatro mil, trezentos e oitenta e  quatro  reais  e  doze  centavos) ao Sr.  João  Doza  de Oliveira  Neto ,  com  fundamento  no  art.  308,  V  da  Resolução  nº  04/2002 pelas restrições: 7, 8, 9, 13, 17, 18, 21 e 22",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa na  ordem de R$ 4.384,12 (quatro mil, trezentos e oitenta e  quatro  reais  e  doze  centavos) ao Sr.  João  Doza  de Oliveira  Neto ,  com  fundamento  no  art.  308,  V  da  Resolução  nº  04/2002 pelas restrições: 7, 8, 9, 13, 17, 18, 21 e 22",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa devido a restrições, o que indica falhas na implementação ou estruturação do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  nº 04/2002",
+              "artigo": "308, V",
+              "descricao": "A Resolução 04/2002 estabelece as normas para aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa na  ordem  de R$  8.768,25  (oito  mil,  setecentos e sessenta e oito reais e vinte e cinco centavos) ao Sr. João Doza de Oliveira Neto com fundamento no art. 308, VI da Resolução nº 04/2002 pelas restrições: 1-6, 11, 12, 14-16, 19 e 20",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa na  ordem  de R$  8.768,25  (oito  mil,  setecentos e sessenta e oito reais e vinte e cinco centavos) ao Sr. João Doza de Oliveira Neto com fundamento no art. 308, VI da Resolução nº 04/2002 pelas restrições: 1-6, 11, 12, 14-16, 19 e 20",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica falhas nos controles internos, sugerindo uma implementação ou estruturação insuficiente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "A Resolução 04/2002 estabelece as normas para aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar  em  débito  o Sr.  João  Doza  de  Oliveira  Neto ,  com fundamento no art. 304, I da Resolução TCE 04/2002 c/c art. 53 da Lei  nº  2.423/96,  no  valor  de R$  42.784,86  (quarenta  e  dois  mil, setecentos e  oitenta  e  quatro  reais e  oitenta e  seis  centavos) pela restrição 22",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  débito  o Sr.  João  Doza  de  Oliveira  Neto ,  com fundamento no art. 304, I da Resolução TCE 04/2002 c/c art. 53 da Lei  nº  2.423/96,  no  valor  de R$  42.784,86  (quarenta  e  dois  mil, setecentos e  oitenta  e  quatro  reais e  oitenta e  seis  centavos) pela restrição 22",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O texto descreve a responsabilização do Sr. João Doza de Oliveira Neto com imputação de débito, indicando uma burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE 04/2002",
+              "artigo": "304, I",
+              "descricao": "A Resolução estabelece as normas para a imputação de débitos."
+            },
+            {
+              "norma": "Lei  nº  2.423/96",
+              "artigo": "53",
+              "descricao": "A Lei estabelece as normas sobre a responsabilização por débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar prazo de 30 (trinta) dias para o recolhimento das multas e débitos aos cofres da Fazenda Pública (art. 72, III, alínea 'a' da Lei 2.423/96)  com  as  devidas  atualizações  monetárias (art.  55  da  Lei 2.423/96  c/c  o  art.  308,  §  3º  da  Resolução  TCE  04/02), ficando, desde já, autorizada a DICREX a adoção das medidas previstas no art. 175 da Resolução TCE 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar prazo de 30 (trinta) dias para o recolhimento das multas e débitos aos cofres da Fazenda Pública (art. 72, III, alínea 'a' da Lei 2.423/96)  com  as  devidas  atualizações  monetárias (art.  55  da  Lei 2.423/96  c/c  o  art.  308,  §  3º  da  Resolução  TCE  04/02), ficando, desde já, autorizada a DICREX a adoção das medidas previstas no art. 175 da Resolução TCE 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "O trecho determina o prazo para recolhimento de multas e débitos, um procedimento relacionado à execução orçamentária, e a falta de recolhimento impacta a execução do orçamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72, III, alínea 'a'",
+              "descricao": "A lei estabelece o prazo para recolhimento de multas e débitos."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "A lei trata das atualizações monetárias."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "308, § 3º",
+              "descricao": "A Resolução estabelece as normas para aplicação de multas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "A Resolução estabelece as normas para adoção de medidas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual Presidente da Câmara de Municipal de Careiro que: Observe  e  cumpra  as  determinações  contidas  na  Lei Federal nº 8.666/93, quando da formalização de Contratos e Licitações; Cumpra o que determina a Lei nº  4.320/64, que trata  das Normas Gerais de Direito Financeiro; Observe com mais rigor as normas brasileiras de contabilidade  quanto  a  correta  escrituração  e  elaboração das demonstrações contábeis; Observe com maior rigor o que determina o art. 12 da Lei nº 4320/64; Proceda a instalação, alimentação e manutenção de sistema de controle de bens em estoque; Obedeça com máximo rigor os princípios da boa Administração Pública.",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  e  cumpra  as  determinações  contidas  na  Lei Federal nº 8.666/93, quando da formalização de Contratos e Licitações",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A recomendação para observar e cumprir a Lei nº 8.666/93 sugere que houve problemas nas licitações e contratos que necessitam de atenção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "Não aplicável",
+              "descricao": "Regulamenta o artigo 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública."
+            }
+          ]
+        },
+        {
+          "trecho": "Cumpra o que determina a Lei nº  4.320/64, que trata  das Normas Gerais de Direito Financeiro",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A recomendação explicita o descumprimento das Normas Gerais de Direito Financeiro",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "Não aplicável",
+              "descricao": "Dispõe sobre as Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe com mais rigor as normas brasileiras de contabilidade  quanto  a  correta  escrituração  e  elaboração das demonstrações contábeis",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A recomendação para observar com mais rigor as normas brasileiras de contabilidade indica que houve problemas na forma como as contas foram escrituradas e as demonstrações contábeis elaboradas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Normas brasileiras de contabilidade",
+              "artigo": "Não aplicável",
+              "descricao": "Conjunto de normas que estabelecem os princípios e procedimentos contábeis a serem seguidos na escrituração e elaboração das demonstrações contábeis."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe com maior rigor o que determina o art. 12 da Lei nº 4320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A recomendação para observar o art. 12 da Lei nº 4320/64 indica que houve problemas na forma como as despesas foram realizadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "12",
+              "descricao": "Nenhum dispêndio será realizado sem que esteja devidamente autorizado em lei orçamentária."
+            }
+          ]
+        },
+        {
+          "trecho": "Proceda a instalação, alimentação e manutenção de sistema de controle de bens em estoque",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação para instalar, alimentar e manter um sistema de controle de bens em estoque indica que não havia um sistema em funcionamento e, por isso, deficiências nos registros.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não aplicável",
+              "artigo": "Não aplicável",
+              "descricao": "Não aplicável."
+            }
+          ]
+        },
+        {
+          "trecho": "Obedeça com máximo rigor os princípios da boa Administração Pública",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para obedecer os princípios da boa administração pública indicam fragilidade no controle interno",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não aplicável",
+              "artigo": "Não aplicável",
+              "descricao": "Não aplicável."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após  cumprimento  das medidas  acima,  determinar  o  registro  e  o arquivamento destes  autos e de seus  apensos,  nos  termos regimentais",
+      "trechos_identificados": [
+        {
+          "trecho": "Após  cumprimento  das medidas  acima,  determinar  o  registro  e  o arquivamento destes  autos e de seus  apensos,  nos  termos regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação sobre o registro e arquivamento dos autos é um procedimento interno do TCE, mas também reflete a necessidade de normatização das rotinas internas para a gestão documental.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não aplicável",
+              "artigo": "Não aplicável",
+              "descricao": "Não aplicável"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência desta decisão ao responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência desta decisão ao responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A comunicação da decisão é um procedimento administrativo de praxe, mas reflete a necessidade de normatização das rotinas internas para garantir que os responsáveis sejam informados de suas obrigações e responsabilidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não aplicável",
+              "artigo": "Não aplicável",
+              "descricao": "Não aplicável"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

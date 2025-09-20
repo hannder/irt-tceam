@@ -1,0 +1,181 @@
+{
+  "acordao": "1980/2024",
+  "processo": "12152/2024",
+  "data_sessao": "3 de Dezembro de 2024",
+  "orgao": "Hospital e Pronto Socorro da Criança - Zona Oeste",
+  "municipio": "Manaus",
+  "exercicio": "2023",
+  "responsavel": [
+    "Liege Maria Menezes Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas da Sra. Liege Maria Menezes Rodrigues , responsável pelo Hospital e Pronto Socorro da Criança Zona Oeste, com base no art. 22, I, da Lei n° 2423/96 c/c os arts. 188, §  1º,  I,  da  Resolução  n.º  4/2002-TCE/AM  (Regimento  Interno  deste Tribunal de Contas);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Liege Maria Menezes Rodrigues , que:\nSeja  realizado  mensalmente  o  balanceamento  entre  o inventário  físico  financeiro  e  o  Balanço  Patrimonial,  a  fim de  corrigir  as  inconsistências  contábeis  identificadas,  em conformidade com o art. 94, da Lei nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Seja  realizado  mensalmente  o  balanceamento  entre  o inventário  físico  financeiro  e  o  Balanço  Patrimonial,  a  fim de  corrigir  as  inconsistências  contábeis  identificadas,  em conformidade com o art. 94, da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A recomendação de balanceamento mensal entre o inventário físico-financeiro e o Balanço Patrimonial visa corrigir inconsistências contábeis, o que está diretamente relacionado à tipologia de 'Ausência de comprovação do valor registrado na conta VPD Pagas Antecipadamente do Balanço Patrimonial'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Estabelece a necessidade de balanceamento entre o inventário físico financeiro e o balanço patrimonial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Liege Maria Menezes Rodrigues , que:\nSeja  encaminhado  junto  à  Prestação  de  Contas  Notas Explicativas  referentes  ao  registro  de  valores  na  conta Bens Imóveis quando se tratar de gastos com reformas e construção civil;",
+      "trechos_identificados": [
+        {
+          "trecho": "Seja  encaminhado  junto  à  Prestação  de  Contas  Notas Explicativas  referentes  ao  registro  de  valores  na  conta Bens Imóveis quando se tratar de gastos com reformas e construção civil",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A recomendação de encaminhar notas explicativas para o registro de valores na conta Bens Imóveis, especialmente em gastos com reformas e construção civil, está alinhada com a tipologia de Ausência de Notas Explicativas das Demonstrações Contábeis, pois visa detalhar e justificar os valores registrados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Liege Maria Menezes Rodrigues , que:\nSeja realizada mensalmente a apuração da Depreciação dos Bens Patrimoniais, em conformidade com o MCASP 10ª edição;",
+      "trechos_identificados": [
+        {
+          "trecho": "Seja realizada mensalmente a apuração da Depreciação dos Bens Patrimoniais, em conformidade com o MCASP 10ª edição",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "A recomendação para apuração mensal da depreciação dos bens patrimoniais está diretamente ligada à necessidade de atualizar os valores das contas de depreciação, amortização e exaustão no balanço patrimonial, garantindo a conformidade com as normas contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Liege Maria Menezes Rodrigues , que:\nSeja envidados esforços no sentido de regularizar o mais breve possível o valor registrado na conta caixa e equivalente  de  caixa  do  Balanço  Financeiro,  inclusive deverá destacar em Notas Explicativas, ressaltando o fato de  que  tais  recursos,  embora  em  poder  do  ente  público, não  pode  ser  por  ele  utilizado,  em  conformidade  com  o item 6.3.4.5 - do MCASP - 10ª edição;",
+      "trechos_identificados": [
+        {
+          "trecho": "Seja envidados esforços no sentido de regularizar o mais breve possível o valor registrado na conta caixa e equivalente  de  caixa  do  Balanço  Financeiro,  inclusive deverá destacar em Notas Explicativas, ressaltando o fato de  que  tais  recursos,  embora  em  poder  do  ente  público, não  pode  ser  por  ele  utilizado,  em  conformidade  com  o item 6.3.4.5 - do MCASP - 10ª edição",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A recomendação para regularizar o valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro e destacar em Notas Explicativas está diretamente relacionada à necessidade de corrigir e apresentar adequadamente essa informação no Balanço Financeiro.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Liege Maria Menezes Rodrigues , que:\nSe abstenha de realizar despesas sem cobertura contratual  ou  prévio  empenho,  sob  pena  de  afronta  aos arts. 60, parágrafo único, da Lei. Nº 8.666/93 e 60 da Lei nº 4.320/64;",
+      "trechos_identificados": [
+        {
+          "trecho": "Se abstenha de realizar despesas sem cobertura contratual  ou  prévio  empenho,  sob  pena  de  afronta  aos arts. 60, parágrafo único, da Lei. Nº 8.666/93 e 60 da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação para abster-se de realizar despesas sem cobertura contratual ou prévio empenho está diretamente ligada à irregularidade de Despesas sem prévio empenho, pois busca evitar que tal prática continue a ocorrer.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei. Nº 8.666/93",
+              "artigo": "60",
+              "descricao": "Dispõe sobre a necessidade de cobertura contratual para as despesas."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "60",
+              "descricao": "Dispõe sobre a necessidade de prévio empenho para as despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Liege Maria Menezes Rodrigues , que:\nSeja apurada a responsabilidade administrativa de quem deu causa à nulidade do contrato em consonância com o art. 59, Parágrafo único, da Lei nº 8.666/93, nos termos do art. 82, da referida Lei;",
+      "trechos_identificados": [
+        {
+          "trecho": "Seja apurada a responsabilidade administrativa de quem deu causa à nulidade do contrato em consonância com o art. 59, Parágrafo único, da Lei nº 8.666/93, nos termos do art. 82, da referida Lei",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A47B",
+          "tipologia_irregularidade": "Tomar serviços sem cobertura contratual (pagamentos indenizatórios)",
+          "descricao": "- A auditoria verificou a seguinte situação: primeiramente, o serviço era realizado; após, era feita a liquidação (análise qualitativa e quantitativa dos documentos fornecidos); e, posteriormente, ocorria o empenho da despesa orçamentária, contrariando as regulares fases da despesas. - Desse modo, o serviço era realizado, sem licitação e sem cobertura contratual. Frisa-se que o serviço não se enquadrava como dispensa de licitação, tampouco como inexigibilidade de licitação, ou seja, era obrigatória a realização do certame, porém não era feito, por falta de planejamento e desídia por parte da Administração Pública.",
+          "justificativa_tipologia": "A recomendação para apurar a responsabilidade administrativa pela nulidade do contrato, busca responsabilizar os agentes que deram causa ao fato, em consonância com a Lei 8666/1993, o que se relaciona com a contratação de serviços sem cobertura contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "59, Parágrafo único",
+              "descricao": "Dispõe sobre a nulidade do contrato."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "82",
+              "descricao": "Dispõe sobre a responsabilidade administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Liege Maria Menezes Rodrigues , que:\nAmplie  o  escopo  da  auditoria  realizada  pela  Unidade Setorial  de  Controle  Interno/Administração,  uma  vez  que essa ampliação se torna relevante em virtude dos pontos levantados  por  este  Tribunal  neste  ato  notificatório,  bem como,  atende  o estipulado no art. 45, inciso IV da Constituição do Estado do Amazonas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Amplie  o  escopo  da  auditoria  realizada  pela  Unidade Setorial  de  Controle  Interno/Administração,  uma  vez  que essa ampliação se torna relevante em virtude dos pontos levantados  por  este  Tribunal  neste  ato  notificatório,  bem como,  atende  o estipulado no art. 45, inciso IV da Constituição do Estado do Amazonas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para ampliar o escopo da auditoria interna está ligada à tipologia de 'Não implementação do Controle Interno', pois visa fortalecer o controle interno para abranger todos os pontos críticos identificados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "45, inciso IV",
+              "descricao": "Estipula a necessidade de ampliação do escopo da auditoria realizada pela Unidade Setorial de Controle Interno/Administração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência à Sra. Liege Maria Menezes Rodrigues ,  e  aos demais interessados,  sobre  o  teor  desta  Decisão,  com  cópia  do  RelatórioVoto e do respectivo Acórdão;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, após cumpridas as determinações acima.",
+      "trechos_identificados": []
+    }
+  ]
+}

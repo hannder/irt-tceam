@@ -1,0 +1,281 @@
+{
+  "acordao": "679/2018",
+  "processo": "11411/2017",
+  "data_sessao": "9 de Outubro de 2018",
+  "orgao": "Câmara Municipal de Ipixuna",
+  "municipio": "Ipixuna",
+  "exercicio": "2016",
+  "responsavel": [
+    "Fabio Martins Saraiva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas anual da Câmara Municipal de Ipixuna, sob responsabilidade do Sr. Fabio Martins Saraiva, Presidente e Ordenador de Despesas, referente ao exercício 2016, nos termos do inciso  I  do  art.  1º,  das  alíneas  'b'  e  'c'  do  inciso  III  do  art.  22  e  do parágrafo  único  do  art.  25,  todos  da  Lei  estadual  nº  2.423/96,  em decorrência de atos praticados com grave infração às normas legais e de dano ao erário, conforme as irregularidades  5, 6, 10, 12, 17, 18 e 19 do Relatório da DICAMI nº  44/2018 (fls. 904-938).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o  Sr.  Fabio  Martins  Saraiva  no  valor  de R$ 143.865,85 que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Ipixuna, conforme discriminados: -R$ 140.336,00 (cento e quarenta mil, trezentos e trinta e seis reais) referente à ausência de documentos comprobatórios  de  retiradas  em  espécies  (item  12  da notificação). - R$ 3.529,85 (três mil, quinhentos e vinte e nove reais e oitenta e cinco centavos) referente às multas e juros de INSS (item 17 da notificação).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao  Sr.  Fabio  Martins Saraiva no  valor  de R$ 43.841,28 , nos termos do inciso VI do art. 308 da Resolução 4/2002 - RITCE/AM (à época descrito como artigo V no referido Regimento) em decorrência de atos  praticados  com  grave  infração  às  normas  legais,  conforme  as irregularidades   5,  6,  10,  12,  17,  18  e  19  do  Relatório  da  DICAMI  nº 44/2018  (fls.  904-938),  que  deverá  ser  recolhida  no  prazo  de  30  dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE .",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno o envio dos autos à Dicrex para que efetue os procedimentos  previstos  no  art.  3º  da  Resolução  3/2011TCE, observado o disposto no art. 5º da mesma Resolução.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno remeter cópia do Relatório da DICAMI nº   nº 44/2018 (fls. 904-938),  do  Parecer Ministerial Parecer  nº  2857/2018MPC-MP-FCVM (fls.  939-946),  e  da  Proposta  de  Voto  ao Ministério  Público  Estadual  para  o  ajuizamento  das  ações civis e penais cabíveis, conforme previsto na alínea 'b' do inciso III do art. 190 da Resolução nº 4/2002 (RITCE/AM).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que implante o Controle Interno que possibilite a execução de Auditoria  Prévia  dos  Atos  Administrativos  praticados  em cada exercício, conforme estabelecem os artigos 31 e 74, da Carta Maior de 1988, c/c o artigo 45, da Lei n° 2423/96 (Lei Orgânica do Tribunal de Contas do Estado do Amazonas).",
+      "trechos_identificados": [
+        {
+          "trecho": "Implante o Controle Interno que possibilite a execução de Auditoria  Prévia  dos  Atos  Administrativos  praticados  em cada exercício, conforme estabelecem os artigos 31 e 74, da Carta Maior de 1988, c/c o artigo 45, da Lei n° 2423/96 (Lei Orgânica do Tribunal de Contas do Estado do Amazonas).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve a necessidade de implementar o Controle Interno no orgão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal de 1988",
+              "artigo": "31 e 74",
+              "descricao": "Estabelece a necessidade de controle interno na administração pública."
+            },
+            {
+              "norma": "Lei n° 2423/96",
+              "artigo": "45",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas que estabelece a necessidade de controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Adeque  e  revise  o  pessoal  contratado  para  que  o  Ente esteja dentro do limite constitucional.",
+      "trechos_identificados": [
+        {
+          "trecho": "Adeque  e  revise  o  pessoal  contratado  para  que  o  Ente esteja dentro do limite constitucional.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A13A",
+          "tipologia_irregularidade": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "descricao": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "justificativa_tipologia": "O trecho descreve a necessidade de adequar e revisar o pessoal contratado para que o órgão esteja dentro do limite constitucional.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Não atrase o envio das informações ao sistema E-Contas, bem como o seu adequado preenchimento, nos termos da Resolução nº 07/02-TCE, c/c Resolução nº 10/2012TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Não atrase o envio das informações ao sistema E-Contas, bem como o seu adequado preenchimento, nos termos da Resolução nº 07/02-TCE, c/c Resolução nº 10/2012TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho descreve a necessidade de não atrasar o envio de informações ao sistema E-contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 07/02-TCE",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o envio de informações ao sistema E-Contas."
+            },
+            {
+              "norma": "Resolução nº 10/2012TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o envio de informações ao sistema E-Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Encaminhe no prazo estipulado os Relatórios de  Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei nº 2423/96 e do §1º da Resolução nº 11/2009 c/c §3º do art. 165 da CF/88.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe no prazo estipulado os Relatórios de  Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei nº 2423/96 e do §1º da Resolução nº 11/2009 c/c §3º do art. 165 da CF/88.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho descreve a necessidade de encaminhar no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "32, alínea h do inciso II",
+              "descricao": "Regulamenta o envio de informações ao sistema E-Contas."
+            },
+            {
+              "norma": "Resolução nº 11/2009",
+              "artigo": "§1º",
+              "descricao": "Regulamenta o envio de informações ao sistema E-Contas."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "§3º do art. 165",
+              "descricao": "Regulamenta o envio de informações ao sistema E-Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Dê publicidade aos Relatórios de  Gestão Fiscal (RGF) e Resumidos da Execução Orçamentária (RREO), dentro dos prazos  estipulados  pelo  art.  52,  c/c  o  §2º  do  art.  55,  sob pena de multa por prática de infração administrativa (art. 5º da Lei 10.028/2000), quanto aos RGF.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dê publicidade aos Relatórios de  Gestão Fiscal (RGF) e Resumidos da Execução Orçamentária (RREO), dentro dos prazos  estipulados  pelo  art.  52,  c/c  o  §2º  do  art.  55,  sob pena de multa por prática de infração administrativa (art. 5º da Lei 10.028/2000), quanto aos RGF.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho descreve a necessidade de dar publicidade aos Relatórios de Gestão Fiscal (RGF) e Resumidos da Execução Orçamentária (RREO), dentro dos prazos estipulados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 52 da Lei Complementar nº 101/2000",
+              "artigo": "Não consta",
+              "descricao": "Estabelece os prazos para a publicação do Relatório de Gestão Fiscal."
+            },
+            {
+              "norma": "Art. 55, §2º, da Lei Complementar nº 101/2000",
+              "artigo": "Não consta",
+              "descricao": "Estabelece os prazos para a publicação do Relatório Resumido da Execução Orçamentária."
+            },
+            {
+              "norma": "Art. 5º da Lei 10.028/2000",
+              "artigo": "Não consta",
+              "descricao": "Define as multas por prática de infração administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Nas licitações e contratos, observe  todas  as  regras estipuladas  pela  Lei  federal  nº  8.666/93,  tais  como  as relacionadas ao: orçamento analítico (art. 6º,  IX, 'f' c/c art. 7º, § 2º, II da Lei federal nº 8666/93), projetos arquitetônicos (art. 6º, IX, 'e' c/c art. 40, § 2º, I da Lei federal nº 8.666/93), diário de obra ou documento equivalente (art. 67, §1º da Lei federal nº 8.666/93),  laudo de  vistoria (art.  67, § 1º da Lei federal nº 8666/93), projeto básico aprovado pela autoridade competente  (art.  6º,  IX  c/c  art.  7º,  §  2º,  I,  II,  III,  IV  da  Lei federal nº 8666/93), entre outras.",
+      "trechos_identificados": [
+        {
+          "trecho": "Nas licitações e contratos, observe  todas  as  regras estipuladas  pela  Lei  federal  nº  8.666/93,  tais  como  as relacionadas ao: orçamento analítico (art. 6º,  IX, 'f' c/c art. 7º, § 2º, II da Lei federal nº 8666/93), projetos arquitetônicos (art. 6º, IX, 'e' c/c art. 40, § 2º, I da Lei federal nº 8.666/93), diário de obra ou documento equivalente (art. 67, §1º da Lei federal nº 8.666/93),  laudo de  vistoria (art.  67, § 1º da Lei federal nº 8666/93), projeto básico aprovado pela autoridade competente  (art.  6º,  IX  c/c  art.  7º,  §  2º,  I,  II,  III,  IV  da  Lei federal nº 8666/93), entre outras.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A49A",
+          "tipologia_irregularidade": "Emergência fabricada",
+          "descricao": "A auditoria observou, por reiteradas vezes, a utilização de dispensa de licitação, com base no art. 24, IV, da Lei 8.666/1993 ou no art. 75, VIII, da Lei 14.133/2023, para casos de emergência ou de calamidade pública. No entanto, quando se analisa minuciosamente o caso concreto, observa-se que não se trata de emergência resultante de fato imprevisível, mas sim decorrente de falta de planejamento, de inércia administrativa ou de má gestão de recursos públicos. - Contudo, em que pese a comprovação da falta de planejamento e a inércia administrativa, entende-se cabível a dispensa de licitação com fundamento nesses dispositivos, em virtude da essencialidade do serviço, porém deve-se avaliar a responsabilização dos agentes públicos que concorreram para originar a situação emergencial.",
+          "justificativa_tipologia": "O trecho descreve a necessidade de observar todas as regras estipuladas pela Lei federal nº 8.666/93.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "6º, IX, 'f' c/c art. 7º, § 2º, II",
+              "descricao": "Regulamenta o orçamento analítico."
+            },
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "6º, IX, 'e' c/c art. 40, § 2º, I",
+              "descricao": "Regulamenta os projetos arquitetônicos."
+            },
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "67, §1º",
+              "descricao": "Regulamenta o diário de obra ou documento equivalente."
+            },
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "67, § 1º",
+              "descricao": "Regulamenta o laudo de vistoria."
+            },
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "6º, IX c/c art. 7º, § 2º, I, II, III, IV",
+              "descricao": "Regulamenta o projeto básico aprovado pela autoridade competente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Cumpra  os  art.  48  e  48-A  da  Lei  Complementar  n.º 101/2000,  alterada  pela  Lei  Complementar  131/2009  c/c inciso II, art. 34 da Lei 2.423/96 que estabelece a obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra  os  art.  48  e  48-A  da  Lei  Complementar  n.º 101/2000,  alterada  pela  Lei  Complementar  131/2009  c/c inciso II, art. 34 da Lei 2.423/96 que estabelece a obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho descreve a necessidade de cumprir  os  art.  48  e  48-A  da  Lei  Complementar  n.º 101/2000,  alterada  pela  Lei  Complementar  131/2009  c/c inciso II, art. 34 da Lei 2.423/96 que estabelece a obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "48 e 48-A",
+              "descricao": "Dispõe sobre a transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar nº 131/2009",
+              "artigo": "Não consta",
+              "descricao": "Altera a Lei Complementar nº 101/2000."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "34, inciso II",
+              "descricao": "Estabelece a obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Recolha imediatamente os devidos valores referentes às contribuições previdenciárias ao INSS.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recolha imediatamente os devidos valores referentes às contribuições previdenciárias ao INSS.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "justificativa_tipologia": "O trecho descreve a necessidade de recolher imediatamente os devidos valores referentes às contribuições previdenciárias ao INSS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Arts. 40 e 195, I, da Constituição Federal.",
+              "artigo": "40 e 195, I",
+              "descricao": "Trata da seguridade social."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que Observe,  por  último,  que  a  reincidência,  nas  próximas Prestações  de  Contas,  das  determinações  ora  veiculadas acarretará  o  julgamento  da irregularidade  da  respectiva Conta, conforme prevê a alínea 'e' do inciso III do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "acordao": "619/2020",
+  "processo": "11584/2019",
+  "data_sessao": "17 de Junho de 2020",
+  "orgao": "Agência Amazonense de Desenvolvimento Cultural - AADC",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Ana Patricia Cuvello Veloso"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular as Contas da Sra. Ana Patricia Cuvello Veloso, gestora da Agência Amazonense de Desenvolvimento Cultural - AADC, referente ao exercício de 2018, nos termos do artigo 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM c/c o artigo 188, inciso II; §1º, inciso III, alínea 'b', estes da Resolução  nº 04/2002 -RITCE/AM,  em  razão  das impropriedades relacionadas no item 2 do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular as Contas da Sra. Ana Patricia Cuvello Veloso, gestora da Agência Amazonense de Desenvolvimento Cultural - AADC, referente ao exercício de 2018, nos termos do artigo 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM c/c o artigo 188, inciso II; §1º, inciso III, alínea 'b', estes da Resolução  nº 04/2002 -RITCE/AM,  em  razão  das impropriedades relacionadas no item 2 do Relatório/Voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A prestação de contas foi julgada irregular devido a impropriedades identificadas no relatório, indicando falhas na apresentação, avaliação ou classificação contábil dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Lei Orgânica do TCE/AM que estabelece as condições para julgamento irregular das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "188, inciso II; §1º, inciso III, alínea 'b'",
+              "descricao": "Regimento Interno do TCE/AM que define as responsabilidades e procedimentos em relação às contas irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa no valor de R$ 30.000,00 à Sra. Ana Patricia Cuvello Veloso, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com fundamento no artigo 54, inciso VI, da LOTCE/AM, em razão das graves infrações às normas legais e regulamentares, evidenciadas no Relatório Conclusivo nº 46/2019-DICAI, por descumprimento ao(s): i) artigo 2º da Resolução TCE/AM nº 04/2016 (restrição nº 1); ii) artigos 101 a 106 da Lei nº 4.320/1964, Portaria MF nº 184/2008 e artigo 1º, e seguintes, da Resolução TCE/AM nº 03/2013  (Restrições nº 2.1, nº 2.2 e nº 2.3); iii) artigo 16 da Lei nº 8.666/993 e o artigo 6º, inciso I, da Lei 12.527/2011 (Restrição nº 3); iv) artigo  25, inciso III, artigo 60, artigo 65, inciso I, e artigo 58, inciso IV, todos estes da Lei nº 8.666/1993 (Restrição nº 6); v) artigo 67 da Lei nº 8.666/1993, artigo 195, §3º da CF/88, c/c o artigo 29, incisos III e IV, da Lei nº 8.666/1993, e artigo 14, caput , também da Lei nº 8.666/1993 (Restrição nº 7); vi) artigo 70, parágrafo único da CF/88  c/c seu correspondente art. 40 da Constituição Estadual do Amazonas - CEAM (Restrição nº 8).",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa no valor de R$ 30.000,00 à Sra. Ana Patricia Cuvello Veloso, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com fundamento no artigo 54, inciso VI, da LOTCE/AM, em razão das graves infrações às normas legais e regulamentares, evidenciadas no Relatório Conclusivo nº 46/2019-DICAI, por descumprimento ao(s): i) artigo 2º da Resolução TCE/AM nº 04/2016 (restrição nº 1); ii) artigos 101 a 106 da Lei nº 4.320/1964, Portaria MF nº 184/2008 e artigo 1º, e seguintes, da Resolução TCE/AM nº 03/2013  (Restrições nº 2.1, nº 2.2 e nº 2.3); iii) artigo 16 da Lei nº 8.666/993 e o artigo 6º, inciso I, da Lei 12.527/2011 (Restrição nº 3); iv) artigo  25, inciso III, artigo 60, artigo 65, inciso I, e artigo 58, inciso IV, todos estes da Lei nº 8.666/1993 (Restrição nº 6); v) artigo 67 da Lei nº 8.666/1993, artigo 195, §3º da CF/88, c/c o artigo 29, incisos III e IV, da Lei nº 8.666/1993, e artigo 14, caput , também da Lei nº 8.666/1993 (Restrição nº 7); vi) artigo 70, parágrafo único da CF/88  c/c seu correspondente art. 40 da Constituição Estadual do Amazonas - CEAM (Restrição nº 8).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A multa foi aplicada devido a graves infrações às normas legais e regulamentares, evidenciando a realização de despesas sem o devido empenho, comprometendo a transparência e legalidade na gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LOTCE/AM",
+              "artigo": "54, inciso VI",
+              "descricao": "Lei Orgânica do TCE/AM que estabelece a competência para aplicar multas em caso de infrações."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/2016",
+              "artigo": "2º",
+              "descricao": "Norma que estabelece regras para a gestão orçamentária e financeira."
+            },
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "101 a 106",
+              "descricao": "Lei que normatiza os procedimentos gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Portaria MF nº 184/2008",
+              "artigo": "Não especificado",
+              "descricao": "Regulamenta a utilização do Sistema Integrado de Administração Financeira do Governo Federal (SIAFI)."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 03/2013",
+              "artigo": "1º e seguintes",
+              "descricao": "Estabelece normas para a prestação de contas anual no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "16",
+              "descricao": "Lei de Licitações e Contratos que trata da necessidade de planejamento prévio para as contratações."
+            },
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "6º, inciso I",
+              "descricao": "Lei de Acesso à Informação que garante o direito de acesso às informações públicas."
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "25, inciso III, artigo 60, artigo 65, inciso I, e artigo 58, inciso IV",
+              "descricao": "Lei de Licitações e Contratos que estabelece as regras para as licitações e contratos administrativos."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "195, §3º",
+              "descricao": "Artigo da Constituição Federal que trata da seguridade social e da obrigatoriedade de licitação."
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "29, incisos III e IV, e artigo 14, caput",
+              "descricao": "Lei de Licitações e Contratos que estabelece os requisitos para a habilitação em licitações."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "70, parágrafo único",
+              "descricao": "Artigo da Constituição Federal que trata do controle externo da administração pública."
+            },
+            {
+              "norma": "CEAM",
+              "artigo": "40",
+              "descricao": "Correspondente ao artigo 70 da CF/88 na Constituição Estadual do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar ciência da  decisão  à Agência Amazonense de Desenvolvimento Cultural - AADC .",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência da decisão à Agência Amazonense de Desenvolvimento Cultural - AADC .",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A comunicação da decisão visa garantir que a AADC esteja ciente das conclusões do TCE/AM, permitindo a implementação de melhorias e correções nos processos internos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar ciência da decisão à Sra. Ana Patricia Cuvello Veloso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência da decisão à Sra. Ana Patricia Cuvello Veloso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A comunicação da decisão à responsável visa garantir que a gestora esteja ciente das conclusões do TCE/AM, permitindo a implementação de melhorias e correções nos processos internos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

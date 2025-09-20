@@ -1,0 +1,294 @@
+{
+  "acordao": "23/2016",
+  "processo": "3037/2011",
+  "data_sessao": "04 de maio de 2016",
+  "orgao": "Prefeitura Municipal de Tapauá",
+  "municipio": "Tapauá",
+  "exercicio": "2010",
+  "responsavel": [
+    "Francisco Cássio Nunes Brandão",
+    "Elivaldo Herculino dos Santos",
+    "Raimundo Veríssimo Alves"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Considerar Revéis os Srs . Francisco Cássio Nunes Brandão e Raimundo Veríssimo Alves , ex-Prefeitos de Tapauá.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar Revéis os Srs . Francisco Cássio Nunes Brandão e Raimundo Veríssimo Alves , ex-Prefeitos de Tapauá.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A revelia, por si só, não é uma irregularidade de gestão, mas aponta para uma possível falta de cooperação com os órgãos de controle, o que dificulta a transparência e a responsabilização. A revelia impede que o gestor apresente sua versão dos fatos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas Anual da Prefeitura Municipal de  Tapauá ,  relativas  ao  exercício  de  2010,  de  responsabilidade  dos  Srs. Francisco Cássio Nunes Brandão , Prefeito e Ordenador de Despesas no período de 01/01/2010 a 14/04/2010 Elivaldo  Herculino  dos  Santos ,  Prefeito  e  Ordenador  de  Despesas  no período de 15/04/2010 a 29/06/2010 e 16/09/2010 a 20/12/2010 e Raimundo Veríssimo Alves ,  Prefeito  e  Ordenador  de  Despesas  no  período  de  30/06/2010  a  15/09/2010  e 21/12/2010 a 31/12/2010,  nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III, 'b' e 'c' da Lei n° 2.423/96 c/c art. 11, III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas Anual da Prefeitura Municipal de  Tapauá ,  relativas  ao  exercício  de  2010,  de  responsabilidade  dos  Srs. Francisco Cássio Nunes Brandão , Prefeito e Ordenador de Despesas no período de 01/01/2010 a 14/04/2010 Elivaldo  Herculino  dos  Santos ,  Prefeito  e  Ordenador  de  Despesas  no período de 15/04/2010 a 29/06/2010 e 16/09/2010 a 20/12/2010 e Raimundo Veríssimo Alves ,  Prefeito  e  Ordenador  de  Despesas  no  período  de  30/06/2010  a  15/09/2010  e 21/12/2010 a 31/12/2010,  nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III, 'b' e 'c' da Lei n° 2.423/96 c/c art. 11, III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE;",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Julgar irregular a prestação de contas indica que houve falhas graves na gestão orçamentária, financeira e/ou patrimonial, comprometendo a transparência e a legalidade na aplicação dos recursos públicos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios constitucionais."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da constituição estadual."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1°, II",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da Lei Orgânica do TCE-AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "2°",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da Lei Orgânica do TCE-AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "4°",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da Lei Orgânica do TCE-AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "5°, I",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da Lei Orgânica do TCE-AM."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da Lei Orgânica do TCE-AM."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "11, III, 'a', '2'",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da Resolução do TCE/AM."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "188, § 1°, III, 'b' e 'c'",
+              "descricao": "A irregularidade das contas denota descumprimento dos princípios da Resolução do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar multa ao Senhor Francisco Cássio Nunes Brandão , nos termos do  artigo  54,  II,  III  da  Lei  2.423/96  combinado  com  o  artigo  308,  V,  VI,  do  Regimento Interno, no valor de R$13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos), pelas impropriedades constantes dos itens 2, 3, 4, 5, 8, 11, 13, 14, 16, 17, 18, 20, 21, 22, 23, 24, 30, 31, 32, 33 e 36 do Relatório Conclusivo nº 27/2011-CI/DICAMI;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Senhor Francisco Cássio Nunes Brandão , nos termos do  artigo  54,  II,  III  da  Lei  2.423/96  combinado  com  o  artigo  308,  V,  VI,  do  Regimento Interno, no valor de R$13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos), pelas impropriedades constantes dos itens 2, 3, 4, 5, 8, 11, 13, 14, 16, 17, 18, 20, 21, 22, 23, 24, 30, 31, 32, 33 e 36 do Relatório Conclusivo nº 27/2011-CI/DICAMI;",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/2011-CI/DICAMI\"; justificativa=\"A aplicação de multa, neste caso, decorre de diversas irregularidades apontadas no relatório, indicando falhas na gestão orçamentária, financeira e/ou patrimonial. A multa visa penalizar o responsável e garantir o ressarcimento ao erário, se for o caso.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, II",
+              "descricao": "A multa é aplicada conforme a legislação que rege o TCE-AM."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, III",
+              "descricao": "A multa é aplicada conforme a legislação que rege o TCE-AM."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, V",
+              "descricao": "A multa é aplicada conforme o Regimento Interno do TCE-AM."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, VI",
+              "descricao": "A multa é aplicada conforme o Regimento Interno do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  multa ao  Senhor Raimundo  Veríssimo  Alves ,  nos  termos  do artigo 54, II,  III da Lei 2.423/96 combinado com o artigo 308, V, VI, do Regimento Interno, no  valor  de R$  13.152,37 (treze  mil,  cento  e  cinquenta  e  dois  reais  e  trinta  e  sete centavos), pelas impropriedades constantes dos itens 2, 3, 4, 5, 8, 11, 13, 14, 16, 17, 18, 20, 21, 22, 23, 24, 30, 31, 32, 33 e 36 do Relatório Conclusivo nº 27/2011-CI/DICAMI;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  Senhor Raimundo  Veríssimo  Alves ,  nos  termos  do artigo 54, II,  III da Lei 2.423/96 combinado com o artigo 308, V, VI, do Regimento Interno, no  valor  de R$  13.152,37 (treze  mil,  cento  e  cinquenta  e  dois  reais  e  trinta  e  sete centavos), pelas impropriedades constantes dos itens 2, 3, 4, 5, 8, 11, 13, 14, 16, 17, 18, 20, 21, 22, 23, 24, 30, 31, 32, 33 e 36 do Relatório Conclusivo nº 27/2011-CI/DICAMI;",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/2011-CI/DICAMI\"; justificativa=\"A aplicação de multa, neste caso, decorre de diversas irregularidades apontadas no relatório, indicando falhas na gestão orçamentária, financeira e/ou patrimonial. A multa visa penalizar o responsável e garantir o ressarcimento ao erário, se for o caso.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, II",
+              "descricao": "A multa é aplicada conforme a legislação que rege o TCE-AM."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, III",
+              "descricao": "A multa é aplicada conforme a legislação que rege o TCE-AM."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, V",
+              "descricao": "A multa é aplicada conforme o Regimento Interno do TCE-AM."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, VI",
+              "descricao": "A multa é aplicada conforme o Regimento Interno do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar multa ao Senhor Elivaldo Herculino dos Santos , nos termos do artigo 54, II,  III da Lei 2.423/96 combinado com o artigo 308, V, VI, do Regimento Interno, no  valor  de R$  13.152,37 (treze  mil,  cento  e  cinquenta  e  dois  reais  e  trinta  e  sete centavos), pelas impropriedades constantes dos itens 3, 5 ,8 ,9 ,11 ,13 ,14 ,16 ,17 ,18 ,20, 21, 22, 23, 24, 31 e 33 do Relatório Conclusivo nº 27/2011-CI/DICAMI;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Senhor Elivaldo Herculino dos Santos , nos termos do artigo 54, II,  III da Lei 2.423/96 combinado com o artigo 308, V, VI, do Regimento Interno, no  valor  de R$  13.152,37 (treze  mil,  cento  e  cinquenta  e  dois  reais  e  trinta  e  sete centavos), pelas impropriedades constantes dos itens 3, 5 ,8 ,9 ,11 ,13 ,14 ,16 ,17 ,18 ,20, 21, 22, 23, 24, 31 e 33 do Relatório Conclusivo nº 27/2011-CI/DICAMI;",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/2011-CI/DICAMI\"; justificativa=\"A aplicação de multa, neste caso, decorre de diversas irregularidades apontadas no relatório, indicando falhas na gestão orçamentária, financeira e/ou patrimonial. A multa visa penalizar o responsável e garantir o ressarcimento ao erário, se for o caso.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, II",
+              "descricao": "A multa é aplicada conforme a legislação que rege o TCE-AM."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, III",
+              "descricao": "A multa é aplicada conforme a legislação que rege o TCE-AM."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, V",
+              "descricao": "A multa é aplicada conforme o Regimento Interno do TCE-AM."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, VI",
+              "descricao": "A multa é aplicada conforme o Regimento Interno do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar a glosa , ao Senhor Elivaldo Herculino dos Santos , o valor de R$ 30.174,06 (  trinta  mil,  cento  e  setenta  e  quatro  reais  e  seis centavos), corrigidos monetariamente,  devido  à  ocorrência  de  dano  patrimonial,  referente  à  despesa  sem comprovação de interesse público, ocorrência de dano patrimonial, referente ao pagamento de encargos ( juros e multas) relativo ao recolhimento de INSS, dos meses de abril , maio, setembro e outubro de 2010 ( impropriedades constantes dos itens 33, 14, 9, do Relatório Conclusivo nº 27/2011);",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a glosa , ao Senhor Elivaldo Herculino dos Santos , o valor de R$ 30.174,06 (  trinta  mil,  cento  e  setenta  e  quatro  reais  e  seis centavos), corrigidos monetariamente,  devido  à  ocorrência  de  dano  patrimonial,  referente  à  despesa  sem comprovação de interesse público, ocorrência de dano patrimonial, referente ao pagamento de encargos ( juros e multas) relativo ao recolhimento de INSS, dos meses de abril , maio, setembro e outubro de 2010 ( impropriedades constantes dos itens 33, 14, 9, do Relatório Conclusivo nº 27/2011);",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/2011\"; justificativa=\"A determinação de glosa, neste caso, visa corrigir o dano patrimonial causado pela falta de comprovação do interesse público nas despesas e pelo pagamento de encargos indevidos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar a glosa ,  ao  Senhor Francisco Cássio Nunes Brandão ,  o valor de R$ 25.955,00 ( vinte e cinco mil, novecentos e cinquenta e cinco reais), corrigido monetariamente,  devido  à  ocorrência  de  dano  patrimonial,  referente  ao  pagamento  de encargos  (  juros  e multas),  relativo  ao  recolhimento  de  INSS  do  mês  de setembro  de 2010, ocorrência de dano patrimonial, referente à despesa sem comprovação de interesse público  (  impropriedades  constantes  dos  itens  14,  33,36,  do  Relatório  Conclusivo  nº 27/2011-CI/DICAMI);",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a glosa ,  ao  Senhor Francisco Cássio Nunes Brandão ,  o valor de R$ 25.955,00 ( vinte e cinco mil, novecentos e cinquenta e cinco reais), corrigido monetariamente,  devido  à  ocorrência  de  dano  patrimonial,  referente  ao  pagamento  de encargos  (  juros  e multas),  relativo  ao  recolhimento  de  INSS  do  mês  de setembro  de 2010, ocorrência de dano patrimonial, referente à despesa sem comprovação de interesse público  (  impropriedades  constantes  dos  itens  14,  33,36,  do  Relatório  Conclusivo  nº 27/2011-CI/DICAMI);",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/2011-CI/DICAMI\"; justificativa=\"A determinação de glosa, neste caso, visa corrigir o dano patrimonial causado pela falta de comprovação do interesse público nas despesas e pelo pagamento de encargos indevidos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar a glosa , ao Senhor Raimundo Veríssimo Alves , o valor de R$  8.355,00 (oito  mil,  trezentos  e  cinquenta  e  cinco  reais),  corrigido  monetariamente, devido  à ocorrência de dano patrimonial, referente ao pagamento de encargos (juros e multas), relativo ao recolhimento de INSS do mês de setembro de 2010, dano patrimonial referente à despesa sem comprovação de interesse público. (Impropriedades constantes dos itens 14 e 33, do Relatório Conclusivo nº 27/2011-CI/DICAMI);",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a glosa , ao Senhor Raimundo Veríssimo Alves , o valor de R$  8.355,00 (oito  mil,  trezentos  e  cinquenta  e  cinco  reais),  corrigido  monetariamente, devido  à ocorrência de dano patrimonial, referente ao pagamento de encargos (juros e multas), relativo ao recolhimento de INSS do mês de setembro de 2010, dano patrimonial referente à despesa sem comprovação de interesse público. (Impropriedades constantes dos itens 14 e 33, do Relatório Conclusivo nº 27/2011-CI/DICAMI);",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/2011-CI/DICAMI\"; justificativa=\"A determinação de glosa, neste caso, visa corrigir o dano patrimonial causado pela falta de comprovação do interesse público nas despesas e pelo pagamento de encargos indevidos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Fixar prazo de 30 (trinta) dias para o recolhimento aos cofres públicos do valor da pena pecuniária imposta, com comprovação perante este Tribunal. Expirado o prazo, autorizar desde  já  a instauração  de  cobrança  executiva ,  no  caso  de  nãorecolhimento do  valor da condenação, nos moldes do art.  173  da Resolução n. 04/02TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar prazo de 30 (trinta) dias para o recolhimento aos cofres públicos do valor da pena pecuniária imposta, com comprovação perante este Tribunal. Expirado o prazo, autorizar desde  já  a instauração  de  cobrança  executiva ,  no  caso  de  nãorecolhimento do  valor da condenação, nos moldes do art.  173  da Resolução n. 04/02TCE;",
+          "tema_irregularidade": "ADMINISTRATIVO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação do prazo para recolhimento da multa e a autorização para instauração de cobrança executiva são procedimentos padrão para garantir a efetividade das decisões do tribunal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/02TCE",
+              "artigo": "173",
+              "descricao": "A cobrança executiva é autorizada conforme a resolução do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Fixar prazo , nos termos do artigo 1º, XII, da Lei 2423/1996, para que a Prefeitura Municipal de Tapauá, providencie a regulamentação de impropriedades com as seguintes providências: a) Implantar o Controle Interno em  atendimento ao artigo 45, da Constituição Estadual c/c o artigo 43, da Lei Estadual 2423/96, item 19 do Relatório Conclusivo nº 27/2011-CI/DCAMI; b) Encaminhar  o  Plano  Plurianual  para  o  quadriênio  2010/2013,  assim como da Lei de Diretrizes Orçamentárias referente ao exercício de 2010, para  este  Tribunal,  conforme  estabelecido  nos  artigos  3º,  4º  e  5º  da Resolução 07/2002-TCE/ACP, item 21 do Relatório Conclusivo nº 27/2011CI/DCAMI; c) Regulamentar a situação de pessoal contratado pela Prefeitura relativo aos itens 22 e 24 do Relatório Conclusivo nº 27/2011-CI/DCAMI; d) Apresentar  providências  tomadas  pelo  Poder  Público  Municipal  para colocar  em  perfeito  funcionamento  os  equipamentos  odontológicos  do posto de saúde do bairro do Açaí, na sede do município de Tapauá, item 34 do Relatório Conclusivo nº 27/2011-CI/DCAMI; e) Apresentar  providências  tomadas  pelo  Poder  Público  Municipal  na melhoria do acondicionamento de materiais estocados no almoxarifado da Prefeitura, item 35 do Relatório Conclusivo nº 27/2011-CI/DCAMI; f) Apresentar plano ou estudo sobre  desenvolvimento sustentável para o município de Tapauá,  item  38  do  Relatório Conclusivo  nº 27/2011CI/DCAMI; g) Apresentar  providências  tomadas  pelo  Poder  Público  Municipal  na melhoria do controle de entrada e saída de medicamentos nos postos de saúde, item 39 do Relatório Conclusivo nº 27/2011-CI/DCAMI;",
+      "trechos_identificados": [
+        {
+          "trecho": "Implantar o Controle Interno em  atendimento ao artigo 45, da Constituição Estadual c/c o artigo 43, da Lei Estadual 2423/96, item 19 do Relatório Conclusivo nº 27/2011-CI/DCAMI",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/2011-CI/DCAMI\"; justificativa=\"A determinação para implantar o Controle Interno visa corrigir a ausência ou insuficiência desse mecanismo essencial para a gestão pública.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "45",
+              "descricao": "O Controle Interno é exigido pela Constituição Estadual."
+            },
+            {
+              "norma": "Lei Estadual 2423/96",
+              "artigo": "43",
+              "descricao": "O Controle Interno é exigido pela Lei Estadual."
+            }
+          ]
+        },
+        {
+          "trecho": "Encaminhar  o  Plano  Plurianual  para  o  quadriênio  2010/2013,  assim como da Lei de Diretrizes Orçamentárias referente ao exercício de 2010, para  este  Tribunal,  conforme  estabelecido  nos  artigos  3º,  4º  e  5º  da Resolução 07/2002-TCE/ACP, item 21 do Relatório Conclusivo nº 27/2011CI/DCAMI",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo nº 27/201

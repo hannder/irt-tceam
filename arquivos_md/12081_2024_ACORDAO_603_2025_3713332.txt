@@ -1,0 +1,160 @@
+{
+  "acordao": "603/2025",
+  "processo": "12081/2024",
+  "data_sessao": "15 de Abril de 2025",
+  "orgao": "Câmara Municipal de Boa Vista do Ramos",
+  "municipio": "Boa Vista do Ramos",
+  "exercicio": "2023",
+  "responsavel": [
+    "Silvano Menezes Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual  do exercício de 2023 da Câmara Municipal de Boa Vista do Ramos, sob a responsabilidade  do Sr.  Silvano  Menezes  Rodrigues ,  nos  termos  do art. 22, inciso II, da Lei nº 2.423/1996 - LOTCEAM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual  do exercício de 2023 da Câmara Municipal de Boa Vista do Ramos, sob a responsabilidade  do Sr.  Silvano  Menezes  Rodrigues ,  nos  termos  do art. 22, inciso II, da Lei nº 2.423/1996 - LOTCEAM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica um julgamento regular com ressalvas, o que sugere que há problemas na prestação de contas, mas não graves o suficiente para rejeitá-la completamente. A aprovação com ressalva da PCA pode indicar inconsistências ou falta de comprovação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Aprovaçao com ressalvas em contas anuais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de cumprir  com  rigor  o  prazo  de  envio  (mensal  e  anual)  de  todos  os documentos  requeridos  nas  Prestações  de  Contas  Mensais  e  Anuais, conforme normativos desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de cumprir  com  rigor  o  prazo  de  envio  (mensal  e  anual)  de  todos  os documentos  requeridos  nas  Prestações  de  Contas  Mensais  e  Anuais, conforme normativos desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para cumprir o prazo de envio dos documentos sugere uma deficiência no cumprimento das obrigações de envio de documentos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de atentar  ao  cumprimento  do  disposto  na  Resolução  TCE  nº  13/2015  e 03/2015, sob pena de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de atentar  ao  cumprimento  do  disposto  na  Resolução  TCE  nº  13/2015  e 03/2015, sob pena de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para atentar ao cumprimento das resoluções e a advertência de reincidência sugerem que a Câmara Municipal tem histórico de não cumprimento das normas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "Não aplicável",
+              "descricao": "Não especificado"
+            },
+            {
+              "norma": "Resolução TCE nº 03/2015",
+              "artigo": "Não aplicável",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de manter  seu  Portal da Transparência  devidamente  atualizado, com divulgação  em  tempo  real  das  informações  de  interesse  coletivo  ou geral, em cumprimento ao disposto na Lei de Responsabilidade Fiscal e na Lei nº 12.527/2012, sob pena de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de manter  seu  Portal da Transparência  devidamente  atualizado, com divulgação  em  tempo  real  das  informações  de  interesse  coletivo  ou geral, em cumprimento ao disposto na Lei de Responsabilidade Fiscal e na Lei nº 12.527/2012, sob pena de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação para manter o Portal da Transparência atualizado e a advertência de reincidência indicam que a Câmara Municipal tem histórico de não cumprimento das normas de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "Não aplicável",
+              "descricao": "Não especificado"
+            },
+            {
+              "norma": "Lei nº 12.527/2012",
+              "artigo": "Não aplicável",
+              "descricao": "Não especificado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de cumprir  com  rigor  os  prazos  de  remessa  e  publicação  dos  dados  dos Relatórios  de  Gestão  Fiscal  -  RGF,  via  Sistema  e-Contas-GEFIS,  em cumprimento aos normativos legais desta Corte de Contas, sob pena de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Boa Vista do Ramos, no sentido de cumprir  com  rigor  os  prazos  de  remessa  e  publicação  dos  dados  dos Relatórios  de  Gestão  Fiscal  -  RGF,  via  Sistema  e-Contas-GEFIS,  em cumprimento aos normativos legais desta Corte de Contas, sob pena de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A recomendação para cumprir os prazos de remessa e publicação dos dados dos RGF e a advertência de reincidência indicam que a Câmara Municipal tem histórico de não cumprimento das normas de gestão fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr. Silvano  Menezes  Rodrigues , e aos demais interessados no processo",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr. Silvano  Menezes  Rodrigues , e aos demais interessados no processo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação de dar ciência ao responsável e demais interessados é uma formalidade processual que não indica irregularidade, mas sim o cumprimento do devido processo legal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo após cumprimento desta decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo após cumprimento desta decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O arquivamento do processo é uma formalidade processual que não indica irregularidade, mas sim o encerramento do caso após o cumprimento da decisão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

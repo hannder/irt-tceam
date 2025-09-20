@@ -1,0 +1,149 @@
+{
+  "acordao": "739/2022",
+  "processo": "11724/2021",
+  "data_sessao": "17 de Maio de 2022",
+  "orgao": "Serviço Autonomo de Agua e Esgoto de Uarini - SAAE",
+  "municipio": "Uarini",
+  "exercicio": "2020",
+  "responsavel": [
+    "Edson Rego da Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Serviço Autônomo de Água e Esgoto - SAAE de Uarini, exercício de 2020, sob a responsabilidade do Sr. Edson Rego da Costa , na condição de Ordenador de Despesa, nos termos do art. 22, III, e 25 da Lei nº 2.423/96 c/c o art. 5º, I, da Resolução 04/2002-TCE/AM, pelos motivos expostos no Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Serviço Autônomo de Água e Esgoto - SAAE de Uarini, exercício de 2020, sob a responsabilidade do Sr. Edson Rego da Costa , na condição de Ordenador de Despesa, nos termos do art. 22, III, e 25 da Lei nº 2.423/96 c/c o art. 5º, I, da Resolução 04/2002-TCE/AM, pelos motivos expostos no Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas do SAAE de Uarini foi considerada irregular, indicando falhas que dificultam o controle da execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III, e 25",
+              "descricao": "Definição das responsabilidades e irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "5º, I",
+              "descricao": "Regulamentação sobre a apresentação e julgamento das prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Edson Rego da Costa no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) na forma prevista no artigo 54, VI, da Lei nº 2.243/96 c/c art. 308,  inciso  VI,  da  Resolução  nº.  04/2002  -  RITCE/AM,  atualizada  em 09.11.2018, relativa  às  restrições  02  a  20,  constantes  na  Notificação  nº 02/2021-CI-DICAMI, não sanadas, que deverá ser recolhida no prazo de 30 (trinta) dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo (art. 73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado,  caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III,  do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com  o  Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção Amazonas  -  IEPTB/AM,  ao  encaminhamento  do  título  executivo  para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edson Rego da Costa no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) na forma prevista no artigo 54, VI, da Lei nº 2.243/96 c/c art. 308, inciso VI, da Resolução nº. 04/2002 - RITCE/AM, atualizada em 09.11.2018, relativa às restrições 02 a 20, constantes na Notificação nº 02/2021-CI-DICAMI, não sanadas, que deverá ser recolhida no prazo de 30 (trinta) dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O trecho demonstra descumprimento de normas com previsão de multa, o que indica impacto na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.243/96",
+              "artigo": "54, VI",
+              "descricao": "Estabelece as penalidades aplicáveis pelo Tribunal de Contas do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Define os procedimentos para aplicação de multas e outras sanções pelo TCE/AM."
+            },
+             {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea a",
+              "descricao": "Dispõe sobre a obrigatoriedade de encaminhamento do comprovante de pagamento da multa."
+            },
+             {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Trata da cobrança administrativa ou judicial do título executivo em caso de não adimplemento da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Edson Rego da Costa no valor de R$18.774,80 (dezoito  mil,  setecentos  e  setenta  e  quatro  reais  e  oitenta centavos), em virtude da remessa fora do prazo estabelecido no art. 15 da LC  nº  06/91  c/c  art.  20,  II,  LC  nº  24/2000,  ao  Tribunal  de  Contas,  dos balancetes mensais referentes ao período de janeiro a novembro de 2020, no  valor  de R$  1.706,80 (um  mil,  setecentos  e  seis  reais  e  oitenta centavos)  para  cada  mês,  nos  termos  do  artigo  54,  I,  'a',  da  Lei  nº 2423/96,  alterado  pela  LC  nº  204/2020,  c/c  art.  308,  inciso  I,  'a',  da Resolução  nº.  04/2002  -  RITCE/AM,  atualizada  em  09.11.2018,  que deverá ser recolhida no prazo de 30 (trinta) dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício  do  Controle  Externo  -  FAECE.  Dentro  do  prazo  anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento  (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança  administrativa  ou  judicial  do  título  executivo  (art.  73  da  Lei Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III,  do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas -  IEPTB/AM,  ao  encaminhamento  do  título  executivo  para  protesto  em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edson Rego da Costa no valor de R$18.774,80 (dezoito  mil,  setecentos  e  setenta  e  quatro  reais  e  oitenta centavos), em virtude da remessa fora do prazo estabelecido no art. 15 da LC  nº  06/91  c/c  art.  20,  II,  LC  nº  24/2000,  ao  Tribunal  de  Contas,  dos balancetes mensais referentes ao período de janeiro a novembro de 2020, no  valor  de R$  1.706,80 (um  mil,  setecentos  e  seis  reais  e  oitenta centavos)  para  cada  mês,  nos  termos  do  artigo  54,  I,  'a',  da  Lei  nº 2423/96,  alterado  pela  LC  nº  204/2020,  c/c  art.  308,  inciso  I,  'a',  da Resolução  nº.  04/2002  -  RITCE/AM,  atualizada  em  09.11.2018,  que deverá ser recolhida no prazo de 30 (trinta) dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício  do  Controle  Externo  -  FAECE.  Dentro  do  prazo  anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento  (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança  administrativa  ou  judicial  do  título  executivo  (art.  73  da  Lei Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III,  do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas -  IEPTB/AM,  ao  encaminhamento  do  título  executivo  para  protesto  em nome do responsável",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A multa aplicada devido ao atraso na remessa dos balancetes mensais indica uma falha no cumprimento das obrigações fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/91",
+              "artigo": "15",
+              "descricao": "Estabelece os prazos para a remessa de documentos ao Tribunal de Contas."
+            },
+            {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "20, II",
+              "descricao": "Altera a redação de dispositivos da Lei Complementar nº 06/91, referentes à remessa de documentos."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, I, 'a'",
+              "descricao": "Define as multas aplicáveis por infrações às normas de controle externo."
+            },
+            {
+              "norma": "Lei Complementar nº 204/2020",
+              "artigo": "null",
+              "descricao": "Altera a Lei nº 2423/96, relacionada às multas aplicáveis."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCE/AM",
+              "artigo": "308, inciso I, 'a'",
+              "descricao": "Regulamenta os procedimentos para aplicação de multas pelo Tribunal de Contas."
+            },
+             {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea a",
+              "descricao": "Dispõe sobre a obrigatoriedade de encaminhamento do comprovante de pagamento da multa."
+            },
+             {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Trata da cobrança administrativa ou judicial do título executivo em caso de não adimplemento da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Serviço Autônomo de Agua e Esgoto de Uarini - SAAE a devida observância da legislação, sobretudo, quanto à remessa/apresentação da documentação tratada nestes autos",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Serviço Autônomo de Agua e Esgoto de Uarini - SAAE a devida observância da legislação, sobretudo, quanto à remessa/apresentação da documentação tratada nestes autos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "Recomendação para observância da legislação, especialmente quanto à remessa de documentação, o que indica uma falha nesse processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

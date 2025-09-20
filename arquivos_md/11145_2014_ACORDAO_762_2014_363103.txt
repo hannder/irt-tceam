@@ -1,0 +1,93 @@
+{
+  "acordao": "762/2014",
+  "processo": "11145/2014",
+  "data_sessao": "19 de dezembro de 2014",
+  "orgao": "Fundo Municipal de Saúde de Barreirinha",
+  "municipio": "Barreirinha",
+  "exercicio": "2013",
+  "responsavel": [
+    "Jociane Siqueira Carneiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar pela Irregularidade das contas do Fundo Municipal de  Saúde  de  Barreirinha,  exercício  de  2013,  tendo  como  responsável  a  Sra. Jociane Siqueira Carneiro , Presidente do Fundo, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c' da Lei n° 2.423/96 em razão da permanência das falhas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar  Revel a  Sra. Jociane  Siqueira  Carneiro ,  Presidente  do Fundo Municipal de Saúde de Barreirinha, exercício de 2013, nos termos do art. 20, §3º, da Lei nº 2.423/96, c/c o art. 88, da Resolução TCE/AM nº 04/2002, pelo não atendimento à Notificação nº 09/2014-CI-DCAMI (fls. 93/102)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Glosar o  montante R$  224.703,08  (duzentos e vinte  e  quatro  mil, setecentos e três reais e oito centavos) , em alcance a Sra. Jociane Siqueira Carneiro , Presidente do Fundo Municipal de Saúde de Barreirinha, para ressarcir os cofres públicos, em  decorrência  das  irregularidades  apresentadas  na  Tabela  de  fls.  109/110  do  Relatório Conclusivo  n°  50/2014-DICAMI  (fls.102/114),  ratificadas  pelo Parquet em  fls.  121/122  do Parecer nº 1891/2014-DMP-MPC-ELCM (fls. 115/125)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar  o  prazo  de  30 (trinta) dias ,  para  que  a  Sra.  Jociane  Siqueira Carneiro, Presidente do Fundo Municipal de Saúde de Barreirinha, recolha o valor do débito que  lhe  foi  aplicado  aos  cofres  públicos (art. 72, III, 'c', da Lei nº 2423/96),  ficando  a DICREX autorizada  a dotar  as medidas previstas nas subseções III e  IV da Seção  III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar a Sra. Jociane  Siqueira  Carneiro , Presidente do Fundo Municipal de Saúde de Barreirinha: no  valor  de R$  8.768,25 (oito  mil,  setecentos  e  sessenta  e  oito reais e vinte e cinco centavos), nos termos do art. 54, II, da Lei n° 2.423/96 e do art. 308, VI, da Resolução TCE/AM nº 04/02, alterada pela Resolução  TCE/AM  n.º  25/12,  pela grave infração à norma legal de natureza operacional, financeira e orçamentária (LC nº  131/09), com o descumprindo aos ditames da Lei de Responsabilidade Fiscal e da Lei de Acesso à Informação",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar a Sra. Jociane  Siqueira  Carneiro , Presidente do Fundo Municipal de Saúde de Barreirinha: No  valor  de  R$  43.841,28 (quarenta  e  três  mil,  oitocentos  e quarenta e um reais e vinte e oito centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c art. 308, inciso VI, da Resolução n° 04/2002-TCE/AM, alterado pela Resolução nº 25/2012TCE/AM,  pelas  faltas  cometidas  nos  itens  3  a  15  descritos  no  Relatório/voto,  contra  a norma legal de natureza contábil, financeira, orçamentaria, operacional e patrimonial",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar  o  prazo  de  30 (trinta)  dias ,  para  que  a  Sra.  Jociane  Siqueira Carneiro, Presidente do Fundo  Municipal de Saúde de Barreirinha, recolha os valores das multas  que  lhe  foram  aplicadas  aos  cofres  públicos (art. 72, III, 'c', da  Lei  nº 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar , em caso de não recolhimento dos valores de condenação, a inscrição do débito  na Dívida  Ativa e ensejo à ação  executiva, ex vi do art. 73 da Lei nº 2.423/96, art. 169, II, art. 173, e § 6º do art. 308, todos da Resolução nº 04/2002- TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem para que: Observe  os  prazos  previstos  nas  normas  legais  desta  Corte  de Contas, bem como os dispositivos da Resolução nº 07/2002- TCE/AM, referente ao sistema ACP",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem para que: Aprimore  o  controle  de  combustível  de  modo  a  constar  nas requisições, identificação do veículo, tipo, aquático ou terrestre, placa quando for o caso e nome do requisitante",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem para que: Cumpra com as disposições legais da Lei 8.666/93, em especial, com o adequado planejamento das aquisições, na escolha das modalidades adequadas de licitações",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem para que: Atualize os instrumentos de transparência dos atos praticados pelo Fundo, e divulgue na internet ou em seu Portal da Transparência, cuja obrigatoriedade de implantação teve prazo limite em 28 de maio de 2013 para a municipalidade.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhar cópia  dos autos ao  Ministério Público Estadual, para as providências que entender necessárias em razão dos indícios de improbidade administrativa. Nos termos art. 1º, XXIV, da Lei n. 2423/96 c/c o art. 190, III, 'b' da Resolução nº 04/2002 (Regimento Interno do TCE/AM).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar a Sra. Jociane Siqueira Carneiro, Presidente do Fundo Municipal de Saúde de Barreirinha, no  valor  de R$  1.096,03 (um mil e noventa e seis reais e três centavos),  conforme  o  art.  308, II da  Resolução  n.º  04/2002-TCE/AM,  alterado  pela Resolução nº 25/2012-TCE/AM, por cada mês de atraso no encaminhamento, por meio magnético  (ACP),  dos  demonstrativos  contábeis  referentes  aos  meses  de  janeiro  a dezembro  (12  meses),  totalizando  o  montante  de R$  13.152,36 (treze  mil,  cento  e cinquenta e dois reais e trinta e seis centavos), Item 1 do Relatório/voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de 30 (trinta) dias , para que a Sra. Jociane Siqueira Carneiro, Presidente do Fundo Municipal de Saúde de Barreirinha, recolha o valor da multa que  lhe  fora  aplicada  aos  cofres  públicos (art. 72, III, 'c', da Lei nº 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e  IV da Seção  III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar , em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei nº 2.423/96, art. 169, II, art. 173, e § 6º do art. 308, todos da Resolução nº 04/2002-TCE",
+      "trechos_identificados": []
+    }
+  ]
+}

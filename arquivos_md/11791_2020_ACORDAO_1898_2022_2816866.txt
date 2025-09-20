@@ -1,0 +1,220 @@
+{
+  "acordao": "1898/2022",
+  "processo": "11791/2020",
+  "data_sessao": "01 de Novembro de 2022",
+  "orgao": "Câmara Municipal de Careiro da Várzea",
+  "municipio": "Careiro da Várzea",
+  "exercicio": "2019",
+  "responsavel": [
+    "Jacob Pereira da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "atraso no envio do balancete mensal, via sistema econtas, referente ao mês de janeiro/2019, em afronta ao art.  15  e  20,  inciso  II  da  Lei  Complementar  nº  06/1991, bem como a Resolução nº 13/2015",
+      "trechos_identificados": [
+        {
+          "trecho": "atraso  no  envio  do  balancete  mensal,  via  sistema  econtas, referente ao mês de janeiro/2019, em afronta ao art.  15  e  20,  inciso  II  da  Lei  Complementar  nº  06/1991, bem como a Resolução nº 13/2015",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve o envio de balancete mensal fora do prazo estabelecido, caracterizando a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15 e 20, inciso II",
+              "descricao": "Atraso no envio do balancete mensal."
+            },
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "Não Aplicável",
+              "descricao": "Atraso no envio do balancete mensal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "não exigência de certidões negativas atualizadas (FGTS,  INSS,  previdenciária,  etc.)  dos  contratados,  em afronta ao art. 29, inciso IV e art. 38, inciso VI, ambos da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "não exigência de certidões negativas atualizadas (FGTS,  INSS,  previdenciária,  etc.)  dos  contratados,  em afronta ao art. 29, inciso IV e art. 38, inciso VI, ambos da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "O trecho descreve a não exigência de certidões negativas, o que se enquadra na ausência de comprovação de regularidade fiscal e trabalhista do fornecedor.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "29, inciso IV",
+              "descricao": "Não exigência de certidões negativas atualizadas dos contratados"
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38, inciso VI",
+              "descricao": "Não exigência de certidões negativas atualizadas dos contratados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "descumprimento  do  prazo  de  publicação  do  Relatório de Gestão Fiscal (RGF) referente ao segundo semestre de 2019, em afronta ao art. 63, §1º, da Lei de Responsabilidade Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "descumprimento  do  prazo  de  publicação  do  Relatório de Gestão Fiscal (RGF) referente ao segundo semestre de 2019, em afronta ao art. 63, §1º, da Lei de Responsabilidade Fiscal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho descreve o descumprimento do prazo de publicação do RGF, que se enquadra na tipologia de não publicação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "63, §1º",
+              "descricao": "Descumprimento do prazo de publicação do Relatório de Gestão Fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa ao Sr. Jacob Pereira da Silva, com fulcro no art. 54, inciso I, alínea 'a', da Lei nº 2.423/1996-LO-TCE/AM, no valor de R$ 1.706,80 , em  razão  do  atraso  no  encaminhamento  do  balancete mensal do mês de janeiro de 2019 ao Tribunal de Contas do Estado do Amazonas,  em  afronta ao art. 15 e 20, inciso II da Lei Complementar nº 06/1991, bem como a Resolução nº 13/2015, e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA na  esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Jacob Pereira da Silva, com fulcro no art. 54, inciso I, alínea 'a', da Lei nº 2.423/1996-LO-TCE/AM, no valor de R$ 1.706,80 , em  razão  do  atraso  no  encaminhamento  do  balancete mensal do mês de janeiro de 2019 ao Tribunal de Contas do Estado do Amazonas,  em  afronta ao art. 15 e 20, inciso II da Lei Complementar nº 06/1991, bem como a Resolução nº 13/2015",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A sanção está relacionada a uma falha na documentação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LO-TCE/AM",
+              "artigo": "54, inciso I, alínea 'a'",
+              "descricao": "Aplicação de multa por irregularidade"
+            },
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15 e 20, inciso II",
+              "descricao": "Atraso no envio do balancete mensal"
+            },
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "Não Aplicável",
+              "descricao": "Atraso no envio do balancete mensal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa ao Sr. Jacob Pereira da Silva, com fulcro no art. 54, inciso I, alínea 'c', da Lei nº 2.423/1996-LO-TCE/AM, no valor de R$ 1.706,80 ,  em  razão  do  descumprimento  do  prazo  de  publicação  do Relatório de Gestão Fiscal do último semestre de 2019, em afronta ao art.  63,  §1º,  da  Lei  de  Responsabilidade  Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Jacob Pereira da Silva, com fulcro no art. 54, inciso I, alínea 'c', da Lei nº 2.423/1996-LO-TCE/AM, no valor de R$ 1.706,80 ,  em  razão  do  descumprimento  do  prazo  de  publicação  do Relatório de Gestão Fiscal do último semestre de 2019, em afronta ao art.  63,  §1º,  da  Lei  de  Responsabilidade  Fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é consequência do descumprimento do prazo de publicação do RGF, relacionada a falhas na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LO-TCE/AM",
+              "artigo": "54, inciso I, alínea 'c'",
+              "descricao": "Aplicação de multa por irregularidade."
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "63, §1º",
+              "descricao": "Descumprimento do prazo de publicação do Relatório de Gestão Fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa ao Sr. Jacob Pereira da Silva , com fulcro no art. 54, inciso VII, da Lei nº 2.423/1996-LO-TCE/AM, no valor de R$ 1.706,80 , em razão das seguintes impropriedades não sanadas: não exigência, por parte dos contratados de certidões negativas atualizadas (FGTS, INSS, previdenciária, etc.), em afronta ao art. 29, inciso IV e art. 38, inciso VI, ambos da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Jacob Pereira da Silva , com fulcro no art. 54, inciso VII, da Lei nº 2.423/1996-LO-TCE/AM, no valor de R$ 1.706,80 , em razão das seguintes impropriedades não sanadas: não exigência, por parte dos contratados de certidões negativas atualizadas (FGTS, INSS, previdenciária, etc.), em afronta ao art. 29, inciso IV e art. 38, inciso VI, ambos da Lei nº 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "A multa é aplicada devido à ausência de exigência de certidões negativas, o que se relaciona à comprovação de regularidade fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LO-TCE/AM",
+              "artigo": "54, inciso VII",
+              "descricao": "Aplicação de multa por irregularidade."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "29, inciso IV",
+              "descricao": "Não exigência de certidões negativas atualizadas dos contratados."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38, inciso VI",
+              "descricao": "Não exigência de certidões negativas atualizadas dos contratados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar à Câmara Municipal de Careiro da Várzea, à Secretaria de  Estado  da  Saúde  e  à  Fundação  de  Vigilância  Sanitária  a instauração  de  processo  administrativo  para  apurar  a  licitude  do acúmulo  de  cargos  constante  desta  proposta  de  voto,  devendo encaminhar a esta Corte de Contas a conclusão dos feitos em 180 (cento e oitenta) dias da ciência deste decisum",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Câmara Municipal de Careiro da Várzea, à Secretaria de  Estado  da  Saúde  e  à  Fundação  de  Vigilância  Sanitária  a instauração  de  processo  administrativo  para  apurar  a  licitude  do acúmulo  de  cargos  constante  desta  proposta  de  voto,  devendo encaminhar a esta Corte de Contas a conclusão dos feitos em 180 (cento e oitenta) dias da ciência deste decisum",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A determinação busca apurar a licitude do acúmulo de cargos, indicando uma possível irregularidade na área de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar  ciência deste decisum ao  interessado, Sr.  Jacob  Pereira  da Silva, à  Câmara  Municipal  de  Careiro  da  Várzea,  à  Secretaria  de Estado da Saúde e à Fundação de Vigilância Sanitária.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência deste decisum ao  interessado, Sr.  Jacob  Pereira  da Silva, à  Câmara  Municipal  de  Careiro  da  Várzea,  à  Secretaria  de Estado da Saúde e à Fundação de Vigilância Sanitária.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ciência tem objetivo de informar os entes sobre as decisões tomadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

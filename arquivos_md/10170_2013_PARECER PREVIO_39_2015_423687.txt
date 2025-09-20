@@ -1,0 +1,124 @@
+{
+  "acordao": "039/2015",
+  "processo": "10170/2013",
+  "data_sessao": "22 de julho de 2015",
+  "orgao": "Prefeitura Municipal de Tonantins",
+  "municipio": "Tonantins",
+  "exercicio": "2012",
+  "responsavel": [
+    "Simeão Garcia Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Aplicar multa ao Sr. Simeão Garcia Nascimento, no valor de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos) , nos termos do art. 308, inciso II, da Resolução n. 04/2002-TCE, pela inobservância de prazo no envio da movimentação contábil de janeiro a dezembro do exercício de 2012, foram encaminhados por meio do sistema ACP fora do prazo estabelecido no art. 4º da Resolução 07/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Simeão Garcia Nascimento, no valor de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos) , nos termos do art. 308, inciso II, da Resolução n. 04/2002-TCE, pela inobservância de prazo no envio da movimentação contábil de janeiro a dezembro do exercício de 2012, foram encaminhados por meio do sistema ACP fora do prazo estabelecido no art. 4º da Resolução 07/2002",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve o não cumprimento de prazo para envio de movimentação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE",
+              "artigo": "308, inciso II",
+              "descricao": "A multa foi aplicada devido à inobservância do prazo para envio da movimentação contábil."
+            },
+            {
+              "norma": "Resolução 07/2002",
+              "artigo": "4º",
+              "descricao": "A movimentação contábil deveria ter sido encaminhada dentro do prazo estabelecido no art. 4º da Resolução 07/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Aplicar multa ao Sr. Simeão Garcia Nascimento, no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos) , nos termos do art. 308, inciso I, 'b', da Resolução n. 04/2002-TCE, por não apresentação de documentos, em inspeções ou auditorias realizadas pelo Tribunal (arts. 33 e 54, VI da Lei n. 2423, de 10.12.1996)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Simeão Garcia Nascimento, no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos) , nos termos do art. 308, inciso I, 'b', da Resolução n. 04/2002-TCE, por não apresentação de documentos, em inspeções ou auditorias realizadas pelo Tribunal (arts. 33 e 54, VI da Lei n. 2423, de 10.12.1996)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O trecho descreve a multa aplicada devido à não apresentação de documentos em inspeções ou auditorias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE",
+              "artigo": "308, inciso I, 'b'",
+              "descricao": "A multa foi aplicada devido à não apresentação de documentos em inspeções ou auditorias realizadas pelo Tribunal."
+            },
+            {
+              "norma": "Lei n. 2423, de 10.12.1996",
+              "artigo": "33",
+              "descricao": "A não apresentação de documentos viola os arts. 33 da Lei n. 2423, de 10.12.1996."
+            },
+            {
+              "norma": "Lei n. 2423, de 10.12.1996",
+              "artigo": "54, VI",
+              "descricao": "A não apresentação de documentos viola os arts. 54, VI da Lei n. 2423, de 10.12.1996."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem a estrita observância das normas constitucionais e legais aplicáveis, notadamente as contidas na Lei 4.320/64, Lei 8.666/93, Lei  101/2000  (LRF),  Lei  2.423/96  (Lei  Orgânica  do  TCE/AM),  Resolução  nº  04/2002 (Regimento Interno do TCE/AM) e demais Resoluções desta Corte, visando:\n\n9.5.1 Realizar as contratações de compras e serviços mediante procedimento licitatório, nos termos do art. 37, XXI, da Constituição Federal c/c art. 105, § 5º da Constituição do Estado do Amazonas, e Lei 8.666/93;\n\n9.5.2 Elaborar e aprovar os projetos básicos para a realização de  obras  e  serviços,  previamente  às  licitações,  dispensas  e inexigibilidades, em observância à Lei 8.666/93, art. 7º, II, e seus parágrafos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem a estrita observância das normas constitucionais e legais aplicáveis, notadamente as contidas na Lei 4.320/64, Lei 8.666/93, Lei  101/2000  (LRF),  Lei  2.423/96  (Lei  Orgânica  do  TCE/AM),  Resolução  nº  04/2002 (Regimento Interno do TCE/AM) e demais Resoluções desta Corte, visando:Realizar as contratações de compras e serviços mediante procedimento licitatório, nos termos do art. 37, XXI, da Constituição Federal c/c art. 105, § 5º da Constituição do Estado do Amazonas, e Lei 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "O trecho descreve a necessidade de realizar licitações conforme o art. 37, XXI, da Constituição Federal e Lei 8.666/93.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, XXI",
+              "descricao": "As contratações de compras e serviços devem ser realizadas mediante procedimento licitatório."
+            },
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "105, § 5º",
+              "descricao": "As contratações de compras e serviços devem ser realizadas mediante procedimento licitatório."
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "Não aplicável",
+              "descricao": "As contratações de compras e serviços devem ser realizadas mediante procedimento licitatório."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar à origem a estrita observância das normas constitucionais e legais aplicáveis, notadamente as contidas na Lei 4.320/64, Lei 8.666/93, Lei  101/2000  (LRF),  Lei  2.423/96  (Lei  Orgânica  do  TCE/AM),  Resolução  nº  04/2002 (Regimento Interno do TCE/AM) e demais Resoluções desta Corte, visando:Elaborar e aprovar os projetos básicos para a realização de  obras  e  serviços,  previamente  às  licitações,  dispensas  e inexigibilidades, em observância à Lei 8.666/93, art. 7º, II, e seus parágrafos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "O trecho descreve a recomendação de elaborar e aprovar projetos básicos para obras e serviços antes das licitações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "7º, II",
+              "descricao": "A elaboração e aprovação dos projetos básicos devem ser realizadas previamente às licitações, dispensas e inexigibilidades."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "acordao": "1966/2022",
+  "processo": "12481/2020",
+  "data_sessao": "22 de Novembro de 2022",
+  "orgao": "Secretaria Municipal de Agricultura, Abastecimento, Centro e Comércio Informal - SEMACC",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Fabio Henrique dos Santos Albuquerque",
+    "Renato Frota Magalhães"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Secretaria Municipal de Agricultura, Abastecimento, Centro e Comércio Informal (SEMACC), sob a responsabilidade do Sr. Fabio Henrique dos Santos Albuquerque , exercício 2019, nos termos do art. 22, III c/c art. 25 da Lei 2423/96, devido às restrições da Notificação nº 071/2020-DICAMM (fls. 605/615) enviada ao Sr. Fábio Henrique dos Santos Albuquerque, ex-Secretário Municipal, com Aviso de Recebimento positivo às fls. 666, cuja resposta se anexou às fls. 616/665 pelo Sr. Renato Frota Magalhães, em virtude dos achados não sanados:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Fabio Henrique dos Santos Albuquerque no valor de R$ 17.191,01 (dezessete mil, cento e noventa e um reais e um centavo) e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável; devido às seguintes infrações:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Renato Frota Magalhães no valor de R$ 14.654,39 (quatorze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título  executivo  para  protesto em  nome  do responsável; devido às seguintes infrações:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Revelia",
+      "descricao": "Considerar revel o Sr. Fabio Henrique dos Santos Albuquerque , na forma do art. 88, da Resolução nº 04/2002, por ausência de resposta aoTribunal de Contas do Estado do Amazonas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão da SEMACC que: a) inclua notas explicativas no Balanço Financeiro quanto à disponibilidade financeira, conforme 36, 37, 58 a 62 todos da Lei nº 4320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à atual gestão da SEMACC que: a) inclua notas explicativas no Balanço Financeiro quanto à disponibilidade financeira, conforme 36, 37, 58 a 62 todos da Lei nº 4320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho determina a inclusão de notas explicativas no balanço financeiro, o que indica uma ausência ou insuficiência destas notas, uma falha na apresentação das demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "36, 37, 58 a 62",
+              "descricao": "Dispõe sobre normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal. Os artigos citados tratam da execução orçamentária e do equilíbrio financeiro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão da SEMACC  que: b) observe o prazo concernente ao recolhimento previdenciário, sob pena de multa por reincidência, devido à transgressão ao art. 4º c/c art. 12 da Lei nº 4320/64 e art. 1º, §1º, da Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à atual gestão da SEMACC  que: b) observe o prazo concernente ao recolhimento previdenciário, sob pena de multa por reincidência, devido à transgressão ao art. 4º c/c art. 12 da Lei nº 4320/64 e art. 1º, §1º, da Lei Complementar nº 101/2000",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial.",
+          "justificativa_tipologia": "A determinação para observar o prazo de recolhimento previdenciário indica que houve descumprimento anterior desse prazo, caracterizando a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "4º",
+              "descricao": "Especifica a discriminação da receita e da despesa orçamentárias para apresentação em balanços."
+            },
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "12",
+              "descricao": "Define o exercício financeiro como o período de 12 meses."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "1º",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão da SEMACC  que: c) instale sistema de controle eletrônico de ponto biométrico, conforme determina o art. 5° de Decreto Municipal n° 230/2009, de 07 de julho de 2009.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à atual gestão da SEMACC  que: c) instale sistema de controle eletrônico de ponto biométrico, conforme determina o art. 5° de Decreto Municipal n° 230/2009, de 07 de julho de 2009.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A12C",
+          "tipologia_irregularidade": "Uso de controle de frequência manual em detrimento do uso de sistema eletrônico",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado.",
+          "justificativa_tipologia": "A determinação para instalar o sistema eletrônico de ponto biométrico indica que o controle de frequência atual é manual, o que é considerado uma deficiência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Municipal n° 230/2009",
+              "artigo": "5°",
+              "descricao": "Determina a instalação de sistema de controle eletrônico de ponto biométrico."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

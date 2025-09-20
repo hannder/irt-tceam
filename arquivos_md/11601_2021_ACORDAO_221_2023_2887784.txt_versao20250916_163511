@@ -1,0 +1,166 @@
+{
+  "acordao": "221/2023",
+  "processo": "11601/2021",
+  "data_sessao": "14 de Fevereiro de 2023",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Creuza Tereza Paulino Cavalcante",
+    "Walter Siqueira Brito"
+  ],
+  "itens": [
+    {
+      "tipo": "regularidade",
+      "descricao": "Julgar regular a  Prestação  de  Contas  do Sr.  Walter  Siqueira  Brito , Presidente  do  Centro  de  Serviços  Compartilhados-CSC,  referente  ao exercício de 2020, com fundamento no art. 22, I, da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a  Prestação  de  Contas  do Sr.  Walter  Siqueira  Brito , Presidente  do  Centro  de  Serviços  Compartilhados-CSC,  referente  ao exercício de 2020, com fundamento no art. 22, I, da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Balanço Patrimonial sem comprovação do valor das VPD.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Apesar de se referir ao Balanço Patrimonial, o trecho é meramente confirmatório da regularidade das contas, logo não é relevante para o índice e nem indica irregularidade.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Artigo que fundamenta o julgamento da regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "regularidade",
+      "descricao": "Julgar regular a Prestação de Contas da Sra. Creuza Tereza Paulino Cavalcante , Ordenadora das Despesas do Centro de Serviços Compartilhados-CSC, referente ao exercício de 2020, com fulcro no art. 22, I, da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas da Sra. Creuza Tereza Paulino Cavalcante , Ordenadora das Despesas do Centro de Serviços Compartilhados-CSC, referente ao exercício de 2020, com fulcro no art. 22, I, da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Balanço Patrimonial sem comprovação do valor das VPD.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Apesar de se referir ao Balanço Patrimonial, o trecho é meramente confirmatório da regularidade das contas, logo não é relevante para o índice e nem indica irregularidade.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Artigo que fundamenta o julgamento da regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "quitação",
+      "descricao": "Dar quitação ao Sr.  Walter Siqueira Brito ,  Presidente do Centro de Serviços Compartilhados-CSC, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr.  Walter Siqueira Brito ,  Presidente do Centro de Serviços Compartilhados-CSC, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Não há normatização das rotinas.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A quitação em si não revela irregularidade ou algo relevante para o índice. É um ato administrativo consequente do julgamento da regularidade.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Artigo que trata da quitação."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, I",
+              "descricao": "Artigo que trata da quitação."
+            },
+            {
+              "norma": "Resolução nº 02/2002 TCE-AM",
+              "artigo": "189, I",
+              "descricao": "Artigo que trata da quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "quitação",
+      "descricao": "Dar quitação à Sra. Creuza Tereza Paulino Cavalcante , Ordenadora das Despesas do Centro de Serviços Compartilhados-CSC, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação à Sra. Creuza Tereza Paulino Cavalcante , Ordenadora das Despesas do Centro de Serviços Compartilhados-CSC, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Não há normatização das rotinas.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A quitação em si não revela irregularidade ou algo relevante para o índice. É um ato administrativo consequente do julgamento da regularidade.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Artigo que trata da quitação."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, I",
+              "descricao": "Artigo que trata da quitação."
+            },
+            {
+              "norma": "Resolução nº 02/2002 TCE-AM",
+              "artigo": "189, I",
+              "descricao": "Artigo que trata da quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Dar  ciência ao Sr.  Walter  Siqueira  Brito , à Sra.  Creuza  Teresa Paulino  Cavalcante e  ao  Centro  de  Serviços  Compartilhados-CSC, bem  como  aos  seus  Patronos,  se  for  o  caso,  sobre  o  teor  desta decisão, com cópia do Relatório-Voto e deste Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Walter  Siqueira  Brito , à Sra.  Creuza  Teresa Paulino  Cavalcante e  ao  Centro  de  Serviços  Compartilhados-CSC, bem  como  aos  seus  Patronos,  se  for  o  caso,  sobre  o  teor  desta decisão, com cópia do Relatório-Voto e deste Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Não há normatização das rotinas.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A comunicação da decisão não configura, por si só, uma irregularidade. É um ato processual padrão.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Arquivar os autos, após expirados os prazos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Não há normatização das rotinas.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"O arquivamento dos autos, após o prazo regimental, é uma determinação meramente processual e não indica, por si só, uma irregularidade ou algo relevante para o índice.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

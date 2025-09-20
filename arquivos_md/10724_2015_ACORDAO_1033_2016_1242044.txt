@@ -1,0 +1,293 @@
+{
+  "acordao": "1033/2016",
+  "processo": "10724/2015",
+  "data_sessao": "16 de Dezembro de 2016",
+  "orgao": "Câmara Municipal de Atalaia do Norte",
+  "municipio": "Atalaia do Norte",
+  "exercicio": "2014",
+  "responsavel": [
+    "Rafael Perez Quirino"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de Atalaia do Norte, referente ao exercício financeiro de 2014, de responsabilidade  do  Gestor,  ordenador  de  despesa, Sr.  Rafael  Perez Quirino ,  conforme o art. 22, inciso III, alínea 'b' c/c art. 25, da Lei n.º 2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de Atalaia do Norte, referente ao exercício financeiro de 2014, de responsabilidade  do  Gestor,  ordenador  de  despesa, Sr.  Rafael  Perez Quirino ,  conforme o art. 22, inciso III, alínea 'b' c/c art. 25, da Lei n.º 2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica uma falha na apresentação das contas, com restrições não sanadas, impactando a clareza e confiabilidade das informações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96-LO/TCE",
+              "artigo": "22, inciso III, alínea 'b' c/c art. 25",
+              "descricao": "Define a irregularidade na prestação de contas devido às restrições não sanadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Rafael  Perez  Quirino, Presidente  da  Câmara Municipal de Novo Aripuanã, exercício de 2014, com fulcro no artigo 54, II,  da  Lei  nº  2.423/96  c/c  artigo  308,  VI  da  Resolução  nº  04/2002 TCE/AM, no  valor  de  R$  15.000,00, em  face  do  disposto  nos  itens 24/27, 28/33, 36, 38/39; 42/48; 50/52 e 53/55, deste Voto. O valor deve ser  recolhido na  esfera  Estadual  para  o  órgão  Encargos  Gerais  do Estado - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Rafael  Perez  Quirino, Presidente  da  Câmara Municipal de Novo Aripuanã, exercício de 2014, com fulcro no artigo 54, II,  da  Lei  nº  2.423/96  c/c  artigo  308,  VI  da  Resolução  nº  04/2002 TCE/AM, no  valor  de  R$  15.000,00, em  face  do  disposto  nos  itens 24/27, 28/33, 36, 38/39; 42/48; 50/52 e 53/55, deste Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Aplicação de multa devido a irregularidades identificadas, indicando falhas nos controles internos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº  2.423/96",
+              "artigo": "54, II",
+              "descricao": "Fundamenta a aplicação de multa."
+            },
+            {
+              "norma": "Resolução  nº  04/2002 TCE/AM",
+              "artigo": "308,  VI",
+              "descricao": "Define o valor da multa e as condições para sua aplicação."
+            }
+          ]
+        },
+        {
+          "trecho": "O valor deve ser  recolhido na  esfera  Estadual  para  o  órgão  Encargos  Gerais  do Estado - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho especifica que o recolhimento deve ser feito na esfera estadual, o que implica o conhecimento do órgão responsável pelo pagamento",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Concessão de Prazo",
+      "descricao": "Conceder ao Sr. Rafael Perez Quirino o prazo de 30 (trinta) dias para o  recolhimento  da multa  no  montante  de  R$  15.000,00 (quinze  mil reais) aos cofres da Fazenda Estadual, com comprovação perante este Tribunal, nos termos do art. 72, III da Lei nº 2423/96 c/c o art. 169, I do Regimento Interno deste Tribunal (Resolução nº 04/2002), autorizando a instauração de inscrição do débito na Dívida Ativa e instauração da cobrança  executiva,  no  caso  de  não  recolhimento  dos  valores  da condenação, ex vi o  art.173  do  Regimento  Interno  deste  Tribunal  de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Conceder ao Sr. Rafael Perez Quirino o prazo de 30 (trinta) dias para o  recolhimento  da multa  no  montante  de  R$  15.000,00 (quinze  mil reais) aos cofres da Fazenda Estadual, com comprovação perante este Tribunal, nos termos do art. 72, III da Lei nº 2423/96 c/c o art. 169, I do Regimento Interno deste Tribunal (Resolução nº 04/2002), autorizando a instauração de inscrição do débito na Dívida Ativa e instauração da cobrança  executiva,  no  caso  de  não  recolhimento  dos  valores  da condenação, ex vi o  art.173  do  Regimento  Interno  deste  Tribunal  de Contas;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Este trecho estabelece o prazo e as condições para o recolhimento da multa, incluindo a possibilidade de inscrição em dívida ativa em caso de não pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III",
+              "descricao": "Define o prazo para recolhimento da multa."
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal (Resolução nº 04/2002)",
+              "artigo": "169, I",
+              "descricao": "Autoriza a instauração de inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Regimento Interno  deste  Tribunal  de Contas",
+              "artigo": "173",
+              "descricao": "Autoriza a instauração da cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Atalaia do Norte:\n- a)  Que  adote  as  providências  cabíveis  para  aprimorar  e  garantir  mais efetividade no cumprimento dos artigos 31 e 74, da CF/88 e art. 76, da Lei nº 4.320/64;\n- b) Que cumpra o disposto no art. 94 e 96 da Lei nº 4.320/64;\n- c) Que cumpra as exigências da Lei nº 8.666/93, especificamente quanto hipótese excepcional  de  contratação de  serviços advocatícios por inexigibilidade de licitação;\n- d) Que adote medidas para criar e efetivar um sistema de controle de frota, visto que as atividades de gestão e fiscalização são finalísticas da Administração,  ou  seja,  dizem  respeito  à  concretização  de  um múnus público, relacionado à boa administração da coisa pública;\n- e) Que cumpra as disposições da Lei Complementar nº 123/2006;\n- f) O cumprimento do art. 37, X, da CF/88; que alimente o SAP, atualize as fichas funcionais; cumpra o disposto no art. 4º, IV, Resolução TCE nº 04/2002;\n- g)  Que  adote  medidas  cabíveis  para  regularizar  a  situação,  visando impedir que atrasos decorrentes unicamente de falhas logísticas gerem prejuízos ao erário, principalmente quanto as despesas com serviços de energia elétrica;\n- h) Que cumpra o disposto no art. 23, §5º, c/c art. 3º, ambos da Lei nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  adote  as  providências  cabíveis  para  aprimorar  e  garantir  mais efetividade no cumprimento dos artigos 31 e 74, da CF/88 e art. 76, da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho determina a adoção de providências para aprimorar o cumprimento de normas, indicando uma deficiência nos controles internos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "31 e 74",
+              "descricao": "Refere-se ao controle interno e fiscalização."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "76",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        },
+        {
+          "trecho": "Que cumpra o disposto no art. 94 e 96 da Lei nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Descumprimento das regras patrimoniais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94 e 96",
+              "descricao": "Dispõe sobre o controle patrimonial."
+            }
+          ]
+        },
+        {
+          "trecho": "Que cumpra as exigências da Lei nº 8.666/93, especificamente quanto hipótese excepcional  de  contratação de  serviços advocatícios por inexigibilidade de licitação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "Este trecho explicita uma falha especifica nas licitações, notadamente sobre a contratação de serviços advocatícios",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Licitações e Contratos."
+            }
+          ]
+        },
+        {
+          "trecho": "Que adote medidas para criar e efetivar um sistema de controle de frota, visto que as atividades de gestão e fiscalização são finalísticas da Administração,  ou  seja,  dizem  respeito  à  concretização  de  um múnus público, relacionado à boa administração da coisa pública",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "Deficiência quanto ao registro dos ativos",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Que cumpra as disposições da Lei Complementar nº 123/2006",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A7B",
+          "tipologia_irregularidade": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "descricao": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "justificativa_tipologia": "Aponta para o descumprimento de legislação especifica sobre o tratamento de ME/EPP",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 123/2006",
+              "artigo": "Não especificado",
+              "descricao": "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte."
+            }
+          ]
+        },
+        {
+          "trecho": "O cumprimento do art. 37, X, da CF/88; que alimente o SAP, atualize as fichas funcionais; cumpra o disposto no art. 4º, IV, Resolução TCE nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2B",
+          "tipologia_irregularidade": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "descricao": "Ausência de Parecer Jurídico ao Aditivo",
+          "justificativa_tipologia": "Violação do princípio da legalidade e segurança jurídica.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "37, X",
+              "descricao": "Dispõe sobre a fixação e o reajuste dos vencimentos dos servidores públicos."
+            },
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "4º, IV",
+              "descricao": "Regimento Interno do TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "Que  adote  medidas  cabíveis  para  regularizar  a  situação,  visando impedir que atrasos decorrentes unicamente de falhas logísticas gerem prejuízos ao erário, principalmente quanto as despesas com serviços de energia elétrica",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Identifica potencial prejuízo ao erário causado por falhas logísticas na gestão de recursos financeiros.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Que cumpra o disposto no art. 23, §5º, c/c art. 3º, ambos da Lei nº 8.666/93.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "Refere-se a uma possível irregularidade em obras públicas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "23, §5º, c/c art. 3º",
+              "descricao": "Estabelece requisitos para licitações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção do TCE/AM  que acrescente no Plano de  Auditoria da Câmara Municipal de  Atalaia do Norte às matérias trazidas como DETERMINAÇÃO à origem, para no caso  de  reincidência  aplicar-se  o  disposto  no  art.  54,  IV,  da  Lei  nº 2.423/96 c/c art. 308, IV, 'b', da Resolução nº 04/2002 TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção do TCE/AM  que acrescente no Plano de  Auditoria da Câmara Municipal de  Atalaia do Norte às matérias trazidas como DETERMINAÇÃO à origem, para no caso  de  reincidência  aplicar-se  o  disposto  no  art.  54,  IV,  da  Lei  nº 2.423/96 c/c art. 308, IV, 'b', da Resolução nº 04/2002 TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Indica uma ação de acompanhamento para garantir a correção de irregularidades identificadas, fortalecendo o controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Dispõe sobre as sanções aplicáveis em caso de reincidência."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308, IV, 'b'",
+              "descricao": "Regulamenta as ações de auditoria e inspeção do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Rafael Perez Quirino, com cópia do Relatório/Voto, e o Acórdão  para  ciência  do  decisório  e,  para  querendo,  apresentar  o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Rafael Perez Quirino, com cópia do Relatório/Voto, e o Acórdão  para  ciência  do  decisório  e,  para  querendo,  apresentar  o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Este trecho apenas formaliza o processo de comunicação da decisão ao responsável, garantindo o direito ao contraditório e ampla defesa, o que o torna não relevante para o índice de reincidência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

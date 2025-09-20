@@ -1,0 +1,110 @@
+{
+  "acordao": "14/2020",
+  "processo": "12944/2018",
+  "data_sessao": "28 de Janeiro de 2020",
+  "orgao": "Fundo Municipal para o Desenvolvimento e Meio Ambiente - FMDMA",
+  "municipio": "Não Especificado",
+  "exercicio": "2017",
+  "responsavel": [
+    "Antonio Nelson de Oliveira Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  do Sr. Antonio Nelson de Oliveira Junior , Gestor do FMDMA e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; artigo 18, inciso II, da Lei Complementar  nº  06/1991;  c/c  o  artigo 188, §1º, inciso II, da Resolução  nº.  04/2002  -  RITCE/AM,  a  Prestação  de  Contas  Anual, referente ao exercício de 2017, do Fundo Municipal para Desenvolvimento do Meio Ambiente - FMDMA",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a Prestação  de  Contas  do Sr. Antonio Nelson de Oliveira Junior , Gestor do FMDMA e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; artigo 18, inciso II, da Lei Complementar  nº  06/1991;  c/c  o  artigo 188, §1º, inciso II, da Resolução  nº.  04/2002  -  RITCE/AM,  a  Prestação  de  Contas  Anual, referente ao exercício de 2017, do Fundo Municipal para Desenvolvimento do Meio Ambiente - FMDMA",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Identificada a regularidade com ressalvas na prestação de contas, indicando ausência de comprovação de valores.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A regularidade com ressalvas aponta para uma ausência de comprovação de valores que impactam o balanço patrimonial, enquadrando-se na tipologia de ausência de comprovação de VPD pagas antecipadamente.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "LOTCE/AM: Aponta para a lei orgânica do TCE"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "LOTCE/AM: Aponta para a lei orgânica do TCE"
+            },
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "18, inciso II",
+              "descricao": "LO do TCE/AM: Aponta para a lei orgânica do TCE"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "RITCE/AM: Aponta para o Regimento Interno do TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: - a) Encaminhe à atual Administração do Fundo Municipal para Desenvolvimento  do  Meio  Ambiente  -  FMDMA,  cópias  das  peças emitidas pela Comissão de Inspeção e pelo Representante Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: - a) Encaminhe à atual Administração do Fundo Municipal para Desenvolvimento  do  Meio  Ambiente  -  FMDMA,  cópias  das  peças emitidas pela Comissão de Inspeção e pelo Representante Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Determinação de encaminhamento de cópias de peças à administração atual para evitar reincidência de impropriedades em futuras prestações de contas, visando normatização.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa aprimorar as rotinas internas do FMDMA, buscando evitar a repetição de impropriedades, enquadrando-se na tipologia de ausência de normatização das rotinas internas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: - b) Notifique  o Sr. Antônio  Nelson  de  Oliveira  Júnior , Gestor  do FMDMA  e Ordenador de Despesas, à época, com cópia do Relatório/Voto  e  Acórdão  para  ter  ciência  do  decisório  e,  querendo, apresentem o devido recurso",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: - b) Notifique  o Sr. Antônio  Nelson  de  Oliveira  Júnior , Gestor  do FMDMA  e Ordenador de Despesas, à época, com cópia do Relatório/Voto  e  Acórdão  para  ter  ciência  do  decisório  e,  querendo, apresentem o devido recurso",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Determinação para notificar o gestor anterior sobre o relatório/voto e acórdão, concedendo-lhe a oportunidade de apresentar recurso, buscando a implementação do controle interno.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação visa garantir o direito ao contraditório e ampla defesa, notificando o responsável para ciência do decisório, contribuindo para a implementação do controle interno.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: - c) Após  a  ocorrência  da  coisa  julgada,  nos  termos  dos  artigos  159  e 160, da Resolução nº. 04/2002 - RITCE/AM adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: - c) Após  a  ocorrência  da  coisa  julgada,  nos  termos  dos  artigos  159  e 160, da Resolução nº. 04/2002 - RITCE/AM adote as providências do artigo 162, §1º, do RITCE.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Determinação para que, após o trânsito em julgado, sejam adotadas as providências cabíveis conforme o Regimento Interno, visando normatização.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação visa garantir a execução das medidas necessárias após o trânsito em julgado, contribuindo para a normatização das rotinas internas do FMDMA.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "159",
+              "descricao": "RITCE/AM: Refere-se aos prazos recursais"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "160",
+              "descricao": "RITCE/AM: Refere-se aos efeitos da decisão"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "162, §1º",
+              "descricao": "RITCE/AM: Refere-se aos procedimentos de execução"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

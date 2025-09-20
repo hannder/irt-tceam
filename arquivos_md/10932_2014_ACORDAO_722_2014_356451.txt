@@ -1,0 +1,61 @@
+{
+  "acordao": "722/2014",
+  "processo": "10932/2014",
+  "data_sessao": "11 de dezembro de 2014",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Urucará",
+  "municipio": "Urucará",
+  "exercicio": "2013",
+  "responsavel": [
+    "Afonso Aoki Fonseca"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  REGULAR,  com  Ressalvas, a Prestação  de  Contas  do  Sr. Afonso  Aoki  Fonseca,  responsável  pelo  Serviço  Autônomo  de  Água  e  Esgoto  do Município de Urucará (exercício de 2013)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "NOTIFICAR",
+      "descricao": "NOTIFICAR o interessado para que, durante a realização das atividades da entidade, observe com maior rigor, a Lei Federal n.º 8.666/93 (artigos 38, caput, e 43, § 2º) e o Decreto n.º 6.204, de 05 de setembro de 2007 (art. 10)",
+      "trechos_identificados": [
+        {
+          "trecho": "NOTIFICAR o interessado para que, durante a realização das atividades da entidade, observe com maior rigor, a Lei Federal n.º 8.666/93 (artigos 38, caput, e 43, § 2º) e o Decreto n.º 6.204, de 05 de setembro de 2007 (art. 10)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "A notificação indica a necessidade de observar a Lei Federal n.º 8.666/93 e o Decreto n.º 6.204/2007, que tratam das regras para licitações e contratos, sugerindo que houve inadequação no processo de dispensa de licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n.º 8.666/93",
+              "artigo": "38, caput",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos na administração pública."
+            },
+            {
+              "norma": "Lei Federal n.º 8.666/93",
+              "artigo": "43, § 2º",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos na administração pública."
+            },
+            {
+              "norma": "Decreto n.º 6.204, de 05 de setembro de 2007",
+              "artigo": "10",
+              "descricao": "Regulamenta a licitação, por meio do sistema de registro de preços."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "CONCEDER",
+      "descricao": "CONCEDER, nos termos apresentados pelos artigos 170, § 2º, segunda parte, 189, II, da Resolução n.º 04/02 - TCE/AM, quitação ao responsável pelas presentes Contas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAR",
+      "descricao": "DETERMINAR, após  realização  dos  itens  2  e  3  deste  dispositivo,  aos setores competentes  deste  Tribunal  de  Contas  que,  em  obediência  aos  mandamentos inseridos no art. 170, § 1º, da Resolução n.º procedam aos expedientes imprescindíveis ao correto arquivamento deste feito.",
+      "trechos_identificados": []
+    }
+  ]
+}

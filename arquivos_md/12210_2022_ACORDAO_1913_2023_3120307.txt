@@ -1,0 +1,81 @@
+{
+  "acordao": "1913/2023",
+  "processo": "12210/2022",
+  "data_sessao": "19 de Setembro de 2023",
+  "orgao": "Secretaria de Estado da Fazenda - SEFAZ",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Luiz Otávio da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  do Sr.  Luiz  Otávio  da  Silva, responsável pela Secretaria de Estado da Fazenda - SEFAZ, no curso do exercício de 2021",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  do Sr.  Luiz  Otávio  da  Silva, responsável pela Secretaria de Estado da Fazenda - SEFAZ, no curso do exercício de 2021",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento formal da prestação de contas, classificando-a como regular, o que não indica um problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Luiz Otávio da Silva, nos termos regimentais",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Luiz Otávio da Silva, nos termos regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento formal da prestação de contas, classificando-a como quitação, o que não indica um problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Luiz Otávio da Silva e demais interessados",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Luiz Otávio da Silva e demais interessados",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento formal da prestação de contas, classificando-a como ciência, o que não indica um problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo por cumprimento de Decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo por cumprimento de Decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento formal da prestação de contas, classificando-a como arquivamento, o que não indica um problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

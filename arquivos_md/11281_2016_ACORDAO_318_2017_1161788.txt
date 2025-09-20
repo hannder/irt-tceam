@@ -1,0 +1,406 @@
+{
+  "acordao": "318/2017",
+  "processo": "11281/2016",
+  "data_sessao": "2017-04-04",
+  "orgao": "Câmara Municipal de Tefé",
+  "municipio": "Tefé",
+  "exercicio": "2015",
+  "responsavel": [
+    "João Paulo Rodrigues Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. João Paulo Rodrigues Nascimento ,  Presidente da Câmara Municipal, à época, durante o exercício financeiro de  2015, no valor pecuniário de R$ 4.468,41 (quatro mil, quatrocentos e sessenta e oito reais e quarenta e um centavos), referente a 30% (trinta por cento) do  valor  máximo,  com  fulcro  no  art.  53,  parágrafo  único,  da  Lei  n.° 2.423/96, multa  esta  que  deverá  ser  recolhida  ao  cofre  estadual,  na representação  do  órgão  de  Encargos  Gerais  do  Estado  -  SEFAZ,  no prazo de 30 dias, com comprovação perante o Tribunal de Contas, nos termos do art. 174, § 4º, da Resolução n.º 4/2002. Observe-se que caso o  prazo  estabelecido  expire,  o  valor  da  multa  deverá  ser  atualizado monetariamente (art. 55, da  Lei n.º 2.423/1996 c/c o art. 308, § 3º, da Resolução n.º 4/2002 - TCE/AM). A presente multa fundamenta-se nas seguintes impropriedades:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Atraso na publicação do Relatório de Gestão Fiscal do 3º quadrimestre/2015, conforme Sistema GEFIS, ofendendo, pois, o art. 55, § 2º, Lei Complementar n.º 101/2000 (Lei de Responsabilidade Fiscal)",
+      "trechos_identificados": [
+        {
+          "trecho": "Atraso na publicação do Relatório de Gestão Fiscal do 3º quadrimestre/2015, conforme Sistema GEFIS, ofendendo, pois, o art. 55, § 2º, Lei Complementar n.º 101/2000 (Lei de Responsabilidade Fiscal)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "Atraso na publicação do relatório de gestão fiscal indica falha na transparência e no cumprimento das obrigações fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "55, § 2º",
+              "descricao": "Atraso na publicação do Relatório de Gestão Fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Atraso no envio  por meio do Sistema GEFIS do 1º e 3º quadrimestres/2015, ofendendo, pois, o art. 32, II, \"h\", da Lei n.º 2.423/1996 (Lei Orgânica do TCE)",
+      "trechos_identificados": [
+        {
+          "trecho": "Atraso no envio  por meio do Sistema GEFIS do 1º e 3º quadrimestres/2015, ofendendo, pois, o art. 32, II, \"h\", da Lei n.º 2.423/1996 (Lei Orgânica do TCE)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "O atraso no envio dos dados do RREO impede a devida fiscalização e o acompanhamento das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "32, II, \"h\"",
+              "descricao": "Atraso no envio por meio do Sistema GEFIS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Diferença no valor declarado no Sistema GEFIS para os restos  a  pagar.  O  valor  declarado  no  sistema  foi  de  R$ 0,00, enquanto o valor declarado na Prestação de Contas Anual  de  2015,  constante  no  Processo  Eletrônico  n.º 11.281/2016, em seu Anexo  XVII,  foi de R$ 364.857,70, ofendendo, pois o art. 1º, § 1º, da Lei Complementar n.º 101/2000 (Lei de Responsabilidade Fiscal)",
+      "trechos_identificados": [
+        {
+          "trecho": "Diferença no valor declarado no Sistema GEFIS para os restos  a  pagar.  O  valor  declarado  no  sistema  foi  de  R$ 0,00, enquanto o valor declarado na Prestação de Contas Anual  de  2015,  constante  no  Processo  Eletrônico  n.º 11.281/2016, em seu Anexo  XVII,  foi de R$ 364.857,70, ofendendo, pois o art. 1º, § 1º, da Lei Complementar n.º 101/2000 (Lei de Responsabilidade Fiscal)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T4A2B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "Divergência entre o valor declarado no GEFIS e na prestação de contas anual indica inconsistência e falha na gestão contábil dos restos a pagar.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "1º, § 1º",
+              "descricao": "Diferença no valor declarado no Sistema GEFIS para os restos a pagar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Divergência de dados  apresentados  no  Relatório  de Gestão Fiscal da Câmara  do  3º quadrimestre/2015 (demonstrativo da despesa com pessoal) em comparação ao balanço da câmara e da prefeitura",
+      "trechos_identificados": [
+        {
+          "trecho": "Divergência de dados  apresentados  no  Relatório  de Gestão Fiscal da Câmara  do  3º quadrimestre/2015 (demonstrativo da despesa com pessoal) em comparação ao balanço da câmara e da prefeitura",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T6A2B",
+          "tipologia_irregularidade": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "descricao": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "justificativa_tipologia": "A divergência de dados entre o relatório de gestão fiscal e os balanços indica inconsistência na gestão orçamentária e de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Pela  Inscrição  em  restos  a  pagar  não  processados  da Nota de Empenho 265/2015, na quantia de R$ 364.857,70, uma  vez que se refere às obrigações patronais dos meses de 2015 ao INSS, cujo fato gerador ocorreu.  Por  conseguinte,  a  ausência  de  disponibilidade financeira  que  suporte  tais  obrigações  financeiras  no montante acima citado, haja vista que o saldo de caixa ao final  do  exercício  foi  de  R$  1.752,24.  Por  fim,  pela  não inclusão dessa Nota de Empenho no sistema E-contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Pela  Inscrição  em  restos  a  pagar  não  processados  da Nota de Empenho 265/2015, na quantia de R$ 364.857,70, uma  vez que se refere às obrigações patronais dos meses de 2015 ao INSS, cujo fato gerador ocorreu.  Por  conseguinte,  a  ausência  de  disponibilidade financeira  que  suporte  tais  obrigações  financeiras  no montante acima citado, haja vista que o saldo de caixa ao final  do  exercício  foi  de  R$  1.752,24.  Por  fim,  pela  não inclusão dessa Nota de Empenho no sistema E-contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "Inscrição irregular em restos a pagar não processados, ausência de disponibilidade financeira e não inclusão no sistema E-contas indicam irregularidades na gestão orçamentária e financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Descumprimento  do  artigo  29-a,  inciso  i  da  CF,  pois  o índice  de  dispêndio  de  gastos  com  o  poder  legislativo representou 7,46%, portanto, fora do limite Constitucional previsto",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento  do  artigo  29-a,  inciso  i  da  CF,  pois  o índice  de  dispêndio  de  gastos  com  o  poder  legislativo representou 7,46%, portanto, fora do limite Constitucional previsto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A18B",
+          "tipologia_irregularidade": "Aplicação de 70% dos Recursos FUNDEB com a Remuneração dos Profissionais do Magistério da Educação Básica",
+          "descricao": "Aplicação de 70% dos Recursos FUNDEB com a Remuneração dos Profissionais do Magistério da Educação Básica",
+          "justificativa_tipologia": "O descumprimento do limite constitucional de gastos com o poder legislativo indica má gestão financeira e desvio de recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Ausência de representante da Administração especialmente designado para acompanhamento e fiscalização  da  execução  dos contratos  e  seus  aditivos, assim como de preposto, no local da obra ou serviço, para representá-lo na execução do contrato e, consequentemente,  de  relatórios  de  fiscalização,  assim como do responsável pela liquidação dos bens e serviços adquiridos (arts. 67 e 68 da Lei n.º 8.666/1993)",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de representante da Administração especialmente designado para acompanhamento e fiscalização  da  execução  dos contratos  e  seus  aditivos, assim como de preposto, no local da obra ou serviço, para representá-lo na execução do contrato e, consequentemente,  de  relatórios  de  fiscalização,  assim como do responsável pela liquidação dos bens e serviços adquiridos (arts. 67 e 68 da Lei n.º 8.666/1993)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "Ausência de fiscalização e acompanhamento da execução dos contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "67",
+              "descricao": "Acompanhamento e fiscalização da execução dos contratos"
+            },
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "68",
+              "descricao": "Liquidação dos bens e serviços adquiridos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe  com maior  rigor  as  regras  previstas  na  Lei  n.º 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  com maior  rigor  as  regras  previstas  na  Lei  n.º 8.666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "Recomendação para observar com maior rigor as regras da Lei de Licitações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "null",
+              "descricao": "Normas gerais sobre licitações e contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe  com maior  rigor  as  regras  previstas  na  Lei  n.° 4.320/1964",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  com maior  rigor  as  regras  previstas  na  Lei  n.° 4.320/1964",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Recomendação para observar com maior rigor as regras da Lei 4.320/64.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 4.320/1964",
+              "artigo": "null",
+              "descricao": "Normas gerais de direito financeiro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe o disposto no artigo 94 a 96, da Lei nº 4.320/64, que determina a necessidade do controle de materiais em estoque no almoxarifado e registro sintético dos mesmos",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe o disposto no artigo 94 a 96, da Lei nº 4.320/64, que determina a necessidade do controle de materiais em estoque no almoxarifado e registro sintético dos mesmos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "Recomendação para implementar o controle de materiais em estoque.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94 a 96",
+              "descricao": "Necessidade do controle de materiais em estoque no almoxarifado e registro sintético dos mesmos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe  fielmente  o  equilíbrio  fiscal  da  próxima  gestão para que, nos últimos dois quadrimestres do seu mandato,  não  contraia  obrigação  de  despesa  que  não possa  ser  cumprida  integralmente  dentro  dele,  ou  que tenha parcelas a serem pagas no exercício seguinte sem que  haja  suficiente  disponibilidade  de  caixa  para  este efeito,  com  fulcro  no  art.  42,  da  Lei  Complementar  n.° 101/2000 - Lei de Responsabilidade Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  fielmente  o  equilíbrio  fiscal  da  próxima  gestão para que, nos últimos dois quadrimestres do seu mandato,  não  contraia  obrigação  de  despesa  que  não possa  ser  cumprida  integralmente  dentro  dele,  ou  que tenha parcelas a serem pagas no exercício seguinte sem que  haja  suficiente  disponibilidade  de  caixa  para  este efeito,  com  fulcro  no  art.  42,  da  Lei  Complementar  n.° 101/2000 - Lei de Responsabilidade Fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A63B",
+          "tipologia_irregularidade": "Suficiência de Disponibilidade de Caixa e Inscrição em Restos a Pagar, especialmente nos últimos dois quadrimestres não atendida",
+          "descricao": "Ente não possui disponibilidade de caixa suficiente para cumprir as despesas contraídas no exercício verificado.",
+          "justificativa_tipologia": "Recomendação para observar o equilíbrio fiscal e a suficiência de caixa, evitando comprometer as finanças públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.° 101/2000",
+              "artigo": "42",
+              "descricao": "O equilíbrio fiscal da próxima gestão para que, nos últimos dois quadrimestres do seu mandato, não contraia obrigação de despesa que não possa ser cumprida integralmente dentro dele."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe  os  prazos  referentes  ao  envio  do  Relatório  de Gestão Fiscal, nos termos do art. 55, da Lei Complementar n.º 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  os  prazos  referentes  ao  envio  do  Relatório  de Gestão Fiscal, nos termos do art. 55, da Lei Complementar n.º 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A11C",
+          "tipologia_irregularidade": "Publicação do RREO até 30 dias após o encerramento do período",
+          "descricao": "Publicação do RREO até 30 dias após o encerramento do período",
+          "justificativa_tipologia": "Recomendação para observar os prazos de envio do Relatório de Gestão Fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "55",
+              "descricao": "Prazos referentes ao envio do Relatório de Gestão Fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Adote as medidas cabíveis para a regularização do Portal da  Transparência  e  do  Sistema  GEFIS,  atentando  para que as informações publicadas sejam disponibilizadas de modo  atualizado,  em  cumprimento  aos  ditames  da  Lei Complementar n.º 131/2009 e da Lei Federal n.º 12/527/2011 - Lei de Acesso à Informação",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote as medidas cabíveis para a regularização do Portal da  Transparência  e  do  Sistema  GEFIS,  atentando  para que as informações publicadas sejam disponibilizadas de modo  atualizado,  em  cumprimento  aos  ditames  da  Lei Complementar n.º 131/2009 e da Lei Federal n.º 12/527/2011 - Lei de Acesso à Informação",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "Recomendação para regularizar o Portal da Transparência e o Sistema GEFIS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 131/2009",
+              "artigo": "null",
+              "descricao": "Transparência na gestão fiscal"
+            },
+            {
+              "norma": "Lei Federal n.º 12/527/2011",
+              "artigo": "null",
+              "descricao": "Lei de Acesso à Informação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Republique os Demonstrativos da Despesa com Pessoal referentes  ao  1°  e  2°  quadrimestres  de  2015,  com  as informações  do  mês  de  referência  e  dos  onze  meses imediatamente anteriores, com fulcro na Lei Complementar n.º 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Republique os Demonstrativos da Despesa com Pessoal referentes  ao  1°  e  2°  quadrimestres  de  2015,  com  as informações  do  mês  de  referência  e  dos  onze  meses imediatamente anteriores, com fulcro na Lei Complementar n.º 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A13A",
+          "tipologia_irregularidade": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "descricao": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "justificativa_tipologia": "Recomendação para republicar os Demonstrativos da Despesa com Pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "null",
+              "descricao": "Lei de Responsabilidade Fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Adote  as  medidas  cabíveis  para  a regularização do Sistema E-contas, sob pena de sanções legais no caso da reincidência do fato",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote  as  medidas  cabíveis  para  a regularização do Sistema E-contas, sob pena de sanções legais no caso da reincidência do fato",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "Recomendação para regularizar o Sistema E-contas e evitar reincidência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Mantenha a cópia dos seus contratos celebrados em seus arquivos, uma vez que é responsável pelo mesmo e tem a obrigação de fiscalizar seus prestadores de serviços",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha a cópia dos seus contratos celebrados em seus arquivos, uma vez que é responsável pelo mesmo e tem a obrigação de fiscalizar seus prestadores de serviços",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "Recomendação para manter a cópia dos contratos celebrados em seus arquivos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Mantenha atualizadas as fichas funcionais (férias, licenças,  nomeações,  etc.)  e  as  fichas  financeiras  dos servidores efetivos, comissionados e agentes políticos e a disposições dos órgãos de controle, de maneira a permitir a realização da fiscalização da regularidade  dos atos de pessoal do órgão",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha atualizadas as fichas funcionais (férias, licenças,  nomeações,  etc.)  e  as  fichas  financeiras  dos servidores efetivos, comissionados e agentes políticos e a disposições dos órgãos de controle, de maneira a permitir a realização da fiscalização da regularidade  dos atos de pessoal do órgão",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "justificativa_tipologia": "Recomendação para manter atualizadas as fichas funcionais e financeiras dos servidores.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Conclua  os  trabalhos  iniciados  para  a  implantação  do Sistema de Controle Interno, devendo ser encaminhado a esta Corte Plano de Ação para esse fim, caso exista, para avaliação, respeitando, de toda sorte, o prazo derradeiro já estipulado pela Resolução n.º 9/2016 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Conclua  os  trabalhos  iniciados  para  a  implantação  do Sistema de Controle Interno, devendo ser encaminhado a esta Corte Plano de Ação para esse fim, caso exista, para avaliação, respeitando, de toda sorte, o prazo derradeiro já estipulado pela Resolução n.º 9/2016 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Recomendação para concluir a implantação do Sistema de Controle Interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 9/2016",
+              "artigo": "null",
+              "descricao": "Conclusão dos trabalhos para a implantação do Sistema de Controle Interno."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

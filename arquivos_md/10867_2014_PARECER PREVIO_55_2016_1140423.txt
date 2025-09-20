@@ -1,0 +1,290 @@
+{
+  "acordao": "55/2016",
+  "processo": "10867/2014",
+  "data_sessao": "18 de Outubro de 2016",
+  "orgao": "Prefeitura Municipal de Itamarati",
+  "municipio": "Itamarati",
+  "exercicio": "2013",
+  "responsavel": [
+    "João Medeiros Campelo"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas da Prefeitura Municipal de Itamarati, exercício 2013, sob a responsabilidade do Sr. João Medeiros Campelo , Prefeito do Município de Itamarati, nos termos do art. 1º., II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Itamarati, exercício 2013, sob a responsabilidade do Sr. João Medeiros Campelo , Prefeito do Município de Itamarati, nos termos do art. 1º., II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho descreve o julgamento da prestação de contas como irregular, indicando falhas na documentação ou nos procedimentos contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Julgamento da irregularidade da prestação de contas."
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Norma interna do TCE/AM que trata sobre o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "A plicar multas ao Sr. João Medeiros Campelo , Prefeito do Município de Itamarati, exercício 2013, nos seguintes valores:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "R$  4.384,12 (quatro  mil,  trezentos  e  oitenta  e  quatro  reais  e  doze centavos), com fulcro no art. 54, IV da Lei n.º 2.423/96 c/c o art. 308, I, 'a' da Resolução n.º  04/02  -  RI-TCE/AM,  em  razão  do  não  atendimento,  no  prazo  fixado,  sem  causa justificada, à diligência ou Decisão do Tribunal, conforme se depreende do item 04, item 10 (subitens 10.1, 10.4, 10.6) e item 17 todos do Relatório Conclusivo n.º 59/2016 - DICAMI (fls.  929/967),  correspondentes  aos  itens  3.3,  3.9  (subitens  'i',  'iv'  e  'vi'),  e  3.15,  do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  4.384,12 (quatro  mil,  trezentos  e  oitenta  e  quatro  reais  e  doze centavos), com fulcro no art. 54, IV da Lei n.º 2.423/96 c/c o art. 308, I, 'a' da Resolução n.º  04/02  -  RI-TCE/AM,  em  razão  do  não  atendimento,  no  prazo  fixado,  sem  causa justificada, à diligência ou Decisão do Tribunal, conforme se depreende do item 04, item 10 (subitens 10.1, 10.4, 10.6) e item 17 todos do Relatório Conclusivo n.º 59/2016 - DICAMI (fls.  929/967),  correspondentes  aos  itens  3.3,  3.9  (subitens  'i',  'iv'  e  'vi'),  e  3.15,  do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O descumprimento de diligências e decisões do tribunal de contas causa prejuízo a continuidade dos processos de fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Fundamentação para aplicação de multa por não atendimento à diligência do Tribunal."
+            },
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "Detalha os critérios para a aplicação de multas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "R$  5.480,15 (cinco  mil,  quatrocentos  e  oitenta  reais  e  quinze centavos), com fulcro no art. 32, §1º c/c o art. 308, inciso II da Resolução n. 04/2002, por inobservância de prazos legais para remessa ao Tribunal dos documentos por meio do Sistema E-CONTAS, em razão do item 1 do Relatório Conclusivo n.º 102/2016  - DICREA (fls. 328/340), correspondente ao item 1.1 do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  5.480,15 (cinco  mil,  quatrocentos  e  oitenta  reais  e  quinze centavos), com fulcro no art. 32, §1º c/c o art. 308, inciso II da Resolução n. 04/2002, por inobservância de prazos legais para remessa ao Tribunal dos documentos por meio do Sistema E-CONTAS, em razão do item 1 do Relatório Conclusivo n.º 102/2016  - DICREA (fls. 328/340), correspondente ao item 1.1 do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O não envio de documentos no prazo prejudica a análise da gestão, sendo necessário a aplicação de sanção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "32, §1º",
+              "descricao": "Fixa multa por inobservância de prazos legais."
+            },
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, inciso II",
+              "descricao": "Define o valor da multa por atraso na remessa de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "R$ 1.096,03 (mil e noventa e seis reais e três centavos), com fulcro no  art.  32,  §1º  c/c  o  art.  308,  inciso  II  da  Resolução  n.  04/2002,  por  inobservância  de prazos legais para remessa ao Tribunal dos documentos por meio do Sistema E-CONTAS, em  razão  do  item  1  do  Relatório  Conclusivo  n.º  59/2016  -  DICAMI  (fls.  929/967), correspondente ao item 3.1 do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 1.096,03 (mil e noventa e seis reais e três centavos), com fulcro no  art.  32,  §1º  c/c  o  art.  308,  inciso  II  da  Resolução  n.  04/2002,  por  inobservância  de prazos legais para remessa ao Tribunal dos documentos por meio do Sistema E-CONTAS, em  razão  do  item  1  do  Relatório  Conclusivo  n.º  59/2016  -  DICAMI  (fls.  929/967), correspondente ao item 3.1 do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O descumprimento de prazos legais para remessa de documentos é uma irregularidade que impacta na avaliação das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "32, §1º",
+              "descricao": "Aplica multa por inobservância de prazos legais."
+            },
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, inciso II",
+              "descricao": "Define os critérios para fixação do valor da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "R$  8.768,24 (oito  mil,  setecentos e sessenta e oito reais e  vinte e quatro  centavos),  com  fulcro  no  art.  308,  V,  da  Resolução  n.º  04/02  -  RI-TCE/AM,  em razão de atos ilegítimos e antieconômicos praticados pelo gestor, constatados nos itens 7.2 (subitens 2.4 a 2.9), 7.10 (subitens 10.2 a 10.10) do Relatório Conclusivo n.º 65/2015 DICOP  (fls.  812/895),  correspondente  aos  itens  2.2  (subitens 'i', 'ii''iii' e 'iv'),  2.10 (subitens  'i',  'ii',  'iii',  'iv',  'v'  e  'vi'),  respectivamente,  do  presente  Relatório/Voto,  bem como nos itens 21, 22 e 25 do Relatório Conclusivo n.º 59/2016 - DICAMI (fls. 929/967), correspondentes aos itens, 3.19 e 3.21, respectivamente, do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  8.768,24 (oito  mil,  setecentos e sessenta e oito reais e  vinte e quatro  centavos),  com  fulcro  no  art.  308,  V,  da  Resolução  n.º  04/02  -  RI-TCE/AM,  em razão de atos ilegítimos e antieconômicos praticados pelo gestor, constatados nos itens 7.2 (subitens 2.4 a 2.9), 7.10 (subitens 10.2 a 10.10) do Relatório Conclusivo n.º 65/2015 DICOP  (fls.  812/895),  correspondente  aos  itens  2.2  (subitens 'i', 'ii''iii' e 'iv'),  2.10 (subitens  'i',  'ii',  'iii',  'iv',  'v'  e  'vi'),  respectivamente,  do  presente  Relatório/Voto,  bem como nos itens 21, 22 e 25 do Relatório Conclusivo n.º 59/2016 - DICAMI (fls. 929/967), correspondentes aos itens, 3.19 e 3.21, respectivamente, do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A aplicação de multa devido a atos ilegítimos e antieconômicos indica uma grave falha na gestão financeira e orçamentária, com potencial para desvio de recursos e prejuízo ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, V",
+              "descricao": "Aplica multa devido a atos ilegítimos e antieconômicos praticados pelo gestor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "R$ 30.688,89 (trinta mil, seiscentos e oitenta e oito reais e oitenta e nove centavos), com fulcro nos arts. 54, II da Lei n.º 2.423/96 e 308, VI da Resolução n.º 04/02 - RI-TCE/AM, pela prática de ato contrário à norma legal e regulamentar, descritos nos itens 7.1 (subitens 1.1, 1.2, 1.6, 1.7), 7.3; (subitem 3.3), 7.4 (subitens 4.3, 4.4, 4.6), 7.5 (subitem  5.4),  7.6  (subitens  6.4  a  6.6),  7.7  (subitens  7.1  a  7.32),  7.8  (subitem  8.2)  do Relatório Conclusivo n.º 65/2015  - DICOP (fls. 812/895), correspondentes aos itens 2.1 (subitens 'i', 'ii', 'iii' e 'iv'), 2.3 (subitem 'i'), 2.4 (subitens 'i', 'ii' e 'iii'), 2.5 (subitem 'i'), 2.6 (subitens 'i', 'ii' e 'iii'), 2.7 (subitens 'i' a 'xxv'), 2.8 (subitem 'i'), respectivamente, do presente Relatório/Voto, bem como nos itens 3, 5, 6, 7, 8, 9, 10.3, 10.5, 11 (subintes 'a', 'b' e 'c'), 12, 13, 14, 15, 18, 19, 20, 23 e 24 do Relatório Conclusivo n.º 59/216 - DICAMI (fls. 929/967), correspondentes aos itens 3.2, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9 (subitens 'iii' e 'v'), 3.10 (subitens 'i', 'ii', 'iii' e 'iv'), 3.11,  3.12, 3.13, 3.16, 3.17, 3.18, 3.20, respectivamente, do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 30.688,89 (trinta mil, seiscentos e oitenta e oito reais e oitenta e nove centavos), com fulcro nos arts. 54, II da Lei n.º 2.423/96 e 308, VI da Resolução n.º 04/02 - RI-TCE/AM, pela prática de ato contrário à norma legal e regulamentar, descritos nos itens 7.1 (subitens 1.1, 1.2, 1.6, 1.7), 7.3; (subitem 3.3), 7.4 (subitens 4.3, 4.4, 4.6), 7.5 (subitem  5.4),  7.6  (subitens  6.4  a  6.6),  7.7  (subitens  7.1  a  7.32),  7.8  (subitem  8.2)  do Relatório Conclusivo n.º 65/2015  - DICOP (fls. 812/895), correspondentes aos itens 2.1 (subitens 'i', 'ii', 'iii' e 'iv'), 2.3 (subitem 'i'), 2.4 (subitens 'i', 'ii' e 'iii'), 2.5 (subitem 'i'), 2.6 (subitens 'i', 'ii' e 'iii'), 2.7 (subitens 'i' a 'xxv'), 2.8 (subitem 'i'), respectivamente, do presente Relatório/Voto, bem como nos itens 3, 5, 6, 7, 8, 9, 10.3, 10.5, 11 (subintes 'a', 'b' e 'c'), 12, 13, 14, 15, 18, 19, 20, 23 e 24 do Relatório Conclusivo n.º 59/216 - DICAMI (fls. 929/967), correspondentes aos itens 3.2, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9 (subitens 'iii' e 'v'), 3.10 (subitens 'i', 'ii', 'iii' e 'iv'), 3.11,  3.12, 3.13, 3.16, 3.17, 3.18, 3.20, respectivamente, do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A prática de atos contrários à norma legal e regulamentar, especialmente em relação ao princípio da unidade de tesouraria, indica uma grave falha na gestão financeira e orçamentária, com potencial para desvio de recursos e prejuízo ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Sanção por prática de ato contrário à norma legal e regulamentar."
+            },
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Estabelece critérios para aplicação de multa por atos irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  alcance o  Sr. João  Medeiros  Campelo ,  Prefeito  do Município  de  Itamarati,  exercício  2013, aplicando-lhe  glosa no  valor  de R$  50.545,50 (cinquenta mil, quinhentos e quarenta e cinco reais e cinquenta centavos), referente aos seguintes valores:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$ 20.788,98 (vinte mil, setecentos e oitenta e oito reais e noventa e oito centavos), em decorrência da restrição descrita no item 7.1 do Relatório Conclusivo n.º 65/2015 - DICOP (fls. 812/895), correspondente ao subitem 'v' do item 2.1 do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 20.788,98 (vinte mil, setecentos e oitenta e oito reais e noventa e oito centavos), em decorrência da restrição descrita no item 7.1 do Relatório Conclusivo n.º 65/2015 - DICOP (fls. 812/895), correspondente ao subitem 'v' do item 2.1 do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "justificativa_tipologia": "A glosa aplicada devido a restrições no relatório conclusivo, especialmente em relação a itens de despesa, indica uma possível ocorrência de superfaturamento ou irregularidades na execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$  6.212,42 (seis  mil,  duzentos  e  doze  reais  e  quarenta  e  dois centavos) em decorrência da restrição apontada no item 7.5 do Relatório Conclusivo n.º 65/2015  -  DICOP  (fls.  812/895)  correspondente  ao  item  2.5  (subitem  'ii')  do  presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  6.212,42 (seis  mil,  duzentos  e  doze  reais  e  quarenta  e  dois centavos) em decorrência da restrição apontada no item 7.5 do Relatório Conclusivo n.º 65/2015  -  DICOP  (fls.  812/895)  correspondente  ao  item  2.5  (subitem  'ii')  do  presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A glosa indica irregularidade na execução de despesas, como falta de documentos comprobatórios ou falhas no controle de entrada e saída de materiais, resultando em prejuízo ao erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$  20.340,00 (vinte mil, trezentos e quarenta reais) em decorrência da restrição apresentada no  item 7.9 do Relatório Conclusivo n.º 65/2015  - DICOP (fls. 812/895), correspondente ao item 2.9 (subitem 'iii') do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  20.340,00 (vinte mil, trezentos e quarenta reais) em decorrência da restrição apresentada no  item 7.9 do Relatório Conclusivo n.º 65/2015  - DICOP (fls. 812/895), correspondente ao item 2.9 (subitem 'iii') do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "justificativa_tipologia": "O alcance determinado sugere irregularidades nos preços praticados, justificando a classificação como superfaturamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$  3.204,10 (três  mil,  duzentos e quatro reais e dez centavos) em decorrência da restrição contida no item 16 do Relatório Conclusivo n.º 59/216 - DICAMI (fls. 929/967), correspondente ao item 3.14 do presente Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  3.204,10 (três  mil,  duzentos e quatro reais e dez centavos) em decorrência da restrição contida no item 16 do Relatório Conclusivo n.º 59/216 - DICAMI (fls. 929/967), correspondente ao item 3.14 do presente Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "justificativa_tipologia": "O alcance determinado sugere irregularidades nos preços praticados, justificando a classificação como superfaturamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar  o  prazo  de  30  (trinta)  dias ,  para  que  o  responsável,  Sr. João Medeiros Campelo , Prefeito do Município de Itamarati, exercício 2013, recolha os valores das multas e glosas, que lhe foram aplicadas, aos cofres públicos (art. 72, III, 'c', da Lei n. 2423/96), ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n. 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar  o  prazo  de  30  (trinta)  dias ,  para  que  o  responsável,  Sr. João Medeiros Campelo , Prefeito do Município de Itamarati, exercício 2013, recolha os valores das multas e glosas, que lhe foram aplicadas, aos cofres públicos (art. 72, III, 'c', da Lei n. 2423/96), ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n. 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho determina o prazo para recolhimento de valores, o que está ligado ao processo de execução orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Fixa o prazo para recolhimento dos valores devidos."
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "Não Aplicável",
+              "descricao": "Autoriza a DICREX a adotar medidas para garantir o recolhimento dos valores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "A utorizar ,  em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "A utorizar ,  em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade

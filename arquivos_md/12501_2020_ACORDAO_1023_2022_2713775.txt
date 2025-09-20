@@ -1,0 +1,96 @@
+{
+  "acordao": "1023/2022",
+  "processo": "12501/2020",
+  "data_sessao": "2022-07-05",
+  "orgao": "Fundo Municipal de Saúde de Humaitá",
+  "municipio": "Humaitá",
+  "exercicio": "2019",
+  "responsavel": [
+    "Cleomar Scandolara"
+  ],
+  "itens": [
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Aplicar multa ao  Sr. Cleomar  Scandolara no  valor  de R$20.481,60 (vinte mil, quatrocentos  e  oitenta  e  um  reais  e sessenta centavos) pela ausência no envio dos balancetes mensais referentes ao período de janeiro a dezembro 2019, contrariando o disposto no art. 15 da Lei Complementar nº 06/91 c/c art. 20, II, Lei Complementar nº 24/2000, nos termos do art. 53, parágrafo único, da  Lei  n°  2423/96  (Lei  Orgânica  do  Tribunal  de  Contas)  com  a redação  anterior  à  Lei  Complementar  nº  204/2020,  c/c  art.  308, inciso I, 'a', da Resolução nº. 04/2002 - RITCE/AM, atualizada em 09/11/2018,  e  fixar prazo  de  30  dias para  que  o  responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código '5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo -FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  Sr. Cleomar  Scandolara no  valor  de R$20.481,60 (vinte mil, quatrocentos  e  oitenta  e  um  reais  e sessenta centavos) pela ausência no envio dos balancetes mensais referentes ao período de janeiro a dezembro 2019, contrariando o disposto no art. 15 da Lei Complementar nº 06/91 c/c art. 20, II, Lei Complementar nº 24/2000, nos termos do art. 53, parágrafo único, da  Lei  n°  2423/96  (Lei  Orgânica  do  Tribunal  de  Contas)  com  a redação  anterior  à  Lei  Complementar  nº  204/2020,  c/c  art.  308, inciso I, 'a', da Resolução nº. 04/2002 - RITCE/AM, atualizada em 09/11/2018.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A3B",
+          "tipologia_irregularidade": "Não envio de Balancetes Mensais",
+          "descricao": "Não envio de Balancetes Mensais.",
+          "justificativa_tipologia": "O trecho indica a aplicação de multa devido à ausência de envio dos balancetes mensais, configurando descumprimento de prazos e normas para envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/91",
+              "artigo": "15",
+              "descricao": "O trecho indica a aplicação de multa devido à ausência de envio dos balancetes mensais, configurando descumprimento de prazos e normas para envio de informações."
+            },
+            {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "20, II",
+              "descricao": "O trecho indica a aplicação de multa devido à ausência de envio dos balancetes mensais, configurando descumprimento de prazos e normas para envio de informações."
+            },
+            {
+              "norma": "Lei n° 2423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "O trecho indica a aplicação de multa devido à ausência de envio dos balancetes mensais, configurando descumprimento de prazos e normas para envio de informações."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "308, inciso I, 'a'",
+              "descricao": "O trecho indica a aplicação de multa devido à ausência de envio dos balancetes mensais, configurando descumprimento de prazos e normas para envio de informações."
+            }
+          ]
+        },
+        {
+          "trecho": "Fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O trecho descreve o procedimento para recolhimento da multa aplicada, que está relacionada com o Balanço Financeiro.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno - Sepleno que cientifique o Sr. Cleomar Scandolara, por intermédio de seu patrono, acerca do teor do presente decisum , encaminhando-lhe cópia do Relatório/Voto e do sequente Acórdão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno - Sepleno que cientifique o Sr. Cleomar Scandolara, por intermédio de seu patrono, acerca do teor do presente decisum, encaminhando-lhe cópia do Relatório/Voto e do sequente Acórdão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas.",
+          "justificativa_tipologia": "O trecho se refere a uma determinação para comunicar o responsável sobre a decisão, o que está indiretamente relacionado ao processo de prestação de contas e comunicação de informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Arquivar os presentes autos após o cumprimento integral do decisum.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os presentes autos após o cumprimento integral do decisum.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A determinação de arquivamento está condicionada ao cumprimento integral das deliberações, que estão relacionadas com a prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

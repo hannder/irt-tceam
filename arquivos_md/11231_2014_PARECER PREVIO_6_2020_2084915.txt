@@ -1,0 +1,442 @@
+{
+  "acordao": "6/2020",
+  "processo": "11231/2014",
+  "data_sessao": "23 de Abril de 2020",
+  "orgao": "Prefeitura Municipal de Barreirinha",
+  "municipio": "Barreirinha",
+  "exercicio": "2013",
+  "responsavel": [
+    "Mecias Pereira Batista"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Prefeitura Municipal de Barreirinha, exercício 2013, de responsabilidade do Sr.Mecias Pereira Batista - Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual da Prefeitura Municipal de Barreirinha, exercício 2013, de responsabilidade do Sr.Mecias Pereira Batista - Ordenador das despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica irregularidade na prestação de contas anual, o que pode estar relacionado à ausência de informações contábeis essenciais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Artigo da Constituição Federal que trata do controle externo exercido pelo Tribunal de Contas."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Artigo da Constituição Estadual que trata do controle externo exercido pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Artigo da Lei que confere competência ao TCE para julgar as contas dos administradores públicos."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "Artigo da Lei que estabelece as normas para o julgamento das contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "Artigo da Lei que define as responsabilidades dos ordenadores de despesas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22",
+              "descricao": "Artigo da Lei que trata das sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "25",
+              "descricao": "Artigo da Lei que estabelece as condições para a regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Mecias Pereira Batista no valor de R$ 20.481,60 (vinte mil, quatrocentos e oitenta e um reais e sessenta centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com fundamento no art. 308, I, 'a' da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pela restrição 1 do Relatório Conclusivo n. 24/2014-Dicami.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Mecias Pereira Batista no valor de R$ 20.481,60 (vinte mil, quatrocentos e oitenta e um reais e sessenta centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A aplicação de multa indica descumprimento de normas orçamentárias e financeiras, o que pode estar relacionado à inobservância do princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, I, 'a'",
+              "descricao": "Artigo da resolução que trata das multas aplicáveis pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Mecias Pereira Batista no valor de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com fundamento no art. 308, III da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pelas restrições n. 1-4 do Relatório Conclusivo n. 20/2015-Dicop",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Mecias Pereira Batista no valor de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A aplicação de multa indica descumprimento de normas orçamentárias e financeiras, o que pode estar relacionado à inobservância do princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, III",
+              "descricao": "Artigo da resolução que trata das multas aplicáveis pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Mecias Pereira Batista no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com fundamento no art. 308, VI da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pelas restrições n. 34, 46-55 e 57-59 27 do Relatório Conclusivo n. 24/2014-Dicami",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Mecias Pereira Batista no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A aplicação de multa indica descumprimento de normas orçamentárias e financeiras, o que pode estar relacionado à inobservância do princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Artigo da resolução que trata das multas aplicáveis pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Mecias Pereira Batista no valor de R$ 1.685.708,95 (um milhão, seiscentos e oitenta e cinco mil, setecentos e oito reais e noventa e cinco centavos) que devem ser recolhidos na esfera Municipal no prazo de 30 dias para o órgão Prefeitura Municipal de Barreirinha com fundamento no art. 304 da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pelas restrições n. 1-4 do Relatório Conclusivo n. 20/2015-Dicop",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Mecias Pereira Batista no valor de R$ 1.685.708,95 (um milhão, seiscentos e oitenta e cinco mil, setecentos e oito reais e noventa e cinco centavos) que devem ser recolhidos na esfera Municipal no prazo de 30 dias para o órgão Prefeitura Municipal de Barreirinha",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação de alcance indica um possível desvio de recursos públicos, o que pode estar relacionado à ausência de controle sobre os bens patrimoniais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "304",
+              "descricao": "Artigo da resolução que trata da responsabilização por alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar Inscrição na Dívida Ativa do Sr. Mecias Pereira Batista em caso de não recolhimento das multas e alcance no prazo estabelecido (art. 72, III, alínea 'a' da Lei 2.423/96) com as devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c o art. 308, § 3º da Resolução TCE 04/02), ficando, desde já, autorizada a DERED a adoção das medidas previstas no art. 175 da Resolução TCE 04/02;",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar Inscrição na Dívida Ativa do Sr. Mecias Pereira Batista em caso de não recolhimento das multas e alcance no prazo estabelecido (art. 72, III, alínea 'a' da Lei 2.423/96) com as devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c o art. 308, § 3º da Resolução TCE 04/02), ficando, desde já, autorizada a DERED a adoção das medidas previstas no art. 175 da Resolução TCE 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação de inscrição em dívida ativa se refere a débitos não quitados, o que pode estar relacionado a problemas na gestão financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72, III, alínea 'a'",
+              "descricao": "Artigo da Lei que trata da inscrição em dívida ativa em caso de não recolhimento."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Artigo da Lei que trata da atualização monetária dos débitos."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "308, § 3º",
+              "descricao": "Artigo da resolução que trata da atualização monetária dos débitos."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Artigo da resolução que trata das medidas a serem adotadas pela DERED."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha durante todo o exercício em local de fácil acesso e, na Câmara Municipal, cópia da Prestação de Contas Anuais enviada a este Tribunal de Contas após o prazo de apresentação (31/03);",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha durante todo o exercício em local de fácil acesso e, na Câmara Municipal, cópia da Prestação de Contas Anuais enviada a este Tribunal de Contas após o prazo de apresentação (31/03)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação visa garantir a transparência das contas públicas, o que está relacionado à divulgação de informações relevantes para a sociedade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha atualizado o Portal da Transparência do Município, observando com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha atualizado o Portal da Transparência do Município, observando com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação visa garantir a transparência das contas públicas, o que está relacionado à divulgação de informações relevantes para a sociedade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n. 131/2009",
+              "artigo": "Não aplicável",
+              "descricao": "Lei da Transparência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Realize inventário anual dos bens móveis e imóveis, assim como proceda à atualização dos respectivos valores contábeis por ocasião da elaboração de Balanço Patrimonial, em observância aos princípios contábeis da Continuidade, Oportunidade, Competência e, principalmente do Registro pelo Valor Original.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Realize inventário anual dos bens móveis e imóveis, assim como proceda à atualização dos respectivos valores contábeis por ocasião da elaboração de Balanço Patrimonial, em observância aos princípios contábeis da Continuidade, Oportunidade, Competência e, principalmente do Registro pelo Valor Original.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação visa garantir o controle patrimonial e a correta avaliação dos bens públicos, o que está relacionado à ausência de informações detalhadas sobre os bens no inventário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Apresente nos prazos legais as devidas prestações de contas e informações denro dos prazos estabelecidos, nos termos da legislação vigente sob pena de aplicação da sanção prevista na alínea 'b' do inc. IV do art. 308 da Resolução TCE-AM nº 04/2002 e alterações posteriores em caso de reincidência;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Apresente nos prazos legais as devidas prestações de contas e informações denro dos prazos estabelecidos, nos termos da legislação vigente sob pena de aplicação da sanção prevista na alínea 'b' do inc. IV do art. 308 da Resolução TCE-AM nº 04/2002 e alterações posteriores em caso de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação visa garantir o cumprimento dos prazos legais para a apresentação das prestações de contas e informações, o que está relacionado à entrega de balancetes mensais fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE-AM nº 04/2002",
+              "artigo": "308",
+              "descricao": "Artigo da resolução que trata das sanções aplicáveis em caso de descumprimento dos prazos legais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha atualizadas as fichas funcionais dos servidores públicos sob pena de aplicação da sanção prevista na alínea 'b' do inc. IV do art. 308 da Resolução TCE-AM nº 04/2002 e alterações posteriores em caso de reincidência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha atualizadas as fichas funcionais dos servidores públicos sob pena de aplicação da sanção prevista na alínea 'b' do inc. IV do art. 308 da Resolução TCE-AM nº 04/2002 e alterações posteriores em caso de reincidência.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A recomendação visa garantir a regularidade das informações sobre os servidores públicos, o que pode estar relacionado a adiantamentos com saldo pendente de prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE-AM nº 04/2002",
+              "artigo": "308",
+              "descricao": "Artigo da resolução que trata das sanções aplicáveis em caso de descumprimento das normas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Regulamente e inclua em sua legislação a inclusão dos comprovantes de embarque nos processos de concessão de viagens a outras sedes municipais ou outras em que haja o pagamento de diárias para confirmação da efetivação da medida apresentada na defesa.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Regulamente e inclua em sua legislação a inclusão dos comprovantes de embarque nos processos de concessão de viagens a outras sedes municipais ou outras em que haja o pagamento de diárias para confirmação da efetivação da medida apresentada na defesa.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A recomendação visa aprimorar o controle sobre a concessão de diárias, o que pode estar relacionado à ausência ou falha na prestação de contas dessas despesas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha um Controle Interno funcione de forma eficiente;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Mantenha um Controle Interno funcione de forma eficiente",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "A recomendação visa fortalecer o sistema de controle interno, o que está relacionado à não implementação ou funcionamento inadequado desse sistema.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Observe com cautela a Lei complementar nº 101/2000;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Observe com cautela a Lei complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A10B",
+          "tipologia_irregularidade": "Descumprimento de medidas para redução de Gasto com pessoal ao limite previsto na LRF",
+          "descricao": "Pagamentos sem processo administrativo contendo justificativa para a dispensa de licitação, razão da escolha do fornecedor, pesquisa de mercado e sem cobertura contratual",
+          "justificativa_tipologia": "A recomendação visa garantir o cumprimento da Lei de Responsabilidade Fiscal, o que pode estar relacionado ao descumprimento de medidas para redução de gastos com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei complementar nº 101/2000",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Responsabilidade Fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Observe com o máximo zelo a Lei n. 4.320/64, principalmente quanto as fases da despesa pública;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Observe com o máximo zelo a Lei n. 4.320/64, principalmente quanto as fases da despesa pública",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação visa garantir o cumprimento da Lei nº 4.320/64, o que pode estar relacionado a despesas sem prévio empenho.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "Não aplicável",
+              "descricao": "Lei que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Barreirinha que: Cumpra rigorosamente os prazos para publicação dos Relatórios de Gestão Fiscal e Relatórios Resumidos da Execução Orçamentária, conforme determinar a a Lei de Responsabilidade Fiscal;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Barreirinha que: Cumpra rigorosamente os prazos para publicação dos Relatórios de Gestão Fiscal e Relatórios Resumidos da Execução Orçamentária, conforme determinar a a Lei de Responsabilidade Fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO",
+          "justificativa_tipologia": "A recomendação visa garantir o cumprimento dos prazos para a publicação dos relatórios fiscais, o que está relacionado à transparência na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "Não aplicável",
+              "descricao": "Lei Complementar nº 101/2000."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência desta decisão ao Sr. Mecias Pereira Batista",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência desta decisão ao Sr. Mecias Pereira Batista",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das Rotinas Internas",
+          "justificativa_tipologia": "Este item é apenas uma notificação formal, e não indica um problema concreto ou recorrente na gestão pública que justifique classificá-lo como relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Mecias Pereira Batista no valor de R$ 2.505.640,21 (dois milhões, quinhentos e cinco mil, seiscentos e quarenta reais e vinte e um centavos), de acordo com o voto-destaque do Conselheiro Erico Xavier Desterro e Silva, o qual foi acatado, em sessão, pelo Relator, que devem ser recolhidos no prazo de 30 (trinta) dias à esfera Estadual, para órgão Secretaria de Estado da Fazenda SEFAZ, nos moldes regimentais, devido as restrições de nº 61 e 62 do Parecer nº 4681/2018-MPC-ELCM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Mecias Pereira Batista no valor de R$ 2.505.640,21 (dois milhões, quinhentos e cinco mil, seiscentos e quarenta reais e vinte e um centavos), de acordo com o voto-destaque do Conselheiro Erico Xavier Desterro e Silva, o qual foi acatado, em sessão, pelo Relator, que devem ser recolhidos no prazo de 30 (trinta) dias à esfera Estadual, para órgão Secretaria de Estado da Fazenda SEFAZ, nos moldes regimentais",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação de alcance indica um possível desvio de recursos públicos, o que pode estar relacionado à ausência de controle sobre os bens patrimoniais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Arquivar os presentes autos e seus apensos nos termos regimentais, após o registro e adoção das medidas acima.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os presentes autos e seus apensos nos termos regimentais, após o registro e adoção das medidas acima.",
+          "irregularidade": false,
+          "relevante

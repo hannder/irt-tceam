@@ -1,0 +1,28 @@
+{
+  "acordao": "824/2016",
+  "processo": "1890/2004",
+  "data_sessao": "27 de Setembro de 2016",
+  "orgao": "Secretaria Municipal de Obras, Saneamento Básico e Serviços Públicos SEMOSB",
+  "municipio": "Manaus",
+  "exercicio": "2003",
+  "responsavel": [
+    "Paulo Herban Maciel Jacob Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar Regular  com  Ressalvas a  Prestação  de  Contas  da  Secretaria Municipal de OBRAS SEMOSB , referente ao exercício de 2003, de responsabilidade do Sr. Paulo Herban Maciel Jacob Filho ,  nos termos do art. 1º,  II, c/c art. 22,  II, da Lei Estadual nº 2423/1996, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Dar quitação ao responsável , nos termos do art. 24, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "determinar o arquivamento do presente processo.",
+      "trechos_identificados": []
+    }
+  ]
+}

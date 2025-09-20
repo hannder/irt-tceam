@@ -1,0 +1,99 @@
+{
+  "acordao": "1081/2024",
+  "processo": "10827/2023",
+  "data_sessao": "02 de Julho de 2024",
+  "orgao": "Câmara Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2022",
+  "responsavel": [
+    "Larissa Rufino Gomes"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Câmara Municipal de Iranduba, sob a responsabilidade da Sra. Larissa Rufino Gomes , Presidente no exercício de 2022, nos termos do art. 22, inciso III da Lei n. 2423/1996",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "que sejam envidados esforços mais incisivos no controle do consumo de combustíveis utilizados pelo órgão",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "que  implemente  melhorias  no  controle  dos  estoques  de alimentos disponíveis, bem como que observe a proporcionalidade entre a quantidade contratada e a capacidade de armazenamento físico",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "que o controle sobre as folhas de frequência manual seja aprimorado, evitando possíveis burlas referentes à assiduidade dos servidores do legislativo municipal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "que nos casos de remessa de processos de aposentadoria, sejam observados, com a deferência necessária, os termos da Portaria nº 939/2022-GPDRH, que institui  o  Domicílio  Eletrônico  de  Contas,  meio  adequado para remessa de documentos a esta Corte de Contas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "que  cumpra  as  determinações  desta  Corte  de  Contas, sob pena de aplicação das penalidades cabíveis e reprovação das contas prestadas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "que obedeça aos prazos de disponibilização e publicação dos relatórios  de gestão fiscal,  sob  pena  de  aplicação  das penalidades cabíveis e reprovação das contas prestadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "que obedeça aos prazos de disponibilização e publicação dos relatórios  de gestão fiscal,  sob  pena  de  aplicação  das penalidades cabíveis e reprovação das contas prestadas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A deliberação refere-se à obrigação de cumprir os prazos de disponibilização e publicação dos relatórios de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não há norma explicita no texto",
+              "artigo": "Não há artigo explicito no texto",
+              "descricao": "Não há norma explicita no texto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Larissa Rufino Gomes , gestora do órgão, que, no que diz respeito aos gastos com abastecimento de veículos a serviço da Câmara Municipal de Iranduba, seja adotado o sistema de empenho por estimativa, evitando incongruências entre as datas de efetivação de despesa e do respectivo empenho",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SEPLENO  que  remeta  à  DICAPE  os  documentos nos autos  referentes  ao Sr.  Disney  Nascimento  da  Cunha , para adoção das medidas regimentais cabíveis aos casos de acúmulos de cargos",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SEPLENO  que  remeta  à  DICAPE  os  documentos nos autos  referentes  ao Sr.  Disney  Nascimento  da  Cunha , para adoção das medidas regimentais cabíveis aos casos de acúmulos de cargos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A deliberação determina a remessa de documentos para apurar acúmulo de cargos, indicando uma possível irregularidade na área de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, XVI",
+              "descricao": "Refere-se à proibição de acumulação de cargos públicos, salvo as exceções previstas na Constituição."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a ciência do decisório prolatado nos autos à Sra. Larissa Rufino Gomes , Presidente da Câmara Municipal de Iranduba",
+      "trechos_identificados": []
+    }
+  ]
+}

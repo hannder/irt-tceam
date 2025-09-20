@@ -1,0 +1,44 @@
+{
+  "acordao": "1004/2015",
+  "processo": "1571/2014",
+  "data_sessao": "25 de novembro de 2015",
+  "orgao": "Secretaria de Estado de Justiça e Direitos Humanos - SEJUS",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Louismar de Matos Bonates",
+    "Cícero Romão de Souza Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular,  com  ressalvas , nos  termos  do  artigo  22,  II  da  Lei 2.423/96, a Prestação de Contas, da Secretaria de Estado de Justiça e Direitos Humanos -SEJUS,  exercício  de  2013,  de  responsabilidade  do Senhor  Louismar  de  Matos Bonates - Secretário de Estado e Senhor Cícero Romão de Souza Neto - Secretário Executivo e Ordenador de Despesas, à época",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar aos responsáveis Sr.  Louismar de Matos Bonates  - Secretário de Estado e Sr. Cícero Romão de Souza Neto  - Secretário Executivo e Ordenador de Despesas  da  Secretaria  de  Estado  de  Justiça  e  Direitos  Humanos  -  SEJUS  de  forma individual, multa no valor de R$ 2.192,06 , (dois mil, cento e noventa e dois reais e seis centavos),  de  acordo  com  o  art.  308,  I,  'b',  da  Res.  nº.  04/2002,  em  razão  da  não apresentação de documentos, em inspeções realizadas por esse Tribunal de Contas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar  o  prazo  de  30  (trinta )  dias  (art.  174  do  RITCE),  para  que  os responsáveis,  Sr.  Louismar  de  Matos  Bonates  e  Sr.  Cícero  Romão  de  Souza  Neto,TRIBUNAL DE CONTAS DIV. DE ACÓRDÃOS## ACÓRDÃO Nº 1004/2015 - TCE -TRIBUNAL PLENO recolham aos cofres da Fazenda Estadual o valor da multa que lhes foi aplicada, com a devida  comprovação  nos  autos,  o  qual  deverá  ser  atualizado  monetariamente,  na hipótese de expirar o prazo concedido (art. 55, da Lei n. 2423/1996), ficando a DICREX autorizada  a  adotar  as  medidas  previstas  nas  Subseções  III  e  IV  da  Secção  III,  do Capítulo X, da Res. n. 4/2002",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a origem que observe com mais atenção as determinações da  Lei  8.666/93,  4.320/64  e  Resoluções  deste  Tribunal  de  Contas,  visando  evitar  o cometimento das mesmas falhas em Prestações de Contas futuras",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Comunicação",
+      "descricao": "Comunicar ao Sr. Louismar de Matos Bonates - Secretário de Estado e ao Sr. Cícero Romão de Souza Neto - Ordenador de Despesas da SEJUSC, à época, com  cópia  do  Relatório/Voto  e Acórdão  para  que  tenham  ciência  do  decisório  e, querendo, apresentem o devido recurso",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Providências",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+      "trechos_identificados": []
+    }
+  ]
+}

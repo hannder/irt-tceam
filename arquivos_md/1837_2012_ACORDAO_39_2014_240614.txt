@@ -1,0 +1,36 @@
+{
+  "acordao": "39/2014",
+  "processo": "1837/2012",
+  "data_sessao": "22 de janeiro de 2014",
+  "orgao": "Agência Amazonense de Desenvolvimento Econômico e Social - AADES",
+  "municipio": "Manaus",
+  "exercicio": "2011",
+  "responsavel": [
+    "Ana Paula Machado Andrade Aguiar"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "conceder prazo de 60 (sessenta) dias à senhora Ana Paula Machado Andrade Aguiar, Presidente da Agência Amazonense de Desenvolvimento Econômico e Social - AADES, à época, para que recolha aos cofres da SEFAZ, tão logo esta Secretaria indique qual conta do Estado deverá ser utilizada, nos termos do artigo 304, inciso V, da Resolução n. 4/2002, a importância de R$ 50.112,00 (cinqüenta mil e cento e doze reais), referente aos Combustíveis constante do Plano de Trabalho, R$ 50.112,00, vez que não foi utilizado e já não tem mais o condão de servir à finalidade para o qual foi previsto",
+      "trechos_identificados": [
+        {
+          "trecho": "conceder prazo de 60 (sessenta) dias à senhora Ana Paula Machado Andrade Aguiar, Presidente da Agência Amazonense de Desenvolvimento Econômico e Social - AADES, à época, para que recolha aos cofres da SEFAZ, tão logo esta Secretaria indique qual conta do Estado deverá ser utilizada, nos termos do artigo 304, inciso V, da Resolução n. 4/2002, a importância de R$ 50.112,00 (cinqüenta mil e cento e doze reais), referente aos Combustíveis constante do Plano de Trabalho, R$ 50.112,00, vez que não foi utilizado e já não tem mais o condão de servir à finalidade para o qual foi previsto",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "O trecho indica a necessidade de recolhimento de valores não utilizados, sugerindo um possível desvio de finalidade no uso dos recursos, o que é relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002",
+              "artigo": "304, inciso V",
+              "descricao": "Determina o recolhimento de valores não utilizados aos cofres da SEFAZ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

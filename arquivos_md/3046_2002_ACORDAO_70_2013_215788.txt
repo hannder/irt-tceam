@@ -1,0 +1,120 @@
+{
+  "acordao": "070/2013",
+  "processo": "3046/2002",
+  "data_sessao": "23 de outubro de 2013",
+  "orgao": "Câmara Municipal de Manaus",
+  "municipio": "Manaus",
+  "exercicio": "2001",
+  "responsavel": [
+    "Nelson Raimundo de Oliveira Azevedo"
+  ],
+  "itens": [
+    {
+      "tipo": "JULGAR",
+      "descricao": "JULGAR  REGULAR  COM  RESSALVAS , a Prestação  de  Contas, referente ao exercício de 2001,  da Câmara Municipal de  Manaus, sob responsabilidade do  Sr.  Nelson  Raimundo  de  Oliveira  Azedo  (Ex-Presidente  da  Câmara  Municipal  de Manaus e Ordenador de Despesas), nos termos dos arts. 22, II e 24, da Lei n. 2.423/96 e art. 188, § 1º, II da Resolução 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR  REGULAR  COM  RESSALVAS , a Prestação  de  Contas, referente ao exercício de 2001,  da Câmara Municipal de  Manaus, sob responsabilidade do  Sr.  Nelson  Raimundo  de  Oliveira  Azedo  (Ex-Presidente  da  Câmara  Municipal  de Manaus e Ordenador de Despesas), nos termos dos arts. 22, II e 24, da Lei n. 2.423/96 e art. 188, § 1º, II da Resolução 04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A descrição relata um julgamento formal da prestação de contas, sendo regular com ressalvas, não indicando um problema concreto. Classificado em contabilidade por ser julgamento das contas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "22, II e 24",
+              "descricao": "Norma sobre a regularidade das contas"
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, § 1º, II",
+              "descricao": "Norma sobre a regularidade das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "RECOMENDAR à Câmara Municipal de  Manaus, adote  as providencias necessárias para:\n\n- a)  a  implantação  de  um  novo  programa  de  informática  no  qual  as  fichas financeiras demonstrem de forma clara e precisa o percentual conferido as gratificações concedidas a seus servidores;\n- b) Adote  lei  específica,  no  que  tange  a  concessão,  em  vantagens  em obediência ao art.37, X, da CF/88;\n- c)  Observe nos autos de Contratações Temporárias, o que dispõe a Resolução nº 004/96-TCE;\n- d) Sejam  apostas  nas  pastas  funcionais  os  atos  de  prorrogações  e  suas publicações no Diário Oficial",
+      "trechos_identificados": [
+        {
+          "trecho": "a implantação de um novo programa de informática no qual as fichas financeiras demonstrem de forma clara e precisa o percentual conferido as gratificações concedidas a seus servidores",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ficha financeira é um documento importante no controle interno, e o tema foi considerado relevante para o índice por propor a correção de uma deficiência estrutural no sistema de controle interno da gestão pública, que impacta na confiabilidade e transparência das informações financeiras.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Adote lei específica, no que tange a concessão, em vantagens em obediência ao art.37, X, da CF/88",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A19A",
+          "tipologia_irregularidade": "Falta de segregação de funções",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "A descrição trata sobre a necessidade de lei especifica para vantagem concedidas, o que caracteriza falta de segregação de função, onde a Administração cria gratificação sem amparo legal. ",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, X",
+              "descricao": "Artigo sobre a remuneração dos servidores públicos"
+            }
+          ]
+        },
+        {
+          "trecho": "Observe nos autos de Contratações Temporárias, o que dispõe a Resolução nº 004/96-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A descrição trata sobre a necessidade de observar a resolucao em contratações temporárias, o que caracteriza a necessidade de analise juridica. O tema foi considerado relevante para o índice pois se trata de processo licitatório",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 004/96-TCE",
+              "artigo": "null",
+              "descricao": "Dispõe sobre contratações temporárias"
+            }
+          ]
+        },
+        {
+          "trecho": "Sejam apostas nas pastas funcionais os atos de prorrogações e suas publicações no Diário Oficial",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "justificativa_tipologia": "A descrição trata sobre a necessidade de organização e controle dos documentos de servidores, para transparência e controle.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAR",
+      "descricao": "DETERMINAR por perda de objeto o ARQUIVAMENTO dos processos nºs.: 339/2006; 981/2002; 2470/2002; 2649/2002; 2650/2002; 2651/2002; 2652/2002; 2653/2002; 2654/2002; 2656/2002; 2657/2002; 5114/2001 e 12017/2001 (apensos).",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR por perda de objeto o ARQUIVAMENTO dos processos nºs.: 339/2006; 981/2002; 2470/2002; 2649/2002; 2650/2002; 2651/2002; 2652/2002; 2653/2002; 2654/2002; 2656/2002; 2657/2002; 5114/2001 e 12017/2001 (apensos).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição relata apenas sobre o arquivamento de processos, não se mostrando relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

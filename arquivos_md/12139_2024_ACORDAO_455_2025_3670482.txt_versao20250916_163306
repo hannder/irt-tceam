@@ -1,0 +1,380 @@
+{
+  "acordao": "455/2025",
+  "processo": "12139/2024",
+  "data_sessao": "19 de março de 2025",
+  "orgao": "Câmara Municipal de Manaquiri",
+  "municipio": "Manaquiri",
+  "exercicio": "2023",
+  "responsavel": [
+    "Willian Bruno Cordeiro da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 01\"; justificativa=\"A determinação explicita a ausência de rotinas para divulgação de informações sobre receitas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 02\"; justificativa=\"A determinação explicita a ausência de rotinas para divulgação de informações sobre receitas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre licitações realizadas e contratos firmados, conforme legislação aplicável.",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas sobre licitações realizadas e contratos firmados, conforme legislação aplicável.",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 03\"; justificativa=\"A determinação explicita a ausência de rotinas para divulgação de informações sobre licitações e contratos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas  sobre  dados  de  folhas  de  pagamentos, conforme legislação aplicável.",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam a divulgação, em tempo real, das informações pormenorizadas  sobre  dados  de  folhas  de  pagamentos, conforme legislação aplicável.",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 04\"; justificativa=\"A determinação explicita a ausência de rotinas para divulgação de informações sobre folha de pagamento.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "adote os requisitos mínimos  a serem  cumpridos na realização  de  audiências  públicas  obrigatórias  durante  as fases de  elaboração,  discussão  e  aprovação  das  Leis Orçamentárias, conforme Nota Técnica Nº 01/2023DICAMI/SECEX,  publicada  em  13  de  março  de  2023,  no Diário Oficial Eletrônico do Tribunal de Contas do Amazonas.",
+      "trechos_identificados": [
+        {
+          "trecho": "adote os requisitos mínimos  a serem  cumpridos na realização  de  audiências  públicas  obrigatórias  durante  as fases de  elaboração,  discussão  e  aprovação  das  Leis Orçamentárias, conforme Nota Técnica Nº 01/2023DICAMI/SECEX,  publicada  em  13  de  março  de  2023,  no Diário Oficial Eletrônico do Tribunal de Contas do Amazonas.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Empenho em desacordo com o planejamento",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 06\"; justificativa=\"A determinação explicita o descumprimento dos requisitos mínimos para realização de audiências públicas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "elabore e desenvolva rotinas de trabalho que permitam o envio tempestivo ao TCE-AM, através do sistema E-Contas, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que permitam o envio tempestivo ao TCE-AM, através do sistema E-Contas, das informações pormenorizadas sobre Receitas, conforme legislação aplicável.",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 07\"; justificativa=\"A determinação explicita a ausência de rotinas para o envio tempestivo das informações sobre receitas ao TCE-AM.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "elabore e desenvolva rotinas de trabalho que garantam o envio tempestivo  e  completo  ao  TCE-AM,  através  das Prestações  de  Contas  Mensais  e  Anuais,  das  informações pormenorizadas  e  fidedignas,  sobre  Licitações,  conforme legislação aplicável.",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore e desenvolva rotinas de trabalho que garantam o envio tempestivo  e  completo  ao  TCE-AM,  através  das Prestações  de  Contas  Mensais  e  Anuais,  das  informações pormenorizadas  e  fidedignas,  sobre  Licitações,  conforme legislação aplicável.",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 08\"; justificativa=\"A determinação explicita a ausência de rotinas para o envio tempestivo e completo das informações sobre licitações ao TCE-AM.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "estruture  e  promova  treinamentos  para  sua  equipe  de Controle Interno com vistas ao atendimento dos conteúdos mínimos prescritos no Art. 215, Resolução nº 4 do TCE-AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "estruture  e  promova  treinamentos  para  sua  equipe  de Controle Interno com vistas ao atendimento dos conteúdos mínimos prescritos no Art. 215, Resolução nº 4 do TCE-AM.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Falta de treinamento dos servidores sobre os controles internos",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 10\"; justificativa=\"A determinação explicita a ausência de treinamento para a equipe de controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 4 do TCE-AM",
+              "artigo": "215",
+              "descricao": "Conteúdos mínimos para o treinamento da equipe de controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "estruture  adequadamente  o  Controle  Interno  e  promova treinamentos  para  sua  equipe  com  vistas  ao  atendimento das  atribuições  que  competem  ao  Sistema  de  Controle Interno,  previstas  no  Art.  5º  da  Resolução  nº  9/2016  do TCE/AM  e  no  Art.  74  da  Constituição  Federal  de  1988.",
+      "trechos_identificados": [
+        {
+          "trecho": "estruture  adequadamente  o  Controle  Interno  e  promova treinamentos  para  sua  equipe  com  vistas  ao  atendimento das  atribuições  que  competem  ao  Sistema  de  Controle Interno,  previstas  no  Art.  5º  da  Resolução  nº  9/2016  do TCE/AM  e  no  Art.  74  da  Constituição  Federal  de  1988.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 11\"; justificativa=\"A determinação explicita a ausência de estrutura e treinamento adequados ao controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 9/2016 do TCE/AM",
+              "artigo": "5º",
+              "descricao": "Atribuições do Sistema de Controle Interno"
+            },
+            {
+              "norma": "Constituição Federal de 1988",
+              "artigo": "74",
+              "descricao": "Disposições sobre o Sistema de Controle Interno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "nstrua  seus  processos  de  inexigibilidade  de  licitação  em conformidade com o que preceitua os Artigos nº 15, 25, e 38 da  Lei  Federal  8.666/1993,  juntando  todos  os  elementos obrigatórios  previstos  em  seus  incisos,  conforme  o  caso.",
+      "trechos_identificados": [
+        {
+          "trecho": "nstrua  seus  processos  de  inexigibilidade  de  licitação  em conformidade com o que preceitua os Artigos nº 15, 25, e 38 da  Lei  Federal  8.666/1993,  juntando  todos  os  elementos obrigatórios  previstos  em  seus  incisos,  conforme  o  caso.",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 13\"; justificativa=\"A determinação explicita a não instrução de processos de inexigibilidade.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "15",
+              "descricao": "Documentação necessária nos processos licitatórios"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "25",
+              "descricao": "Inexigibilidade de licitação"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Fases da licitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "nstrua  seus  processos  licitatórios  em  conformidade  com  o que  preceitua  os  Artigos  nº  15,  26,  e  38  da  Lei  Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+      "trechos_identificados": [
+        {
+          "trecho": "nstrua  seus  processos  licitatórios  em  conformidade  com  o que  preceitua  os  Artigos  nº  15,  26,  e  38  da  Lei  Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 14\"; justificativa=\"A determinação explicita a não instrução de processos licitatórios.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "15",
+              "descricao": "Documentação necessária nos processos licitatórios"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "26",
+              "descricao": "Dispensa de licitação"
+            },
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Fases da licitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "nstrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+      "trechos_identificados": [
+        {
+          "trecho": "nstrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 15\"; justificativa=\"A determinação explicita a não instrução de processos licitatórios.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Fases da licitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "nstrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+      "trechos_identificados": [
+        {
+          "trecho": "nstrua  seus  processos  licitatórios  em  conformidade  com  o que preceitua o Art. 38 da Lei Federal 8.666/1993, juntando todos os elementos obrigatórios previstos em seus incisos, conforme o caso.",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 16\"; justificativa=\"A determinação explicita a não instrução de processos licitatórios.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal 8.666/1993",
+              "artigo": "38",
+              "descricao": "Fases da licitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "designe  formalmente  os  responsáveis  por  acompanhar  e fiscalizar a execução  dos  contratos  firmados, além  de instituir outras medidas para aprimorar os controles internos incidentes sobre tais contratos, conforme preceitua o Art. 67 da Lei Federal nº 8.666/1993.",
+      "trechos_identificados": [
+        {
+          "trecho": "designe  formalmente  os  responsáveis  por  acompanhar  e fiscalizar a execução  dos  contratos  firmados, além  de instituir outras medidas para aprimorar os controles internos incidentes sobre tais contratos, conforme preceitua o Art. 67 da Lei Federal nº 8.666/1993.",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A19B",
+          "tipologia_irregularidade": "Ausência de controle de fiscalização de contratos",
+          "descricao": "Ausência de controle de fiscalização de contratos.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 17\"; justificativa=\"A determinação explicita a ausência de designação formal dos responsáveis por acompanhar e fiscalizar a execução dos contratos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/1993",
+              "artigo": "67",
+              "descricao": "Acompanhamento e fiscalização da execução contratual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "apresente  plano  de  ação  detalhado,  com  cronograma  e responsáveis pela implementação do concurso público, para o devido acompanhamento pela Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "apresente  plano  de  ação  detalhado,  com  cronograma  e responsáveis pela implementação do concurso público, para o devido acompanhamento pela Corte de Contas.",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 18\"; justificativa=\"A determinação explicita a ausência de plano de ação para implementação de concurso público.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "promova  a  atualização  dos  controles  patrimoniais,  com  os registros de  baixa  de  bens  inservíveis e indicação de servidor responsável pela gestão patrimonial.",
+      "trechos_identificados": [
+        {
+          "trecho": "promova  a  atualização  dos  controles  patrimoniais,  com  os registros de  baixa  de  bens  inservíveis e indicação de servidor responsável pela gestão patrimonial.",
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 20\"; justificativa=\"A determinação explicita a ausência de atualização dos controles patrimoniais e indicação de responsável pela gestão patrimonial.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "mpreenda esforços para melhoria dos controles de almoxarifado, principalmente no que tange à segregação de funções, e aos instrumentos de controle de entrada e saída de materiais, identificando responsáveis e eventos, visando sanar  as  fragilidades  identificadas,  e  que  a  Comissão  de Inspeção  que  auditará  as  contas  do  exercício  de  2024, verifique sua eficiência e efetividade.",
+      "trechos_identificados": [
+        {
+          "trecho": "mpreenda esforços para melhoria dos controles de almoxarifado, principalmente no que tange à segregação de funções, e aos instrumentos de controle de entrada e saída de materiais, identificando responsáveis e eventos, visando sanar  as  fragilidades  identificadas,  e  que  a  Comissão  de Inspeção  que  auditará  as  contas  do  exercício  de  2024, verifique sua eficiência e efetividade.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A4A",
+          "tipologia_irregularidade": "Ausência de segregação de funções nas atividades de autorização, aprovação, execução, controle e contabilização",
+          "descricao": "Não encaminhamento do Plano de Providências ao Órgão de Controle Interno",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 21\"; justificativa=\"A determinação explicita a necessidade de segregação de funções, identificação de responsáveis e controle de entrada e saída de materiais no almoxarifado.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "mantenha controle de almoxarifado que reflita com fidedignidade  o  que  consta  nas  demonstrações  contábeis.",
+      "trechos_identificados": [
+        {
+          "trecho": "mantenha controle de almoxarifado que reflita com fidedignidade  o  que  consta  nas  demonstrações  contábeis.",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 22\"; justificativa=\"A determinação explicita a necessidade de um controle de almoxarifado que reflita com fidedignidade o que consta nas demonstrações contábeis.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "tome  providências para regularização do saldo de R$ 871.384,48  da  conta  'Valores  em  Trânsito  Realizável  a Curto Prazo' e caso  necessário instaure procedimento administrativo para averiguar eventuais irregularidades cometidas por gestões anteriores.",
+      "trechos_identificados": [
+        {
+          "trecho": "tome  providências para regularização do saldo de R$ 871.384,48  da  conta  'Valores  em  Trânsito  Realizável  a Curto Prazo' e caso  necessário instaure procedimento administrativo para averiguar eventuais irregularidades cometidas por gestões anteriores.",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Achado 23\"; justificativa=\"A determinação explicita a necessidade de regularização do saldo da conta 'Valores em Trânsito Realizável a Curto Prazo'.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "mpreenda esforços para que sejam cumpridos os prazos de implantação  constantes  no  Plano  de  Ação  do  Município, situação que deverá ser atestada pela próxima Inspeção a ser realizada no ano de 2025.",
+      "trechos_identificados": [
+        {
+          "trecho": "mpreenda esforços para que sejam cumpridos os prazos de implantação  constantes  no  Plano  de  Ação  do  Município, situação que deverá ser atestada pela próxima Inspeção a ser realizada no ano de 2025.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Achado 05\"; justificativa=\"A determinação explicita a necessidade de cumprir os prazos de implantação constantes no Plano de Ação do Município.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

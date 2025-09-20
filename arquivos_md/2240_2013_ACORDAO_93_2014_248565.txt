@@ -1,0 +1,69 @@
+{
+  "acordao": "93/2014",
+  "processo": "2240/2013",
+  "data_sessao": "19 de fevereiro de 2014",
+  "orgao": "Maternidade Balbina Mestrinho",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Marco Lourenço Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "JULGAR REGULAR",
+      "descricao": "JULGAR  REGULAR ,  a  Prestação  de  Contas  Anual  da  Maternidade Balbina Mestrinho, exercício financeiro 2012, de responsabilidade do Sr. Marco Lourenço Silva (Diretor Geral e Ordenador de Despesas), nos termos dos arts. 22, II e 23, da Lei n.º 2.423/96, c/c o art. 188, II, § 1º, I, da Resolução 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR  REGULAR ,  a  Prestação  de  Contas  Anual  da  Maternidade Balbina Mestrinho, exercício financeiro 2012, de responsabilidade do Sr. Marco Lourenço Silva (Diretor Geral e Ordenador de Despesas), nos termos dos arts. 22, II e 23, da Lei n.º 2.423/96, c/c o art. 188, II, § 1º, I, da Resolução 04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares, sem apontar irregularidades. Por isso, foi classificado como false.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, II e 23",
+              "descricao": "Dispõe sobre a regularidade das contas."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, II, § 1º, I",
+              "descricao": "Dispõe sobre a regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar quitação",
+      "descricao": "Dar quitação ao Responsável, conforme preceitua o art. 23, da Lei n.º 2.423/1996 c/c o art. 189, I, da Resolução 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Responsável, conforme preceitua o art. 23, da Lei n.º 2.423/1996 c/c o art. 189, I, da Resolução 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica a quitação do responsável, não indicando irregularidades ou problemas na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a quitação do responsável."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Dispõe sobre a quitação do responsável."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

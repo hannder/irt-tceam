@@ -1,0 +1,92 @@
+{
+  "acordao": "1306/2024",
+  "processo": "11872/2023",
+  "data_sessao": "06 de agosto de 2024",
+  "orgao": "Instituto  de  Previdência  e  Assistência  Social  dos  Servidores  Públicos  do Município de Tabatinga - IPRETAB",
+  "municipio": "Tabatinga",
+  "exercicio": "2022",
+  "responsavel": [
+    "Altenor Lopes Magalhães"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  do Instituto  de  Previdência  e  Assistência  Social  dos  Servidores  Públicos do Município de Tabatinga, exercício 2022, de responsabilidade do Sr. Altenor Lopes Magalhães ,  nos termos do art. 71, II, c/c o art. 75 da Constituição  Federal,  art.  1º,  II,  c/c  art.  22,  II,  da  Lei  Estadual  nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "A  formalização  de  acordo  de  parcelamento  junto  à  prefeitura municipal, referente aos débitos decorrentes de contribuições previdenciárias do ente federativo no valor R$1.577.609,84 (um milhão, quinhentos  e  setenta  e  sete  mil,  seiscentos  e  nove  reais  e  oitenta  e quatro centavos), relativos ao exercício 2022.",
+      "trechos_identificados": [
+        {
+          "trecho": "A  formalização  de  acordo  de  parcelamento  junto  à  prefeitura municipal, referente aos débitos decorrentes de contribuições previdenciárias do ente federativo no valor R$1.577.609,84 (um milhão, quinhentos  e  setenta  e  sete  mil,  seiscentos  e  nove  reais  e  oitenta  e quatro centavos), relativos ao exercício 2022.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "O trecho descreve a falta de formalização de acordo de parcelamento referente aos débitos decorrentes de contribuições previdenciárias, indicando um problema no controle e repasse de recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "A  instituição  do  Comitê  de  Investimentos,  por  lei,  na  estrutura  do RPPS,  no  qual  deve  ter participação no processo  decisório de investimentos dos recursos previdenciários, inclusive quanto à formulação e execução da política de investimentos.",
+      "trechos_identificados": [
+        {
+          "trecho": "A  instituição  do  Comitê  de  Investimentos,  por  lei,  na  estrutura  do RPPS,  no  qual  deve  ter participação no processo  decisório de investimentos dos recursos previdenciários, inclusive quanto à formulação e execução da política de investimentos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A171B",
+          "tipologia_irregularidade": "O Comitê de Investimentos do Regime Próprio de Previdência Social funcionou no exercício",
+          "descricao": "O Comitê de Investimentos do Regime Próprio de Previdência Social não funcionou no exercício.",
+          "justificativa_tipologia": "O trecho determina a instituição do Comitê de Investimentos, por lei, na estrutura do RPPS, o que indica a ausência do mesmo anteriormente.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Celeridade na regularização do Certificado de Regularidade Previdenciária - CRP em conjunto com Poderes do município, no que se  refere  aos  critérios  e  exigências  aplicáveis  aos  RPPS  e  aos  seus fundos previdenciários.",
+      "trechos_identificados": [
+        {
+          "trecho": "Celeridade na regularização do Certificado de Regularidade Previdenciária - CRP em conjunto com Poderes do município, no que se  refere  aos  critérios  e  exigências  aplicáveis  aos  RPPS  e  aos  seus fundos previdenciários.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A74B",
+          "tipologia_irregularidade": "Ausência de CRP",
+          "descricao": "Foi identificado a ausência de Certificado de Regularização Previdênciaria - CRP pela Secretaria de Previdência do Ministério da Fazenda.",
+          "justificativa_tipologia": "O trecho determina celeridade na regularização do CRP, o que indica a ausência do mesmo ou a existência de pendências que impedem sua obtenção regular.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar a  comunicação ao Sr.  Saul  Nunes  Bemerguy ,  prefeito municipal, na forma do art. 32, §3º, da Lei Estadual nº 2.423/1996, para que promova a regularização dos valores em aberto relativamente às contribuições patronais devidas pelo município ao RPPS  e  não recolhidas no exercício de 2022.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a  comunicação ao Sr.  Saul  Nunes  Bemerguy ,  prefeito municipal, na forma do art. 32, §3º, da Lei Estadual nº 2.423/1996, para que promova a regularização dos valores em aberto relativamente às contribuições patronais devidas pelo município ao RPPS  e  não recolhidas no exercício de 2022.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "O trecho determina a comunicação ao prefeito para regularizar os valores em aberto das contribuições patronais devidas ao RPPS, indicando um problema no repasse desses recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "32, §3º",
+              "descricao": "Lei que dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

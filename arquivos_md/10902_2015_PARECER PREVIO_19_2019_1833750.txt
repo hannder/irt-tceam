@@ -1,0 +1,262 @@
+{
+  "acordao": "19/2019",
+  "processo": "10902/2015",
+  "data_sessao": "28 de Maio de 2019",
+  "orgao": "Prefeitura Municipal de Caapiranga",
+  "municipio": "Caapiranga",
+  "exercicio": "2014",
+  "responsavel": [
+    "Zilmar Almeida de Sales"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas da Prefeitura Municipal de Caapiranga, referente ao exercício de 2014, tendo como responsável o Sr. Zilmar Almeida de Sales Prefeito e Ordenador de Despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alínea 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas apontadas na fundamentação deste Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas da Prefeitura Municipal de Caapiranga, referente ao exercício de 2014, tendo como responsável o Sr. Zilmar Almeida de Sales Prefeito e Ordenador de Despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alínea 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas apontadas na fundamentação deste Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho descreve o julgamento da irregularidade na prestação de contas devido a falhas contábeis, especificamente na comprovação de valores no balanço patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "19, inciso II c/c o art. 22, inciso III, alínea 'b' e 'c'",
+              "descricao": "Fundamenta a decisão de julgar irregular a prestação de contas devido às falhas encontradas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar revel o Sr. Zilmar Almeida de Sales Prefeito e Ordenador de Despesas, nos termos do art. 20, §4º, da Lei nº 2.423/96, c/c o art. 88, da Resolução TCE/AM nº 04/2002, por não apresentar razões de defesa  no  prazo  regimental,  deixando  de  atender  à  Notificação  n° 001/2015-CI/DICOP",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel o Sr. Zilmar Almeida de Sales Prefeito e Ordenador de Despesas, nos termos do art. 20, §4º, da Lei nº 2.423/96, c/c o art. 88, da Resolução TCE/AM nº 04/2002, por não apresentar razões de defesa  no  prazo  regimental,  deixando  de  atender  à  Notificação  n° 001/2015-CI/DICOP",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "Apesar de indicar uma falha processual, o trecho em si não aponta para uma irregularidade de gestão que impacte estruturalmente a administração pública, mas sim uma omissão em responder a uma notificação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Base legal para considerar o responsável como revel."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/2002",
+              "artigo": "88",
+              "descricao": "Base legal para considerar o responsável como revel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 3.180.780,02 , nos termos do art. 304, inciso III, da Resolução nº 04/2002-TCE/AM, pela diferença detectada  por  ocasião  da  análise  da  conciliação  bancária/extratos bancários,  Termo  de  Conferência  de  Caixa  e  balanço  financeiro  do exercício, apresentados na prestação de contas, item 8 , da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 3.180.780,02 , nos termos do art. 304, inciso III, da Resolução nº 04/2002-TCE/AM, pela diferença detectada  por  ocasião  da  análise  da  conciliação  bancária/extratos bancários,  Termo  de  Conferência  de  Caixa  e  balanço  financeiro  do exercício, apresentados na prestação de contas, item 8 , da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A35B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A tipologia se encaixa na descrição do trecho, que menciona uma divergência detectada na conciliação bancária, indicando um problema na gestão contábil dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso III",
+              "descricao": "Base legal para considerar o responsável em alcance devido à divergência na conciliação bancária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 12.694.411,89 , nos termos do art.  304,  inciso  III,  da  Resolução  nº  04/2002-TCE/AM,  em  razão  da ausência de documentação que comprove que os valores de 'créditos a  receber',  do  exercício  de  2013,  foram  devidamente  inscritos  na Dívida  Ativa  do Município,  no  exercício  de  2014, item  10 , da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 12.694.411,89 , nos termos do art.  304,  inciso  III,  da  Resolução  nº  04/2002-TCE/AM,  em  razão  da ausência de documentação que comprove que os valores de 'créditos a  receber',  do  exercício  de  2013,  foram  devidamente  inscritos  na Dívida  Ativa  do Município,  no  exercício  de  2014, item  10 , da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho descreve a ausência de comprovação da inscrição de créditos a receber na Dívida Ativa do município, indicando uma falha na cobrança de dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso III",
+              "descricao": "Base legal para considerar o responsável em alcance devido à ausência de documentação comprobatória da inscrição na Dívida Ativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 6.200,00 , nos termos do art. 304, inciso III, da Resolução nº 04/2002-TCE/AM, pelo montante pago sem devida comprovação, item 29 ,  da fundamentação do Voto, que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias  aos  cofres  municipais,  ficando  o  DERED  autorizado,  caso expirado o referido prazo, a adotar as medidas  previstas nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 6.200,00 , nos termos do art. 304, inciso III, da Resolução nº 04/2002-TCE/AM, pelo montante pago sem devida comprovação, item 29 ,  da fundamentação do Voto, que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias  aos  cofres  municipais,  ficando  o  DERED  autorizado,  caso expirado o referido prazo, a adotar as medidas  previstas nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho indica que houve pagamentos realizados sem a devida comprovação, o que se enquadra na tipologia de despesas sem comprovação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso III",
+              "descricao": "Base legal para considerar o responsável em alcance devido ao pagamento sem devida comprovação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 24.111,38 , nos termos do art. 304, inciso III, da Resolução nº 04/2002-TCE/AM, pelo pagamento de multas e juros com o atraso do INSS, item 31 , da fundamentação do Voto,  que  devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 24.111,38 , nos termos do art. 304, inciso III, da Resolução nº 04/2002-TCE/AM, pelo pagamento de multas e juros com o atraso do INSS, item 31 , da fundamentação do Voto,  que  devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "O pagamento de multas e juros por atraso no INSS indica uma falha no monitoramento e cumprimento das obrigações contratuais e legais, caracterizando uma deficiência no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso III",
+              "descricao": "Base legal para considerar o responsável em alcance devido ao pagamento de multas e juros por atraso no INSS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Zilmar Almeida de Sales, Prefeito e Ordenador de Despesas, no valor de R$ 5.686.750,75 , nos termos do art.  304,  inciso  I,  da  Resolução  nº  04/2002-TCE/AM, item  34.1 ,  da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Zilmar Almeida de Sales, Prefeito e Ordenador de Despesas, no valor de R$ 5.686.750,75 , nos termos do art.  304,  inciso  I,  da  Resolução  nº  04/2002-TCE/AM, item  34.1 ,  da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O texto fala sobre um montante a ser ressarcido devido a irregularidades na gestão orçamentária, e fala de ausência de termo de responsabilidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Base legal para considerar o responsável em alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 2.152.217,65 , nos termos do art.  304,  inciso  I,  da  Resolução  nº  04/2002-TCE/AM, item  34.2 ,  da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 2.152.217,65 , nos termos do art.  304,  inciso  I,  da  Resolução  nº  04/2002-TCE/AM, item  34.2 ,  da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga. O valor deverá ser recolhido, no prazo de 30 dias aos cofres municipais, ficando o DERED autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as  medidas previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O trecho indica que o gestor é responsabilizado por um valor específico, o que sugere uma possível falha na gestão dos recursos públicos e ausência de documento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Base legal para considerar o responsável em alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 894.757,65 ,  nos termos do art. 304,  inciso  I, da  Resolução  nº  04/2002-TCE/AM,  pela  não comprovação da execução dos serviços de engenharia, itens 48, 56, 64, 80, 98, 106, 120, 124, 130, 146 e 174, da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga O valor deverá ser recolhido, no prazo de 30 dias  aos  cofres  municipais,  ficando  o  DERED  autorizado,  caso expirado o referido prazo, a adotar as medidas  previstas nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 894.757,65 ,  nos termos do art. 304,  inciso  I, da  Resolução  nº  04/2002-TCE/AM,  pela  não comprovação da execução dos serviços de engenharia, itens 48, 56, 64, 80, 98, 106, 120, 124, 130, 146 e 174, da fundamentação do Voto, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Caapiranga O valor deverá ser recolhido, no prazo de 30 dias  aos  cofres  municipais,  ficando  o  DERED  autorizado,  caso expirado o referido prazo, a adotar as medidas  previstas nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "A não comprovação da execução dos serviços de engenharia pagos sugere um superfaturamento quantitativo, onde os serviços foram pagos, mas não executados nas quantidades contratadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Base legal para considerar o responsável em alcance devido à não comprovação da execução dos serviços de engenharia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 1.706,80 , conforme art. 308, inciso I, 'b', da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 04/2018-TCE/AM pelo bimestre (6° bimestre) em que foi entregue com  atraso o Relatório Resumido  de  Execução  Orçamentária, constante  no item  16 ,  da  fundamentação  do  Voto,  que  deverá  ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado  pelo Banco )  a  esta Corte de Contas (art. 72, inciso III, alínea \"a\" , da Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação . O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 1.706,80 , conforme art. 308, inciso I, 'b', da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 04/2018-TCE/AM pelo bimestre (6° bimestre) em que foi entregue com  atraso o Relatório Resumido  de  Execução  Orçamentária, constante  no item  16 ,  da  fundamentação  do  Voto,  que  deverá  ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O texto descreve multa aplicada devido à entrega com atraso do Relatório Resumido de Execução Orçamentária, indicando falha no cumprimento dos prazos estabelecidos para a publicação desse relatório.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  nº.  04/2002-TCE/AM",
+              "artigo": "308, inciso I, 'b'",
+              "descricao": "Base legal para a aplicação da multa devido ao atraso na entrega do relatório."
+            },
+            {
+              "norma": "Resolução  nº 04/2018-TCE/AM",
+              "artigo": "Não aplicável",
+              "descricao": "Alteração da Resolução nº. 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 1.706,80 , conforme art. 308, inciso I, 'c', da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 04/2018-TCE/AM por cada semestre (1° e 2° semestres) em que foi entregue  com  atraso o  Relatório  de  Gestão  Fiscal,  perfazendo  o montante  de R$  3.413,60 (três  mil,  quatrocentos  e  treze  reais  e sessenta centavos), constante no item 17 , da fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Zilmar Almeida de Sales , Prefeito e Ordenador de Despesas, no valor de R$ 1.706,80 , conforme art. 308, inciso I, 'c', da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 04/2018-TCE/AM por cada semestre (1° e 2° semestres) em que foi entregue  com  atraso o  Relatório  de  Gestão  Fiscal,  perfazendo  o montante  de R$  3.413,60 (três  mil,  quatrocentos  e  treze  reais  e sessenta centavos), constante no item 17 , da fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A80C",
+          "tipologia_irregularidade": "Publicação do RGF não

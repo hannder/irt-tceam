@@ -1,0 +1,219 @@
+{
+  "acordao": "16/2018",
+  "processo": "11528/2016",
+  "data_sessao": "11 de Abril de 2018",
+  "orgao": "Prefeitura Municipal de Tapauá",
+  "municipio": "Tapauá",
+  "exercicio": "2015",
+  "responsavel": [
+    "Almino Gonçalves de Albuquerque"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar Irregular a Prestação de Contas do Sr. Almino Gonçalves de Albuquerque , Prefeito Municipal de Tapauá, no exercício de 2015, nos termos  do  art.  22,  inciso  III,  'b'  e  'c'  c/c  o  art.  25,  ambos  da  Lei  nº 2423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas do Sr. Almino Gonçalves de Albuquerque , Prefeito Municipal de Tapauá, no exercício de 2015, nos termos  do  art.  22,  inciso  III,  'b'  e  'c'  c/c  o  art.  25,  ambos  da  Lei  nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O trecho indica um julgamento de irregularidade nas contas do Prefeito de Tapauá, implicando um descumprimento de normas de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº 2423/96",
+              "artigo": "22,  inciso  III,  'b'  e  'c'  c/c  o  art.  25",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$  1.096,03 (Hum  mil  e  noventa  e  seis  reais  e  três  centavos)  que devem  ser  recolhidos  na  esfera  Estadual  para  o  órgão  Encargos Gerais do Estado - SEFAZ, pela não alimentação no sistema E-Contas dos  atos  jurídicos  (Termos  de  Contratos,  Convênios  e  Licitações), conforme restrição 2 do Relatório Conclusivo nº 72/2017- DICAMI (fls. 471/506), com base no art. 308, II da Resolução 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$  1.096,03 (Hum  mil  e  noventa  e  seis  reais  e  três  centavos)  que devem  ser  recolhidos  na  esfera  Estadual  para  o  órgão  Encargos Gerais do Estado - SEFAZ, pela não alimentação no sistema E-Contas dos  atos  jurídicos  (Termos  de  Contratos,  Convênios  e  Licitações), conforme restrição 2 do Relatório Conclusivo nº 72/2017- DICAMI (fls. 471/506), com base no art. 308, II da Resolução 04/2002 - TCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa devido à não alimentação do sistema E-Contas, o que se encaixa na tipologia de 'Não envio de dados periódicos ao e-Contas'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Dispõe sobre a aplicação de multa por infração à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$ 1.096,03 por mês ou bimestre de competência em inobservância de prazos  legais,  totalizando R$  2.192,06 (Dois  mil,  cento  e  noventa  e dois  reais  e  seis  centavos)  que  devem  ser  recolhidos  na  esfera Estadual  para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ,  pelo atraso no envio do Relatório de Gestão Fiscal relativo ao 1º semestre, conforme  item  3  da  sugestão  de  multa  do  Relatório  nº  91/2016  DICREA  (fls.157/174),  e  ao  2º  semestre, conforme  restrição  23.3  do Relatório Conclusivo nº 72/2017 - DICAMI (fls. 471/506), com base no art. 308, II da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$ 1.096,03 por mês ou bimestre de competência em inobservância de prazos  legais,  totalizando R$  2.192,06 (Dois  mil,  cento  e  noventa  e dois  reais  e  seis  centavos)  que  devem  ser  recolhidos  na  esfera Estadual  para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ,  pelo atraso no envio do Relatório de Gestão Fiscal relativo ao 1º semestre, conforme  item  3  da  sugestão  de  multa  do  Relatório  nº  91/2016  DICREA  (fls.157/174),  e  ao  2º  semestre, conforme  restrição  23.3  do Relatório Conclusivo nº 72/2017 - DICAMI (fls. 471/506), com base no art. 308, II da Resolução 04/2002 - TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A aplicação de multa por atraso no envio do Relatório de Gestão Fiscal (RGF) é uma clara indicação de que a publicação do RREO não foi realizada conforme o estabelecido pelas normas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Dispõe sobre a aplicação de multa por infração à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$ 1.096,03 por mês ou bimestre de competência em inobservância de prazos legais, totalizando R$ 6.576,18 (Seis mil, quinhentos e setenta e seis reais e dezoito centavos) que devem ser recolhidos na esfera Estadual  para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ,  pelo atraso no envio dos Relatórios Resumidos de Execução Orçamentária relativos ao 1º, 2º, 3º, 4º e 5º bimestres, conforme item 1 da sugestão de  multa  do  Relatório  nº  91/2016-DICREA  (fls.157/174)  e  ao  6º bimestre conforme restrição 23.1 do Relatório Conclusivo nº 72/2017 DICAMI (fls. 471/506), com base no art. 308, II da Resolução 04/2002TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$ 1.096,03 por mês ou bimestre de competência em inobservância de prazos legais, totalizando R$ 6.576,18 (Seis mil, quinhentos e setenta e seis reais e dezoito centavos) que devem ser recolhidos na esfera Estadual  para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ,  pelo atraso no envio dos Relatórios Resumidos de Execução Orçamentária relativos ao 1º, 2º, 3º, 4º e 5º bimestres, conforme item 1 da sugestão de  multa  do  Relatório  nº  91/2016-DICREA  (fls.157/174)  e  ao  6º bimestre conforme restrição 23.1 do Relatório Conclusivo nº 72/2017 DICAMI (fls. 471/506), com base no art. 308, II da Resolução 04/2002TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "A aplicação de multa por atraso no envio dos Relatórios Resumidos de Execução Orçamentária (RREO) é uma clara indicação de que o envio dos dados do RREO não foi realizado conforme o estabelecido pelas normas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Dispõe sobre a aplicação de multa por infração à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$ 43.841,28 (Quarenta e três mil, oitocentos e quarenta e um reais evinte  e  oito  centavos)  que  devem  ser  recolhidos  na  esfera  Estadual para o órgão Encargos Gerais do Estado -SEFAZ, pelas impropriedades: 1, 3, 4, 5, 6, 9, 10, 11, 12, 13, 14, 15, 21, 23.2, 23.4 e 24 apontadas no Relatório Conclusivo nº 72/2017-DICAMI (fls. 471/506), por grave infração à norma legal, conforme disposto no art. 308, VI da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Almino Gonçalves de Albuquerque no valor de R$ 43.841,28 (Quarenta e três mil, oitocentos e quarenta e um reais evinte  e  oito  centavos)  que  devem  ser  recolhidos  na  esfera  Estadual para o órgão Encargos Gerais do Estado -SEFAZ, pelas impropriedades: 1, 3, 4, 5, 6, 9, 10, 11, 12, 13, 14, 15, 21, 23.2, 23.4 e 24 apontadas no Relatório Conclusivo nº 72/2017-DICAMI (fls. 471/506), por grave infração à norma legal, conforme disposto no art. 308, VI da Resolução 04/2002 - TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A aplicação de multa por impropriedades e grave infração à norma legal indica um descumprimento generalizado das normas de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Dispõe sobre a aplicação de multa por grave infração à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar em Alcance o Sr. Almino Gonçalves de Albuquerque no valor  de R$  482.164,95 (Quatrocentos  e  oitenta  e  dois  mil,  cento  e sessenta  e  quatro  reais  e  noventa  e  cinco  centavos)  que  devem  ser recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de Tapauá,  pelos  subitens  7.1,  7.2,  7.3,  7.4,  7.5,  7.6,  7.7,  7.8,  7.9,  7.10, 7.11, 7.12, 7.13, 7.14, 7.15 e 7.16 do Relatório Conclusivo nº 330/2016 DICOP (fls.356/470) pela não comprovação da execução dos subitens apontados",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Almino Gonçalves de Albuquerque no valor  de R$  482.164,95 (Quatrocentos  e  oitenta  e  dois  mil,  cento  e sessenta  e  quatro  reais  e  noventa  e  cinco  centavos)  que  devem  ser recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de Tapauá,  pelos  subitens  7.1,  7.2,  7.3,  7.4,  7.5,  7.6,  7.7,  7.8,  7.9,  7.10, 7.11, 7.12, 7.13, 7.14, 7.15 e 7.16 do Relatório Conclusivo nº 330/2016 DICOP (fls.356/470) pela não comprovação da execução dos subitens apontados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A determinação de alcance por não comprovação da execução dos subitens se enquadra na tipologia de 'Despesas sem comprovação'.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar em Alcance o Sr. Almino Gonçalves de Albuquerque no valor de R$ 3.246.182,11 (Três milhões, duzentos e quarenta e seis mil,  cento  e  oitenta  e  dois  reais  e  onze  centavos)  que  devem  ser recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de Tapauá,  pelas  restrições  16  -  17.1  a  17.6,  18  e  19  do  Relatório Conclusivo nº 72/2017- DICAMI (fls.471/506) pelos vícios contidos nos processos licitatórios dos itens apontados",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Almino Gonçalves de Albuquerque no valor de R$ 3.246.182,11 (Três milhões, duzentos e quarenta e seis mil,  cento  e  oitenta  e  dois  reais  e  onze  centavos)  que  devem  ser recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de Tapauá,  pelas  restrições  16  -  17.1  a  17.6,  18  e  19  do  Relatório Conclusivo nº 72/2017- DICAMI (fls.471/506) pelos vícios contidos nos processos licitatórios dos itens apontados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A determinação de alcance devido a vícios nos processos licitatórios está diretamente ligada à ausência de processo licitatório ou à dispensa/inexigibilidade sem amparo legal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à  próxima  Comissão  de  Inspeção,  que  fiscalizará  o exercício de 2016, que observe o que determina o art. 42 da LRF no que tange à contração de despesas pelo gestor em seu último ano de mandato e também verifique nas peças contábeis se houve a inscrição dos devedores na dívida ativa do Município, conforme a Restrição 7 e 8 do Relatório Conclusivo nº 72/2017- DICAMI (fls.471/506). Ainda em relação  à  Restrição  8  do  Relatório  Conclusivo  nº  72/2017-  DICAMI (fls.471/506),  que  a  Comissão  de  Inspeção  informe  aos  relatores  do Processo  nº  4328/2012  e  do  Processo  nº  10143/2013  a  respeito  da inconsistência encontrada.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  próxima  Comissão  de  Inspeção,  que  fiscalizará  o exercício de 2016, que observe o que determina o art. 42 da LRF no que tange à contração de despesas pelo gestor em seu último ano de mandato e também verifique nas peças contábeis se houve a inscrição dos devedores na dívida ativa do Município, conforme a Restrição 7 e 8 do Relatório Conclusivo nº 72/2017- DICAMI (fls.471/506).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho menciona a recomendação para que a próxima comissão de inspeção verifique se houve a inscrição dos devedores na dívida ativa do Município. Essa recomendação indica a necessidade de melhorar a gestão da dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LRF",
+              "artigo": "42",
+              "descricao": "Dispõe sobre as vedações aplicáveis em final de mandato."
+            }
+          ]
+        },
+        {
+          "trecho": "Ainda em relação  à  Restrição  8  do  Relatório  Conclusivo  nº  72/2017-  DICAMI (fls.471/506),  que  a  Comissão  de  Inspeção  informe  aos  relatores  do Processo  nº  4328/2012  e  do  Processo  nº  10143/2013  a  respeito  da inconsistência encontrada.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Este trecho não indica um problema concreto e sim uma ação de procedimento interno do TCE",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar ao Sr.  Almino  Gonçalves  de  Albuquerque ,  Prefeito Municipal  de  Tapauá,  que  adote  as  medidas  estabelecidas  na  Lei Complementar  Federal  nº  123/2006,  conforme  a  Restrição  20  do Relatório Conclusivo nº 72/2017- DICAMI (fls.471/506).",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr.  Almino  Gonçalves  de  Albuquerque ,  Prefeito Municipal  de  Tapauá,  que  adote  as  medidas  estabelecidas  na  Lei Complementar  Federal  nº  123/2006,  conforme  a  Restrição  20  do Relatório Conclusivo nº 72/2017- DICAMI (fls.471/506).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A7B",
+          "tipologia_irregularidade": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "descricao": "Ausência de Parecer Jurídico ao Aditivo.",
+          "justificativa_tipologia": "Recomendação para que o Prefeito adote medidas estabelecidas em lei, o que sugere uma deficiência na aplicação do tratamento diferenciado garantido às ME/EPP.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar  Federal  nº  123/2006",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

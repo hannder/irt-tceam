@@ -1,0 +1,142 @@
+{
+  "acordao": "45/2020",
+  "processo": "11806/2018",
+  "data_sessao": "4 de Fevereiro de 2020",
+  "orgao": "Unidade Gestora de Projetos Especiais - UGPE",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Claudemir  José  Andrade",
+    "Marcellus  José Barroso Campêlo"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Unidade  Gestora  de  Projetos  Especiais  (UGPE) , referente  ao exercício  de  2017,  sob  a  responsabilidade  do Sr. Marcellus  Jose Barroso Campêlo , Ordenador de Despesa no período de 01/01/2017 a 05/10/2017, e Sr. Claudemir José Andrade , Coordenador Executivo, Ordenador e Gestor no período de 06/10/2017 a 31/12/2017, nos  termos  do  art.  71,  II,  c/c  o  art.  75  da  Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Unidade  Gestora  de  Projetos  Especiais  (UGPE) , referente  ao exercício  de  2017,  sob  a  responsabilidade  do Sr. Marcellus  Jose Barroso Campêlo , Ordenador de Despesa no período de 01/01/2017 a 05/10/2017, e Sr. Claudemir José Andrade , Coordenador Executivo, Ordenador e Gestor no período de 06/10/2017 a 31/12/2017, nos  termos  do  art.  71,  II,  c/c  o  art.  75  da  Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A tipologia selecionada se refere a problemas na área Contábil, mais especificamente no Balanço Financeiro",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Estabelece normas sobre a organização e o funcionamento dos Tribunais de Contas dos Estados."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Define as competências do TCE/AM."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Dispõe sobre as competências do TCE/AM em relação à fiscalização e ao julgamento de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Regulamenta o processo de prestação de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Unidade Gestora de Projetos Especiais (UGPE) que se abstenha de efetuar procedimentos de indenização e que haja com primor nos procedimentos que diferenciam a Despesa de Exercícios Anteriores e Termo de Ajuste de Contas, pois a documentação acostada define os procedimentos contábeis, sendo DEA (Despesa de Exercícios Anteriores) contabiliza-se na 449092 e quando é TAC (Termo de Ajuste de Contas) se faz no lançamento 449093, como Despesas Indenizatórias., a fim de evitar a reincidência, o que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Unidade Gestora de Projetos Especiais (UGPE) que se abstenha de efetuar procedimentos de indenização e que haja com primor nos procedimentos que diferenciam a Despesa de Exercícios Anteriores e Termo de Ajuste de Contas, pois a documentação acostada define os procedimentos contábeis, sendo DEA (Despesa de Exercícios Anteriores) contabiliza-se na 449092 e quando é TAC (Termo de Ajuste de Contas) se faz no lançamento 449093, como Despesas Indenizatórias., a fim de evitar a reincidência, o que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A tipologia selecionada se refere a burla no pagamento a fornecedores",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "22, §1º",
+              "descricao": "Dispõe sobre as medidas a serem adotadas em caso de irregularidade nas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao Sr. Claudemir  José  Andrade e ao Sr. Marcellus José  Barroso  Campêlo, nos  termos  do  art.  24,  da  Lei  Estadual  nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr. Claudemir  José  Andrade e ao Sr. Marcellus José  Barroso  Campêlo, nos  termos  do  art.  24,  da  Lei  Estadual  nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A quitação dada aos responsáveis é um reconhecimento da conformidade em sua gestão contábil e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a quitação dos responsáveis após o julgamento das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Regulamenta o processo de prestação de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr. Claudemir  José  Andrade e  ao Sr. Marcellus José Barroso Barrêto dos termos do julgado",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr. Claudemir  José  Andrade e  ao Sr. Marcellus José Barroso Barrêto dos termos do julgado",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A ciência aos responsáveis garante que estejam cientes das decisões tomadas e de suas responsabilidades em relação à gestão financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os  presentes  autos,  após  o  cumprimento  das  devidas formalidades legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os  presentes  autos,  após  o  cumprimento  das  devidas formalidades legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O arquivamento dos autos representa a conclusão formal do processo e o encerramento das atividades relacionadas à prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

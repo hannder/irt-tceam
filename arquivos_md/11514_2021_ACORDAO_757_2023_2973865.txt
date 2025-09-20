@@ -1,0 +1,126 @@
+{
+  "acordao": "757/2023- TCE-TRIBUNAL PLENO",
+  "processo": "11514/2021",
+  "data_sessao": "02 de Maio de 2023",
+  "orgao": "Fundo Municipal de Previdência Social de Borba",
+  "municipio": "Borba",
+  "exercicio": "2020",
+  "responsavel": [
+    "Roseane Silva Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo  Municipal  de  Previdência Social de Borba que  seja obedecido os ditames da lei no que tange à forma individualizada por unidade de departamento. (item 'f' achado 02);",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundo  Municipal  de  Previdência Social de Borba que  seja obedecido os ditames da lei no que tange à forma individualizada por unidade de departamento.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "O trecho indica a necessidade de individualização no registro de bens, o que está relacionado a deficiências nos registros analíticos de bens permanentes.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de Borba que os ditames do inciso XXXVII do art. 2º da Res. 04/2016 sejam obedecidos no cumprimento de suas determinações, no que tange a prestação de contas e  ajustes  e  congêneres  e  seus  aditivos  firmados  no  exercício.  (item  'r' achado 02);",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundo Municipal de Previdência Social de Borba que os ditames do inciso XXXVII do art. 2º da Res. 04/2016 sejam obedecidos no cumprimento de suas determinações, no que tange a prestação de contas e ajustes e congêneres e seus aditivos firmados no exercício.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A recomendação se refere ao cumprimento de normas na prestação de contas anual, o que está diretamente ligado à tipologia de ausência de documentação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. 04/2016",
+              "artigo": "2º",
+              "descricao": "Normas sobre a prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de Borba que a distribuição seja realizada de forma eficiente com o registro de dados para quem e onde foi destinado o material. (item 'e' achado 12);",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundo Municipal de Previdência Social de Borba que a distribuição seja realizada de forma eficiente com o registro de dados para quem e onde foi destinado o material.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos.",
+          "justificativa_tipologia": "A recomendação se refere ao registro de distribuição de materiais, que está ligado ao controle de entrada e saída de objetos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de Borba que o registro  das  contribuições  dos  servidores,  bem  como  a  contribuição patronal sejam registradas, conforme o art. 1º VII da Lei nº 9.171/98 art. 18 da Portaria MPS nº 402/08 e arts. 12 a 15 da Portaria MPS nº 403/08, sob pena de multa em razão de ato praticado com grave infração à norma legal. (item 'e' achado 03);",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundo Municipal de Previdência Social de Borba que o registro das contribuições dos servidores, bem como a contribuição patronal sejam registradas, conforme o art. 1º VII da Lei nº 9.171/98 art. 18 da Portaria MPS nº 402/08 e arts. 12 a 15 da Portaria MPS nº 403/08, sob pena de multa em razão de ato praticado com grave infração à norma legal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A76B",
+          "tipologia_irregularidade": "Ausência de registro individualizado",
+          "descricao": "Foi identificado a ausência de registro individualizado das contribuições de cada servidor e da parte patronal.",
+          "justificativa_tipologia": "O trecho se refere à necessidade de registrar as contribuições de servidores, que está relacionado à tipologia de ausência de registro individualizado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 9.171/98",
+              "artigo": "1º",
+              "descricao": "Normas sobre registro de contribuições"
+            },
+            {
+              "norma": "Portaria MPS nº 402/08",
+              "artigo": "18",
+              "descricao": "Normas sobre registro de contribuições"
+            },
+            {
+              "norma": "Portaria MPS nº 403/08",
+              "artigo": "12 a 15",
+              "descricao": "Normas sobre registro de contribuições"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de Borba que o relatório  seja  elaborado  conforme  o  disposto  no  art.  3º,  V,  da  Portaria MPS nº 519/11, sob pena de multa por ato praticado com grave infração à norma legal. (achado 08);",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundo Municipal de Previdência Social de Borba que o relatório seja elaborado conforme o disposto no art. 3º, V, da Portaria MPS nº 519/11, sob pena de multa por ato praticado com grave infração à norma legal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A77B",
+          "tipologia_irregularidade": "Ausência de certificação por entidade autônoma",
+          "descricao": "Foi identificado ausência da comprovação de que o Gestor do FAPEN possua certificação organizada por entidade autônoma de reconhecida capacidade técnica e difusão no mercado de capitais brasileiros.",
+          "justificativa_tipologia": "Está relacionada com a ausencia de requisitos para o gestor do RPPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria MPS nº 519/11",
+              "artigo": "3º",
+              "descricao": "Requisitos para o relatório"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

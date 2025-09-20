@@ -1,0 +1,189 @@
+{
+  "acordao": "11/2021",
+  "processo": "11506/2017",
+  "data_sessao": "26 de Maio de 2021",
+  "orgao": "Prefeitura Municipal de Carauari",
+  "municipio": "Carauari",
+  "exercicio": "2016",
+  "responsavel": [
+    "Francisco Costa dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhar imediatamente cópia integral deste processo ao Ministério Público do Estado do Amazonas, considerando o disposto no art. 22 da Lei 8429, de 02 de junho de 1992, e também o seu art. 21, II, já que caracterizadas diversas condutas comissivas e omissivas da responsável  pelas  contas,  que  configuram,  inclusive,  atos  dolosos  de improbidade administrativa",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar imediatamente cópia integral deste processo ao Ministério Público do Estado do Amazonas, considerando o disposto no art. 22 da Lei 8429, de 02 de junho de 1992, e também o seu art. 21, II, já que caracterizadas diversas condutas comissivas e omissivas da responsável  pelas  contas,  que  configuram,  inclusive,  atos  dolosos  de improbidade administrativa",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A17A",
+          "tipologia_irregularidade": "Aplicação de 25% da receita vinculável na Manutenção e Desenvolvimento do Ensino",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A descrição da tipologia indica que a falha envolve o destino de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8429/1992",
+              "artigo": "22",
+              "descricao": "Dispõe sobre as sanções aplicáveis aos agentes públicos nos casos de enriquecimento ilícito no exercício de mandato, cargo, emprego ou função na administração pública direta, indireta ou fundacional."
+            },
+            {
+              "norma": "Lei 8429/1992",
+              "artigo": "21, II",
+              "descricao": "A aplicação das sanções previstas nesta lei depende:  II - da efetiva ocorrência de dano ao patrimônio público e de enriquecimento ilícito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  que  adote  as  medidas necessárias para a autuação  de  processos  a  serem  em  seguida submetidos ao julgamento deste Tribunal, com o carreamento a eles dos documentos e relatórios que se encontram nestes autos e que dão conta: dos contratos 002/2016 e 006/2016 já comprovadamente irregulares, quer por ilegais, ou por ilegítimos ou antieconômicos, para o necessário exercício da competência que lhe é fixada no art.  71,  VIII,  IX,  X,  XI  e  seu  parágrafo  primeiro,  da  Constituição Federal;  no  art.  40,  VII,  VIII,  IX  e  seus  parágrafos  primeiro e segundo, da Constituição do Estado; nos artigos 32 a 42 da Lei 2423, de 10 de dezembro de 1996 (Lei Orgânica do Tribunal de Contas do Estado do Amazonas), no art. 18, IX, XII, XIII, XIV e seus  parágrafos  primeiro e segundo,  da  Lei Complementar Estadual  06,  de  22  de  janeiro  de  1991;  e  no  art.  113  e  seus parágrafos da Lei 8666, de 21 de junho de 1993, dentre outros",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  de  Controle  Externo  que  adote  as  medidas necessárias para a autuação  de  processos  a  serem  em  seguida submetidos ao julgamento deste Tribunal, com o carreamento a eles dos documentos e relatórios que se encontram nestes autos e que dão conta: dos contratos 002/2016 e 006/2016 já comprovadamente irregulares, quer por ilegais, ou por ilegítimos ou antieconômicos, para o necessário exercício da competência que lhe é fixada no art.  71,  VIII,  IX,  X,  XI  e  seu  parágrafo  primeiro,  da  Constituição Federal;  no  art.  40,  VII,  VIII,  IX  e  seus  parágrafos  primeiro e segundo, da Constituição do Estado; nos artigos 32 a 42 da Lei 2423, de 10 de dezembro de 1996 (Lei Orgânica do Tribunal de Contas do Estado do Amazonas), no art. 18, IX, XII, XIII, XIV e seus  parágrafos  primeiro e segundo,  da  Lei Complementar Estadual  06,  de  22  de  janeiro  de  1991;  e  no  art.  113  e  seus parágrafos da Lei 8666, de 21 de junho de 1993, dentre outros",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "A descrição da tipologia indica que a falha envolve despesas não autorizadas em contratos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, VIII",
+              "descricao": "Julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público federal, e as contas daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário público"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, IX",
+              "descricao": "Realizar, por iniciativa própria ou mediante solicitação do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, do Tribunal de Contas da União ou de comissão técnica ou de inquérito, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário e demais entidades referidas no inciso II;"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, X",
+              "descricao": "Substanciar o processo de fiscalização de que trata o inciso VI do art. 49 desta Constituição, na forma da lei;"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, XI",
+              "descricao": "Acompanhar a gestão orçamentária e financeira da União;"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, §1º",
+              "descricao": "Nos termos da lei, o Tribunal de Contas prestará as informações solicitadas pelo Congresso Nacional ou por qualquer de suas Casas, sobre a fiscalização contábil, financeira e orçamentária e sobre resultados de auditorias e inspeções realizadas."
+            },
+            {
+              "norma": "Constituição do Estado",
+              "artigo": "40, VII",
+              "descricao": "Fiscalizar a aplicação de quaisquer recursos repassados pelo Estado a Municípios, mediante convênio, acordo, ajuste ou outros instrumentos congêneres."
+            },
+            {
+              "norma": "Constituição do Estado",
+              "artigo": "40, VIII",
+              "descricao": "Realizar inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial nas unidades administrativas dos Poderes do Estado e das entidades da administração indireta, nelas compreendidas as fundações e sociedades instituídas ou mantidas pelo Poder Público estadual."
+            },
+            {
+              "norma": "Constituição do Estado",
+              "artigo": "40, IX",
+              "descricao": "Decidir sobre as prestações de contas dos administradores e demais responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Constituição do Estado",
+              "artigo": "40, §1º",
+              "descricao": "O Tribunal de Contas prestará as informações solicitadas pela Assembleia Legislativa, ou por qualquer de suas Comissões, sobre a fiscalização contábil, financeira e orçamentária, e sobre resultados de auditorias e inspeções realizadas."
+            },
+            {
+              "norma": "Constituição do Estado",
+              "artigo": "40, §2º",
+              "descricao": "As decisões do Tribunal de Contas de que resulte imputação de débito ou multa terão eficácia de título executivo."
+            },
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "32 a 42",
+              "descricao": "Dispõe sobre a Organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei Complementar Estadual 06/1991",
+              "artigo": "18, IX",
+              "descricao": "Julgar, nos termos da Constituição do Estado, as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos, das unidades dos Poderes do Estado e das entidades da administração indireta, nelas compreendidas as fundações e sociedades instituídas ou mantidas pelo Poder Público estadual, sem prejuízo do controle interno;"
+            },
+            {
+              "norma": "Lei Complementar Estadual 06/1991",
+              "artigo": "18, XII",
+              "descricao": "Realizar, por iniciativa própria ou mediante solicitação da Assembleia Legislativa, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades dos Poderes do Estado e das entidades da administração indireta, nelas compreendidas as fundações e sociedades instituídas ou mantidas pelo Poder Público estadual;"
+            },
+            {
+              "norma": "Lei Complementar Estadual 06/1991",
+              "artigo": "18, XIII",
+              "descricao": "Decidir sobre as prestações de contas dos administradores e demais responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Lei Complementar Estadual 06/1991",
+              "artigo": "18, XIV",
+              "descricao": "Assinar prazo para que o órgão ou entidade adote as providências necessárias ao exato cumprimento da lei, se verificada ilegalidade."
+            },
+            {
+              "norma": "Lei Complementar Estadual 06/1991",
+              "artigo": "18, §1º e 2º",
+              "descricao": "As decisões do Tribunal de Contas de que resulte imputação de débito ou multa terão eficácia de título executivo, na forma estabelecida em lei."
+            },
+            {
+              "norma": "Lei 8666/1993",
+              "artigo": "113",
+              "descricao": "O não cumprimento do disposto nesta Lei, salvo motivo de força maior, devidamente justificado, sujeitará os responsáveis às sanções previstas nesta Lei e demais normas pertinentes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  que  adote  as  medidas necessárias para a autuação  de  processos  a  serem  em  seguida submetidos ao julgamento deste Tribunal, com o carreamento a eles dos documentos e relatórios que se encontram nestes autos e que dão conta: do descumprimento da legislação de responsabilidade fiscal, para o imprescindível exercício da competência que lhe é fixada nos art. 59, parágrafos  primeiro  e  segundo  e no art.  73-A,  da  Lei Complementar 101, de 04 de maio de 2000.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  de  Controle  Externo  que  adote  as  medidas necessárias para a autuação  de  processos  a  serem  em  seguida submetidos ao julgamento deste Tribunal, com o carreamento a eles dos documentos e relatórios que se encontram nestes autos e que dão conta: do descumprimento da legislação de responsabilidade fiscal, para o imprescindível exercício da competência que lhe é fixada nos art. 59, parágrafos  primeiro  e  segundo  e no art.  73-A,  da  Lei Complementar 101, de 04 de maio de 2000.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A descrição da tipologia reflete o descumprimento da legislação fiscal",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar 101/2000",
+              "artigo": "59, §1 e 2",
+              "descricao": "Normas para verificação e correção de desvios nos limites de despesas com pessoal"
+            },
+            {
+              "norma": "Lei Complementar 101/2000",
+              "artigo": "73-A",
+              "descricao": "Disposições sobre operações de crédito dos entes subnacionais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Francisco Costa dos Santos e demais interessados, bem como seus causídicos, com cópia do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Francisco Costa dos Santos e demais interessados, bem como seus causídicos, com cópia do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A tipologia abrange a comunicação formal do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

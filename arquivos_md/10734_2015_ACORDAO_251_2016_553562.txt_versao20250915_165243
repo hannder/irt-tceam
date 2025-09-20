@@ -1,0 +1,287 @@
+{
+  "acordao": "251/2016",
+  "processo": "10734/2015",
+  "data_sessao": "23 de março de 2016",
+  "orgao": "Câmara Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2014",
+  "responsavel": [
+    "Francisco Elaime Monteiro da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de Iranduba ,  sob  a  responsabilidade do Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara  Municipal, exercício de 2014,  nos termos do inciso  II do art. 1º, inciso II do art. 19 e alínea 'b' do inciso III do art. 22, da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de Iranduba ,  sob  a  responsabilidade do Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara  Municipal, exercício de 2014,  nos termos do inciso  II do art. 1º, inciso II do art. 19 e alínea 'b' do inciso III do art. 22, da Lei nº 2.423/96",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "A prestação de contas anual da Câmara Municipal de Iranduba foi julgada irregular, indicando uma falta de comprovação ou inconsistência nos valores registrados na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial referente ao exercício de 2014.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A tipologia reflete a ausência de comprovação de valores no balanço patrimonial, evidenciando falhas na gestão contábil e financeira.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "19",
+              "descricao": "Refere-se aos responsáveis por contas consideradas irregulares."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Estabelece os termos para julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Adotar providências com vista a equacionar a situação de acúmulo de cargos  públicos,  a  qual  já  fora  apontada  nos  dois  exercícios  que antecederam ao de 2014 e até a presente data permanece insolúvel, conforme se extrai da irregularidade 2.3 do item 2 do Relatório/Proposta de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar providências com vista a equacionar a situação de acúmulo de cargos  públicos,  a  qual  já  fora  apontada  nos  dois  exercícios  que antecederam ao de 2014 e até a presente data permanece insolúvel, conforme se extrai da irregularidade 2.3 do item 2 do Relatório/Proposta de Voto",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "A determinação exige que a Câmara Municipal de Iranduba tome medidas para resolver o problema persistente de acúmulo ilegal de cargos públicos, que tem sido apontado em auditorias anteriores.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Proposta de Voto\"; justificativa=\"A determinação visa corrigir uma irregularidade persistente, indicando uma falha estrutural na gestão de pessoal.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Adotar providencias para o correto preenchimento do Sistema GEFIS e para os documentos que compõem a Prestação de Contas Anuais, nos termos da Res. TCE n.º 06/2009, bem como da Res. TCE n.º 15/2013 com as alterações promovidas pela Res. TCE n.º 24/2013, sob pena de, em caso de reincidência, incorrer na multa do art. 308, IV, 'b' da Res. TCE n.º 04/2002, qual seja, reincidência no descumprimento de determinação  do  Tribunal (irregularidade 3.1  e  3.2  do  item  3  do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar providencias para o correto preenchimento do Sistema GEFIS e para os documentos que compõem a Prestação de Contas Anuais, nos termos da Res. TCE n.º 06/2009, bem como da Res. TCE n.º 15/2013 com as alterações promovidas pela Res. TCE n.º 24/2013, sob pena de, em caso de reincidência, incorrer na multa do art. 308, IV, 'b' da Res. TCE n.º 04/2002, qual seja, reincidência no descumprimento de determinação  do  Tribunal (irregularidade 3.1  e  3.2  do  item  3  do Relatório/Proposta de Voto)",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "A determinação exige que a Câmara Municipal de Iranduba assegure o preenchimento correto do Sistema GEFIS e dos documentos da Prestação de Contas Anual, conforme as resoluções especificadas do TCE, sob pena de multa por reincidência no descumprimento das determinações do Tribunal.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Proposta de Voto\"; justificativa=\"A tipologia reflete a ausência de comprovação de valores no balanço patrimonial, evidenciando falhas na gestão contábil e financeira.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. TCE n.º 06/2009",
+              "artigo": "Não consta",
+              "descricao": "Estabelece normas sobre a prestação de contas anual."
+            },
+            {
+              "norma": "Res. TCE n.º 15/2013",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre o Sistema GEFIS."
+            },
+            {
+              "norma": "Res. TCE n.º 24/2013",
+              "artigo": "Não consta",
+              "descricao": "Altera a Res. TCE n.º 15/2013."
+            },
+            {
+              "norma": "Res. TCE n.º 04/2002",
+              "artigo": "308",
+              "descricao": "Define as multas aplicáveis por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Adotar  providências  para  a  atualização  do  Portal  de  Transparência existente e dar cumprimento ao que determinam os arts. 48 e 48-A da Lei  Complementar  n.º  101/2000  com  a  redação  dada  pela  Lei  n.º 131/2009 a fim de permitir maior controle social e por parte do Tribunal de Contas /AM (irregularidade 3.3 do item 3 do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar  providências  para  a  atualização  do  Portal  de  Transparência existente e dar cumprimento ao que determinam os arts. 48 e 48-A da Lei  Complementar  n.º  101/2000  com  a  redação  dada  pela  Lei  n.º 131/2009 a fim de permitir maior controle social e por parte do Tribunal de Contas /AM (irregularidade 3.3 do item 3 do Relatório/Proposta de Voto)",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "A determinação exige a atualização do Portal de Transparência da Câmara Municipal de Iranduba, em conformidade com a Lei Complementar n.º 101/2000 e a Lei n.º 131/2009, para permitir maior controle social e fiscalização pelo Tribunal de Contas.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Proposta de Voto\"; justificativa=\"A determinação visa corrigir a ausência de informações no portal de transparência, prejudicando o controle social.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "48",
+              "descricao": "Dispõe sobre a transparência da gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "48-A",
+              "descricao": "Complementa as disposições sobre transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei n.º 131/2009",
+              "artigo": "Não consta",
+              "descricao": "Altera a Lei Complementar n.º 101/2000 para aumentar a transparência da gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar  que  a  Câmara  Municipal  mantenha  os  Relatórios  de Gestão Fiscal e seus Anexos, nos termos dos arts. 54 e 55, I, II e III da Lei de Responsabilidade Fiscal (LC n.º 101/2000) devidamente publicados  e  assinados disponíveis  à  Comissão  de Inspeção  na ocasião das inspeções ordinárias do Tribunal de Contas quando foram solicitados, sob pena de incorrer na multa descrita no art. 308,  I, 'b' (sonegação  de  processo  ou  documento,  em  inspeções  ou  auditorias realizadas pelo Tribunal) ou  IV, 'b', (reincidência no descumprimento de  determinação  do  Tribunal),  ambas  da  Res.  TCE  n.º  04/2002 (irregularidade 3.6 e 3.7 do item 3 do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  que  a  Câmara  Municipal  mantenha  os  Relatórios  de Gestão Fiscal e seus Anexos, nos termos dos arts. 54 e 55, I, II e III da Lei de Responsabilidade Fiscal (LC n.º 101/2000) devidamente publicados  e  assinados disponíveis  à  Comissão  de Inspeção  na ocasião das inspeções ordinárias do Tribunal de Contas quando foram solicitados, sob pena de incorrer na multa descrita no art. 308,  I, 'b' (sonegação  de  processo  ou  documento,  em  inspeções  ou  auditorias realizadas pelo Tribunal) ou  IV, 'b', (reincidência no descumprimento de  determinação  do  Tribunal),  ambas  da  Res.  TCE  n.º  04/2002 (irregularidade 3.6 e 3.7 do item 3 do Relatório/Proposta de Voto)",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "A determinação exige que a Câmara Municipal de Iranduba mantenha os Relatórios de Gestão Fiscal e seus Anexos devidamente publicados e assinados, em conformidade com a Lei de Responsabilidade Fiscal, sob pena de multa.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Proposta de Voto\"; justificativa=\"A determinação visa garantir a publicação e disponibilidade dos relatórios de gestão fiscal, essenciais para o controle e a transparência das contas públicas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal (LC n.º 101/2000)",
+              "artigo": "54",
+              "descricao": "Dispõe sobre o Relatório de Gestão Fiscal."
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal (LC n.º 101/2000)",
+              "artigo": "55",
+              "descricao": "Estabelece os limites e condições para as despesas com pessoal."
+            },
+            {
+              "norma": "Res. TCE n.º 04/2002",
+              "artigo": "308",
+              "descricao": "Define as multas aplicáveis por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais  e  vinte  e  oito  centavos),  nos  termos  do  inciso  VI  do  art.  308  da Resolução  nº  4/2002  (RITCE/AM),  em  decorrência  de  atos  praticados com grave infração às normas legais (irregularidades nº 2.1, 2.2, 2.5, 3.3, 3.4 e 3.5 do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais  e  vinte  e  oito  centavos),  nos  termos  do  inciso  VI  do  art.  308  da Resolução  nº  4/2002  (RITCE/AM),  em  decorrência  de  atos  praticados com grave infração às normas legais (irregularidades nº 2.1, 2.2, 2.5, 3.3, 3.4 e 3.5 do Relatório/Proposta de Voto)",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Aplicação de multa ao Sr. Francisco Elaime Monteiro da Silva, ordenador de despesas da Câmara Municipal, no valor de R$ 43.841,28 devido a atos praticados com grave infração às normas legais, conforme especificado no relatório.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Proposta de Voto\"; justificativa=\"A multa é aplicada devido a graves infrações às normas legais, o que pode indicar uma tentativa de burla ao processo legal de pagamento.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Define as multas aplicáveis por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do inciso III do art. 54 da Lei nº 2.423/96 c/c o inciso V do art. 308 da Resolução nº 04/2002  - TCE/AM, em decorrência de ato antieconômico injustificado, (irregularidades nº 2.4 do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do inciso III do art. 54 da Lei nº 2.423/96 c/c o inciso V do art. 308 da Resolução nº 04/2002  - TCE/AM, em decorrência de ato antieconômico injustificado, (irregularidades nº 2.4 do Relatório/Proposta de Voto)",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Aplicação de multa ao Sr. Francisco Elaime Monteiro da Silva, ordenador de despesas, no valor de R$ 4.384,12 devido a ato antieconômico injustificado, conforme especificado no relatório.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Proposta de Voto\"; justificativa=\"A multa é aplicada devido a um ato antieconômico injustificado, que pode indicar a falta de licitação em casos onde era obrigatória.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Define as multas aplicáveis por irregularidades."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "308",
+              "descricao": "Define as multas aplicáveis por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do inciso VII do art. 54 da Lei nº. 2.423/96 c/c inciso IV, alínea 'b'  do art. 308 da Resolução nº 04/2002- TCE/AM, em decorrência  de  reincidência  no  descumprimento  de  determinação  do Tribunal, (irregularidade 2.3 do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do inciso VII do art. 54 da Lei nº. 2.423/96 c/c inciso IV, alínea 'b'  do art. 308 da Resolução nº 04/2002- TCE/AM, em decorrência  de  reincidência  no  descumprimento  de  determinação  do Tribunal, (irregularidade 2.3 do Relatório/Proposta de Voto)",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Aplicação de multa ao Sr. Francisco Elaime Monteiro da Silva, ordenador de despesas, no valor de R$ 4.384,12 devido à reincidência no descumprimento de determinação do Tribunal, conforme especificado no relatório.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório/Proposta de Voto\"; justificativa=\"A multa é aplicada devido à reincidência no descumprimento de determinação do Tribunal, indicando uma falha contínua no controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2.423/96",
+              "artigo": "54",
+              "descricao": "Define as multas aplicáveis por irregularidades."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE/AM",
+              "artigo": "308",
+              "descricao": "Define as multas aplicáveis por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Fixar  o  prazo  de  30  (trinta)  dias para  o  recolhimento  aos  cofres  da Fazenda Estadual do valor das multas impostas, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96, c/c o §4° do art. 174 da Resolução 4/2002 (RI-TCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar  o  prazo  de  30  (trinta)  dias para  o  recolhimento  aos  cofres  da Fazenda Estadual do valor das multas impostas, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96, c/c o §4° do art. 174 da Resolução 4/2002 (RI-TCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei 2.423/96)",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "A determinação impõe um prazo de 30 dias para o recolhimento das multas aplicadas aos cofres da Fazenda Estadual, com a devida comprovação perante o Tribunal, sob pena de correção monetária.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação estabelece o prazo para o recolhimento das multas, não indicando diretamente uma irregularidade, mas sim um procedimento para regularizar a situação após a aplicação da sanção.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72",
+              "descricao": "Dispõe sobre o processo de tomada de contas no âmbito do Tribunal de Contas do Amazonas."
+            },
+            {
+              "norma": "Resolução 4/2002 (RI-TCE/AM)",
+              "artigo": "174",
+              "descricao": "Regulamenta os procedimentos relativos à execução das decisões do Tribunal de Contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Estabelece as normas para a atualização monetária dos débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Remeter os autos à DICREX para que efetue os procedimentos previstos no art. 3º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução.",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeter os autos à DICREX para que efetue os procedimentos previstos no art. 3º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Os autos devem ser encaminhados à DICREX para que sejam seguidos os procedimentos padrão determinados pela Resolução 3/2011-TCE, garantindo o acompanhamento devido.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação direciona os autos para a DICREX seguir os procedimentos padrão, visando o acompanhamento adequado, sem indicar diretamente uma irregularidade, mas visando a regularização do processo.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "3º",
+              "descricao": "Estabelece os procedimentos a serem seguidos pela DICREX."
+            },
+            {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "5º",
+              "descricao": "Estabelece normas sobre o acompanhamento dos processos pela DICREX."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

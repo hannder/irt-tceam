@@ -1,0 +1,211 @@
+{
+  "acordao": "1394/2021",
+  "processo": "11735/2021",
+  "data_sessao": "14 de Dezembro de 2021",
+  "orgao": "Policlínica Antônio Aleixo",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "José Cesar de Carvalho"
+  ],
+  "itens": [
+    {
+      "tipo": "regularidade",
+      "descricao": "Julgar  regular as  contas  da  Policlínica  Antônio  Aleixo,  referente  ao exercício de 2020, de responsabilidade do Sr. José Cesar de Carvalho , gestor e ordenador de despesas, com fundamento no art. 22, inciso I e art.  23,  da  Lei  nº  2.423/96  c/c  art.  5°,  II,  da  Resolução  n°  04/2002  TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular as  contas  da  Policlínica  Antônio  Aleixo,  referente  ao exercício de 2020, de responsabilidade do Sr. José Cesar de Carvalho , gestor e ordenador de despesas, com fundamento no art. 22, inciso I e art.  23,  da  Lei  nº  2.423/96  c/c  art.  5°,  II,  da  Resolução  n°  04/2002  TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "Este trecho se refere ao julgamento das contas como regulares, o que não indica, por si só, uma irregularidade. No entanto, a regularidade das contas está intrinsecamente relacionada à correta contabilização e apresentação do balanço financeiro, o que justifica a escolha desta tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, inciso I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências."
+            },
+            {
+              "norma": "Resolução n° 04/2002 TCE/AM",
+              "artigo": "5°, II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "quitação",
+      "descricao": "Dar quitação ao Sr. José Cesar de Carvalho , de acordo com art. 23, da Lei nº 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. José Cesar de Carvalho , de acordo com art. 23, da Lei nº 2.423/96;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A quitação está relacionada com o balanço financeiro do exercício, e esta tipologia reflete a necessidade de regularização e correta apresentação das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar ao atual gestor(a) da Policlínica Antônio Aleixo que: a)  Atente, nos próximos exercícios, ao disposto na Resolução nº 13/2015, devendo  os  referidos  documentos  serem  encaminhados  por  meio  do sistema e-Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente, nos próximos exercícios, ao disposto na Resolução nº 13/2015, devendo  os  referidos  documentos  serem  encaminhados  por  meio  do sistema e-Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação refere-se ao envio de documentos por meio do sistema e-Contas, e o não envio desses dados configura a tipologia selecionada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "Não consta",
+              "descricao": "Estabelece procedimentos para o envio de informações ao TCE/AM por meio eletrônico (e-Contas)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar ao atual gestor(a) da Policlínica Antônio Aleixo que: b) Atente ao disposto no art. 2º, da Resolução n.º 05/1990 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente ao disposto no art. 2º, da Resolução n.º 05/1990 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação de atentar ao art. 2º da Resolução n.º 05/1990 está relacionada com a documentação e procedimentos a serem seguidos na gestão, e o não cumprimento desses procedimentos afeta o controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 05/1990",
+              "artigo": "2º",
+              "descricao": "Dispõe sobre a documentação necessária para a prestação de contas anual no TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar ao atual gestor(a) da Policlínica Antônio Aleixo que: c) Atente ao disposto no art. 10, I e III, da Lei n.º 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente ao disposto no art. 10, I e III, da Lei n.º 2.423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A9B",
+          "tipologia_irregularidade": "Omissão do Responsável pela Unidade de Controle Interno",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "O art. 10 da Lei n.º 2.423/1996 trata das responsabilidades do gestor, incluindo a prestação de contas e a supervisão dos atos praticados, e o não cumprimento dessas responsabilidades configura uma omissão do responsável pela unidade de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "10, I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências."
+            },
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "10, III",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar que a próxima Comissão  de  Inspeção  na Central de Medicamentos realize a devida apuração dos quantitativos não atendidos de cada Unidade de Saúde, promovendo, desta forma, auditoria específica  no  controle  de  materiais  para  o  correto  abastecimento  da saúde em todo o estado do Amazonas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que a próxima Comissão  de  Inspeção  na Central de Medicamentos realize a devida apuração dos quantitativos não atendidos de cada Unidade de Saúde, promovendo, desta forma, auditoria específica  no  controle  de  materiais  para  o  correto  abastecimento  da saúde em todo o estado do Amazonas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para realizar uma auditoria específica no controle de materiais indica que o controle interno é insuficientemente implementado ou estruturado, justificando a escolha desta tipologia.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar a  expedição  de  Ofício  à  SES  para  que  seja  cientificada  a respeito  das  dificuldades  da  Policlínica  e  busque  promover  repasses orçamentários para o custeio de Investimentos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a  expedição  de  Ofício  à  SES  para  que  seja  cientificada  a respeito  das  dificuldades  da  Policlínica  e  busque  promover  repasses orçamentários para o custeio de Investimentos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "A determinação para expedir um ofício à SES para que promova repasses orçamentários para o custeio de investimentos sugere uma falta de planejamento orçamentário na alocação de recursos para a Policlínica.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar ciência ao Sr. José Cesar de Carvalho e demais interessados;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. José Cesar de Carvalho e demais interessados",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ação de dar ciência aos responsáveis, embora não seja uma irregularidade em si, está relacionada à necessidade de garantir a implementação e a estruturação do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "arquivamento",
+      "descricao": "Arquivar o  processo,  após  cumpridas  as  determinações,  nos  termos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  processo,  após  cumpridas  as  determinações,  nos  termos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O arquivamento do processo, embora não seja uma irregularidade em si, está relacionado à necessidade de garantir a implementação e a estruturação do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

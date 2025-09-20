@@ -1,0 +1,172 @@
+{
+  "acordao": "78/2023",
+  "processo": "11922/2020",
+  "data_sessao": "13 de Junho de 2023",
+  "orgao": "Prefeitura Municipal de Amaturá",
+  "municipio": "Amaturá",
+  "exercicio": "2019",
+  "responsavel": [
+    "Joaquim Francisco da Silva Corado"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o encaminhamento deste Parecer Prévio, publicado e acompanhado de cópias integrais do presente processo, à Câmara Municipal de Amaturá, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  deste  Parecer  Prévio,  publicado  e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Amaturá, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO",
+          "justificativa_tipologia": "A determinação encaminha o processo para a Câmara Municipal para julgamento das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "127",
+              "descricao": "Competência para julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Amaturá, na pessoa de seu atual gestor e ordenador de despesas:Cumprimento de prazos de envio ao TCE/AM e de publicação, inclusive no Portal da Transparência do RREO (bimestral) e do RGF (semestral ou quadrimestral);",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumprimento  de  prazos  de  envio  ao  TCE/AM  e  de  publicação, inclusive  no  Portal  da  Transparência  do  RREO (bimestral)  e  do RGF (semestral ou quadrimestral)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "Recomendação para o cumprimento dos prazos de envio e publicação dos relatórios RREO e RGF, essenciais para a transparência e o controle externo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Amaturá, na pessoa de seu atual gestor e ordenador de despesas: Cumprimento de prazo e o envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumprimento de prazo e o envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Recomendação para o cumprimento dos prazos e envio dos documentos nas prestações de contas, garantindo a regularidade e a transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Amaturá, na pessoa de seu atual gestor e ordenador de despesas: O disposto no art. 48, caput, da Lei Complementar 101/2000 com redação a Lei Complementar nº 131/2009, disponibilizando, em tempo real de forma organizada, a integralidade dos processos licitatórios e demais atos relativos à realização de despesas;",
+      "trechos_identificados": [
+        {
+          "trecho": "O disposto no art. 48, caput, da Lei Complementar 101/2000 com redação  a  Lei  Complementar  nº  131/2009, disponibilizando, em tempo real  de forma organizada, a integralidade  dos  processos licitatórios e demais atos relativos à realização de despesas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "Recomendação para disponibilizar os processos licitatórios no portal da transparência, conforme a LRF e a Lei Complementar nº 131/2009, promovendo a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar 101/2000",
+              "artigo": "48",
+              "descricao": "Transparência na gestão fiscal"
+            },
+            {
+              "norma": "Lei Complementar nº 131/2009",
+              "artigo": "Não aplicável",
+              "descricao": "Alterações para aumentar a transparência fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Amaturá, na pessoa de seu atual gestor e ordenador de despesas: Disponibilização tempestiva e útil das informações contábeis, financeiras e econômicas no Portal da Transparência do município, inclusive relativas ao exercício em  questão em atenção a Lei nº 12.527/2011-LAI.",
+      "trechos_identificados": [
+        {
+          "trecho": "Disponibilização tempestiva e útil das informações contábeis, financeiras e econômicas no Portal da Transparência do município, inclusive relativas ao exercício em  questão em atenção a Lei nº 12.527/2011-LAI",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "Recomendação para disponibilizar informações contábeis, financeiras e econômicas no Portal da Transparência do município, em atenção à Lei de Acesso à Informação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Acesso à Informação (LAI)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência dos termos deste Parecer Prévio ao Sr. Joaquim Francisco da Silva Corado e ao seu advogado constituído nos autos, cf. Procuração de fl. 770, bem como à Prefeitura Municipal de Amaturá.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência dos termos deste Parecer Prévio ao Sr. Joaquim Francisco da Silva Corado e ao seu advogado constituído nos autos, cf. Procuração de fl. 770, bem como à Prefeitura Municipal de Amaturá.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A39C",
+          "tipologia_irregularidade": "Não há informações sobre o atendimento presencial pela Ouvidoria (Indicação de endereço físico, telefone e e-mail da unidade responsável, além do horário de funcionamento)",
+          "descricao": "Não foram encontradas informações sobre o atendimento presencial da Ouvidoria, como horários e endereço para atendimento de demandas.",
+          "justificativa_tipologia": "A deliberação apenas dá ciência ao responsável e à prefeitura sobre os termos do parecer.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  Geral  de  Controle  Externo  -  SECEX  que adote as medidas necessárias para a autuação de processos apartados, que deverão ser devidamente instruídos, com a documentação constante destes autos, respeitando a competência de cada órgão técnico, a fim de que este TCE/AM aprecie as irregularidades, impropriedades e restrições identificadas nas contas de Gestão, de responsabilidade  do  Sr. Joaquim  Francisco  da  Silva Corado - Prefeito de Amaturá/AM, no exercício de 2019, nos achados não  saneados  no  Relatório  Conclusivo  da  DICAMI,  da  DICOP  e  da DICREA,  considerando as observações feitas pelo representante ministerial e por este relator no tocante a tais atos de gestão;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  Geral  de  Controle  Externo  -  SECEX  que adote as medidas necessárias para a autuação de processos apartados, que deverão ser devidamente instruídos, com a documentação constante destes autos, respeitando a competência de cada órgão técnico, a fim de que este TCE/AM aprecie as irregularidades, impropriedades e restrições identificadas nas contas de Gestão, de responsabilidade  do  Sr. Joaquim  Francisco  da  Silva Corado - Prefeito de Amaturá/AM, no exercício de 2019, nos achados não  saneados  no  Relatório  Conclusivo  da  DICAMI,  da  DICOP  e  da DICREA,  considerando as observações feitas pelo representante ministerial e por este relator no tocante a tais atos de gestão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Determinação para autuação de processos apartados devido a irregularidades não sanadas, indicando deficiências no controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar Arquivar os  autos  após  o  cumprimento  de  todas  as  formalidades legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os  autos  após  o  cumprimento  de  todas  as  formalidades legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO",
+          "justificativa_tipologia": "A determinação arquiva os autos após o cumprimento das formalidades legais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

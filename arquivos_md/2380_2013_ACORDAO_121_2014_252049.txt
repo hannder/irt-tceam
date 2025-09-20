@@ -1,0 +1,53 @@
+{
+  "acordao": "121/2014",
+  "processo": "2380/2013",
+  "data_sessao": "06 de março de 2014",
+  "orgao": "Penitenciária Feminina de Manaus",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Suely Borges de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR COM RESSALVAS as contas relativas ao exercício de 2012, de responsabilidade da Sra. Suely Borges Oliveira, nos termos do art. 22, inciso II da Lei nº2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR COM RESSALVAS as contas relativas ao exercício de 2012, de responsabilidade da Sra. Suely Borges Oliveira, nos termos do art. 22, inciso II da Lei nº2423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação expressa o julgamento das contas, que foram consideradas 'regulares com ressalvas'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar que a origem observe rigorosamente as normas legais de natureza contábil, sob pena de sanção em caso de reincidência nas próximas prestações de contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar que a origem observe rigorosamente as normas legais de natureza contábil, sob pena de sanção em caso de reincidência nas próximas prestações de contas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A recomendação para observar as normas contábeis sugere deficiências na aplicação dessas normas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

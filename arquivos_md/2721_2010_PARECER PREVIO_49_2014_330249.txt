@@ -1,0 +1,12 @@
+{
+  "acordao": "49/2014",
+  "processo": "2721/2010",
+  "data_sessao": "29 de outubro de 2014",
+  "orgao": "Prefeitura Municipal de São Paulo de Olivença",
+  "municipio": "São Paulo de Olivença",
+  "exercicio": "2009",
+  "responsavel": [
+    "Raimundo Nonato Souza Martins"
+  ],
+  "itens": []
+}

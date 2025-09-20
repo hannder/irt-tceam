@@ -1,0 +1,113 @@
+{
+  "acordao": "845/2016",
+  "processo": "1628/2015",
+  "data_sessao": "11 de Outubro de 2016",
+  "orgao": "Secretaria Executiva Adjunta - SEXAD",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Cícero Romão de Souza Neto",
+    "Antônio Ferreira do Norte Filho",
+    "Carliomar Barros Brandão"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas da Secretaria Executiva Adjunta - SEXAD/SEJUS, exercício de 2014 sob a responsabilidade do Sr. Cícero Romão de Souza Neto, Secretário Executivo de Justiça e Direitos Humanos, e Ordenador de Despesas (período de 24/01/2014 a 31/12/2014 ); Sr. Antônio Ferreira do Norte Filho, Ex-secretário executivo Adjunto (período de 01/01/2014 a 14/09/2014 ); e Sr. Carliomar Barros Brandão, Ex-secretário Executivo Adjunto (período de 15/09/2014 a 20/10/2014 ), nos termos do inciso II do art. 1º e inciso II do art. 22, dando quitação e condicionando-os ao atendimento do art. 24, c/c o inciso II do art. 72, todos da Lei nº 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a Prestação de Contas da Secretaria Executiva Adjunta - SEXAD/SEJUS, exercício de 2014 sob a responsabilidade do Sr. Cícero Romão de Souza Neto, Secretário Executivo de Justiça e Direitos Humanos, e Ordenador de Despesas (período de 24/01/2014 a 31/12/2014 ); Sr. Antônio Ferreira do Norte Filho, Ex-secretário executivo Adjunto (período de 01/01/2014 a 14/09/2014 ); e Sr. Carliomar Barros Brandão, Ex-secretário Executivo Adjunto (período de 15/09/2014 a 20/10/2014 ), nos termos do inciso II do art. 1º e inciso II do art. 22, dando quitação e condicionando-os ao atendimento do art. 24, c/c o inciso II do art. 72, todos da Lei nº 2.423/96;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares com ressalvas, o que implica que, apesar de terem sido encontradas algumas impropriedades, a gestão como um todo foi considerada aceitável, e a menção a julgamento formal da prestação de contas indica um procedimento interno do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre a organização da Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a organização da Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a organização da Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a organização da Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem, nos termos do §2º do art. 188 do Regimento Interno/TCE-AM, que: elabore o Inventário de Bens Patrimoniais conforme dispõem os arts. 94, 95, 96 e 106, inciso II, da Lei nº 4.320/64 c/c o art. 1º, VII, da Resolução nº 05/90TCE/AM, constando no mesmo seus devidos tombamentos, sob pena de sanção em caso de reincidência da impropriedade nas próximas Prestações de Contas Anuais daquela Corporação (restrição nº 04);",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore o Inventário de Bens Patrimoniais conforme dispõem os arts. 94, 95, 96 e 106, inciso II, da Lei nº 4.320/64 c/c o art. 1º, VII, da Resolução nº 05/90TCE/AM, constando no mesmo seus devidos tombamentos, sob pena de sanção em caso de reincidência da impropriedade nas próximas Prestações de Contas Anuais daquela Corporação (restrição nº 04);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho descreve a necessidade de elaboração do Inventário de Bens Patrimoniais com tombamentos, conforme legislação, sob pena de sanção. Isso indica uma falha no controle patrimonial, com ausência de elementos mínimos de caracterização dos bens, o que é uma irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Dispõe sobre Normas Gerais de Direito Financeiro para elaboração e controle dos Orçamentos e Balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "95",
+              "descricao": "Dispõe sobre Normas Gerais de Direito Financeiro para elaboração e controle dos Orçamentos e Balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "96",
+              "descricao": "Dispõe sobre Normas Gerais de Direito Financeiro para elaboração e controle dos Orçamentos e Balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "106",
+              "descricao": "Dispõe sobre Normas Gerais de Direito Financeiro para elaboração e controle dos Orçamentos e Balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Resolução nº 05/90-TCE/AM",
+              "artigo": "1º",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas e dá outras providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar às Comissões vindouras deste Tribunal, determinadas à procederem inspeções ordinárias 'in loco' ou analítica via sistema e-Contas na Unidade Gestora em epígrafe, em exercícios futuros, que observe se o ajuste pendente na restrição nº 02 foi providenciado.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar às Comissões vindouras deste Tribunal, determinadas à procederem inspeções ordinárias 'in loco' ou analítica via sistema e-Contas na Unidade Gestora em epígrafe, em exercícios futuros, que observe se o ajuste pendente na restrição nº 02 foi providenciado.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve uma recomendação para que futuras comissões do Tribunal de Contas verifiquem um ajuste pendente. Embora a recomendação possa estar relacionada a uma deficiência, o trecho em si não indica um problema concreto, estrutural ou recorrente na gestão pública, mas sim um procedimento de acompanhamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

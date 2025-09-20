@@ -1,0 +1,318 @@
+{
+  "acordao": "006/2015",
+  "processo": "11159/2014",
+  "data_sessao": "25 de fevereiro 2015",
+  "orgao": "Prefeitura Municipal de Barcelos",
+  "municipio": "Barcelos",
+  "exercicio": "2013",
+  "responsavel": [
+    "José Ribamar Fontes Beleza"
+  ],
+  "itens": [
+    {
+      "tipo": "IRREGULARIDADE",
+      "descricao": "CONSIDERAR REVEL o Sr. JOSÉ RIBAMAR FONTES BELEZA, prefeito e ordenador de despesas, em razão de sua omissão na apresentação de defesa/documentos, na forma do art. 20, §3º da Lei n. 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "CONSIDERAR REVEL o Sr. JOSÉ RIBAMAR FONTES BELEZA, prefeito e ordenador de despesas, em razão de sua omissão na apresentação de defesa/documentos, na forma do art. 20, §3º da Lei n. 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O responsável não apresentou a defesa e os documentos necessários.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "20, §3º",
+              "descricao": "O responsável não apresentou a defesa e os documentos solicitados no prazo estabelecido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "IRREGULARIDADE",
+      "descricao": "JULGAR pela IRREGULARIDADE das Contas da PREFEITURA MUNICIPAL DE BARCELOS, sob a gestão do Sr. JOSÉ RIBAMAR FONTES BELEZA, exercício financeiro de 2013, com fundamento no art. 22, III, 'b' e 'c', da Lei Estadual n.2423/96 face à permanência das impropriedades elencadas no item 13 deste voto",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR pela IRREGULARIDADE das Contas da PREFEITURA MUNICIPAL DE BARCELOS, sob a gestão do Sr. JOSÉ RIBAMAR FONTES BELEZA, exercício financeiro de 2013, com fundamento no art. 22, III, 'b' e 'c', da Lei Estadual n.2423/96 face à permanência das impropriedades elencadas no item 13 deste voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "As contas foram julgadas irregulares devido a problemas na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "As contas foram julgadas irregulares devido a impropriedades na gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ALCANCE",
+      "descricao": "CONSIDERAR em ALCANCE o ordenador de despesas, Sr. JOSÉ RIBAMAR FONTES BELEZA, no montante de R$ 1.038.105,31 (um milhão, trinta e oito mil, cento e cinco reais, trinta e um centavos), em função das irregularidades elencadas no item 7 deste Voto, conforme dispõe o art. 304, IV, RITCE, com a concernente devolução aos cofres públicos dos valores devidamente corrigidos",
+      "trechos_identificados": [
+        {
+          "trecho": "CONSIDERAR em ALCANCE o ordenador de despesas, Sr. JOSÉ RIBAMAR FONTES BELEZA, no montante de R$ 1.038.105,31 (um milhão, trinta e oito mil, cento e cinco reais, trinta e um centavos), em função das irregularidades elencadas no item 7 deste Voto, conforme dispõe o art. 304, IV, RITCE, com a concernente devolução aos cofres públicos dos valores devidamente corrigidos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O ordenador de despesas foi considerado em alcance devido a irregularidades financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE",
+              "artigo": "304, IV",
+              "descricao": "Devolução aos cofres públicos dos valores devidamente corrigidos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "APLICAR MULTA ao gestor, Sr. JOSÉ RIBAMAR FONTES BELEZA, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, V, da Resolução n.04/2002, no valor de R$ 21.920,64 (vinte e um mil, novecentos e vinte reais, sessenta e quatro centavos), face à permanência das impropriedades elencadas no item 13 deste Voto, as quais demonstram a prática de atos de gestão ilegítimos e antieconômicos que resultaram danos ao Erário",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA ao gestor, Sr. JOSÉ RIBAMAR FONTES BELEZA, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, V, da Resolução n.04/2002, no valor de R$ 21.920,64 (vinte e um mil, novecentos e vinte reais, sessenta e quatro centavos), face à permanência das impropriedades elencadas no item 13 deste Voto, as quais demonstram a prática de atos de gestão ilegítimos e antieconômicos que resultaram danos ao Erário",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A10B",
+          "tipologia_irregularidade": "Descumprimento de medidas para redução de Gasto com pessoal ao limite previsto na LRF",
+          "descricao": "Pagamentos sem processo administrativo contendo justificativa para a dispensa de licitação, razão da escolha do fornecedor, pesquisa de mercado e sem cobertura contratual.",
+          "justificativa_tipologia": "A multa foi aplicada devido à prática de atos de gestão ilegítimos e antieconômicos que resultaram em danos ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "54",
+              "descricao": "Aplicação de multa devido a atos de gestão ilegítimos e antieconômicos."
+            },
+            {
+              "norma": "Resolução n.04/2002",
+              "artigo": "308, V",
+              "descricao": "Multa aplicada devido a atos de gestão ilegítimos e antieconômicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "APLICAR MULTA ao gestor, Sr. JOSÉ RIBAMAR FONTES BELEZA, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, VI, da Resolução n.04/2002, no valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais, vinte e oito centavos), face à prática de atos com grave infração às normais de natureza contábil, financeira, orçamentária, operacional e patrimonial, descritos no item 13 deste voto",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA ao gestor, Sr. JOSÉ RIBAMAR FONTES BELEZA, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, VI, da Resolução n.04/2002, no valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais, vinte e oito centavos), face à prática de atos com grave infração às normais de natureza contábil, financeira, orçamentária, operacional e patrimonial, descritos no item 13 deste voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa foi aplicada devido a atos com grave infração às normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "54",
+              "descricao": "Aplicação de multa devido a atos com grave infração às normas."
+            },
+            {
+              "norma": "Resolução n.04/2002",
+              "artigo": "308, VI",
+              "descricao": "Multa aplicada devido a atos com grave infração às normas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias para o recolhimento aos cofres estaduais, do valor imputado dos débitos, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art.72, III, da Lei Estadual n.2.423/96 e art. 169, I, da Resolução n.04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias para o recolhimento aos cofres estaduais, do valor imputado dos débitos, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art.72, III, da Lei Estadual n.2.423/96 e art. 169, I, da Resolução n.04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A3C",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes",
+          "justificativa_tipologia": "Foi determinado prazo para o recolhimento dos débitos aos cofres estaduais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "72, III",
+              "descricao": "Prazo para o recolhimento aos cofres estaduais."
+            },
+            {
+              "norma": "Resolução n.04/02-TCE/AM",
+              "artigo": "169, I",
+              "descricao": "Prazo para o recolhimento aos cofres estaduais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "AUTORIZAR desde já a instauração do Processo de Cobrança Executiva dos débitos, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR desde já a instauração do Processo de Cobrança Executiva dos débitos, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Foi autorizado a instauração de processo de cobrança.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas.",
+              "artigo": "173",
+              "descricao": "Autorização para a instauração do Processo de Cobrança Executiva dos débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "RECOMENDAR à origem: a) a observância dos prazos para a remessa da movimentação contábil via ACP; b) a observação do princípio da especificidade e da oportunidade nos Demonstrativos Financeiros do Executivo, principalmente nas contas dos Balanços Financeiros; c) a necessidade de controle mais efetivo e eficiente sobre seus bens móveis; d) proceder aos devidos repasses de recolhimentos à Previdência Social e ao Poder Legislativo; e) formalizar devidamente as prestações de contas dos processos de concessão de diárias",
+      "trechos_identificados": [
+        {
+          "trecho": "RECOMENDAR à origem: a observância dos prazos para a remessa da movimentação contábil via ACP",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Foi recomendado a observância dos prazos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "RECOMENDAR à origem: a observação do princípio da especificidade e da oportunidade nos Demonstrativos Financeiros do Executivo, principalmente nas contas dos Balanços Financeiros",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Foi recomendado a observação do princípio.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "RECOMENDAR à origem: a necessidade de controle mais efetivo e eficiente sobre seus bens móveis",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "Foi recomendado a necessidade de controle efetivo.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "RECOMENDAR à origem: proceder aos devidos repasses de recolhimentos à Previdência Social e ao Poder Legislativo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial.",
+          "justificativa_tipologia": "Foi recomendado proceder com os repasses a previdência.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "RECOMENDAR à origem: formalizar devidamente as prestações de contas dos processos de concessão de diárias",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial.",
+          "justificativa_tipologia": "Foi recomendado formalizar as prestações de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "CIÊNCIA",
+      "descricao": "DETERMINAR seja a Receita Federal do Brasil cientificada para que proceda ao levantamento dos dados previdenciários dos servidores da Prefeitura Municipal de Barcelos que porventura contribuam para a Previdência Social, em razão do não recolhimento das contribuições nos exercícios de 2012 e 2013",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR seja a Receita Federal do Brasil cientificada para que proceda ao levantamento dos dados previdenciários dos servidores da Prefeitura Municipal de Barcelos que porventura contribuam para a Previdência Social, em razão do não recolhimento das contribuições nos exercícios de 2012 e 2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial.",
+          "justificativa_tipologia": "Foi determinado o levantamento de dados previdenciários dos servidores.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "CIÊNCIA",
+      "descricao": "OFICIAR ao Ministério Púbico Estadual dando-lhe conhecimento dos fatos para apuração de atos de improbidade administrativa praticados pelo Sr. José Ribamar Fontes Beleza, gestor e ordenador de despesas, por infringência às normas legais já mencionadas e danos ao Erário, de acordo com o inciso XXIV, art. 1º da lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "OFICIAR ao Ministério Púbico Estadual dando-lhe conhecimento dos fatos para apuração de atos de improbidade administrativa praticados pelo Sr. José Ribamar Fontes Beleza, gestor e ordenador de despesas, por infringência às normas legais já mencionadas e danos ao Erário, de acordo com o inciso XXIV, art. 1º da lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A3A",
+          "tipologia_irregularidade": "Receita informada no Demonstrativo das Receitas e Despesas com MDE (Anexo 8 do RREO) não corresponde ao extrato público do Banco do Brasil [incluir também eventual divergência em relaçao aos demonstrativos contábeis]",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado.",
+          "justificativa_tipologia": "Foi determinado o conhecimento ao Ministério Público para apuração de atos de improbidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "lei nº 2423/96",
+              "artigo": "1º",
+              "descricao": "Apuração de atos de improbidade administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "DETERMINAR à SEPLENO que após a ocorrência da coisa julgada administrativa, nos termos dos arts. 159 e 160 da Res. 04/2002 (RITCE), adote as providências previstas no art. 161 do Regimento Interno.",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR à SEPLENO que após a ocorrência da coisa julgada administrativa, nos termos dos arts. 159 e 160 da Res. 04/2002 (RITCE), adote as providências previstas no art. 161 do Regimento Interno.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A23B",
+          "tipologia_irregularidade": "Estrutura inadequada do Sistema de Controle Interno (SIC)",
+          "descricao": "Ausência do Plano de Providências expedido pelo Órgão Central de Controle Interno",
+          "justificativa_tipologia": "Foi determinado a SEPLENO que adote as providências cabíveis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. 04/2002 (RITCE)",
+              "artigo": "159 e 160",
+              "descricao": "Ocorrência da coisa julgada administrativa."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "161",
+              "descricao": "Adoção das providências cabíveis."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

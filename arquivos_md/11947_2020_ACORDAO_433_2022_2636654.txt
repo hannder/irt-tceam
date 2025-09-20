@@ -1,0 +1,79 @@
+{
+  "acordao": "433/2022",
+  "processo": "11947/2020",
+  "data_sessao": "29 de Março de 2022",
+  "orgao": "Fundação Municipal de Cultura, Turismo e Eventos - Manauscult",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Bernardo Soares Monteiro de Paula"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Fundação Municipal de Cultura, Turismo e Eventos -MANAUSCULT ,  referente ao exercício de 2019, sob responsabilidade do Sr.  Bernardo  Soares  Monteiro  de  Paula , Diretor-Presidente  e Ordenador de Depesas, nos termos do art. 22, II, c/c o art. 24, ambos da Lei n.º 2.423/96TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Fundação Municipal de Cultura, Turismo e Eventos Manauscult que:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Faça um estudo, visando a reestruturação do seu quadro de pessoal, a fim de prever quadro próprio com servidores públicos efetivos e posterior realização de concurso público, em respeito ao art. 37, II, da CF/88;",
+      "trechos_identificados": [
+        {
+          "trecho": "Faça um estudo, visando a reestruturação do seu quadro de pessoal, a fim de prever quadro próprio com servidores públicos efetivos e posterior realização de concurso público, em respeito ao art. 37, II, da CF/88;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação indica a necessidade de reestruturação do quadro de pessoal, com previsão de quadro próprio e realização de concurso público, o que está relacionado à ausência de concurso público e à necessidade de efetivação de servidores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, II",
+              "descricao": "A recomendação visa o cumprimento do artigo 37, II, da Constituição Federal, que trata da necessidade de concurso público para investidura em cargo ou emprego público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Busque junto ao Órgão competente, a viabilidade de deter o controle das suas disponibilidades financeiras, visto que a mesma  é  uma  fundação,  pertencente à Administração Indireta com personalidade jurídica própria, evitando, assim, reincidência de futuras falhas relacionadas a este tema.",
+      "trechos_identificados": [
+        {
+          "trecho": "Busque junto ao Órgão competente, a viabilidade de deter o controle das suas disponibilidades financeiras, visto que a mesma  é  uma  fundação,  pertencente à Administração Indireta com personalidade jurídica própria, evitando, assim, reincidência de futuras falhas relacionadas a este tema.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A recomendação sugere buscar junto ao Órgão competente, a viabilidade de deter o controle das suas disponibilidades financeiras, o que indica um potencial problema de inobservância do regime de conta única.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "56",
+              "descricao": "A recomendação está relacionada ao princípio de unidade de tesouraria, conforme estabelecido no Art. 56 da Lei 4320/64, que determina que o recolhimento de todas as receitas deve ser feito em estrita observância a este princípio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Bernardo Soares Monteiro de Paula , da respectiva decisão;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais.",
+      "trechos_identificados": []
+    }
+  ]
+}

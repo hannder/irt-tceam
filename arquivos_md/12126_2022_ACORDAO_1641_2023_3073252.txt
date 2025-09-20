@@ -1,0 +1,446 @@
+{
+  "acordao": "1641/2023",
+  "processo": "12126/2022",
+  "data_sessao": "01 de agosto de 2023",
+  "orgao": "Câmara Municipal de Manaquiri",
+  "municipio": "Manaquiri",
+  "exercicio": "2021",
+  "responsavel": [
+    "Maria das Gracas Araujo de Freitas"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de justificativa Ausência de comprovação de que as contas  do  Chefe  do  Poder  Executivo  ficaram  disponíveis,  durante  o exercício, no respectivo Poder Legislativo e no órgão técnico responsável  pela  sua  elaboração,  para  consulta  e  apreciação  dos cidadãos e instituições da sociedade, conforme determina o art. 49, da LRF",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativa Ausência de comprovação de que as contas  do  Chefe  do  Poder  Executivo  ficaram  disponíveis,  durante  o exercício, no respectivo Poder Legislativo e no órgão técnico responsável  pela  sua  elaboração,  para  consulta  e  apreciação  dos cidadãos e instituições da sociedade, conforme determina o art. 49, da LRF",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho demonstra ausência de transparência na disponibilização das contas do Poder Executivo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LRF",
+              "artigo": "49",
+              "descricao": "Determina a disponibilidade das contas do Chefe do Poder Executivo para consulta e apreciação pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de justificativa e o documento quanto ao não envio junto  a  Prestação  de  Contas  Anual  da  Cópia  da  Lei  de  fixação  dos subsídios dos Vereadores e respectivas alterações, para legislatura de 2021/2024, contrariando o que estabelece a Resolução nº 006, de 22 de julho de 2009",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativa e o documento quanto ao não envio junto  a  Prestação  de  Contas  Anual  da  Cópia  da  Lei  de  fixação  dos subsídios dos Vereadores e respectivas alterações, para legislatura de 2021/2024, contrariando o que estabelece a Resolução nº 006, de 22 de julho de 2009",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O trecho demonstra a falta de documento essencial na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 006",
+              "artigo": "Não consta",
+              "descricao": "Estabelece a necessidade de envio da Lei de fixação dos subsídios dos Vereadores e respectivas alterações na Prestação de Contas Anual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de documentos comprovando que foi dada publicidade,  mensalmente,  em  órgão  de  divulgação  oficial  ou  em quadro  de  avisos  de  amplo  acesso  público,  à  relação  de  todas  as compras  feitas  pela  Administração  direta  ou  indireta,  de  maneira  a clarificar a  identificação  do  bem  comprado,  seu  preço  unitário,  a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação, art. 16, da Lei nº. 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentos comprovando que foi dada publicidade,  mensalmente,  em  órgão  de  divulgação  oficial  ou  em quadro  de  avisos  de  amplo  acesso  público,  à  relação  de  todas  as compras  feitas  pela  Administração  direta  ou  indireta,  de  maneira  a clarificar a  identificação  do  bem  comprado,  seu  preço  unitário,  a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação, art. 16, da Lei nº. 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho demonstra a ausência de documentos que comprovem a devida publicidade das informações sobre as compras efetuadas pela administração, dificultando o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "16",
+              "descricao": "Dispõe sobre a necessidade de publicidade das compras feitas pela Administração direta ou indireta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de publicação dos balanços (orçamentário, financeiro e patrimonial) no Diário Oficial do Estado e/ou do Município, conforme estabelece o art. 9º, da Lei Complementar nº 06/91",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de publicação dos balanços (orçamentário, financeiro e patrimonial) no Diário Oficial do Estado e/ou do Município, conforme estabelece o art. 9º, da Lei Complementar nº 06/91",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho explicita que a ausência de publicação dos balanços impede o acesso público às informações financeiras essenciais, comprometendo a transparência da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/91",
+              "artigo": "9º",
+              "descricao": "Estabelece a necessidade de publicação dos balanços no Diário Oficial do Estado e/ou do Município."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de documentação comprobatória para existência de saldo  na  conta  'Valores  em  Trânsito  Realizáveis  a  Curto  Prazo',  no valor de R$ 4.077,56",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentação comprobatória para existência de saldo  na  conta  'Valores  em  Trânsito  Realizáveis  a  Curto  Prazo',  no valor de R$ 4.077,56",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho aponta a falta de comprovação de valores em contas contábeis, impactando na confiabilidade das informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de justificativa para a diferença de saldos, ocasionada  pelos  Pagamentos  Extra  Orçamentários,  em  Depósitos Restituíveis, e os Recebimentos Extra Orçamentários",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativa para a diferença de saldos, ocasionada  pelos  Pagamentos  Extra  Orçamentários,  em  Depósitos Restituíveis, e os Recebimentos Extra Orçamentários",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho demonstra a ausência de justificativa para diferenças nos saldos extra orçamentários.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência  de  explicitação, adequadamente,  para  o  saldo existente na conta 'Valores em Trânsito Realizáveis a Curto Prazo', no valor de R$ 867.584,09",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  explicitação, adequadamente,  para  o  saldo existente na conta 'Valores em Trânsito Realizáveis a Curto Prazo', no valor de R$ 867.584,09",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho explicita a ausência de detalhamento adequado para o saldo na conta 'Valores em Trânsito Realizáveis a Curto Prazo'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Verificou-se  o  registro  na  rubrica  'Bens  Móveis'  no  valor  de R$ 188.270,00, contudo, não ficou evidenciado a origem de tal quantia, fazendo-se necessário apresentar os documentos comprobatórios que a fundamentaram",
+      "trechos_identificados": [
+        {
+          "trecho": "Verificou-se  o  registro  na  rubrica  'Bens  Móveis'  no  valor  de R$ 188.270,00, contudo, não ficou evidenciado a origem de tal quantia, fazendo-se necessário apresentar os documentos comprobatórios que a fundamentaram",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho explicita a ausência de comprovação da origem de determinada quantia registrada na rubrica de 'Bens Móveis'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de informação sobre o método  utilizado para realizar a Depreciação dos Bens Móveis",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de informação sobre o método  utilizado para realizar a Depreciação dos Bens Móveis",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "O trecho explicita a ausência de informação sobre o método utilizado para realizar a Depreciação dos Bens Móveis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Sobre  o  porquê  a  Câmara  Municipal  de  Manaquiri,  não realizou concurso público, considerando que todos os seus servidores foram admitidos em  cargo comissionado, sem  a realização de concurso público, contrariando art. 37, inciso II da Constituição Federal de 1988",
+      "trechos_identificados": [
+        {
+          "trecho": "Sobre  o  porquê  a  Câmara  Municipal  de  Manaquiri,  não realizou concurso público, considerando que todos os seus servidores foram admitidos em  cargo comissionado, sem  a realização de concurso público, contrariando art. 37, inciso II da Constituição Federal de 1988",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho explicita a não realização de concurso público, contrariando art. 37, inciso II da Constituição Federal de 1988",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal de 1988",
+              "artigo": "37, II",
+              "descricao": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Conforme  análise  dos  processos  de  pagamento  de  diárias não  localizamos,  bilhetes  de  passagem  aérea,  marítima,  locação  de veículos, Certificado, Diploma ou Atestado Comprovante de Frequência  no  caso  de  participação  em  Congressos,  Seminários, Treinamento e outros eventos similares ou quaisquer outros comprovantes de deslocamento, na forma do art. 8º, III,  letra  'd',  do Decreto Estadual nº 26.337/2006",
+      "trechos_identificados": [
+        {
+          "trecho": "Conforme  análise  dos  processos  de  pagamento  de  diárias não  localizamos,  bilhetes  de  passagem  aérea,  marítima,  locação  de veículos, Certificado, Diploma ou Atestado Comprovante de Frequência  no  caso  de  participação  em  Congressos,  Seminários, Treinamento e outros eventos similares ou quaisquer outros comprovantes de deslocamento, na forma do art. 8º, III,  letra  'd',  do Decreto Estadual nº 26.337/2006",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A5B",
+          "tipologia_irregularidade": "Ausência do Relatório de Prestação de Contas de diárias",
+          "descricao": "Ausência do Relatório de Prestação de Contas de diárias",
+          "justificativa_tipologia": "O trecho descreve a ausência de documentação de bilhetes de passagem aérea, marítima, locação de veículos, etc., ou seja, ausência do Relatório de Prestação de Contas de diárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Estadual nº 26.337/2006",
+              "artigo": "8º, III, letra 'd'",
+              "descricao": "Dispõe sobre a necessidade de apresentação de comprovantes de deslocamento nos processos de pagamento de diárias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Inexistência de sistema de controle de registro do patrimônio eficaz e departamento  específico,  com  servidor  responsável  pela guarda,  conforme  determina  os  artigos  94,  95,  96  e  106  da  Lei  nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Inexistência de sistema de controle de registro do patrimônio eficaz e departamento  específico,  com  servidor  responsável  pela guarda,  conforme  determina  os  artigos  94,  95,  96  e  106  da  Lei  nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho descreve a Inexistência de sistema de controle de registro do patrimônio eficaz e departamento específico, com servidor responsável pela guarda.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94, 95, 96 e 106",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência  de  registro  e  tombamento  dos  bens  permanentes, assim  como  livro  tombo  e  agentes  responsáveis  pela  sua  guarda  e administração, de acordo com o art. 94 da Lei nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  registro  e  tombamento  dos  bens  permanentes, assim  como  livro  tombo  e  agentes  responsáveis  pela  sua  guarda  e administração, de acordo com o art. 94 da Lei nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho descreve a ausência  de  registro  e  tombamento  dos  bens  permanentes, assim  como  livro  tombo  e  agentes  responsáveis  pela  sua  guarda  e administração.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Dispõe sobre a obrigatoriedade de escrituração contábil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de sistema de controle de almoxarifado eficaz, com registro contínuo  e  permanente  de  entrada  e  saída  dos  objetos adquiridos, nos termos exigidos pelo art. 244, inciso III, da Resolução TCE nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de sistema de controle de almoxarifado eficaz, com registro contínuo  e  permanente  de  entrada  e  saída  dos  objetos adquiridos, nos termos exigidos pelo art. 244, inciso III, da Resolução TCE nº 04/2002",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho descreve a falta de controle de almoxarifado eficaz e sem registro de entrada e saída dos objetos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "244, inciso III",
+              "descricao": "Exige a manutenção de um sistema de controle de almoxarifado eficaz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de Projeto Básico como exige art. 7º, inciso I da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Projeto Básico como exige art. 7º, inciso I da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "O trecho explicita a Ausência de Projeto Básico como exige art. 7º, inciso I da Lei nº 8.666/93",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "7º, inciso I",
+              "descricao": "Dispõe sobre a exigência de projeto básico para licitações e contratos administrativos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de indicação do recurso para despesa e comprovação da existência de previsão de recurso orçamentários (com indicação das respectivas rubricas) que assegurem o pagamento das obrigações  a  serem  assumidas  no  exercício  financeiro,  conforme estabelece o inciso IV do art. 8º do Decreto n° 10.024/2019, § 2°, inciso III do art. 7, c/c o art. 14 da Lei n° 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de indicação do recurso para despesa e comprovação da existência de previsão de recurso orçamentários (com indicação das respectivas rubricas) que assegurem o pagamento das obrigações  a  serem  assumidas  no  exercício  financeiro,  conforme estabelece o inciso IV do art. 8º do Decreto n° 10.024/2019, § 2°, inciso III do art. 7, c/c o art. 14 da Lei n° 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A21A",
+          "tipologia_irregularidade": "Empenho sem dotação orçamentária",
+          "descricao": "Empenho sem dotação orçamentária",
+          "justificativa_tipologia": "O trecho explicita a falta de indicação de recursos e a não comprovação da previsão orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto n° 10.024/2019",
+              "artigo": "8º, IV",
+              "descricao": "Dispõe sobre a necessidade de indicação do recurso para despesa e comprovação da existência de previsão de recurso orçamentários"
+            },
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "7, § 2°, inciso III c/c art. 14",
+              "descricao": "Dispõe sobre a comprovação da existência de recursos orçamentários que assegurem o pagamento das obrigações a serem assumidas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de documentação relativa à qualificação econômico-financeira, a fim de comprovar a capacidade da contratada à prestação dos serviços solicitados, conforme Art. 31, I, II, III da Lei nº. 8.666/93 c/c §§2º, 3º, 4º e 5º",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentação relativa à qualificação econômico-financeira, a fim de comprovar a capacidade da contratada à prestação dos serviços solicitados, conforme Art. 31, I, II, III da Lei nº. 8.666/93 c/c §§2º, 3º, 4º e 5º",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "O trecho demonstra a ausência de documentação que comprove a capacidade da contratada à prestação dos serviços solicitados, sendo assim a ausência da razão da escolha do fornecedor",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/93",
+              "artigo": "31, I, II, III",
+              "descricao": "Dispõe sobre a documentação relativa à qualificação econômico-financeira para comprovar a capacidade da contratada à prestação dos serviços solicitados"
+            },
+             {
+              "norma": "Lei nº. 8.666/93",
+              "artigo": "§§2º, 3º, 4º e 5º",
+              "descricao": "Dispõe sobre a documentação relativa à qualificação econômico-financeira para comprovar a capacidade da contratada à prestação dos serviços solicitados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência de Parecer Jurídico aprovando a minuta do contrato,  como  prevê  o  art.  38,  parágrafo  único,  da  Lei  Federal  de Licitação n° 8.666/93 e suas alterações",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Parecer Jurídico aprovando a minuta do contrato,  como  prevê  o  art.  38,  parágrafo  único,  da  Lei  Federal  de Licitação n° 8.666/93 e suas alterações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho demonstra a Ausência de Parecer Jurídico aprovando a minuta do contrato.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal de Licitação n° 8.666/93",
+              "artigo": "38, parágrafo único",
+              "descricao": "Dispõe sobre a aprovação jurídica da minuta do contrato"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Ausência  de  Ato  designatório  de  representante  de  contrato que anotará em registro próprio todas as ocorrências relacionadas com a execução  do contrato, determinando o que for necessário à regularização das faltas ou defeitos observados,  bem  como,  as decisões e providências que ultrapassarem a competência do representante  deverão  ser  solicitadas  a  seus  superiores  em  tempo hábil para a adoção das medidas convenientes como determina § 1º. e § 2º. do art. 67 da Lei nº. 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  Ato  designatório  de  representante  de  contrato que anotará em registro próprio todas as ocorrências relacionadas com a execução  do contrato, determinando o que for necessário à regularização das faltas ou defeitos observados,  bem  como,  as decisões e providências que ultrapassarem a competência do representante  deverão  ser  solicitadas  a  seus  superiores  em  tempo hábil para a adoção das medidas convenientes como determina § 1º. e § 2º. do art. 67 da Lei nº

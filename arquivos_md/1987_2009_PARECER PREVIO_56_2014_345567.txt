@@ -1,0 +1,148 @@
+{
+  "acordao": "56/2014",
+  "processo": "1987/2009",
+  "data_sessao": "25 de novembro de 2014",
+  "orgao": "Prefeitura Municipal de Manacapuru",
+  "municipio": "Manacapuru",
+  "exercicio": "2008",
+  "responsavel": [
+    "Washington Luís Régis da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas da Prefeitura e Manacapuru-AM referente ao exercício financeiro de 2008, sob a responsabilidade do Senhor Washington Luís Régis da Silva, Prefeito à época e ordenador de despesas, de acordo com o art.22, II, da Lei Estadual nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas da Prefeitura e  Manacapuru-AM referente ao exercício financeiro  de 2008, sob a responsabilidade do Senhor Washington Luís Régis da Silva , Prefeito à época e ordenador de despesas, de acordo com o art.22, II, da Lei Estadual nº 2423/96;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento das contas, mas sem apontar irregularidades específicas que afetem a gestão pública de forma duradoura.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Dispositivo legal que fundamenta o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomende ao Poder Executivo Municipal a observância e/ou cumprimento da Lei nº 4320/64, da Lei Complementar nº 101/2000, Lei Complementar Estadual nº 6/91 e Resolução nº 7/2002-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomende ao Poder Executivo Municipal a observância e/ou cumprimento da Lei nº 4320/64, da Lei Complementar nº 101/2000, Lei Complementar Estadual nº 6/91 e Resolução nº 7/2002-TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho apresenta uma recomendação genérica sem especificar falhas concretas na gestão, portanto, não é um indicador direto de problemas estruturais ou recorrentes.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "Não especificado",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Responsabilidade Fiscal."
+            },
+            {
+              "norma": "Lei Complementar Estadual nº 6/91",
+              "artigo": "Não especificado",
+              "descricao": "Normas sobre a administração financeira do Estado."
+            },
+            {
+              "norma": "Resolução nº 7/2002-TCE",
+              "artigo": "Não especificado",
+              "descricao": "Normas internas do TCE sobre processos de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao responsável Sr. Washington Luís Régis da Silva, Prefeito à época e ordenador de despesas, no valor total de R$1.096,03 , (um mil, noventa e seis reais e três centavos), conforme dispõe o art.308, II, da Resolução nº 04/02-TCE, em função do atraso no encaminhamento por Relatório de Gestão Fiscal 1º Quadrimestre e dos Relatórios de Execução Orçamentária",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao responsável Sr. Washington Luís Régis da Silva, Prefeito à época e ordenador de despesas, no valor total de R$1.096,03 , (um mil, noventa e seis reais e três centavos), conforme dispõe o art.308, II, da Resolução nº 04/02-TCE, em função do atraso no encaminhamento por Relatório de Gestão Fiscal 1º Quadrimestre e dos Relatórios de Execução Orçamentária;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso no encaminhamento de documentos é uma falha que impacta a transparência e o controle, sendo relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/02-TCE",
+              "artigo": "308, II",
+              "descricao": "Dispositivo que estabelece a multa por atraso no envio de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de trinta dias para o recolhimento aos cofres públicos pelo responsável no valor da penalidade imposta, com comprovação perante este Tribunal, acrescido da atualização monetária e dos juros de mora devidos, nos termos dos arts.73 e 74 da Lei Estadual nº 2423/96 e art. 169, I, da Resolução nº 04/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de trinta dias para o recolhimento aos cofres públicos pelo responsável no valor da penalidade imposta, com comprovação perante este Tribunal, acrescido da atualização monetária e dos juros de mora devidos, nos termos dos arts.73 e 74 da Lei Estadual nº 2423/96 e art. 169, I, da Resolução nº 04/02-TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação de prazo para recolhimento de multa, embora importante para o processo administrativo, não indica um problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "73 e 74",
+              "descricao": "Dispositivos sobre prazos e procedimentos para recolhimento de multas."
+            },
+            {
+              "norma": "Resolução nº 04/02-TCE",
+              "artigo": "169, I",
+              "descricao": "Norma interna do TCE sobre cobrança de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A autorização para inscrição em dívida ativa é um procedimento padrão do TCE e não revela uma falha na gestão do órgão fiscalizado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Dispositivo que autoriza a inscrição em dívida ativa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

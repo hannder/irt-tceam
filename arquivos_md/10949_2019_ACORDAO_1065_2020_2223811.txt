@@ -1,0 +1,245 @@
+{
+  "acordao": "1065/2020",
+  "processo": "10949/2019",
+  "data_sessao": "11 de Novembro de 2020",
+  "orgao": "Instituto Municipal de Trânsito e Transporte de Itacoatiara",
+  "municipio": "Itacoatiara",
+  "exercicio": "2018",
+  "responsavel": [
+    "Francisco Grana da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não encaminhamento de todos os documentos exigidos nos inciso I ao XLVI da Resolução nº. 04/2016 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Não encaminhamento de todos os documentos exigidos nos inciso I ao XLVI da Resolução nº. 04/2016 - TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O trecho descreve a ausência de documentos exigidos na Resolução nº. 04/2016 - TCE/AM, o que dificulta a fiscalização e o acompanhamento das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2016 - TCE/AM",
+              "artigo": "inciso I ao XLVI",
+              "descricao": "Refere-se aos documentos exigidos para a prestação de contas anual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não  atendimento  às  disposições  exigidas  na  Lei  nº. 12.527/2011  -  Acesso  às  Informações  Públicas  (Portal  da Transparência)",
+      "trechos_identificados": [
+        {
+          "trecho": "Não  atendimento  às  disposições  exigidas  na  Lei  nº. 12.527/2011  -  Acesso  às  Informações  Públicas  (Portal  da Transparência)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A ausência de atendimento às disposições da Lei nº 12.527/2011 (Lei de Acesso à Informação) no Portal da Transparência impede o controle social e a fiscalização dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 12.527/2011",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Acesso às Informações Públicas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não recolhimento dos saldos das consignações registradas  no  Demonstrativo  da  Dívida  Flutuante,  Anexo 17,  considerando  que  tais  obrigações  devem  ser  pagas dentro de um ano, e não existe saldo financeiro para esta quitação.",
+      "trechos_identificados": [
+        {
+          "trecho": "Não recolhimento dos saldos das consignações registradas  no  Demonstrativo  da  Dívida  Flutuante,  Anexo 17,  considerando  que  tais  obrigações  devem  ser  pagas dentro de um ano, e não existe saldo financeiro para esta quitação.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "O não recolhimento dos saldos das consignações registradas no Demonstrativo da Dívida Flutuante, Anexo 17, e a inexistência de saldo financeiro para esta quitação caracterizam uma irregularidade na gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não especificado",
+              "artigo": "Anexo 17",
+              "descricao": "Demonstrativo da Dívida Flutuante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência  de  controle  de  Almoxarifado  funcionando  de forma  ineficiente, pois o controle de materiais registra apenas  a  saída  de  objetos,  não  atualizando  o  saldo  de material remanescente, em descumprimento com o princípio da eficiência (artigo 37 da CF/88) e artigos 94, 95, 96 da Lei 4.320/64.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  controle  de  Almoxarifado  funcionando  de forma  ineficiente, pois o controle de materiais registra apenas  a  saída  de  objetos,  não  atualizando  o  saldo  de material remanescente, em descumprimento com o princípio da eficiência (artigo 37 da CF/88) e artigos 94, 95, 96 da Lei 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos.",
+          "justificativa_tipologia": "A ausência de controle de almoxarifado funcionando de forma ineficiente, pois o controle de materiais registra apenas a saída de objetos, não atualizando o saldo de material remanescente, contraria o princípio da eficiência e as normas de controle patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Artigo 37 da CF/88",
+              "artigo": "Não especificado",
+              "descricao": "Princípio da eficiência"
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "94",
+              "descricao": "Dispõe sobre o controle dos bens patrimoniais"
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "95",
+              "descricao": "Dispõe sobre o controle dos bens patrimoniais"
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "96",
+              "descricao": "Dispõe sobre o controle dos bens patrimoniais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência do Inventário  dos  Bens  Patrimoniais  existentes na Prefeitura Municipal, como também a inexistência de um departamento  e/ou  servidor  responsável  pela  guarda  dos Bens Patrimoniais, descumprindo o previsto no artigo 94, 95 e 96 da Lei n. 4.320/64.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do Inventário  dos  Bens  Patrimoniais  existentes na Prefeitura Municipal, como também a inexistência de um departamento  e/ou  servidor  responsável  pela  guarda  dos Bens Patrimoniais, descumprindo o previsto no artigo 94, 95 e 96 da Lei n. 4.320/64.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A9B",
+          "tipologia_irregularidade": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A ausência do Inventário dos Bens Patrimoniais existentes na Prefeitura Municipal, como também a inexistência de um departamento e/ou servidor responsável pela guarda dos Bens Patrimoniais, compromete o controle patrimonial e a responsabilização pelos bens públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "94",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "95",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "96",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Justificar a ausência  de  procedimentos  que  visem  a adequada apuração de valores inadimplentes junto ao IMTT e sua correspondente inscrição em dívida ativa, em descumprimento aos ditames do art. 39 da Lei nº 4.320/1964.",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar a ausência  de  procedimentos  que  visem  a adequada apuração de valores inadimplentes junto ao IMTT e sua correspondente inscrição em dívida ativa, em descumprimento aos ditames do art. 39 da Lei nº 4.320/1964.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A ausência de procedimentos para apuração de valores inadimplentes e inscrição em dívida ativa prejudica a recuperação de créditos e o equilíbrio financeiro da autarquia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "39",
+              "descricao": "Dispõe sobre a classificação da receita orçamentária e a inscrição em dívida ativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência do Parecer Jurídico devidamente  assinado, conforme determina o art. 38, inciso VI da Lei nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do Parecer Jurídico devidamente  assinado, conforme determina o art. 38, inciso VI da Lei nº 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A ausência de parecer jurídico devidamente assinado em processos licitatórios compromete a segurança jurídica e a legalidade dos atos administrativos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38, inciso VI",
+              "descricao": "Dispõe sobre a obrigatoriedade de parecer jurídico em processos licitatórios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência  de  atesto de recebimento  de  material, em desacordo com o que dispõe o (Art. 63, § 2º, inciso III, da Lei nº 4.320/64).",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  atesto de recebimento  de  material, em desacordo com o que dispõe o (Art. 63, § 2º, inciso III, da Lei nº 4.320/64).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A ausência de atesto de recebimento de material compromete a comprovação da efetiva entrega dos bens adquiridos e a regularidade da despesa pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "63, § 2º, inciso III",
+              "descricao": "Dispõe sobre a obrigatoriedade de atesto de recebimento de material."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência dos Relatórios de Viagens dos servidores.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência dos Relatórios de Viagens dos servidores.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A5B",
+          "tipologia_irregularidade": "Ausência do Relatório de Prestação de Contas de diárias",
+          "descricao": "Ausência do Relatório de Prestação de Contas de diárias",
+          "justificativa_tipologia": "A ausência dos Relatórios de Viagens dos servidores dificulta o controle e a fiscalização das despesas com diárias e passagens.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

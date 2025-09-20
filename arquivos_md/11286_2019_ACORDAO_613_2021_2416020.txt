@@ -1,0 +1,200 @@
+{
+  "acordao": "613/2021",
+  "processo": "11286/2019",
+  "data_sessao": "8 de Julho de 2021",
+  "orgao": "Câmara Municipal de Tonantins",
+  "municipio": "Tonantins",
+  "exercicio": "2018",
+  "responsavel": [
+    "Francisco Araujo Vasconcelos"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual da  Câmara Municipal de Tonantins,  relativa  ao  exercício  de  2018,  de  responsabilidade  do Sr. Francisco Araujo Vasconcelos , nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III da Lei n° 2.423/96 c/c art. 11, III e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Anual da  Câmara Municipal de Tonantins,  relativa  ao  exercício  de  2018,  de  responsabilidade  do Sr. Francisco Araujo Vasconcelos , nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III da Lei n° 2.423/96 c/c art. 11, III e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas apresenta falhas, dificultando o acompanhamento e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "O Tribunal de Contas é responsável por julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Define a competência do Tribunal de Contas do Estado para julgar as contas dos administradores estaduais."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1°, II",
+              "descricao": "Define a competência do Tribunal de Contas do Estado para fiscalizar as contas dos responsáveis pela administração pública estadual."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "2°",
+              "descricao": "Estabelece a jurisdição do TCE sobre aqueles que arrecadem, guardem, gerenciem ou administrem dinheiros, bens e valores públicos."
+            },
+             {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "4°",
+              "descricao": "Define a competência do TCE para fiscalizar a aplicação de recursos públicos."
+            },
+              {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "5°",
+              "descricao": "Define a competência do TCE para julgar as contas dos responsáveis pela administração pública."
+            },
+              {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Define a competência do TCE para julgar as contas anuais."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "11, III",
+              "descricao": "Regulamenta o processo de prestação de contas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "188, § 1°, III, 'b' e 'c'",
+              "descricao": "Define os critérios para julgamento das contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Francisco  Araujo  Vasconcelos ,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos) e fixar prazo  de  30  dias para  que  o  responsável  recolha  o  valor  da  multa na esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no art. 54, II, 'a', da Lei Orgânica do TCE/AM c/c o art. 308, II, 'a' , do Regimento Interno do TCE/AM, pelo não atendimento a diligência desta Corte, sem causa justificada. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título  executivo (art.  73 da  Lei  Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do  Brasil  -  Seção  Amazonas  -  IEPTB/AM,  ao  encaminhamento  do  título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Francisco  Araujo  Vasconcelos ,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos) e fixar prazo  de  30  dias para  que  o  responsável  recolha  o  valor  da  multa na esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no art. 54, II, 'a', da Lei Orgânica do TCE/AM c/c o art. 308, II, 'a' , do Regimento Interno do TCE/AM, pelo não atendimento a diligência desta Corte, sem causa justificada.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O não atendimento a diligência dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, II, 'a'",
+              "descricao": "Define a aplicação de multa por não atendimento a diligência do TCE/AM."
+            },
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "308, II, 'a'",
+              "descricao": "Detalha o procedimento para aplicação de multa por não atendimento a diligência."
+            }
+          ]
+        }
+      ]
+    },
+        {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Francisco  Araujo  Vasconcelos ,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos) e fixar prazo  de  30  dias para  que  o  responsável  recolha  o  valor  da  multa  na esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no art. 54, III, 'b', da Lei Orgânica do TCE/AM c/c o art. 308, III, do Regimento Interno do TCE/AM, por contas julgadas irregulares sem dano ao erário. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo (art. 73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado,  caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com  o  Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção Amazonas  -  IEPTB/AM,  ao  encaminhamento  do  título  executivo  para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Francisco  Araujo  Vasconcelos ,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos) e fixar prazo  de  30  dias para  que  o  responsável  recolha  o  valor  da  multa  na esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no art. 54, III, 'b', da Lei Orgânica do TCE/AM c/c o art. 308, III, do Regimento Interno do TCE/AM, por contas julgadas irregulares sem dano ao erário.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "Contas julgadas irregulares, indicando falhas na prestação de contas.",
+          "fundamentacao_legal": [
+             {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, III, 'b'",
+              "descricao": "Define a aplicação de multa por contas julgadas irregulares sem dano ao erário."
+            },
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "308, III",
+              "descricao": "Detalha o procedimento para aplicação de multa por contas julgadas irregulares sem dano ao erário."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Francisco  Araujo  Vasconcelos ,  no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle  Externo  -  FAECE,  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no art. 54, VI, da Lei Orgânica do TCE/AM c/c o art. 308, VI, do Regimento Interno do TCE/AM, por atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial identificados nesta análise. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo (art. 73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado,  caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com  o  Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção Amazonas  -  IEPTB/AM,  ao  encaminhamento  do  título  executivo  para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Francisco  Araujo  Vasconcelos ,  no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle  Externo  -  FAECE,  através  de  DAR  avulso extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no art. 54, VI, da Lei Orgânica do TCE/AM c/c o art. 308, VI, do Regimento Interno do TCE/AM, por atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial identificados nesta análise.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A multa é aplicada devido a atos com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, indicando um possível desvio de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, VI",
+              "descricao": "Define a aplicação de multa por atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            },
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Detalha o procedimento para aplicação de multa por atos praticados com grave infração à norma legal ou regulamentar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que proceda à instauração de cobrança executiva, no caso de não-recolhimento do valor da condenação, nos moldes do art. 173 da Resolução nº 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que proceda à instauração de cobrança executiva, no caso de não-recolhimento do valor da condenação, nos moldes do art. 173 da Resolução nº 04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa assegurar a cobrança efetiva dos valores devidos, fortalecendo o controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/02-TCE/AM",
+              "artigo": "173",
+              "descricao": "Estabelece os procedimentos para instauração de cobrança executiva no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a Câmara Municipal de Tonantins que observe com rigor as recomendações discriminadas nos relatórios técnicos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a Câmara Municipal de Tonantins que observe com rigor as recomendações discriminadas nos relatórios técnicos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de observar rigorosamente as recomendações dos relatórios técnicos implica a necessidade de fortalecer os controles internos e a gestão da Câmara Municipal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "acordao": "1093/2015",
+  "processo": "1821/2009",
+  "data_sessao": "16 de dezembro de 2015",
+  "orgao": "Instituto Municipal de Transportes Urbanos - IMTU",
+  "municipio": "Manaus",
+  "exercicio": "2008",
+  "responsavel": [
+    "Marcelo  Ramos  Rodrigues",
+    "Waldir  da  Silva  Frazão"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "ACORDAM os Excelentíssimos Senhores Conselheiros do Tribunal de Contas do Estado do Amazonas, reunidos em Sessão Plenária, no exercício da competência atribuída pelo art. 40,  II, da Constituição Estadual, c/c o art. 18, inciso II, da Lei Complementar nº 06/91, arts. 1º, II, 2º, 4º e 5º,  I,  da  Lei  nº  2423/96 e arts. 5º,  II e  11,  III,  alínea  'a',  item  3,  da  Resolução n. 04/2002-TCE/AM, à  unanimidade , nos  termos  do  voto  do  Excelentíssimo  Senhor Conselheiro-Relator, em divergência com o pronunciamento do Ministério Público junto a este Tribunal, no sentido de julgar regular as  Contas  do Instituto Municipal de Transportes Urbanos - IMTU, referente ao exercício de 2008, sob responsabilidade do Sr. Marcelo Ramos Rodrigues e Sr. Waldir da Silva Frazão , ambos Diretores-presidentes e Ordenadores de Despesas, respectivamente nos períodos entre janeiro a março e abril a dezembro de 2008, nos termos do art. 22, inciso I, da Lei n° 2.423/96-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "ACORDAM os Excelentíssimos Senhores Conselheiros do Tribunal de Contas do Estado do Amazonas, reunidos em Sessão Plenária, no exercício da competência atribuída pelo art. 40,  II, da Constituição Estadual, c/c o art. 18, inciso II, da Lei Complementar nº 06/91, arts. 1º, II, 2º, 4º e 5º,  I,  da  Lei  nº  2423/96 e arts. 5º,  II e  11,  III,  alínea  'a',  item  3,  da  Resolução n. 04/2002-TCE/AM, à  unanimidade , nos  termos  do  voto  do  Excelentíssimo  Senhor Conselheiro-Relator, em divergência com o pronunciamento do Ministério Público junto a este Tribunal, no sentido de julgar regular as  Contas  do Instituto Municipal de Transportes Urbanos - IMTU, referente ao exercício de 2008, sob responsabilidade do Sr. Marcelo Ramos Rodrigues e Sr. Waldir da Silva Frazão , ambos Diretores-presidentes e Ordenadores de Despesas, respectivamente nos períodos entre janeiro a março e abril a dezembro de 2008, nos termos do art. 22, inciso I, da Lei n° 2.423/96-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares, o que envolve a análise da contabilidade, execução financeira e orçamentaria",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Atribuição de competência ao Tribunal de Contas para julgar as contas."
+            },
+            {
+              "norma": "Lei Complementar nº 06/91",
+              "artigo": "18, II",
+              "descricao": "Define as competências do Tribunal de Contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Define as competências do Tribunal de Contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "2º",
+              "descricao": "Define as competências do Tribunal de Contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "4º",
+              "descricao": "Define as competências do Tribunal de Contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "5º, I",
+              "descricao": "Define as competências do Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Regulamenta o processo de julgamento de contas."
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "11, III, alínea 'a', item 3",
+              "descricao": "Regulamenta o processo de julgamento de contas."
+            },
+            {
+              "norma": "Lei n° 2.423/96-TCE/AM",
+              "artigo": "22, inciso I",
+              "descricao": "Dispõe sobre o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

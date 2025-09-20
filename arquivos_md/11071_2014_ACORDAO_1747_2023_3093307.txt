@@ -1,0 +1,131 @@
+{
+  "acordao": "1747/2023",
+  "processo": "11071/2014",
+  "data_sessao": "22 de Agosto de 2023",
+  "orgao": "Companhia Humaitaense de Águas e Saneamento Básico-COHASB",
+  "municipio": "Humaitá",
+  "exercicio": "2013",
+  "responsavel": [
+    "Ronny Kley Lustosa Torres"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Ronni Kley Lustosa Torres , Presidente da Companhia Humaitaense de Águas e Saneamento  Básico,  referente  ao  exercício  de  2013,  com  fulcro  no art. 22, III, \"b\" da Lei Orgânica desta Corte de Contas c/c art. 188, §1º, III, \"b\" da Resolução nº 04/2002 - RTITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr. Ronni Kley Lustosa Torres , Presidente da Companhia Humaitaense de Águas e Saneamento  Básico,  referente  ao  exercício  de  2013,  com  fulcro  no art. 22, III, \"b\" da Lei Orgânica desta Corte de Contas c/c art. 188, §1º, III, \"b\" da Resolução nº 04/2002 - RTITCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica um julgamento de irregularidade na prestação de contas devido a falhas, impactando o acompanhamento da execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica desta Corte de Contas",
+              "artigo": "22, III, \"b\"",
+              "descricao": "Fundamentação legal para o julgamento da irregularidade."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RTITCE/AM",
+              "artigo": "188, §1º, III, \"b\"",
+              "descricao": "Fundamentação legal para o julgamento da irregularidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Ronni  Kley  Lustosa  Torres ,  Presidente  da Companhia Humaitaense de Águas e Saneamento Básico, à época, no valor de R$ 13.654,39 (treze mil seiscentos e cinquenta e quatro reais e trinta e nove centavos), em virtude das irregularidades mencionadas  nos  itens  1  a  7,  12  a  15,  17  a  20  deste  Voto, e  fixar prazo  de  30  dias  para  que  o  responsável  recolha  o  valor da MULTA, na  esfera  Estadual para o órgão  Fundo  de  Apoio  ao Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR  avulso extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é  obrigatório  o  encaminhamento  do  comprovante  de  pagamento (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na  continuidade  da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como  proceder,  conforme  estabelecido  no  Acordo  de  Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil Seção Amazonas -IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Ronni  Kley  Lustosa  Torres ,  Presidente  da Companhia Humaitaense de Águas e Saneamento Básico, à época, no valor de R$ 13.654,39 (treze mil seiscentos e cinquenta e quatro reais e trinta e nove centavos), em virtude das irregularidades mencionadas  nos  itens  1  a  7,  12  a  15,  17  a  20  deste  Voto, e  fixar prazo  de  30  dias  para  que  o  responsável  recolha  o  valor da MULTA, na  esfera  Estadual para o órgão  Fundo  de  Apoio  ao Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR  avulso extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE'.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa e o procedimento para recolhimento, indicando uma sanção por inobservância de normas financeiras.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é  obrigatório  o  encaminhamento  do  comprovante  de  pagamento (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho estabelece um procedimento para quitação da multa, o que está relacionado com as rotinas internas do controle externo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Obrigatoriedade de encaminhamento do comprovante de pagamento à Corte de Contas."
+            }
+          ]
+        },
+        {
+          "trecho": "O não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na  continuidade  da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como  proceder,  conforme  estabelecido  no  Acordo  de  Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil Seção Amazonas -IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho descreve procedimentos de cobrança em caso de não pagamento, relacionado a rotinas internas do controle externo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Continuidade da cobrança administrativa ou judicial do título executivo em caso de não adimplemento."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "Subseções III e IV da Seção III, do Capítulo X",
+              "descricao": "Medidas a serem adotadas pelo DERED em caso de expiração do prazo para pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência desta  Decisão  ao Sr.  Ronni  Kley  Lustosa  Torres , ordenador de despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência desta  Decisão  ao Sr.  Ronni  Kley  Lustosa  Torres , ordenador de despesas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho se refere a dar ciência da decisão, o que está relacionado com a transparência das decisões.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  presente  processo,  nos  termos  do  Regimento  Interno desta Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  presente  processo,  nos  termos  do  Regimento  Interno desta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho descreve o arquivamento do processo, que é um procedimento interno do TCE.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

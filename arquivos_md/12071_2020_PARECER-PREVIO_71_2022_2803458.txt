@@ -1,0 +1,161 @@
+{
+  "acordao": "71/2022",
+  "processo": "12071/2020",
+  "data_sessao": "11 de Outubro de 2022",
+  "orgao": "Prefeitura Municipal de Manicoré",
+  "municipio": "Manicoré",
+  "exercicio": "2019",
+  "responsavel": [
+    "Manuel Sebastião Pimentel de Medeiros"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a instauração de Tomada de Contas Especial, no prazo de 60 dias, em face da Prestação de Contas Anual da Prefeitura Municipal de Manicoré, referente ao exercício de 2019, de responsabilidade do Sr. Manuel Sebastião Pimentel de Medeiros, ex-Gestor Municipal de Manicoré, nos termos do art. 9º c/c o art. 35 da Lei nº 2423/96 - Lei Orgânica, bem como do art. 195, caput e do art. 196, §3º, da Resolução nº 04/2002 - RI-TCE/AM, em razão das impropriedades da DICAMI e DICOP, órgãos técnicos deste Tribunal de Contas, quais sejam: Irregularidades apontadas pela Diretoria De Controle Externo da Administração dos Municípios do Interior no Relatório Conclusivo nº 08/2022 - DICAMI (fls. 1067 - 1112):",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência ou deficiência documentos no procedimento licitatório, na modalidade Pregão Presencial.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência ou deficiência documentos no procedimento licitatório, na modalidade Pregão Presencial.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A descrição do achado indica a ausência de documentos essenciais em um procedimento licitatório, caracterizando a ausência de processo licitatório.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Inobservância de procedimentos em julgamento das Inexigibilidades.",
+      "trechos_identificados": [
+        {
+          "trecho": "Inobservância de procedimentos em julgamento das Inexigibilidades.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A descrição do achado indica inobservância nos procedimentos em julgamento das inexigibilidades, caracterizando a ausência de processo licitatório.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Inobservância de procedimentos licitatório na modalidade Convite.",
+      "trechos_identificados": [
+        {
+          "trecho": "Inobservância de procedimentos licitatório na modalidade Convite.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A descrição do achado indica inobservância nos procedimentos licitatório na modalidade Convite, caracterizando a ausência de processo licitatório.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência ou deficiência de acompanhamento adequado pela fiscalização.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "A descrição do achado indica a  Ausência ou deficiência de acompanhamento adequado pela fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Celebração de aditivos contratuais de prazo e de paralizações sem justificativa técnica adequada.",
+      "trechos_identificados": [
+        {
+          "trecho": "Celebração de aditivos contratuais de prazo e de paralizações sem justificativa técnica adequada.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A descrição do achado indica  Celebração de aditivos contratuais de prazo e de paralizações sem justificativa técnica adequada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não foram expedidas licenças ambientais para a obra inspecionada a qual se enquadra nas categorias para as quais o licenciamento é exigível.",
+      "trechos_identificados": [
+        {
+          "trecho": "Não foram expedidas licenças ambientais para a obra inspecionada a qual se enquadra nas categorias para as quais o licenciamento é exigível.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A20A",
+          "tipologia_irregularidade": "Não foram expedidas licenças ambientais para a obra inspecionada a qual se enquadra nas categorias para as quais o licenciamento é exigível",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício.",
+          "justificativa_tipologia": "A descrição do achado indica não foram expedidas licenças ambientais para a obra inspecionada a qual se enquadra nas categorias para as quais o licenciamento é exigível",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual 3.785/12",
+              "artigo": "3º e 6º",
+              "descricao": "Dispõe sobre o licenciamento ambiental no estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Cumprimento de prazos de envio ao TCE/AM e de publicação, inclusive no Portal da Transparência do RREO (bimestral) e do RGF (semestral ou quadrimestral), conforme a Resolução TCE nº. 15/2013 c/c a Resolução TCE nº. 24/13, o Art. 165, §3º, da Constituição Federal c/c o art. 52 da LC nº 101/00, a Lei Estadual 2.423/96 c/c as Resoluções 15 e 24/13, o Art. 55, §2º da LC nº 101/00;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Cumprimento de prazo e o envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que se mantenha o Portal da Transparência atualizado, com divulgação em tempo real das informações de interesse coletivo ou geral, conforme dispõe o art. 8°, §§ 2° e 4° da Lei nº 12.527/2012;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que se mantenha as Fichas de Funcionais dos servidores da Prefeitura devidamente atualizadas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Regularize o registro dos bens de caráter permanente, móveis e imóveis em cumprimento aos arts. 94 e 95 da Lei Federal n.º 4.320/64;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Regularize o controle geral do patrimônio da Prefeitura Municipal, a fim de identificar o objeto, número de tombamento, setor onde se encontram os materiais/bens, através de Secretaria, Departamento ou servidor responsável pela guarda e administração, em cumprimento ao art. 94 da Lei n°4.320/64.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Manuel Sebastião Pimentel de Medeiros, ex-Gestor Municipal de Manicoré, sobre a decisão desta Corte de Contas, ficando autorizada a emissão de nova notificação ao interessado, caso a primeira seja frustrada. Ato contínuo, se, porventura, persistir a problemática, para não restarem dúvidas quanto à sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "acordao": "1815/2024",
+  "processo": "11986/2023",
+  "data_sessao": "05 de Novembro de 2024",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Barcelos - SAAE",
+  "municipio": "Barcelos",
+  "exercicio": "2022",
+  "responsavel": [
+    "Salvador Florencio da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Salvador Florêncio da Silva , responsável pelo Serviço Autônomo de Água e Esgoto de Barcelos, exercício de 2022",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar revel o Sr. Salvador Florêncio da Silva , nos termos do art. 20, § 4º, da Lei n.º 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa no  valor  total de R$  38.654,40 (trinta e  oito mil, seiscentos  e  cinquenta  e  quatro  reais  e  quarenta  centavos)  ao Sr. Salvador Florêncio da Silva , conforme descrição abaixo:",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 25.000,00 nos termos do art. 54, VI, da Lei n.º 2.423/96 c/c art. 308, VI, do RI-TCE/AM, em face dos achados nº 02, 03, 04, 05, 09, 11, 12, 13, 14, 15, itens 'a' a 'f', 16, itens 'a' a 'e' e 17, itens 'a' a 'e', da notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada em decorrência de múltiplos achados que indicam falhas na documentação contábil, incluindo a ausência de notas explicativas, o que dificulta a transparência e a rastreabilidade das operações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, VI",
+              "descricao": "Multa aplicada conforme a Lei n.º 2.423/96."
+            },
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "A multa é aplicada de acordo com o Regimento Interno do TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "no valor de R$ 6.827,19 nos termos do art. 54, V, da Lei n.º 2.423/96 c/c art. 308, V, do RI-TCE/AM, em face dos danos ao erário descritos nos achados nº 06, item 'a', 07, item 'a', 08 e 10 da notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A multa é aplicada devido a danos ao erário decorrentes de achados na notificação, indicando pagamentos irregulares ou falta de comprovação de despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, V",
+              "descricao": "Multa aplicada conforme a Lei n.º 2.423/96."
+            },
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "308, V",
+              "descricao": "A multa é aplicada de acordo com o Regimento Interno do TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "no valor de R$ 6.827,20 , nos termos do art. 54, I, 'a', da Lei n.º 2.423/96 c/c art. 308, I, 'a', do RI-TCE/AM, em face do encaminhamento intempestivo de dados pertinentes às competências de janeiro, fevereiro, março e agosto de 2022, em desobediência aos comandos do art. 15 c/c art. 20 da Lei Complementar n.º 06/1991.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao encaminhamento fora do prazo dos dados, em descumprimento com a legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, I, 'a'",
+              "descricao": "Multa aplicada conforme a Lei n.º 2.423/96."
+            },
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "A multa é aplicada de acordo com o Regimento Interno do TCE/AM."
+            },
+            {
+              "norma": "Lei Complementar n.º 06/1991",
+              "artigo": "15",
+              "descricao": "O encaminhamento de dados é tratado na Lei Complementar n.º 06/1991."
+            },
+            {
+              "norma": "Lei Complementar n.º 06/1991",
+              "artigo": "20",
+              "descricao": "O encaminhamento de dados é tratado na Lei Complementar n.º 06/1991."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance ao Sr. Salvador Florêncio Da Silva no valor de R$ 190.510,83 (cento e noventa mil, quinhentos e dez reais e oitenta e três centavos), em face dos débitos ao erário descritos nos achados nº 06, item 'a', 07, item 'a', 08 e 10 da notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão do SAAE de Barcelos que se abstenha de realizar as irregularidades identificadas pela CI-DICAMI, sob pena de aplicação de sanção pecuniária e desaprovação de vindouras Contas Anuais",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ofício",
+      "descricao": "Oficiar o eminente Ministério Público do Estado do Amazonas encaminhando-lhe cópia dos presentes autos para adotar as medidas que entender pertinentes em face dos achados levantados ao longo da prestação de contas do Sr. Salvador Florêncio da Silva , responsável pelo Serviço Autônomo de Água e Esgoto de Barcelos, no curso do exercício de 2022",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência do desfecho dos autos ao Sr. Salvador Florêncio da Silva e à atual gestão do SAAE de Barcelos.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "acordao": "1593/2022",
+  "processo": "12489/2020",
+  "data_sessao": "28 de setembro de 2022",
+  "orgao": "Instituto Municipal de Mobilidade Urbana - IMMU",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Franclides Corrêa Ribeiro",
+    "Manoel de Castro Paiva",
+    "Francisco Saldanha Bezerra"
+  ],
+  "itens": [
+    {
+      "tipo": "regular",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Instituto Municipal de Mobilidade Urbana - IMMU, relativa a exercício de 2019, de responsabilidade dos Srs.  Francisco  Saldanha  Bezerra ,  período  de 20/12/2019 a 31/12/2019, Manoel  de  Castro  Paiva , período de 29/07/2019  a  31/12/2019  e Franclides  Correa  Ribeiro , Período  de 13/05/2019  a  28/07/2019, nos  termos  do  art.  71,  II,  c/c  o  art.  75  da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Instituto Municipal de Mobilidade Urbana - IMMU, relativa a exercício de 2019, de responsabilidade dos Srs.  Francisco  Saldanha  Bezerra ,  período  de 20/12/2019 a 31/12/2019, Manoel  de  Castro  Paiva , período de 29/07/2019  a  31/12/2019  e Franclides  Correa  Ribeiro , Período  de 13/05/2019  a  28/07/2019, nos  termos  do  art.  71,  II,  c/c  o  art.  75  da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Não se aplica, por não se tratar de irregularidade",
+          "justificativa_tipologia": "justificativa=Não se aplica, por não se tratar de irregularidade",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Dispõe sobre as normas estabelecidas para os Tribunais de Contas dos Estados"
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do Tribunal de Contas do Estado do Amazonas para julgar as contas dos responsáveis pela administração dos recursos públicos estaduais"
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Complementa o artigo anterior, detalhando as responsabilidades e procedimentos para o julgamento das contas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Dar quitação ao Srs. Francisco Saldanha  Bezerra , período de 20/12/2019 a 31/12/2019, Manoel  de  Castro  Paiva , período de 29/07/2019  a  31/12/2019  e Franclides  Correa  Ribeiro , Período  de 13/05/2019  a  28/07/2019,  nos  termos  do  art.  24,  da  Lei  Estadual  nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Srs. Francisco Saldanha  Bezerra , período de 20/12/2019 a 31/12/2019, Manoel  de  Castro  Paiva , período de 29/07/2019  a  31/12/2019  e Franclides  Correa  Ribeiro , Período  de 13/05/2019  a  28/07/2019,  nos  termos  do  art.  24,  da  Lei  Estadual  nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Não se aplica, por não se tratar de irregularidade",
+          "justificativa_tipologia": "justificativa=Não se aplica, por não se tratar de irregularidade",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "24",
+              "descricao": "Define as condições para a quitação dos responsáveis pela gestão de recursos públicos"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Regulamenta os procedimentos para a concessão de quitação aos responsáveis pela gestão de recursos públicos no âmbito do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar ao  Instituto  Municipal  de  Mobilidade  Urbana  -  IMMU, na forma do art. 140, IV, da Res. TCE/AM nº 04/02, que observe a legislação pertinente quanto ao Portal da Transparência em conjunto com o Sistema E-contas,  visto  a  ausência  de  informações  a  respeito  dos  contratos, licitações, dispensas, diárias, etc. firmados/concedidos pelo IMMU",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Instituto  Municipal  de  Mobilidade  Urbana  -  IMMU, na forma do art. 140, IV, da Res. TCE/AM nº 04/02, que observe a legislação pertinente quanto ao Portal da Transparência em conjunto com o Sistema E-contas,  visto  a  ausência  de  informações  a  respeito  dos  contratos, licitações, dispensas, diárias, etc. firmados/concedidos pelo IMMU",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "O IMMU não divulgou informações sobre contratos, licitações, dispensas e diárias no Portal da Transparência, em conjunto com o Sistema E-contas.",
+          "justificativa_tipologia": "justificativa=O trecho indica a ausência de informações importantes no portal de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. TCE/AM nº 04/02",
+              "artigo": "140, IV",
+              "descricao": "Estabelece as diretrizes para as recomendações do TCE/AM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

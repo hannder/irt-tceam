@@ -1,0 +1,115 @@
+{
+  "acordao": "142/2017",
+  "processo": "1245/2016",
+  "data_sessao": "16 de Maio de 2017",
+  "orgao": "Secretaria de Estado de Política Fundiária - SPF",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Ivanhoé Amazonas Mendes Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria de Estado de Política Fundiária - SPF, que no prazo de 30 dias, adote as providências necessárias para:",
+      "trechos_identificados": [
+        {
+          "trecho": "Instaurar procedimento administrativo para cada uma  das ocupações.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A determinação de instaurar procedimento administrativo para cada ocupação irregular indica uma necessidade de regularização e formalização de processos, o que está relacionado a ausência de processo licitatório e a devida formalização legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "9, inciso I",
+              "descricao": "Exercício da competência do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "Elaborar  diagnóstico  acerca  da  situação  fundiária  global  da Unidade de Conservação RDS-Rio Negro.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "A elaboração de diagnóstico da situação fundiária global da Unidade de Conservação RDS-Rio Negro está relacionada à necessidade de especificações técnicas detalhadas para a execução do objeto do projeto, incluindo normas, condições, materiais e equipamentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "9, inciso I",
+              "descricao": "Exercício da competência do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "Elabore  o  Plano  de  Regularização  fundiária  da  Unidade,  que deverá ser integrado por um cronograma executivo com os prazos para a realização, com  detalhamento  de  fontes  de  recursos financeiros  necessários  à  regularização,  definição  de  prioridades entre  as  áreas  a  serem  regularizadas  e  instrumentos  a  serem utilizados, bem como o seu modo de execução",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A14B",
+          "tipologia_irregularidade": "O Projeto Básico não possui Cronograma físico financeiro que apresente a distribuição adequada dos serviços e custos ao longo do tempo com o percentual físico-financeiro a ser despendido",
+          "descricao": "O Projeto Básico não possui Cronograma físico financeiro que apresente a distribuição adequada dos serviços e custos ao longo do tempo com o percentual físico-financeiro a ser despendido",
+          "justificativa_tipologia": "A elaboração do plano de regularização fundiária está relacionada à necessidade de um cronograma físico-financeiro detalhado que distribua adequadamente os serviços e custos ao longo do tempo, com percentuais claros a serem despendidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "9, inciso I",
+              "descricao": "Exercício da competência do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Após o escoamento do prazo supra, que Secretaria de Política Fundiária, encaminhe ao TCE/AM documentos que demonstrem o cumprimento das determinações efetuadas, ou que comprovem as medidas adotadas para o cumprimento; sob pena de multa do art. 54,  IV,  da  Lei  nº  2.423/96  c/c  art.  308,  I,  'a',  da  Resolução  nº 04/2002 TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Após o escoamento do prazo supra, que Secretaria de Política Fundiária, encaminhe ao TCE/AM documentos que demonstrem o cumprimento das determinações efetuadas, ou que comprovem as medidas adotadas para o cumprimento; sob pena de multa do art. 54,  IV,  da  Lei  nº  2.423/96  c/c  art.  308,  I,  'a',  da  Resolução  nº 04/2002 TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação de encaminhar documentos que demonstrem o cumprimento das determinações efetuadas está relacionada ao envio de informações dentro de prazos estabelecidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Estabelece multa por descumprimento de decisões do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "Regulamenta a aplicação de multas por descumprimento de decisões do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "CIÊNCIA",
+      "descricao": "Oficiar ao Ministério Público Estadual, com cópia dos autos, para que tomem  ciência  das  irregularidades  frente  a  atuação  da  Secretaria  de Estado de Política Fundiária -SPF  na região da Reserva de Desenvolvimento  Sustentável  do  Rio  Negro  -  RDS,  em  função  da suposta conduta omissiva quando da titulação de terras nesta unidade de  conservação;  a  fim  de  que  adotem  as  medidas  que  entender cabíveis.",
+      "trechos_identificados": [
+        {
+          "trecho": "Oficiar ao Ministério Público Estadual, com cópia dos autos, para que tomem  ciência  das  irregularidades frente a atuação da Secretaria de Estado de Política Fundiária -SPF  na região da Reserva de Desenvolvimento  Sustentável  do  Rio  Negro  -  RDS,  em  função  da suposta conduta omissiva quando da titulação de terras nesta unidade de  conservação;  a  fim  de  que  adotem  as  medidas  que  entender cabíveis.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A40B",
+          "tipologia_irregularidade": "Não divulga Carta de Serviços ao Usuário",
+          "descricao": "Não foi encontrada Carta de Serviços ao Usuário.",
+          "justificativa_tipologia": "O envio de informações ao Ministério Público Estadual para ciência das irregularidades está relacionado com a garantia de que as informações relevantes sejam compartilhadas com os órgãos competentes para que tomem as medidas cabíveis. A Carta de Serviços ao Usuário é um documento importante para garantir a transparência e a clareza das informações disponíveis aos cidadãos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

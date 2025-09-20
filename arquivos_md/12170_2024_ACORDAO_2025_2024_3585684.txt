@@ -1,0 +1,63 @@
+{
+  "acordao": "2025/2024",
+  "processo": "12170/2024",
+  "data_sessao": "10 de Dezembro de 2024",
+  "orgao": "Fundo Estadual de Recursos Hídricos - FERH/AM",
+  "municipio": "Manaus",
+  "exercicio": "2023",
+  "responsavel": [
+    "Eduardo Costa Taveira",
+    "Luzia Raquel Queiroz Rodrigues Said"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a  Prestação de Contas Anual do Fundo Estadual de Recursos  Hídricos  -  FERH,  exercício  financeiro  de  2023,  sob  a responsabilidade do Sr. Eduardo Costa Taveira , presidente do fundo estadual  de  recursos  hídricos  -  FERH  e  da Sra.  Luzia  Raquel Queiroz  Rodrigues  Said , secretária  executiva  e  ordenadora  de despesas, nos termos do art. 22, inciso I, da Lei n.º 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Estadual De Recursos Hídricos - FERH/AM, sob a responsabilidade do Sr. Eduardo Costa Taveira , presidente do fundo estadual de recursos hídricos - FERH e da Sra. Luzia Raquel Queiroz Rodrigues Said , secretária executiva e ordenadora de despesas, que adote as providências necessárias para impulsionar as atividades do Fundo, a fim de que este possa cumprir a finalidade para o qual foi instituído, nos termos da Lei nº 2.712, de 28 de dezembro de 2001",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr.  Eduardo  Costa  Taveira e  a Sra.  Luzia  Raquel Queiroz Rodrigues Said , com cópia do Relatório/Voto e o sequente Acórdão para que tome ciência do decisório",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que nas próximas inspeções ordinárias:\n- 10.4.1. acompanhe se houve adoção de providências efetivas quanto à disponibilização, aplicação e destinação eficientes das receitas vinculadas no FERH, mediante a elaboração de projetos e execução de obras e serviços do Plano Estadual de Recursos Hídricos, em cumprimento ao art. 35, incisos I a VIII e parágrafo único da Lei nº 3.167, de 27 de agosto de 2007, que reformula as normas disciplinadoras da Política Estadual de Recursos Hídricos;\n- 10.4.2. acompanhe o deslinde do processo administrativo SIGED n. º 01.01.030101.001861/2021-23, o qual está em curso (fls. 366374), verificando se foi sanada a divergência entre os registros contábeis do Fundo e os registros patrimoniais da SEMA.",
+      "trechos_identificados": [
+        {
+          "trecho": "acompanhe se houve adoção de providências efetivas quanto à disponibilização, aplicação e destinação eficientes das receitas vinculadas no FERH, mediante a elaboração de projetos e execução de obras e serviços do Plano Estadual de Recursos Hídricos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "O trecho indica uma determinação para acompanhar a execução e destinação de recursos, o que se relaciona com a tipologia de atraso na execução.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 3.167",
+              "artigo": "35, incisos I a VIII e parágrafo único",
+              "descricao": "Art. 35, incisos I a VIII e parágrafo único da Lei nº 3.167, de 27 de agosto de 2007, que reformula as normas disciplinadoras da Política Estadual de Recursos Hídricos"
+            }
+          ]
+        },
+        {
+          "trecho": "acompanhe o deslinde do processo administrativo SIGED n. º 01.01.030101.001861/2021-23, o qual está em curso (fls. 366374), verificando se foi sanada a divergência entre os registros contábeis do Fundo e os registros patrimoniais da SEMA.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "justificativa_tipologia": "O trecho descreve o acompanhamento da correção de uma divergência entre registros contábeis e patrimoniais, o que se enquadra nessa tipologia.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

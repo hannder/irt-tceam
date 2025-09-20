@@ -1,0 +1,84 @@
+{
+  "acordao": "215/2013",
+  "processo": "1160/2012",
+  "data_sessao": "11 de dezembro de 2013",
+  "orgao": "Câmara Municipal de Tefé",
+  "municipio": "Tefé",
+  "exercicio": "2011",
+  "responsavel": [
+    "Juvenal Correa Lopes Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR COM RESSALVAS a Prestação de Contas Anual da Câmara Municipal de Tefé, exercício de 2011, do Senhor Juvenal Corrêa Lopes Filho ex Presidente da Câmara Municipal e Ordenador de Despesas, com fulcro nos arts.1º, II, 22, II, e 24 da Lei Estadual n.2.423/96 e arts.188, §1º, I, e 189, II, da Resolução n.04/02TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR COM RESSALVAS a  Prestação de Contas Anual da Câmara Municipal de Tefé, exercício de 2011, do Senhor Juvenal Corrêa Lopes Filho ex Presidente da Câmara Municipal e Ordenador de Despesas, com fulcro nos arts.1º, II, 22, II, e 24 da Lei Estadual n.2.423/96 e arts.188, §1º, I, e 189, II, da Resolução n.04/02TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Ainda que a conta tenha sido aprovada com ressalvas, é importante sinalizar que houve ausência de comprovação de informações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências"
+            },
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências"
+            },
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas e dá outras providências"
+            },
+            {
+              "norma": "Resolução n.04/02TCE",
+              "artigo": "188",
+              "descricao": "Regimento Interno do TCE"
+            },
+            {
+              "norma": "Resolução n.04/02TCE",
+              "artigo": "189",
+              "descricao": "Regimento Interno do TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar  a  Origem,  para  que  observe  com  maior  atenção  as determinações das Leis 4.320/64 e 8666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  a  Origem,  para  que  observe  com  maior  atenção  as determinações das Leis 4.320/64 e 8666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para observar com maior atenção as determinações das Leis 4.320/64 e 8666/93 sugere deficiências no controle interno, como falta de processos bem definidos, supervisão inadequada, ou ausência de mecanismos de verificação e correção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Leis 4.320/64",
+              "artigo": "null",
+              "descricao": "Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Leis 8666/93",
+              "artigo": "null",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "acordao": "697/2015",
+  "processo": "1484/2015",
+  "data_sessao": "02 de setembro de 2015",
+  "orgao": "Hospital Geral Dr. Geraldo da Rocha",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Ana Maria Belota de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar Irregulares as Contas do Hospital Geraldo da Rocha , exercício de 2014, sob a responsabilidade da Sra. Ana Maria Belota de Oliveira, Diretora e Ordenadora de despesas, nos termos do art. 22, III, alínea \"b\" c/c o art. 25, ambos da Lei n° 2.423/96-TCE/AM e art. 5°, inciso II, da Resolução n° 04/2002-RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregulares as Contas do Hospital Geraldo da Rocha , exercício de 2014, sob a responsabilidade da Sra. Ana Maria Belota de Oliveira, Diretora e Ordenadora de despesas, nos termos do art. 22, III, alínea \"b\" c/c o art. 25, ambos da Lei n° 2.423/96-TCE/AM e art. 5°, inciso II, da Resolução n° 04/2002-RITCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A irregularidade nas contas do hospital indica uma falha na gestão contábil, especialmente no balanço financeiro, impactando a transparência e confiabilidade dos registros contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96-TCE/AM",
+              "artigo": "22, III, alínea \"b\"",
+              "descricao": "Define as responsabilidades dos ordenadores de despesas e as consequências por irregularidades."
+            },
+            {
+              "norma": "Lei n° 2.423/96-TCE/AM",
+              "artigo": "25",
+              "descricao": "Estabelece as sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "5°, inciso II",
+              "descricao": "Regulamenta os procedimentos para o julgamento das contas no âmbito do Tribunal de Contas do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multar",
+      "descricao": "Multar a Sra. Ana Maria Belota de Oliveira , Diretora e Ordenadora de despesas do Hospital Geraldo da Rocha no valor de no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), referente a 20% do valor previsto no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, VI, da Resolução n° 04/2000RI-TCE/AM, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 6 e 7 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar a Sra. Ana Maria Belota de Oliveira , Diretora e Ordenadora de despesas do Hospital Geraldo da Rocha no valor de no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), referente a 20% do valor previsto no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, VI, da Resolução n° 04/2000RI-TCE/AM, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 6 e 7 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A multa aplicada devido a grave infração de normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais indica um problema significativo na gestão dos recursos públicos, impactando a economicidade e legalidade da administração.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Estabelece o valor da multa aplicável em casos de irregularidades."
+            },
+            {
+              "norma": "Resolução n° 04/2000RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Define os procedimentos para aplicação de multas por infrações às normas legais e regulamentares."
+            },
+            {
+              "norma": "Resolução n° 25/2012-TCE/AM",
+              "artigo": "NA",
+              "descricao": "Altera a Resolução n° 04/2000RI-TCE/AM, possivelmente ajustando os valores ou procedimentos relacionados às multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar",
+      "descricao": "Fixar o prazo de 30 (trinta) dias , para que a Sra. Ana Maria Belota de Oliveira, Diretora e Ordenadora de despesas do Hospital Geraldo da Rocha, recolha o valor da multa que lhe foi aplicada aos cofres públicos (art. 72, III, 'c', da Lei nº 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias , para que a Sra. Ana Maria Belota de Oliveira, Diretora e Ordenadora de despesas do Hospital Geraldo da Rocha, recolha o valor da multa que lhe foi aplicada aos cofres públicos (art. 72, III, 'c', da Lei nº 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento da multa é um procedimento administrativo padrão, essencial para garantir o cumprimento das decisões do Tribunal de Contas e a responsabilização dos gestores públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Estabelece o prazo para recolhimento de multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "NA",
+              "descricao": "Regulamenta os procedimentos para cobrança e execução de débitos perante o Tribunal de Contas do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Autorizar , em caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei nº 2.423/96, art. 169, II, art. 173, e § 6º do art. 308, todos da Resolução nº 04/2002- TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar , em caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei nº 2.423/96, art. 169, II, art. 173, e § 6º do art. 308, todos da Resolução nº 04/2002- TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A autorização para inscrição em dívida ativa é um procedimento padrão para garantir a recuperação de valores devidos ao erário, conforme estabelecido na legislação e regulamentação pertinentes.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "73",
+              "descricao": "Dispõe sobre a inscrição de débitos na Dívida Ativa e a execução fiscal."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE",
+              "artigo": "169, II, art. 173, e § 6º do art. 308",
+              "descricao": "Regulamenta os procedimentos para a inscrição de débitos em dívida ativa e a execução fiscal no âmbito do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Origem que: Nos exercícios vindouros seja adotado um melhor planejamento de suas ações, para que fatos como estes não voltem a acontecer, evitando a fragmentação de despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Nos exercícios vindouros seja adotado um melhor planejamento de suas ações, para que fatos como estes não voltem a acontecer, evitando a fragmentação de despesas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A41C",
+          "tipologia_irregularidade": "Inobservância do princípio do formalismo moderado",
+          "descricao": "A auditoria constatou desclassificação de licitante com melhor proposta, em decorrência de irregularidade passível de saneamento mediante diligência.",
+          "justificativa_tipologia": "A recomendação para melhor planejamento visa evitar a fragmentação de despesas, um problema recorrente na administração pública que pode levar a contratações inadequadas e prejuízo ao erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Origem que: Observe com maior rigor os ditames da Lei n° 8.666/93, principalmente no que diz respeito ao artigo 24 e seus incisos",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com maior rigor os ditames da Lei n° 8.666/93, principalmente no que diz respeito ao artigo 24 e seus incisos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A recomendação para maior rigor na observância da Lei nº 8.666/93, especialmente no que se refere à dispensa de licitação, indica uma preocupação com o cumprimento das normas que regem as contratações públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "24",
+              "descricao": "Dispõe sobre as hipóteses de dispensa de licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Origem que: Implante o serviço de Controle Interno em prazo razoável, podendo ser penalizada caso esta impropriedade persista",
+      "trechos_identificados": [
+        {
+          "trecho": "Implante o serviço de Controle Interno em prazo razoável, podendo ser penalizada caso esta impropriedade persista",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para implantar o serviço de controle interno em prazo razoável visa fortalecer a gestão pública, garantindo a conformidade com as normas e a prevenção de irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Origem que: Sane em tempo hábil (exercício financeiro vigente) as pendências financeiras, evitando assim a reincidência nessa questão",
+      "trechos_identificados": [
+        {
+          "trecho": "Sane em tempo hábil (exercício financeiro vigente) as pendências financeiras, evitando assim a reincidência nessa questão",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A3C",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes",
+          "justificativa_tipologia": "A recomendação para sanar as pendências financeiras no exercício vigente tem como objetivo garantir a saúde financeira da instituição e evitar o acúmulo de problemas ao longo do tempo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

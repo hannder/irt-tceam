@@ -1,0 +1,38 @@
+{
+  "acordao": "839/2022",
+  "processo": "11581/2021",
+  "data_sessao": "31 de Maio de 2022",
+  "orgao": "Serviço  de  Pronto  Atendimento  e  Hospital  Dr.  Aristóteles  Platão  Bezerra  de Araújo - SPA Platão de Araújo",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Aída Cristina Tapajós Andrade",
+    "Márcio Rafael Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar ao  atual  gestor  do Serviço  de  Pronto  Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo que  mantenha  atualizadas  as  fichas  funcionais  dos  servidores, mais especificamente dos cargos comissionados, em cumprimento ao art. 289, §1º da Resolução n. 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  atual  gestor  do Serviço  de  Pronto  Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo que  mantenha  atualizadas  as  fichas  funcionais  dos  servidores, mais especificamente dos cargos comissionados, em cumprimento ao art. 289, §1º da Resolução n. 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "art. 289, §1º da Resolução n. 04/2002 - TCE/AM",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2C",
+          "tipologia_irregularidade": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "descricao": "Inexistência de informações e documentos obrigatórios nos prontuários dos servidores.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"art. 289, §1º da Resolução n. 04/2002 - TCE/AM\"; justificativa=\"A recomendação visa sanar a ausência de atualização de informações básicas dos servidores, o que dificulta a fiscalização e a transparência da gestão de pessoal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002 - TCE/AM",
+              "artigo": "289, §1º",
+              "descricao": "Dispõe sobre a necessidade de manter atualizadas as fichas funcionais dos servidores."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

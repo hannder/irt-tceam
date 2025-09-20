@@ -1,0 +1,413 @@
+{
+  "acordao": "30/2019",
+  "processo": "11091/2014",
+  "data_sessao": "16 de Julho de 2019",
+  "orgao": "TCE",
+  "municipio": "Apuí",
+  "exercicio": "2013",
+  "responsavel": [
+    "Adimilson Nogueira"
+  ],
+  "itens": [
+    {
+      "tipo": "regular",
+      "descricao": "Julgar  regular  com ressalvas a  Prestação  de  Contas  da  Prefeitura Municipal de Apuí, exercício 2013, de responsabilidade do Sr. Adimilson  Nogueira -  Ordenador  das  despesas,  com  fulcro  no  art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com ressalvas a  Prestação  de  Contas  da  Prefeitura Municipal de Apuí, exercício 2013, de responsabilidade do Sr. Adimilson  Nogueira -  Ordenador  das  despesas,  com  fulcro  no  art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Não se aplica, pois não é uma irregularidade relevante para o índice.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Fundamentação legal para a regularidade com ressalvas"
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Fundamentação legal para a regularidade com ressalvas"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Fundamentação legal para a regularidade com ressalvas"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "Fundamentação legal para a regularidade com ressalvas"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "Fundamentação legal para a regularidade com ressalvas"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Fundamentação legal para a regularidade com ressalvas"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "25",
+              "descricao": "Fundamentação legal para a regularidade com ressalvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 8.534,00 (Oito mil, quinhentos e trinta e quatro reais) que deverá ser recolhida no  prazo  de  30  dias  para  o  Cofre  Estadual  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, com fundamento no art. 308, I, 'b' da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pelo item 27 do Voto. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado  pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei\nOrgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 8.534,00 (Oito mil, quinhentos e trinta e quatro reais) que deverá ser recolhida no  prazo  de  30  dias  para  o  Cofre  Estadual  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, com fundamento no art. 308, I, 'b' da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pelo item 27 do Voto. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento ( autenticado  pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei\nOrgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Não se aplica, pois não é uma irregularidade relevante para o índice.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, I, 'b'",
+              "descricao": "Multa aplicada ao responsável"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Obrigação de encaminhar o comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 4.000,00 (Quatro mil reais) que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, com fundamento no art. 308, II da Resolução n. 04/2002 com redação dada pela  Resolução  n.  04/2018  pelo  item  10  do  Voto.  Dentro  do  prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 4.000,00 (Quatro mil reais) que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, com fundamento no art. 308, II da Resolução n. 04/2002 com redação dada pela  Resolução  n.  04/2018  pelo  item  10  do  Voto.  Dentro  do  prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Não se aplica, pois não é uma irregularidade relevante para o índice.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, II",
+              "descricao": "Multa aplicada ao responsável"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Obrigação de encaminhar o comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 4.000,00 (Quatro mil reais) que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, com fundamento  no  art.  308,  VII  da  Resolução  n.  04/2002  com  redação dada pela Resolução n. 04/2018 pelos itens 7.1, 7.2, 7.3, 5, 20 e 30 do Voto. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento (autenticado  pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\"  ,  da  Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 4.000,00 (Quatro mil reais) que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, com fundamento  no  art.  308,  VII  da  Resolução  n.  04/2002  com  redação dada pela Resolução n. 04/2018 pelos itens 7.1, 7.2, 7.3, 5, 20 e 30 do Voto. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento (autenticado  pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\"  ,  da  Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Não se aplica, pois não é uma irregularidade relevante para o índice.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, VII",
+              "descricao": "Multa aplicada ao responsável"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Obrigação de encaminhar o comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Autorizar Inscrição na Dívida Ativa do Sr. Adimilson Nogueira em caso  de  recolhimento  das  multas  no  prazo  estabelecido  com  as devidas atualizações monetárias, ficando, desde já, autorizada a DERED  a  adoção  das  medidas  previstas  no  art.  175  da  Resolução TCE 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar Inscrição na Dívida Ativa do Sr. Adimilson Nogueira em caso  de  recolhimento  das  multas  no  prazo  estabelecido  com  as devidas atualizações monetárias, ficando, desde já, autorizada a DERED  a  adoção  das  medidas  previstas  no  art.  175  da  Resolução TCE 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Não se aplica, pois não é uma irregularidade relevante para o índice.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Medidas a serem adotadas em caso de não recolhimento das multas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Mantenha durante todo o exercício em local de fácil acesso e, na Câmara Municipal, cópia da Prestação de Contas Anuais enviada a",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Apuí que: Mantenha durante todo o exercício em local de fácil acesso e, na Câmara Municipal, cópia da Prestação de Contas Anuais enviada a",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Falta de mecanismos para garantir a transparência das contas públicas e facilitar o acesso à informação.",
+          "justificativa_tipologia": "justificativa=\"A recomendação indica que a prefeitura não mantém a prestação de contas em local de fácil acesso, o que dificulta o controle social e a transparência, caracterizando uma não implementação do controle interno.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "10.6.2. Mantenha  atualizado  o  Portal  da  Transparência  do  Município, observando com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha  atualizado  o  Portal  da  Transparência  do  Município, observando com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Falta de atualização do portal de transparência impede o acesso facilitado às informações públicas.",
+          "justificativa_tipologia": "justificativa=\"A recomendação explicita a ausência de atualização do portal de transparência, o que impede o acesso facilitado às informações públicas e dificulta o controle social, caracterizando uma não implementação do controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n. 131/2009",
+              "artigo": "Não aplicável",
+              "descricao": "Lei da Transparência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Realize  inventário  anual  dos  bens  móveis  e  imóveis,  assim como  proceda  à  atualização  dos  respectivos  valores  contábeis  por ocasião  da  elaboração  de  Balanço  Patrimonial,  em  observância  aos princípios  contábeis  da  Continuidade,  Oportunidade,  Competência  e, principalmente do Registro pelo Valor Original",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize  inventário  anual  dos  bens  móveis  e  imóveis,  assim como  proceda  à  atualização  dos  respectivos  valores  contábeis  por ocasião  da  elaboração  de  Balanço  Patrimonial,  em  observância  aos princípios  contábeis  da  Continuidade,  Oportunidade,  Competência  e, principalmente do Registro pelo Valor Original",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Necessidade de inventário anual e atualização dos valores contábeis dos bens móveis e imóveis.",
+          "justificativa_tipologia": "justificativa=\"A recomendação explicita a necessidade de realizar inventário anual e atualizar os valores contábeis dos bens móveis e imóveis, o que está diretamente relacionado à tipologia de não atualização dos valores das contas de depreciação/amortização e exaustão no balanço patrimonial.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Verifique  a  implantação  do  Manual  de  Contabilidade  Aplicado ao  Setor  Público  (MCASP)  no  que  tange  à  nomeação  formal  de responsável  pelo  controle  de  materiais  de  consumo  com  prazo  até  o fim deste exercício por ocasião da Auditoria a ser realizada em 2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Verifique  a  implantação  do  Manual  de  Contabilidade  Aplicado ao  Setor  Público  (MCASP)  no  que  tange  à  nomeação  formal  de responsável  pelo  controle  de  materiais  de  consumo  com  prazo  até  o fim deste exercício por ocasião da Auditoria a ser realizada em 2015",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Falta de normatização para a nomeação formal de responsável pelo controle de materiais de consumo.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para verificar a implantação do MCASP e a nomeação formal de responsável pelo controle de materiais de consumo indica uma possível ausência de normatização das rotinas internas de controle de materiais.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Apresente nos prazos legais as devidas prestações de contas quadrimestrais e anual nos termos da legislação vigente sob pena de aplicação  da  sanção  prevista  na  alínea  'b'  do  inc.  IV  do  art.  308  da Resolução  TCE-AM nº  04/2002  e  alterações  posteriores  em  caso  de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Apresente nos prazos legais as devidas prestações de contas quadrimestrais e anual nos termos da legislação vigente sob pena de aplicação  da  sanção  prevista  na  alínea  'b'  do  inc.  IV  do  art.  308  da Resolução  TCE-AM nº  04/2002  e  alterações  posteriores  em  caso  de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Possíveis sanções por não apresentar as prestações de contas nos prazos legais.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para apresentar as prestações de contas nos prazos legais, sob pena de sanção, indica uma possível ausência de cumprimento das obrigações de controle interno relacionadas à prestação de contas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE-AM nº 04/2002",
+              "artigo": "308",
+              "descricao": "Sanções aplicáveis em caso de não cumprimento dos prazos legais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Mantenha  atualizadas  as  fichas  funcionais  dos  servidores públicos sob pena de aplicação da sanção prevista na alínea 'b' do inc. IV do  art. 308  da  Resolução  TCE-AM  nº  04/2002  e  alterações posteriores em caso de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha  atualizadas  as  fichas  funcionais  dos  servidores públicos sob pena de aplicação da sanção prevista na alínea 'b' do inc. IV do  art. 308  da  Resolução  TCE-AM  nº  04/2002  e  alterações posteriores em caso de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Necessidade de manter as fichas funcionais dos servidores atualizadas.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para manter as fichas funcionais dos servidores atualizadas, sob pena de sanção, indica uma possível ausência de normatização das rotinas internas de controle de pessoal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE-AM nº 04/2002",
+              "artigo": "308",
+              "descricao": "Sanções aplicáveis em caso de não cumprimento das obrigações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Regulamente  e  inclua  em  sua  legislação  a  inclusão  dos comprovantes de embarque nos processos de concessão de viagens a outras sedes municipais ou outras em que haja o pagamento de diárias para confirmação da efetivação da medida apresentada na defesa",
+      "trechos_identificados": [
+        {
+          "trecho": "Regulamente  e  inclua  em  sua  legislação  a  inclusão  dos comprovantes de embarque nos processos de concessão de viagens a outras sedes municipais ou outras em que haja o pagamento de diárias para confirmação da efetivação da medida apresentada na defesa",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Necessidade de regulamentar e incluir na legislação a exigência de comprovantes de embarque nos processos de concessão de diárias.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para regulamentar e incluir na legislação a exigência de comprovantes de embarque nos processos de concessão de diárias indica uma possível ausência de normatização das rotinas internas de controle de diárias.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Mantenha um Controle Interno funcione de forma eficiente",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha um Controle Interno funcione de forma eficiente",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Recomendação para que o controle interno funcione de forma eficiente.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para que o controle interno funcione de forma eficiente indica uma possível não implementação ou implementação deficiente do controle interno.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Observe com cautela a Lei complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com cautela a Lei complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A30B",
+          "tipologia_irregularidade": "Não conformidade com leis e regulamentos",
+          "descricao": "Necessidade de observar com cautela a Lei de Responsabilidade Fiscal.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para observar com cautela a Lei de Responsabilidade Fiscal indica uma possível não conformidade com leis e regulamentos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei complementar nº 101/2000",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Responsabilidade Fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Observe com o máximo zelo a Lei n. 4.320/64, principalmente quanto as fases da despesa pública",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com o máximo zelo a Lei n. 4.320/64, principalmente quanto as fases da despesa pública",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A30B",
+          "tipologia_irregularidade": "Não conformidade com leis e regulamentos",
+          "descricao": "Necessidade de observar as fases da despesa pública.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para observar com o máximo zelo a Lei 4.320/64, principalmente quanto às fases da despesa pública, indica uma possível não conformidade com leis e regulamentos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "Não aplicável",
+              "descricao": "Lei que rege as finanças públicas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Cumpra rigorosamente os prazos para publicação do Relatório de  Gestão  Fiscal  e  Relatório  Resumido  da  Execução  Orçamentária, conforme determinar a Lei de Responsabilidade Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra rigorosamente os prazos para publicação do Relatório de  Gestão  Fiscal  e  Relatório  Resumido  da  Execução  Orçamentária, conforme determinar a Lei de Responsabilidade Fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A30B",
+          "tipologia_irregularidade": "Não conformidade com leis e regulamentos",
+          "descricao": "Necessidade de cumprir rigorosamente os prazos para publicação do RGF e RREO.",
+          "justificativa_tipologia": "justificativa=\"A recomendação para cumprir rigorosamente os prazos para publicação do RGF e RREO indica uma possível não conformidade com leis e regulamentos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "Não aplicável",
+              "descricao": "Lei que estabelece normas para a gestão fiscal responsável"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Instaure  a  tomada  de  contas  das  diárias  pagas

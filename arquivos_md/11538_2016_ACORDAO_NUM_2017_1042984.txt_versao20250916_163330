@@ -1,0 +1,229 @@
+{
+  "acordao": "73/2017",
+  "processo": "11538/2016",
+  "data_sessao": "9 de Fevereiro de 2017",
+  "orgao": "Serviço Aut. de Água e Esgoto São Sebastião Uatumã",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2015",
+  "responsavel": [
+    "Pedro Furtado Terço"
+  ],
+  "itens": [
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: a) Observe  estritamente o  cumprimento  do  prazo  de  remessa  dos  informes periódicos  via Portal e  - Contas a este  Tribunal, conforme estabelece o art. 3º, da  Resolução  TCE  nº  13/2015,  assim  como às  Decisões  Administrativas  do Egrégio Tribunal Pleno desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: a) Observe  estritamente o  cumprimento  do  prazo  de  remessa  dos  informes periódicos  via Portal e  - Contas a este  Tribunal, conforme estabelece o art. 3º, da  Resolução  TCE  nº  13/2015,  assim  como às  Decisões  Administrativas  do Egrégio Tribunal Pleno desta Corte de Contas",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Resolução  TCE  nº  13/2015\"; justificativa=\"Recomendação para cumprimento de prazo para envio de informações, o que demonstra falha na documentação de controles internos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  TCE  nº  13/2015",
+              "artigo": "3º",
+              "descricao": "Estabelece o prazo para remessa de informes periódicos via Portal e-Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: b) Adote medidas para que as despesas com compras e serviços realizados em exercícios  futuros  pela  Autarquia  Municipal sejam  provenientes  de  Processos Administrativos, nos quais devem  constar  a solicitação i nicial indicando o destino  do  material  a  ser  adquirido  ou serviço  a  ser  prestado,  bem  como  os demais  documentos  necessários  à  realização  das  despesas,  com  objetivo  de centralizar e dar mais transparência à gestão pública",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: b) Adote medidas para que as despesas com compras e serviços realizados em exercícios  futuros  pela  Autarquia  Municipal sejam  provenientes  de  Processos Administrativos, nos quais devem  constar  a solicitação i nicial indicando o destino  do  material  a  ser  adquirido  ou serviço  a  ser  prestado,  bem  como  os demais  documentos  necessários  à  realização  das  despesas,  com  objetivo  de centralizar e dar mais transparência à gestão pública",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Recomendação para normatizar rotinas internas, o que indica a ausência destas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: c) A partir da Prestação de Contas do exercício de 2016, apresente o Inventário de Estoque  com  relatório dos materiais existentes no final do exercício, devendo  o  controle  de  entrada  e  saída  dos  mesmos  estar  disponível  para fiscalização, exigência expressa  no inciso  XLI do art. 2º  da  Resolução  TCE nº 04, de 16 de março de 2016",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: c) A partir da Prestação de Contas do exercício de 2016, apresente o Inventário de Estoque  com  relatório dos materiais existentes no final do exercício, devendo  o  controle  de  entrada  e  saída  dos  mesmos  estar  disponível  para fiscalização, exigência expressa  no inciso  XLI do art. 2º  da  Resolução  TCE nº 04, de 16 de março de 2016",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Resolução  TCE nº 04\"; justificativa=\"Recomendação para apresentação de inventário de estoque indica ausência de comprovação de valor registrado na conta 'Estoques'.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  TCE nº 04",
+              "artigo": "2º",
+              "descricao": "Expressa exigência de apresentação do Inventário de Estoque."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: d) Evite que as Guia de Recolhimento do INSS (GPS) sejam recolhidas fora do prazo e como via de consequência o pagamento de juros e multas,Publicado  no  Diário  Eletrônico  do TCE/AM,Estado do Amazonas",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: d) Evite que as Guia de Recolhimento do INSS (GPS) sejam recolhidas fora do prazo e como via de consequência o pagamento de juros e multas,Publicado  no  Diário  Eletrônico  do TCE/AM,Estado do Amazonas",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Recomendação para evitar pagamento de juros e multas por recolhimento fora do prazo, indicando falha no monitoramento de contratos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "evitando assim o prazo de pagamento estabelecido no art. 216, inciso I, alínea 'b', do Decreto n. 3.048/99 (Regulamento  da  Previdência  Social)  c/c  o  art.  12,  inciso  I,  e  art.  9,  inciso  I, alínea 'm', da mesma norma",
+      "trechos_identificados": [
+        {
+          "trecho": "evitando assim o prazo de pagamento estabelecido no art. 216, inciso I, alínea 'b', do Decreto n. 3.048/99 (Regulamento  da  Previdência  Social)  c/c  o  art.  12,  inciso  I,  e  art.  9,  inciso  I, alínea 'm', da mesma norma",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A30B",
+          "tipologia_irregularidade": "Não conformidade com leis e regulamentos",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Decreto n. 3.048/99\"; justificativa=\"Descumprimento de prazo de pagamento configura não conformidade com leis e regulamentos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto n. 3.048/99",
+              "artigo": "216",
+              "descricao": "Estabelece prazo de pagamento de contribuições previdenciárias."
+            },
+            {
+              "norma": "Decreto n. 3.048/99",
+              "artigo": "12",
+              "descricao": "Define regras sobre contribuições previdenciárias."
+            },
+            {
+              "norma": "Decreto n. 3.048/99",
+              "artigo": "9",
+              "descricao": "Define regras sobre contribuições previdenciárias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: e) Na formalização de futuros de Termos Aditivos, deverão serem procedidos de processo administrativo contendo justificativa por escrito e previamente autorizada  pela  autoridade  competente  para  celebrar  o  Termo  Aditivo,  em obediência ao art. 60, caput, e art. 57, § 2º, da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: e) Na formalização de futuros de Termos Aditivos, deverão serem procedidos de processo administrativo contendo justificativa por escrito e previamente autorizada  pela  autoridade  competente  para  celebrar  o  Termo  Aditivo,  em obediência ao art. 60, caput, e art. 57, § 2º, da Lei nº 8.666/93",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Lei nº 8.666/93\"; justificativa=\"Recomendação para que futuros termos aditivos sejam procedidos de processo administrativo com justificativa por escrito demonstra ausência ou deficiência na caracterização da situação.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "60",
+              "descricao": "Dispõe sobre a necessidade de processo administrativo para formalização de contratos."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "57",
+              "descricao": "Dispõe sobre as condições para alteração de contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: f) Na  formalização  de  futuros  Contratos  e  Aditivos  de  Contratos,  seja  feita  a publicação resumida do instrumento de contrato ou de seus aditamentos, que é condição indispensável para  sua eficácia, conforme  preceitua  o  parágrafo único do art. 61 da Lei nº 8.666",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  ao  Serviço  Autônomo  de  Água  e  Esgoto  São  Sebastião Uatumã - SAAE que: f) Na  formalização  de  futuros  Contratos  e  Aditivos  de  Contratos,  seja  feita  a publicação resumida do instrumento de contrato ou de seus aditamentos, que é condição indispensável para  sua eficácia, conforme  preceitua  o  parágrafo único do art. 61 da Lei nº 8.666",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Lei nº 8.666\"; justificativa=\"Recomendação para que publicação seja feita demonstra a ausência de cumprimento do requisito, para fins de dar eficácia ao instrumento.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666",
+              "artigo": "61",
+              "descricao": "Determina a publicação resumida do instrumento de contrato ou de seus aditamentos como condição para sua eficácia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Comissão de Inspeção - DICAMI que: a) Verifique  se  foi  efetivada  a  cobrança  administrativa  para  a  recuperação  do crédito  do  valor  R$  144.925,15,  proveniente  da  inscrição  de  Divida  Ativa  Não Tributária  dos  usuários  beneficiados  com  fornecimento  de  Água  Potável  da zona  rural  e  urbana  do  município,  conforme  registrado  nos  Créditos  a  Longo Prazo  do Ativo Não Circulante do Balanço Patrimonial do  exercício  de  2015  Anexo  14,  tendo  em  vista que  Autarquia no  exercício  de  2016  deveria  ter efetivado a cobrança do débito inscrito",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Comissão de Inspeção - DICAMI que: a) Verifique  se  foi  efetivada  a  cobrança  administrativa  para  a  recuperação  do crédito  do  valor  R$  144.925,15,  proveniente  da  inscrição  de  Divida  Ativa  Não Tributária  dos  usuários  beneficiados  com  fornecimento  de  Água  Potável  da zona  rural  e  urbana  do  município,  conforme  registrado  nos  Créditos  a  Longo Prazo  do Ativo Não Circulante do Balanço Patrimonial do  exercício  de  2015  Anexo  14,  tendo  em  vista que  Autarquia no  exercício  de  2016  deveria  ter efetivado a cobrança do débito inscrito",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Anexo 14\"; justificativa=\"Determinação para verificar cobrança administrativa de dívida ativa, indicando possível não-adoção de providências para cobrança.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Comissão de Inspeção - DICAMI que: b) Verifique o cumprimento das recomendações descritas acima",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Comissão de Inspeção - DICAMI que: b) Verifique o cumprimento das recomendações descritas acima",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Determinação para verificar o cumprimento das recomendações, o que indica a necessidade de implementação do Controle Interno.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Sepleno  -  Secretaria  do  Tribunal Pleno que adote as providências previstas no art. 162, § 1º, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Sepleno  -  Secretaria  do  Tribunal Pleno que adote as providências previstas no art. 162, § 1º, da Resolução 04/2002 - TCE/AM",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"Resolução 04/2002 - TCE/AM\"; justificativa=\"Determinação para que Sepleno adote providências previstas em normativo interno, indicando necessidade de normatização de rotinas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "162",
+              "descricao": "Define providências a serem adotadas pela Sepleno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "aplicar multa ao Sr. Pedro Furtado Terço no  valor  de R$ 1.096,03 ,  que devem ser recolhidos aos  cofres  da  Fazenda  Estadual  para  o  órgão  Encargos  Gerais  do  Estado  -  Sefaz, relativamente  à  intempestividade  na  remessa  dos  informes  periódicos  do  SAAE  de  São Sebastião do Uatumã  referente ao mês de  outubro de  2015,  com atraso de  54 dias, encaminhados  via  Portal  E-Contas  fora  do  prazo  concedido na  Ata da 38ª  Sessão Administrativa desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "aplicar multa ao Sr. Pedro Furtado Terço no  valor  de R$ 1.096,03 ,  que devem ser recolhidos aos  cofres  da  Fazenda  Estadual  para  o  órgão  Encargos  Gerais  do  Estado  -  Sefaz, relativamente  à  intempestividade  na  remessa  dos  informes  periódicos  do  SAAE  de  São Sebastião do Uatumã  referente ao mês de  outubro de  2015,  com atraso de  54 dias, encaminhados  via  Portal  E-Contas  fora  do  prazo  concedido na  Ata da 38ª  Sessão Administrativa desta Corte de Contas",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Ata da 38ª  Sessão Administrativa\"; justificativa=\"Aplicação de multa por envio intempestivo de informações, o que configura falha na documentação de controles internos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

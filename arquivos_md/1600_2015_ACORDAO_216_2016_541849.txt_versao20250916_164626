@@ -1,0 +1,109 @@
+{
+  "acordao": "216/2016",
+  "processo": "1600/2015",
+  "data_sessao": "02 de março de 2016",
+  "orgao": "Secretaria de Estado da Casa Militar - SECM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Wilson Martins de Araújo"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem , nos termos do art. 188, § 2º, I, da Resolução TCE nº 04/2002, que:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "institua no âmbito de sua estrutura organizacional setor competente para a realização do controle interno da unidade.",
+      "trechos_identificados": [
+        {
+          "trecho": "institua no âmbito de sua estrutura organizacional setor competente para a realização do controle interno da unidade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho indica a necessidade de implementar o controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "art. 188, § 2º, I",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "adote as providências cabíveis no sentido de comprovar e proceder à efetivação do estorno dos valores ao Erário Público e, posterior, encerramento da conta em questão, sob pena de responsabilização, nos termos regimentais;",
+      "trechos_identificados": [
+        {
+          "trecho": "adote as providências cabíveis no sentido de comprovar e proceder à efetivação do estorno dos valores ao Erário Público e, posterior, encerramento da conta em questão, sob pena de responsabilização, nos termos regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O trecho recomenda regularizar valores no balanço financeiro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "art. 188, § 2º, I",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "atente com melhor afinco aos ditames previstos na Lei de Licitações e Contratos",
+      "trechos_identificados": [
+        {
+          "trecho": "atente com melhor afinco aos ditames previstos na Lei de Licitações e Contratos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "O trecho recomenda atenção aos ditames da Lei de Licitações e Contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "art. 188, § 2º, I",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à comissão de inspeção do exercício vindouro que verifique o cumprimento destas recomendações",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à comissão de inspeção do exercício vindouro que verifique o cumprimento destas recomendações",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Determina a verificação do cumprimento das recomendações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste Acordão ao Sr. Wilson Martins de Araújo, Ordenador de Despesas e Secretário Chefe da Casa Militar do Governo do Estado do Amazonas",
+      "trechos_identificados": []
+    }
+  ]
+}

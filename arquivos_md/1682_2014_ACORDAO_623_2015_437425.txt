@@ -1,0 +1,132 @@
+{
+  "acordao": "623/2015",
+  "processo": "1682/2014",
+  "data_sessao": "19 de agosto de 2015",
+  "orgao": "Complexo Penitenciário Anísio Jobim - COMPAJ",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Louismar de Matos Bonates",
+    "Cícero Romão de Souza Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Regular com Ressalvas",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  do Complexo Penitenciário Anísio Jobim - COMPAJ, de responsabilidade do Senhor Louismar de Matos Bonates  -  Secretário  de  Estado  de  Justiça  e  Direitos  Humanos  e  do  Senhor  Cícero Romão de Souza Neto - Secretário Executivo de Justiça e Direitos Humanos e Ordenador de Despesas, referente ao exercício de 2013, nos termos do art. 22, inciso II, da Lei n. 2.423/96 c/c o art. 188, §1º, inciso II, da Resolução n. 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Órgão de Origem que providencie a criação de Comissão de Inspeção para realizar a Tomada de Contas Especial nas Prestações de Contas dos Adiantamentos concedidos ao Sr. Roberto Antônio Pereira dos Santos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Órgão de Origem que  promova  a  criação  de  Comissão  com  o  fito  de  fazer levantamento  de todos os bens adquiridos pela COMPAJ, mantendo atualizado o Livro Tombo, bem como, providenciando relatório contendo registro dos Bens demonstrando os elementos necessários para a perfeita caracterização de cada um deles, assim como os agentes responsáveis pela sua guarda e administração, conforme determina o art. 94 do Decreto Lei n. 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "que  promova  a  criação  de  Comissão  com  o  fito  de  fazer levantamento  de todos os bens adquiridos pela COMPAJ, mantendo atualizado o Livro Tombo, bem como, providenciando relatório contendo registro dos Bens demonstrando os elementos necessários para a perfeita caracterização de cada um deles, assim como os agentes responsáveis pela sua guarda e administração, conforme determina o art. 94 do Decreto Lei n. 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A deliberação determina a criação de comissão para levantamento e registro de bens, indicando uma preocupação com a correta identificação e controle do patrimônio, o que está relacionado à tipologia de ausência de elementos mínimos de caracterização dos bens.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Lei n. 4.320/64",
+              "artigo": "94",
+              "descricao": "Dispõe sobre a necessidade de elementos para a perfeita caracterização dos bens patrimoniais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Órgão de Origem que observe as regras da Lei n. 8666/1993, para realizar licitações sempre  que  possível,  a  fim  de  resguardar  o  interesse  público,  a  transparência  do processo e a igualdade dos concorrentes",
+      "trechos_identificados": [
+        {
+          "trecho": "que observe as regras da Lei n. 8666/1993, para realizar licitações sempre  que  possível,  a  fim  de  resguardar  o  interesse  público,  a  transparência  do processo e a igualdade dos concorrentes",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A recomendação para observar as regras da Lei de Licitações aponta para uma possível fragilidade nos processos licitatórios, o que se relaciona com a tipologia de ausência de processo licitatório ou dispensa/inexigibilidade sem amparo legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 8666/1993",
+              "artigo": "Não especificado",
+              "descricao": "Regulamenta o processo licitatório."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a próxima comissão desta corte de contas que Verifique  as  providências  tomadas  pelo  ordenador  de  despesas para  o  cumprimento  do  disposto  no  art.  94  do  Decreto  Lei  n.  4320/64,  bem  como  das regras insculpidas na Lei n. 8666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Verifique  as  providências  tomadas  pelo  ordenador  de  despesas para  o  cumprimento  do  disposto  no  art.  94  do  Decreto  Lei  n.  4320/64,  bem  como  das regras insculpidas na Lei n. 8666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A10C",
+          "tipologia_irregularidade": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "A determinação para verificar as providências tomadas pelo ordenador de despesas em relação ao cumprimento do art. 94 do Decreto Lei n. 4320/64 está relacionada à tipologia de ausência do Termo de Responsabilidade dos Bens Patrimoniais, pois este artigo trata da responsabilidade pela guarda e administração dos bens.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Lei n. 4320/64",
+              "artigo": "94",
+              "descricao": "Dispõe sobre as responsabilidades pela guarda e administração dos bens patrimoniais."
+            },
+            {
+              "norma": "Lei n. 8666/1993",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece normas gerais sobre licitações e contratos administrativos."
+            }
+          ]
+        },
+        {
+          "trecho": "Verifique  as  providências  tomadas  pelo  ordenador  de  despesas para  o  cumprimento  do  disposto   das regras insculpidas na Lei n. 8666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A determinação para verificar as providências tomadas pelo ordenador de despesas em relação ao cumprimento das regras da Lei nº 8666/1993 está relacionada à tipologia de ausência de processo licitatório ou dispensa/inexigibilidade sem amparo legal, pois esta lei estabelece as normas gerais sobre licitações e contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 8666/1993",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece normas gerais sobre licitações e contratos administrativos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a próxima comissão desta corte de contas que Verifique  as  providências  tomadas  pelo  ordenador  de  despesas quanto  a  criação  de  uma  comissão  para  realizarem  as  Tomadas  de  Contas  nos Adiantamentos concedidos ao Sr. Roberto Antônio Pereira dos Santos, cujo prazo para prestar contas expirou em 25.11.2013, e não foram apresentadas pelo responsável até a presente data",
+      "trechos_identificados": [
+        {
+          "trecho": "Verifique  as  providências  tomadas  pelo  ordenador  de  despesas quanto  a  criação  de  uma  comissão  para  realizarem  as  Tomadas  de  Contas  nos Adiantamentos concedidos ao Sr. Roberto Antônio Pereira dos Santos, cujo prazo para prestar contas expirou em 25.11.2013, e não foram apresentadas pelo responsável até a presente data",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A8C",
+          "tipologia_irregularidade": "Escopo de auditoria interna insuficiente",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A determinação para verificar as providências tomadas quanto à criação de uma comissão para realizar as Tomadas de Contas nos adiantamentos concedidos está relacionada à tipologia de adiantamento com saldo acumulado pendente de prestação de contas, pois a falta de prestação de contas é uma falha no controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

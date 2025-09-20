@@ -1,0 +1,38 @@
+{
+  "acordao": "331/2017",
+  "processo": "1681/2011",
+  "data_sessao": "04 de Abril de 2017",
+  "orgao": "Encargos Gerais do Estado  - SEFAZ",
+  "municipio": "Manaus",
+  "exercicio": "2010",
+  "responsavel": [
+    "Francisco de Araújo F. Júnior",
+    "Isper Abrahim Lima",
+    "Rosineide de Melo Roldao"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas da Secretaria de Estado  da  Fazenda  -  SEFAZ,  exercício  de  2010,  do Sr. ISPER ABRAHIM LIMA, Secretário de Estado da Fazenda, Sra. ROSINEIDE DE MELO ROLDÃO, Secretária Executiva de Assuntos Administrativos e Ordenadora de Despesas, no período de 1.1.2010 a 8.6.2010, e Sr. FRANCISCO DE ARAÚJO FERREIRA JÚNIOR, Secretário  Executivo de Assuntos Administrativos e Ordenador de Despesas, no período de 9.6.2010 a 31.12.2010, nos termos do art. 22, II, da Lei 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas da Secretaria de Estado  da  Fazenda  -  SEFAZ,  exercício  de  2010,  do Sr. ISPER ABRAHIM LIMA, Secretário de Estado da Fazenda, Sra. ROSINEIDE DE MELO ROLDÃO, Secretária Executiva de Assuntos Administrativos e Ordenadora de Despesas, no período de 1.1.2010 a 8.6.2010, e Sr. FRANCISCO DE ARAÚJO FERREIRA JÚNIOR, Secretário  Executivo de Assuntos Administrativos e Ordenador de Despesas, no período de 9.6.2010 a 31.12.2010, nos termos do art. 22, II, da Lei 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares com ressalvas, o que indica que, apesar de terem sido encontradas ressalvas, a prestação de contas foi aprovada. Contudo, a menção a ressalvas justifica a classificação no tema de Contabilidade, pois estas geralmente se referem a questões contábeis ou financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22",
+              "descricao": "Refere-se aos termos do julgamento da regularidade com ressalvas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

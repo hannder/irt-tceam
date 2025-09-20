@@ -1,0 +1,130 @@
+{
+  "acordao": "653/2017",
+  "processo": "1582/2015",
+  "data_sessao": "13 de Junho de 2017",
+  "orgao": "Comissão Geral de Licitação - CGL",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Epitácio de Alencar e Silva Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Epitácio de Alencar e Silva Neto, responsável pela Comissão Geral de Licitação, no curso do exercício de 2014, com fundamento nos arts. 19, II, 22, II, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas) c/c os arts. 188, § 1º, II, da Resolução n.º 4/2002-TCE/AM (Regimento Interno deste Tribunal de Contas)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Epitácio de Alencar e Silva Neto, responsável pela Comissão Geral de Licitação, no curso do exercício de 2014, com fundamento nos arts. 19, II, 22, II, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas) c/c os arts. 188, § 1º, II, da Resolução n.º 4/2002-TCE/AM (Regimento Interno deste Tribunal de Contas)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica julgamento das contas como 'Regular com Ressalvas', sem especificar irregularidades contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "19, II, 22, II",
+              "descricao": "Lei Orgânica deste Tribunal de Contas"
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE/AM",
+              "artigo": "188, § 1º, II",
+              "descricao": "Regimento Interno deste Tribunal de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Comissão Geral de Licitação - CGL que: Abstenha-se de realizar qualquer medida tendente a reter o pagamento de fornecedores quando diante de eventual irregularidade fiscal, haja vista que a retenção do pagamento devido, por não constar do rol do art. 87 da Lei nº 8.666/93, ofende o princípio da legalidade, insculpido na Constituição Federal; Passe a observar, nas prorrogações de contratos, com ou sem repactuação de preços, (como indispensável) a prática de consulta/pesquisa de preços de mercado de modo a aferir se as condições e preços contratados continuam mais vantajosos para a Administração, na forma preconizada no art. 57, inciso II, da Lei n° 8.666/1993, sempre que não preenchidas as exceções contidas no Informativo nº 153/2013 do TCU; Passe a analisar melhor a documentação apresentada pelos licitantes, em especial as demonstrações financeiras e contábeis; Promova o pagamento da contratada já citada nesta Proposta de Voto, a qual foi penalizada em razão da não apresentação de documento referente à regularidade fiscal da empresa.",
+      "trechos_identificados": [
+        {
+          "trecho": "Abstenha-se de realizar qualquer medida tendente a reter o pagamento  de  fornecedores  quando  diante  de  eventual irregularidade fiscal, haja vista que a retenção do pagamento devido, por não constar do rol do art. 87 da Lei nº 8.666/93, ofende o princípio da legalidade, insculpido na Constituição Federal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3A",
+          "tipologia_irregularidade": "A gestão da conta única do FUNDEB não é feita pelo órgão da Educação",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "A deliberação proíbe reter pagamento devido a fornecedores por irregularidade fiscal, pois ofende o princípio da legalidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "87",
+              "descricao": "Não constar do rol a retenção do pagamento devido"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "N/A",
+              "descricao": "Ofende o princípio da legalidade"
+            }
+          ]
+        },
+        {
+          "trecho": "Passe  a  observar,  nas  prorrogações  de contratos,  com  ou sem repactuação de preços, (como indispensável) a prática de consulta/pesquisa de preços de mercado de modo a aferir se as  condições  e preços  contratados  continuam  mais vantajosos para a  Administração, na forma preconizada no art.  57,  inciso  II,  da  Lei  n°  8.666/1993,  sempre  que  não preenchidas as exceções contidas no Informativo nº 153/2013 do TCU",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A15B",
+          "tipologia_irregularidade": "Prorrogação de Ajuste (Termo Aditivo) sem pesquisa de preços",
+          "descricao": "Prorrogação de Ajuste (Termo Aditivo) sem pesquisa de preços",
+          "justificativa_tipologia": "A deliberação exige observância da pesquisa de preços de mercado nas prorrogações de contratos para verificar a vantajosidade para a Administração.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/1993",
+              "artigo": "57, inciso II",
+              "descricao": "Na forma preconizada no art"
+            },
+            {
+              "norma": "Informativo nº 153/2013",
+              "artigo": "N/A",
+              "descricao": "TCU"
+            }
+          ]
+        },
+        {
+          "trecho": "Passe a analisar melhor a documentação apresentada pelos licitantes, em especial as demonstrações financeiras e contábeis",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "justificativa_tipologia": "O trecho determina análise da documentação apresentada pelos licitantes, especialmente as demonstrações financeiras e contábeis",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Promova o pagamento da contratada já citada nesta Proposta  de  Voto,  a  qual  foi  penalizada  em  razão  da  não apresentação  de  documento  referente  à  regularidade  fiscal da empresa.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A33B",
+          "tipologia_irregularidade": "Ausência de comprovação da efetiva entrega dos produtos",
+          "descricao": "Ausência de comprovação da efetiva entrega dos produtos",
+          "justificativa_tipologia": "A deliberação determina o pagamento da empresa penalizada por não apresentar documento fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao  Responsável, Sr.  Epitácio  de  Alencar  e  Silva  Neto, sobre os deslindes deste feito.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao  Responsável, Sr.  Epitácio  de  Alencar  e  Silva  Neto, sobre os deslindes deste feito.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A4B",
+          "tipologia_irregularidade": "Ausência das perguntas e respostas mais frequentes relacionadas às atividades desenvolvidas pelo Poder/Órgão",
+          "descricao": "Ausência das perguntas e respostas mais frequentes relacionadas às atividades desenvolvidas pelo Poder/Órgão",
+          "justificativa_tipologia": "Este trecho é meramente informativo, indicando a ciência do responsável sobre os desdobramentos do processo, não indicando irregularidade",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

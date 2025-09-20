@@ -1,0 +1,213 @@
+{
+  "acordao": "023/2015",
+  "processo": "11085/2014",
+  "data_sessao": "13 de maio de 2015",
+  "orgao": "Prefeitura Municipal de Ipixuna",
+  "municipio": "Ipixuna",
+  "exercicio": "2013",
+  "responsavel": [
+    "Aguimar Silvério da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar REGULARES COM RESSALVAS as Contas da Prefeitura Municipal de Ipixuna, exercício de 2013, sob a responsabilidade da Sra. Aguimar Silvério da Silva, Ordenadora da Despesa, à época, ex-vi do art. 71, inciso II, da CF/88 c/c o art. 40, inciso II, da CE/89 e art. 1º, inciso II, art. 2º e 5º da Lei nº 2423/96 (LO/TCE)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULARES COM RESSALVAS as Contas da Prefeitura Municipal de Ipixuna, exercício de 2013, sob a responsabilidade da Sra. Aguimar Silvério da Silva, Ordenadora da Despesa, à época, ex-vi do art. 71, inciso II, da CF/88 c/c o art. 40, inciso II, da CE/89 e art. 1º, inciso II, art. 2º e 5º da Lei nº 2423/96 (LO/TCE)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares com ressalvas, indicando que, apesar de aprovadas, foram encontradas impropriedades ou inconsistências que não configuram irregularidades graves o suficiente para rejeição total das contas",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, inciso II",
+              "descricao": "Artigo da Constituição Federal que atribui ao Tribunal de Contas a competência para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, inciso II",
+              "descricao": "Artigo da Constituição Estadual que trata da competência do Tribunal de Contas do Estado."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º, inciso II",
+              "descricao": "Lei Orgânica do TCE que estabelece as atribuições do tribunal."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "2º",
+              "descricao": "Artigo da Lei nº 2423/96 que estabelece as atribuições do tribunal."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "5º",
+              "descricao": "Artigo da Lei nº 2423/96 que estabelece as atribuições do tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "RECOMENDAR a Prefeita Municipal o imediato cumprimento do art. 23 da Lei nº 101/2000, sob pena do § 1º do art. 23 da referida Lei quanto aos gastos com pessoal.",
+      "trechos_identificados": [
+        {
+          "trecho": "RECOMENDAR a Prefeita Municipal o imediato cumprimento do art. 23 da Lei nº 101/2000, sob pena do § 1º do art. 23 da referida Lei quanto aos gastos com pessoal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A18A",
+          "tipologia_irregularidade": "Aplicação de 70% dos Recursos FUNDEB com a Remuneração dos Profissionais do Magistério da Educação Básica",
+          "descricao": "Ausência de comprovação da efetiva entrega dos produtos.",
+          "justificativa_tipologia": "O trecho recomenda o cumprimento do art. 23 da LRF, que trata de limites de gastos com pessoal, indicando um problema potencial de gestão fiscal caso esses limites não sejam observados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 101/2000",
+              "artigo": "23",
+              "descricao": "Artigo da Lei de Responsabilidade Fiscal que estabelece limites para os gastos com pessoal e as medidas a serem tomadas caso esses limites sejam ultrapassados."
+            },
+            {
+              "norma": "Lei nº 101/2000",
+              "artigo": "23, § 1º",
+              "descricao": "Sanções em caso de não cumprimento da LRF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Por maioria, aplicar MULTA a Sra. Aguimar Silvério da Silva, Prefeita e Ordenadora da Despesa, do município de Ipixuna, à época, no valor total de R$ 30.960,31 (trinta mil, novecentos e sessenta reais e trinta e um centavos)",
+      "trechos_identificados": [
+        {
+          "trecho": "Por maioria, aplicar MULTA a Sra. Aguimar Silvério da Silva, Prefeita e Ordenadora da Despesa, do município de Ipixuna, à época, no valor total de R$ 30.960,31 (trinta mil, novecentos e sessenta reais e trinta e um centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa à responsável, o que indica que foram encontradas irregularidades na gestão fiscal que justificaram a sanção.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "no valor de R$ 10.960,31 (dez mil, novecentos e sessenta reais e trinta e um centavos) , nos termos da alínea a, inciso II, do art. 308 da Resolução nº 04/02 (RI/TCEAM) c/c art. 54, II da Lei nº 2423/96 (LO/TCEAM) - item 01 do Relatório Conclusivo da DICAMI",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 10.960,31 (dez mil, novecentos e sessenta reais e trinta e um centavos) , nos termos da alínea a, inciso II, do art. 308 da Resolução nº 04/02 (RI/TCEAM) c/c art. 54, II da Lei nº 2423/96 (LO/TCEAM) - item 01 do Relatório Conclusivo da DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "O trecho aplica uma multa com base em dispositivos legais relacionados ao regimento interno do TCE e à lei orgânica, indicando que a multa está relacionada a irregularidades na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/02 (RI/TCEAM)",
+              "artigo": "308, alínea a, inciso II",
+              "descricao": "Artigo do Regimento Interno do TCE-AM que trata das sanções aplicáveis em caso de irregularidades."
+            },
+            {
+              "norma": "Lei nº 2423/96 (LO/TCEAM)",
+              "artigo": "54, II",
+              "descricao": "Artigo da Lei Orgânica do TCE-AM que trata das sanções aplicáveis em caso de irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "no valor de R$ 20.000,00 (vinte mil reais) , nos termos do inciso VI, do art. 308 da Resolução nº 04/02 (RI/TCEAM) c/c art. 53, parágrafo único e art. 54, VI, ambos da Lei nº 2423/96 (LO/TCEAM) - itens 07; 15 e 21.1, do Relatório Conclusivo da DICAMI",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 20.000,00 (vinte mil reais) , nos termos do inciso VI, do art. 308 da Resolução nº 04/02 (RI/TCEAM) c/c art. 53, parágrafo único e art. 54, VI, ambos da Lei nº 2423/96 (LO/TCEAM) - itens 07; 15 e 21.1, do Relatório Conclusivo da DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho aplica uma multa com base em dispositivos legais relacionados ao regimento interno do TCE e à lei orgânica, indicando que a multa está relacionada a irregularidades em licitações e contratos, como sobrepreço.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/02 (RI/TCEAM)",
+              "artigo": "308, inciso VI",
+              "descricao": "Artigo do Regimento Interno do TCE-AM que trata das sanções aplicáveis em caso de irregularidades."
+            },
+            {
+              "norma": "Lei nº 2423/96 (LO/TCEAM)",
+              "artigo": "53, parágrafo único",
+              "descricao": "Artigo da Lei Orgânica do TCE-AM que trata das sanções aplicáveis em caso de irregularidades."
+            },
+            {
+              "norma": "Lei nº 2423/96 (LO/TCEAM)",
+              "artigo": "54, VI",
+              "descricao": "Artigo da Lei Orgânica do TCE-AM que trata das sanções aplicáveis em caso de irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias a Sra. Aguimar Silvério da Silva, Prefeita Municipal de Ipixuna , à época, para o recolhimento aos cofres públicos dos valores referentes às MULTAS aplicadas a mesmo, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art. 72, II e III da Lei Estadual nº 2423/96 e art. 169, I, da Resolução nº 04/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias a Sra. Aguimar Silvério da Silva, Prefeita Municipal de Ipixuna , à época, para o recolhimento aos cofres públicos dos valores referentes às MULTAS aplicadas a mesmo, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art. 72, II e III da Lei Estadual nº 2423/96 e art. 169, I, da Resolução nº 04/02-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho determina o recolhimento de multas, o que se relaciona à execução orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "72, II e III",
+              "descricao": "Artigo da lei que trata das multas aplicadas pelo Tribunal de Contas e os procedimentos para seu recolhimento."
+            },
+            {
+              "norma": "Resolução nº 04/02-TCE",
+              "artigo": "169, I",
+              "descricao": "Artigo da resolução que trata da atualização monetária e dos juros de mora devidos sobre as multas aplicadas pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "AUTORIZAR desde já a instauração da cobrança executiva e posterior inscrição do débito na Dívida Ativa, no caso de não recolhimento dos valores da condenação, como versa o art. 173 do Regimento Interno deste Tribunal de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR desde já a instauração da cobrança executiva e posterior inscrição do débito na Dívida Ativa, no caso de não recolhimento dos valores da condenação, como versa o art. 173 do Regimento Interno deste Tribunal de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho trata da cobrança de dívida ativa, o que se relaciona à gestão fiscal do órgão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Artigo do regimento interno que trata da cobrança executiva e inscrição do débito na dívida ativa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

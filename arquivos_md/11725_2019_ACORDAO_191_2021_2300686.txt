@@ -1,0 +1,215 @@
+{
+  "acordao": "191/2021",
+  "processo": "11725/2019",
+  "data_sessao": "9 de Março de 2021",
+  "orgao": "Polícia Militar do Estado do Amazonas - PMAM",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "David de Souza Brandão",
+    "José Cláudio Nonato da Silva",
+    "Jose Carlos Lopes de Souza",
+    "Julio Sergio Costa do Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno,  evite  a  ocorrência  das  seguintes  impropriedades,  em  futuras prestações de contas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência  de  esclarecimentos  quanto  ao  que  ocasionou saldo elevado vindo de exercício anterior",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  esclarecimentos  quanto  ao  que  ocasionou saldo elevado vindo de exercício anterior",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A deliberação descreve a ausência de informações importantes sobre o saldo contábil o que dificulta a análise e a transparência das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Características Qualitativas da Informação Contábil – MCASP – 10ª edição",
+              "artigo": "Não aplicável",
+              "descricao": "A deliberação trata de ausência de regularização de saldo contábil, o que está relacionado às características qualitativas da informação contábil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de esclarecimentos quanto ao que motivou a não realização total das despesas que deveriam ser repassadas aos entes por direito",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de esclarecimentos quanto ao que motivou a não realização total das despesas que deveriam ser repassadas aos entes por direito",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A ausência de informações sobre a não realização de despesas planejadas impacta a transparência e o controle da execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 75, III, da Lei nº 4.320/64",
+              "artigo": "Art. 75, III",
+              "descricao": "A deliberação trata da ausência de esclarecimentos sobre a não realização de despesas, o que está relacionado à necessidade de acompanhamento da execução orçamentária, conforme previsto no artigo 75, III, da Lei nº 4.320/64."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Valores divergentes apresentados no Balanço Financeiro anexo 13 em comparação com os valores do Demonstrativo da Dívida Flutuante - anexo 17",
+      "trechos_identificados": [
+        {
+          "trecho": "Valores divergentes apresentados no Balanço Financeiro anexo 13 em comparação com os valores do Demonstrativo da Dívida Flutuante - anexo 17",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de notas explicativas para justificar a divergência nos valores compromete a confiabilidade das demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Itens 2.3, 3.3, 4.3, 5.3 e 8 do MCASP – 9ª edição",
+              "artigo": "Itens 2.3, 3.3, 4.3, 5.3 e 8",
+              "descricao": "A deliberação trata da ausência de informações sobre a não realização de despesas, o que está relacionado à necessidade de acompanhamento da execução orçamentária, conforme previsto no artigo 75, III, da Lei nº 4.320/64."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência  do  Parecer  Jurídico  do  contrato  relacionado, conforme o artigo 57, inciso V, da Lei 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  do  Parecer  Jurídico  do  contrato  relacionado, conforme o artigo 57, inciso V, da Lei 8.666/1993",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A7B",
+          "tipologia_irregularidade": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "descricao": "Ausência de Parecer Jurídico ao Aditivo",
+          "justificativa_tipologia": "A deliberação trata da ausência de parecer jurídico, um requisito fundamental para a segurança jurídica e a legalidade dos contratos administrativos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "artigo 57, inciso V",
+              "descricao": "Ausência  do  Parecer  Jurídico  do  contrato  relacionado, conforme o artigo 57, inciso V, da Lei 8.666/1993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência  da  Publicação  Resumida  do  Termo  Contratual, conforme artigo 61 da Lei 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  da  Publicação  Resumida  do  Termo  Contratual, conforme artigo 61 da Lei 8.666/1993",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A deliberação descreve uma falha na divulgação de informações essenciais sobre os contratos, comprometendo a transparência e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/1993",
+              "artigo": "artigo 61",
+              "descricao": "Ausência  da  Publicação  Resumida  do  Termo  Contratual, conforme artigo 61 da Lei 8.666/1993"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de justificativas quanto as inscrições de Restos a Pagar,  tendo  em  vista  o  saldo  em  caixa  sem  lastro  para honrar os valores inscritos, conforme demonstrado no Balanço Financeiro - anexo 13 - Saldo em Espécie para o exercício seguinte",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativas quanto as inscrições de Restos a Pagar,  tendo  em  vista  o  saldo  em  caixa  sem  lastro  para honrar os valores inscritos, conforme demonstrado no Balanço Financeiro - anexo 13 - Saldo em Espécie para o exercício seguinte",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "A ausência de informações sobre a inscrição de Restos a Pagar compromete a transparência e a regularidade da gestão orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 36 e Parágrafo único, da Lei nº 4.320/64",
+              "artigo": "Art. 36 e Parágrafo único",
+              "descricao": "A deliberação trata da inscrição de Restos a Pagar, o que está relacionado aos procedimentos orçamentários, conforme previsto no artigo 36 e parágrafo único da Lei nº 4.320/64; Características Qualitativas da Informação Contábil – MCASP – 9ª edição"
+            },
+             {
+              "norma": "Características Qualitativas da Informação Contábil – MCASP – 9ª edição",
+              "artigo": "Não aplicável",
+              "descricao": "A deliberação trata da inscrição de Restos a Pagar, o que está relacionado aos procedimentos orçamentários, conforme previsto no artigo 36 e parágrafo único da Lei nº 4.320/64; Características Qualitativas da Informação Contábil – MCASP – 9ª edição"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência da Relação das Provisões recebidas, especificando a data, o número e valores, conforme artigo 2º, inciso VI, da Resolução nº 05∕1990",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência da Relação das Provisões recebidas, especificando a data, o número e valores, conforme artigo 2º, inciso VI, da Resolução nº 05∕1990",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas.",
+          "justificativa_tipologia": "A ausência de relação das provisões recebidas dificulta a avaliação da gestão financeira e orçamentária, comprometendo a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 05/1990",
+              "artigo": "Artigo 2º, inciso VI",
+              "descricao": "A ausência da Relação das Provisões recebidas, especificando a data, o número e valores, conforme artigo 2º, inciso VI, da Resolução nº 05/1990"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de esclarecimentos sobre as medidas administrativas  tomadas  com  a  finalidade  de  sanear  as pendências bancárias existentes no exercício em questão",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de esclarecimentos sobre as medidas administrativas  tomadas  com  a  finalidade  de  sanear  as pendências bancárias existentes no exercício em questão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "A ausência de esclarecimentos sobre as medidas administrativas para sanear pendências bancárias compromete a transparência e o controle das finanças públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Arts. 83, 85 e 89 da Lei nº 4.320/1964",
+              "artigo": "Arts. 83, 85 e 89",
+              "descricao": "Arts. 83, 85 e 89 da Lei nº 4.320/1964. Itens 3.2, 3.10, 3.11, 3.12 e 3.17 da NBC TSP Estrutura Conceitual"
+            },
+              {
+              "norma": "Itens 3.2, 3.10, 3.11, 3.12 e 3.17 da NBC TSP Estrutura Conceitual",
+              "artigo": "Não aplicável",
+              "descricao": "Arts. 83, 85 e 89 da Lei nº 4.320/1964. Itens 3.2, 3.10, 3.11, 3.12 e 3.17 da NBC TSP Estrutura Conceitual"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

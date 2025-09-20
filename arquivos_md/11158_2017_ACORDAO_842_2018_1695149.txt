@@ -1,0 +1,175 @@
+{
+  "acordao": "842/2018",
+  "processo": "11158/2017",
+  "data_sessao": "12 de Dezembro de 2018",
+  "orgao": "Ouvidoria Geral do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Zanele Rocha Teixeira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Senhora Zanele  Rocha Teixeira , Gestora e Ordenadora de Despesas da Ouvidoria Geral do Estado  do  Amazonas ,  à  época,  nos  termos  do  artigo  22,  inciso  III, alíneas 'b'  e  'c',  Lei  nº.  2423/1996-LOTCE/AM  c/c  com  o  artigo  188, §1º, inciso III, alíneas 'b' e 'c', da Resolução 04/2002 - RI/TCE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar  revel a Senhora Zanele  Rocha  Teixeira , Gestora  e Ordenadora de Despesas da Ouvidoria Geral do Estado do Amazonas no exercício de 2016, nos termos do art. 20, § 3º, da Lei nº 2.423/96 c/c artigo 88 da Resolução nº 04/2002, pela não apresentação de  documentos  e/ou  justificativas  paras  as  restrições  apontadas  pela Comissão de Inspeção desta Corte de Contas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa a Senhora Zanele Rocha Teixeira, Gestora e Ordenadora de Despesas da Ouvidoria Geral do Estado do Amazonas, à época, no valor de R$ 2.192,06, (Dois Mil, Cento e Noventa e Dois Reais e Seis Centavos), na forma prevista no artigo 54, inciso IV, da Lei nº 2.423/96 c/c o art. 308, inciso I, alínea 'a', da Resolução nº 04/2002-RI/TCE, inciso acrescentado pelo artigo 2º, da Resolução nº 25, de 30 de agosto de 2012, por não atendimento as diligências, no prazo fixado, sem causa justificada, quanto aos itens de 01 a 16 das Notificações nº 322/2017DICAD/AM (fls. 192/200), nº 04/2018-DICAD/AM ( fls. 201/209) e Notificações Via Edital as fls. 221/ 223.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa a Senhora Zanele Rocha Teixeira, Gestora e Ordenadora de Despesas da Ouvidoria Geral do Estado do Amazonas, à época, no valor de R$ 2.192,06, (Dois Mil, Cento e Noventa e Dois Reais e Seis Centavos), na forma prevista no artigo 54, inciso IV, da Lei nº 2.423/96 c/c o art. 308, inciso I, alínea 'a', da Resolução nº 04/2002-RI/TCE, inciso acrescentado pelo artigo 2º, da Resolução nº 25, de 30 de agosto de 2012, por não atendimento as diligências, no prazo fixado, sem causa justificada, quanto aos itens de 01 a 16 das Notificações nº 322/2017DICAD/AM (fls. 192/200), nº 04/2018-DICAD/AM ( fls. 201/209) e Notificações Via Edital as fls. 221/ 223.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A aplicação de multa decorre do não atendimento das diligências, caracterizando falhas na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, inciso IV",
+              "descricao": "A multa é aplicada conforme previsto na lei."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RI/TCE",
+              "artigo": "308, inciso I, alínea 'a'",
+              "descricao": "O Regimento Interno do TCE/AM define as condições para aplicação de multas por não atendimento de diligências."
+            },
+           {
+              "norma": "Resolução nº 25, de 30 de agosto de 2012",
+              "artigo": "2º",
+              "descricao": "Inciso acrescentado por esta Resolução."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixação de prazo",
+      "descricao": "Fixar  o  prazo o  prazo  de  30  (Trinta)  dias  para  que  a Senhora Zanele Rocha Teixeira , Gestora e Ordenadora de Despesas da Ouvidoria Geral do Estado do Amazonas , à época, proceda com o recolhimento da multa a ela imputada ao  Cofre  Estadual  para  o Órgão  Fundo  de  Apoio  ao Exercício de Controle Externo - FAECE, por força do art. 2º, VI, da  Lei nº 4375/2016,  por  meio  de  Documento  de Arrecadação -  DAR avulso extraído do sítio eletrônico  da SEFAZ/AM,  sob  o código  5508  -  Multas  aplicadas  pelo TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo  -  FAECE, devendo  a  Responsável  comprovar  o recolhimento  perante  este  Tribunal  de  Contas,  nos  termos do art. 72, III, 'a' da Lei nº 2423/1996, c/c o art. 169, I, da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Obrigatoriedade",
+      "descricao": "Dentro  do  prazo  anteriormente  conferido,  é  obrigatório  o encaminhamento do comprovante de pagamento ( autenticado  pelo  Banco )  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação . O não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal importará  na  continuidade  da  cobrança  administrativa  ou judicial do título executivo.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa a Senhora Zanele Rocha Teixeira, Gestora e Ordenadora de Despesas da Ouvidoria Geral do Estado do Amazonas, à época, no valor de R$ 8.768,25 (Oito Mil, Setecentos e Sessenta e Oito Reais e Vinte e Cinco centavos), na forma prevista no art. 1º, XXVI, da Lei 2.423 de 10.12.1996 - LO/TCE, nos termos do artigo 54, incisos II e III, da  Lei  nº  2.423/1996  -  LOTCE  c/c  o  artigo  308,  inciso  VI,  do Regimento  Interno (Resolução  TCE  nº  04/2002),  inciso  acrescentado pelo  artigo  2º,  da  Resolução  nº  25,  de  30  de  agosto  de  2012,  pelo cometimento das impropriedades listadas nos itens 6.1, 6.2, 6.3, 6.4, 6.5, 6.6,  6.7,  item  6.8  e  subitens,   itens  6.9  e  subitens,  item  10  e  subitens, item 6.11 e subitens, item 6.12 e subitem e item 6.13 do Relatório/Voto.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Fixação de prazo",
+      "descricao": "Fixe o prazo o prazo de 30 (Trinta) dias para que a Senhora Zanele Rocha Teixeira , Gestora e Ordenadora de Despesas da Ouvidoria  Geral  do  Estado  do  Amazonas , à época, proceda com o recolhimento da multa a ela imputada ao Cofre  Estadual para  o  Órgão  Fundo  de  Apoio  ao  Exercício  de Controle  Externo  -  FAECE,  por  força  do  art.  2º,  VI,  da  Lei  nº 4375/2016,  por  meio  de  Documento  de  Arrecadação  -  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo -FAECE, devendo a Responsável comprovar o recolhimento perante este Tribunal de Contas, nos termos do art. 72, III, 'a' da Lei nº 2423/1996, c/c o art. 169, I, da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Obrigatoriedade",
+      "descricao": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco ) a esta Corte de Contas (art. 72, inciso III, alínea \"a\" ,  da  Lei  Orgânica  do  TCE/AM),  condição  imprescindível  para emissão  do Termo de Quitação .  O  não  adimplemento  dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar  Inscrição  na  Dívida  Ativa do  Estado  e  instauração  de cobrança  Executiva,  da  Senhora Zanele Rocha Teixeira ,  no  caso  de não  recolhimento  dos  valores  da  condenação,  em  consonância  com  o art. 72, III, alínea 'a' e art. 73, ambos da Lei nº 2.423/96 - TCE/AM (Lei Orgânica), c/c o art. 169, II e art. 173 e 308, § 6º, todos da Resolução nº 04/2002 - TCE/AM (Regimento Interno).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance a Senhora Zanele Rocha Teixeira , Gestora e Ordenadora de Despesas da Ouvidoria Geral do Estado do Amazonas , à época, montante  de R$  1.232.986,68 (Um  Milhão, Duzentos  e  Trinta  e  Dois  Mil,  Novecentos  e  Oitenta  e  Seis  Reais  e Sessenta e Oito Centavos) nos valores descriminados a seguir:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$  13.906,68 ,  pelo  pagamento  de  despesa  referente  a multas  e  juros  ao  Instituto  Nacional  de  Seguridade  de Social/INSS, conforme demonstrado no item 6.14 do Relatório/Voto, nos termos do artigo 304, III, da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  13.906,68 ,  pelo  pagamento  de  despesa  referente  a multas  e  juros  ao  Instituto  Nacional  de  Seguridade  de Social/INSS, conforme demonstrado no item 6.14 do Relatório/Voto, nos termos do artigo 304, III, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O pagamento de multa e juros, via de regra, decorre de descumprimento de prazos e obrigações, gerando um pagamento que burla o processo legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, III",
+              "descricao": "Fundamentação para considerar em alcance o valor pago indevidamente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$ 642.000,00 ,  pelo pagamento de despesa referente ao contrato  de  locação  nº  010/2014 com  a  empresa Y.  A. Empreendimentos e Participações Ltda ., conforme demonstrado no item 6.15 do Relatório/Voto, nos termos do artigo 304, III, da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 642.000,00 ,  pelo pagamento de despesa referente ao contrato  de  locação  nº  010/2014 com  a  empresa Y.  A. Empreendimentos e Participações Ltda ., conforme demonstrado no item 6.15 do Relatório/Voto, nos termos do artigo 304, III, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "A descrição aponta para um pagamento realizado sem a devida cobertura contratual, o que caracteriza uma irregularidade na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, III",
+              "descricao": "Fundamentação para considerar em alcance o valor pago indevidamente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$  577.080,000 ,  pelo  pagamento  de  despesa  referente ao contrato  de  locação  nº  008/2014 com  a  empresa Shopping Manaus Via Norte S/A ,  conforme  demonstrado no item 6.16 do Relatório/Voto, nos termos do artigo 304, III, da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  577.080,000 ,  pelo  pagamento  de  despesa  referente ao contrato  de  locação  nº  008/2014 com  a  empresa Shopping Manaus Via Norte S/A ,  conforme  demonstrado no item 6.16 do Relatório/Voto, nos termos do artigo 304, III, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "A descrição aponta para um pagamento realizado sem a devida cobertura contratual, o que caracteriza uma irregularidade na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, III",
+              "descricao": "Fundamentação para considerar em alcance o valor pago indevidamente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixação de prazo",
+      "descricao": "Fixar prazo de 30 (trinta) dias ,  a  contar  da  notificação, para que a responsável recolha os valores do débito acima aplicado  aos  cofres  da  Fazenda  Pública  Estadual,  para  a Ouvidoria Geral do Estado do Amazonas, com comprovação perante  este  Tribunal,  nos  termos  do  artigo  22,  inciso  III, alínea 'a' e 'b', c/c o artigo 72, inciso III, alínea 'a', da Lei nº 2.423/1996 e o artigo 169, inciso I, c/c o artigo 174, caput , da Resolução 04/2002 - TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar  Inscrição  na  Dívida  Ativa do  Estado  e  instauração  de cobrança Executiva,  da  Senhora Zanele Rocha Teixeira ,  no  caso  de não recolhimento dos valores da condenação, em consonância com o art. 72, III, alínea 'a' e art. 73, ambos da Lei nº 2.423/96 - TCE/AM (Lei Orgânica), c/c o art. 169, II e art. 173 e 308, § 6º, todos da Resolução nº 04/2002 - TCE/AM (Regimento Interno).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar em decorrência dos indícios de improbidade administrativa  (Lei  8.429/92),  ao  Ministério  Público  de  Contas que,  se for  o  caso,  represente  ao Ministério  Público  Estadual acerca  das irregularidades  consignadas  neste  caderno  processual,  colocando-se os  autos  à  sua  disposição,  para  que  sejam  adotadas  as  medidas cabíveis à espécie, nos termos do artigo 114, inciso III, da Lei Estadual nº 2.423/1996 e artigo 54, inciso XII, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

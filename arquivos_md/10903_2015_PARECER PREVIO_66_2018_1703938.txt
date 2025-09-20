@@ -1,0 +1,219 @@
+{
+  "acordao": "66/2018",
+  "processo": "10903/2015",
+  "data_sessao": "18 de Dezembro de 2018",
+  "orgao": "Prefeitura Municipal de Manacapuru",
+  "municipio": "Manacapuru",
+  "exercicio": "2014",
+  "responsavel": [
+    "Jaziel Nunes de Alencar",
+    "André A.S. Telles"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Manacapuru, referente ao exercício de 2014, tendo como responsável à época  o Sr.Jaziel Nunes  de  Alencar , Prefeito e Ordenador  de Despesas, nos termos do art. 19, II, c/c o art. 22, III, 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n.º 2.423/96, c/c o art. 11, III, 'a', item 1, da Resolução n° 04/2002-TCE/AM, em razão das inúmeras falhas e restrições  não  sanadas  constantes  nos  itens  da  fundamentação  do Relatório Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Manacapuru, referente ao exercício de 2014, tendo como responsável à época  o Sr.Jaziel Nunes  de  Alencar , Prefeito e Ordenador  de Despesas, nos termos do art. 19, II, c/c o art. 22, III, 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n.º 2.423/96, c/c o art. 11, III, 'a', item 1, da Resolução n° 04/2002-TCE/AM, em razão das inúmeras falhas e restrições  não  sanadas  constantes  nos  itens  da  fundamentação  do Relatório Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A prestação de contas foi julgada irregular devido a inúmeras falhas e restrições não sanadas, o que indica problemas na qualidade e confiabilidade das informações contábeis apresentadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica nº 2.423/96",
+              "artigo": "19, II",
+              "descricao": "Lei Orgânica deste Tribunal de Contas n.º 2.423/96, c/c o art. 22, III, 'b' e 'c'"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11, III, 'a'",
+              "descricao": "da Resolução n° 04/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o Sr.  Jaziel  Nunes  de  Alencar ,  Gestor  e Ordenador  de  Despesas  da  Prefeitura  Municipal  de  Manacapuru, Exercício de 2014, no valor de R$ 1.541.617,74 (um milhão, quinhentos e quarenta e um mil, seiscentos e dezessete reais e setenta e quatro centavos), de forma solidária com o Sr. André A.S. Telles , Engenheiro Civil, Fiscal de Obras, por deixar de demonstrar o bom e regular uso do dinheiro  público, nos  termos  do  art.  304,  inciso  I, da  Resolução nº04/2002-TCE/AM, conforme itens 1.8, 3.8, 4.8, 5.8, 6.7, 7.7, 8.7, 9.7, 10.7,  11.7,  12.7,  13.7,  16.7,  17.7,  18.8,  19.7,  20.7,  21.7  e  22.7 da (DICOP) da  fundamentação  do  relatório  voto.  O  valor  deverá  ser recolhido,  no  prazo  de  trinta  dias,  na  esfera  Municipal  para  o  órgão Prefeitura Municipal de Manacapuru por descumprimento das improbidades apontadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr.  Jaziel  Nunes  de  Alencar ,  Gestor  e Ordenador  de  Despesas  da  Prefeitura  Municipal  de  Manacapuru, Exercício de 2014, no valor de R$ 1.541.617,74 (um milhão, quinhentos e quarenta e um mil, seiscentos e dezessete reais e setenta e quatro centavos), de forma solidária com o Sr. André A.S. Telles , Engenheiro Civil, Fiscal de Obras, por deixar de demonstrar o bom e regular uso do dinheiro  público, nos  termos  do  art.  304,  inciso  I, da  Resolução nº04/2002-TCE/AM, conforme itens 1.8, 3.8, 4.8, 5.8, 6.7, 7.7, 8.7, 9.7, 10.7,  11.7,  12.7,  13.7,  16.7,  17.7,  18.8,  19.7,  20.7,  21.7  e  22.7 da (DICOP) da  fundamentação  do  relatório  voto.  O  valor  deverá  ser recolhido,  no  prazo  de  trinta  dias,  na  esfera  Municipal  para  o  órgão Prefeitura Municipal de Manacapuru por descumprimento das improbidades apontadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Os responsáveis foram considerados em alcance por não demonstrarem o uso correto do dinheiro público, indicando potencial burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Ocorre o alcance devido a não comprovação do bom e regular uso do dinheiro público"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de R$ 21.920,64 (vinte e um mil, novecentos e vinte reais e sessenta e quatro centavos), conforme os termos do art. 54, III, da Lei n° 2.423/96 c/c art. 308, inciso VI, da Resolução n° 04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos de gestão ilegítimo  ou antieconômico de que resulte injustificado danos ao erário , conforme itens 1.8, 3.8, 4.8, 5.8, 6.7, 7.7, 8.7, 9.7, 10.7, 11.7, 12.7, 13.7, 16.7, 17.7, 18.8, 19.7, 20.7, 21.7 e 22.7 (DICOP) da fundamentação do relatório voto. O valor deverá ser recolhido no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda - SEFAZ",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de R$ 21.920,64 (vinte e um mil, novecentos e vinte reais e sessenta e quatro centavos), conforme os termos do art. 54, III, da Lei n° 2.423/96 c/c art. 308, inciso VI, da Resolução n° 04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos de gestão ilegítimo  ou antieconômico de que resulte injustificado danos ao erário , conforme itens 1.8, 3.8, 4.8, 5.8, 6.7, 7.7, 8.7, 9.7, 10.7, 11.7, 12.7, 13.7, 16.7, 17.7, 18.8, 19.7, 20.7, 21.7 e 22.7 (DICOP) da fundamentação do relatório voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A59A",
+          "tipologia_irregularidade": "Dívida Consolidada Líquida (200% da Receita Corrente Líquida do Estado) / (120% da Receita Corrente Líquida dos Municípios) ultrapassada",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "A multa é aplicada devido a atos de gestão ilegítimos ou antieconômicos que resultaram em danos injustificados ao erário, o que afeta negativamente a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Sanções aplicadas por atos de gestão ilegítimo ou antieconômico de que resulte injustificado danos ao erário."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Ressarcimento por atos de gestão ilegítimo ou antieconômico de que resulte injustificado danos ao erário."
+            },
+             {
+              "norma": "Resolução n.º 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução n° 04/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, inciso II, da Resolução nº. 04/2002-TCE/AM, alterado pela Resolução nº 25/2012-TCE/AM  por  cada  mês (janeiro  a  dezembro)  de  atraso  na remessa  dos  dados  informatizados,  totalizando  o  montante  de R$ 13.152,36 (treze mil, cento e cinquenta e dois e trinta e seis centavos), constante  no item  7,  28  'b'  e  'j' (DICAMI) ,  da  fundamentação  do relatório voto. O valor deverá ser recolhido no prazo de 30 dias para o Cofre  Estadual  através  de  DAR  avulso extraído do sítio eletrônico  da SEFAZ/AM,  sob  o código  5508  -  Multas  aplicadas  pelo  TCE/AM  Secretaria de Estado da Fazenda - SEFAZ",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, inciso II, da Resolução nº. 04/2002-TCE/AM, alterado pela Resolução nº 25/2012-TCE/AM  por  cada  mês (janeiro  a  dezembro)  de  atraso  na remessa  dos  dados  informatizados,  totalizando  o  montante  de R$ 13.152,36 (treze mil, cento e cinquenta e dois e trinta e seis centavos), constante  no item  7,  28  'b'  e  'j' (DICAMI) ,  da  fundamentação  do relatório voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na remessa de dados informatizados, o que dificulta o acompanhamento e a fiscalização das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-TCE/AM",
+              "artigo": "308, inciso II",
+              "descricao": "Atraso na remessa de dados informatizados"
+            },
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução nº. 04/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de  R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, II, da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 25/2012-TCE/AM por cada bimestre (6 bimestres) em que foi entregue com atraso o Relatório Resumido de Execução Orçamentária de 2014, totalizando o montante de R$ 6.576,18 (seis mil, quinhentos e setenta e seis reais e dezoito centavos), constante na restrição 24.1 (DICAMI) , da fundamentação do relatório voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de  R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, II, da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 25/2012-TCE/AM por cada bimestre (6 bimestres) em que foi entregue com atraso o Relatório Resumido de Execução Orçamentária de 2014, totalizando o montante de R$ 6.576,18 (seis mil, quinhentos e setenta e seis reais e dezoito centavos), constante na restrição 24.1 (DICAMI) , da fundamentação do relatório voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na entrega do Relatório Resumido de Execução Orçamentária (RREO), o que prejudica a transparência e o acompanhamento da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Multa por atraso na entrega do Relatório Resumido de Execução Orçamentária"
+            },
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução nº. 04/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr Jaziel Nunes  de  Alencar no  valor de  R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, II, da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 25/2012-TCE/AM por cada quadrimestre (3 quadrimestres) em que foi entregue com atraso o Relatório de Gestão Fiscal de 2014, totalizando o montante de R$ 3.288,09 (três mil, duzentos e oitenta e oito reais e nove centavos), restrição 25.2 (DICAMI) , da fundamentação do relatório voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr Jaziel Nunes  de  Alencar no  valor de  R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, II, da  Resolução  nº.  04/2002-TCE/AM,  alterado  pela  Resolução  nº 25/2012-TCE/AM por cada quadrimestre (3 quadrimestres) em que foi entregue com atraso o Relatório de Gestão Fiscal de 2014, totalizando o montante de R$ 3.288,09 (três mil, duzentos e oitenta e oito reais e nove centavos), restrição 25.2 (DICAMI) , da fundamentação do relatório voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na entrega do Relatório de Gestão Fiscal, o que compromete a transparência e o controle da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Multa por atraso na entrega do Relatório de Gestão Fiscal"
+            },
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução nº. 04/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96 c/c art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM,  alterado  pela Resolução n.º 25/2012-TCE/AM, por atos praticados com grave infração à  norma  legal  ou  regulamentar  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial , das restrições 3, 5, 'b' e 'g', 6, 10, 11, 14, 16, 17 e 28, 'k' apontadas pela DICAMI , na fundamentação do voto, e as restrições 1.1, 1.2, 1.3, 1.4, 1.5, 2.2, 2.3, 2.4, 2.5 2.6, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 6.1, 6.2, 6.3, 6.4, 7.2, 7.3, 7.4, 8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 9.1, 9.2, 9.3, 9.4, 9.5, 10.2, 10.3, 10.4, 10.5, 11.1, 11.2, 11.3, 11.4, 11.5, 11.6, 12.1, 12.2, 12.3, 12.4, 12.5, 12.6, 13.1,  13.2, 13.3, 13.4, 13.5, 13.6, 14.2, 14.3, 14.4, 15.2, 15.3, 15.4, 15.5, 15.6, 16.2, 16.3, 16.4, 17.1, 17.2, 17.3, 17.4, 17.5, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 19.2, 19.3, 19.4, 20.1, 20.2, 20.3, 20.4, 21.1, 21.2, 21.3, 21.4, 21.6, 22.1, 22.2, 22.3, 22.4 e 22.5 apontadas pela DICOP ,  na  fundamentação  do  relatório  voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Jaziel Nunes  de  Alencar no  valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96 c/c art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM,  alterado  pela Resolução n.º 25/2012-TCE/AM, por atos praticados com grave infração à  norma  legal  ou  regulamentar  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial , das restrições 3, 5, 'b' e 'g', 6, 10, 11, 14, 16, 17 e 28, 'k' apontadas pela DICAMI , na fundamentação do voto, e as restrições 1.1, 1.2, 1.3, 1.4, 1.5, 2.2, 2.3, 2.4, 2.5 2.6, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 6.1, 6.2, 6.3, 6.4, 7.2, 7.3, 7.4, 8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 9.1, 9.2, 9.3, 9.4, 9.5, 10.2, 10.3, 10.4, 10.5, 11.1, 11.2, 11.3, 11.4, 11.5, 11.6, 12.1, 12.2, 12.3, 12.4, 12.5, 12.6, 13.1,  13.2, 13.3, 13.4, 13.5, 13.6, 14.2, 14.3, 14.4, 15.2, 15.3, 15.4, 15.5, 15.6, 16.2, 16.3, 16.4, 17.1, 17.2, 17.3, 17.4, 17.5, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 19.2, 19.3, 19.4, 20.1, 20.2, 20.3, 20.4, 21.1, 21.2, 21.3, 21.4, 21.6, 22.1, 22.2, 22.3, 22.4 e 22.5 apontadas pela DICOP ,  na  fundamentação  do  relatório  voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "O responsável foi multado por atos que resultaram em grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Sanções aplicadas por atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial"
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Multa por atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial"
+            },
+            {
+              "norma": "Resolução n.º 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução n° 04/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  André  A.s.  Telles no  valor  de R$  43.841,28 (quarenta  e  três  mil,  oitocentos  e  quarenta  e  um  reais  e  vinte  e  oito centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96 c/c art. 308, inciso VI, da Resolução n° 04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos praticados com grave infração à  norma  legal  ou  regulamentar  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial ,  das  restrições 1.1,  1.8,  3.1, 3.8, 4.1, 4.8, 5.1, 5.8, 6.1, 6.7, 7.7, 8.1, 8.7, 9.1, 9.7, 10.7, 11.1, 11.7, 12.1, 12.7, 13.1, 13.7, 16.7, 17.1, 17.7, 18.1, 18.8, 19.7, 20.1, 20.7, 21.1 21.7, 22.1 e 22.7, apontadas pela DICOP , na fundamentação do relatório voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  André  A.s.  Telles no  valor  de R$  43.841,28 (quarenta  e  três  mil,  oitocentos  e  quarenta  e  um  reais  e  vinte  e  oito centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96 c/c art. 308, inciso VI, da Resolução n° 04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos praticados com grave infração à  norma  legal  ou  regulamentar  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial ,  das  restrições 1.1,  1.8,  3.1, 3.8, 4.1, 4.8, 5.1, 5.8, 6.1, 6.7, 7.

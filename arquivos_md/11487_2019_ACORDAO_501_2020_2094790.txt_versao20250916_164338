@@ -1,0 +1,400 @@
+{
+  "acordao": "501/2020",
+  "processo": "11487/2019",
+  "data_sessao": "20 de Maio de 2020",
+  "orgao": "Secretaria de Estado da Casa Civil",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Arthur Cesar Zahluth Lins"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar  regular com  ressalvas a Prestação  de  Contas Anual, referente ao exercício de 2018, da Casa Civil, de responsabilidade do Senhor Arthur Cesar Zahluth Lins , Ex-Secretário de Estado da Casa Civil  e  Ordenador  de  Despesas,  à  época, nos  termos  do  artigo  1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular com  ressalvas a Prestação  de  Contas Anual, referente ao exercício de 2018, da Casa Civil, de responsabilidade do Senhor Arthur Cesar Zahluth Lins , Ex-Secretário de Estado da Casa Civil  e  Ordenador  de  Despesas,  à  época, nos  termos  do  artigo  1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho julga as contas regulares com ressalvas, indicando que, apesar de aprovadas, houve impropriedades que justificam a ressalva,  a contabilidade é citada como tema de forma indireta.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar quitação",
+      "descricao": "Dar quitação ao Senhor Arthur Cesar Zahluth Lins, Ex-Secretário de Estado da Casa Civil e Ordenador de Despesas, à época, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Senhor Arthur Cesar Zahluth Lins, Ex-Secretário de Estado da Casa Civil e Ordenador de Despesas, à época, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho apenas formaliza a quitação das contas, sendo algo meramente informativo, e a contabilidade é citada como tema de forma indireta.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "72, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho apenas determina que se evite impropriedades, sem especificar quais. A contabilidade é citada como tema de forma indireta.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "188",
+              "descricao": "Norma interna que rege os procedimentos do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência da Declaração de Bens do Ordenador da Despesa da Casa Civil",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência da Declaração de Bens do Ordenador da Despesa da Casa Civil",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A13B",
+          "tipologia_irregularidade": "Descumprimento do Programa de Integridade",
+          "descricao": "Ausência de Declaração de bens",
+          "justificativa_tipologia": "A falta da declaração de bens impede a verificação da evolução patrimonial e pode indicar um descumprimento das normas de transparência e integridade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 4.730, de 27/12/2018",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a obrigatoriedade de apresentação de declaração de bens e valores pelos agentes públicos do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência do Parecer do Controle Interno do Órgão, de acordo com o que prevê o Inciso III, do art. 10 da Lei Orgânica do TCEAM",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do Parecer do Controle Interno do Órgão, de acordo com o que prevê o Inciso III, do art. 10 da Lei Orgânica do TCEAM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "A omissão do parecer do controle interno impede a avaliação da regularidade das contas e o cumprimento das normas de controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCEAM",
+              "artigo": "10, Inciso III",
+              "descricao": "Define as competências do controle interno, incluindo a emissão de parecer sobre as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Justificar e encaminhar documentos comprobatórios das metas alcançadas,  discriminando  detalhadamente  conforme  objeto  do Relatório Circunstanciado do Contrato de Gestão",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar e encaminhar documentos comprobatórios das metas alcançadas,  discriminando  detalhadamente  conforme  objeto  do Relatório Circunstanciado do Contrato de Gestão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PLANEJAMENTO",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "A ausência de justificativa e documentos comprobatórios das metas alcançadas indica falhas no planejamento e na execução do contrato de gestão, comprometendo a avaliação dos resultados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Impropriedades detectadas no exame dos Termos de Contratos e Aditivos",
+      "trechos_identificados": [
+        {
+          "trecho": "Impropriedades detectadas no exame dos Termos de Contratos e Aditivos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Deficiências no controle e fiscalização da execução contratual",
+          "justificativa_tipologia": "A identificação de impropriedades nos contratos e aditivos indica falhas na gestão contratual e pode comprometer a legalidade e a economicidade dos contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Norma geral de licitações e contratos que deve ser seguida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência do pronunciamento da Assessoria Jurídica, conforme o art. 38, VI, da Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do pronunciamento da Assessoria Jurídica, conforme o art. 38, VI, da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A falta de parecer jurídico compromete a segurança jurídica dos atos administrativos e pode indicar falhas no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38, VI",
+              "descricao": "Exige o parecer jurídico como requisito para a celebração de contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Deve a Casa Civil  esclarecer  se  a  licitação  para  compra  de passagem aéreas fora precedida de estimativas das quantidades de  bilhetes  e  trechos  a  serem  percorridos;  se  os  contratos previram  o  repasse  à  Casa  Civil  dos  descontos  eventualmente oferecidos pelos transportadores; se foram elaborados os relatórios das  viagens  pelos  servidores  beneficiados;  se  as viagens  satisfizeram  os  princípios  da  necessidade,  moralidade, impessoalidade e, particularmente, o da economicidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Deve a Casa Civil esclarecer se a licitação para compra de passagem aéreas fora precedida de estimativas das quantidades de bilhetes e trechos a serem percorridos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho questiona se houve estimativa das quantidades de bilhetes e trechos a serem percorridos na licitação, o que é relevante para o índice pois aponta para uma possível falha no planejamento da licitação, prejudicando a eficiência e a economicidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Deve a Casa Civil esclarecer se os contratos previram o repasse à Casa Civil dos descontos eventualmente oferecidos pelos transportadores.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho questiona se os contratos previram o repasse à Casa Civil dos descontos eventualmente oferecidos pelos transportadores, o que é relevante para o índice pois aponta para uma possível falha no planejamento da licitação, prejudicando a eficiência e a economicidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Deve a Casa Civil esclarecer se foram elaborados os relatórios das viagens pelos servidores beneficiados.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A9B",
+          "tipologia_irregularidade": "Omissão do Responsável pela Unidade de Controle Interno",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "O trecho questiona se foram elaborados os relatórios das viagens pelos servidores beneficiados, o que é relevante para o índice pois aponta para uma possível deficiência no controle interno, comprometendo a transparência e a responsabilização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Deve a Casa Civil esclarecer se as viagens satisfizeram os princípios da necessidade, moralidade, impessoalidade e, particularmente, o da economicidade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A17A",
+          "tipologia_irregularidade": "Aplicação de 25% da receita vinculável na Manutenção e Desenvolvimento do Ensino",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "O trecho questiona se as viagens satisfizeram os princípios da necessidade, moralidade, impessoalidade e, particularmente, o da economicidade, o que é relevante para o índice pois aponta para uma possível má gestão dos recursos públicos, comprometendo a eficiência e a economicidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Juntar relação pormenorizada das diárias concedida e respectivos  beneficiários,  dos  deslocamentos,  do  período  de afastamento e dos objetivos do deslocamento, esclarecendo a sua finalidade e se satisfizeram interesse público e os princípios da moralidade e eficiência; aplicando, por analogia, o critério do art. 457,  §  2°,  da  CLT,  informar  se  as  diárias  excederam  50%  da retribuição de qualquer dos beneficiários",
+      "trechos_identificados": [
+        {
+          "trecho": "Juntar relação pormenorizada das diárias concedida e respectivos  beneficiários,  dos  deslocamentos,  do  período  de afastamento e dos objetivos do deslocamento, esclarecendo a sua finalidade e se satisfizeram interesse público e os princípios da moralidade e eficiência; aplicando, por analogia, o critério do art. 457,  §  2°,  da  CLT,  informar  se  as  diárias  excederam  50%  da retribuição de qualquer dos beneficiários",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "O trecho determina a apresentação de relação detalhada das diárias concedidas, o que é relevante para o índice pois aponta para a necessidade de maior transparência e controle nos gastos com diárias, a fim de evitar irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CLT",
+              "artigo": "457, § 2°",
+              "descricao": "Define o que compreende o salário e exclui as diárias como parte integrante, desde que não excedam 50% da remuneração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Em  relação  aos  veículos,  houve  a  devida  identificação  dos mesmos? Ou seja, os automóveis em questão eram passíveis de serem  percebidos/identificados  pela  população  como  sendo  de serviço exclusivo da Casa Civil? Que medidas foram tomadas no sentido de controlar o uso dos veículos à disposição da Casa Civil (por  exemplo,  identificação  dos  motivos  do  deslocamento,  da autoridade  competente  para  autorizar  o  uso,  do  motorista,  do trajeto  e  da  quilometragem;  elaboração  de  mapas  de  controle; limitação do uso somente em dias úteis ou para fins fiscalizatórios e horários previamente  fixados; especificação das medidas adotadas para preservar os instrumentos de medição, tais como velocímetro,  hidrômetro  ou  celerímetro,  e  medidor  do  nível  de combustível etc.)?",
+      "trechos_identificados": [
+        {
+          "trecho": "Em  relação  aos  veículos,  houve  a  devida  identificação  dos mesmos? Ou seja, os automóveis em questão eram passíveis de serem  percebidos/identificados  pela  população  como  sendo  de serviço exclusivo da Casa Civil?",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A7B",
+          "tipologia_irregularidade": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita. Caracterização, assim como a não identificação pela guarda de cada um deles.",
+          "justificativa_tipologia": "O trecho questiona se os veículos eram identificados como sendo de uso exclusivo da Casa Civil, o que é relevante para o índice pois aponta para a necessidade de garantir a transparência e o controle no uso dos bens públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Que medidas foram tomadas no sentido de controlar o uso dos veículos à disposição da Casa Civil (por  exemplo,  identificação  dos  motivos  do  deslocamento,  da autoridade  competente  para  autorizar  o  uso,  do  motorista,  do trajeto  e  da  quilometragem;  elaboração  de  mapas  de  controle; limitação do uso somente em dias úteis ou para fins fiscalizatórios e horários previamente  fixados; especificação das medidas adotadas para preservar os instrumentos de medição, tais como velocímetro,  hidrômetro  ou  celerímetro,  e  medidor  do  nível  de combustível etc.)?",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho questiona quais medidas foram tomadas para controlar o uso dos veículos, o que é relevante para o índice pois aponta para a necessidade de fortalecer o controle interno, a fim de garantir a legalidade, a economicidade e a eficiência no uso dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Deve a Casa Civil informar como era adquirido o combustível para os veículos; relacionar as compras de combustíveis ocorridas no exercício e juntar cópias das notas fiscais respectivas; atestar se tais compras observaram as regras da Lei 8.666/93; atestar se os preços eram compatíveis com os praticados no mercado; juntar aos autos o preço médio apurado pela ANP.",
+      "trechos_identificados": [
+        {
+          "trecho": "Deve a Casa Civil informar como era adquirido o combustível para os veículos; relacionar as compras de combustíveis ocorridas no exercício e juntar cópias das notas fiscais respectivas; atestar se tais compras observaram as regras da Lei 8.666/93; atestar se os preços eram compatíveis com os praticados no mercado; juntar aos autos o preço médio apurado pela ANP.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho exige informações sobre a aquisição de combustíveis, o que é relevante para o índice pois aponta para a necessidade de verificar se houve sobrepreço ou outras irregularidades na aquisição de bens e serviços.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Lei de Licitações e Contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "adote as providências do artigo 162, §1º, do RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "adote as providências do artigo 162, §1º, do RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não consta",
+          "codigo_irregularidade": "Não consta",
+          "tipologia_irregularidade": "Não consta",
+          "descricao": "Não consta",
+          "justificativa_tipologia": "Não se aplica, pois trata-se de trâmite interno do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "162, §1º",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

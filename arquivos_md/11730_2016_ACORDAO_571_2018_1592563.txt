@@ -1,0 +1,48 @@
+{
+  "acordao": "571/2018",
+  "processo": "11730/2016",
+  "data_sessao": "28 de Agosto de 2018",
+  "orgao": "Junta Comercial do Estado do Amazonas - JUCEA",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Carlos Alberto Cavalcante de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  do Sr. Carlos Alberto Cavalcante de Souza , sob a responsabilidade  do Sr.  Carlos  Alberto  Cavalcante  de Souza , na Qualidade de Diretor-Presidente e Ordenador de Despesas, da Junta Comercial do Amazonas -(JUCEA), referente ao exercício financeiro de 2015,  de acordo  com  o  artigo  22, Inciso  II da  Lei  Orgânica  nº 2.423/96,  c/c  o  Art.  188,  §  1º,  Inciso  II  da  Resolução  nº 04/2002-RI/TCE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Carlos Alberto Cavalcante de Souza e a JUCEA que: a) atente aos questionamentos da Comissão de Inspeção, no item 3º formalizado na Notificação nº 106/2016- DICAI/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Carlos Alberto Cavalcante de Souza e a JUCEA que: b) atente  ao  eventual  descumprimento  das  recomendações aqui  lançadas,  caso  adotadas  pelo  Plenário  desta  Casa, ensejará a irregularidade de prestações de contas futuras, nos termos do art. 22, III, da Lei nº 2.423/96.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que  a  próxima  Comissão  de  Inspeção  que  irá fiscalizar  a  Junta  Comercial  do  Estado  do  Amazonas  JUCEA,  averigue  se  foram  regularizadas  as  pendências detectadas na inspeção do exercício de 2015.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Carlos Alberto Cavalcante de Souza , e a JUCEA, da decisão.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  presente  processo,  após  cumprida  a  decisão, nos termos regimentais.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Carlos Alberto Cavalcante de Souza no valor de R$ 2.000,00 , que deverá ser recolhida no prazo de  30 dias para  o  Cofre  Estadual  através  de DAR  avulso extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    }
+  ]
+}

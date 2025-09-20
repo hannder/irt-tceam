@@ -1,0 +1,226 @@
+{
+  "acordao": "618/2019",
+  "processo": "11823/2018",
+  "data_sessao": "16 de Julho de 2019",
+  "orgao": "Junta Comercial do Estado do Amazonas - JUCEA",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Antonio  Lopes  de  Souza",
+    "Carlos  Alberto Cavalcante de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  Regular  com  Ressalvas as  Contas  do Sr.  Carlos  Alberto Cavalcante de Souza , Presidente e ordenador de despesa da JUCEA (U.G: 16201), referente ao exercício de 2017 (janeiro a outubro), nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCE/AM, c/c art. 188,  II, da  Resolução  nº  04/2002  -  RITCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Registro de atos administrativos que devem constar cronologicamente  nas  pastas  funcionais  e  a  inexistência  de 'guia  financeira',  que  demonstre  o  resumo  da  evolução  das percepções auferidas pelo servidor do órgão",
+      "trechos_identificados": [
+        {
+          "trecho": "Registro de atos administrativos que devem constar cronologicamente  nas  pastas  funcionais  e  a  inexistência  de 'guia  financeira',  que  demonstre  o  resumo  da  evolução  das percepções auferidas pelo servidor do órgão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A deliberação indica a falta de informações cruciais nas pastas funcionais e ausência de guia financeira que demonstra a evolução das percepções auferidas pelo servidor do órgão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: De adjudicação do objeto da licitação e da sua homologação atos de procedimento licitatório",
+      "trechos_identificados": [
+        {
+          "trecho": "De adjudicação do objeto da licitação e da sua homologação atos de procedimento licitatório",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A40B",
+          "tipologia_irregularidade": "Ausência de divulgação de informações de interesse coletivo ou geral, relativo a procedimentos licitatórios",
+          "descricao": "- Não foi verificada, após a publicação do aviso de licitação, a divulgação tempestiva do Edital (e anexos), em sítios oficiais da rede mundial de computadores (internet), referente à [licitação XX].",
+          "justificativa_tipologia": "A ausência de adjudicação e homologação impede o controle adequado dos processos licitatórios.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Certidões  da  empresa  contratada  referente  ao  contrato  n° 02/2017",
+      "trechos_identificados": [
+        {
+          "trecho": "Certidões  da  empresa  contratada  referente  ao  contrato  n° 02/2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "A ausência de certidões impede a verificação da regularidade da empresa contratada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Comprovação de fidedignidade do saldo da \"Conta caixa\" em dezembro de 2017",
+      "trechos_identificados": [
+        {
+          "trecho": "Comprovação de fidedignidade do saldo da \"Conta caixa\" em dezembro de 2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A ausência de comprovação da fidedignidade do saldo da conta caixa compromete a transparência e o controle financeiro.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Comprovação de fidedignidade do saldo do \"Ativo imobilizado\"",
+      "trechos_identificados": [
+        {
+          "trecho": "Comprovação de fidedignidade do saldo do \"Ativo imobilizado\"",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ausência de comprovação da fidedignidade do saldo do ativo imobilizado compromete a transparência e o controle patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Comprovação de fidedignidade do saldo de \"Demais Créditos e valores a curto prazo\"",
+      "trechos_identificados": [
+        {
+          "trecho": "Comprovação de fidedignidade do saldo de \"Demais Créditos e valores a curto prazo\"",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ausência de comprovação da fidedignidade do saldo de 'Demais Créditos e valores a curto prazo' compromete a transparência e o controle financeiro.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar Regular com Ressalvas as Contas do Sr. Antonio Lopes de Souza , Presidente e ordenador de despesa da JUCEA (U.G: 16201), referente ao exercício de 2017 (outubro a dezembro), nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCE/AM, c/c art. 188, II, da Resolução nº 04/2002 - RITCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Registro de atos administrativos que devem constar cronologicamente  nas  pastas  funcionais  e  a  inexistência  de 'guia  financeira',  que  demonstre  o  resumo  da  evolução  das percepções auferidas pelo servidor do órgão",
+      "trechos_identificados": [
+        {
+          "trecho": "Registro de atos administrativos que devem constar cronologicamente  nas  pastas  funcionais  e  a  inexistência  de 'guia  financeira',  que  demonstre  o  resumo  da  evolução  das percepções auferidas pelo servidor do órgão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles.",
+          "justificativa_tipologia": "O não registro de atos administrativos e a inexistência de guia financeira prejudicam a organização e controle das informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Certidões  da  empresa  contratada  referente  ao  contrato  n° 02/2017",
+      "trechos_identificados": [
+        {
+          "trecho": "Certidões  da  empresa  contratada  referente  ao  contrato  n° 02/2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "A falta de certidões impede a comprovação da regularidade da empresa contratada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Comprovação de fidedignidade do saldo da \"Conta caixa\" em dezembro de 2017",
+      "trechos_identificados": [
+        {
+          "trecho": "Comprovação de fidedignidade do saldo da \"Conta caixa\" em dezembro de 2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O não envio de documentos que comprovem a fidedignidade da Conta Caixa em dezembro de 2017 fere a legislação pertinente",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Comprovação de fidedignidade do saldo do \"Ativo imobilizado\"",
+      "trechos_identificados": [
+        {
+          "trecho": "Comprovação de fidedignidade do saldo do \"Ativo imobilizado\"",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "justificativa_tipologia": "O não envio de documentos que comprovem a fidedignidade do Ativo Imobilizado fere a legislação pertinente.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ausências de: Comprovação de fidedignidade do saldo de \"Demais Créditos e valores a curto prazo\"",
+      "trechos_identificados": [
+        {
+          "trecho": "Comprovação de fidedignidade do saldo de \"Demais Créditos e valores a curto prazo\"",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O não envio de documentos que comprovem a fidedignidade de Demais Créditos e valores a curto prazo fere a legislação pertinente.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Carlos Alberto Cavalcante de Souza , com fulcro no art. 53, parágrafo único da Lei Orgânica desta Corte de Contas, no valor de R$ 7.000,00 ,  em razão das ressalvas contidas no item 10.1 deste Acórdão, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.  Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado  pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Antonio Lopes de Souza , com fulcro no art. 53, parágrafo único da Lei Orgânica desta Corte de Contas, no valor de R$ 4.000,00 , em razão das ressalvas contidas no item 10.2 desta Acórdão, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado  pelo Banco )  a  esta  Corte  de Contas (art. 72, inciso III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência à JUCEA e aos Srs. Carlos Alberto Cavalcante de Souza e Antônio Lopes de Souza .",
+      "trechos_identificados": []
+    }
+  ]
+}

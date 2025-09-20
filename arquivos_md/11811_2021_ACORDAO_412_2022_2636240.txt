@@ -1,0 +1,112 @@
+{
+  "acordao": "412/2022",
+  "processo": "11811/2021",
+  "data_sessao": "29 de Março de 2022",
+  "orgao": "Fundo  de  Amparo  e  Proteção  a  Vítimas  e  Testemunhas  Ameaçadas  FPROVITA",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Alberto Rodrigues do Nascimento Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas Anual, do exercício financeiro de 2020, do Fundo de Amparo e Proteção a Vítimas e Testemunhas Ameaçadas (PROVITA) , sob a responsabilidade do Sr. Alberto Rodrigues do Nascimento Junior ,  Procurador Geral  de  Justiça,  nos termos dos arts. 1°, II, b; 22, I, e 23 da Lei nº 2.423/1996 c/c arts. 188, §1º,  I,  e  189,  I,  da  Resolução  n°  04/2002  -  TCE/AM,  pelos  motivos expostos no Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual, do exercício financeiro de 2020, do Fundo de Amparo e Proteção a Vítimas e Testemunhas Ameaçadas (PROVITA) , sob a responsabilidade do Sr. Alberto Rodrigues do Nascimento Junior ,  Procurador Geral  de  Justiça,  nos termos dos arts. 1°, II, b; 22, I, e 23 da Lei nº 2.423/1996 c/c arts. 188, §1º,  I,  e  189,  I,  da  Resolução  n°  04/2002  -  TCE/AM,  pelos  motivos expostos no Relatório/Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata o julgamento da regularidade da prestação de contas, sem detalhar ou descrever irregularidades contábeis ou orçamentárias específicas. Classificado no tema da Contabilidade por julgar a regularidade das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "1",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Resolução n° 04/2002 - TCE/AM",
+              "artigo": "188",
+              "descricao": "Regimento Interno do Tribunal de Contas do Amazonas"
+            },
+            {
+              "norma": "Resolução n° 04/2002 - TCE/AM",
+              "artigo": "189",
+              "descricao": "Regimento Interno do Tribunal de Contas do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao Sr.  Alberto  Rodrigues  do  Nascimento  Junior , Procurador Geral de Justiça, nos termos dos arts. 23 e 72, I, da Lei n. 2423/1996 c/c o art. 189, I, da Resolução n° 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr.  Alberto  Rodrigues  do  Nascimento  Junior , Procurador Geral de Justiça, nos termos dos arts. 23 e 72, I, da Lei n. 2423/1996 c/c o art. 189, I, da Resolução n° 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata a quitação dada ao responsável, sem detalhar ou descrever irregularidades contábeis ou orçamentárias específicas. Classificado no tema da Contabilidade por julgar a regularidade das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Resolução n° 04/2002 - TCE/AM",
+              "artigo": "189",
+              "descricao": "Regimento Interno do Tribunal de Contas do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SEPLENO - Secretaria do Tribunal Pleno que, por meio da Divisão competente,  cientifique o interessado  sobre  o  teor deste Acórdão,  nos  termos  do  art.  162  do  Regimento  Interno  do  TCE/AM, encaminhando-lhe cópia do Relatório-Voto e deste Acórdão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SEPLENO - Secretaria do Tribunal Pleno que, por meio da Divisão competente,  cientifique o interessado  sobre  o  teor deste Acórdão,  nos  termos  do  art.  162  do  Regimento  Interno  do  TCE/AM, encaminhando-lhe cópia do Relatório-Voto e deste Acórdão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho determina a notificação do interessado sobre a decisão do Tribunal, procedimento padrão sem indicação de irregularidade ou problema de gestão. Classificado no tema de envio de informações por se tratar de uma comunicação processual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento  Interno  do  TCE/AM",
+              "artigo": "162",
+              "descricao": "N/A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

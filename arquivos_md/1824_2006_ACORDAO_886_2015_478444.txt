@@ -1,0 +1,222 @@
+{
+  "acordao": "886/2015",
+  "processo": "1824/2006",
+  "data_sessao": "14 de outubro de 2015",
+  "orgao": "Secretaria de Estado de Infraestrutura - SEINF",
+  "municipio": "Manaus",
+  "exercicio": "2005",
+  "responsavel": [
+    "Fernando Elias Prestes Gonçalves",
+    "Marco Aurélio de Mendonça"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar IRREGULAR, com fulcro no artigo 1º, inciso III, artigo 22, alínea 'b', da Lei n. 2.423/1996 - LOTCE; e artigo 188, §1º, inciso III, alínea 'b', da Resolução nº. 04/2002 - RITCE, a Prestação de Contas da Secretaria de Estado de Infraestrutura, de responsabilidade do Senhor Marco Aurélio de Mendonça, Secretário e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR, com fulcro no artigo 1º, inciso III, artigo 22, alínea 'b', da Lei n. 2.423/1996 - LOTCE; e artigo 188, §1º, inciso III, alínea 'b', da Resolução nº. 04/2002 - RITCE, a Prestação de Contas da Secretaria de Estado de Infraestrutura, de responsabilidade do Senhor Marco Aurélio de Mendonça, Secretário e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição do trecho indica que a prestação de contas foi considerada irregular devido a problemas que afetam a confiabilidade das informações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/1996",
+              "artigo": "1º, inciso III",
+              "descricao": "Base legal para julgar irregular a prestação de contas."
+            },
+            {
+              "norma": "Lei n. 2.423/1996",
+              "artigo": "22, alínea 'b'",
+              "descricao": "Especifica a irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso III, alínea 'b'",
+              "descricao": "Procedimento para julgar irregular a prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Glosar o montante de R$ 6.516.958,70, referente às impropriedades listadas no voto, nos itens:  03, 04, 05, 06 e 07, considerando o Senhor Marco Aurélio de Mendonça, Secretário Estadual de Infraestrutura e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005), em alcance, nos termos do artigo 304, inciso I, da Resolução nº. 04/2002 - RITCE , fixando-lhe o prazo de 30 (trinta)  dias,  para  que  recolha o valor do débito aos cofres da Fazenda Muniipal, com a devida comprovação nestes autos (artigo 72, inciso III, alíncea 'a' da Lei n. 2423/1996 - LOTCE e artigo 308, §3°, da Resolução nº. 04/2002 - RITCE). Expirado o prazo estabelecido, o referido valor deverá ser inscrito na Dívida Ativa do Município, seguida de imediata cobrança judicial cientificando este Tribunal de todas as medidas adotadas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Glosar o montante de R$ 6.516.958,70, referente às impropriedades listadas no voto, nos itens:  03, 04, 05, 06 e 07, considerando o Senhor Marco Aurélio de Mendonça, Secretário Estadual de Infraestrutura e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005), em alcance, nos termos do artigo 304, inciso I, da Resolução nº. 04/2002 - RITCE , fixando-lhe o prazo de 30 (trinta)  dias,  para  que  recolha o valor do débito aos cofres da Fazenda Muniipal, com a devida comprovação nestes autos (artigo 72, inciso III, alíncea 'a' da Lei n. 2423/1996 - LOTCE e artigo 308, §3°, da Resolução nº. 04/2002 - RITCE).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A glosa indica que houve irregularidades nos pagamentos que justificam a devolução dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "304, inciso I",
+              "descricao": "Determina a responsabilização do ordenador de despesas."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "72, inciso III, alíncea 'a'",
+              "descricao": "Base legal para o ressarcimento ao erário."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "308, §3°",
+              "descricao": "Estabelece o prazo e procedimento para recolhimento do débito."
+            }
+          ]
+        },
+        {
+          "trecho": "Expirado o prazo estabelecido, o referido valor deverá ser inscrito na Dívida Ativa do Município, seguida de imediata cobrança judicial cientificando este Tribunal de todas as medidas adotadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho descreve o procedimento padrão caso o valor não seja pago no prazo, o que indica um processo administrativo regular.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: a) Remeta à atual Administração da Secretaria de Estado de Infraestrutura, cópias autênticas do Relatório Técnico - DICOP, às fls. 2485/2519; da Informação Conclusiva nº. 17/2015, às fls. 25572558; e do Parecer Ministerial nº. 148/2015, às fls. 2553/2555, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras; b) Notifique os Senhores Fernando Elias Prestes Gonçalves, Secretário e Ordenador de Despesas (período de 01.01.2005 a 05.08.2005) e Marco Aurélio de Mendonça, Secretário e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005), com cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresentem o devido recurso; c) Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002-RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeta à atual Administração da Secretaria de Estado de Infraestrutura, cópias autênticas do Relatório Técnico - DICOP, às fls. 2485/2519; da Informação Conclusiva nº. 17/2015, às fls. 25572558; e do Parecer Ministerial nº. 148/2015, às fls. 2553/2555, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa fortalecer o controle interno ao fornecer informações relevantes para a administração.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Notifique os Senhores Fernando Elias Prestes Gonçalves, Secretário e Ordenador de Despesas (período de 01.01.2005 a 05.08.2005) e Marco Aurélio de Mendonça, Secretário e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005), com cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresentem o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A notificação aos responsáveis é um procedimento padrão para garantir o direito ao contraditório e à ampla defesa.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002-RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação é um procedimento padrão para garantir a execução das decisões do tribunal após o trânsito em julgado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "159",
+              "descricao": "Procedimentos após a coisa julgada."
+            },
+             {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "160",
+              "descricao": "Procedimentos após a coisa julgada."
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "162, §2º",
+              "descricao": "Execução das decisões após a coisa julgada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "aplicar ao Senhor Marco Aurélio de Mendonça, Secretário Estadual e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005), multa no valor de R$ 5.480,15, de acordo com o artigo 308, inciso II, da Resolução nº. 04/2002 - RITCE, alterada pela Resolução nº. 25/2012, correspondente a R$ 1.096,03, por mês de competência ( agosto a dezembro do exercício de 2005), relativo aos dados e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 07/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "aplicar ao Senhor Marco Aurélio de Mendonça, Secretário Estadual e Ordenador de Despesas (período de 06.08.2005 a 31.12.2005), multa no valor de R$ 5.480,15, de acordo com o artigo 308, inciso II, da Resolução nº. 04/2002 - RITCE, alterada pela Resolução nº. 25/2012, correspondente a R$ 1.096,03, por mês de competência ( agosto a dezembro do exercício de 2005), relativo aos dados e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 07/2002",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa foi aplicada devido ao envio de documentos contábeis fora do prazo, indicando falha no cumprimento das obrigações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, XXVI",
+              "descricao": "Base legal para a aplicação de multa."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "52",
+              "descricao": "Base legal para a aplicação de multa."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "308, inciso II",
+              "descricao": "Valor da multa para o caso concreto."
+            },
+            {
+              "norma": "Resolução nº. 25/2012",
+              "artigo": "Não aplicável",
+              "descricao": "Altera a Resolução nº. 04/2002 - RITCE"
+            },
+            {
+              "norma": "Resolução nº. 07/2002",
+              "artigo": "4º",
+              "descricao": "Fixa o prazo para a remessa dos dados e demonstrativos contábeis ACP/Captura."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Marco Aurélio de Mendonça, Secretário e Ordenador de Despesas (período de 6.8.2005 a 31.12.2005), recolha aos cofres da Fazenda Estadual o valor da multa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei n. 2423/1996 - LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Marco Aurélio de Mendonça, Secretário e Ordenador de Despesas (período de 6.8.2005 a 31.12.2005), recolha aos cofres da Fazenda Estadual o valor da multa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei n. 2423/1996 - LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de prazo e as ações subsequentes da DICREX visam garantir o cumprimento da decisão do tribunal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "174",
+              "descricao": "Fixação do prazo para o recolhimento da multa."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "55",
+              "descricao": "Atualização monetária do débito."
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "Subseções III e IV da Secção III, do Capítulo X",
+              "descricao": "Medidas a serem adotadas pela DICREX."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

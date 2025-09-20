@@ -1,0 +1,84 @@
+{
+  "acordao": "1022/2019",
+  "processo": "11549/2019",
+  "data_sessao": "2019-10-08",
+  "orgao": "Fundo de Promoção Social - FPS",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Ana Maria Gato Bentes",
+    "Maria do Socorro Sab Coelho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular  com  ressalvas as  Contas  do Fundo  de  Promoção Social -FPS , referente ao exercício financeiro de 2018 , de responsabilidade das Sras. Ana Maria Gato Bentes (período de 01/01/2018 à 21/06/2018), e Maria do Socorro Sab Coelho (período de 21/06/2018 à 31/12/2018), gestoras e ordenadoras de despesa do Fundo nos respectivos períodos, nos termos do art. 1º, II, 22, II, e 24 da Lei  2423/1996  e  art.  188,  §  1º,  II,  e  189,  II,  da  Resolução  4/2002  TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  gestão  do Fundo  de  Promoção  Social  -  FPS, que:promova uma melhor execução orçamentária e planejamento no quadro de despesas e receitas de forma a aperfeiçoar  a  gestão  dos  recursos  públicos  destinados  ao Fundo de Promoção Social",
+      "trechos_identificados": [
+        {
+          "trecho": "promova uma melhor execução orçamentária e planejamento no quadro de despesas e receitas de forma a aperfeiçoar  a  gestão  dos  recursos  públicos  destinados  ao Fundo de Promoção Social",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "A recomendação indica uma deficiência no planejamento orçamentário e execução, o que pode levar a uma gestão ineficiente dos recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  gestão  do Fundo  de  Promoção  Social  -  FPS, que:promova a imediata implantação do Portal de Transparência do FPS, em cumprimento à Lei nº 2423/96 ,Lei  nº  12.527/2011  (Lei  de  Acesso  à  Informação)  e  Lei  nº 131/2009 (Lei da Transparência)",
+      "trechos_identificados": [
+        {
+          "trecho": "promova a imediata implantação do Portal de Transparência do FPS, em cumprimento à Lei nº 2423/96 ,Lei  nº  12.527/2011  (Lei  de  Acesso  à  Informação)  e  Lei  nº 131/2009 (Lei da Transparência)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação de implantação imediata do Portal de Transparência indica uma falha na divulgação de informações relevantes sobre a gestão do FPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "Não consta",
+              "descricao": "Lei de criação do Fundo de Promoção Social."
+            },
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "Não consta",
+              "descricao": "Lei de Acesso à Informação."
+            },
+            {
+              "norma": "Lei nº 131/2009",
+              "artigo": "Não consta",
+              "descricao": "Lei da Transparência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar quitação à Sra. Ana Maria Gato Bentes , na qualidade de gestora e ordenadora de despesa do Fundo de Promoção Social FPS , no período de 01/01/2018 à 21/06/2018, nos termos do art. 24 da Lei n.º 2.423/96 c/c o art. 189, I da Resolução n.º 04/02 - RITCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar quitação à  Sra. Maria  do  Socorro  Sab  Coelho, na  qualidade  de gestora e ordenadora de despesa do Fundo de Promoção Social - FPS , no período de 21/06/2018 à 31/12/2018,  nos termos  do  art.  24  da  Lei  n.º  2.423/96  c/c  o  art.  189,  I  da Resolução n.º 04/02 - RITCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno a adoção das providências previstas no art. 161 da Resolução 04/2002 - TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

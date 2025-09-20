@@ -1,0 +1,102 @@
+{
+  "acordao": "1023/2015",
+  "processo": "1186/2012",
+  "data_sessao": "09 de dezembro de 2015",
+  "orgao": "Câmara Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2011",
+  "responsavel": [
+    "Paulo Roberto Bandeira"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular, nos termos do artigo 22, alíneas III, 'b', § 1º da Lei Estadual nº 2423/96 (LO/TCEAM), a Prestação de Contas, relativa ao exercício de 2011, de responsabilidade do Senhor Paulo Roberto Bandeira, Presidente e Ordenador de Despesas da Câmara Municipal de Iranduba, à época",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Glosar",
+      "descricao": "Glosar a quantia de R$ 6.560,84 (seis mil, quinhentos e sessenta reais e oitenta e quatro centavos) ao responsável, Sr. Paulo Roberto Bandeira, Presidente e Ordenador de Despesas da Câmara Municipal de Iranduba à época, devendo ainda o responsável ser considerado em ALCANCE, na forma que segue:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "ALCANCE",
+      "descricao": "No valor de R$3.280,77 (três mil, duzentos e oitenta reais e setenta e sete centavos), referente ao Descumprimento do art. 37, caput, da CF/88 - Princípio da Impessoalidade e da moralidade. Indícios de remuneração indireta para vereadores, uma vez que receberam diárias mensalmente, com períodos e valores semelhantes; os processos de concessão de Diárias e a Prestação de Contas possuem a mesma justificativa, genérica e sem as informações necessárias à verificação do atendimento do interesse público - item 17 da restrições do Relatório Conclusivo da DICAMI;",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$3.280,77 (três mil, duzentos e oitenta reais e setenta e sete centavos), referente ao Descumprimento do art. 37, caput, da CF/88 - Princípio da Impessoalidade e da moralidade. Indícios de remuneração indireta para vereadores, uma vez que receberam diárias mensalmente, com períodos e valores semelhantes; os processos de concessão de Diárias e a Prestação de Contas possuem a mesma justificativa, genérica e sem as informações necessárias à verificação do atendimento do interesse público - item 17 da restrições do Relatório Conclusivo da DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Identificado indícios de burla no processo legal de pagamento mediante a remuneração indireta de vereadores através de diárias com justificativas genéricas e sem comprovação de interesse público, burlando assim o processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, caput",
+              "descricao": "Princípios da Impessoalidade e da Moralidade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ALCANCE",
+      "descricao": "No valor de R$ 2.730,07 (dois mil, setecentos e trinta reais e sete centavos) referente ao Pagamento no valor de R$ 2.370,77 , referente às multas geradas pelo pagamento em atraso dos recolhimentos das contribuições previdenciárias (meses agosto/ setembro / outubro), conforme análise dos processos de liquidação e pagamentos, especificamente relativos aos recolhimentos do INSS para o Regime Geral (INSS Vereadores, Cargos Comissionados e INSS Patronal) - item nº 20 das restrições do relatório Conclusivo da DICAMI",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 2.730,07 (dois mil, setecentos e trinta reais e sete centavos) referente ao Pagamento no valor de R$ 2.370,77 , referente às multas geradas pelo pagamento em atraso dos recolhimentos das contribuições previdenciárias (meses agosto/ setembro / outubro), conforme análise dos processos de liquidação e pagamentos, especificamente relativos aos recolhimentos do INSS para o Regime Geral (INSS Vereadores, Cargos Comissionados e INSS Patronal) - item nº 20 das restrições do relatório Conclusivo da DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A83A",
+          "tipologia_irregularidade": "Ausência de pagamento devido",
+          "descricao": "Ausência de pagamento de valores devidos a trabalhadores, como salários, horas extras, férias, etc.",
+          "justificativa_tipologia": "O pagamento de multas devido a atrasos nos recolhimentos previdenciários indica uma falha na gestão financeira e no cumprimento das obrigações legais por parte da administração, resultando em um prejuízo financeiro para o erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ALCANCE",
+      "descricao": "No valor de R$ 550,00 (quinhentos e cinquenta reais), referente a Ausência de Nota Fiscal que justifique a aquisição de cinco rodos de limpeza pelo montante de R$ 550,00, conforme NE nº 87 - letra g das restrições identificadas pelo i. parquet no Parecer de fls. 1034/1041",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 550,00 (quinhentos e cinquenta reais), referente a Ausência de Nota Fiscal que justifique a aquisição de cinco rodos de limpeza pelo montante de R$ 550,00, conforme NE nº 87 - letra g das restrições identificadas pelo i. parquet no Parecer de fls. 1034/1041",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "Ausência de Nota Fiscal para comprovar a aquisição de bens demonstra ausência de controle e documentação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "Aplicar multa ao Senhor Paulo Roberto Bandeira , Presidente e Ordenador de Despesas da Câmara Municipal de Iranduba, à época, no valor total de R$ 30.000,00 (trinta mil reais), pelas impropriedades previstas nas restrições nº 1; 2; 3; 8; 9; 11; 12; 13; e 16 da Informação Conclusiva nº 678/2015 - CI/DICAMI (fls.1219/1228) e itens de letras e; f; h e i , do Parecer Ministerial nº 288/2013, fls. 1034/1041, com fulcro nos incisos II, III, IV e VI do art. 54 da Lei Estadual nº 2423/96 (LO/TCEAM) c/c com os incisos, I, 'a' e 'b', II, V e VI do art. 308 da Resolução nº 4/2002-TCE/AM, com a nova redação dada pelo art. 2º, da Resolução nº 25/2012-TCE/AM, abaixo relacionadas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar ao Poder Legislativo local que promova a redução formal do valor dos subsídios do Presidente aos limites constitucionais",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao Poder Legislativo local que promova a redução formal do valor dos subsídios do Presidente aos limites constitucionais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A18A",
+          "tipologia_irregularidade": "Aplicação de 70% dos Recursos FUNDEB com a Remuneração dos Profissionais do Magistério da Educação Básica",
+          "descricao": "Ausência de comprovação da efetiva entrega dos produtos.",
+          "justificativa_tipologia": "A determinação para que o Poder Legislativo reduza formalmente o valor dos subsídios do Presidente aos limites constitucionais indica um reconhecimento de que os subsídios estavam em desacordo com as normas legais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "acordao": "1028/2023",
+  "processo": "16391/2020",
+  "data_sessao": "29 de Maio de 2023",
+  "orgao": "Secretaria de Estado de Justiça, Direitos Humanos e Cidadania - SEJUSC",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Louismar de Matos Bonates Junior",
+    "Cícero Romão de Souza Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência  de  esclarecimentos  sobre  a  contratação direta da Fundação Getúlio Vargas para elaborar estudos  técnicos  objetivando  verificar  a  viabilidade  de uma  Parceria Público Privada -PPP,  devendo  o responsável  informar  a  escolha  da  FGV,  encaminhar cópia do procedimento licitatório, justificar o preço (Lei nº. 8.666/1993, artigo 26, parágrafo único, III) e indicar quais  as  consequências  concretas  do  estudo  técnico para a administração pública",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  esclarecimentos  sobre  a  contratação direta da Fundação Getúlio Vargas para elaborar estudos  técnicos  objetivando  verificar  a  viabilidade  de uma  Parceria Público Privada -PPP,  devendo  o responsável  informar  a  escolha  da  FGV,  encaminhar cópia do procedimento licitatório, justificar o preço (Lei nº. 8.666/1993, artigo 26, parágrafo único, III) e indicar quais  as  consequências  concretas  do  estudo  técnico para a administração pública",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A ausência de esclarecimentos sobre a contratação direta da FGV, incluindo a justificativa do preço e a escolha da FGV, caracteriza uma irregularidade no processo de contratação e aponta para uma possível falta de transparência e planejamento.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/1993",
+              "artigo": "26",
+              "descricao": "O artigo 26 da Lei nº. 8.666/1993 dispõe sobre a necessidade de justificação nos processos de dispensa e inexigibilidade de licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência  de  esclarecimentos  sobre  se  os  contratos realizados com a sociedade Umanizzare Gestão Prisional e Serviços Ltda foram precedidos de licitação, identificando a modalidade adotada, bem como encaminhando  cópias  do procedimento licitatório e contrato firmado",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  esclarecimentos  sobre  se  os  contratos realizados com a sociedade Umanizzare Gestão Prisional e Serviços Ltda foram precedidos de licitação, identificando a modalidade adotada, bem como encaminhando  cópias  do procedimento licitatório e contrato firmado",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A ausência de esclarecimentos sobre a realização de licitação para os contratos com a Umanizzare Gestão Prisional e Serviços Ltda e a falta de identificação da modalidade adotada apontam para uma possível ausência de processo licitatório ou dispensa/inexigibilidade sem amparo legal.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "No  que  tange  à  contratação  da  Fundação  de  Apoio Institucional Rio Solimões  -  UNISOL,  ausência  de esclarecimentos  se  a  contratação foi precedida  de licitação, qual a modalidade, bem como explicar no que consiste o serviço de telemedicina e qual a sua abrangência, encaminhando  cópias dos respectivos procedimentos licitatórios e contratos",
+      "trechos_identificados": [
+        {
+          "trecho": "No  que  tange  à  contratação  da  Fundação  de  Apoio Institucional Rio Solimões  -  UNISOL,  ausência  de esclarecimentos  se  a  contratação foi precedida  de licitação, qual a modalidade, bem como explicar no que consiste o serviço de telemedicina e qual a sua abrangência, encaminhando  cópias dos respectivos procedimentos licitatórios e contratos",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A ausência de esclarecimentos sobre a realização de licitação para a contratação da Fundação de Apoio Institucional Rio Solimões - UNISOL, a falta de identificação da modalidade e a ausência de detalhamento sobre o serviço de telemedicina apontam para uma possível ausência de processo licitatório ou dispensa/inexigibilidade sem amparo legal.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Com relação à prorrogação do contrato para distribuição de marmitas com o empresário G.H. Macário  Bento,  ausência  de  esclarecimentos  sobre  o número de unidades distribuídas anualmente, encaminhando  imagens  dos  estabelecimentos  e  da respectiva área de produção, encaminhando cópias dos documentos/certidões que comprovarem  terem  sido atendidas  as  exigências  de  habilitação  e  qualificação durante  a  execução  do  contrato  (Lei  nº.  8.666/1993, artigo 55, XIII) e as exigências sanitárias pertinentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Com relação à prorrogação do contrato para distribuição de marmitas com o empresário G.H. Macário  Bento,  ausência  de  esclarecimentos  sobre  o número de unidades distribuídas anualmente, encaminhando  imagens  dos  estabelecimentos  e  da respectiva área de produção, encaminhando cópias dos documentos/certidões que comprovarem  terem  sido atendidas  as  exigências  de  habilitação  e  qualificação durante  a  execução  do  contrato  (Lei  nº.  8.666/1993, artigo 55, XIII) e as exigências sanitárias pertinentes",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A ausência de informações sobre o número de marmitas distribuídas, imagens dos estabelecimentos e documentos/certidões que comprovem o atendimento às exigências de habilitação e qualificação durante a execução do contrato aponta para uma possível ausência de comprovação de regularidade fiscal e trabalhista, e um detalhamento insuficiente na planilha de composição de custos e formação de preços.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/1993",
+              "artigo": "55",
+              "descricao": "O artigo 55 da Lei nº. 8.666/1993 dispõe sobre as cláusulas necessárias em todo contrato administrativo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

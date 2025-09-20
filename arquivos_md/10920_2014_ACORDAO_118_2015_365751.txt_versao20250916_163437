@@ -1,0 +1,264 @@
+{
+  "acordao": "118/2015",
+  "processo": "10920/2014",
+  "data_sessao": "04 de março de 2015",
+  "orgao": "Companhia de Água, Esgoto e Saneamento de Coari",
+  "municipio": "Coari",
+  "exercicio": "2013",
+  "responsavel": [
+    "Evandro Rodrigues de Moraes"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  IRREGULARES  as  Contas  da  COMPANHIA  DE  ÁGUA, ESGOTO E SANEAMENTO DE COARI, exercício de 2013, de responsabilidade do Senhor EVANDRO RODRIGUES DE MORAES, com fulcro nos artigos 1º, II, 19, II, 22, III, 'b' e 'c', e 25 da Lei Estadual nº 2.423/1996",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "CONSIDERAR EM  ALCANCE o Senhor EVANDRO RODRIGUES DE MORAES no valor de R$132.416.00 (cento e trinta e dois mil, quatrocentos e dezesseis reais) devido às restrições não sanadas abaixo discriminadas:\na)  no  valor  de  R$122.000.00  (cento  e  vinte  e  dois  mil)  referente  a  ato praticado com grave infração à norma insculpida no art.86, da Lei  Municipal nº404/2003PMC-GP (Estatuto dos Servidores Públicos do Município de Coari), no que diz respeito ao controle  de  frequência  de  servidores,  configurando  a inassiduidade  habitual  com  a conivência da gestão da CAESC;\nb) no valor de R$10.416,00 (dez mil reais, quatrocentos e dezesseis reais), referente  a  contratação  indevida  de  uma  'Lan  House'  para  recebimento  das  contas  de água  de  Coari,  o  que  não  parece  ser  adequada,  pois  o  município  conta  com  quatro",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar MULTA AO RESPONSÁVEL, Senhor EVANDRO RODRIGUES DE MORAES:\na) por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, com base no art. 54, II, da Lei Estadual nº.2.423/96 c/c com artigo 308, VI, do Regimento Interno, das restrições dos itens 7.2, 7.3, 7.4, 7.8, 7.9, 7.10, 7.12, 7.13, 7.14, 7.15, 7.21 (restrições do relatório conclusivo da DICAMI: 24, 'a', 'b', 'f' e 'g'; 25, 'e'; 26, 'b'; 27, 'd' e 'f'; 28, 'f'; 30, 'c'; 31, 'a'; 32, 'a' e 'b'; 33.1, 'd' e 'f') e 7.22 (restrições do relatório conclusivo da DICAMI:  33.2, 'a',  'b',  'c'  33.3,  'a'), no  valor  de  R$43.841,28  (quarenta  e  três  mil,  oitocentos  e quarenta e um reais e vinte e oito centavos)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar MULTA AO RESPONSÁVEL,  Senhor EVANDRO RODRIGUES DE MORAES, por ato de gestão  ilegítimo  ou  antieconômico  de  que  resulte  dano  ao erário, com base no artigo 54, III, da Lei Orgânica c/c artigo 308, V, do Regimento Interno, diante  das  restrições  7.6  e  7.7, no  valor  de  R$10.900,00  (dez  mil  e  novecentos reais)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Fixar o prazo de trinta dias para o recolhimento aos cofres públicos pelo  responsável  no  valor  das  penalidades  impostas,  com  comprovação  perante  este Tribunal, acrescido da atualização monetária e dos juros de mora devidos, nos termos dos arts.73 e 74 da Lei Estadual n.2423/96 e art. 169, I, da Resolução n.04/02-TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\na) Ausência  de escrituração contábil e extra contábil,  analítica e sintética, que permita a caracterização dos bens permanentes adquiridos e baixados no exercício de 2013, bem como o saldo remanescente dos exercícios anteriores, inclusive ausência do registro  e  tombamento  dos  bens  permanentes,  assim  como  livro  tombo  e  agentes responsáveis pela sua guarda e administração",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de escrituração contábil e extra contábil,  analítica e sintética, que permita a caracterização dos bens permanentes adquiridos e baixados no exercício de 2013, bem como o saldo remanescente dos exercícios anteriores, inclusive ausência do registro  e  tombamento  dos  bens  permanentes,  assim  como  livro  tombo  e  agentes responsáveis pela sua guarda e administração",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não há escrituração contábil que caracterize os bens adquiridos e baixados, assim como o registro e tombamento dos bens permanentes.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho descreve a falta de escrituração contábil para caracterizar bens, configurando uma não atualização contábil.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\nb) Ausência do levantamento geral dos bens móveis e imóveis, extraído do inventário  analítico  de  cada  unidade  administrativa  e  das  informações  da  escrituração sintética da contabilidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do levantamento geral dos bens móveis e imóveis, extraído do inventário  analítico  de  cada  unidade  administrativa  e  das  informações  da  escrituração sintética da contabilidade",
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Não há levantamento geral dos bens móveis e imóveis, extraído do inventário analítico de cada unidade administrativa e das informações da escrituração sintética da contabilidade.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho descreve a ausência de levantamento geral de bens, impactando nos registros analíticos do patrimônio.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\nc)  Cumprimento  do  §  1º,  do  art.  27,  da  Lei  Municipal  nº  528/2009,  que dispõe  sobre  o  plano de  Emprego  e  Salários  da  Companhia  de  Água,  Esgoto  e Saneamento Básico de Coari - CAESC, no sentido de providenciar o advento do decreto regulamentador da concessão de diárias",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumprimento  do  §  1º,  do  art.  27,  da  Lei  Municipal  nº  528/2009,  que dispõe  sobre  o  plano de  Emprego  e  Salários  da  Companhia  de  Água,  Esgoto  e Saneamento Básico de Coari - CAESC, no sentido de providenciar o advento do decreto regulamentador da concessão de diárias",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "É necessário cumprir o artigo da Lei Municipal que trata da concessão de diárias, providenciando um decreto que regulamente o tema.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda regulamentar a concessão de diárias, o que indica uma ausência ou falha na regulamentação prévia.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 528/2009",
+              "artigo": "27, § 1º",
+              "descricao": "Dispõe sobre o plano de Emprego e Salários da Companhia de Água, Esgoto e Saneamento Básico de Coari - CAESC e determina a regulamentação da concessão de diárias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\nd)  Realização  de  concurso  público  visando  prover  os  empregos  públicos vagos",
+      "trechos_identificados": [
+        {
+          "trecho": "Realização  de  concurso  público  visando  prover  os  empregos  públicos vagos",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Realizar concurso público para preencher os empregos públicos vagos.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda a realização de concurso público, o que sugere uma ausência ou insuficiência de concursos para preencher os cargos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\ne) Regularizar a situação dos servidores acima tratados, no sentido de instálos  a  optar  pelo  cargo/emprego/função  que  mais  lhes  atenda,  sob  pena  de  incorrer  na hipótese do art. 319, do Código Penal",
+      "trechos_identificados": [
+        {
+          "trecho": "Regularizar a situação dos servidores acima tratados, no sentido de instálos  a  optar  pelo  cargo/emprego/função  que  mais  lhes  atenda,  sob  pena  de  incorrer  na hipótese do art. 319, do Código Penal",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Regularizar a situação dos servidores, para que optem pelo cargo/emprego/função que mais lhes atenda, sob pena de incorrer na hipótese do art. 319, do Código Penal.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda a regularização de servidores para evitar acúmulo ilegal de cargos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Código Penal",
+              "artigo": "319",
+              "descricao": "Prevaricação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\nf) Caso os servidores se encontrem nos quadros da CAESC, que a Gestão proceda  à  abertura de processo  administrativo disciplinar visando  à apuração  da responsabilidade dos  servidores FRANCINELY  BASTOS  DE  ALENCAR,  Assessora Jurídica e do servidor ELTON MANUEL BARRETO RODRIGUES, Diretor AdministrativoFinanceiro  pelo  acometimento  da  infração  insculpida  no  art.  85,  da  Lei  Municipal  nº 404/2003-PMC - GP (Estatuto dos Servidores Públicos do Município de Coari)",
+      "trechos_identificados": [
+        {
+          "trecho": "Caso os servidores se encontrem nos quadros da CAESC, que a Gestão proceda  à  abertura de processo  administrativo disciplinar visando  à apuração  da responsabilidade dos  servidores FRANCINELY  BASTOS  DE  ALENCAR,  Assessora Jurídica e do servidor ELTON MANUEL BARRETO RODRIGUES, Diretor AdministrativoFinanceiro  pelo  acometimento  da  infração  insculpida  no  art.  85,  da  Lei  Municipal  nº 404/2003-PMC - GP (Estatuto dos Servidores Públicos do Município de Coari)",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "A Gestão deve abrir processo administrativo disciplinar para apurar a responsabilidade dos servidores pela infração ao art. 85 da Lei Municipal nº 404/2003-PMC - GP (Estatuto dos Servidores Públicos do Município de Coari).",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda a abertura de processo administrativo para apurar responsabilidade de servidores, apontando para uma possível não implementação do controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 404/2003-PMC - GP",
+              "artigo": "85",
+              "descricao": "Estatuto dos Servidores Públicos do Município de Coari"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\ng) Que proceda à regulamentação da gratificação de atividade com base em critérios objetivos e nos princípios basilares da Administração Pública",
+      "trechos_identificados": [
+        {
+          "trecho": "Que proceda à regulamentação da gratificação de atividade com base em critérios objetivos e nos princípios basilares da Administração Pública",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A14B",
+          "tipologia_irregularidade": "Pagamento de Gratificação não regulamentada",
+          "descricao": "Regularizar o pagamento da gratificação de atividade com base em critérios objetivos e nos princípios basilares da Administração Pública.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda regulamentar a gratificação de atividade, o que implica que a forma como está sendo feito atualmente não está de acordo com critérios objetivos e princípios da administração pública.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\nh) Que  a  Gestão  da  CAESC  se  abstenha  de  conceder  a  gratificação  de atividade a servidores temporários, a menos que haja expressa previsão legal",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  a  Gestão  da  CAESC  se  abstenha  de  conceder  a  gratificação  de atividade a servidores temporários, a menos que haja expressa previsão legal",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A82B",
+          "tipologia_irregularidade": "Pagamento ilegal de parcela remuneratória",
+          "descricao": "A Gestão da CAESC deve se abster de conceder a gratificação de atividade a servidores temporários, a menos que haja expressa previsão legal.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda abster-se de conceder gratificação a servidores temporários sem previsão legal, o que sugere que pagamentos podem estar sendo realizados de forma irregular.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\ni)  junte,  no  momento  adequado,  todos  os  procedimentos nos  autos dos processos administrativos de licitações",
+      "trechos_identificados": [
+        {
+          "trecho": "junte,  no  momento  adequado,  todos  os  procedimentos nos  autos dos processos administrativos de licitações",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A40B",
+          "tipologia_irregularidade": "Ausência de divulgação de informações de interesse coletivo ou geral, relativo a procedimentos licitatórios",
+          "descricao": "Juntar, no momento adequado, todos os procedimentos nos autos dos processos administrativos de licitações.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda juntar todos os procedimentos nos processos de licitação, indicando a ausência de procedimentos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\nj) Que  à  origem  cumpra  rigorosamente  e  em  momento  oportuno,  os mandamentos do art. 60, da Lei 4320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  à  origem  cumpra  rigorosamente  e  em  momento  oportuno,  os mandamentos do art. 60, da Lei 4320/64",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Cumprir rigorosamente e em momento oportuno, os mandamentos do art. 60, da Lei 4320/64.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda o cumprimento do art. 60 da Lei 4320/64, que trata do empenho da despesa, indicando que tal procedimento não está sendo seguido.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4320/64",
+              "artigo": "60",
+              "descricao": "O empenho da despesa é o ato emanado de autoridade competente que cria para o Estado obrigação de pagamento pendente ou não de implemento de condição."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\nk) observados  e  cumprido  os  prazos para a  remessa  da  movimentação contábil viaACP conforme estabelece o art.4º da Resolução 07/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "observados  e  cumprido  os  prazos para a  remessa  da  movimentação contábil viaACP conforme estabelece o art.4º da Resolução 07/02-TCE",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Os prazos para remessa da movimentação contábil via ACP devem ser observados e cumpridos conforme estabelece o art.4º da Resolução 07/02-TCE.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho recomenda o cumprimento dos prazos para remessa da movimentação contábil, indicando atrasos ou falta de envio.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 07/02-TCE",
+              "artigo": "4º",
+              "descricao": "Estabelece os prazos para a remessa da movimentação contábil via ACP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Por fim, representar ao Ministério Público Estadual, de acordo com o inciso XXIV do art. 1º da Lei nº 2.423/96, para apurar a responsabilidade e improbidade administrativa do Sr. Evandro Rodrigues de Moraes, Ex-Presidente do CAESC, referente ao exercício financeiro de 2013, por infringência às normas legais já mencionadas e danos ao erário.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "POR  MAIORIA , aplicar MULTA  AO  RESPONSÁVEL,  Senhor EVANDRO RODRIGUES DE MORAES, por inobservância dos prazos legais para remessa ao  Tribunal,  por  meio  informatizado  ou  documental,  de  balancetes,  demonstrações contáveis e documentos referentes a receita e despesa, diante da restrição do item 7.1, no valor total de R$13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e dois centavos),  referente  a  cada  mês  de  competência  não  encaminhado  a  esta  Corte (janeiro a dezembro de 2013) , com base no art.308, II, do Regimento Interno.",
+      "trechos_identificados": [
+        {
+          "trecho": "aplicar MULTA  AO  RESPONSÁVEL,  Senhor EVANDRO RODRIGUES DE MORAES, por inobservância dos prazos legais para remessa ao  Tribunal,  por  meio  informatizado  ou  documental,  de  balancetes,  demonstrações contáveis e documentos referentes a receita e despesa, diante da restrição do item 7.1, no valor total de R$13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e dois centavos),  referente  a  cada  mês  de  competência  não  encaminhado  a  esta  Corte (janeiro a dezembro de 2013) , com base no art.308, II, do Regimento Interno.",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Multa aplicada por inobservância dos prazos legais para remessa de balancetes, demonstrações contábeis e documentos referentes a receita e despesa.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho aplica multa por atraso na entrega de documentos, indicando descumprimento dos prazos legais.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308",
+              "descricao": "Estabelece as penalidades aplicáveis por irregularidades na gestão."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

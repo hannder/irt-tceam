@@ -1,0 +1,74 @@
+{
+  "acordao": "2039/2023",
+  "processo": "11292/2019",
+  "data_sessao": "03 de Outubro de 2023",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Manicoré",
+  "exercicio": "2018",
+  "responsavel": [
+    "Manuel Sebastião Pimentel de Medeiros"
+  ],
+  "itens": [
+    {
+      "tipo": "Embargos de Declaração",
+      "descricao": "Conhecer dos Embargos  de  Declaração  interposto  pelo Sr.  Manuel Sebastião  Pimentel  de  Medeiros , Prefeito  Municipal  de  Manicoré, referente  ao exercício de 2018 ,  em  face  do Acórdão nº 110/2023 TCE - Tribunal Pleno (fl. 1.717-1.720)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Negar  Provimento aos  Embargos  de  Declaração  interposto  pelo Sr. Manuel  Sebastião Pimentel de Medeiros , Prefeito Municipal de Manicoré,  referente  ao exercício  de  2018 ,  em  face  do Acórdão  nº 110/2023 - TCE - Tribunal Pleno (fl. 1.717-1.720)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Manuel Sebastião Pimentel de Medeiros e ao seu Patrono Juarez  Frazão  Rodrigues  Junior , sobre  a  decisão  desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a primeira seja frustrada. Ato contínuo, se, porventura, persistir a problemática,  para  não  restarem  dúvidas  quanto  à  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Manuel Sebastião Pimentel de Medeiros e ao seu Patrono Juarez  Frazão  Rodrigues  Junior , sobre  a  decisão  desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a primeira seja frustrada.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho é apenas uma formalidade processual, sem apontar irregularidade.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ato contínuo, se, porventura, persistir a problemática,  para  não  restarem  dúvidas  quanto  à  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho é apenas uma formalidade processual, sem apontar irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Autorização para comunicação via edital."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria Geral  de  Controle  Externo -SECEX, o cumprimento do Acórdão 110/2023-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria Geral  de  Controle  Externo -SECEX, o cumprimento do Acórdão 110/2023-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho é apenas uma determinação processual, sem apontar irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "acordao": "1901/2024",
+  "processo": "11810/2024",
+  "data_sessao": "27 de Novembro de 2024",
+  "orgao": "Câmara Municipal de Tefé",
+  "municipio": "Tefé",
+  "exercicio": "2023",
+  "responsavel": [
+    "Lurinei de Souza Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de Tefé, de responsabilidade do Sr.(a) Lurinei De Souza Oliveira , no curso do exercício de 2023, conforme o art. 22, inciso III, 'b' e 'c' c/c art. 25, da Lei n.º 2.423/1996, considerando as ocorrências das irregularidades constantes neste voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de Tefé, de responsabilidade do Sr.(a) Lurinei De Souza Oliveira , no curso do exercício de 2023, conforme o art. 22, inciso III, 'b' e 'c' c/c art. 25, da Lei n.º 2.423/1996, considerando as ocorrências das irregularidades constantes neste voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A descrição indica que a prestação de contas foi considerada irregular devido a ocorrências não especificadas, sugerindo falta de comprovação de valores no balanço patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "22, inciso III, 'b' e 'c' c/c art. 25",
+              "descricao": "Define as responsabilidades e os critérios para a prestação de contas anual, cuja inobservância pode levar à sua irregularidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr(a). Lurinei De Souza Oliveira no valor de R$25.000,00, com fulcro art. 54, VI da lei nº 2423/1996 c/c art. 308, VI da resolução nº 04/2002 TCE/AM, e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, pelas irregularidades e graves infrações às normas destacadas nos achados nº 10, 12, 14, 16, 17 e 18, apontados pela DICAMI",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr(a). Lurinei De Souza Oliveira no valor de R$25.000,00, com fulcro art. 54, VI da lei nº 2423/1996 c/c art. 308, VI da resolução nº 04/2002 TCE/AM, e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, pelas irregularidades e graves infrações às normas destacadas nos achados nº 10, 12, 14, 16, 17 e 18, apontados pela DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A aplicação de multa por irregularidades e infrações graves sugere problemas na gestão orçamentária e financeira, como desvio de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "lei nº 2423/1996",
+              "artigo": "54, VI",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "resolução nº 04/2002 TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta os procedimentos para aplicação de multas pelo Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr(a). Lurinei De Souza Oliveira no valor de R$ 1.706,80 , com fulcro no art. 308, I, 'a' da resolução nº 04/2002 TCE/AM, e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, pelo atraso no envio do balancete do mês de janeiro, achado nº 1 da DICAMI",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr(a). Lurinei De Souza Oliveira no valor de R$ 1.706,80 , com fulcro no art. 308, I, 'a' da resolução nº 04/2002 TCE/AM, e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, pelo atraso no envio do balancete do mês de janeiro, achado nº 1 da DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A aplicação de multa por atraso no envio de balancete mensal indica descumprimento de prazos e normas para a entrega de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "resolução nº 04/2002 TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "Define as sanções aplicáveis em caso de descumprimento de prazos para o envio de documentos ao Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Lurinei De Souza Oliveira , com cópia do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Lurinei De Souza Oliveira , com cópia do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Esta é uma notificação, portanto não se enquadra como uma tipologia de irregularidade. Escolha da mais genérica para preenchimento do campo",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo após seu trânsito em julgado",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo após seu trânsito em julgado",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Esta é uma notificação, portanto não se enquadra como uma tipologia de irregularidade. Escolha da mais genérica para preenchimento do campo",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

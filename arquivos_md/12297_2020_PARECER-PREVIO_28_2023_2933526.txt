@@ -1,0 +1,110 @@
+{
+  "acordao": "28/2023",
+  "processo": "12297/2020",
+  "data_sessao": "28 de Março de 2023",
+  "orgao": "Prefeitura Municipal de Anamã",
+  "municipio": "Anamã",
+  "exercicio": "2019",
+  "responsavel": [
+    "Francisco Nunes Bastos"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o encaminhamento deste Parecer Prévio, publicado e acompanhado de cópias integrais do presente processo, à Câmara Municipal de Anamã, para que, na competência prevista no artigo 127, § 5º, da Constituição do Estado do Amazonas, julgue as referidas Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  deste  Parecer  Prévio,  publicado  e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Anamã, para que, na competência prevista no artigo 127, §  5º,  da  Constituição  do  Estado  do  Amazonas,  julgue  as  referidas Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A determinação se refere ao encaminhamento de documentação para a Câmara Municipal, não indicando diretamente um problema de gestão que possa persistir. A tipologia mais adequada e genérica é Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "127, § 5º",
+              "descricao": "Define a competência da Câmara Municipal para julgar as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar recomendação à Prefeitura Municipal de Anamã para que cumpra com rigor os prazos de remessa dos balancetes mensais e dos Relatórios Resumidos de Execução Orçamentária - RREO, via sistema e-Contas, além dos prazos de publicação dos demonstrativos do RREO, sob pena de reincidência e aplicação de multa por descumprimento de determinação desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar recomendação à Prefeitura Municipal de Anamã para que cumpra com rigor os prazos de remessa dos balancetes mensais e dos Relatórios Resumidos de Execução Orçamentária - RREO, via sistema e-Contas,  além  dos  prazos  de  publicação  dos  demonstrativos  do RREO, sob pena de reincidência e aplicação de multa por descumprimento de determinação desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação visa garantir o cumprimento dos prazos de envio de documentos, mas não indica uma irregularidade já existente, escolheu-se a tipologia genérica de Não envio de dados periódicos ao e-Contas",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria de Controle Externo - SECEX que, junto ao DEAP,  tome  as  medidas  cabíveis  para  a  autuação  de  processo autônomo, conforme determina o art. 1º, § 1º, da Portaria nº 152/2021-GP,  para  apuração  das  impropriedades  atinentes às Contas  de Gestão, relacionadas no Relatório Conclusivo nº 205/2022 - DICAMI, no Relatório Conclusivo nº 45/2022-DICOP/PROEEX e no Parecer nº 6430/2022-MP-ESB",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria de Controle Externo - SECEX que, junto ao DEAP,  tome  as  medidas  cabíveis  para  a  autuação  de  processo autônomo, conforme determina o art. 1º, § 1º, da Portaria nº 152/2021-GP,  para  apuração  das  impropriedades  atinentes às Contas  de Gestão, relacionadas no Relatório Conclusivo nº 205/2022 - DICAMI, no Relatório Conclusivo nº 45/2022-DICOP/PROEEX e no Parecer nº 6430/2022-MP-ESB",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação é um procedimento interno do TCE para apurar impropriedades, a tipologia Controle Interno insuficientemente implementado ou estruturado foi selecionada por ser uma consequência da não apuração, mas não é explicita no trecho.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria nº 152/2021-GP",
+              "artigo": "1º, § 1º",
+              "descricao": "Determina a autuação de processo autônomo para apuração das impropriedades nas contas de gestão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Francisco Nunes Bastos e à Prefeitura Municipal de Anamã sobre o teor da decisão, com cópia do Relatório-Voto e deste Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Francisco Nunes Bastos e à Prefeitura Municipal de  Anamã  sobre  o  teor  da decisão,  com  cópia  do  Relatório-Voto  e deste Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A ação de dar ciência não indica uma irregularidade real, mas sim um procedimento administrativo padrão. Foi atribuido o tema mais generico por não apresentar informações relevantes para auditoria.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, após cumpridas as determinações acima",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo, após cumpridas as determinações acima.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A ação de arquivar o processo não indica uma irregularidade real, mas sim um procedimento administrativo padrão. Foi atribuido o tema mais generico por não apresentar informações relevantes para auditoria.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

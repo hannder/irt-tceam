@@ -1,0 +1,110 @@
+{
+  "acordao": "839/2022",
+  "processo": "11581/2021",
+  "data_sessao": "31 de Maio de 2022",
+  "orgao": "Serviço de Pronto Atendimento e Hospital Dr. Aristóteles Platão Bezerra de Araújo - SPA Platão de Araújo",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Aída Cristina Tapajós Andrade",
+    "Márcio Rafael Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas do  Serviço  de Pronto Atendimento e Hospital Dr. Aristóteles Platão Bezerra de Araújo SPA  Platão  de  Araújo,  sob  a  responsabilidade  do Sr. Marcio  Rafael Rodrigues , Diretor  no  período  de  01/01/2020  a  08/06/2020,  nos  termos do art. 22, inciso II da Lei nº 2423/96, dando-lhe quitação com fulcro no art. 24 da Lei n. 2423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas do  Serviço  de Pronto Atendimento e Hospital Dr. Aristóteles Platão Bezerra de Araújo SPA  Platão  de  Araújo,  sob  a  responsabilidade  do Sr. Marcio  Rafael Rodrigues , Diretor  no  período  de  01/01/2020  a  08/06/2020,  nos  termos do art. 22, inciso II da Lei nº 2423/96, dando-lhe quitação com fulcro no art. 24 da Lei n. 2423/1996.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho menciona o julgamento das contas como 'regular com ressalvas', o que indica que, apesar da aprovação, houve identificação de pontos que merecem ressalva, tipico da tipologia escolhida",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "24",
+              "descricao": "Quitação das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Serviço  de Pronto Atendimento e Hospital Dr. Aristóteles Platão Bezerra de Araújo SPA  Platão  de  Araújo,  sob  a  responsabilidade  da Sra. Aída  Cristina Tapajós Andrade , Diretora no período de 09/06/2020 a 31/12/2020, nos termos  do  art.  22,  inciso  II  da  Lei  nº  2423/96,  dando-lhe  quitação  com fulcro no art. 24 da Lei n. 2423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Serviço  de Pronto Atendimento e Hospital Dr. Aristóteles Platão Bezerra de Araújo SPA  Platão  de  Araújo,  sob  a  responsabilidade  da Sra. Aída  Cristina Tapajós Andrade , Diretora no período de 09/06/2020 a 31/12/2020, nos termos  do  art.  22,  inciso  II  da  Lei  nº  2423/96,  dando-lhe  quitação  com fulcro no art. 24 da Lei n. 2423/1996.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho menciona o julgamento das contas como 'regular com ressalvas', o que indica que, apesar da aprovação, houve identificação de pontos que merecem ressalva, tipico da tipologia escolhida.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "24",
+              "descricao": "Quitação das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  atual  gestor  do Serviço  de  Pronto  Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo que  mantenha  atualizadas  as  fichas  funcionais  dos  servidores, mais especificamente dos cargos comissionados, em cumprimento ao art. 289, §1º da Resolução n. 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  atual  gestor  do Serviço  de  Pronto  Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo que  mantenha  atualizadas  as  fichas  funcionais  dos  servidores, mais especificamente dos cargos comissionados, em cumprimento ao art. 289, §1º da Resolução n. 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A recomendação para manter atualizadas as fichas funcionais dos servidores, especialmente nos cargos comissionados, indica uma deficiência na gestão de pessoal. A falta de atualização das fichas funcionais pode levar a irregularidades e dificuldades na fiscalização e controle dos gastos com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002 - TCE/AM",
+              "artigo": "289, §1º",
+              "descricao": "Cumprimento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao  Sr. Marcio  Rafael  Rodrigues ,  Diretor  no  período  de 01/01/2020  a  08/06/2020,  e  à  Sra. Aída  Cristina  Tapajós ,  Diretora  no período de 09/06/2020 a 31/12/2020, do decisório prolatado nestes autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao  Sr. Marcio  Rafael  Rodrigues ,  Diretor  no  período  de 01/01/2020  a  08/06/2020,  e  à  Sra. Aída  Cristina  Tapajós ,  Diretora  no período de 09/06/2020 a 31/12/2020, do decisório prolatado nestes autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Apenas dar ciência do fato não é considerado irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "acordao": "145/2023",
+  "processo": "11927/2022",
+  "data_sessao": "7 de Fevereiro de 2023",
+  "orgao": "Fundo Municipal de Fomento a Micro e Pequena Empresa, Empreendedorismo e Inovação - FUMIPEQ",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Radyr Gomes de Oliveira Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Fundo Municipal de Fomento a Micro e Pequena Empresa, Empreendedorismo e Inovação -FUMIPEQ, referente ao exercício de 2021, de responsabilidade do Senhor Radyr Gomes de Oliveira Junior, Secretário Municipal do FUMIPEQ e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso I, da Lei nº.  2423/1996  -  LOTCE/AM;  c/c  o  artigo  188,  §1º,  inciso  I,  da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Fundo Municipal de Fomento a Micro e Pequena Empresa, Empreendedorismo e Inovação -FUMIPEQ, referente ao exercício de 2021, de responsabilidade do Senhor Radyr Gomes de Oliveira Junior, Secretário Municipal do FUMIPEQ e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso I, da Lei nº.  2423/1996  -  LOTCE/AM;  c/c  o  artigo  188,  §1º,  inciso  I,  da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho em análise é o julgamento formal da prestação de contas, não indicando problemas na gestão pública",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº.  2423/1996  -  LOTCE/AM",
+              "artigo": "1º, inciso II",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº.  2423/1996  -  LOTCE/AM",
+              "artigo": "22, inciso I",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso I",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Senhor Radyr Gomes de Oliveira Junior, Secretário Municipal do FUMIPEQ e Ordenador de Despesas, à  época,  nos  termos  dos  artigos  23  e  72,  inciso  I,  da  Lei  nº. 2423/1996  -  LOTCE,  c/c  o  artigo  189,  inciso  I,  da  Resolução  nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Senhor Radyr Gomes de Oliveira Junior, Secretário Municipal do FUMIPEQ e Ordenador de Despesas, à  época,  nos  termos  dos  artigos  23  e  72,  inciso  I,  da  Lei  nº. 2423/1996  -  LOTCE,  c/c  o  artigo  189,  inciso  I,  da  Resolução  nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho em análise é o julgamento formal da prestação de contas, não indicando problemas na gestão pública",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996  -  LOTCE",
+              "artigo": "23",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996  -  LOTCE",
+              "artigo": "72, inciso I",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso I",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que, após a ocorrência da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002 - RITCE/AM, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que, após a ocorrência da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002 - RITCE/AM, adote as providências do artigo 162, §1º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho em análise é uma determinação interna do TCE, não indicando problemas na gestão pública",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "159",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "160",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "162, §1º",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

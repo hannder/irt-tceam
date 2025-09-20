@@ -1,0 +1,149 @@
+{
+  "acordao": "69/2014",
+  "processo": "2355/2013",
+  "data_sessao": "06 de fevereiro de 2014",
+  "orgao": "Secretario Municipal de Juventude - SEMJE",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "André de Souza Santos",
+    "Ivan de Souza Brito"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar IRREGULAR a Prestação de Contas Anuais da Secretaria Municipal de Juventude - SEMJE, referente ao exercício de 2012, de responsabilidade dos Srs. André de Souza Santos (período de 01.01.2012 a 25.04.2012) e Ivan de Souza Brito (período de 25.04.2012 a 31.12.2012), nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III, 'b'' da Lei n° 2423/96 c/c art. 188, § 1°, III, 'b' da Resolução n° 04/2002-TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR a  Prestação  de  Contas  Anuais  da  Secretaria Municipal  de  Juventude - SEMJE, referente ao  exercício de  2012, de responsabilidade dos Srs. André de Souza Santos (período de 01.01.2012 a 25.04.2012) e Ivan de Souza Brito (período de 25.04.2012 a 31.12.2012), nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III, 'b'' da Lei n° 2423/96 c/c art. 188, § 1°, III, 'b' da Resolução n° 04/2002-TCE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho descreve o julgamento como irregular da prestação de contas devido a não conformidades com normas estabelecidas, indicando uma falha contábil",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Norma que estabelece a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Define a competência do Tribunal de Contas do Estado para fiscalizar e julgar contas estaduais."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1°, II, 2°, 4°, 5°, I e 22, III, 'b'",
+              "descricao": "Norma que dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, definindo suas competências e procedimentos para julgamento de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE",
+              "artigo": "188, § 1°, III, 'b'",
+              "descricao": "Estabelece as normas para o julgamento das contas anuais, incluindo os critérios para identificar irregularidades e aplicar sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa no valor de R$ 8.768,25 aos Srs. André de Souza Santos (período de 01.01.2012 a 25.04.2012) e Ivan de Souza Brito (período de 25.04.2012 a 31.12.2012), com base no art. 54, II, da Lei Estadual n. 2.423/96, c/c o art. 308, VI, da Resolução n. 04/02-TCE referente às impropriedades no Relatório Técnico e Parecer Ministerial .",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa no  valor  de R$  8.768,25 aos Srs.  André  de  Souza Santos (período  de  01.01.2012  a  25.04.2012)  e Ivan  de  Souza  Brito (período  de 25.04.2012 a 31.12.2012), com base no art. 54, II, da Lei Estadual n. 2.423/96, c/c o art. 308, VI, da Resolução n. 04/02-TCE referente às impropriedades no Relatório Técnico e Parecer Ministerial .",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "Aplicação de multa devido a impropriedades no Relatório Técnico e Parecer Ministerial indica falhas na documentação e análise das contas, resultando em sanção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define as sanções aplicáveis pelo Tribunal de Contas em caso de irregularidades nas contas públicas."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta a aplicação de multas e outras sanções pelo Tribunal de Contas, especificando os valores e critérios para sua determinação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem que seja observado o disposto nas Resoluções n° 05/1990, 03/98 e 07/2002-TCE-AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem que seja observado o disposto nas Resoluções n° 05/1990, 03/98 e 07/2002-TCE-AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A recomendação para observar o disposto em diferentes resoluções do TCE-AM sugere a necessidade de melhoria nos processos de prestação de contas, para evitar reincidência de irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resoluções n° 05/1990, 03/98 e 07/2002-TCE-AM",
+              "artigo": "Não aplicável",
+              "descricao": "Normas internas do Tribunal de Contas do Estado do Amazonas que estabelecem procedimentos e critérios para a gestão de recursos públicos e apresentação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres públicos dos valores das penalidades impostas atualizado monetariamente, com comprovação perante este Tribunal, nos termos do art. 190, I, do RI-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o  prazo  de  30  (trinta)  dias  para  o  recolhimento  aos  cofres públicos dos valores das penalidades impostas atualizado monetariamente, com comprovação perante este Tribunal, nos termos do art. 190, I, do RI-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação de prazo para recolhimento de valores aos cofres públicos está relacionada ao tema de execução financeira e orçamentária, pois visa assegurar a correta destinação dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE",
+              "artigo": "190, I",
+              "descricao": "Regulamento Interno do Tribunal de Contas que estabelece os prazos e procedimentos para o cumprimento das decisões do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar desde já a inscrição do débito na dívida ativa e instauração de cobrança executiva, no caso de não-recolhimento do valor da condenação, nos moldes do art. 173 da Resolução n. 04/02-TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já a inscrição do débito na dívida ativa e instauração de cobrança executiva, no caso de não-recolhimento do valor da condenação, nos moldes do art. 173 da Resolução n. 04/02-TCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação para inscrição em dívida ativa e cobrança executiva, em caso de não pagamento, refere-se a gestão fiscal, visando à recuperação de valores devidos ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "173",
+              "descricao": "Regulamenta os procedimentos para inscrição em dívida ativa e cobrança executiva das dívidas decorrentes de decisões do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

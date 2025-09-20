@@ -1,0 +1,305 @@
+{
+  "acordao": "554/2015",
+  "processo": "10969/2014",
+  "data_sessao": "05 de agosto de 2015",
+  "orgao": "Fundo de Pensões e Aposentadorias de Envira - FAPENV",
+  "municipio": "Envira",
+  "exercicio": "2013",
+  "responsavel": [
+    "Antônia Enilda da Silva Pinheiro",
+    "Júlio Chagas de Pinho Mattos",
+    "Ivon Rates da Silva",
+    "Zildo França de Lima",
+    "Raimundo Lira de Castro"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar IRREGULAR a prestação de contas da Sra. ANTÔNIA ENILDA DA  SILVA  PINHEIRO ,  ordenadora  de  despesa  do  FAPENV,  referente  ao  período  de 01.01.13 a 18.12.13, nos termos do art. 1°, II e art. 22, III, 'c' da Lei n° 2.423/96 c/c o art. 5°, II, da Resolução n° 04/2002 - RI/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR a prestação de contas da Sra. ANTÔNIA ENILDA DA  SILVA  PINHEIRO ,  ordenadora  de  despesa  do  FAPENV,  referente  ao  período  de 01.01.13 a 18.12.13, nos termos do art. 1°, II e art. 22, III, 'c' da Lei n° 2.423/96 c/c o art. 5°, II, da Resolução n° 04/2002 - RI/TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de documentos elencados junto á Prestação de Contas",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução TCE/AM nº 04/2016.",
+          "justificativa_tipologia": "A deliberação explicita que a prestação de contas foi considerada irregular, e a tipologia é relacionada a falhas/ausencia de documentos na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1°, II",
+              "descricao": "Nos termos do art. 1°, II da Lei n° 2.423/96."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, III, 'c'",
+              "descricao": "Nos termos do art. 22, III, 'c' da Lei n° 2.423/96."
+            },
+            {
+              "norma": "Resolução n° 04/2002 - RI/TCE",
+              "artigo": "5°, II",
+              "descricao": "Nos termos do art. 5°, II, da Resolução n° 04/2002 - RI/TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "APLICAR MULTA à Sra.  ANTÔNIA ENILDA DA SILVA PINHEIRO , ordenadora de despesa do FAPENV, no período de 01.01.13 a 18.12.13: a)  no  valor  de R$  1.096,03 (um  mil  e  noventa  e  seis  reais  e  três centavos) por  cada mês  de  competência  em  que  houve  atraso  no  envio  de  dados  via ACP, ou seja, de janeiro a setembro de 2013 , totalizando o valor de R$ 9.864,27 (nove mil, oitocentos e sessenta e quatro reais e vinte e sete centavos) , com fulcro no art. 308,  II,  da  Resolução  n.  4/2002-TCE/AM,  com  a  nova  redação  dada  pelo  art.  2º,  da Resolução n. 25/2012-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA à Sra.  ANTÔNIA ENILDA DA SILVA PINHEIRO , ordenadora de despesa do FAPENV, no período de 01.01.13 a 18.12.13: a)  no  valor  de R$  1.096,03 (um  mil  e  noventa  e  seis  reais  e  três centavos) por  cada mês  de  competência  em  que  houve  atraso  no  envio  de  dados  via ACP, ou seja, de janeiro a setembro de 2013 , totalizando o valor de R$ 9.864,27 (nove mil, oitocentos e sessenta e quatro reais e vinte e sete centavos) , com fulcro no art. 308,  II,  da  Resolução  n.  4/2002-TCE/AM,  com  a  nova  redação  dada  pelo  art.  2º,  da Resolução n. 25/2012-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa aplicada está relacionada ao atraso no envio de dados, enquadrando-se na tipologia de Balancetes Mensais entregues fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Multa por atraso no envio de dados via ACP."
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Nova redação dada pelo art. 2º, da Resolução n. 25/2012-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "APLICAR MULTA à Sra.  ANTÔNIA ENILDA DA SILVA PINHEIRO , ordenadora de despesa do FAPENV, no período de 01.01.13 a 18.12.13: b) no valor de R$ 13.152,38 (treze mil, cento e cinquenta e dois reais e trinta e oito centavos) , com fulcro no art. 308, VI, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM,  por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária,  operacional  e  patrimonial devido  à  restrição  não  sanada  dos  subitens 1.1.32 e 2.2.1 do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA à Sra.  ANTÔNIA ENILDA DA SILVA PINHEIRO , ordenadora de despesa do FAPENV, no período de 01.01.13 a 18.12.13: b) no valor de R$ 13.152,38 (treze mil, cento e cinquenta e dois reais e trinta e oito centavos) , com fulcro no art. 308, VI, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM,  por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária,  operacional  e  patrimonial devido  à  restrição  não  sanada  dos  subitens 1.1.32 e 2.2.1 do Relatório/Voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A multa é aplicada devido a uma grave infração de natureza contábil e financeira relacionada a restrições não sanadas no balanço patrimonial, demonstrando problemas na gestão contábil e patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Multa por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "null",
+              "descricao": "Nova redação dada pela Resolução n. 25/2012-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "JULGAR REGULAR a  prestação de contas do SR. JÚLIO CHAGAS DE PINHO MATTOS , Presidente do Conselho de Administração do FAPENV, referente ao período de 19.12.13 a 31.12.13, conforme art. 188,  II, §  1º,  I, da Res. TCE nº 04/02 c/c arts. 6º, 19, II, e 22, I, da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR REGULAR a  prestação de contas do SR. JÚLIO CHAGAS DE PINHO MATTOS , Presidente do Conselho de Administração do FAPENV, referente ao período de 19.12.13 a 31.12.13, conforme art. 188,  II, §  1º,  I, da Res. TCE nº 04/02 c/c arts. 6º, 19, II, e 22, I, da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "A prestação de contas foi julgada regular, mas a tipologia foi incluida para auditoria saber dos itens necessários para regularização",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. TCE nº 04/02",
+              "artigo": "188, II, § 1º, I",
+              "descricao": "Conforme art. 188, II, § 1º, I, da Res. TCE nº 04/02"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "6º",
+              "descricao": "Conforme art. 6º da Lei nº 2.423/96"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "19, II",
+              "descricao": "Conforme art. 19, II, da Lei nº 2.423/96"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Conforme art. 22, I, da Lei nº 2.423/96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "APLICAR  MULTA ao Sr.  IVON  RATES  DA  SILVA , Prefeito  do Município de Envira no exercício de 2013, no valor de R$ 13.152,38 (treze mil, cento e cinquenta e dois reais e trinta e oito centavos) , com fulcro no art. 308, VI, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM, por ato praticado com  grave  infração  à  norma  legal  ou  regulamentar  de  natureza  contábil, financeira, orçamentária, operacional e patrimonial devido às restrições não sanadas nos subitens 2.1.1 e 2.1.2 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR  MULTA ao Sr.  IVON  RATES  DA  SILVA , Prefeito  do Município de Envira no exercício de 2013, no valor de R$ 13.152,38 (treze mil, cento e cinquenta e dois reais e trinta e oito centavos) , com fulcro no art. 308, VI, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM, por ato praticado com  grave  infração  à  norma  legal  ou  regulamentar  de  natureza  contábil, financeira, orçamentária, operacional e patrimonial devido às restrições não sanadas nos subitens 2.1.1 e 2.1.2 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa é aplicada ao prefeito devido a graves infrações de natureza contábil, financeira e orçamentária, relacionadas a restrições não sanadas, o que pode impactar o equilíbrio fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Multa por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial"
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "null",
+              "descricao": "Nova redação dada pela Resolução n. 25/2012-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "CONSIDERAR  REVEL o  Sr. ZILDO  FRANÇA  DE  LIMA -  expresidente do FAPENV, nos termos do art. 20, §4º, da Lei n. 2.423/96,  devendo lhe ser aplicada a multa no valor de R$ 2.192,06 (dois mil, cento e noventa e dois reais e seis centavos) , prevista no art. 54, IV, da Lei nº 2.423/96 c/c ART. 308, I, a, da Resolução n. 04/2002-TCE/AM, por  não  atendimento,  no  prazo  fixado,  sem  causa  justificada,  à diligência ou decisão do Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "CONSIDERAR  REVEL o  Sr. ZILDO  FRANÇA  DE  LIMA -  expresidente do FAPENV, nos termos do art. 20, §4º, da Lei n. 2.423/96,  devendo lhe ser aplicada a multa no valor de R$ 2.192,06 (dois mil, cento e noventa e dois reais e seis centavos) , prevista no art. 54, IV, da Lei nº 2.423/96 c/c ART. 308, I, a, da Resolução n. 04/2002-TCE/AM, por  não  atendimento,  no  prazo  fixado,  sem  causa  justificada,  à diligência ou decisão do Tribunal",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A multa aplicada está relacionada à revelia do responsável, por não atender às diligências ou decisões do Tribunal, o que impede a análise adequada das contas e dificulta o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Nos termos do art. 20, §4º, da Lei n. 2.423/96"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Multa prevista no art. 54, IV, da Lei nº 2.423/96"
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "308, I, a",
+              "descricao": "Multa por não atendimento, no prazo fixado, à diligência ou decisão do Tribunal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "APLICAR MULTA ao  Sr. ZILDO FRANÇA DE LIMA -  ex-Presidente do FAPENV, no importe de R$ 17.536,51 ( dezessete mil, quinhentos e trinta e seis reais  e  cinquenta  e  um  centavos) ,  conforme  o  esculpido  no  54,  inciso  II,  da  Lei  n. 2.423/1996 c/c o art. 308, inciso VI, da Resolução n. 04/2002, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial devido às restrições não sanadas nos subitens 2.3.1,  2.3.2,  2.3.2.1,  2.3.2.2,  2.3.2.3,  2.3.2.4,  2.3.2.5,  2.3.2.6,  2.3.2.7,  2.3.2.8,  2.3.2.9, 2.3.2.10, 2.3.2.11, 2.3.2.12, 2.3.2.13",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA ao  Sr. ZILDO FRANÇA DE LIMA -  ex-Presidente do FAPENV, no importe de R$ 17.536,51 ( dezessete mil, quinhentos e trinta e seis reais  e  cinquenta  e  um  centavos) ,  conforme  o  esculpido  no  54,  inciso  II,  da  Lei  n. 2.423/1996 c/c o art. 308, inciso VI, da Resolução n. 04/2002, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial devido às restrições não sanadas nos subitens 2.3.1,  2.3.2,  2.3.2.1,  2.3.2.2,  2.3.2.3,  2.3.2.4,  2.3.2.5,  2.3.2.6,  2.3.2.7,  2.3.2.8,  2.3.2.9, 2.3.2.10, 2.3.2.11, 2.3.2.12, 2.3.2.13",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Multa aplicada ao ex-Presidente do FAPENV devido a graves infrações de natureza contábil, financeira, orçamentária, operacional e patrimonial, refletindo deficiências no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/1996",
+              "artigo": "54, II",
+              "descricao": "Conforme o esculpido no 54, inciso II, da Lei n. 2.423/1996"
+            },
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Conforme o esculpido no art. 308, inciso VI, da Resolução n. 04/2002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "ao SR. IVON RATES DA SILVA , o cumprimento disposto na análise da defesa das restrições parcialmente sanadas 1.2.1, 1.2.2 e 2.1.2",
+      "trechos_identificados": [
+        {
+          "trecho": "ao SR. IVON RATES DA SILVA , o cumprimento disposto na análise da defesa das restrições parcialmente sanadas 1.2.1, 1.2.2 e 2.1.2",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A determinação exige o cumprimento de disposições relacionadas à correção de irregularidades fiscais, o que está alinhado com o tema da gestão fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "ao  atual  responsável  pelo  FAPENV ,  o  cumprimento  do  disposto  na análise da defesa das restrições parcialmente sanadas constantes nos subitens  1.1.2,  1.1.3,  1.1.4,  1.1.5,  1.1.6,  1.1.7,  1.1.8,  1.1.9,  1.1.10, 1.1.11,  1.1.12,  1.1.13,  1.1.14,  1.1.15,  1.1.16,  1.1.17,  1.1.18,  1.1.19, 1.1.20,  1.1.21,  1.1.22,  1.1.23,  1.1.24,  1.1.25,  1.1.26,  1.1.27,  1.1.28, 1.1.29, 1.1.30, 1.1.31, 1.1.33, 1.1.34 e 2.2.1",
+      "trechos_identificados": [
+        {
+          "trecho": "ao  atual  responsável  pelo  FAPENV ,  o  cumprimento  do  disposto  na análise da defesa das restrições parcialmente sanadas constantes nos subitens  1.1.2,  1.1.3,  1.1.4,  1.1.5,  1.1.6,  1.1.7,  1.1.8,  1.1.9,  1.1.10, 1.1.11,  1.1.12,  1.1.13,  1.1.14,  1.1.15,  1.1.16,  1.1.17,  1.1.18,  1.1.19, 1.1.20,  1.1.21,  1.1.22,  1.1.23,  1.1.24,  1.1.25,  1.1.26,  1.1.27,  1.1.28, 1.1.29, 1.1.30, 1.1.31, 1.1.33, 1.1.34 e 2.2.1",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação exige o cumprimento de disposições relacionadas a restrições parcialmente sanadas, indicando a necessidade de melhorar a implementação e estrutura do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "ao  Sr.  IVON  RATES  DA  SILVA ,  Prefeito  do  Município  de  Envira,  o cumprimento  do  disposto  na  análise  da  defesa  da  restrição  1.2.3  do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "ao  Sr.  IVON  RATES  DA  SILVA ,  Prefeito  do  Município  de  Envira,  o cumprimento  do  disposto  na  análise  da  defesa  da  restrição  1.2.3  do Relatório/Voto",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A recomendação visa o cumprimento de disposições relacionadas à correção de irregularidades fiscais, o que está alinhado com o tema da gestão fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "ao  Sr.  RAIMUNDO  LIRA  DE  CASTRO , Presidente  da  Câmara  de Vereadores,  o  cumprimento  do  disposto  na  análise  da  defesa  da restrição 1.3 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "ao  Sr.  RAIMUNDO  LIRA  DE  CASTRO , Presidente  da  Câmara  de Vereadores,  o  cumprimento  do  disposto  na  análise  da  defesa  da restrição 1.3 do Relatório/Voto",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A recomendação visa o cumprimento de disposições relacionadas à correção de irregularidades fiscais, o que está alinhado com o tema da gestão fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Ao atual gestor do FAPENV que instaure procedimento administrativo disciplinar em face do Sr. ZILDO FRANÇA DE LIMA, ex-presidente do FAPENV  e  ocupante  do  cargo  efetivo  de  Auxiliar  Administrativo  da Secretaria de Educação, em razão dos fortes indícios de irregularidades nas movimentações bancárias a débito da conta corrente do FAPENV e de  possível  pagamento  de  remuneração  após  sua saída  do  órgão,  o que caracterizaria pagamento indevido e, portanto, dano ao erário. Não olvidando  ainda  da  apuração  de  omissão  na realização  das  condutas listadas nos itens 2.3.1, 2.3.2, 2.3.2.1, 2.3.2.2, 2.3.2.3, 2.3.2.4, 2.3.2.5, 2.3.2.6, 2.3.2.7, 2.3.2.8, 2.3.2.9, 2.3.2.10, 2.3.2.11, 2.3.2.12, 2.3.2.13 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Ao atual gestor do FAPENV que instaure procedimento administrativo disciplinar em face do Sr. ZILDO FRANÇA DE LIMA, ex-presidente do FAPENV  e  ocupante  do  cargo  efetivo  de  Auxiliar  Administrativo  da Secretaria de Educação, em razão dos fortes indícios de irregularidades nas movimentações bancárias a débito da conta corrente do FAPENV e de  possível  pagamento  de  remuneração  após  sua saída  do  órgão,  o que caracterizaria pagamento in

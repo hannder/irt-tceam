@@ -1,0 +1,119 @@
+{
+  "acordao": "1449/2023",
+  "processo": "11578/2023",
+  "data_sessao": "18 de Julho de 2023",
+  "orgao": "Fundo de Fomento a Atividade Legislativa",
+  "municipio": "Manaus",
+  "exercicio": "2022",
+  "responsavel": [
+    "Roberto Maia Cidade Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Fundo de Fomento à Atividade Legislativa, referente ao exercício de 2022, de responsabilidade do Sr. Roberto Maia Cidade Filho , então Presidente  da  Assembleia  Legislativa  do  Estado  do  Amazonas  e Responsável  pelo  Fundo,  nos  termos  dos  arts.  22,  inciso  I,  e  23, ambos da Lei n° 2.423/1996, e arts. 188, §1º, inciso I, da Resolução n° 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Fundo de Fomento à Atividade Legislativa, referente ao exercício de 2022, de responsabilidade do Sr. Roberto Maia Cidade Filho , então Presidente  da  Assembleia  Legislativa  do  Estado  do  Amazonas  e Responsável  pelo  Fundo,  nos  termos  dos  arts.  22,  inciso  I,  e  23, ambos da Lei n° 2.423/1996, e arts. 188, §1º, inciso I, da Resolução n° 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação se refere ao julgamento das contas como regulares o que demonstra que não possui indicadores de problemas estruturais na gestão contábil do órgão",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/1996",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei n° 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução n° 04/2002 - TCE/AM",
+              "artigo": "188",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Roberto Maia Cidade Filho , então Presidente da Assembleia Legislativa do Estado do Amazonas e Responsável pelo Fundo, nos termos dos arts. 23 e 72, inciso II, ambos da Lei n° 2.423/96,  c/c  o  art.  189,  inciso  I,  da  Resolução  n°  04/2002  TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Roberto Maia Cidade Filho , então Presidente da Assembleia Legislativa do Estado do Amazonas e Responsável pelo Fundo, nos termos dos arts. 23 e 72, inciso II, ambos da Lei n° 2.423/96,  c/c  o  art.  189,  inciso  I,  da  Resolução  n°  04/2002  TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A quitação se refere ao julgamento das contas como regulares o que demonstra que não possui indicadores de problemas estruturais na gestão contábil do órgão",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "72",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução n° 04/2002  TCE/AM",
+              "artigo": "189",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SEPLENO - Secretaria do Tribunal Pleno que, através do  setor  competente,  vinculado  à  referida  Secretaria,  cientifique  o interessado  sobre  o  teor  deste  Acórdão,  nos  termos  do  art.  161, caput , do Regimento Interno desta Corte de Contas, encaminhandolhe cópia do Relatório/Voto e do sequente decisum",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SEPLENO - Secretaria do Tribunal Pleno que, através do  setor  competente,  vinculado  à  referida  Secretaria,  cientifique  o interessado  sobre  o  teor  deste  Acórdão,  nos  termos  do  art.  161, caput , do Regimento Interno desta Corte de Contas, encaminhandolhe cópia do Relatório/Voto e do sequente decisum",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A deliberação se refere a uma ação interna do Tribunal de Contas, que não possui indicadores de problemas estruturais na gestão contábil do órgão",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno desta Corte de Contas",
+              "artigo": "161",
+              "descricao": "Regras de funcionamento interno do Tribunal de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos,  nos  termos  regimentais,  após  o  cumprimento integral do Acórdão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos,  nos  termos  regimentais,  após  o  cumprimento integral do Acórdão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A deliberação se refere a uma ação interna do Tribunal de Contas, que não possui indicadores de problemas estruturais na gestão contábil do órgão",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

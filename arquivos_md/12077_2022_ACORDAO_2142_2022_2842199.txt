@@ -1,0 +1,192 @@
+{
+  "acordao": "2142/2022",
+  "processo": "12077/2022",
+  "data_sessao": "06 de dezembro de 2022",
+  "orgao": "Serviço de Pronto Atendimento Alvorada - SPA Alvorada",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Jorge de Souza Amorim Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Verificamos no inventario dos bens patrimoniais a ausência do valor total dos bens.",
+      "trechos_identificados": [
+        {
+          "trecho": "Verificamos no inventario dos bens patrimoniais a ausência do valor total dos bens.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A9B",
+          "tipologia_irregularidade": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "O texto descreve a ausência do valor total dos bens no inventário, caracterizando a tipologia 'Inventário de bens patrimoniais sem indicação do valor total dos bens'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "O artigo 94 da Lei nº 4.320/64 estabelece a necessidade de controle dos bens patrimoniais, o que inclui a indicação do valor total dos bens no inventário."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Encontrados restos a pagar processados de exercícios anteriores no Demonstrativo de Inscrição de Restos a Pagar/AFI/2021.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encontrados restos a pagar processados de exercícios anteriores no Demonstrativo de Inscrição de Restos a Pagar/AFI/2021.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "O texto menciona a permanência de Restos a Pagar de exercícios anteriores pendentes de regularização, caracterizando a tipologia Restos a Pagar de exercícios anteriores pendentes de regularização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "63",
+              "descricao": "O artigo 63 da Lei nº 4.320/64 estabelece a necessidade de empenho da despesa."
+            },
+             {
+              "norma": "Manual de Contabilidade Aplicada ao Setor Público – MCASP",
+              "artigo": "Não consta",
+              "descricao": "O MCASP fornece orientações sobre a contabilização de Restos a Pagar no setor público."
+            },
+             {
+              "norma": "Norma Brasileira de Contabilidade NBC TSP 07",
+              "artigo": "Não consta",
+              "descricao": "A NBC TSP 07 estabelece diretrizes para a contabilização de ativos imobilizados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Realizações de contratações sem cobertura contratual.",
+      "trechos_identificados": [
+        {
+          "trecho": "Realizações de contratações sem cobertura contratual.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "O texto refere-se à realização de contratações sem cobertura contratual, caracterizando a tipologia 'Despesa sem cobertura contratual'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "60",
+              "descricao": "O artigo 60 da Lei nº 4.320/64 estabelece que é vedada a realização de despesa sem prévio empenho."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "60",
+              "descricao": "O artigo 60 da Lei nº 8.666/93 estabelece que os contratos devem ter cobertura contratual."
+            }
+          ]
+        }
+      ]
+    },
+     {
+      "tipo": "Determinação",
+      "descricao": "Determinar que o Serviço de Pronto Atendimento Alvorada (SPA Alvorada) cumpra com maior rigor, sob pena de macular a regularidade da Prestação de Contas Anual, exercício 2022, por reincidência, nos termos do art. 188, III, e), da Resolução nº 04/2002; bem como ensejar aplicação de multa ao gestor, com base no art. 308, IV, b), também da Resolução nº 04/2002, o seguinte :",
+      "trechos_identificados": [
+       {
+          "trecho": "encaminhamento do inventário de bens patrimoniais com todos os bens móveis da unidade, na lição do art. 94, da Lei nº 4320/1964",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho determina o encaminhamento do inventário de bens patrimoniais com todos os bens móveis da unidade",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4320/1964",
+              "artigo": "94",
+              "descricao": "O artigo 94 da Lei nº 4320/1964 estabelece a necessidade de controle dos bens patrimoniais."
+            }
+          ]
+        },
+        {
+          "trecho": "a postura adotada pela unidade concernente à permanência dos restos a pagar processados em 2018, constantes no Demonstrativo de Inscrição de Restos a Pagar/AFI/2021, com base no Manual de Contabilidade aplicada ao Setor Público (MCASP), NBC TSP 07",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "O trecho determina a postura adotada pela unidade concernente à permanência dos restos a pagar processados em 2018",
+          "fundamentacao_legal": [
+               {
+              "norma": "Manual de Contabilidade Aplicada ao Setor Público – MCASP",
+              "artigo": "Não consta",
+              "descricao": "O MCASP fornece orientações sobre a contabilização de Restos a Pagar no setor público."
+            },
+             {
+              "norma": "Norma Brasileira de Contabilidade NBC TSP 07",
+              "artigo": "Não consta",
+              "descricao": "A NBC TSP 07 estabelece diretrizes para a contabilização de ativos imobilizados."
+            }
+          ]
+        },
+        {
+          "trecho": "evitar a realizações de contratações sem cobertura contratual, em fiel cumprimento ao art. 60, da Lei nº 4320/1964 e art. 60, da Lei nº 8666/1993.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "O texto determina evitar a realizações de contratações sem cobertura contratual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "60",
+              "descricao": "O artigo 60 da Lei nº 4.320/64 estabelece que é vedada a realização de despesa sem prévio empenho."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "60",
+              "descricao": "O artigo 60 da Lei nº 8.666/93 estabelece que os contratos devem ter cobertura contratual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Jorge de Souza Amorim Filho, responsável pela Prestação de Contas Anual, exercício 2021, do SPA Alvorada, acerca da decisão, na forma do art. 95, da Resolução nº 04/2002, ficando autorizada a emissão de nova notificação, caso a primeira seja frustrada. Ato contínuo, se, por ventura, persistir a problemática, para não restarem dúvidas quanto à sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Jorge de Souza Amorim Filho, responsável pela Prestação de Contas Anual, exercício 2021, do SPA Alvorada, acerca da decisão, na forma do art. 95, da Resolução nº 04/2002, ficando autorizada a emissão de nova notificação, caso a primeira seja frustrada. Ato contínuo, se, por ventura, persistir a problemática, para não restarem dúvidas quanto à sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A medida visa garantir que o responsável esteja ciente das decisões tomadas, o que está ligado à melhoria dos processos internos e à responsabilização na gestão. Está relacionado a uma atividade de organização interna",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "95",
+              "descricao": "Artigo 95 da Resolução nº 04/2002, que trata da comunicação das decisões do Tribunal de Contas aos responsáveis."
+            },
+             {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Artigo 97 da Resolução nº 04/2002, que trata da comunicação das decisões do Tribunal de Contas por edital."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

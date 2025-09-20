@@ -1,0 +1,92 @@
+{
+  "acordao": "27/2022",
+  "processo": "11773/2019",
+  "data_sessao": "07 de junho de 2022",
+  "orgao": "Prefeitura Municipal de Maraã",
+  "municipio": "Maraã",
+  "exercicio": "2018",
+  "responsavel": [
+    "Luiz Magno Praiano Moraes"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ,  diante  das irregularidades identificadas e dos indícios de improbidade administrativa, a remessa  de  cópia  dos  autos  ao Ministério Público Estadual , para as medidas que considerar cabíveis no  âmbito  de  sua  atuação,  na  forma  do  art.  22,  §3º,  da  Lei  n.º 2.423/1996 c/c o art. 190, III, 'b', da Resolução n.º 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ,  diante  das irregularidades identificadas e dos indícios de improbidade administrativa, a remessa  de  cópia  dos  autos  ao Ministério Público Estadual , para as medidas que considerar cabíveis no  âmbito  de  sua  atuação,  na  forma  do  art.  22,  §3º,  da  Lei  n.º 2.423/1996 c/c o art. 190, III, 'b', da Resolução n.º 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "A determinação de remessa ao Ministério Público indica que o controle interno falhou em detectar e/ou reportar irregularidades e indícios de improbidade administrativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "22, §3º",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "190, III, 'b'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria  Geral  de  Controle  Externo  -  Secex que adote  as  medidas  necessárias  para  a  autuação  de  processos  em relação às impropriedades não sanadas, constantes nos subitens 1.1.3; 2.1.3; 3.1.1 a 3.1.3 da DICOP; itens 1 a 6, 8 a 11, 13 a 22, 23, subitens 24.1  a  24.4,  26.5  a  26.7,  27.1,  27.3  a  27.9,  28,  alíneas  'a'  a  'c'  da DICAMI, elencadas na fundamentação do Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria  Geral  de  Controle  Externo  -  Secex que adote  as  medidas  necessárias  para  a  autuação  de  processos  em relação às impropriedades não sanadas, constantes nos subitens 1.1.3; 2.1.3; 3.1.1 a 3.1.3 da DICOP; itens 1 a 6, 8 a 11, 13 a 22, 23, subitens 24.1  a  24.4,  26.5  a  26.7,  27.1,  27.3  a  27.9,  28,  alíneas  'a'  a  'c'  da DICAMI, elencadas na fundamentação do Relatório-Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para autuação de processos indica que o controle interno é insuficientemente implementado ou estruturado para sanar as impropriedades detectadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr. Luiz  Magno  Praiano  Moraes , com  cópia  do Relatório/Voto e do Acórdão  correspondente, para que tome  as providências que entender cabíveis.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr. Luiz  Magno  Praiano  Moraes , com  cópia  do Relatório/Voto e do Acórdão  correspondente, para que tome  as providências que entender cabíveis.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A notificação serve como alerta para que o responsável tome ciência das falhas encontradas e adote medidas corretivas, o que indica a necessidade de normatização das rotinas internas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O arquivamento dos autos é um procedimento padrão e não está diretamente ligado a uma irregularidade, mas a uma rotina processual do Tribunal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

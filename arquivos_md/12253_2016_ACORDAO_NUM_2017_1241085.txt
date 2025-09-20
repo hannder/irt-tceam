@@ -1,0 +1,236 @@
+{
+  "acordao": "67/2017",
+  "processo": "12253/2016",
+  "data_sessao": "31 de Janeiro de 2017",
+  "orgao": "Serviço de Pronto Atendimento Joventina Dias",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Marcos Paulo Vieira Melo"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  do Sr. Marcos  Paulo  Vieira Melo ,  gestor  e  Ordenador de Despesas, exercício de 2015, nos termos do inciso II do art . 1º e das alíneas 'b' do inciso III do art. 22, todos da Lei Estadual nº 2.423/96, em decorrência de atos praticados com grave infração às normas legais, conforme as irregularidades nº 01, 02, 03, 04, 05, 07, 08, 09, 10, e 12",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Marcos  Paulo  Vieira  Melo no  valor  de R$ 8.768,25 (oito  mil,  setecentos  e  sessenta  e  oito  reais  e  vinte  e  cinco centavos), nos termos do art. 54, inciso II, da Lei Estadual nº 2.423/96 c/c inciso  VI, do  art. 308  da Resolução nº  04/2002-TCE/AM, em razão dos atos praticados com grave infração à norma  legal (restrições nº 01, 03, 05, 07, 08, 09, 10, e 12). Devendo ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Marcos  Paulo  Vieira  Melo no  valor  de R$ 2.192,06 (dois  mil,  cento  e  noventa  e  dois  reais  e  seis centavos),  nos termos da alínea 'a' do inciso I do art. 308 da Resolução nº 04/2002- RI/ TCE-AM , em  razão  do  não  atendimento,  no  prazo  fixado,  sem  causa justificada, à diligência deste Tribunal de Contas (restrições nº 02 e 04). Devendo  ser  recolhidos  na  esfera  Estadual  para  o  órgão  Encargos Gerais do Estado - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao  Serviço  de  Pronto  Atendimento  Joventina  Dias  -  Spa Joventina Dias, nos termos do §2º do TCE:\n- 9.4.1. Nas Licitações e Contratos observe todas as regras estipuladas pela Lei Federal nº 8.666/93,  tais como as relacionadas ao orçamento analítico  (art.  6º,  IX,  'f'  c/c  art.  7º,  §  2º,  II  da  lei  federal  nº  8.666/93), projetos arquitetônicos (art. 6º, IX, 'e' c/c art. 40, §2º, I, da Lei federal nº 8.666/93), diário de obra ou documento equivalente (art. 67, §1º da Lei federal  nº  8.666/93),  laudo  de  vistoria  (art.  67,  §1º  da  Lei  Federal  nº 8.666/93), projeto básico aprovado pela autoridade competente (art. 6º, IX c/c art. 7º, § 2º, I, II, III, IV da Lei federal nº 8666/93), entre outras",
+      "trechos_identificados": [
+        {
+          "trecho": "Nas Licitações e Contratos observe todas as regras estipuladas pela Lei Federal nº 8.666/93,  tais como as relacionadas ao orçamento analítico  (art.  6º,  IX,  'f'  c/c  art.  7º,  §  2º,  II  da  lei  federal  nº  8.666/93)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "O trecho exige a observância das regras licitatórias, o que está relacionado a justificativas para dispensas, embora não explicito",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 6º, IX, 'f'",
+              "descricao": "Requisitos do orçamento analítico em licitações."
+            },
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 7º, § 2º, II",
+              "descricao": "Requisitos do orçamento analítico em licitações."
+            }
+          ]
+        },
+        {
+          "trecho": "Nas Licitações e Contratos observe todas as regras estipuladas pela Lei Federal nº 8.666/93, tais como as relacionadas a projetos arquitetônicos (art. 6º, IX, 'e' c/c art. 40, §2º, I, da Lei federal nº 8.666/93)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "A exigencia do projeto arquitetonico está relacionado com a especificação da obra",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 6º, IX, 'e'",
+              "descricao": "Requisitos de projetos arquitetônicos em licitações."
+            },
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 40, §2º, I",
+              "descricao": "Requisitos de projetos arquitetônicos em licitações."
+            }
+          ]
+        },
+        {
+          "trecho": "Nas Licitações e Contratos observe todas as regras estipuladas pela Lei Federal nº 8.666/93,  tais como as relacionadas a diário de obra ou documento equivalente (art. 67, §1º da Lei federal  nº  8.666/93)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A22B",
+          "tipologia_irregularidade": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "descricao": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "justificativa_tipologia": "O trecho exige o diario de obra, que faz parte da fiscalização",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 67, §1º",
+              "descricao": "Obrigatoriedade de diário de obra ou documento equivalente para acompanhamento da execução contratual."
+            }
+          ]
+        },
+        {
+          "trecho": "Nas Licitações e Contratos observe todas as regras estipuladas pela Lei Federal nº 8.666/93,  tais como as relacionadas a laudo  de  vistoria  (art.  67,  §1º  da  Lei  Federal  nº 8.666/93)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "O Laudo de vistoria ajuda no acompanhamento da fiscalização",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 67, §1º",
+              "descricao": "Obrigatoriedade de laudo de vistoria para acompanhamento da execução contratual."
+            }
+          ]
+        },
+        {
+          "trecho": "Nas Licitações e Contratos observe todas as regras estipuladas pela Lei Federal nº 8.666/93, tais como as relacionadas a projeto básico aprovado pela autoridade competente (art. 6º, IX c/c art. 7º, § 2º, I, II, III, IV da Lei federal nº 8666/93)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "A aprovação do projeto é importante para que se tenha as especificações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 6º, IX",
+              "descricao": "Definição e requisitos do projeto básico."
+            },
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 7º, § 2º, I, II, III, IV",
+              "descricao": "Requisitos do projeto básico e necessidade de aprovação pela autoridade competente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.4.2. Em  caso  de  emergência  que  só se sejam  adquiridos  objetos necessários ao atendimento dessa situação, nos termos do inciso IV do art. 24 da Lei Federal nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Em  caso  de  emergência  que  só se sejam  adquiridos  objetos necessários ao atendimento dessa situação, nos termos do inciso IV do art. 24 da Lei Federal nº 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "Limitar as aquisições em emergência está relacionado a justificativa das dispensas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "inciso IV do art. 24",
+              "descricao": "Dispensa de licitação em casos de emergência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.4.3. Realize  procedimento  licitatório,  nos  termos  do  art.  2º  da  Lei federal nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize  procedimento  licitatório,  nos  termos  do  art.  2º  da  Lei federal nº 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "Realizar o procedimento licitatorio está relacionado com o processo licitatorio",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "art. 2º",
+              "descricao": "Obrigatoriedade de licitação para contratações da Administração Pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.4.4. Cumpra  os  art.  48  e  48-A  da  Lei  Complementar  n.º  101/2000, alterada pela Lei Complementar n° 131/2009 c/c inciso II, art. 34 da Lei n°  2.423/96,  que  estabelece  a  obrigatoriedade  de  observância  dos instrumentos  de  transparência  da  gestão  fiscal,  aos  quais  será  dada ampla divulgação, inclusive em meios eletrônicos de acesso público",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra  os  art.  48  e  48-A  da  Lei  Complementar  n.º  101/2000, alterada pela Lei Complementar n° 131/2009 c/c inciso II, art. 34 da Lei n°  2.423/96,  que  estabelece  a  obrigatoriedade  de  observância  dos instrumentos  de  transparência  da  gestão  fiscal,  aos  quais  será  dada ampla divulgação, inclusive em meios eletrônicos de acesso público",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "O trecho cita o cumprimento de regras para instrumentos de transparencia e ampla divulgação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "art. 48 e 48-A",
+              "descricao": "Obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar n° 131/2009",
+              "artigo": "Não Aplicavel",
+              "descricao": "Alterações na Lei de Responsabilidade Fiscal para aumentar a transparência da gestão fiscal."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "inciso II, art. 34",
+              "descricao": "Obrigatoriedade de observância dos instrumentos de transparência da gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.4.5. Observe, por último, que a reincidência, nas próximas Prestações de Contas, das determinações ora veiculadas, acarretará o  julgamento da  irregularidade  da  respectiva  Conta,  conforme  prevê  a  alínea  'e'  do inciso III do §1º do art. 188 do Regimento Interno/TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe, por último, que a reincidência, nas próximas Prestações de Contas, das determinações ora veiculadas, acarretará o  julgamento da  irregularidade  da  respectiva  Conta,  conforme  prevê  a  alínea  'e'  do inciso III do §1º do art. 188 do Regimento Interno/TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho menciona reincidencia de determinações que podem ser falhas nas prestações de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "alínea  'e'  do inciso III do §1º do art. 188",
+              "descricao": "Regra sobre julgamento da irregularidade da conta em caso de reincidência."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

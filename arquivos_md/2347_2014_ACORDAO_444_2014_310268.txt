@@ -1,0 +1,36 @@
+{
+  "acordao": "444/2014",
+  "processo": "2347/2014",
+  "data_sessao": "20 de agosto de 2014",
+  "orgao": "Fundo Municipal de Apoio à Pessoa com Deficiência - FMAPD",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Maria Goreth Garcia do Carmo Ribeiro"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "julgar Regular a prestação de Contas da Senhora Maria Goreth Garcia do Carmo Ribeiro, gestora do Fundo Municipal de Apoio a Pessoa com  Deficiência,  Exercício  2013,  determinando  à  DICREX  a  expedição  de  quitação  a responsável nos termos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "julgar Regular a prestação de Contas da Senhora Maria Goreth Garcia do Carmo Ribeiro, gestora do Fundo Municipal de Apoio a Pessoa com  Deficiência,  Exercício  2013,  determinando  à  DICREX  a  expedição  de  quitação  a responsável nos termos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho relata apenas o julgamento formal da prestação de contas como regular, sem apontar problemas de gestão ou irregularidades. A aprovação, por si só, não indica uma falha estrutural no processo contábil, tornando o trecho não relevante para o índice de reincidência. Classificado como tipologia de contabilidade por se tratar de julgamento das contas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11, III, alínea 'f', item 2",
+              "descricao": "Competência do Tribunal de Contas do Estado do Amazonas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público estadual ou municipal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "acordao": "804/2022",
+  "processo": "11656/2021",
+  "data_sessao": "31 de maio de 2022",
+  "orgao": "Procuradoria Geral de Justiça do Estado do Amazonas - PGJ",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Leda Mara Nascimento Albuquerque",
+    "Mauro Roberto Veras Bezerra"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas da Sra. Leda Mara Nascimento Albuquerque, gestora da Procuradoria Geral de Justiça do Estado do Amazonas - PGJ, no curso do exercício de 2020, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, I, da Lei Estadual n.º 2423/1996, e art. 5º, II e art. 188, §1º, I, da Resolução n.º 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas da Sra. Leda Mara Nascimento Albuquerque, gestora da Procuradoria Geral de Justiça do Estado do Amazonas - PGJ, no curso do exercício de 2020, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, I, da Lei Estadual n.º 2423/1996, e art. 5º, II e art. 188, §1º, I, da Resolução n.º 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas, classificando-a como regular, o que não aponta para um problema concreto na gestão pública, mas um registro de ato administrativo regular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Normas estabelecidas na Constituição Federal"
+            },
+            {
+              "norma": "Lei Estadual n.º 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Define as normas sobre o controle externo da administração pública estadual."
+            },
+            {
+              "norma": "Lei Estadual n.º 2423/1996",
+              "artigo": "22, I",
+              "descricao": "Define as normas sobre o controle externo da administração pública estadual."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Estabelece o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Estabelece o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas do Sr. Mauro Roberto Veras Bezerra, ordenador de despesas da Procuradoria Geral de Justiça do Estado do Amazonas - PGJ, no curso do exercício de 2020, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, I,  da Lei Estadual n.º 2423/1996, e art. 5º, II e art. 188, §1º, I, da Resolução n.º 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Sr. Mauro Roberto Veras Bezerra, ordenador de despesas da Procuradoria Geral de Justiça do Estado do Amazonas - PGJ, no curso do exercício de 2020, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, I,  da Lei Estadual n.º 2423/1996, e art. 5º, II e art. 188, §1º, I, da Resolução n.º 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas, classificando-a como regular, o que não aponta para um problema concreto na gestão pública, mas um registro de ato administrativo regular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Normas estabelecidas na Constituição Federal"
+            },
+            {
+              "norma": "Lei Estadual n.º 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Define as normas sobre o controle externo da administração pública estadual."
+            },
+            {
+              "norma": "Lei Estadual n.º 2423/1996",
+              "artigo": "22, I",
+              "descricao": "Define as normas sobre o controle externo da administração pública estadual."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Estabelece o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Estabelece o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual gestor da Procuradoria Geral de Justiça do Estado do Amazonas - PGJ, que tome providências no sentido de evitar, nos exercícios futuros, a ocorrência de mais falhas no que se refere à ausência de dados no Portal da Transparência quanto a contratos e licitações.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao atual gestor da Procuradoria Geral de Justiça do Estado do Amazonas - PGJ, que tome providências no sentido de evitar, nos exercícios futuros, a ocorrência de mais falhas no que se refere à ausência de dados no Portal da Transparência quanto a contratos e licitações.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação visa corrigir uma deficiência na transparência da gestão pública, especificamente a ausência de dados sobre contratos e licitações, o que dificulta o controle social e a fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação plena à Sra. Leda Mara Nascimento Albuquerque, nos termos do art. 23, da Lei Estadual n.º 2423/1996, c/c art. 189, I, da Resolução n.º 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação plena à Sra. Leda Mara Nascimento Albuquerque, nos termos do art. 23, da Lei Estadual n.º 2423/1996, c/c art. 189, I, da Resolução n.º 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A quitação plena não aponta para um problema concreto na gestão pública, mas um registro de ato administrativo regular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.º 2423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a extinção da responsabilidade dos administradores públicos."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Regulamenta os procedimentos para a concessão de quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação plena ao Sr. Mauro Roberto Veras Bezerra, nos termos do art. 23, da Lei Estadual n.º 2423/1996, c/c art. 189, I, da Resolução n.º 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação plena ao Sr. Mauro Roberto Veras Bezerra, nos termos do art. 23, da Lei Estadual n.º 2423/1996, c/c art. 189, I, da Resolução n.º 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A quitação plena não aponta para um problema concreto na gestão pública, mas um registro de ato administrativo regular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.º 2423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a extinção da responsabilidade dos administradores públicos."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Regulamenta os procedimentos para a concessão de quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o presente processo, após cumpridas as providências supracitadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o presente processo, após cumpridas as providências supracitadas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A determinação de arquivamento do processo, após o cumprimento das recomendações, representa um procedimento interno do TCE e não indica um problema concreto na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

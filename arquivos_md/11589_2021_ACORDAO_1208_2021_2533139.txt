@@ -1,0 +1,76 @@
+{
+  "acordao": "1208/2021",
+  "processo": "11589/2021",
+  "data_sessao": "16 de Novembro de 2021",
+  "orgao": "Procuradoria Geral do Estado do Amazonas - PGE",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Jorge Henrique de Freitas Pinho",
+    "Fabio Pereira Garcia dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Procuradoria Geral do Estado do Amazonas - PGE, referente ao exercício de 2020, sob responsabilidade do Sr. Jorge Henrique de Freitas Pinho, Procurador-Geral do Estado e do Sr. Fabio Pereira Garcia dos Santos, Subprocurador-Geral do Estado e Ordenador de Despesas, dando plena quitação aos responsáveis, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002-TCE/AM - RITCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual da Procuradoria Geral do Estado do Amazonas - PGE, referente ao exercício de 2020, sob responsabilidade do Sr. Jorge Henrique de Freitas Pinho, Procurador-Geral do Estado e do Sr. Fabio Pereira Garcia dos Santos, Subprocurador-Geral do Estado e Ordenador de Despesas, dando plena quitação aos responsáveis, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002-TCE/AM - RITCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares, sem indicar irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1°, inciso II, 'a', 22, I, e 23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM - RITCE",
+              "artigo": "11, inciso III, alínea 'a', item 3 e art. 189, I",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "ciência ao Sr. Jorge Henrique de Freitas Pinho e ao Sr. Fabio Pereira Garcia dos Santos, da respectiva decisão;",
+      "trechos_identificados": [
+        {
+          "trecho": "ciência ao Sr. Jorge Henrique de Freitas Pinho e ao Sr. Fabio Pereira Garcia dos Santos, da respectiva decisão;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a uma comunicação da decisão, não indicando irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho indica um procedimento padrão do TCE, não apontando irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

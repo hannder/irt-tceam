@@ -1,0 +1,37 @@
+{
+  "acordao": "604/2015",
+  "processo": "10189/2013",
+  "data_sessao": "12 de Agosto de 2015",
+  "orgao": "Município de São Sebastião do Uatumã",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2012",
+  "responsavel": [
+    "Regina  Maria  de  Castro  Amora",
+    "Carlos  da  Silva  Amora"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "ACORDAM os Excelentíssimos Senhores Conselheiros do Tribunal de Contas do Estado do Amazonas, reunidos em sessão Plenária, no exercício da competência atribuída pelo art.11, III, alínea 'f',  item  1,  da  Resolução  n.  04/2002-TCE/AM, à  unanimidade , nos  termos  do  voto  da Excelentíssima Senhora Conselheira-Relatora, no sentido de conhecer os Embargos de Declaração ,  para  no  mérito, negar-lhe  provimento ,  não  sendo  atribuídos  os  efeitos infringentes  requeridos  pelo  Embargante,  em  razão  dos  argumentos    expostos  no Relatório/voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "ACORDAM os Excelentíssimos Senhores Conselheiros do Tribunal de Contas do Estado do Amazonas, reunidos em sessão Plenária, no exercício da competência atribuída pelo art.11, III, alínea 'f',  item  1,  da  Resolução  n.  04/2002-TCE/AM, à  unanimidade , nos  termos  do  voto  da Excelentíssima Senhora Conselheira-Relatora, no sentido de conhecer os Embargos de Declaração ,  para  no  mérito, negar-lhe  provimento ,  não  sendo  atribuídos  os  efeitos infringentes  requeridos  pelo  Embargante,  em  razão  dos  argumentos    expostos  no Relatório/voto.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho não se refere a uma irregularidade ou problema estrutural na gestão pública, mas sim ao resultado do julgamento de embargos de declaração.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  n.  04/2002-TCE/AM",
+              "artigo": "11, III, alínea 'f',  item  1",
+              "descricao": "Atribuição de competência ao Tribunal Pleno para julgar embargos de declaração."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

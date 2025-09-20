@@ -1,0 +1,210 @@
+{
+  "acordao": "1831/2022",
+  "processo": "11419/2018",
+  "data_sessao": "25 de outubro de 2022",
+  "orgao": "Manaus Previdência - Manausprev",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Silvino Vieira Neto",
+    "Iza Amelia de Castro Albuquerque",
+    "Marcelo Magaldi Alves"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Manaus Previdência, exercício de 2017, sob a responsabilidade do Sr. Marcelo Magaldi Alves (01.01.2017 a 22.05.2017), nos termos do art. 71, II,  da  CF/88,  art.  40,  II,  da  CE/89,  19,  II  e  22,  II,  da  Lei  Orgânica TCE/AM c/c art.  11,  III,  'a',  '3'  e  art.  188,  II  e  §1°,  II,  da  Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Manaus Previdência, exercício de 2017, sob a responsabilidade do Sr. Marcelo Magaldi Alves (01.01.2017 a 22.05.2017), nos termos do art. 71, II,  da  CF/88,  art.  40,  II,  da  CE/89,  19,  II  e  22,  II,  da  Lei  Orgânica TCE/AM c/c art.  11,  III,  'a',  '3'  e  art.  188,  II  e  §1°,  II,  da  Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas, com ressalvas, mas sem detalhar falhas que justifiquem marcação como irregularidade ou relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "40, II",
+              "descricao": "Estabelece a competência do Tribunal de Contas do Estado para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos estaduais."
+            },
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "19, II",
+              "descricao": "Define as competências do TCE/AM em relação ao julgamento das contas."
+            },
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "22, II",
+              "descricao": "Define as competências do TCE/AM em relação ao julgamento das contas."
+            },
+            {
+              "norma": "Resolução TCE/AM n° 04/02",
+              "artigo": "11, III, 'a', '3'",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução TCE/AM n° 04/02",
+              "artigo": "188, II e §1°, II",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Manaus  Previdência,  exercício  de  2017,  sob  a  responsabilidade  da Sra.  Iza  Amelia  de  Castro  Albuquerque (23.05.2017  a  03.07.2017), nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, 19, II e 22, II, da Lei Orgânica TCE/AM c/c art. 11, III, 'a', '3' e art. 188, II e §1°, II, da Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Manaus  Previdência,  exercício  de  2017,  sob  a  responsabilidade  da Sra.  Iza  Amelia  de  Castro  Albuquerque (23.05.2017  a  03.07.2017), nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, 19, II e 22, II, da Lei Orgânica TCE/AM c/c art. 11, III, 'a', '3' e art. 188, II e §1°, II, da Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas, com ressalvas, mas sem detalhar falhas que justifiquem marcação como irregularidade ou relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "40, II",
+              "descricao": "Estabelece a competência do Tribunal de Contas do Estado para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos estaduais."
+            },
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "19, II",
+              "descricao": "Define as competências do TCE/AM em relação ao julgamento das contas."
+            },
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "22, II",
+              "descricao": "Define as competências do TCE/AM em relação ao julgamento das contas."
+            },
+            {
+              "norma": "Resolução TCE/AM n° 04/02",
+              "artigo": "11, III, 'a', '3'",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução TCE/AM n° 04/02",
+              "artigo": "188, II e §1°, II",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Manaus Previdência, exercício de 2017, sob a responsabilidade do Sr. Silvino Vieira Neto (04.07.2017 a 31.12.2017), nos termos do art. 71, II,  da  CF/88,  art.  40,  II,  da  CE/89,  19,  II  e  22,  II,  da  Lei  Orgânica TCE/AM c/c art.  11,  III,  'a',  '3'  e  art.  188,  II  e  §1°,  II,  da  Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Manaus Previdência, exercício de 2017, sob a responsabilidade do Sr. Silvino Vieira Neto (04.07.2017 a 31.12.2017), nos termos do art. 71, II,  da  CF/88,  art.  40,  II,  da  CE/89,  19,  II  e  22,  II,  da  Lei  Orgânica TCE/AM c/c art.  11,  III,  'a',  '3'  e  art.  188,  II  e  §1°,  II,  da  Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas, com ressalvas, mas sem detalhar falhas que justifiquem marcação como irregularidade ou relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "40, II",
+              "descricao": "Estabelece a competência do Tribunal de Contas do Estado para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos estaduais."
+            },
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "19, II",
+              "descricao": "Define as competências do TCE/AM em relação ao julgamento das contas."
+            },
+            {
+              "norma": "Lei Orgânica TCE/AM",
+              "artigo": "22, II",
+              "descricao": "Define as competências do TCE/AM em relação ao julgamento das contas."
+            },
+            {
+              "norma": "Resolução TCE/AM n° 04/02",
+              "artigo": "11, III, 'a', '3'",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução TCE/AM n° 04/02",
+              "artigo": "188, II e §1°, II",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação aos Srs. Marcelo Magaldi Alves, Iza Amélia de Castro Albuquerque  e  Silvino  Vieira  Neto ,  nos  termos  do  art.  24,  da  Lei Estadual nº 2.423/96 c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação aos Srs. Marcelo Magaldi Alves, Iza Amélia de Castro Albuquerque  e  Silvino  Vieira  Neto ,  nos  termos  do  art.  24,  da  Lei Estadual nº 2.423/96 c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas, com quitação aos responsáveis, mas sem detalhar falhas que justifiquem marcação como irregularidade ou relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a quitação dos responsáveis após o julgamento das contas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Regulamenta o processo de quitação dos responsáveis após o julgamento das contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Manaus  Previdência  que  planeje  melhor  suas  futuras ações, observe e cumpra os prazos legais e regimentais, assim como as recomendações do Laudo Técnico e Parecer Ministerial nos autos e do Relatório-Voto, a fim de evitar a reincidência, o que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Manaus  Previdência  que  planeje  melhor  suas  futuras ações, observe e cumpra os prazos legais e regimentais, assim como as recomendações do Laudo Técnico e Parecer Ministerial nos autos e do Relatório-Voto, a fim de evitar a reincidência, o que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho determina à Manaus Previdência que melhore seu planejamento e cumpra os prazos legais e regimentais, indicando uma deficiência estrutural persistente no controle interno da gestão, que pode levar a futuras irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "22, §1º",
+              "descricao": "Estabelece que o TCE/AM pode determinar medidas para evitar irregularidades em futuras prestações de contas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

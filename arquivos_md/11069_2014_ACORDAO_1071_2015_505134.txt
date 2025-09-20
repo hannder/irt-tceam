@@ -1,0 +1,36 @@
+{
+  "acordao": "1071/2015",
+  "processo": "11069/2014",
+  "data_sessao": "16 de dezembro de 2015",
+  "orgao": "Prefeitura Municipal de Santa  Isabel do  Rio Negro",
+  "municipio": "Santa Isabel do Rio Negro",
+  "exercicio": "2013",
+  "responsavel": [
+    "Mariolino Siqueira de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Embargos de Declaração",
+      "descricao": "Admitir os presentes Embargos de Declaração , nos moldes do artigo 148 e parágrafos, da Resolução nº 04/2002 TCE/AM; e no  seu  mérito julgar  parcialmente  procedente, no  sentido  de  sanar  as  omissões supridas pelos  itens  12.1.1,  12.1.2  e  12.2.1  do  Relatório/Voto,  porém, SEM ALTERAR a  redação  do Parecer Prévio n.  52/2015 - TCE - Tribunal Pleno e  Acórdão n. 52/2015  - TCE - Tribunal Pleno (fls. 1090/1094).",
+      "trechos_identificados": [
+        {
+          "trecho": "Admitir os presentes Embargos de Declaração , nos moldes do artigo 148 e parágrafos, da Resolução nº 04/2002 TCE/AM; e no seu mérito julgar parcialmente procedente, no sentido de sanar as omissões supridas pelos itens 12.1.1, 12.1.2 e 12.2.1 do Relatório/Voto, porém, SEM ALTERAR a redação do Parecer Prévio n. 52/2015 - TCE - Tribunal Pleno e Acórdão n. 52/2015 - TCE - Tribunal Pleno (fls. 1090/1094).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O trecho descreve o julgamento de embargos, mas não indica irregularidades que afetem diretamente a gestão de recursos ou processos estruturais na administração pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "148",
+              "descricao": "Dispõe sobre os Embargos de Declaração no âmbito do Tribunal de Contas do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

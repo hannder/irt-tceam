@@ -1,0 +1,144 @@
+{
+  "acordao": "38/2017",
+  "processo": "11522/2016",
+  "data_sessao": "13 de Junho de 2017",
+  "orgao": "Prefeitura Municipal de Atalaia do Norte",
+  "municipio": "Atalaia do Norte",
+  "exercicio": "2015",
+  "responsavel": [
+    "Nonato do Nascimento Tenazor"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas do Sr. Nonato do Nascimento Tenazor ,  responsável pela Prefeitura  Municipal de Atalaia do  Norte, no curso do exercício 2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas do Sr. Nonato do Nascimento Tenazor ,  responsável pela Prefeitura  Municipal de Atalaia do  Norte, no curso do exercício 2015",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A descrição indica um julgamento de contas irregular, o que sugere problemas na apresentação, avaliação ou classificação contábil dos dados da prefeitura.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "5º, II e 11, III, 'a' item 1",
+              "descricao": "Atribuição de competência para julgar as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Nonato do Nascimento Tenazor no  valor  de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito  centavos), com fulcro no art.54 incisos II e  VI da Lei  n. 2.423/96, que  devem  ser  recolhidos  na  esfera  Estadual  para  o  órgão  Encargos Gerais  do  Estado  -  SEFAZ  por  descumprimento  das  improbidades apontadas nos itens 17.1 a 17.38 do Relatório/Voto. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Nonato do Nascimento Tenazor no  valor  de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito  centavos), com fulcro no art.54 incisos II e  VI da Lei  n. 2.423/96, que  devem  ser  recolhidos  na  esfera  Estadual  para  o  órgão  Encargos Gerais  do  Estado  -  SEFAZ  por  descumprimento  das  improbidades apontadas nos itens 17.1 a 17.38 do Relatório/Voto. O recolhimento deve ser feito no prazo de 30 dias",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A multa é aplicada devido ao descumprimento de improbidades, indicando falhas no cumprimento de metas fiscais e gestão de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "54 incisos II e VI",
+              "descricao": "Fundamentação para aplicação de multa devido às irregularidades apontadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o Sr.  Nonato  do  Nascimento  Tenazor no valor de R$ 2.334.034,44 (dois milhões, trezentos e trinta e quatro mil e trinta  e  quatro  reais  e  quarenta  e  quatro  centavos)  que  devem  ser recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de Atalaia  do  Norte  por  descumprimento  das  improbidades  apontadas.  O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr.  Nonato  do  Nascimento  Tenazor no valor de R$ 2.334.034,44 (dois milhões, trezentos e trinta e quatro mil e trinta  e  quatro  reais  e  quarenta  e  quatro  centavos)  que  devem  ser recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de Atalaia  do  Norte  por  descumprimento  das  improbidades  apontadas.  O recolhimento deve ser feito no prazo de 30 dias",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O texto indica que o responsável deve restituir um valor devido a improbidades, sugerindo uma burla ao processo legal de pagamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Câmara Municipal de  Atalaia do Norte o cumprimento no art.  127,  §§  5º,  6º  e  7º,  da  Constituição  do  Estado  do  Amazonas,  em especial o prazo de 60 dias para o julgamento das contas do Sr. Nonato do Nascimento Tenazor , em comento",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Câmara Municipal de  Atalaia do Norte o cumprimento no art.  127,  §§  5º,  6º  e  7º,  da  Constituição  do  Estado  do  Amazonas,  em especial o prazo de 60 dias para o julgamento das contas do Sr. Nonato do Nascimento Tenazor , em comento",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A determinação à Câmara Municipal para julgar as contas dentro de um prazo específico visa garantir a transparência e a responsabilização na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "127, §§ 5º, 6º e 7º",
+              "descricao": "Estabelece os prazos para o julgamento das contas pelo Tribunal de Contas e pela Câmara Municipal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Encaminhamento",
+      "descricao": "Encaminhar ao  Ministério  Público  do  Estado  do  Amazonas,  as  peças processuais necessárias à demonstração da necessidade de investigação  e  apuração  de  ato  de  improbidade  administrativa,  nos termos  do  art.  22,  da  Lei  nº  8.429/92,  devendo  esta  providência  ser adotada  pela  Secretaria  do  Tribunal  Pleno,  imediatamente  após  a publicação da Decisão que resultar  deste processo, tendo em vista os prazos prescricionais previstos no art. 25, da referida Lei",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar ao  Ministério  Público  do  Estado  do  Amazonas,  as  peças processuais necessárias à demonstração da necessidade de investigação  e  apuração  de  ato  de  improbidade  administrativa,  nos termos  do  art.  22,  da  Lei  nº  8.429/92,  devendo  esta  providência  ser adotada  pela  Secretaria  do  Tribunal  Pleno,  imediatamente  após  a publicação da Decisão que resultar  deste processo, tendo em vista os prazos prescricionais previstos no art. 25, da referida Lei",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "O encaminhamento ao Ministério Público para investigar improbidade administrativa sugere falhas no controle interno e possível omissão na notificação de irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.429/92",
+              "artigo": "22",
+              "descricao": "Necessidade de investigação e apuração de ato de improbidade administrativa."
+            },
+            {
+              "norma": "Lei nº 8.429/92",
+              "artigo": "25",
+              "descricao": "Prazos prescricionais para as ações de improbidade administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Comunicação",
+      "descricao": "Comunicar à Prefeitura Municipal para que inicie os devidos procedimentos para a devolução imediata aos cofres municipais, tendo em vista que, no julgamento destas contas, o Sr. Nonato do Nascimento Tenazor foi julgado em alcance",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar à Prefeitura Municipal para que inicie os devidos procedimentos para a devolução imediata aos cofres municipais, tendo em vista que, no julgamento destas contas, o Sr. Nonato do Nascimento Tenazor foi julgado em alcance",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "A necessidade de devolução de valores aos cofres municipais por alcance indica um possível desvio de recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "acordao": "547/2020",
+  "processo": "11472/2019",
+  "data_sessao": "3 de Junho de 2020",
+  "orgao": "Escritório de Representação do Governo em São Paulo",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Elaine Coletto dos Santos Arcangeli",
+    "Rosiliane Cantisani Bessa"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do  Escritório  de Representação  do  Governo  em  São  Paulo,  referente  ao  período  de 02/01/2018 a 26/06/2018, de responsabilidade da Sra. Rosiliane Cantisani Bessa, Representante e Ordenadora de Despesas, nos termos do art. 22, II, c/c o art. 24, ambos da Lei n.º 2.423/96TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do  Escritório  de Representação  do  Governo  em  São  Paulo,  referente  ao  período  de 02/01/2018 a 26/06/2018, de responsabilidade da Sra. Rosiliane Cantisani Bessa, Representante e Ordenadora de Despesas, nos termos do art. 22, II, c/c o art. 24, ambos da Lei n.º 2.423/96TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Ainda que julgada regular com ressalvas, a falta de notas explicativas é uma deficiência contábil",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96-TCE/AM",
+              "artigo": "22, II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Lei n.º 2.423/96-TCE/AM",
+              "artigo": "24",
+              "descricao": "Possibilidade de aplicação de multa em caso de ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Rosiliane Cantisani Bessa, Representante e  Ordenadora de Despesas, no valor de R$ 1.706,80 (mil,  setecentos e seis reais e oitenta centavos), correspondente à 2,5%, nos termos do art. 54, VII, da Lei n.º 2.423/96-TCE/AM, alterado pela Lei Complementar n° 204/2020-TCE/AM, c/c o art. 308, VII, da Resolução n° 04/2002-TCE/AM, alterada pela Resolução n° 04/2018-TCE/AM, em  razão da falha identificada no item 2, da fundamentação do Relatório/Voto, que deverá ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Rosiliane Cantisani Bessa, Representante e  Ordenadora de Despesas, no valor de R$ 1.706,80 (mil,  setecentos e seis reais e oitenta centavos), correspondente à 2,5%, nos termos do art. 54, VII, da Lei n.º 2.423/96-TCE/AM, alterado pela Lei Complementar n° 204/2020-TCE/AM, c/c o art. 308, VII, da Resolução n° 04/2002-TCE/AM, alterada pela Resolução n° 04/2018-TCE/AM, em  razão da falha identificada no item 2, da fundamentação do Relatório/Voto, que deverá ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A multa é aplicada devido a falhas na prestação de contas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96-TCE/AM",
+              "artigo": "54, VII",
+              "descricao": "Base legal para aplicação de multa por irregularidades."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Lei n.º 2.423/96-TCE/AM."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, VII",
+              "descricao": "Regulamentação interna para aplicação de multas."
+            },
+            {
+              "norma": "Resolução n° 04/2018-TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Resolução n° 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Rosiliane  Cantisani  Bessa, Representante  e Ordenadora de Despesas, no valor de R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos), nos termos do art. 54, I 'a', da Lei n° 2.423/96TCE/AM, alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c  art. 308, I, 'a', da Resolução n.º 04/2002-TCE/AM, alterada pela Resolução n.º 4/2018  -  TCE/AM,  pelo  descumprimento  do  prazo  e/ou  ausência  na inserção  dos  dados  contábeis  (janeiro  a  março/2018),  perfazendo  o montante  de R$  5.120,40 (cinco  mil,  cento  e  vinte  reais  e  quarenta centavos), constante no item 3, da fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Rosiliane  Cantisani  Bessa, Representante  e Ordenadora de Despesas, no valor de R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos), nos termos do art. 54, I 'a', da Lei n° 2.423/96TCE/AM, alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c  art. 308, I, 'a', da Resolução n.º 04/2002-TCE/AM, alterada pela Resolução n.º 4/2018  -  TCE/AM,  pelo  descumprimento  do  prazo  e/ou  ausência  na inserção  dos  dados  contábeis  (janeiro  a  março/2018),  perfazendo  o montante  de R$  5.120,40 (cinco  mil,  cento  e  vinte  reais  e  quarenta centavos), constante no item 3, da fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao descumprimento do prazo na inserção de dados contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96-TCE/AM",
+              "artigo": "54, I 'a'",
+              "descricao": "Base legal para aplicação de multa por descumprimento de prazo."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Lei n° 2.423/96-TCE/AM."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "Regulamentação interna para aplicação de multas por atraso."
+            },
+            {
+              "norma": "Resolução n.º 4/2018 - TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Resolução n.º 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do  Escritório  de Representação  do  Governo  em  São  Paulo,  referente  ao  período  de 29/06/2018 a 31/12/2018, de responsabilidade da Sra. Elaine Coletto dos Santos  Arcangeli, Representante  e   Ordenadora  de  Despesas,  nos termos do art. 22, II, c/c o art. 24, ambos da Lei n.º 2.423/96TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do  Escritório  de Representação  do  Governo  em  São  Paulo,  referente  ao  período  de 29/06/2018 a 31/12/2018, de responsabilidade da Sra. Elaine Coletto dos Santos  Arcangeli, Representante  e   Ordenadora  de  Despesas,  nos termos do art. 22, II, c/c o art. 24, ambos da Lei n.º 2.423/96TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Ainda que julgada regular com ressalvas, a falta de notas explicativas é uma deficiência contábil",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96TCE/AM",
+              "artigo": "22, II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Lei n.º 2.423/96TCE/AM",
+              "artigo": "24",
+              "descricao": "Possibilidade de aplicação de multa em caso de ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Elaine Coletto dos Santos Arcangeli, Representante e Ordenadora de Despesas, no valor de R$ 1.706,80 (mil setecentos e seis reais e oitenta centavos), correspondente à 2,5%, nos termos  do  art.  54,  VII,  da  Lei  n.º  2.423/96-TCE/AM,  alterado  pela  Lei Complementar n° 204/2020-TCE/AM, c/c o art. 308, VII, da Resolução n° 04/2002-TCE/AM, alterada pela Resolução n° 04/2018-TCE/AM, em razão da falha identificada no itens 12 e 13, da fundamentação do Relatório/Voto, que  deverá  ser  recolhida no  prazo  de  30  dias para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Elaine Coletto dos Santos Arcangeli, Representante e Ordenadora de Despesas, no valor de R$ 1.706,80 (mil setecentos e seis reais e oitenta centavos), correspondente à 2,5%, nos termos  do  art.  54,  VII,  da  Lei  n.º  2.423/96-TCE/AM,  alterado  pela  Lei Complementar n° 204/2020-TCE/AM, c/c o art. 308, VII, da Resolução n° 04/2002-TCE/AM, alterada pela Resolução n° 04/2018-TCE/AM, em razão da falha identificada no itens 12 e 13, da fundamentação do Relatório/Voto, que  deverá  ser  recolhida no  prazo  de  30  dias para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A multa é aplicada devido a falhas na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96-TCE/AM",
+              "artigo": "54, VII",
+              "descricao": "Base legal para aplicação de multa por irregularidades."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Lei n.º 2.423/96-TCE/AM."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, VII",
+              "descricao": "Regulamentação interna para aplicação de multas."
+            },
+            {
+              "norma": "Resolução n° 04/2018-TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Resolução n° 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Elaine Coletto dos Santos Arcangeli, Representante e Ordenadora de Despesas, no valor de R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos), nos termos do art. 54, I 'a', da Lei  n°  2.423/96-TCE/AM,  alterada  pela  Lei  Complementar  n°  204/2020TCE/AM c/c art. 308, I, 'a', da Resolução n.º 04/2002-TCE/AM, alterada pela Resolução n.º 4/2018 - TCE/AM, pelo descumprimento do prazo e/ou ausência  na  inserção  dos  dados  contábeis  (abril  a  dezembro/2018), perfazendo o montante de R$ 15.361,20 (quinze mil, trezentos e sessenta e um reais e vinte centavos), constante no item 10, da fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Elaine Coletto dos Santos Arcangeli, Representante e Ordenadora de Despesas, no valor de R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos), nos termos do art. 54, I 'a', da Lei  n°  2.423/96-TCE/AM,  alterada  pela  Lei  Complementar  n°  204/2020TCE/AM c/c art. 308, I, 'a', da Resolução n.º 04/2002-TCE/AM, alterada pela Resolução n.º 4/2018 - TCE/AM, pelo descumprimento do prazo e/ou ausência  na  inserção  dos  dados  contábeis  (abril  a  dezembro/2018), perfazendo o montante de R$ 15.361,20 (quinze mil, trezentos e sessenta e um reais e vinte centavos), constante no item 10, da fundamentação do Relatório/Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao descumprimento do prazo na inserção de dados contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  n°  2.423/96-TCE/AM",
+              "artigo": "54, I 'a'",
+              "descricao": "Base legal para aplicação de multa por descumprimento de prazo."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Lei  n°  2.423/96-TCE/AM."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "Regulamentação interna para aplicação de multas por atraso."
+            },
+            {
+              "norma": "Resolução n.º 4/2018 - TCE/AM",
+              "artigo": "null",
+              "descricao": "Alteração da Resolução n.º 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Escritório de  Representação  do  Governo  em  São Paulo que implemente um sistema de Controle Interno, no âmbito daquela Unidade Gestora. (item 13, da fundamentação do Relatório/Voto).",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Escritório de  Representação  do  Governo  em  São Paulo que implemente um sistema de Controle Interno, no âmbito daquela Unidade Gestora.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de implementação do sistema de controle interno",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

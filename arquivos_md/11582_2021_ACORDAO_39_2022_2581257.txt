@@ -1,0 +1,108 @@
+{
+  "acordao": "39/2022",
+  "processo": "11582/2021",
+  "data_sessao": "2 de Fevereiro de 2022",
+  "orgao": "Fundo de Apoio do Ministério Público do Amazonas - FAMP/AM",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Leda Mara Nascimento Albuquerque",
+    "Alberto Rodrigues do Nascimento Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  do Fundo  de  Apoio  do Ministério  Público  do  Amazonas  (FAMP) ,  referente  ao  exercício  de 2020, de responsabilidade da Sra. Leda Mara Nascimento Albuquerque , Gestora  e Ordenadora  de  Despesas  no  período  de 01/01/2020  a  14/10/2020 ,  e  do  Sr. Alberto  Rodrigues  do  Nascimento Júnior ,  Gestor  e  Ordenador  de  Despesas  no  período  de 15/10/2020  a 31/12/2020 , nos termos do art. 1º, II, 22, I, e 23 da Lei nº 2423/1996 c/c art. 188,§ 1º, I, e 189, I, da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  do Fundo  de  Apoio  do Ministério  Público  do  Amazonas  (FAMP) ,  referente  ao  exercício  de 2020, de responsabilidade da Sra. Leda Mara Nascimento Albuquerque , Gestora  e Ordenadora  de  Despesas  no  período  de 01/01/2020  a  14/10/2020 ,  e  do  Sr. Alberto  Rodrigues  do  Nascimento Júnior ,  Gestor  e  Ordenador  de  Despesas  no  período  de 15/10/2020  a 31/12/2020 , nos termos do art. 1º, II, 22, I, e 23 da Lei nº 2423/1996 c/c art. 188,§ 1º, I, e 189, I, da Resolução 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento formal da prestação de contas, o que por si só não revela um problema estrutural na gestão pública",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Define as responsabilidades e competências do TCE/AM na fiscalização das contas públicas."
+            },
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "22, I",
+              "descricao": "Estabelece os procedimentos para o julgamento das contas anuais."
+            },
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a quitação dos responsáveis pelas contas julgadas regulares."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, § 1º, I",
+              "descricao": "Regulamenta o processo de prestação de contas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Define os critérios para a emissão de quitação aos responsáveis pelas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação à  Sra. Leda  Mara  Nascimento  Albuquerque  e  ao  Sr. Alberto Rodrigues do Nascimento Júnior , nos termos do art. 23 da Lei nº 2423/1996 c/c art. 189, I, da Resolução 04/2002 -TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação à  Sra. Leda  Mara  Nascimento  Albuquerque  e  ao  Sr. Alberto Rodrigues do Nascimento Júnior , nos termos do art. 23 da Lei nº 2423/1996 c/c art. 189, I, da Resolução 04/2002 -TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A quitação, por si só, não indica problemas concretos de gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a quitação dos responsáveis pelas contas julgadas regulares."
+            },
+            {
+              "norma": "Resolução 04/2002 -TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Define os critérios para a emissão de quitação aos responsáveis pelas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que  adote  as  providências previstas no art. 162 da Resolução nº 04/2002-TCE/AM, dentre elas, dar ciência aos interessados sobre o julgamento do processo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que  adote  as  providências previstas no art. 162 da Resolução nº 04/2002-TCE/AM, dentre elas, dar ciência aos interessados sobre o julgamento do processo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação refere-se a procedimentos internos do TCE, não indicando falhas de gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "162",
+              "descricao": "Estabelece os procedimentos internos do TCE/AM após o julgamento de processos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

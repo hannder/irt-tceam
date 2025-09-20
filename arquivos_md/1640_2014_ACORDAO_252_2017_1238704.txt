@@ -1,0 +1,245 @@
+{
+  "acordao": "252/2017",
+  "processo": "1640/2014",
+  "data_sessao": "21 de Março de 2017",
+  "orgao": "Secretaria Municipal de Finanças, Tecnologia da Informação e Controle Interno - SEMEF",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Ulisses Tapajós Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas da Secretaria Municipal de Finanças, Tecnologia da Informação e Controle InternoSEMEF, Unidade 360101, relativa ao exercício de 2013, de responsabilidade do Sr. Ulisses Tapajós Neto , Secretário, nos termos do inciso II do artigo 1º e inciso II do artigo 22 da Lei Estadual nº 2.423/96, dando quitação e condicionando-os ao atendimento do artigo 24, c/c o artigo 72, II, todos da Lei Estadual nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a  Prestação de Contas da Secretaria Municipal  de  Finanças,  Tecnologia  da  Informação  e  Controle  InternoSEMEF, Unidade 360101, relativa ao exercício de 2013, de responsabilidade do Sr. Ulisses Tapajós Neto ,  Secretário, nos termos do  inciso  II  do  artigo  1º  e  inciso  II  do  artigo  22  da  Lei  Estadual  nº 2.423/96, dando quitação e condicionando-os ao atendimento do artigo 24, c/c o artigo 72, II, todos da Lei Estadual nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica o julgamento das contas como 'Regular com Ressalvas', mas não especifica a natureza das ressalvas, sendo um resultado formal da análise contábil, sem detalhar irregularidades que comprometam a gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "1º",
+              "descricao": "Regulamenta o julgamento das contas pelo Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Define os tipos de julgamento das contas."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "24",
+              "descricao": "Refere-se a determinações para o atendimento de normas legais."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "72, II",
+              "descricao": "Estabelece condições para a quitação das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual administração, de responsabilidade do Sr. Ulisses Tapajós Neto , sob pena das contas do próximo exercício serem julgadas irregulares, nos termos do artigo 22, III, 'b' e 'c', da Lei Estadual n.º 2.423/96, que: 9.2.1. Adote medida de controles quanto às informações a serem prestadas a esta Corte de Contas por meio do sistema E-contas; 9.2.2. Reveja os procedimentos de parametrização e conciliação entre as entradas e saídas dos materiais de estoques e incorporação e desincorporação de bens com o sistema de registro contábil, a fim de atender o disposto nos art. 63 e 104 da Lei n° 4320/64; 9.2.3. Realize ações no sentido de que as operações de crédito e alienações de bens sejam contabilizadas na mesma unidade gestora que se realizou o fato gerador, a fim de atender o disposto nos art. 89, 104 e 105 da Lei n° 4.320/64; 9.2.4. Agilizar e efetuar seus pagamentos dentro do prazo contratual, evitando assim juros e multas; 9.2.5. Adeque o quantitativo de servidores ocupantes de cargo em comissão ao número de vagas disponível na Lei Delegada nº 10 de 2013; 9.2.6. Realize um estudo de economicidade quanto à locação dos veículos para realização de suas atividades da Secretaria e que seja demonstrado nas futuras Prestações de Contas; 9.2.7. Desvincule a Subsecretaria de Controle Interno da SEMEF, elevando-a ao Status de Secretaria, tudo em conformidade com o Termo de Ajustamento de Gestão (TAG) firmado por este Tribunal com a SEMEF (Processo n° 14447/2016, homologado na 4º Sessão Ordinária do Tribunal Pleno, em 14/02/2017); 9.2.8. Reveja o procedimento quanto à execução orçamentária dos processos que exigem empenhos globais, a fim de atender o parágrafo 3º do art. 60 da Lei n° 4.320; 9.2.9. Proceda a adoção do sistema integrado de administração e controle previsto no inciso III, parágrafo único, art. 48, da Lei Complementar n° 131/2009 cujo prazo para implantação expirou desde 31/05/2010, tendo em vista que esta ferramenta solucionará de vez os problemas de natureza contábil",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote  medida  de  controles  quanto  às  informações  a serem  prestadas  a  esta  Corte  de  Contas  por  meio  do sistema E-contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho descreve a necessidade de adotar medidas de controle para o envio adequado de informações ao TCE por meio do sistema E-contas, o que está diretamente relacionado ao tema de Documentos e Envio de Informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Reveja os procedimentos de parametrização e conciliação entre as entradas e saídas dos materiais de estoques e incorporação e desincorporação de bens com o sistema de registro contábil, a fim de atender o disposto nos art. 63 e 104 da Lei n° 4320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A necessidade de rever os procedimentos para conciliar as entradas e saídas de materiais de estoque com o sistema de registro contábil indica uma deficiência no controle patrimonial e contábil dos bens, tornando o trecho relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 4320/64",
+              "artigo": "63",
+              "descricao": "Regulamenta a execução orçamentária e financeira da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Lei n° 4320/64",
+              "artigo": "104",
+              "descricao": "Dispõe sobre o controle patrimonial dos bens públicos."
+            },
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Realize ações no sentido de que as operações de crédito e alienações de bens sejam contabilizadas na mesma unidade gestora que se realizou o fato gerador, a fim de atender o disposto nos art. 89, 104 e 105 da Lei n° 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de registro no e-contas;",
+          "descricao": "Inobservancia do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A necessidade de ações para contabilizar corretamente as operações de crédito e alienações na mesma unidade gestora que realizou o fato gerador indica uma falha na contabilidade e no controle financeiro, tornando o trecho relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 4.320/64",
+              "artigo": "89",
+              "descricao": "Dispõe sobre a escrituração contábil das operações financeiras."
+            },
+            {
+              "norma": "Lei n° 4.320/64",
+              "artigo": "104",
+              "descricao": "Estabelece normas para o controle patrimonial."
+            },
+            {
+              "norma": "Lei n° 4.320/64",
+              "artigo": "105",
+              "descricao": "Define a responsabilidade pelo controle dos bens patrimoniais."
+            },
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Agilizar e efetuar seus pagamentos dentro do prazo contratual, evitando assim juros e multas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "O trecho denota uma gestão financeira inadequada, com pagamentos fora do prazo contratual e incidência de juros e multas. Traz implicações negativas para a gestão orçamentária e financeira.",
+          "fundamentacao_legal": [
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Adeque o quantitativo de servidores ocupantes de cargo em comissão ao número de vagas disponível na Lei Delegada nº 10 de 2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A7B",
+          "tipologia_irregularidade": "Excesso de cargos comissionados",
+          "descricao": "Excesso de cargos comissionados",
+          "justificativa_tipologia": "Exigência de adequação do número de servidores em comissão ao limite legal, indicando um problema na gestão de pessoal.",
+          "fundamentacao_legal": [
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Realize um estudo de economicidade quanto à locação dos veículos para realização de suas atividades da Secretaria e que seja demonstrado nas futuras Prestações de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "Necessidade de estudo sobre a economicidade na locação de veículos, indicando uma preocupação com a gestão eficiente dos recursos.",
+          "fundamentacao_legal": [
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Desvincule a Subsecretaria de Controle Interno da SEMEF, elevando-a ao Status de Secretaria, tudo em conformidade com o Termo de Ajustamento de Gestão (TAG) firmado por este Tribunal com a SEMEF (Processo n°  14447/2016, homologado na 4º  Sessão Ordinária  do Tribunal Pleno, em 14/02/2017)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A elevação do status do controle interno à Secretaria demonstra uma tentativa de fortalecer a função, reconhecendo suas deficiências estruturais.",
+          "fundamentacao_legal": [
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Reveja o procedimento quanto à execução orçamentária dos processos que exigem empenhos globais, a fim de atender o parágrafo 3º do art. 60 da Lei n° 4.320",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A18A",
+          "tipologia_irregularidade": "Concessão de benefícios fiscais indevidos",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "Rever procedimentos de execução orçamentária de processos que exigem empenhos globais aponta para falhas no controle financeiro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 4.320",
+              "artigo": "60",
+              "descricao": "Dispõe sobre a elaboração e o controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        },
+        {
+          "trecho": "Proceda a adoção do sistema integrado de administração e controle previsto no inciso III, parágrafo único, art. 48, da Lei Complementar n° 131/2009 cujo prazo para implantação expirou desde 31/05/2010, tendo em vista que esta ferramenta solucionará de vez os problemas de natureza contábil",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "Adotar sistema integrado de administração e controle indica uma preocupação em melhorar a eficiência e transparência da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n° 131/2009",
+              "artigo": "48",
+              "descricao": "Estabelece normas para a divulgação de informações relativas à gestão orçamentária e financeira da União, Estados e Municípios."
+            },
+                        {
+              "norma": "Lei Estadual n.º 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Refere-se às condições para o julgamento das contas como irregulares em caso de descumprimento de determinações."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "acordao": "596/2014",
+  "processo": "11149/2014",
+  "data_sessao": "30 de setembro de 2014",
+  "orgao": "Câmara Municipal de Nhamundá",
+  "municipio": "Nhamundá",
+  "exercicio": "2013",
+  "responsavel": [
+    "Antônio Magalhães Tavares Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas da Câmara Municipal de Nhamundá, referente ao exercício de 2013, sob a responsabilidade do Sr. Antônio Magalhães Tavares Neto, Presidente da Câmara e Ordenador de Despesas, nos termos  do  inciso  II  do art. 1º; inciso  II do art. 22,  dando-se  quitação  ao  citado Responsável, condicionado ao atendimento do art. 24 e do inciso II do art. 72, todos da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas da Câmara Municipal de Nhamundá, referente ao exercício de 2013, sob a responsabilidade do Sr. Antônio Magalhães Tavares Neto, Presidente da Câmara e Ordenador de Despesas, nos termos  do  inciso  II  do art. 1º; inciso  II do art. 22,  dando-se  quitação  ao  citado Responsável, condicionado ao atendimento do art. 24 e do inciso II do art. 72, todos da Lei nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Este trecho determina o julgamento das contas como regulares com ressalvas, condicionando a quitação ao atendimento de outros artigos da mesma lei, o que indica que houve apontamentos e exige o cumprimento de exigências legais, por isso a tipologia contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º",
+              "descricao": "Define as responsabilidades dos gestores de recursos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Define as responsabilidades dos gestores de recursos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "24",
+              "descricao": "Define as responsabilidades dos gestores de recursos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "72",
+              "descricao": "Define as responsabilidades dos gestores de recursos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Não atrase o envio das informações ao sistema ACP, bem como o seu  adequado  preenchimento,  nos  termos  da  Resolução  07/02-TCE,  c/c  Resolução 10/2012-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Não atrase o envio das informações ao sistema ACP, bem como o seu  adequado  preenchimento,  nos  termos  da  Resolução  07/02-TCE,  c/c  Resolução 10/2012-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O texto determina que o jurisdicionado não atrase o envio de informações ao sistema ACP, o que está diretamente relacionado ao tema de envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 07/02-TCE",
+              "artigo": "null",
+              "descricao": "Estabelece normas para o envio de informações ao sistema ACP."
+            },
+            {
+              "norma": "Resolução 10/2012-TCE/AM",
+              "artigo": "null",
+              "descricao": "Estabelece normas para o envio de informações ao sistema ACP."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Façam  parte  dos  processos  administrativos  de  licitação as designações  da  comissão  de  licitação, bem  como  as  rubricas  dos  licitantes nos documentos e propostas, nos termos do art. 38 da Lei 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Façam  parte  dos  processos  administrativos  de  licitação as designações  da  comissão  de  licitação, bem  como  as  rubricas  dos  licitantes nos documentos e propostas, nos termos do art. 38 da Lei 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "O texto trata da formação das comissões de licitação, se enquadrando em processo licitatório",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "38",
+              "descricao": "Dispõe sobre o processo administrativo de licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Cumpra o inciso VI do art. 38 da Lei 8.666/93, no que tange aos pareceres jurídicos sobre licitação, dispensa ou inexigibilidade devidamente elaborados",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra o inciso VI do art. 38 da Lei 8.666/93, no que tange aos pareceres jurídicos sobre licitação, dispensa ou inexigibilidade devidamente elaborados",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A5B",
+          "tipologia_irregularidade": "Restrição do caráter competitivo de certame licitatório",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A deliberação determina o cumprimento do art. 38 da Lei 8.666/93 em relação aos pareceres jurídicos, o que está relacionado à regularidade dos processos licitatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "38",
+              "descricao": "Dispõe sobre o processo administrativo de licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Observe, por último, que a reincidência do agente responsável no cumprimento  das  determinações  ora  veiculadas  acarretará  o  julgamento  das  suas respectivas Contas irregulares, conforme prevê a alínea 'e' do inciso III do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe, por último, que a reincidência do agente responsável no cumprimento  das  determinações  ora  veiculadas  acarretará  o  julgamento  das  suas respectivas Contas irregulares, conforme prevê a alínea 'e' do inciso III do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "O texto avisa sobre a consequência da reincidência no descumprimento das determinações, o que implica uma falha no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "Dispõe sobre o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  próxima  comissão  de  inspeção  que  verifique  o cumprimento das determinações ora veiculadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  próxima  comissão  de  inspeção  que  verifique  o cumprimento das determinações ora veiculadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "O texto determina que a próxima comissão de inspeção verifique o cumprimento das determinações, garantindo que o controle interno seja efetivo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Aplicar  multa ao  Sr.  Antônio Magalhães Tavares Neto, Presidente da Câmara e Ordenador de Despesas, exercício de 2013, no valor de R$ 2.184,06 (dois mil cento e oitenta e quatro reais e seis centavos), R$1.092,03 x 2 meses (abril e maios), na  forma  do  inciso  II  do  art.  308  da  Resolução  4/2002  (RITCE/AM),  em  razão  de inobservância de prazos regulamentares para remessa ao Tribunal, por meio informatizado de informações (irregularidade '1')",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  Sr.  Antônio Magalhães Tavares Neto, Presidente da Câmara e Ordenador de Despesas, exercício de 2013, no valor de R$ 2.184,06 (dois mil cento e oitenta e quatro reais e seis centavos), R$1.092,03 x 2 meses (abril e maios), na  forma  do  inciso  II  do  art.  308  da  Resolução  4/2002  (RITCE/AM),  em  razão  de inobservância de prazos regulamentares para remessa ao Tribunal, por meio informatizado de informações (irregularidade '1')",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O texto descreve a aplicação de multa devido à inobservância de prazos para remessa de informações, o que se enquadra na tipologia de envio de balancetes fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Dispõe sobre a aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "PRAZO",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres da Fazenda Estadual do valor das multas impostas, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96,  c/c  o  §4°  do  art.  174 da  Resolução  4/2002  (RI-TCE/AM),  corrigido monetariamente, caso o recolhimento ocorra fora do  prazo determinado (art. 55 da Lei 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres da Fazenda Estadual do valor das multas impostas, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96,  c/c  o  §4°  do  art.  174 da  Resolução  4/2002  (RI-TCE/AM),  corrigido monetariamente, caso o recolhimento ocorra fora do  prazo determinado (art. 55 da Lei 2.423/96)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho trata da fixação de um prazo para recolhimento de valores aos cofres públicos, um processo relacionado à execução financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72",
+              "descricao": "Dispõe sobre o recolhimento de multas aos cofres da Fazenda Estadual."
+            },
+            {
+              "norma": "Resolução 4/2002 (RI-TCE/AM)",
+              "artigo": "174",
+              "descricao": "Dispõe sobre o recolhimento de multas aos cofres da Fazenda Estadual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a correção monetária de recolhimentos fora do prazo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "REMETE",
+      "descricao": "Remeter os  autos  à  Dicrex  para  que  efetue  os  procedimentos previstos no art. 1º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução.",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeter os  autos  à  Dicrex  para  que  efetue  os  procedimentos previstos no art. 1º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "O texto determina o envio dos autos à Dicrex para procedimentos específicos, o que está relacionado a processos de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "1",
+              "descricao": "Dispõe sobre os procedimentos a serem efetuados pela Dicrex."
+            },
+            {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "5",
+              "descricao": "Dispõe sobre os procedimentos a serem efetuados pela Dicrex."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

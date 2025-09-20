@@ -1,0 +1,98 @@
+{
+  "acordao": "496/2019",
+  "processo": "11169/2017",
+  "data_sessao": "11 de Junho de 2019",
+  "orgao": "Câmara Municipal de Carauari",
+  "municipio": "Carauari",
+  "exercicio": "2016",
+  "responsavel": [
+    "João Dantas de Brito Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas do Sr. João Dantas de Brito Neto, com fundamento no art. 22, III, b e §1º, da Lei Estadual nº. 2423/96, responsável pelas Contas da Câmara Municipal De Carauari, exercício financeiro de 2016",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. João Dantas de Brito Neto no valor de R$ 6.827,20 (seis mil, oitocentos e vinte e sete reais e vinte centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com fundamento no Art. 308, I, a, da Resolução nº 04/2002 deste TCE/AM, relativa ao descumprimento do prazo de envio dos balancetes referentes ao período de Janeiro a Abril de 2016.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. João Dantas de Brito Neto no valor de R$ 15.000,00 (quinze mil reais), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo FAECE, face à as impropriedades elencadas nos itens 12, 13, 19, 24, 26, 27, 28 e 29 do Voto, as quais demonstram práticas de atos com grave infração às normais de natureza contábil, financeira, orçamentária, operacional e patrimonial, nos termos do artigo 54, II, da Lei Estadual nº 2.423/96, c/c art.308, VI, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a todos os Presidentes, atual e futuros, da Câmara Municipal de Carauari que: Que promovam o devido levantamento e controle de todos os valores registrados na referida rubrica 'Outros Créditos a receber de curto prazo', iniciando, caso ainda possível, o procedimento de recuperação desses valores ao Erário, conforme elencado no subitem 14.7",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a todos os Presidentes, atual e futuros, da Câmara Municipal de Carauari que: Que adotem providências quanto à regularização do montante de R$ 30.227,42 registrado na rubrica 'Saldo para o Exercício Seguinte', bem como apurem a devida responsabilização dos que deixaram de liquidar as despesas obrigatórias nos exercícios anteriores, via Ação de Regresso contra os mesmos na forma do art. 42 da LRF, conforme item 15",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a todos os Presidentes, atual e futuros, da Câmara Municipal de Carauari que: Mantenham e apresentem toda a documentação comprobatória das despesas com diárias, de modo a permitir que se evitem essas inconsistências em próximas inspeções, conforme subitens 16.3 e 17.6",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a todos os Presidentes, atual e futuros, da Câmara Municipal de Carauari que: Que adotem procedimentos mais claros, registráveis e seguros dos procedimentos de justificação e abono das faltas de seus membros, de modo a possibilitar, nas próximas inspeções, o efetivo controle de seus atos, conforme subitem 18.6",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a todos os Presidentes, atual e futuros, da Câmara Municipal de Carauari que: Que mantenham sistema coerente, atualizado e eficiente de transparência e controle, sobretudo quanto ao Relatório de Gestão Fiscal, conforme subitem 23.4",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a todos os Presidentes, atual e futuros, da Câmara Municipal de Carauari que: Que observem os prazos legais de remessa dos balancetes mensais e RREO, a este Tribunal, via eContas, e os prazos legais de publicação do Relatório de Gestão Fiscal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a todos os Presidentes, atual e futuros, da Câmara Municipal de Carauari que: Que observem a Lei de Licitações quanto aos procedimentos do certame licitatório, notadamente a necessidade de contratação, procedimento formal de dispensa e ritos específicos das modalidades licitatórias",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar: A inclusão, no plano de inspeção da Comissão competente, a verificação do cumprimento, pela Câmara Municipal de Carauari, do cumprimento da medida recomendada no subitem 14.7, bem como do cumprimento dos prazos contidos no subitem 30.6",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar: Que a Câmara Municipal de Carauari promova a efetiva criação de um sistema de controle interno específico para o Legislativo local, que o exercício do mesmo seja mais diligente e preciso nos registros contábeis e documentais daquele órgão, de modo a evitar incoerências, omissões e erros, passíveis, em caso de notória repetição, de sanção, conforme itens 20 e 24.5",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar: Que a Comissão de Inspeção competente, ao longo de suas atividades, analise, criteriosamente, a existência de casos com potencialidade nepotismo, seja ele direto, seja indireto, nos termos mencionados nesse voto, conforme subitem 21.7",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar: Que, nas próximas inspeções a serem realizadas no Poder Legislativo de Coari, a Comissão competente atente à reincidência no descumprimento das recomendações e determinações formuladas acima, sob pena do disposto no artigo 188, III, 'e', da Resolução nº04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Concessão de Prazo",
+      "descricao": "Conceder Prazo a Câmara Municipal de Carauari, de 120 dias, para: Dê início aos atos de realização de concurso público para dar provimento aos cargos públicos de provimento efetivo ainda vagos, concretizando a regra constitucional de proporcionalidade entre os cargos comissionados e os cargos públicos de provimento efetivo, conforme item 19",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Concessão de Prazo",
+      "descricao": "Conceder Prazo a Câmara Municipal de Carauari, de 120 dias, para: Dê início aos atos de realização de concurso público ou, caso não existam os respectivos cargos, aos atos de criação desses cargos públicos de provimento efetivo, para as atividades de Consultoria/Assessoramento Contábil e Jurídico, bem quaisquer outras relativas a terceirizações ilícitas em atividades-fim da Administração Pública, conforme item 22.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. João Dantas de Brito Neto, encaminhando com cópia do Relatório/Voto e deste Acórdão para ciência do decisório e, querendo, apresentar o devido recurso no prazo legal.",
+      "trechos_identificados": []
+    }
+  ]
+}

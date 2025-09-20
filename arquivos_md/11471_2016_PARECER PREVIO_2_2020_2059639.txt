@@ -1,0 +1,286 @@
+{
+  "acordao": "2/2020",
+  "processo": "11471/2016",
+  "data_sessao": "10 de Março de 2020",
+  "orgao": "Prefeitura Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2015",
+  "responsavel": [
+    "Xinaik Silva de Medeiros",
+    "Maria Madalena de Jesus Souza",
+    "Andre Maciel Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Prefeitura Municipal de Iranduba, exercício 2015, sob a responsabilidade do Sr.Xinaik Silva de Medeiros , Prefeito e Ordenador de Despesas, período de 01/01/2015 a 10/11/2015, em decorrência de atos praticados com grave infração às normas legais em relação à todas as impropriedades não sanadas do relatório conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405) e a Aprovação com Ressalvas Prestação de Contas Anual da Prefeitura Municipal de Iranduba , exercício 2015, sob a responsabilidade do Sra. Maria Madalena de Jesus  Souza , Prefeita  e  Ordenadora  de  Despesas,  período  de 11/11/2015 a 31/12/2015.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Xinaik Silva de Medeiros no valor de R$5.698.604,60 (cinco  milhões,  seiscentos  e  noventa  e  oito  mil, seiscentos e quatro reais e sessenta centavos), nos moldes do art. 304, III, que  devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão Prefeitura  Municipal  de  Iranduba  pelas  despesas  não  comprovadas, conforme relatório da DICAMI nº102/2019:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Na restrição 04, verificou-se a ausência de retenção de ISS, IR e INSS em diversos pagamentos, conforme lista apresentada pela Comissão. O montante não recolhido chegou a R$72.330,06 (setenta e dois mil, trezentos e trinta reais e seis centavos). O Não recolhimento provocou danos ao erário, uma vez que foram pagos os valores integrais ao Fornecedor sem os devidos descontos tributários. Neste sentido, concordo com os Órgãos instrutores em considerar em alcance o valor e R$ 72.330,06 ,  com  base  no  art.  304,  inciso  III,  da  Resolução  nº 04/2002-Regimento Interno do TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Na restrição 04, verificou-se a ausência de retenção de ISS, IR e INSS em diversos pagamentos, conforme lista apresentada pela Comissão. O montante não recolhido chegou a R$72.330,06 (setenta e dois mil, trezentos e trinta reais e seis centavos). O Não recolhimento provocou danos ao erário, uma vez que foram pagos os valores integrais ao Fornecedor sem os devidos descontos tributários.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho descreve a ausência de retenção de impostos, resultando em despesas sem o devido processo legal, o que se enquadra na tipologia de Despesas sem prévio empenho.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-Regimento Interno do TCE",
+              "artigo": "304",
+              "descricao": "Considerar em alcance o valor de R$ 72.330,06 devido à ausência de retenção de impostos, com base no art. 304, inciso III."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Na  restrição  19,  apurou-se  a  ausência  de  comprovação  de despesas  no  valor  de R$  5.626.274,54 referente  aos  gastos com FOPAG`S/FUNDEB 40%. O Gestor apresentou como total de  dispêndio  o  valor  de R$  17.461.091,37 .  Acontece  que  a Comissão ao analisar as folhas de pagamento de pessoal com os recursos do FUNDEB 40% identificou apenas a comprovação de dispêndio no valor de R$ 11.834.816,83 ,  ou seja, ocorrendo uma despesa sem comprovação no valor de R$ 5.626.274,54 . Neste sentido, concordo com os Órgãos instrutores em considerar em alcance o valor e R$ 5.626.274,54 , com base no art. 304, inciso III, da Resolução nº 04/2002-Regimento Interno do TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Na  restrição  19,  apurou-se  a  ausência  de  comprovação  de despesas  no  valor  de R$  5.626.274,54 referente  aos  gastos com FOPAG`S/FUNDEB 40%. O Gestor apresentou como total de  dispêndio  o  valor  de R$  17.461.091,37 .  Acontece  que  a Comissão ao analisar as folhas de pagamento de pessoal com os recursos do FUNDEB 40% identificou apenas a comprovação de dispêndio no valor de R$ 11.834.816,83 ,  ou seja, ocorrendo uma despesa sem comprovação no valor de R$ 5.626.274,54 .",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A6B",
+          "tipologia_irregularidade": "Despesas com recursos do FUNDEB estranhas à Manutenção e Desenvolvimento do Ensino - MDE (não de folha)",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "O trecho descreve a ausência de comprovação de despesas no valor de R$ 5.626.274,54 referente aos gastos com FOPAG`S/FUNDEB 40%, indicando a utilização de recursos do FUNDEB para despesas não comprovadas, o que se enquadra na tipologia de Despesas com recursos do FUNDEB estranhas à Manutenção e Desenvolvimento do Ensino - MDE (não de folha).",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-Regimento Interno do TCE",
+              "artigo": "304",
+              "descricao": "Considerar em alcance o valor de R$ 5.626.274,54 devido à ausência de comprovação de despesas com recursos do FUNDEB, com base no art. 304, inciso III."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Xinaik Silva de Medeiros ,  Prefeito e Ordenador de Despesas, período de 01/01/2015 a 10/11/2015, no valor de R$ 1.067.739,90 (um milhão, sessenta e sete mil, setecentos e trinta e nove reais e noventa centavos) que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Iranduba, nos moldes do art. 304, I e III, da Resolução nº 04/2002-TCE/AM, pelas despesas não comprovadas, conforme relatório da DICOP nº 54/2017;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária o Sr. Andre Maciel Lima , Secretário Municipal de Infraestrutura de Iranduba/Am Exercício  2015  -  Período:  de  01/01/2015  a  10/11/2015  (Fiscal  de Obras) no valor de R$ 1.067.739,90 (um milhão, sessenta e sete mil, setecentos e trinta e nove reais e noventa centavos)   e as Empresas, conforme valores abaixo, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Iranduba, nos moldes do art. 304, I e  III, da  Resolução  nº  04/2002-TCE/AM,  pelas  despesas  não comprovadas, conforme relatório da  DICOP nº 54/2017.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 146.727,40 (cento e quarenta e seis mil reais, setencentos e  vinte  e  sete  reais  e  quarenta  centavos),  Empresa  Alves Instalação e Manutenção Elétrica Ltda -ME  CNPJ: 02.729.710/0001-82;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 49.502,85 (quarenta e nove mil, quinhentos e dois reais e oitenta e dois centavos), Empresa CK Comércio de Equipamentos  de  Informática  e  Construções  LTDA  -  CNPJ: 19.685.204/0001-31;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$  87.154,85 (oitenta  e  sete  mil,  cento  e  cinquenta  e  quatro reais e oitenta e cinco centavos), Empresa Oliveira e Martins Empreendimentos e Projetos LTDA - CNPJ: 10.779.246/000167;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 126.280,60 (cento e vinte seis mil, duzentos e oitenta reais e  sessenta  centavos),  Empresa  Costa  Construções  LTDA  CNPJ: 21.405.909/0001-08;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 148.684,08 (cento e quarenta e oito mil, seiscentos e oitenta e  quatro  reais  e  oito  centavos),  Empresa  Kapef  Transporte Escolar Industrial LTDA - ME - CNPJ: 07.322.675/0001-04;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 51.585,97 (cinquenta e um mil, quinhentos e oitenta e cinco reais e noventa e sete centavos), Emprsa Costa e Figueiredo Serviço e Comércio de Materiais de Construção LTDA - EPP CNPJ: 10.671.929/0001-04;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 50.242,49 (cinquenta mil, duzentos e quarenta e dois reais e  quarenta  e  nove  centavos),  Empresa,  CT  Comércio  de Mármores  e  Granitos  e  Construções  LTDA  -  EPP  -  CNPJ: 23.013.691/0001-63;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 18.400,00 (dezoito mil  e quatrocentos), Empresa  Amazon Topografia e Logística de Selva LTDA -CNPJ: 05.789.796/0001-27;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 71.995,25 (setenta e um mil, novecentos e noventa e cinco reais e vinte e cinco centavos), Empresa DP Barbosa Produção Florestal - CNPJ: 10.517.764/0001-02;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$ 59.677,60 (cinquenta e nove mil, seiscentos e setenta e sete reais e sessenta centavos), Empresa Souza E Prestes Construções LTDA - CNPJ: 13.050.617/0001-63;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$  147.055,22 (cento  e  quarenta  e  sete  mil,  cinquenta  e cinco reais e vinte e dois centavos, Empresa Souza e Prestes Construções LTDA - CNPJ: 13.050.617/0001-63;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance Solidário",
+      "descricao": "R$  110.433,59 (cento  e  dez  mil,  quatrocentos  e  trinta  e  três reais e cinquenta e nove centavos) Moura e Oliveira Construções LTDA - *CNPJ: 13.050.617/0001- 63;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Xinaik  Silva  de  Medeiros no  valor  de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta um reais e vinte e oito centavos), nos termos do inciso VI do art. 308 da Resolução nº 4/2002  (RITCE/AM),  com  base  no  valor  disciplinado  à  época,  em decorrência de atos praticados com grave infração às normas legais relação  a  todas  as  impropriedades  não  sanadas  evidenciadas  no Relatório Conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Inabilitar o Sr. Xinaik Silva de Medeiros por 05 (cinco) anos para o exercício de cargo em comissão ou função de confiança dos órgãos da administração estadual;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Xinaik Silva de Medeiros , Sra. Maria Madalena de Jesus Souza Sr. André Maciel Lima , e as Empresas envolvidas sobre a decisão deste Tribunal Pleno;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Enviar  de  cópia  do  Relatório  da  DICAMI  nº  102/2019,    (fls. 3.471-3.502/5562),    do  Relatório  Conclusivo  nº  54/2017  da DICOP, (fls. 3.160-3.405) e do Parecer Ministerial Parecer nº 4861/2019-MPC-EMFA (fls. 3.503-3.512) esta Proposta de Voto ao Ministério Público Estadual para o ajuizamento das ações civis e penais cabíveis, conforme previsto na alínea 'b' do inciso III do art. 190 da Resolução 4/2002 (RITCE/AM);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Remeter os autos à DERED para que efetue os procedimentos previstos no art. 3º da Resolução nº 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações  de  conta,  esclarecendo  que  a  inobservância destes prazos compromete o planejamento dos trabalhos de campo,  passível  de  responsabilização  com  a  consequente aplicação de multas por cerceamento do exercício do controle externo;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Mantenha todos os documentos contábeis, jurídicos, processos licitatórios e os comprovantes de despesas na sede da Prefeitura, sob pena de novamente a despesa executada ser glosada por este TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Mantenha os registros e controles, além de toda documentação referente aos atos e fatos contábeis pertinentes ao Grupo de Contas Genéricas (Resolução CFC N.º  1.133/08  -  Aprova  a  NBC  T  16.6  -  Demonstrações Contábeis)  como  forma  de  atender  às  regras  de  direito financeiro  definidas  pela  Lei  Federal  nº  4.320/64,  de  cuja inobservância  acarretarão  a  não  aceitação  das  justificativas futuras,  com  consequente  responsabilização  e  reflexos  nas prestações de contas respectivas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Apresente perante esta Corte de Contas, quanto ao cumprimento das determinações no sentido de exonerar os servidores  apontados  nesta  impropriedade,  das  medidas adotadas e dos resultados alcançados sob pena de descumprimento  de  determinação.  O  descumprimento  das determinações  quanto  à  cessação  dos  casos  envolvendo nepotismo poderão acarretar a devolução, por parte do chefe daquele  poder,  dos  valores  pagos  a  título  de  vencimentos referentes aos servidores na condição de nepotismo;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe  as  normas  pertinentes aos registros contábeis derivados dos atos decorrentes de repasses de indenizações e restituições de forma que o suporte documental necessário esteja intimamente pautado em documentos fidedignos e que afastem quaisquer dúvidas acerca da operação ocorrida não cabendo  como  documentos  probatórios  recibos  sem  estar acompanhados dos respectivos extratos bancários;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhe  pelo  sistema SAP  os  dados  necessários à apreciação da legalidade dos atos de pessoal pelo Tribunal de Contas do Estado do Amazonas, observando o disposto na Resolução TCE/AM nº 16/2009;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Implemente  rotinas de controle suficientes para manter atualizados os registros funcionais dos servidores;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe rigorosamente as regras da Lei municipal nº 106/1993,  art.  1º  e  2º,  inciso  I,  com  as  alterações  da  Lei municipal nº 162/2001, em relação as prestações de contas das diárias do Poder Executivo;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Não atrase o envio das informações ao sistema e-contas, bem como  o seu adequado preenchimento, nos termos da Resolução nº 07/02-TCE, c/c Resolução nº 10/2012-TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhe no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei estadual nº 2.423/96 e do §1º da Resolução nº 11/2009 c/c §3º do art. 165 da CF/88;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Dê  publicidade  aos  Relatórios  de  Gestão  Fiscal  (RGF)  e Resumidos da Execução Orçamentária (RREO), dentro dos prazos estipulados pelo art. 52, c/c o §2º do art. 55, sob pena de multa por prática de infração administrativa (art. 5º da Lei federal nº 10.028/2000), quanto aos RGF;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Adote os procedimentos necessários à identificação e quantificação  dos  valores  individualizada  dos  contribuintes devedores, para cobrança por meio de processos administrativos e/ou judiciais, sob pena da sanções do §1º do art. 22, da Lei estadual n.º 2.423/96 (Lei Orgânica do TCE/AM) c/c a alínea 'e' do inc. III do § 1º do art. 188 da Resolução nº 04/2002 do TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações  de  conta  pela  Câmara  Municipal  sob  pena  de responsabilização;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Nas licitações e contratos observe todas as regras estipuladas pela  Lei  federal  nº  8.666/93,  tais  como  as  relacionadas  ao: orçamento analítico (art.  6º, IX, 'f'  c/c  art.  7º,  §  2º,  II  da  lei 8.666/93), projetos arquitetônicos (art. 6º, IX, 'e' c/c art. 40, § 2º, I, da Lei federal nº 8666/93), diário de obra ou documento equivalente (art. 67, §1º, da Lei federal nº 8.666/93), laudo de vistoria (art. 67, §1º, da Lei federal nº 8.666/93), projeto básico aprovado pela autoridade competente (art. 6º, IX c/c art. 7º, § 2º, I, II, III, IV da Lei federal nº 8.666/93), entre outras;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Realize procedimento licitatório, nos termos do art. 2º da Lei federal nº 8.666/93;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Utilize a modalidade licitatória conforme o caso, a fim de não violar o §5º do art. 23 da Lei federal nº 8.666/93;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Adote as medidas necessárias para a realização de concurso público, nos termos do inciso II do art. 37 da CF/88;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Atenda ao art. 45 da Constituição Estadual c/c art. 43 da Lei nº 2.423/96 que estabelece a Criação de Controle Interno no âmbito Municipal;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Cumpra os art. 48 e 48-A da Lei Complementar n.º 101/2000, alterada pela Lei Complementar nº 131/2009 c/c inciso II, art. 34 da Lei estadual nº 2.423/96 que estabelece a obrigatoriedade de observância dos instrumentos de transparência  da  gestão  fiscal,  aos  quais  será  dada  ampla divulgação, inclusive em meios eletrônicos de acesso público;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Cumpra com rigor a Lei federal nº 8.666/93 em especial: a) formalização  do  procedimento  de  licitação,  dispensa  e/ou inexigibilidade;  b)  Formalização  dos  Contratos  firmados;  c) Conste nos autos o Decreto de nomeação da Comissão de Licitação;  d)  Que  faça  constar  nas  notas  de  empenho  no mínimo; d.1) número do processo e modalidade de licitação; d.2) elemento de despesa, sub elemento, classificação econômica, fonte, saldo do empenho; d.3) nome empresarial do credor e a CNPJ do credor; d.4) campo específico do valor unitário e quantidade; d.5) número do empenho sequencial e crescente; e) Que  os  processos  de  pagamentos  sejam numerados  sequencialmente  e  estejam  acompanhado  das respectivas nota fiscais, ordem bancárias, nota de liquidação da despesa,  certidões negativas do credor etc.;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe as regras relacionadas à Lei federal nº 4.320/64, em especial as regras que tratam do patrimônio (capítulo III);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Atenda com rigor os artigos 14, 16, 20 e 26 da Lei federal nº 8.666/93  que  versam  sobre  as  compras  da  Administração Pública,  bem  como  da  formalização  dos  processos  nos moldes previstos no art. 38 do mesmo diploma legal;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe, por último, que a reincidência, nas próximas Prestações  de  Contas,  das  determinações  ora  veiculadas, acarretará o julgamento da irregularidade da respectiva Conta, conforme prevê a alínea 'e' do inciso III do § 1º do art. 188 do Regimento Interno/TCE-AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Iranduba o cumprimento no art. 127,  §§  5º,  6º  e  7º,  da  Constituição  do  Estado  do  Amazonas, em especial o prazo de 60 dias para o julgamento das contas.",
+      "trechos_identificados": []
+    }
+  ]
+}

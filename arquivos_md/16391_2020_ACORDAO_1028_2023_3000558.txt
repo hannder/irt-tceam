@@ -1,0 +1,241 @@
+{
+  "acordao": "1028/2023",
+  "processo": "16391/2020",
+  "data_sessao": "29 de Maio de 2023",
+  "orgao": "Secretaria de Estado de Justiça, Direitos Humanos e Cidadania - SEJUSC",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Louismar de Matos Bonates Junior",
+    "Cícero Romão de Souza Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Secretaria de Estado de Justiça, Direitos Humanos e Cidadania SEJUSC  (U.G: 21101), referente ao exercício de 2014, de responsabilidade do Sr. Louismar de Matos Bonates Junior, Secretário  da  Secretaria  de  Estado  de  Justiça  e  Direitos Humanos (SEJUSC),  nos termos do artigo 1º, inciso II, e artigo 22, inciso  II,  da  Lei  nº.  2423/1996  -  LOTCE;  c/c  o  artigo  188,  §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Secretaria de Estado de Justiça, Direitos Humanos e Cidadania SEJUSC  (U.G: 21101), referente ao exercício de 2014, de responsabilidade do Sr. Louismar de Matos Bonates Junior, Secretário  da  Secretaria  de  Estado  de  Justiça  e  Direitos Humanos (SEJUSC),  nos termos do artigo 1º, inciso II, e artigo 22, inciso  II,  da  Lei  nº.  2423/1996  -  LOTCE;  c/c  o  artigo  188,  §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica julgamento das contas com ressalvas, não descrevendo irregularidade contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II, e artigo 22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Louismar de Matos Bonates Junior, Secretário  da  Secretaria  de  Estado  de  Justiça  e  Direitos Humanos (SEJUSC), nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996  -  LOTCE,  c/c  o  artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Louismar de Matos Bonates Junior, Secretário  da  Secretaria  de  Estado  de  Justiça  e  Direitos Humanos (SEJUSC), nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996  -  LOTCE,  c/c  o  artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "N/A",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho apenas formaliza a quitação do responsável, não indicando irregularidades ou problemas estruturais na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "24 e 72, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "189, inciso II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Secretaria de Estado de Justiça, Direitos Humanos e Cidadania SEJUSC  (U.G: 21101), referente ao exercício de 2014, de responsabilidade do Sr. Cícero Romão de Souza Neto , Secretário de  Executivo  de  Justiça  e  Direitos  Humanos  e  Ordenador  de Despesas, do exercício de 2014, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996  - LOTCE; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Secretaria de Estado de Justiça, Direitos Humanos e Cidadania SEJUSC  (U.G: 21101), referente ao exercício de 2014, de responsabilidade do Sr. Cícero Romão de Souza Neto , Secretário de  Executivo  de  Justiça  e  Direitos  Humanos  e  Ordenador  de Despesas, do exercício de 2014, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996  - LOTCE; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica julgamento das contas com ressalvas, não descrevendo irregularidade contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II, e artigo 22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Cícero Romão de Souza Neto, Secretário de Executivo de Justiça e Direitos Humanos e Ordenador de Despesas, do exercício de 2014, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Cícero Romão de Souza Neto, Secretário de Executivo de Justiça e Direitos Humanos e Ordenador de Despesas, do exercício de 2014, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "N/A",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho apenas formaliza a quitação do responsável, não indicando irregularidades ou problemas estruturais na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "24 e 72, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "189, inciso II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "N/A",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "O trecho em si é apenas uma determinação genérica, sem detalhar nenhuma irregularidade. As irregularidades específicas são detalhadas nos itens seguintes.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §2º",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência  de  esclarecimentos  sobre  a  contratação direta da Fundação Getúlio Vargas para elaborar estudos  técnicos  objetivando  verificar  a  viabilidade  de uma  Parceria Público Privada -PPP,  devendo  o responsável  informar  a  escolha  da  FGV,  encaminhar cópia do procedimento licitatório, justificar o preço (Lei nº. 8.666/1993, artigo 26, parágrafo único, III) e indicar quais  as  consequências  concretas  do  estudo  técnico para a administração pública",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  esclarecimentos  sobre  a  contratação direta da Fundação Getúlio Vargas para elaborar estudos  técnicos  objetivando  verificar  a  viabilidade  de uma  Parceria Público Privada -PPP,  devendo  o responsável  informar  a  escolha  da  FGV,  encaminhar cópia do procedimento licitatório, justificar o preço (Lei nº. 8.666/1993, artigo 26, parágrafo único, III) e indicar quais  as  consequências  concretas  do  estudo  técnico para a administração pública",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "O trecho descreve uma contratação direta sem justificativa clara para a escolha do fornecedor, apontando para uma possível irregularidade na dispensa de licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/1993",
+              "artigo": "26, parágrafo único, III",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência  de  esclarecimentos  sobre  se  os  contratos realizados com a sociedade Umanizzare Gestão Prisional e Serviços Ltda foram precedidos de licitação, identificando a modalidade adotada, bem como encaminhando  cópias  do procedimento licitatório e contrato firmado",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  esclarecimentos  sobre  se  os  contratos realizados com a sociedade Umanizzare Gestão Prisional e Serviços Ltda foram precedidos de licitação, identificando a modalidade adotada, bem como encaminhando  cópias  do procedimento licitatório e contrato firmado",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "O trecho questiona a ausência de informações sobre o processo licitatório, indicando uma possível falta de licitação em casos obrigatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/1993",
+              "artigo": "N/A",
+              "descricao": "Normas para licitações e contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "No  que  tange  à  contratação  da  Fundação  de  Apoio Institucional Rio Solimões  -  UNISOL,  ausência  de esclarecimentos  se  a  contratação foi precedida  de licitação, qual a modalidade, bem como explicar no que consiste o serviço de telemedicina e qual a sua abrangência, encaminhando  cópias dos respectivos procedimentos licitatórios e contratos",
+      "trechos_identificados": [
+        {
+          "trecho": "No  que  tange  à  contratação  da  Fundação  de  Apoio Institucional Rio Solimões  -  UNISOL,  ausência  de esclarecimentos  se  a  contratação foi precedida  de licitação, qual a modalidade, bem como explicar no que consiste o serviço de telemedicina e qual a sua abrangência, encaminhando  cópias dos respectivos procedimentos licitatórios e contratos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "O trecho questiona a ausência de informações sobre o processo licitatório, indicando uma possível falta de licitação em casos obrigatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/1993",
+              "artigo": "N/A",
+              "descricao": "Normas para licitações e contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Com relação à prorrogação do contrato para distribuição de marmitas com o empresário G.H. Macário  Bento,  ausência  de  esclarecimentos  sobre  o número de unidades distribuídas anualmente, encaminhando  imagens  dos  estabelecimentos  e  da respectiva área de produção, encaminhando cópias dos documentos/certidões que comprovarem  terem  sido atendidas  as  exigências  de  habilitação  e  qualificação durante  a  execução  do  contrato  (Lei  nº.  8.666/1993, artigo 55, XIII) e as exigências sanitárias pertinentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Com relação à prorrogação do contrato para distribuição de marmitas com o empresário G.H. Macário  Bento,  ausência  de  esclarecimentos  sobre  o número de unidades distribuídas anualmente, encaminhando  imagens  dos  estabelecimentos  e  da respectiva área de produção, encaminhando cópias dos documentos/certidões que comprovarem  terem  sido atendidas  as  exigências  de  habilitação  e  qualificação durante  a  execução  do  contrato  (Lei  nº.  8.666/1993, artigo 55, XIII) e as exigências sanitárias pertinentes",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "O trecho explicita a ausência de documentos que comprovem a regularidade na execução do contrato e o cumprimento das exigências.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/1993",
+              "artigo": "55, XIII",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "acordao": "9/2020",
+  "processo": "11583/2017",
+  "data_sessao": "06 de Maio de 2020",
+  "orgao": "Prefeitura Municipal de Envira",
+  "municipio": "Envira",
+  "exercicio": "2016",
+  "responsavel": [
+    "Ivon Rates da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar Multa ao Sr. Ivon Rates da Silva no valor de R$10.000,00 (dez mil reais), que deverá no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Ivon Rates da Silva no valor de R$10.000,00 (dez mil reais), que deverá no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A29A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite prudencial de despesa com pessoal.",
+          "justificativa_tipologia": "A aplicação de multa decorre de irregularidades encontradas na gestão fiscal, embora a multa em si não seja uma irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno, evite a reincidência das seguintes impropriedades, em futuras prestações de contas: a) Justificar a ausência da Adoção de Livro, Ficha ou Listagens Computadorizadas para obras e serviços de engenharia realizados pela Prefeitura Municipal de Envira (art. 2º, I da IN nº 27/2012 TCE/AM); b) Justificar a ausência de Diário de Obra ou documento equivalente relativo ao período coberto da obra (art.67, § 1º da Lei 8666/93, art. 1º da Resolução nº 1024/2009 CONFEA (livro de ordem), art. 2º, III da Resolução nº 27/2012 TCE/AM); c) Justificar a ausência de Registros Fotográficos da obra antes evidenciando a necessidade e a realidade encontrada de cada um dos ramais onde houve intervenção; durante de acompanhamento e andamento da realização de cada uma das etapas de realização dos serviços contratados e após demonstrando o estado de conclusão de todos os serviços demonstrando que os mesmos foram fielmente executados conforme especificações (art. 2º, VI da Resolução nº 27/2012-TCE/AM); d) Justificar a prorrogação da execução da obra por 60 (sessenta) dias (1º Termo Aditivo); considerando que o prazo inicialmente contratado foi de 120 (cento e vinte) dias, com a ausência de justificativas e/ou pareceres técnicos e/ou jurídicos que embasassem a formalização dos Aditivos no exercício de 2016. (art. 57 da Lei 8666/93); e) Justificar a ausência do Termo de Recebimento Definitivo (art. 73, I, 'b' da Lei 8666/93 e art. 2º, VI, 'h' da Resolução nº 27/2012 TCE/AM); f) Justificar a ausência de Projetos de Engenharia, Planta de Locação, Perfil Longitudinal e Transversais e Longitudinais, entre outros (desenhos, etc.) que demonstrem de forma clara e objetiva o objeto do Projeto Básico, bem como, os volumes dos quantitativos levantados na planilha orçamentária e posteriormente pagos pela fiscalização da obra (art. 6º, IX, 'e' c/c art. 12 da Lei 8666/93); g) Apresentar justificativas técnicas em relação a todos os profissionais alocados na Administração da Obra, devendo apresentar relação de todos os profissionais da EQUIPE TÉCNICA responsável pela execução da obra, com a cópia das Guias de Recolhimento do Fundo de Garantia por Tempo de Serviço (SEFIP) e Informações à Previdência Social (GFIP).",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno, evite a reincidência das seguintes impropriedades, em futuras prestações de contas: a) Justificar a ausência da Adoção de Livro, Ficha ou Listagens Computadorizadas para obras e serviços de engenharia realizados pela Prefeitura Municipal de Envira (art. 2º, I da IN nº 27/2012 TCE/AM).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A22B",
+          "tipologia_irregularidade": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "descricao": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "justificativa_tipologia": "A ausência de documentação adequada impede o acompanhamento e a fiscalização adequados da execução da obra.",
+          "fundamentacao_legal": [
+            {
+              "norma": "IN nº 27/2012 TCE/AM",
+              "artigo": "2º, I",
+              "descricao": "O artigo 2º, I, da IN nº 27/2012 do TCE/AM estabelece a obrigatoriedade de adoção de livro, ficha ou listagens computadorizadas para obras e serviços de engenharia."
+            }
+          ]
+        },
+        {
+          "trecho": "Justificar a ausência de Diário de Obra ou documento equivalente relativo ao período coberto da obra (art.67, § 1º da Lei 8666/93, art. 1º da Resolução nº 1024/2009 CONFEA (livro de ordem), art. 2º, III da Resolução nº 27/2012 TCE/AM).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A22B",
+          "tipologia_irregularidade": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "descricao": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "justificativa_tipologia": "A ausência do Diário de Obra impede o registro e acompanhamento da execução da obra.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "67, § 1º",
+              "descricao": "O artigo 67, § 1º, da Lei 8666/93 estabelece a obrigatoriedade de acompanhamento e fiscalização da execução dos contratos."
+            },
+            {
+              "norma": "Resolução nº 1024/2009 CONFEA",
+              "artigo": "1º",
+              "descricao": "O artigo 1º da Resolução nº 1024/2009 do CONFEA trata do livro de ordem."
+            },
+            {
+              "norma": "Resolução nº 27/2012 TCE/AM",
+              "artigo": "2º, III",
+              "descricao": "O artigo 2º, III da Resolução nº 27/2012 TCE/AM estabelece a obrigatoriedade do Diário de Obra."
+            }
+          ]
+        },
+        {
+          "trecho": "Justificar a ausência de Registros Fotográficos da obra antes evidenciando a necessidade e a realidade encontrada de cada um dos ramais onde houve intervenção; durante de acompanhamento e andamento da realização de cada uma das etapas de realização dos serviços contratados e após demonstrando o estado de conclusão de todos os serviços demonstrando que os mesmos foram fielmente executados conforme especificações (art. 2º, VI da Resolução nº 27/2012-TCE/AM).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização.",
+          "justificativa_tipologia": "A ausência de registros fotográficos dificulta a comprovação da execução dos serviços contratados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 27/2012-TCE/AM",
+              "artigo": "2º, VI",
+              "descricao": "O artigo 2º, VI da Resolução nº 27/2012-TCE/AM estabelece a obrigatoriedade de registros fotográficos da obra."
+            }
+          ]
+        },
+        {
+          "trecho": "Justificar a prorrogação da execução da obra por 60 (sessenta) dias (1º Termo Aditivo); considerando que o prazo inicialmente contratado foi de 120 (cento e vinte) dias, com a ausência de justificativas e/ou pareceres técnicos e/ou jurídicos que embasassem a formalização dos Aditivos no exercício de 2016. (art. 57 da Lei 8666/93).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16B",
+          "tipologia_irregularidade": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "justificativa_tipologia": "A falta de justificativas e pareceres técnicos e jurídicos para a prorrogação do prazo da obra caracteriza uma falha no planejamento e na gestão contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "57",
+              "descricao": "O artigo 57 da Lei 8666/93 trata da prorrogação dos prazos dos contratos."
+            }
+          ]
+        },
+        {
+          "trecho": "Justificar a ausência do Termo de Recebimento Definitivo (art. 73, I, 'b' da Lei 8666/93 e art. 2º, VI, 'h' da Resolução nº 27/2012 TCE/AM).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "A ausência do Termo de Recebimento Definitivo impossibilita a comprovação da conclusão da obra e da sua conformidade com o contrato.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "73, I, 'b'",
+              "descricao": "O artigo 73, I, 'b' da Lei 8666/93 trata do recebimento definitivo da obra."
+            },
+            {
+              "norma": "Resolução nº 27/2012 TCE/AM",
+              "artigo": "2º, VI, 'h'",
+              "descricao": "O artigo 2º, VI, 'h' da Resolução nº 27/2012 TCE/AM estabelece a obrigatoriedade do Termo de Recebimento Definitivo."
+            }
+          ]
+        },
+        {
+          "trecho": "Justificar a ausência de Projetos de Engenharia, Planta de Locação, Perfil Longitudinal e Transversais e Longitudinais, entre outros (desenhos, etc.) que demonstrem de forma clara e objetiva o objeto do Projeto Básico, bem como, os volumes dos quantitativos levantados na planilha orçamentária e posteriormente pagos pela fiscalização da obra (art. 6º, IX, 'e' c/c art. 12 da Lei 8666/93).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "A ausência de projetos de engenharia impede a definição clara do objeto da obra e dificulta a fiscalização da sua execução.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "6º, IX, 'e' c/c art. 12",
+              "descricao": "O artigo 6º, IX, 'e' c/c art. 12 da Lei 8666/93 estabelece a obrigatoriedade de projeto básico para as obras."
+            }
+          ]
+        },
+        {
+          "trecho": "Apresentar justificativas técnicas em relação a todos os profissionais alocados na Administração da Obra, devendo apresentar relação de todos os profissionais da EQUIPE TÉCNICA responsável pela execução da obra, com a cópia das Guias de Recolhimento do Fundo de Garantia por Tempo de Serviço (SEFIP) e Informações à Previdência Social (GFIP).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "A ausência de comprovação da qualificação técnica dos profissionais responsáveis pela execução da obra impede a verificação da sua capacidade para realizar os serviços contratados.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "A relação apresentada em conformidade com o Manual sobre a GFIP e SEFIP (http://www.informanet.com.br/ sefip.htm), contendo os seguintes elementos mínimos: relações de empregados contrato (mês), documento este gerado pela contratada para o tomador de serviço Municipal de Envira, devendo constar as informações de todos os profissionais envolvidos na execução do objeto contratado, além do salário e os valores recolhidos; Este documento foi assinado digitalmente por MARIO MANOEL COELHO DE MELLO. Para conferência acesse o site http://consulta.tce.am.gov.br/spede e informe o código: 1285BEE1-C29DBF06-EFCD0E1B-A2992DA4",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "A ausência de informações detalhadas sobre os profissionais envolvidos na execução da obra impede a verificação da sua qualificação e do cumprimento das obrigações trabalhistas.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Justificar a execução dos serviços contratados e pagos relativos aos serviços de recuperação de estradas vicinais do Cobrinha - 3,0km, Cabral - 1,60km, Cacau - 4,5km, Espinheiro - 3,0km, São Sebastião - 4,5km, Foz do Envira - 1,0km e Queimada - 6,0km; visto que não consta comprovação da regular aplicação dos recursos, dos serviços executados com seus quantitativos previstos, devido à ausência dos Projetos de Engenharia identificando os volumes de terraplenagem, bem como suas respectivas espessuras das camadas, identificação das jazidas de extração de materiais e ainda a patrulha mecanizada utilizada para realização dos serviços que comprove de forma cabal os serviços contratos, liquidados e pagos no contrato em tela.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "A ausência de comprovação da regular aplicação dos recursos e da execução dos serviços contratados impede a verificação da sua conformidade com o contrato e da sua efetiva realização.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Sendo assim, apresente razões de defesa, justificativas e/ou documentos junto a esta Corte de Contas, assegurando o contraditório e à ampla defesa (art. 5º, inciso LV, da Constituição Federal), sendo-lhe conferido a possibilidade de recolher os valores no montante de R$ 366.542,06 (trezentos e sessenta e seis mil, quinhentos e quarenta e dois reais e seis centavos), decorrentes da não comprovação da regular  aplicação  de  recursos  dispendidos  em  obras  e/ou  serviços  de  engenharia,  liquidados e pagos, sujeitos a fiscalização por esta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "O trecho apenas informa sobre a possibilidade de apresentar defesa e comprovar a regular aplicação dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "5º, inciso LV",
+              "descricao": "Assegura o contraditório e a ampla defesa."
+            }
+          ]
+        },
+        {
+          "trecho": "Ressalte-se que o ônus da prova é do gestor ou de quem quer que seja que se utilize dos recursos públicos (art. 93 da Lei nº 200/1967; Acórdão nº 247/2003-1ª Câmara TCU);",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "O trecho apenas informa sobre o ônus da prova.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 200/1967",
+              "artigo": "93",
+              "descricao": "Estabelece o ônus da prova para quem utiliza recursos públicos."
+            },
+            {
+              "norma": "Acórdão nº 247/2003-1ª Câmara TCU",
+              "artigo": "não aplicável",
+              "descricao": "Jurisprudência do TCU sobre o ônus da prova."
+            }
+          ]
+        },
+        {
+          "trecho": "Os balancetes mensais, via sistema e-Contas, da Prefeitura Municipal de Envira, referentes aos meses de janeiro, fevereiro, março, abril, maio, setembro, outubro, novembro e dezembro de 2016, não foram encaminhadas extemporaneamente a esta Corte de Contas, conforme estabelecido na Lei n.° 06/1991, Art. 15 c/c o art.20, II, com nova redação dada pela LC n. 24/2000 e Resolução nº 13/2015;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O envio extemporâneo dos balancetes mensais dificulta o acompanhamento e o controle das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 06/1991",
+              "artigo": "15 c/c o art.20, II",
+              "descricao": "Estabelece a obrigatoriedade de envio dos balancetes mensais."
+            },
+            {
+              "norma": "LC n. 24/2000",
+              "artigo": "não aplicável",
+              "descricao": "Altera a redação da Lei nº 06/1991."
+            },
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "não aplicável",
+              "descricao": "Dispõe sobre o envio de informações ao TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "Atraso  no  envio  de  remessas  ao  Sistema  GEFIS  de  todos  os  bimestres  de  2016  do descumprimento ao prazo de 45 dias estabelecido na Resolução nº. 24/2013;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O atraso no envio de informações ao GEFIS dificulta o acompanhamento e o controle das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 24/2013",
+              "artigo": "não aplicável",
+              "descricao": "Estabelece o prazo de 45 dias para envio de remessas ao Sistema GEFIS."
+            }
+          ]
+        },
+        {
+          "trecho": "Descumprimento de Prazo no Sistema GEFIS sobre a publicação referente ao 3°/4°/5° e 6° bimestre de 2016 do Relatório Resumido da Execução Orçamentária, em descumprimento ao prazo estabelecido no art. 165, §3º, da Constituição Federal c/c art. 52 da LC 101/2000;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O descumprimento do prazo de publicação do RREO dificulta o controle e o acompanhamento da execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "165, §3º",
+              "descricao": "Estabelece o prazo para publicação do RREO."
+            },
+            {
+              "norma": "LC 101/2000",
+              "artigo": "52",
+              "descricao": "Estabelece o prazo para publicação do RREO."
+            }
+          ]
+        },
+        {
+          "trecho": "Desatualização do Portal da Transparência em consultas realizadas em 24/05/2016, 02/09/2016, 26/10/2016 e 31/03/2017 em descumprimento aos arts. 48, 52, 55, da Lei Complementar 101/00, ao não disponibilizar os instrumentos de transparência da gestão fiscal (Relatórios Resumidos de Execução Orçamentária e Relatórios de Gestão Fiscal de 2016);",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A desatualização do Portal da Transparência dificulta o controle social da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar 101/00",
+              "artigo": "48, 52, 55",
+              "descricao": "Estabelecem a obrigatoriedade de divulgação dos instrumentos de transparência da gestão fiscal."
+            }
+          ]
+        },
+        {
+          "trecho": "Inconsistência de dados informados ao Sistema GEFIS em relação à Prestação de Contas objeto do Processo TCE 11.583/17;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A6B",
+          "tipologia_irregularidade": "Inconsistência de informações de processos licitatórios e de contratos nos sistemas",
+          "descricao": "Inconsistência de informações de processos licitatórios e de contratos nos sistemas.",
+          "justificativa_tipologia": "A inconsistência de dados dificulta a verificação da conformidade das informações prestadas.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Descumprimento de Prazo nas remessas do Sistema GEFIS referente ao 1° semestre de 2016 do Relatório de Gestão Fiscal, em descumprimento ao prazo de 60 dias estabelecido na alínea h, da Lei 2423/96 (redação dada pela Lei Complementar Estadual 120/2013) c/c Resolução nº 24/13;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O descumprimento do prazo de envio do RGF dificulta o controle e o acompanhamento da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "alínea h",
+              "descricao": "Estabelece o prazo de 60 dias para envio do RGF."
+            },
+            {
+              "norma": "Lei Complementar Estadual 120/2013",
+              "artigo": "não aplicável",
+              "descricao": "Altera a redação da Lei 2423/96."
+            },
+            {
+              "norma": "Resolução nº 24/13",
+              "artigo": "não aplicável",
+              "descricao": "Dispõe sobre o envio de informações ao TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "Descumprimento de Prazo dos informes no sistema GEFIS sobre a publicação referente ao 2° quadrimestre de 2016 do Relatório de Gestão Fiscal - RGF, em descumprimento ao prazo estabelecido no art. 55, § 2º, da LC n.º 101/2000;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O descumprimento do prazo de informe sobre a publicação do RGF dificulta o controle e o acompanhamento da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC n.º 101/2000",
+              "artigo": "55, § 2º",
+              "descricao": "Estabelece o prazo para publicação do RGF."
+            }
+          ]
+        },
+        {
+          "trecho": "Disparidade maior que 5% em relação a previsão de receita do município e a receita realizada, de forma que o método adotado de previsão pode estar não considerando os fatores macroeconômicos de forma íntegra;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A72B",
+          "tipologia_irregularidade": "Alcance da Meta bimestral de arrecadação não atingido",
+          "descricao": "Arrecadação estar abaixo/acima do previsto.",
+          "justificativa_tipologia": "A disparidade entre a previsão e a realização da receita indica falhas no planejamento orçamentário.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Desatualização do Portal da Transparência face ao descumprimento dos critérios expostos no item 5.2, alíneas \"a\" a \"k\", desta peça técnica (análise de portal da transparência segundo a Resolução ATRICON nº 11/2016);",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A desatualização do Portal da Transparência dificulta o controle social da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução ATRICON nº 11/2016",
+              "artigo": "não aplicável",
+              "descricao": "Dispõe sobre os critérios de avaliação dos portais da transparência."
+            }
+          ]
+        },
+        {
+          "trecho": "A quantidade total de cargos de Fiscais de Tributos existentes, os requisitos para ingresso e a legislação correlata;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O não cumprimento da obrigatoriedade de concurso público para cargos efetivos viola princípios constitucionais e pode indicar irregularidades na gestão de pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "A  exist

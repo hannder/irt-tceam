@@ -1,0 +1,161 @@
+{
+  "acordao": "87/2024",
+  "processo": "11344/2022",
+  "data_sessao": "2024-07-09",
+  "orgao": "Prefeitura Municipal de Maués",
+  "municipio": "Maués",
+  "exercicio": "2021",
+  "responsavel": [
+    "Carlos Roberto de Oliveira Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar o encaminhamento do Parecer Prévio, publicado e acompanhado de cópias integrais do processo, à Câmara Municipal de Maués para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o encaminhamento do Parecer Prévio, publicado e acompanhado de cópias integrais do processo, à Câmara Municipal de Maués para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Esta determinação não está diretamente relacionada a uma irregularidade específica, mas a garantir a devida apreciação das contas pelo órgão competente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CE/1989",
+              "artigo": "127",
+              "descricao": "Competência da Câmara Municipal para julgar as contas do Prefeito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Cumpra os prazos de envio ao TCE/AM e de publicação, inclusive no Portal da Transparência do RREO (bimestral) e do RGF (semestral ou quadrimestral) e demonstrativos contábeis;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Cumpra os prazos de envio ao TCE/AM e de publicação, inclusive no Portal da Transparência do RREO (bimestral) e do RGF (semestral ou quadrimestral) e demonstrativos contábeis;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "Recomendação para que se cumpra os prazos e a publicação do RREO e do RGF no portal da transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Cumpra com rigor o prazo de envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Cumpra com rigor o prazo de envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação é relativa ao cumprimento dos prazos de envio dos documentos, o que está relacionado ao tema de Documentos e Envio de Informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Adote as devidas providências no sentido de que a autorização para a concessão de diárias deve pressupor, obrigatoriamente a compatibilidade dos motivos do deslocamento com o interesse público e a correlação entre o motivo do deslocamento e as atribuições do cargo;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Adote as devidas providências no sentido de que a autorização para a concessão de diárias deve pressupor, obrigatoriamente a compatibilidade dos motivos do deslocamento com o interesse público e a correlação entre o motivo do deslocamento e as atribuições do cargo;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A recomendação visa garantir que a concessão de diárias esteja alinhada com o interesse público e as atribuições do cargo, o que se relaciona à gestão de pessoal e ao uso adequado de recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Atente a correta instrução dos processos administrativos de licitação, observando os comandos previstos na Lei nº 8.666/1993.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Carlos Roberto de Oliveira Junior, ou o atual Chefe do Poder Executivo Municipal, enviando-lhe cópias do Relatório Conclusivo n. 138/2023-DICAMI (fls. 6015/6055), Parecer Ministerial n. 1814/2024 (fls. 6181/6189) e do decisório, para que: Atente a correta instrução dos processos administrativos de licitação, observando os comandos previstos na Lei nº 8.666/1993.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A recomendação sobre a correta instrução dos processos de licitação está diretamente relacionada ao tema de Licitações e Contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "Não aplicável",
+              "descricao": "Norma geral sobre licitações e contratos administrativos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria de Controle Externo - SECEX que adote as medidas necessárias para autuação do processo de Fiscalização de Atos de Gestão, que deverá ser devidamente instruído com a documentação constante destes autos, respeitando a competência de cada órgão técnico, a fim de que o Tribunal de Contas do Estado do Amazonas aprecie as irregularidades identificadas nas Contas de Gestão do Sr. Carlos Roberto de Oliveira Júnior, e discriminados nos Laudos Técnicos da DICOP, da DICAMI e no Parecer Ministerial, considerando as observações feitas por este Relator tocante aos atos de gestão;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria de Controle Externo - SECEX que adote as medidas necessárias para autuação do processo de Fiscalização de Atos de Gestão, que deverá ser devidamente instruído com a documentação constante destes autos, respeitando a competência de cada órgão técnico, a fim de que o Tribunal de Contas do Estado do Amazonas aprecie as irregularidades identificadas nas Contas de Gestão do Sr. Carlos Roberto de Oliveira Júnior, e discriminados nos Laudos Técnicos da DICOP, da DICAMI e no Parecer Ministerial, considerando as observações feitas por este Relator tocante aos atos de gestão;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de autuação do processo de Fiscalização de Atos de Gestão está relacionada ao tema de Controle Interno, pois busca garantir a avaliação das irregularidades identificadas nas Contas de Gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que dê ciência da decisão que vier a ser proferida nos autos, aos interessados, bem como à Câmara Municipal de Mauês/AM e à Prefeitura da referida municipalidade;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que dê ciência da decisão que vier a ser proferida nos autos, aos interessados, bem como à Câmara Municipal de Mauês/AM e à Prefeitura da referida municipalidade;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação para dar ciência da decisão aos interessados está relacionada ao princípio da transparência e ao acesso à informação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ARQUIVAMENTO",
+      "descricao": "Arquivar o processo, após cumprimento de todas as formalidades legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo, após cumprimento de todas as formalidades legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Não se aplica, pois é apenas uma formalidade de encerramento do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

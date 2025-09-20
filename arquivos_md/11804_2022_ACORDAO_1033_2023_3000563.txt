@@ -1,0 +1,53 @@
+{
+  "acordao": "1033/2023",
+  "processo": "11804/2022",
+  "data_sessao": "29 de Maio de 2023",
+  "orgao": "Câmara Municipal de São Sebastião do Uatumã",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2021",
+  "responsavel": [
+    "Ismael Monteiro Mendes Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar multa ao Sr. Ismael Monteiro Mendes Filho ,  com fulcro no art.  54,  VII,  da  Lei  nº  2423/96,  pela  divergência  detectada  entre  o Balanço Patrimonial e a Relação de Bens Adquiridos/Bens Patrimoniais em uso, apontada no achado 02, no valor de R$ 1.706,80 (um mil, setecentos e seis reais e oitenta centavos); e fixar prazo de 30  dias para  que  o  responsável  recolha  o  valor  da  multa, na  esfera Estadual  para  o  órgão  Secretaria  de  Estado  da  Fazenda  -  SEFAZ, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Ismael Monteiro Mendes Filho ,  com fulcro no art.  54,  VII,  da  Lei  nº  2423/96,  pela  divergência  detectada  entre  o Balanço Patrimonial e a Relação de Bens Adquiridos/Bens Patrimoniais em uso, apontada no achado 02, no valor de R$ 1.706,80 (um mil, setecentos e seis reais e oitenta centavos).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A8B",
+          "tipologia_irregularidade": "Divergência entre os registros contábeis das contas de Bens Permanentes e a existência física dos bens",
+          "descricao": "Divergência entre os registros contábeis das contas de Bens Permanentes e a existência física dos bens",
+          "justificativa_tipologia": "O trecho descreve uma divergência entre o balanço patrimonial e a relação de bens, indicando um problema no controle patrimonial e contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, VII",
+              "descricao": "A multa é aplicada com base neste artigo da lei, devido à divergência encontrada entre o Balanço Patrimonial e a Relação de Bens Adquiridos/Bens Patrimoniais em uso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar ciência ao Sr. Ismael Monteiro Mendes Filho , ao seu Patrono e à  Câmara  Municipal  de  São  Sebastião  do  Uatumã  sobre  o  teor da Decisão, com cópia do Relatório-Voto e do respectivo Acórdão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Ismael Monteiro Mendes Filho , ao seu Patrono e à  Câmara  Municipal  de  São  Sebastião  do  Uatumã  sobre  o  teor da Decisão, com cópia do Relatório-Voto e do respectivo Acórdão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Este trecho é meramente informativo sobre a comunicação da decisão, não indicando irregularidades contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

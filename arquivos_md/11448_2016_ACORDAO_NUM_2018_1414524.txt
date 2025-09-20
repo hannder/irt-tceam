@@ -1,0 +1,69 @@
+{
+  "acordao": "161/2018",
+  "processo": "11448/2016",
+  "data_sessao": "08 de Março de 2018",
+  "orgao": "Câmara Municipal de São Gabriel da Cachoeira",
+  "municipio": "São Gabriel da Cachoeira",
+  "exercicio": "2015",
+  "responsavel": [
+    "Edilson Fonseca Gonçalves"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Sr. Edilson Fonseca Gonçalves ,  responsável pela Câmara Municipal de São Gabriel da Cachoeira, no curso do exercício de 2015, nos termos do art. 71, II,  c/c  o  art.  75  da  Constituição  Federal,  art.  1º,  II,  c/c  o  art.  22,  II,  da  Lei Estadual nº 2423/96, e art. 188, § 1º, II, da Resolução nº 04/2002-TCE/AM, com recomendações",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a  Câmara  Municipal  de  São  Gabriel  da  Cachoeira que:\n- a) Na concessão de diárias, observe atentamente aos Princípios Constitucionais da Impessoalidade, Moralidade e atendimento ao interesse público, previsto no art. 37, Caput da Constituição Federal de 1988, bem como atente para a formalidades do processo administrativo, instruindo os procedimentos e justificando os quantitativos a que se destinam",
+      "trechos_identificados": [
+        {
+          "trecho": "Na concessão de diárias, observe atentamente aos Princípios Constitucionais da Impessoalidade, Moralidade e atendimento ao interesse público, previsto no art. 37, Caput da Constituição Federal de 1988, bem como atente para a formalidades do processo administrativo, instruindo os procedimentos e justificando os quantitativos a que se destinam",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A20B",
+          "tipologia_irregularidade": "Concessão de diárias e ajudas de custo irregulares",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A recomendação visa corrigir a concessão inadequada de diárias, o que afeta a gestão orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, Caput",
+              "descricao": "Princípios Constitucionais da Impessoalidade, Moralidade e atendimento ao interesse público"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "b) Atente quanto aos prazos no envio a esta Corte de Contas dos Relatórios de Gestão Fiscal (RGF), sob pena de reincidência e medidas correlatas, nos termos do art. 22, § 1º da Lei n. 2423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente quanto aos prazos no envio a esta Corte de Contas dos Relatórios de Gestão Fiscal (RGF), sob pena de reincidência e medidas correlatas, nos termos do art. 22, § 1º da Lei n. 2423/1996.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A recomendação visa garantir o envio tempestivo dos Relatórios de Gestão Fiscal, o que é crucial para o controle fiscal e a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "22, § 1º",
+              "descricao": "Prazos para envio dos Relatórios de Gestão Fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr, Edilson Fonseca Gonçalves, nos termos do art. 24,  da  Lei  n.  2423/1996,  c/c  o  art.  189,  II,  da  Resolução  nº  04/2002-TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

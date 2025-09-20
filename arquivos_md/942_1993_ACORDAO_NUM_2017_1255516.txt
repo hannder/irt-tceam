@@ -1,0 +1,69 @@
+{
+  "acordao": "996/2017",
+  "processo": "942/1993",
+  "data_sessao": "17 de Outubro de 2017",
+  "orgao": "Departamento de Estradas e Rodagem do Amazonas - DER/AM",
+  "municipio": "Manaus",
+  "exercicio": "1992",
+  "responsavel": [
+    "Almino Rodrigues Ramos"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  iliquidáveis as  Contas  Anuais  do Departamento  de  Estradas de Rodagens do Amazonas - DER/AM , referente ao exercício de 1992, de responsabilidade do Sr.  Almino Rodrigues Ramos ,  Diretor-Geral e Ordenador de Despesas, à época, nos termos do art. 26 da Lei 2.423/96 c/c o art. 188, §1°, IV, da Res. 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  iliquidáveis as  Contas  Anuais  do Departamento  de  Estradas de Rodagens do Amazonas - DER/AM , referente ao exercício de 1992, de responsabilidade do Sr.  Almino Rodrigues Ramos ,  Diretor-Geral e Ordenador de Despesas, à época, nos termos do art. 26 da Lei 2.423/96 c/c o art. 188, §1°, IV, da Res. 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação de julgar as contas iliquidáveis sugere uma impossibilidade de análise devido à falta de informações ou registros adequados, o que está relacionado à ausência de notas explicativas nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "26",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Res. 04/2002",
+              "artigo": "188, §1°, IV",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  o  Trancamento do  processo  do Sr.  Almino  Rodrigues Ramos e  o  consequente arquivamento do  processo, consoante o art. 27 da Lei n. 2.423/96 c/c o art. 191 da Res. 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  o  Trancamento do  processo  do Sr.  Almino  Rodrigues Ramos e  o  consequente arquivamento do  processo, consoante o art. 27 da Lei n. 2.423/96 c/c o art. 191 da Res. 04/2002.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A determinação de trancamento e arquivamento do processo está relacionada à impossibilidade de análise das contas devido à falta de informações ou registros adequados, o que se relaciona à ausência de notas explicativas nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "27",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Res. 04/2002",
+              "artigo": "191",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "acordao": "542/2018",
+  "processo": "1478/2015",
+  "data_sessao": "14 de Agosto de 2018",
+  "orgao": "Secretaria Municipal de Comunicação - SEMCOM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Mônica  Elizabeth  Santaella  da  Fonseca"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Secretaria Municipal de Comunicação - Semcom, nos termos  do  art.  188,  §  2º,  do  Regimento  Interno/TCE-AM,  que  adote providências quanto à:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Implantação  de  ponto  eletrônico  biométrico  no  sentido  de  dar mais transparência, possibilitando melhor fiscalização acerca do cumprimento das obrigações funcionais dos servidores",
+      "trechos_identificados": [
+        {
+          "trecho": "Implantação  de  ponto  eletrônico  biométrico  no  sentido  de  dar mais transparência, possibilitando melhor fiscalização acerca do cumprimento das obrigações funcionais dos servidores",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A implantação do ponto eletrônico biométrico aumenta a transparência, permitindo melhor fiscalização do cumprimento das obrigações funcionais dos servidores, o que está diretamente ligado a maior transparência das informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Criação/Atualização  do  Portal  de  Transparência  da  SEMCOM, em observância à Lei nº 12.527/2011",
+      "trechos_identificados": [
+        {
+          "trecho": "Criação/Atualização  do  Portal  de  Transparência  da  SEMCOM, em observância à Lei nº 12.527/2011",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A criação e atualização do Portal de Transparência da SEMCOM, em observância à Lei nº 12.527/2011, visam assegurar a divulgação de informações de interesse público, promovendo a transparência na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Acesso à Informação, que regulamenta o direito constitucional de acesso dos cidadãos às informações públicas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Implantação  de  mecanismos  de  controle  nas  concessões  de diárias e viagens",
+      "trechos_identificados": [
+        {
+          "trecho": "Implantação  de  mecanismos  de  controle  nas  concessões  de diárias e viagens",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação visa a implementação de mecanismos de controle interno para garantir o uso adequado e transparente dos recursos públicos destinados a diárias e viagens, evitando irregularidades e gastos desnecessários.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Realização  de  concurso  público,  em  observância  ao  art.  37, inciso II, da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Realização  de  concurso  público,  em  observância  ao  art.  37, inciso II, da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A ausência de concurso público é uma falha grave que impede o acesso isonômico aos cargos públicos e compromete a qualidade dos serviços prestados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "37",
+              "descricao": "Art. 37, inciso II, da Constituição Federal, que estabelece a obrigatoriedade de concurso público para a investidura em cargo ou emprego público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secex -  Secretaria  Geral  do  Controle  Externo que observe,  por  meio  das  próximas  inspeções in  loco ou  via  sistema  eContas,  se  a Unidade  Gestora em  epígrafe  está cumprindo  as recomendações lançadas nos subitens acima",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secex -  Secretaria  Geral  do  Controle  Externo que observe,  por  meio  das  próximas  inspeções in  loco ou  via  sistema  eContas,  se  a Unidade  Gestora em  epígrafe  está cumprindo  as recomendações lançadas nos subitens acima",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para que a Secex monitore o cumprimento das recomendações visa fortalecer o controle interno e garantir que as medidas corretivas sejam efetivamente implementadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência do decisum à Sra. Mônica Elizabeth Santaella da Fonseca e  aos demais  interessados ,  nos  termos  do  artigo  161  da Resolução nº 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência do decisum à Sra. Mônica Elizabeth Santaella da Fonseca e  aos demais  interessados ,  nos  termos  do  artigo  161  da Resolução nº 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A ciência do decisum aos responsáveis é um procedimento padrão para garantir que estejam cientes das determinações e recomendações do Tribunal de Contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "161",
+              "descricao": "Artigo 161 da Resolução nº 04/2002 - TCE/AM, que trata da comunicação das decisões do Tribunal aos interessados."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "acordao": "618/2017",
+  "processo": "1992/2009",
+  "data_sessao": "8 de Junho de 2017",
+  "orgao": "Secretaria de Estado do Meio Ambiente e Desenvolvimento Sustentável SDS",
+  "municipio": "Manaus",
+  "exercicio": "2008",
+  "responsavel": [
+    "Nadia Cristina D´avila Ferreira",
+    "Virgilio Mauricio Viana",
+    "Ruth Lilian Rodrigues da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com Ressalvas",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  Anual  da Secretaria  de  Estado  do  Meio  Ambiente , exercício  de  2008 , de responsabilidade do Sr. Virgílio Maurício Viana , Secretário de Estado no período de 1/1/2008 a 29/2/2008, da Sra. Nádia  Cristina  D'Ávila Ferreira ,  Secretária de Estado no período de 29/2/2008 a 31/12/2008, e da Sra. Ruth Lilian Rodrigues da Silva , Secretária Executiva, no período de 28 e 29/2/2008  e de 05/06/2008 a 31/12/2008, com fundamento nos arts. 19, II, 22, II, e 24, da Lei n.º 2.423/96 (Lei Orgânica deste Tribunal de Contas)  c/c os arts. 188, § 1º, II, da Resolução  04/2002-TCE/AM (Regimento Interno deste Tribunal de Contas)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observem com mais rigor as disposições constantes na Resolução n. 02/2007, com  vista a informar no Sistema  ACP  todos  os  atos necessários  relativos  às  dispensas  de  licitações  e  procedimentos licitatórios",
+      "trechos_identificados": [
+        {
+          "trecho": "Observem com mais rigor as disposições constantes na Resolução n. 02/2007, com  vista a informar no Sistema  ACP  todos  os  atos necessários  relativos  às  dispensas  de  licitações  e  procedimentos licitatórios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de divulgação das informações no sistema ACP, o que se relaciona com a falta de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 02/2007",
+              "artigo": "Não Especificado",
+              "descricao": "Dispõe sobre a informação no Sistema ACP todos os atos necessários  relativos  às  dispensas  de  licitações  e  procedimentos licitatórios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observem com maior rigor a Resolução n.º 13/2015  - TCE/AM, que versa acerca do Sistema E-contas, atentando para o correto registro das informações que devem obrigatoriamente compor o processo de prestação  de  contas,  sobretudo  no  que  diz  respeito  aos  processos licitatórios",
+      "trechos_identificados": [
+        {
+          "trecho": "Observem com maior rigor a Resolução n.º 13/2015  - TCE/AM, que versa acerca do Sistema E-contas, atentando para o correto registro das informações que devem obrigatoriamente compor o processo de prestação  de  contas,  sobretudo  no  que  diz  respeito  aos  processos licitatórios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A recomendação detalha a necessidade de envio correto dos dados para o sistema E-contas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 13/2015  - TCE/AM",
+              "artigo": "Não Especificado",
+              "descricao": "Versa acerca do Sistema E-contas, atentando para o correto registro das informações que devem obrigatoriamente compor o processo de prestação  de  contas,  sobretudo  no  que  diz  respeito  aos  processos licitatórios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Cumpram as disposições do art. 23, §§ 1º e 2º c/c arts. 2º, 24, 26 e 60, da Lei n.º 8.666/1993, acerca da utilização da correta modalidade de licitação, afastando qualquer possibilidade de compra fragmentada",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpram as disposições do art. 23, §§ 1º e 2º c/c arts. 2º, 24, 26 e 60, da Lei n.º 8.666/1993, acerca da utilização da correta modalidade de licitação, afastando qualquer possibilidade de compra fragmentada",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A49A",
+          "tipologia_irregularidade": "Emergência fabricada",
+          "descricao": "A auditoria observou, por reiteradas vezes, a utilização de dispensa de licitação, com base no art. 24, IV, da Lei 8.666/1993 ou no art. 75, VIII, da Lei 14.133/2023, para casos de emergência ou de calamidade pública. No entanto, quando se analisa minuciosamente o caso concreto, observa-se que não se trata de emergência resultante de fato imprevisível, mas sim decorrente de falta de planejamento, de inércia administrativa ou de má gestão de recursos públicos. - Contudo, em que pese a comprovação da falta de planejamento e a inércia administrativa, entende-se cabível a dispensa de licitação com fundamento nesses dispositivos, em virtude da essencialidade do serviço, porém deve-se avaliar a responsabilização dos agentes públicos que concorreram para originar a situação emergencial.",
+          "justificativa_tipologia": "A recomendação detalha a necessidade de cumprimento da correta modalidade de licitação, com vistas a evitar a compra fragmentada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "23, §§ 1º e 2º",
+              "descricao": "Disposições sobre a utilização da correta modalidade de licitação"
+            },
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "2",
+              "descricao": "Disposições sobre a utilização da correta modalidade de licitação"
+            },
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "24",
+              "descricao": "Disposições sobre a utilização da correta modalidade de licitação"
+            },
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "26",
+              "descricao": "Disposições sobre a utilização da correta modalidade de licitação"
+            },
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "60",
+              "descricao": "Disposições sobre a utilização da correta modalidade de licitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Não efetue prorrogação dos contratos com instituições especializadas em  recrutamento  de  estagiários,  resguardando-se,  todavia,  até  o termo  final,  os contratos  que,  porventura,  ainda  estejam  vigentes  e, ainda, observem as disposições da Lei n.º 8.666/1993, especialmente em relação à prévia realização do procedimento licitatório cabível em futuros ajustes de igual natureza",
+      "trechos_identificados": [
+        {
+          "trecho": "Não efetue prorrogação dos contratos com instituições especializadas em  recrutamento  de  estagiários,  resguardando-se,  todavia,  até  o termo  final,  os contratos  que,  porventura,  ainda  estejam  vigentes  e, ainda, observem as disposições da Lei n.º 8.666/1993, especialmente em relação à prévia realização do procedimento licitatório cabível em futuros ajustes de igual natureza",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A20B",
+          "tipologia_irregularidade": "Prorrogação de Ajuste (Termo Aditivo) sem pesquisa de preços",
+          "descricao": "Prorrogação de Ajuste (Termo Aditivo) sem pesquisa de preços.",
+          "justificativa_tipologia": "A recomendação veda a prorrogação de contratos com instituições de recrutamento de estagiários.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 8.666/1993",
+              "artigo": "Não Especificado",
+              "descricao": "Disposições sobre a prévia realização do procedimento licitatório cabível em futuros ajustes de igual natureza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Na  execução  dos  contratos,  observem  as  normas  de  regência consignadas na Lei Federal n.º 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Na  execução  dos  contratos,  observem  as  normas  de  regência consignadas na Lei Federal n.º 8.666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital.",
+          "justificativa_tipologia": "A recomendação geral sobre a observância das normas na execução dos contratos indica uma fragilidade no processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n.º 8.666/1993",
+              "artigo": "Não Especificado",
+              "descricao": "Normas de regência sobre a execução dos contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observem as determinações previstas na Lei n.° 8.666/1993, a fim de evitar as fragmentações de despesas de produtos de mesma natureza",
+      "trechos_identificados": [
+        {
+          "trecho": "Observem as determinações previstas na Lei n.° 8.666/1993, a fim de evitar as fragmentações de despesas de produtos de mesma natureza",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de observar as determinações para evitar fragmentação de despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 8.666/1993",
+              "artigo": "Não Especificado",
+              "descricao": "Determinações para evitar as fragmentações de despesas de produtos de mesma natureza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe com maior rigor a necessidade de ações efetivas para guarda e conservação dos veículos do Órgão",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com maior rigor a necessidade de ações efetivas para guarda e conservação dos veículos do Órgão",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação sobre a guarda e conservação dos veículos indica fragilidades na gestão patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observem o disposto no art. 94, da Lei Federal n.º 4.320/1964, o qual determina que seja feito registro de todos os bens móveis e imóveis submetidos à guarda e responsabilidade dos gestores da Administração  Pública,  com  indicação  dos  elementos  necessários para a sua perfeita caracterização, a fi m de que  se possam proporcionar o conhecimento da formação patrimonial e o controle de sua conservação",
+      "trechos_identificados": [
+        {
+          "trecho": "Observem o disposto no art. 94, da Lei Federal n.º 4.320/1964, o qual determina que seja feito registro de todos os bens móveis e imóveis submetidos à guarda e responsabilidade dos gestores da Administração  Pública,  com  indicação  dos  elementos  necessários para a sua perfeita caracterização, a fi m de que  se possam proporcionar o conhecimento da formação patrimonial e o controle de sua conservação",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A recomendação detalha a necessidade de registrar todos os bens, indicando deficiências na caracterização dos bens.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n.º 4.320/1964",
+              "artigo": "94",
+              "descricao": "Determina que seja feito registro de todos os bens móveis e imóveis submetidos à guarda e responsabilidade dos gestores da Administração Pública, com indicação dos elementos necessários para a sua perfeita caracterização"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência do  presente Acórdão a  todos os responsáveis identificados nos autos, qual seja, Sra. Ruth Lilian Rodrigues da Silva , Sra. Nádia Cristina D´Ávila Ferreira e Sr. Virgílio Maurício Viana",
+      "trechos_identificados": []
+    }
+  ]
+}

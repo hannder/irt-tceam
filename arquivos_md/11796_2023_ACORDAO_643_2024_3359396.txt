@@ -1,0 +1,96 @@
+{
+  "acordao": "643/2024",
+  "processo": "11796/2023",
+  "data_sessao": "29 de Abril de 2024",
+  "orgao": "Fundo  de  Amparo  e  Proteção  a  Vítimas  e  Testemunhas  Ameaçadas  FPROVITA",
+  "municipio": "Manaus",
+  "exercicio": "2022",
+  "responsavel": [
+    "Alberto Rodrigues do Nascimento Junior",
+    "Nicolau  Libório  dos Santos Filho",
+    "Geber Mafra Rocha",
+    "George  Pestana Vieira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a  Prestação  de  Contas  do Sr.  Alberto  Rodrigues do Nascimento Junior , Gestor do Fundo de Amparo e Proteção a Vítimas e  Testemunhas  Ameaçadas  -  FPROVITA,  referentes  ao  exercício financeiro  de  2022,  com  fundamento  no  art.  22,  inciso  I,  da  Lei  nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a  Prestação  de  Contas  do Sr.  Alberto  Rodrigues do Nascimento Junior , Gestor do Fundo de Amparo e Proteção a Vítimas e  Testemunhas  Ameaçadas  -  FPROVITA,  referentes  ao  exercício financeiro  de  2022,  com  fundamento  no  art.  22,  inciso  I,  da  Lei  nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ação de julgar regular a prestação de contas por si só não indica uma irregularidade, a tipologia CONTABILIDADE foi utilizada por ser o tema mais adequado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Fundamenta o julgamento da regularidade da prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  do Sr.  Nicolau  Libório  dos Santos Filho , Geber Mafra Rocha e George  Pestana Vieira , Ordenadores das Despesas do Fundo de Amparo e Proteção a Vítimas e  Testemunhas  Ameaçadas  -  FPROVITA,  referentes  ao  exercício financeiro  de  2022,  com  fundamento  no  art.  22,  inciso  I,  da  Lei  nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  do Sr.  Nicolau  Libório  dos Santos Filho , Geber Mafra Rocha e George  Pestana Vieira , Ordenadores das Despesas do Fundo de Amparo e Proteção a Vítimas e  Testemunhas  Ameaçadas  -  FPROVITA,  referentes  ao  exercício financeiro  de  2022,  com  fundamento  no  art.  22,  inciso  I,  da  Lei  nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ação de julgar regular a prestação de contas por si só não indica uma irregularidade, a tipologia CONTABILIDADE foi utilizada por ser o tema mais adequado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Fundamenta o julgamento da regularidade da prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao gestor Sr. Alberto Rodrigues do Nascimento Junior , e aos Ordenadores das Despesas do Fundo de Amparo e Proteção a Vítimas e Testemunhas Ameaçadas - FPROVITA, Sr. Nicolau Libório dos Santos Filho , Geber Mafra Rocha e George Pestana Vieira ,  e aos demais interessados no processo",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao gestor Sr. Alberto Rodrigues do Nascimento Junior , e aos Ordenadores das Despesas do Fundo de Amparo e Proteção a Vítimas e Testemunhas Ameaçadas - FPROVITA, Sr. Nicolau Libório dos Santos Filho , Geber Mafra Rocha e George Pestana Vieira ,  e aos demais interessados no processo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Apenas dar ciência não configura uma irregularidade",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo após cumprimento de decisão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo após cumprimento de decisão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Apenas arquivar o processo não configura uma irregularidade",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

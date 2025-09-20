@@ -1,0 +1,267 @@
+{
+  "acordao": "1414/2023",
+  "processo": "12948/2021",
+  "data_sessao": "11 de Julho de 2023",
+  "orgao": "Instituto de Previdência dos Servidores Públicos de Lábrea - Labreaprev",
+  "municipio": "Lábrea",
+  "exercicio": "2020",
+  "responsavel": [
+    "Rosifran Batista Nunes"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Balancetes mensais referentes ao exercício de 2020, não foram enviados a esta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Balancetes mensais referentes ao exercício de 2020, não foram enviados a esta Corte de Contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A3B",
+          "tipologia_irregularidade": "Não envio de Balancetes Mensais",
+          "descricao": "Não envio de Balancetes Mensais.",
+          "justificativa_tipologia": "O texto descreve o não envio dos balancetes mensais, o que caracteriza a tipologia 'Não envio de Balancetes Mensais'",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15",
+              "descricao": "O texto relata o não envio dos balancetes mensais, o que é uma falta de envio de informação."
+            },
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "20, inciso II",
+              "descricao": "O texto relata o não envio dos balancetes mensais, o que é uma falta de envio de informação."
+            },
+            {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "20, inciso II",
+              "descricao": "O texto relata o não envio dos balancetes mensais, o que é uma falta de envio de informação."
+            },
+            {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "nulo",
+              "descricao": "O texto relata o não envio dos balancetes mensais, o que é uma falta de envio de informação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Diferença à recolher das Contribuições Patronal e dos servidores da Prefeitura de Lábrea, das Competências de Janeiro a dezembro/2020, Inclusive 13º salário, no valor total de R$ 2.975.035,47",
+      "trechos_identificados": [
+        {
+          "trecho": "Diferença à recolher das Contribuições Patronal e dos servidores da Prefeitura de Lábrea, das Competências de Janeiro a dezembro/2020, Inclusive 13º salário, no valor total de R$ 2.975.035,47",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "justificativa_tipologia": "O texto indica uma diferença a recolher das contribuições previdenciárias patronal e dos servidores, o que se enquadra na tipologia 'Não recolhimento de contribuições previdenciária do empregador à instituição de previdência'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "40",
+              "descricao": "O texto indica uma diferença a recolher das contribuições previdenciárias, o que afeta a regularidade do sistema previdenciário"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "195, I",
+              "descricao": "O texto indica uma diferença a recolher das contribuições previdenciárias, o que afeta a regularidade do sistema previdenciário"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Recolhimentos em atraso das contribuições dos servidores sem a devida cobrança de juros das competências de janeiro a dezembro/2020",
+      "trechos_identificados": [
+        {
+          "trecho": "Recolhimentos em atraso das contribuições dos servidores sem a devida cobrança de juros das competências de janeiro a dezembro/2020",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A6C",
+          "tipologia_irregularidade": "Pagamento de Multas em recolhimentos previdenciários",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários.",
+          "justificativa_tipologia": "O texto descreve recolhimentos em atraso das contribuições dos servidores sem a devida cobrança de juros, o que caracteriza a tipologia pagamento de multas em recolhimentos previdenciários",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "4",
+              "descricao": "O texto descreve recolhimentos em atraso das contribuições dos servidores sem a devida cobrança de juros."
+            },
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "12",
+              "descricao": "O texto descreve recolhimentos em atraso das contribuições dos servidores sem a devida cobrança de juros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de relatório de avaliação atuarial, no exercício 2020, a fim definir o plano de custeio para a manutenção do equilíbrio financeiro e atuarial do Labreaprev",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de relatório de avaliação atuarial, no exercício 2020, a fim definir o plano de custeio para a manutenção do equilíbrio financeiro e atuarial do Labreaprev",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A59B",
+          "tipologia_irregularidade": "Ausência de Parecer Atuarial",
+          "descricao": "Ausência de Parecer Atuarial",
+          "justificativa_tipologia": "O texto descreve a Ausência de relatório de avaliação atuarial o que se enquadra na tipologia 'Ausência de Parecer Atuarial'",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2016-TCE/AM",
+              "artigo": "2a, inciso XXIII",
+              "descricao": "O texto descreve a Ausência de relatório de avaliação atuarial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não estabelecimento, em Lei, do Plano e Custeio Constante da Avaliação Atuarial Elaborada em 2015, que apontou um Déficit Técnico Atuarial de R$ 42.885.518,67",
+      "trechos_identificados": [
+        {
+          "trecho": "Não estabelecimento, em Lei, do Plano e Custeio Constante da Avaliação Atuarial Elaborada em 2015, que apontou um Déficit Técnico Atuarial de R$ 42.885.518,67",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A28B",
+          "tipologia_irregularidade": "Déficit de receita",
+          "descricao": "Déficit de receita",
+          "justificativa_tipologia": "O texto relata a Não estabelecimento, em Lei, do Plano e Custeio, o que ocasiona em Déficit de receita",
+          "fundamentacao_legal": [
+            {
+              "norma": "null",
+              "artigo": "null",
+              "descricao": "O texto relata a Não estabelecimento, em Lei, do Plano e Custeio, o que ocasiona em Déficit de receita"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Despesas Administrativas realizadas no exercício de 2020, ultrapassaram o limite legal de 2%",
+      "trechos_identificados": [
+        {
+          "trecho": "Despesas Administrativas realizadas no exercício de 2020, ultrapassaram o limite legal de 2%",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A47C",
+          "tipologia_irregularidade": "Ausência de comprovação previdênciária disponibilizadas mensalmente",
+          "descricao": "Ausência de comprovação previdênciária disponibilizadas mensalmente",
+          "justificativa_tipologia": "O texto relata que Despesas Administrativas realizadas no exercício de 2020, ultrapassaram o limite legal de 2%, caracterizando Ausência de comprovação previdênciária disponibilizadas mensalmente",
+          "fundamentacao_legal": [
+            {
+              "norma": "null",
+              "artigo": "null",
+              "descricao": "O texto relata que Despesas Administrativas realizadas no exercício de 2020, ultrapassaram o limite legal de 2%, caracterizando Ausência de comprovação previdênciária disponibilizadas mensalmente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência",
+      "trechos_identificados": [
+        {
+          "trecho": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A78C",
+          "tipologia_irregularidade": "Ausência de comprovante - DIPR e Demonstrações Contabéis - que conste encaminhamento á Secretaria de Previdência do Ministério da Fazenda nos respectivos prazos, conforme a legislação específica",
+          "descricao": "Ausência de comprovante - DIPR e Demonstrações Contabéis - que conste encaminhamento á Secretaria de Previdência do Ministério da Fazenda nos respectivos prazos, conforme a legislação específica",
+          "justificativa_tipologia": "A presente deliberação descreve a ausência da comprovação do encaminhamento, pelo ente Federativo, dos demonstrativos Previdenciários ao Ministério da Previdência, em atendimento aos arts. 1o e 9o, I, da Lei 9.717/98, art. 5o, XVI, \"f\" e \"h\" e 6o, I E III, da Portaria MPS n°204/08 e art. 6°, 16 e 17 da Portaria MPS n° 402/08, Portaria MPS n° 509/13 e Portaria STN n° 634/13",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 9.717/98",
+              "artigo": "1",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Lei 9.717/98",
+              "artigo": "9",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Portaria MPS n°204/08",
+              "artigo": "5",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Portaria MPS n°204/08",
+              "artigo": "6",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Portaria MPS n°402/08",
+              "artigo": "6",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Portaria MPS n°402/08",
+              "artigo": "16",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Portaria MPS n°402/08",
+              "artigo": "17",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Portaria MPS n° 509/13",
+              "artigo": "nulo",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            },
+            {
+              "norma": "Portaria STN n° 634/13",
+              "artigo": "nulo",
+              "descricao": "Não comprovação do encaminhamento pelo ente Federativo dos demonstrativos Previdenciários ao Ministério da Previdência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de Lei Municipal, sobre a alteração da alíquota dos servidores municipais, na forma definida na EC nº 103/2019",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Lei Municipal, sobre a alteração da alíquota dos servidores municipais, na forma definida na EC nº 103/2019",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A77B",
+          "tipologia_irregularidade": "Ausência de certificação por entidade autônoma",
+          "descricao": "Foi identificado ausência da comprovação de que o Gestor do FAPEN possua certificação organizada por entidade autônoma de reconhecida capacidade técnica e difusão no mercado de capitais brasileiros.",
+          "justificativa_tipologia": "O trecho descreve a ausência de Lei Municipal para alteração de alíquota, o que implica dizer ausência de certificação/documento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n°9.717/98",
+              "artigo": "6",
+              "descricao": "Ausência de Lei Municipal para alteração de alíquota"
+            },
+            {
+              "norma": "Portaria MPS n° 519/2011",
+              "artigo": "2",
+              "descricao": "Ausência de Lei Municipal para alteração de alíquota"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

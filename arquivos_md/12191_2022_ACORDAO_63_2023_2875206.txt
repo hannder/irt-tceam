@@ -1,0 +1,109 @@
+{
+  "acordao": "63/2023",
+  "processo": "12191/2022",
+  "data_sessao": "31 de Janeiro de 2023",
+  "orgao": "Fundo Manaus Solidária-FMS",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Dulcinéa Ester Pereira de Almeida"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular à  Prestação de Contas do Fundo Manaus Solidária (FMS), exercício de 2021, sob a Responsabilidade da Sra. Dulcinéa Ester  Pereira  de  Almeida ,  nos  termos  do  art.  1º,  II  e  art.  22,  I, ambos da Lei nº 2.423/96 c/c art. 5º, II e 188, § 1º, I, da Resolução nº 4/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular à  Prestação de Contas do Fundo Manaus Solidária (FMS), exercício de 2021, sob a Responsabilidade da Sra. Dulcinéa Ester  Pereira  de  Almeida ,  nos  termos  do  art.  1º,  II  e  art.  22,  I, ambos da Lei nº 2.423/96 c/c art. 5º, II e 188, § 1º, I, da Resolução nº 4/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação informa sobre o julgamento da regularidade das contas, o que não caracteriza um problema estrutural na gestão pública, mas sim uma conclusão sobre a conformidade geral das contas apresentadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º, II e art. 22, I",
+              "descricao": "Disposição legal para julgar a regularidade da prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 4/2002-TCE/AM",
+              "artigo": "5º, II e 188, § 1º, I",
+              "descricao": "Norma interna do TCE/AM que atribui competência e estabelece procedimentos para o julgamento da regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação à Sra Dulcinéa  Ester  Pereira  de  Almeida , nos termos dos arts. 23 e 72, I, ambos da Lei nº 2423, de 10/12/1996, c/c o art. 189, I, da Resolução nº 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação à Sra Dulcinéa  Ester  Pereira  de  Almeida , nos termos dos arts. 23 e 72, I, ambos da Lei nº 2423, de 10/12/1996, c/c o art. 189, I, da Resolução nº 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação informa sobre a quitação das contas, o que não caracteriza um problema estrutural na gestão pública, mas sim uma consequência do julgamento de regularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423, de 10/12/1996",
+              "artigo": "23 e 72, I",
+              "descricao": "Disposição legal para dar quitação ao responsável."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Norma interna do TCE/AM que estabelece procedimentos para a concessão de quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual gestão do Fundo Social de Solidariedade/Fundo Manaus Solidária-FMS que em futuras prestações  de  contas  envide  esforços  para  a  efetiva  obtenção  de recursos financeiros através das práticas do art. 8º da Lei Municipal nº 2218/2017, no que lhe couber",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à atual gestão do Fundo Social de Solidariedade/Fundo Manaus Solidária-FMS que em futuras prestações  de  contas  envide  esforços  para  a  efetiva  obtenção  de recursos financeiros através das práticas do art. 8º da Lei Municipal nº 2218/2017, no que lhe couber",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "A recomendação sugere que a gestão atual se esforce para obter recursos financeiros, indicando uma possível deficiência no planejamento financeiro ou na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 2218/2017",
+              "artigo": "8º",
+              "descricao": "Dispositivo que estabelece práticas para a obtenção de recursos financeiros, cuja aplicação efetiva é recomendada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência da  decisão  proferida  à  interessada a Sra.  Dulcinéa Ester Pereira de Almeida",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência da  decisão  proferida  à  interessada a Sra.  Dulcinéa Ester Pereira de Almeida",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação informa sobre a ciência da decisão, o que não caracteriza um problema estrutural na gestão pública, mas sim um procedimento de comunicação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

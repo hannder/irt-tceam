@@ -1,0 +1,147 @@
+{
+  "acordao": "187/2018",
+  "processo": "1482/2015",
+  "data_sessao": "20 de Março de 2018",
+  "orgao": "Secretaria Municipal de Feiras, Mercados, Produção e Abastecimento -SEMPAB",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Fabio Pacheco da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a Prestação  de  Contas  Anual  da  Secretaria Municipal de Feiras, Mercados, Produção e Abastecimento -SEMPAB,  referente  ao  exercício  de  2014,  de  responsabilidade  do Sr. Fabio Pacheco da Silva , nos termos do art. 71, II, da CF/88, art. 40,  II,  da  CE/89,  art.  1º,  II,  2º,  4º,  5º,  I  e  22,  III,  \"b\"  e  \"c\",  da  Lei Orgânica do TCE/AM c/c art. 11, III, \"a\" e art. 188, §1º, \"b\" e \"c\", do Regimento Interno do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a Prestação  de  Contas  Anual  da  Secretaria Municipal de Feiras, Mercados, Produção e Abastecimento -SEMPAB,  referente  ao  exercício  de  2014,  de  responsabilidade  do Sr. Fabio Pacheco da Silva , nos termos do art. 71, II, da CF/88, art. 40,  II,  da  CE/89,  art.  1º,  II,  2º,  4º,  5º,  I  e  22,  III,  \"b\"  e  \"c\",  da  Lei Orgânica do TCE/AM c/c art. 11, III, \"a\" e art. 188, §1º, \"b\" e \"c\", do Regimento Interno do TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica que a prestação de contas foi julgada irregular, o que sugere que houve falhas que comprometem a integridade e a confiabilidade das demonstrações financeiras",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Dispositivo constitucional que atribui ao Tribunal de Contas a competência para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "art. 40, II, da Constituição Estadual do Amazonas"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "1º, II",
+              "descricao": "art. 1º, II, 2º, 4º, 5º, I e 22, III, \"b\" e \"c\", da Lei Orgânica do TCE/AM"
+            },
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "11, III, \"a\"",
+              "descricao": "Regimento Interno do TCE/AM"
+            },
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "188, §1º, \"b\" e \"c\"",
+              "descricao": "art. 188, §1º, \"b\" e \"c\", do Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Fabio  Pacheco  da  Silva ,  no  valor  de R$ 13.152,37 (treze  mil,  cento  e  cinquenta  e dois reais e trinta e sete centavos),  nos  termos  do  art.  1º,  XXVI,  52  e  54,  II  e  III,  da  Lei Orgânica do TCE/AM c/c art. 308, V e VI, do Regimento Interno do TCE/AM,  por  atos  de  gestão  ilegítimos  ou  antieconômicos  que resultaram  em  injustificado  dano  ao  erário  e  atos  praticados  com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional  e patrimonial. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Fabio  Pacheco  da  Silva ,  no  valor  de R$ 13.152,37 (treze  mil,  cento  e  cinquenta  e dois reais e trinta e sete centavos),  nos  termos  do  art.  1º,  XXVI,  52  e  54,  II  e  III,  da  Lei Orgânica do TCE/AM c/c art. 308, V e VI, do Regimento Interno do TCE/AM,  por  atos  de  gestão  ilegítimos  ou  antieconômicos  que resultaram  em  injustificado  dano  ao  erário  e  atos  praticados  com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional  e patrimonial. O recolhimento deve ser feito no prazo de 30 dias",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A multa aplicada indica que houve descumprimento de normas que causaram dano ao erário e/ou infração grave à norma legal, o que demonstra descumprimento das metas fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "1º, XXVI",
+              "descricao": "art. 1º, XXVI, 52 e 54, II e III, da Lei Orgânica do TCE/AM"
+            },
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "308, V e VI",
+              "descricao": "art. 308, V e VI, do Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em  Alcance o Sr.  Fabio  Pacheco  da Silva ,  no  valor total  de R$  3.433,14 (três  mil,  quatrocentos  e  trinta  e  três  reais  e quatorze centavos), nos termos do art. 304, I e parágrafo único do Regimento  Interno  do  TCE/AM,  por  irregularidades  apontadas  no Relatório da DICAD/MA e do Parquet . O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em  Alcance o Sr.  Fabio  Pacheco  da Silva ,  no  valor total  de R$  3.433,14 (três  mil,  quatrocentos  e  trinta  e  três  reais  e quatorze centavos), nos termos do art. 304, I e parágrafo único do Regimento  Interno  do  TCE/AM,  por  irregularidades  apontadas  no Relatório da DICAD/MA e do Parquet . O recolhimento deve ser feito no prazo de 30 dias",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação de alcance indica que houve dano ao erário, decorrente de irregularidades identificadas, o que se enquadra na tipologia de burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "304, I",
+              "descricao": "art. 304, I e parágrafo único do Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que, após o prazo fixado, em  caso  de  não  recolhimento  do  valor  das  penas  pecuniárias impostas, proceda à instauração da cobrança executiva, nos termos do art. 173, do Regimento Interno do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que, após o prazo fixado, em  caso  de  não  recolhimento  do  valor  das  penas  pecuniárias impostas, proceda à instauração da cobrança executiva, nos termos do art. 173, do Regimento Interno do TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para instauração de cobrança executiva por não recolhimento das penas pecuniárias está relacionada à necessidade de garantir a efetividade das decisões do Tribunal de Contas e o ressarcimento ao erário, o que está ligado ao controle interno",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "173",
+              "descricao": "art. 173, do Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno  que  remeta  cópia  do Relatório Técnico da DICOP de fls. 638/646 à Comissão de Inspeção da  SEMPAB,  referente  ao  exercício  de  2015,  para  juntada  ao processo nº 11865/2016 e análise.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  do  Tribunal  Pleno  que  remeta  cópia  do Relatório Técnico da DICOP de fls. 638/646 à Comissão de Inspeção da  SEMPAB,  referente  ao  exercício  de  2015,  para  juntada  ao processo nº 11865/2016 e análise.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para remessa de cópia do relatório técnico à Comissão de Inspeção da SEMPAB está relacionada à necessidade de fortalecer os procedimentos de controle interno e auditoria, visando a melhoria da gestão pública e a prevenção de irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

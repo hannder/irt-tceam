@@ -1,0 +1,87 @@
+{
+  "acordao": "647/2022",
+  "processo": "11564/2021",
+  "data_sessao": "4 de maio de 2022",
+  "orgao": "Serviço de Pronto Atendimento e Policlínica Dr. José de Jesus Lins de Albuquerque - SPA José Lins",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Raimunda Gomes Pinheiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de encaminhamento dos informes periódicos relativos aos termos aditivos de contratos via Sistema e-Contas, contrariando o que dispõe o art. 1º da Resolução nº 13/2015;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de encaminhamento dos informes periódicos relativos aos termos aditivos de contratos via Sistema e-Contas, contrariando o que dispõe o art. 1º da Resolução nº 13/2015",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas.",
+          "justificativa_tipologia": "O trecho descreve a ausência de envio de informações requeridas por norma do TCE-AM.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre o envio de informações ao e-Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Necessidade de ser evidenciado, anexando os processos administrativos de prorrogação dos ajustes, que todos os aditivos de contratos efetuados foram lastreados em pesquisa de preços capaz de evidenciar a vantajosidade para Administração Pública (artigo 30, §2º, da Instrução Normativa nº 02/2008 do Ministério do Planejamento",
+      "trechos_identificados": [
+        {
+          "trecho": "Necessidade de ser evidenciado, anexando os processos administrativos de prorrogação dos ajustes, que  todos  os  aditivos  de  contratos  efetuados  foram lastreados em pesquisa de preços capaz de evidenciar a vantajosidade para Administração Pública (artigo 30, §2º, da Instrução Normativa nº 02/2008 do Ministério do Planejamento",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho descreve a necessidade de comprovar a vantajosidade em aditivos contratuais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Instrução Normativa nº 02/2008 do Ministério do Planejamento",
+              "artigo": "30",
+              "descricao": "Estabelece diretrizes para a prorrogação de contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Necessidade de ser evidenciado, anexando os processos administrativos de prorrogação dos ajustes, que todos os aditivos de contratos efetuados foram lastreados em pesquisa de preços capaz de evidenciar a vantajosidade para Administração Pública (artigo 30, §2º, da Instrução Normativa nº 02/2008 do Ministério do Planejamento).",
+      "trechos_identificados": [
+        {
+          "trecho": "Necessidade de ser evidenciado, anexando os processos administrativos de prorrogação dos ajustes, que  todos  os  aditivos  de  contratos  efetuados  foram lastreados em pesquisa de preços capaz de evidenciar a vantajosidade para Administração Pública (artigo 30, §2º, da Instrução Normativa nº 02/2008 do Ministério do Planejamento).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho descreve a necessidade de comprovar a vantajosidade em aditivos contratuais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Instrução Normativa nº 02/2008 do Ministério do Planejamento",
+              "artigo": "30",
+              "descricao": "Estabelece diretrizes para a prorrogação de contratos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

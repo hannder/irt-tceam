@@ -1,0 +1,233 @@
+{
+  "acordao": "46/2018",
+  "processo": "10927/2015",
+  "data_sessao": "06 de Novembro de 2018",
+  "orgao": "Prefeitura Municipal de Manicoré",
+  "municipio": "Manicoré",
+  "exercicio": "2014",
+  "responsavel": [
+    "Lúcio Flávio do Rosário"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Câmara Municipal de Manicoré o cumprimento do art. 127,  §§  5º,  6º  e  7º,  da  Constituição  do  Estado  do  Amazonas,  em especial  o  PRAZO  DE  60  DIAS  para  o  julgamento  das  contas  da Prefeitura Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Câmara Municipal de Manicoré o cumprimento do art. 127,  §§  5º,  6º  e  7º,  da  Constituição  do  Estado  do  Amazonas,  em especial  o  PRAZO  DE  60  DIAS  para  o  julgamento  das  contas  da Prefeitura Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A86B",
+          "tipologia_irregularidade": "Disponibilidade de caixa e Restos a pagar insuficiente",
+          "descricao": "Insuficiente Disponibilidade de caixa e Restos a pagar.",
+          "justificativa_tipologia": "Ação que visa cumprimento de rito processual sem indicação de prejuízo ao erário",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "127, §§ 5º, 6º e 7º",
+              "descricao": "Dispõe sobre o prazo para julgamento das contas da Prefeitura Municipal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do Sr.  Lúcio  Flávio  do Rosário -  Prefeito  do  Município  de  Manicoré,  exercício  2014  - nos termos  do  art.  1º.,  II  da  Lei  Estadual  n.  2.423/96  c/c  art.  5º,  II  da Resolução n. 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do Sr.  Lúcio  Flávio  do Rosário -  Prefeito  do  Município  de  Manicoré,  exercício  2014  - nos termos  do  art.  1º.,  II  da  Lei  Estadual  n.  2.423/96  c/c  art.  5º,  II  da Resolução n. 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O texto indica um julgamento formal da prestação de contas, enquadrando-se como um registro de ato administrativo",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a irregularidade da prestação de contas."
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Dispõe sobre a competência para julgar as contas irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Lúcio Flávio do Rosário - Prefeito do Município de Manicoré,  exercício  2014  - no  valor  de R$  26.304,76 (vinte  e  seis  mil, trezentos e quatro reais e setenta e seis centavos), com fulcro no art. 54, II  da  Lei  n.º  2.423/96  c/c  o  art.  308,  VI  da  Resolução  n.º  04/02  -  RITCE/AM, em razão das impropriedades apontadas no item 3 (subitens 3.1.3, 3.3.4, 3.4.1, 3.6.6) do Relatório Conclusivo da DICOP n.º 03/2016 (fls.  2.391/2.411), correspondentes aos item 2 (subitens 2.1  - i, 2.3 - i, 2.4 - i, 2.5  - i)  do  Relatório/Voto;  itens 01 (DICAMI), 05 (DICAMI), 02 (DICREA/DICAMI)  e  04  (DICREA/DICAMI)  do  Relatório  Conclusivo  da DICAMI n.º 60/2016 (fls. 2.414/2.465), correspondentes aos subitens 3.1, 3.2, 3.4 e 3.5 do item 3 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Lúcio Flávio do Rosário - Prefeito do Município de Manicoré,  exercício  2014  - no  valor  de R$  26.304,76 (vinte  e  seis  mil, trezentos e quatro reais e setenta e seis centavos), com fulcro no art. 54, II  da  Lei  n.º  2.423/96  c/c  o  art.  308,  VI  da  Resolução  n.º  04/02  -  RITCE/AM, em razão das impropriedades apontadas no item 3 (subitens 3.1.3, 3.3.4, 3.4.1, 3.6.6) do Relatório Conclusivo da DICOP n.º 03/2016 (fls.  2.391/2.411), correspondentes aos item 2 (subitens 2.1  - i, 2.3 - i, 2.4 - i, 2.5  - i)  do  Relatório/Voto;  itens 01 (DICAMI), 05 (DICAMI), 02 (DICREA/DICAMI)  e  04  (DICREA/DICAMI)  do  Relatório  Conclusivo  da DICAMI n.º 60/2016 (fls. 2.414/2.465), correspondentes aos subitens 3.1, 3.2, 3.4 e 3.5 do item 3 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A10B",
+          "tipologia_irregularidade": "Descumprimento de medidas para redução de Gasto com pessoal ao limite previsto na LRF",
+          "descricao": "Pagamentos sem processo administrativo contendo justificativa para a dispensa de licitação, razão da escolha do fornecedor, pesquisa de mercado e sem cobertura contratual.",
+          "justificativa_tipologia": "Multa aplicada devido a irregularidades na gestão fiscal, indicando descumprimento de normas e procedimentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Dispõe sobre a aplicação de multas em caso de irregularidades."
+            },
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta a aplicação de multas por este Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Manicoré que: a)  desaparte  de  seu  Balanço  Financeiro  os  movimentos  contábeis  do SISPREV,  e  que  normalize  o  funcionamento  daquela  unidade  gestora, com apresentação dos documentos exigidos na Lei",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Manicoré que: a)  desaparte  de  seu  Balanço  Financeiro  os  movimentos  contábeis  do SISPREV,  e  que  normalize  o  funcionamento  daquela  unidade  gestora, com apresentação dos documentos exigidos na Lei",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A recomendação explicita uma deficiência na apresentação e organização das informações contábeis, impactando a transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Manicoré que: b)  Mantenha,  durante  o  exercício  financeiro,  o  cumprimento  do  limite prudencial  de  gastos  com  pessoal,  sob  pena  de  aplicação  da  multa disposta no art. 308, VI da Resolução n.º 04/02 - RI-TCE/AM ao gestor responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Manicoré que: b)  Mantenha,  durante  o  exercício  financeiro,  o  cumprimento  do  limite prudencial  de  gastos  com  pessoal,  sob  pena  de  aplicação  da  multa disposta no art. 308, VI da Resolução n.º 04/02 - RI-TCE/AM ao gestor responsável",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A29A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite prudencial de despesa com pessoal.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de manter o limite prudencial de gastos com pessoal, sob pena de multa, o que indica um risco de descontrole fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Manicoré que: c) Providencie  as  instalações  físicas  do  Serviço  de  Informação  ao Cidadão, sob pena de reincidência na falha",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Manicoré que: c) Providencie  as  instalações  físicas  do  Serviço  de  Informação  ao Cidadão, sob pena de reincidência na falha",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A41B",
+          "tipologia_irregularidade": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "descricao": "Não foi identificado Canal Eletrônico de Acesso/Interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de prover instalações para o Serviço de Informação ao Cidadão (SIC), indicando uma falha na garantia do acesso à informação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Manicoré que: d) Cumpra o art. 4º, III, da Resolução n.º 15/2013 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Manicoré que: d) Cumpra o art. 4º, III, da Resolução n.º 15/2013 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "Cumprimento de obrigação formal sem indicação de dano",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 15/2013 - TCE/AM",
+              "artigo": "4º, III",
+              "descricao": "Norma legal a ser seguida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar À Comissão de Inspeção do ano de 2019 que: a) Verifique o cumprimento do determinado na Lei Federal n.º 9.717/98; Decreto  n.º  3.788/01  e  nas  Portaria  MPS  pertinentes  à  previdência social",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar À Comissão de Inspeção do ano de 2019 que: a) Verifique o cumprimento do determinado na Lei Federal n.º 9.717/98; Decreto  n.º  3.788/01  e  nas  Portaria  MPS  pertinentes  à  previdência social",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A123C",
+          "tipologia_irregularidade": "Ausência de implementação do Regime de previdência complementar",
+          "descricao": "Foi identificado que o RPPS não instituiu o regime de previdência complementar, na forma dos §§ 14 a 16 do art. 40 da Constituição Federal de 1988, que deveria ocorrer no prazo máximo de 2 (dois) anos da data de entrada em vigor da EC no 103/2019.",
+          "justificativa_tipologia": "Determinação de verificação de cumprimento de normas sem indicar descumprimento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n.º 9.717/98",
+              "artigo": "Não aplicável",
+              "descricao": "Dispõe sobre as regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios."
+            },
+            {
+              "norma": "Decreto n.º 3.788/01",
+              "artigo": "Não aplicável",
+              "descricao": "Regulamenta a Lei no 9.717, de 27 de novembro de 1998, que dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal e dá outras providências."
+            },
+            {
+              "norma": "Portaria MPS",
+              "artigo": "Não aplicável",
+              "descricao": "Portarias do Ministério da Previdência Social pertinentes à previdência social."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar À Comissão de Inspeção do ano de 2019 que: b) Verifique a criação do Sistema de Informação ao Cidadão",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar À Comissão de Inspeção do ano de 2019 que: b) Verifique a criação do Sistema de Informação ao Cidadão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A41B",
+          "tipologia_irregularidade": "Não há canal eletrônico de acesso/interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "descricao": "Não foi identificado Canal Eletrônico de Acesso/Interação com o Poder ou órgão (Ouvidoria e/ou Fale Conosco)",
+          "justificativa_tipologia": "Determinação de verificação de cumprimento de normas sem indicar descumprimento",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar À Comissão de Inspeção do ano de 2019 que: c) Observe  a  necessária  atualização  dos  registros  cadastrais dos Agentes  Políticos  e  dos  Cargos  em  Comissão  no  Setor  de  Recursos Humanos da Câmara Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar À Comissão de Inspeção do ano de 2019 que: c) Observe  a  necessária  atualização  dos  registros  cadastrais dos Agentes  Políticos  e  dos  Cargos  em  Comissão  no  Setor  de  Recursos Humanos da Câmara Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2C",
+          "tipologia_irregularidade": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "Determinação de verificação de cumprimento de normas sem indicar descumprimento",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

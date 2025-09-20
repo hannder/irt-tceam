@@ -1,0 +1,124 @@
+{
+  "acordao": "1058/2021",
+  "processo": "11943/2018",
+  "data_sessao": "05 de Outubro de 2021",
+  "orgao": "Secretaria Municipal de Saúde - SEMSA",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Marcelo Magaldi Alves"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com  ressalvas a Prestação de Contas Anual da Secretaria  Municipal  de  Saúde  -  SEMSA,  de  responsabilidade  do Sr. Marcelo Magaldi  Alves , referente  ao  exercício  de  2017, nos  termos  do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei  Estadual  nº  2423/96,  e  art.  188,  §1º,  II,  da  Resolução  nº  04/2002TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com  ressalvas a Prestação de Contas Anual da Secretaria  Municipal  de  Saúde  -  SEMSA,  de  responsabilidade  do Sr. Marcelo Magaldi  Alves , referente  ao  exercício  de  2017, nos  termos  do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei  Estadual  nº  2423/96,  e  art.  188,  §1º,  II,  da  Resolução  nº  04/2002TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica o julgamento das contas como regular com ressalvas, o que por si só, não indica um problema crônico na gestão, ele apenas denota que houve ressalvas sem maior detalhamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Define as normas estabelecidas para os Tribunais de Contas dos Estados"
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Define as competências do Tribunal de Contas do Amazonas."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Dispõe sobre o julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Regulamenta o julgamento das contas como regulares com ressalvas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SEMSA que planeje melhor suas futuras ações, tais como compras e manutenção de estoque, e observe e cumpra os prazos legais e  regimentais,  assim  como  as  recomendações  dos  Laudos  Técnicos  e Parecer Ministerial acostados aos autos, a fim de evitar a reincidência, o que  poderá ensejar  na  irregularidade  de  Prestações  de  Contas  futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SEMSA que planeje melhor suas futuras ações, tais como compras e manutenção de estoque, e observe e cumpra os prazos legais e  regimentais,  assim  como  as  recomendações  dos  Laudos  Técnicos  e Parecer Ministerial acostados aos autos, a fim de evitar a reincidência, o que  poderá ensejar  na  irregularidade  de  Prestações  de  Contas  futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "O trecho indica deficiências no planejamento das ações da SEMSA, incluindo compras e manutenção de estoque, bem como no cumprimento de prazos legais, o que pode comprometer a regularidade das contas no futuro. A necessidade de melhor planejamento e cumprimento de prazos indica falhas nos controles internos e na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "22, §1º",
+              "descricao": "Autoriza o Tribunal a emitir determinações para correção de irregularidades identificadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Marcelo Magaldi Alves , nos termos do art. 24, da Lei  Estadual  nº  2423/96,  c/c  art.  189,  II,  da  Resolução  nº  04/2002TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Marcelo Magaldi Alves , nos termos do art. 24, da Lei  Estadual  nº  2423/96,  c/c  art.  189,  II,  da  Resolução  nº  04/2002TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho trata apenas da quitação do responsável, indicando que ele está livre de responsabilidades com base nas contas apresentadas, sem detalhar quaisquer irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a quitação dos responsáveis após o julgamento das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Regulamenta a concessão de quitação no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos autos, após o cumprimento das formalidades legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos autos, após o cumprimento das formalidades legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho determina apenas o arquivamento dos autos após o cumprimento das formalidades legais, sem indicar qualquer irregularidade ou problema na gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

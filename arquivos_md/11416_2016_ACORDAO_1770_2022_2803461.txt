@@ -1,0 +1,139 @@
+{
+  "acordao": "1770/2022",
+  "processo": "11416/2016",
+  "data_sessao": "11 de Outubro de 2022",
+  "orgao": "Câmara Municipal de Urucurituba",
+  "municipio": "Urucurituba",
+  "exercicio": "2015",
+  "responsavel": [
+    "Manuel Costa Leal"
+  ],
+  "itens": [
+    {
+      "tipo": "Conhecer",
+      "descricao": "Conhecer dos Embargos  de  Declaração  interposto  pelo  Sr.  Manuel Costa Leal, Presidente da Câmara Municipal de Urucurituba no exercício de 2015, na competência atribuída pelo item '1' da alínea 'f' do inciso III do art. 11 c/c o art. 149 da Resolução nº 4/2002-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer dos Embargos  de  Declaração  interposto  pelo  Sr.  Manuel Costa Leal, Presidente da Câmara Municipal de Urucurituba no exercício de 2015, na competência atribuída pelo item '1' da alínea 'f' do inciso III do art. 11 c/c o art. 149 da Resolução nº 4/2002-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação trata do conhecimento de um embargo, que se relaciona com o processo de contas anual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 4/2002-TCE",
+              "artigo": "11, III, 'f', item 1 c/c o art. 149",
+              "descricao": "Define a competência do TCE para julgar embargos de declaração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Negar Provimento",
+      "descricao": "Negar  Provimento aos Embargos  de  Declaração  interposto  pelo  Sr. Manuel Costa Leal, Presidente da Câmara Municipal de Urucurituba à época, pois não existem fundamentos hábeis para efetuar mudanças na decisão recorrida, já que não ficou caracterizado, nos autos, casos de obscuridade, omissão ou contradição no julgado, conforme art. 148 da Resolução n° 04 de 23 de maio de 2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar  Provimento aos Embargos  de  Declaração  interposto  pelo  Sr. Manuel Costa Leal, Presidente da Câmara Municipal de Urucurituba à época, pois não existem fundamentos hábeis para efetuar mudanças na decisão recorrida, já que não ficou caracterizado, nos autos, casos de obscuridade, omissão ou contradição no julgado, conforme art. 148 da Resolução n° 04 de 23 de maio de 2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A deliberação trata do não provimento de um embargo, que se relaciona com o processo de contas anual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04 de 23 de maio de 2002",
+              "artigo": "148",
+              "descricao": "Estabelece os critérios para julgamento de embargos de declaração, especificando as condições sob as quais o provimento pode ser negado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar ciência",
+      "descricao": "Dar ciência ao Sr. Manuel Costa Leal, Presidente da Câmara Municipal de Urucurituba no Exercício de 2015, na forma do art. 95, da Resolução nº  04/2002, ficando autorizada a emissão de nova notificação, caso a primeira  seja  frustrada. Ato  contínuo,  se,  por  ventura,  persistir a problemática,  para  não  restarem  dúvidas  quanto  à  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Manuel Costa Leal, Presidente da Câmara Municipal de Urucurituba no Exercício de 2015, na forma do art. 95, da Resolução nº  04/2002, ficando autorizada a emissão de nova notificação, caso a primeira  seja  frustrada",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A notificação do presidente da Câmara Municipal se relaciona com o processo de contas anual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "95",
+              "descricao": "Regulamenta a forma de dar ciência das decisões do TCE aos responsáveis."
+            }
+          ]
+        },
+        {
+          "trecho": "Ato  contínuo,  se,  por  ventura,  persistir a problemática,  para  não  restarem  dúvidas  quanto  à  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A notificação do presidente da Câmara Municipal se relaciona com o processo de contas anual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Autoriza a comunicação via edital em caso de persistência da problemática."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar ciência",
+      "descricao": "Dar  ciência aos  patronos  do  Sr.  Manuel  Costa  Leal,  Presidente  da Câmara Municipal de Urucurituba no exercício de 2015, na forma do art. 95,  da  Resolução  nº  04/2002,  ficando  autorizada  a  emissão  de  nova notificação, caso a primeira seja frustrada. Ato contínuo, se, por ventura, persistir  a  problemática,  para  não  restarem  dúvidas  quanto  à  sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência aos  patronos  do  Sr.  Manuel  Costa  Leal,  Presidente  da Câmara Municipal de Urucurituba no exercício de 2015, na forma do art. 95,  da  Resolução  nº  04/2002,  ficando  autorizada  a  emissão  de  nova notificação, caso a primeira seja frustrada",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A notificação ao patrono se relaciona com o processo de contas anual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "95",
+              "descricao": "Regulamenta a forma de dar ciência das decisões do TCE aos responsáveis."
+            }
+          ]
+        },
+        {
+          "trecho": "Ato contínuo, se, por ventura, persistir  a  problemática,  para  não  restarem  dúvidas  quanto  à  sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A notificação ao patrono se relaciona com o processo de contas anual",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Autoriza a comunicação via edital em caso de persistência da problemática."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

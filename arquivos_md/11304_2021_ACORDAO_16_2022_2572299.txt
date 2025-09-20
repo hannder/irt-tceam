@@ -1,0 +1,126 @@
+{
+  "acordao": "16/2022",
+  "processo": "11304/2021",
+  "data_sessao": "18 de Janeiro de 2022",
+  "orgao": "Câmara Municipal de Parintins",
+  "municipio": "Parintins",
+  "exercicio": "2020",
+  "responsavel": [
+    "Francisco Walteliton de Souza Pinto"
+  ],
+  "itens": [
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Francisco Walteliton de Souza Pinto no valor de R$ 1.706,80 (um mil, setecentos e seis reais e oitenta centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa na esfera  estadual  para  o Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no  art.  54,  VII,  da  Lei  Orgânica  do  TCE/AM  e  art.  308,  VII,  do Regimento  Interno  do  TCE/AM,  pela  ocorrência  de  impropriedades, ainda que julgadas as contas regulares com ressalvas. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Francisco Walteliton de Souza Pinto no valor de R$ 1.706,80 (um mil, setecentos e seis reais e oitenta centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa na esfera estadual para o Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE', com base no art. 54, VII, da Lei Orgânica do TCE/AM e art. 308, VII, do Regimento Interno do TCE/AM, pela ocorrência de impropriedades, ainda que julgadas as contas regulares com ressalvas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa aplicada indica um descumprimento das normas de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, VII",
+              "descricao": "Fundamenta a aplicação de multa por impropriedades."
+            },
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "308, VII",
+              "descricao": "Base para a aplicação de multa em caso de irregularidades."
+            }
+          ]
+        },
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A exigência de comprovação do pagamento dentro do prazo estabelecido é uma falha na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Obrigatoriedade de encaminhamento do comprovante de pagamento como condição para emissão do Termo de Quitação."
+            }
+          ]
+        },
+        {
+          "trecho": "O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A não adoção de medidas para cobrança de dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Continuidade da cobrança administrativa ou judicial do título executivo."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Medidas a serem adotadas pelo DERED em caso de não pagamento no prazo legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que, após o prazo fixado, em caso de não recolhimento do valor das penas pecuniárias impostas, proceda à instauração da cobrança executiva, nos termos do art. 173, do Regimento Interno do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que, após o prazo fixado, em caso de não recolhimento do valor das penas pecuniárias impostas, proceda à instauração da cobrança executiva, nos termos do art. 173, do Regimento Interno do TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para instaurar cobrança executiva indica uma necessidade de fortalecer os mecanismos de controle interno para garantir o recolhimento das multas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "173",
+              "descricao": "Base legal para a instauração da cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Parintins que planeje melhor suas futuras ações, observe e cumpra os prazos legais e regimentais, assim como as recomendações do Laudo Técnico e Parecer Ministerial acostados aos autos, a fim de evitar a reincidência, o que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Parintins que planeje melhor suas futuras ações, observe e cumpra os prazos legais e regimentais, assim como as recomendações do Laudo Técnico e Parecer Ministerial acostados aos autos, a fim de evitar a reincidência, o que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para planejar melhor as ações e cumprir os prazos indica deficiências nos controles internos da Câmara Municipal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "22, §1º",
+              "descricao": "Possibilidade de irregularidade em prestações de contas futuras."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

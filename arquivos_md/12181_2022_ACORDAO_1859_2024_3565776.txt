@@ -1,0 +1,122 @@
+{
+  "acordao": "1859/2024",
+  "processo": "12181/2022",
+  "data_sessao": "21 de Novembro de 2024",
+  "orgao": "Fundação Hospitalar de Hematologia e Hemoterapia do Amazonas  FHEMOAM",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Cinthia Cristina Matheus e Xerez de Albuquerque",
+    "Adriana Mírian de Miranda Trindade Barbosa",
+    "Maria do Perpétuo Socorro Sampaio Carvalho"
+  ],
+  "itens": [
+    {
+      "tipo": "Ressalva",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas da Fundação Hospitalar de Hematologia e Hemoterapia do Amazonas -FHEMOAM, tendo como responsável a Sra. Maria Do Perpétuo Socorro Sampaio Carvalho ,exercício 2021, nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCEAM c/c artigo 188, inciso I e § 1º, inciso II, da Resolução nº 04/2002-RITCEAM. A ressalva é pela não realização de Concurso Público conforme os dispostos dos incisos II, IX do art. 37 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "A ressalva é pela não realização de Concurso Público conforme os dispostos dos incisos II, IX do art. 37 da Constituição Federal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho descreve a não realização de concurso público, que é uma irregularidade relacionada à gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, II",
+              "descricao": "O inciso II do art. 37 da Constituição Federal estabelece a exigência de concurso público para a investidura em cargo ou emprego público."
+            },
+             {
+              "norma": "Constituição Federal",
+              "artigo": "37, IX",
+              "descricao": "O inciso IX do art. 37 da Constituição Federal estabelece a exceção ao concurso público para contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a Fundação de Hematologia e Hemoterapia do Amazonas FHEMOAM e a Secretaria de Estado de Saúde - SES a realização de Concurso Público, no prazo de 180 dias , a fim de atender os dispostos dos  incisos  II,  IX  do  art.  37  da  Constituição  Federal,  sob  pena  de aplicação de penalidade nos termos no art. 308, inciso II, alínea 'a' da Resolução nº 04/2002-RITCEAM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a Fundação de Hematologia e Hemoterapia do Amazonas FHEMOAM e a Secretaria de Estado de Saúde - SES a realização de Concurso Público, no prazo de 180 dias , a fim de atender os dispostos dos  incisos  II,  IX  do  art.  37  da  Constituição  Federal,  sob  pena  de aplicação de penalidade nos termos no art. 308, inciso II, alínea 'a' da Resolução nº 04/2002-RITCEAM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "Determinação para realizar concurso público devido à ausência, indicando uma falha estrutural na gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, II",
+              "descricao": "O inciso II do art. 37 da Constituição Federal estabelece a exigência de concurso público para a investidura em cargo ou emprego público."
+            },
+             {
+              "norma": "Constituição Federal",
+              "artigo": "37, IX",
+              "descricao": "O inciso IX do art. 37 da Constituição Federal estabelece a exceção ao concurso público para contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCEAM",
+              "artigo": "308, II, a",
+              "descricao": "Artigo que estabelece as penalidades aplicáveis em caso de descumprimento das determinações do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência a Sra.  Maria  Do  Perpétuo  Socorro  Sampaio  Carvalho , acerca da decisão. Ato contínuo, se, porventura, persistir a problemática, para  não  restarem  dúvidas  quanto  à  sua  validade  e  eficácia,  desde  já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência a Sra.  Maria  Do  Perpétuo  Socorro  Sampaio  Carvalho , acerca da decisão. Ato contínuo, se, porventura, persistir a problemática, para  não  restarem  dúvidas quanto à sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "Esta deliberação é uma notificação sobre a decisão, e não uma irregularidade. Além disso, inclui autorização para comunicação via edital, caso a problemática persista, garantindo a validade da decisão. Classificada sob o tema 'Pessoal' devido à relação indireta com a ausência de concurso público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Autoriza a comunicação via edital em caso de persistência da problemática para garantir a validade e eficácia da decisão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  processo  após  cumpridas  as  diligências  processuais,  nos termos do art. 170, §1º da Resolução nº 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  processo  após  cumpridas  as  diligências  processuais,  nos termos do art. 170, §1º da Resolução nº 04/2002.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "Esta deliberação é uma ordem de arquivamento do processo após o cumprimento das diligências processuais, e não uma irregularidade. Classificada sob o tema 'Pessoal' devido à relação indireta com a ausência de concurso público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "170, §1º",
+              "descricao": "Artigo que estabelece as condições para o arquivamento do processo após o cumprimento das diligências processuais."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

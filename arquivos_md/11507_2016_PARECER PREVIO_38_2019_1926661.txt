@@ -1,0 +1,388 @@
+{
+  "acordao": "38/2019",
+  "processo": "11507/2016",
+  "data_sessao": "03 de Setembro de 2019",
+  "orgao": "Prefeitura Municipal de Tonantins",
+  "municipio": "Tonantins",
+  "exercicio": "2015",
+  "responsavel": [
+    "Simeão Garcia Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Prefeitura Municipal de Tonantins, referente ao exercício financeiro de 2015, de responsabilidade do Gestor, ordenador de despesa, Sr. Simeão Garcia Nascimento , conforme o art. 22, inciso III, 'b' e 'c' c/c art. 25, da Lei n.º 2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual da Prefeitura Municipal de Tonantins, referente ao exercício financeiro de 2015, de responsabilidade do Gestor, ordenador de despesa, Sr. Simeão Garcia Nascimento , conforme o art. 22, inciso III, 'b' e 'c' c/c art. 25, da Lei n.º 2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O trecho indica um descumprimento das normas fiscais, impactando a sustentabilidade financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96-LO/TCE",
+              "artigo": "22, inciso III, 'b' e 'c' c/c art. 25",
+              "descricao": "Define a irregularidade na prestação de contas anual da prefeitura devido a restrições não sanadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  ilegal o  Contrato  nº  039/2015,  firmado  entre  à  Prefeitura Municipal de Tonantins e a empresa Megacon Serviços de Construção Civil  Ltda  (CNPJ:  13.713.073/0001-72);  e  o  Contrato  nº  001/2015, firmado entre à Prefeitura Municipal de Tonantins, e a empresa SIGMA ENGENHARIA E CONSULTORIA LTDA. (CNPJ: 11.621.353/0001-5); com fundamento no art. 70, da CF/88, que atribui ao Controle Externo, a fiscalização contábil, orçamentária, operacional e patrimonial das entidades da administração direta e indireta, e em consonância com o art. 1º, II, 'a', 'e', XI, XVII, da Lei nº 2.423/1996 com redação dada pela Lei Complementar nº 193/2018 c/c art. 5º, V, art. 7º, I, art. 32 e art. 37 da Lei nº 2.423/1996, que dão ao TCE/AM a competência para apreciar e julgar contratos públicos em geral",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  ilegal o  Contrato  nº  039/2015,  firmado  entre  à  Prefeitura Municipal de Tonantins e a empresa Megacon Serviços de Construção Civil  Ltda  (CNPJ:  13.713.073/0001-72);  e  o  Contrato  nº  001/2015, firmado entre à Prefeitura Municipal de Tonantins, e a empresa SIGMA ENGENHARIA E CONSULTORIA LTDA. (CNPJ: 11.621.353/0001-5); com fundamento no art. 70, da CF/88, que atribui ao Controle Externo, a fiscalização contábil, orçamentária, operacional e patrimonial das entidades da administração direta e indireta, e em consonância com o art. 1º, II, 'a', 'e', XI, XVII, da Lei nº 2.423/1996 com redação dada pela Lei Complementar nº 193/2018 c/c art. 5º, V, art. 7º, I, art. 32 e art. 37 da Lei nº 2.423/1996, que dão ao TCE/AM a competência para apreciar e julgar contratos públicos em geral",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A ilegalidade dos contratos sugere que não houve processo licitatório adequado ou que os requisitos legais não foram cumpridos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "70",
+              "descricao": "Atribui ao Controle Externo a fiscalização contábil, orçamentária, operacional e patrimonial."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "1º, II, 'a', 'e', XI, XVII",
+              "descricao": "Define a competência do TCE/AM para apreciar e julgar contratos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "5º, V, art. 7º, I, art. 32 e art. 37",
+              "descricao": "Confirma a competência do TCE/AM para apreciar e julgar contratos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Considerar em Alcance o Sr. Simeão Garcia Nascimento no valor de R$ 4.193.904,25 que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tonantins pelas improbidades apontadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Simeão Garcia Nascimento no valor de R$ 4.193.904,25 que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tonantins pelas improbidades apontadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação de alcance indica uma possível gestão inadequada dos recursos públicos, com indícios de desvio ou aplicação irregular.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Ausência  de  respaldo  documental  que  fundamente  o  saldo registrado em caixa no valor de R$ 2.797.445,22 , conforme item 39",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  respaldo  documental  que  fundamente  o  saldo registrado em caixa no valor de R$ 2.797.445,22 , conforme item 39",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ausência de respaldo documental para o saldo em caixa configura uma grave falha contábil e de controle financeiro.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Face a ausência de registro na razão contábil, compatível com o saldo registrado em extrato bancário, no valor de R$ 1.396.459,03 , conforme item 48",
+      "trechos_identificados": [
+        {
+          "trecho": "Face a ausência de registro na razão contábil, compatível com o saldo registrado em extrato bancário, no valor de R$ 1.396.459,03 , conforme item 48",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A falta de registro na razão contábil que seja compatível com o saldo bancário indica uma falha grave na conciliação bancária e no controle financeiro.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Considerar em Alcance o Sr. Simeão Garcia Nascimento , solidariamente  às  empresas  Sigma  Engenharia  e  Consultoria  LTDA. CNPJ: 11.621.353/0001-25 e Megacon Servicos De Construcoes Civil LTDA.  CNPJ:  13.713.073/0001-72,  no  valor  de R$  176.536,25 que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura Municipal de Tonantins pelas impropriedades apontadas e não sanadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Simeão Garcia Nascimento , solidariamente  às  empresas  Sigma  Engenharia  e  Consultoria  LTDA. CNPJ: 11.621.353/0001-25 e Megacon Servicos De Construcoes Civil LTDA.  CNPJ:  13.713.073/0001-72,  no  valor  de R$  176.536,25 que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Prefeitura Municipal de Tonantins pelas impropriedades apontadas e não sanadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "A responsabilização solidária e a necessidade de recolhimento indicam que houve superfaturamento e danos ao erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Na monta de R$ 101.598,60 , pelos apontamentos acima apresentados no  Contrato  nº  039/2015  -  Reforma  das  escolas  municipais,  Otavio Amazonas e Jose Raimundo da Costa na sede do município - Item 89, executado pela empresa Megacon Servicos De Construcoes Civil LTDA. CNPJ: 13.713.073/0001-72",
+      "trechos_identificados": [
+        {
+          "trecho": "Na monta de R$ 101.598,60 , pelos apontamentos acima apresentados no  Contrato  nº  039/2015  -  Reforma  das  escolas  municipais,  Otavio Amazonas e Jose Raimundo da Costa na sede do município - Item 89, executado pela empresa Megacon Servicos De Construcoes Civil LTDA. CNPJ: 13.713.073/0001-72",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "Valor a ser ressarcido por serviços pagos e não executados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "No valor de R$ 74.033,45 , pelos apontamentos acima apresentados no Contrato nº 001/2015 - Construção de uma garagem municipal - Item 95, executado pela empresa Sigma Engenharia e Consultoria LTDA. CNPJ: 11.621.353/0001-25",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 74.033,45 , pelos apontamentos acima apresentados no Contrato nº 001/2015 - Construção de uma garagem municipal - Item 95, executado pela empresa Sigma Engenharia e Consultoria LTDA. CNPJ: 11.621.353/0001-25",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "Valor a ser ressarcido por serviços pagos e não executados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "No montante de R$ 904,20 , pelos apontamentos acima apresentados no Contrato  nº  002/2015  -  Reforma  e  ampliação  da  escola  municipal Suzana  Alborada  na  sede  do  município  de  Tonantins/AM  -  Item  93, executado pela empresa Sigma Engenharia e Consultoria LTDA. CNPJ: 11.621.353/0001-25",
+      "trechos_identificados": [
+        {
+          "trecho": "No montante de R$ 904,20 , pelos apontamentos acima apresentados no Contrato  nº  002/2015  -  Reforma  e  ampliação  da  escola  municipal Suzana  Alborada  na  sede  do  município  de  Tonantins/AM  -  Item  93, executado pela empresa Sigma Engenharia e Consultoria LTDA. CNPJ: 11.621.353/0001-25",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "Valor a ser ressarcido por serviços pagos e não executados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Simeão  Garcia  Nascimento no  valor  de R$ 63.895,20, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através de  DAR  avulso  extraído  do  sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  em  virtude  das seguintes  irregularidades: no  valor R$  20.481,60 reais,  por  atraso na remessa dos balancetes mensais por meio do sistema e-Contas, nos meses de janeiro a dezembro de 2015, conforme o art. 308, I, ''a'' da Resolução  nº  04/2002  -  TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Simeão  Garcia  Nascimento no  valor  de R$ 63.895,20, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através de  DAR  avulso  extraído  do  sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  em  virtude  das seguintes  irregularidades: no  valor R$  20.481,60 reais,  por  atraso na remessa dos balancetes mensais por meio do sistema e-Contas, nos meses de janeiro a dezembro de 2015, conforme o art. 308, I, ''a'' da Resolução  nº  04/2002  -  TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A aplicação de multa por atraso na remessa dos balancetes mensais evidencia o descumprimento dos prazos estabelecidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "308, I, ''a''",
+              "descricao": "Define a multa por atraso na remessa dos balancetes mensais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "no valor R$  1.706,80 reais,  pela ausência  no  envio  de  dados  ao  Sistema  GEFIS,  referentes  ao  2º semestre/15, do Relatório de Gestão Fiscal, baseando-se no art. 54, II, da Lei nº 2.423/96 c/c art. 308, I, ''c'' da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor R$  1.706,80 reais,  pela ausência  no  envio  de  dados  ao  Sistema  GEFIS,  referentes  ao  2º semestre/15, do Relatório de Gestão Fiscal, baseando-se no art. 54, II, da Lei nº 2.423/96 c/c art. 308, I, ''c'' da Resolução nº 04/2002",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "Multa aplicada devido à ausência de envio de dados ao Sistema GEFIS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Base legal para a multa devido à ausência de envio de dados ao Sistema GEFIS."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, I, ''c''",
+              "descricao": "Base legal para a multa devido à ausência de envio de dados ao Sistema GEFIS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "no valor R$  1.706,80 reais,  pela  intempestividade  do  envio  do  RREO  do  6º bimestre do exercício de 2015, com fulcro no art. 54, II, da Lei nº 2.423/96 c/c art. 308, I, ''b'' da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor R$  1.706,80 reais,  pela  intempestividade  do  envio  do  RREO  do  6º bimestre do exercício de 2015, com fulcro no art. 54, II, da Lei nº 2.423/96 c/c art. 308, I, ''b'' da Resolução nº 04/2002",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "Aplicação de multa por envio intempestivo do RREO.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Base legal para a multa devido à intempestividade do envio do RREO."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, I, ''b''",
+              "descricao": "Base legal para a multa devido à intempestividade do envio do RREO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "no valor R$ 25.000,00 reais, pelas  impropriedades  não  sanadas e por atos praticados com grave infração à norma legal conforme dispõe art. 54, II, da Lei nº 2.423/96 c/c art. 308, VI, da Resolução nº 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor R$ 25.000,00 reais, pelas  impropriedades  não  sanadas e por atos praticados com grave infração à norma legal conforme dispõe art. 54, II, da Lei nº 2.423/96 c/c art. 308, VI, da Resolução nº 04/2002 - TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A multa se refere a impropriedades não sanadas e atos que violam normas legais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Base legal para a multa por impropriedades e infração à norma legal."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Base legal para a multa por impropriedades e infração à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "no valor R$ 10.000,00 reais,  por  ato  de  gestão  ilegítimo  e  antieconômico  que  resultaram  os danos descritos nos itens 39, 48, 89, 93 e 95 do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor R$ 10.000,00 reais,  por  ato  de  gestão  ilegítimo  e  antieconômico  que  resultaram  os danos descritos nos itens 39, 48, 89, 93 e 95 do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "Multa por ato de gestão ilegítimo e antieconômico que resultou em danos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar à Prefeitura de Tonantins que cumpra o disposto no art. 93 e 94 da Lei nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Prefeitura de Tonantins que cumpra o disposto no art. 93 e 94 da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A determinação para cumprir os artigos da Lei nº 4.320/64 está relacionada à organização e comprovação das contas públicas, indicando uma possível fragilidade na gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "93 e 94",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Que  cumpra  as  disposições  relativas  ao  Fundo  Municipal  de Saúde",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  as  disposições  relativas  ao  Fundo  Municipal  de Saúde",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "000",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Não cumprimento das responsabilidades do SIC**",
+          "justificativa_tipologia": "A determinação visa garantir a correta aplicação dos recursos no Fundo Municipal de Saúde.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Que regularize o controle de ponto de assiduidade do seu quadro de servidores. Ademais, que observe e cumpra os prazos para a remessa de dados ao Sistema GEFIS; além da adoção de medidas para a atualização continuada no Portal da Transparência",
+      "trechos_identificados": [
+        {
+          "trecho": "Que regularize o controle de ponto de assiduidade do seu quadro de servidores.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A17B",
+          "tipologia_irregularidade": "Uso de controle de frequência manual em detrimento do uso de sistema eletrônico",
+          "descricao": "Ausência de um plano de controle interno formalizado",
+          "justificativa_tipologia": "A necessidade de regularização do controle de ponto indica deficiências nos controles internos relacionados à gestão de pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ademais, que observe e cumpra os prazos para a remessa  de  dados  ao  Sistema  GEFIS;  além  da  adoção  de medidas para a atualização continuada no Portal da Transparência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "O cumprimento dos prazos e a atualização contínua do portal de transparência indicam falhas na transparência e na gestão da informação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar próxima  Comissão  de Inspeção que  dê  especial  atenção aos itens de determinação à origem, visando verificar a ocorrência de reincidência,  bem  como  os  itens  que  foram  alvo  de  determinação  à própria Comissão para veriicação ''in loco''",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar próxima  Comissão  de Inspeção que  dê  especial  atenção aos itens de determinação à origem, visando verificar a ocorrência de reincidência,  bem  como  os  itens  que  foram  alvo  de  determinação  à própria Comissão para veriicação ''in loco''",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",

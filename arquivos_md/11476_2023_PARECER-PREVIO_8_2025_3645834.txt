@@ -1,0 +1,98 @@
+{
+  "acordao": "8/2025",
+  "processo": "11476/2023",
+  "data_sessao": "20 de fevereiro de 2025",
+  "orgao": "Prefeitura Municipal de Japurá",
+  "municipio": "Japurá",
+  "exercicio": "2022",
+  "responsavel": [
+    "Vanilso Monteiro da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar o encaminhamento  do  PARECER  PRÉVIO,  após  a devida  publicação,  acompanhado  do  voto  e  de  cópia  integral  do processo, à Câmara Municipal de Japurá, para que ela, exercendo a competência  que lhe é fixada pelo art. 127 e parágrafos, da Constituição  do  Estado  do  Amazonas,  realize  o  julgamento  das referidas contas, observando, sobretudo, o art. 127, §5º, 6º e  7º, da Constituição do Estado.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o encaminhamento  do  PARECER  PRÉVIO,  após  a devida  publicação,  acompanhado  do  voto  e  de  cópia  integral  do processo, à Câmara Municipal de Japurá, para que ela, exercendo a competência  que lhe é fixada pelo art. 127 e parágrafos, da Constituição  do  Estado  do  Amazonas,  realize  o  julgamento  das referidas contas, observando, sobretudo, o art. 127, §5º, 6º e  7º, da Constituição do Estado.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação é sobre o encaminhamento de documentos à Câmara Municipal, o que não indica diretamente uma falha de controle interno, mas garante o processo de fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição  do  Estado  do  Amazonas",
+              "artigo": "127 e parágrafos",
+              "descricao": "Fixa a competência da Câmara Municipal para realizar o julgamento das referidas contas, observando o art. 127, §5º, 6º e 7º."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar à Prefeitura Municipal de Japurá: a) Que  cumpra  com  rigor  os  prazos  de  envio  ao  TCE/AM  e  de publicação, inclusive no Portal da Transparência, do RREO (bimestral), do RGF (semestral ou quadrimestral) e SIOPE (bimestral). b) Que o Poder Executivo Municipal cumpra com rigor o prazo de envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  com  rigor  os  prazos  de  envio  ao  TCE/AM  e  de publicação, inclusive no Portal da Transparência, do RREO (bimestral), do RGF (semestral ou quadrimestral) e SIOPE (bimestral).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação se refere ao cumprimento dos prazos de envio e publicação de informações no Portal da Transparência, o que está diretamente ligado ao tema da transparência.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Que o Poder Executivo Municipal cumpra com rigor o prazo de envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação se refere ao cumprimento dos prazos de envio de documentos requeridos nas Prestações de Contas Mensais e Anuais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à SECEX a abertura de processo de Representação a fim de apurar os casos de acúmulo indevido de cargos públicos no âmbito da Prefeitura do Município de Japurá descritos no Achado de auditoria n° 20.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX a abertura de processo de Representação a fim de apurar os casos de acúmulo indevido de cargos públicos no âmbito da Prefeitura do Município de Japurá descritos no Achado de auditoria n° 20.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A determinação de abertura de processo de Representação para apurar casos de acúmulo indevido de cargos públicos está diretamente relacionada a irregularidades na área de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "NOTIFICAÇÃO",
+      "descricao": "Notificar o Sr. Vanilso  Monteiro  da  Silva , por  meio  de  seus advogados, com cópia do Relatório/Voto e o Acórdão para ciência do decisório e para, querendo, apresentar o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Vanilso  Monteiro  da  Silva , por  meio  de  seus advogados, com cópia do Relatório/Voto e o Acórdão para ciência do decisório e para, querendo, apresentar o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A notificação ao responsável não indica diretamente uma falha de controle interno, mas garante o processo de fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

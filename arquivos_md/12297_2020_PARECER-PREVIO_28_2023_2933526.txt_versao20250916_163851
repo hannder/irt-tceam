@@ -1,0 +1,115 @@
+{
+  "acordao": "28/2023",
+  "processo": "12297/2020",
+  "data_sessao": "28 de Março de 2023",
+  "orgao": "TCE -TRIBUNAL PLENO",
+  "municipio": "Anamã",
+  "exercicio": "2019",
+  "responsavel": [
+    "Francisco Nunes Bastos (Ordenador de Despesa)"
+  ],
+  "itens": [
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar o  encaminhamento  deste  Parecer  Prévio,  publicado  e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Anamã, para que, na competência prevista no artigo 127, §  5º,  da  Constituição  do  Estado  do  Amazonas,  julgue  as  referidas Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  deste  Parecer  Prévio,  publicado  e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Anamã, para que, na competência prevista no artigo 127, §  5º,  da  Constituição  do  Estado  do  Amazonas,  julgue  as  referidas Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "ACÓRDÃO Nº 28/2023 -TCE",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "127, § 5º",
+              "descricao": "Atribuição de competência à Câmara Municipal para julgar as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Determinar recomendação à Prefeitura Municipal de Anamã para que cumpra com rigor os prazos de remessa dos balancetes mensais e dos Relatórios Resumidos de Execução Orçamentária - RREO, via sistema e-Contas,  além  dos  prazos  de  publicação  dos  demonstrativos  do RREO, sob pena de reincidência e aplicação de multa por descumprimento de determinação desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar recomendação à Prefeitura Municipal de Anamã para que cumpra com rigor os prazos de remessa dos balancetes mensais e dos Relatórios Resumidos de Execução Orçamentária - RREO, via sistema e-Contas,  além  dos  prazos  de  publicação  dos  demonstrativos  do RREO, sob pena de reincidência e aplicação de multa por descumprimento de determinação desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº 28/2023 -TCE",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Não cumprimento dos prazos de remessa dos balancetes mensais e RREO, além dos prazos de publicação dos demonstrativos.",
+          "justificativa_tipologia": "justificativa=O trecho explicita o descumprimento de prazos para remessa de balancetes e RREO.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à  Secretaria de Controle Externo - SECEX que, junto ao DEAP,  tome  as  medidas  cabíveis  para  a  autuação  de  processo autônomo, conforme determina o art. 1º, § 1º, da Portaria nº 152/2021GP,  para  apuração  das  impropriedades  atinentes às Contas  de Gestão, relacionadas no Relatório Conclusivo nº 205/2022 - DICAMI, no Relatório Conclusivo nº 45/2022-DICOP/PROEEX e no Parecer nº 6430/2022-MP-ESB",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria de Controle Externo - SECEX que, junto ao DEAP,  tome  as  medidas  cabíveis  para  a  autuação  de  processo autônomo, conforme determina o art. 1º, § 1º, da Portaria nº 152/2021GP,  para  apuração  das  impropriedades  atinentes às Contas  de Gestão, relacionadas no Relatório Conclusivo nº 205/2022 - DICAMI, no Relatório Conclusivo nº 45/2022-DICOP/PROEEX e no Parecer nº 6430/2022-MP-ESB",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "ACÓRDÃO Nº 28/2023 -TCE",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria nº 152/2021-GP",
+              "artigo": "1º, § 1º",
+              "descricao": "Determina a autuação de processo autônomo para apuração das impropriedades atinentes às Contas de Gestão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciencia",
+      "descricao": "Dar ciência ao Sr. Francisco Nunes Bastos e à Prefeitura Municipal de  Anamã  sobre  o  teor  da decisão,  com  cópia  do  Relatório-Voto  e deste Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Francisco Nunes Bastos e à Prefeitura Municipal de  Anamã  sobre  o  teor  da decisão,  com  cópia  do  Relatório-Voto  e deste Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "ACÓRDÃO Nº 28/2023 -TCE",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Arquivar o processo, após cumpridas as determinações acima",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo, após cumpridas as determinações acima",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "ACÓRDÃO Nº 28/2023 -TCE",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

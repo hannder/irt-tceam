@@ -1,0 +1,43 @@
+{
+  "acordao": "29/2019",
+  "processo": "10013/2012",
+  "data_sessao": "16 de Julho de 2019",
+  "orgao": "Prefeitura Municipal de Maués",
+  "municipio": "Maués",
+  "exercicio": "2011",
+  "responsavel": [
+    "Odivaldo Miguel de Oliveira Paiva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr.Odivaldo Miguel de Oliveira Paiva , responsável pela Prefeitura Municipal de Maués, no curso do exercício de 2011, nos termos do art. l.°, II c/c os art. 22, III, 'a', 'c' e 'd', da Lei n. 2423/96, em face da prática de atos contrários às normas legais e contábeis supracitadas, configuração de danos ao erário em razão de despesas pagas e sem comprovação da execução dos serviços",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Odivaldo Miguel de Oliveira Paiva no valor de R$13.654,39 , (treze mil seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no  art.  54  II,  da  Lei  Orgânica  do  TCE/AM  c/c  o  art.  308,  VI,  da Resolução TCE/AM n. 04/02, com nova redação dada pela Resolução n.  04/2018,  por  atos  praticados  com grave  infração  à  norma  legal  ou regulamentar de natureza contábil, financeira, orçamentária, operacional  e  patrimonial,  referente  as  impropriedades  contidas  nos itens 2; 3 (5.3); 7; 8; 10.1; 11; 12.1; 12.3; 12.5; 12.8; 14.1; 14.2; 14.4; 15.2;  15.3;  15.4;  15.15;  16.1;  16.2;  16.3;  16.4;  16.5;  16.6;  16.7;  16.9; 17.1;  17.1;  17.2;  17.3;  17.4;  17.5;  17.6;  18.1;  18.2;  18.3;  18.4;  18.5; 18;6;  19.2;  19.3;  19.4;  19.6;  19.7;  19.9;  20.1;  20.2;  21.1;  22.2;  22.3; 22.5;  23.1;  23.2;  23.3;  23.4;  24.1;  24.2;  24.3;  24.4;  24.5;  24.6;  24.7; 24.8; 24.10; 24.11 citadas no Relatório/Voto.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Odivaldo Miguel de Oliveira Paiva no valor de R$  6.827,19 (seis  mil  oitocentos  e  vinte  e  sete  reais  e  dezenove centavos) que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no  art.  54,  III,  da  Lei  Orgânica  do  TCE/AM  c/c  o  art.  308,  V,  da Resolução TCE/AM n. 04/02,  com nova redação dada pela Resolução n. 04/2018,  por  atos  de  gestão  ilegítimo  ou  antieconômicos  que resultaram em  justificados danos ao erário público citados nos subitens nº 12.4 (R$ 6.370,00); 12.6 (R$ 3.920,20); 12.7 (R$ 21.846,65);  12.9  (R$  35.280,00);  12.10  (R$  1.724,80);  12.11  (R$ 1.509,20); 12.12 (R$  5.652,70); 12.13 (R$  8.820,00); 12.14 (R$ 6.200,21);  12.15  (R$  57.595,52);  12.16  (R$  3.430,00);  15.16  (R$ 1.900,00); 22.6 (R$ 3.120,36); 24.9 (R$ 52.157,47), do Relatório/Voto.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar em Alcance o Sr. Odivaldo Miguel de Oliveira Paiva , no valor de R$ 209.526,91 (duzentos e nove mil, quinhentos e vinte seis  reais  e  noventa  e  um  centavos) que  devem  ser  recolhidos  na esfera Municipal para o órgão da Prefeitura Municipal de Maués, nos termos  do  art. 304, do  Regimento  Interno,  pelas irregularidades apontadas  no  Relatório  Conclusivo  da  DICOP n.  115/2014  e  no Parecer  do  Ministério  Público  de  Contas  n.  3763/2017-MPC-ELCM (fls. 3707/3749) e no Relatório/Voto, assim discriminadas nos subitens 12.4 (R$ 6.370,00); 12.6 (R$ 3.920,20); 12.7 (R$ 21.846,65); 12.9 (R$ 35.280,00);  12.10  (R$  1.724,80);  12.11  (R$  1.509,20);  12.12  (R$ 5.652,70); 12.13 (R$ 8.820,00); 12.14 (R$6.200,21); 12.15 (R$ 57.595,52);  12.16  (R$  3.430,00);  15.16  (R$  1.900,00);  22.6  (R$ 3.120,36); 24.9 (R$ 52.157,47)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Maués , que sejam observados e cumpridos os prazos legais e regimentais, em especial à Lei de Responsabilidade Fiscal (Lei n. 101/2000), Lei de Licitações e  Contrato  (Lei  n.  8.666/193),  a  fim  de  evitar  a  reincidência,  o  que poderá  ensejar  na  irregularidade  de  Prestações  de  Contas  futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria  do  Tribunal  Pleno que,  após  o  prazo fixado, em caso de não recolhimento do valor das penas pecuniárias impostas, proceda à instauração da cobrança executiva, nos termos do art. 173, do Regimento Interno do TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

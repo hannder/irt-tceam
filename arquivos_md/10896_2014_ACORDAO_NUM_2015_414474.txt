@@ -1,0 +1,377 @@
+{
+  "acordao": "175/2015",
+  "processo": "10896/2014",
+  "data_sessao": "18 de março de 2015",
+  "orgao": "Câmara Municipal de Coari",
+  "municipio": "Coari",
+  "exercicio": "2013",
+  "responsavel": [
+    "Antônio Adenilson Menezes Bonfim"
+  ],
+  "itens": [
+    {
+      "tipo": "Decisão",
+      "descricao": "Considerar Revel o Sr.  Antônio  Adenilson  Menezes Bonfim, Presidente da Câmara e ordenador de despesas, em razão da omissão na apresentação de defesa/documentos quanto às impropriedades indicadas no Ofício nº 001/2014 - DICOP, na forma do art. 20, §3º da Lei n. 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar Revel o Sr.  Antônio  Adenilson  Menezes Bonfim, Presidente da Câmara e ordenador de despesas, em razão da omissão na apresentação de defesa/documentos quanto às impropriedades indicadas no Ofício nº 001/2014 - DICOP, na forma do art. 20, §3º da Lei n. 2423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho se refere ao ato de considerar o responsável revel no processo, não indicando uma irregularidade na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "20, §3º",
+              "descricao": "Omissão na apresentação de defesa/documentos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Julgar pela Irregularidade as Contas da Câmara Municipal de Coari, sob a gestão  do  Sr.  Antônio  Adenilson  Menezes  Bonfim,  exercício  financeiro  de  2013,  com fundamento  no  art.  22,  III,  'b'  e  'c',  da  Lei  Estadual  n.2423/96  face  à  permanência  das impropriedades elencadas no item 13 do Relatório/voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar pela Irregularidade as Contas da Câmara Municipal de Coari, sob a gestão  do  Sr.  Antônio  Adenilson  Menezes  Bonfim,  exercício  financeiro  de  2013,  com fundamento  no  art.  22,  III,  'b'  e  'c',  da  Lei  Estadual  n.2423/96  face  à  permanência  das impropriedades elencadas no item 13 do Relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Julgamento pela irregularidade das contas devido à permanência de impropriedades, o que indica falhas na gestão contábil e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Julgamento pela irregularidade das contas devido à permanência de impropriedades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Considerar  em  Alcance o  ordenador  de  despesas,  Sr.  Antônio  Adenilson Menezes  Bonfim,  no  montante  de R$  542.460,02  (quinhentos  e  quarenta  e  dois  mil, quatrocentos e sessenta reais, dois centavos), em função das restrições acostadas no item 5, alínea 'b', do Relatório/Voto, em face da realização de despesas não escrituradas devidamente e/ou antecipadas sem a devida comprovação, conforme dispõe o art. 304, IV e VI do RITCE, com a concernente devolução aos cofres públicos dos valores devidamente corrigidos",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o  ordenador  de  despesas,  Sr.  Antônio  Adenilson Menezes  Bonfim,  no  montante  de R$  542.460,02  (quinhentos  e  quarenta  e  dois  mil, quatrocentos e sessenta reais, dois centavos), em função das restrições acostadas no item 5, alínea 'b', do Relatório/Voto, em face da realização de despesas não escrituradas devidamente e/ou antecipadas sem a devida comprovação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A deliberação menciona despesas não escrituradas e pagamentos antecipados sem comprovação, o que se alinha com a tipologia de despesas sem prévio empenho.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE",
+              "artigo": "304, IV e VI",
+              "descricao": "Realização de despesas não escrituradas devidamente e/ou antecipadas sem a devida comprovação"
+            }
+          ]
+        },
+        {
+          "trecho": "com a concernente devolução aos cofres públicos dos valores devidamente corrigidos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Determinação de devolução de valores corrigidos aos cofres públicos, consequencia da irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Considerar  em  Glosa  o  ordenador  de  despesas,  Sr.  Antônio  Adenilson Menezes Bonfim, no montante de R$ 281.000,00 (duzentos e oitenta e um mil reais), com devolução aos cofres públicos do valor corrigido, nos moldes do art. 306, Parágrafo único, inciso  III,  da  Resolução  nº  04/2002-Regimento  Interno  do  TCE,  devido  às  restrições  não sanadas nº 4.26 e 4.27, elencadas no item 4 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Glosa  o  ordenador  de  despesas,  Sr.  Antônio  Adenilson Menezes Bonfim, no montante de R$ 281.000,00 (duzentos e oitenta e um mil reais), com devolução aos cofres públicos do valor corrigido, nos moldes do art. 306, Parágrafo único, inciso  III,  da  Resolução  nº  04/2002-Regimento  Interno  do  TCE,  devido  às  restrições  não sanadas nº 4.26 e 4.27, elencadas no item 4 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A glosa está relacionada a restrições não sanadas, o que pode indicar indícios de desvio de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-Regimento Interno do TCE",
+              "artigo": "306, Parágrafo único, inciso III",
+              "descricao": "Restrições não sanadas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Aplicar Multa ao gestor, Sr. Antônio Adenilson Menezes Bonfim, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, V, da Resolução n.04/2002, no valor de R$ 21.920,64 (vinte e um mil, novecentos e vinte reais, sessenta e quatro centavos), face à permanência  das  impropriedades  elencadas  no  item  13  do  Relatório/Voto,  as  quais demonstram a prática de atos de gestão ilegítimos e antieconômicos que resultaram danos ao Erário",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao gestor, Sr. Antônio Adenilson Menezes Bonfim, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, V, da Resolução n.04/2002, no valor de R$ 21.920,64 (vinte e um mil, novecentos e vinte reais, sessenta e quatro centavos), face à permanência  das  impropriedades  elencadas  no  item  13  do  Relatório/Voto,  as  quais demonstram a prática de atos de gestão ilegítimos e antieconômicos que resultaram danos ao Erário",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A multa é aplicada devido à permanência de impropriedades que demonstram atos de gestão ilegítimos e antieconômicos, o que se relaciona à não-adoção de providências para cobrança de dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "54",
+              "descricao": "Sanção de multa"
+            },
+            {
+              "norma": "Resolução n.04/2002",
+              "artigo": "308, V",
+              "descricao": "Sanção de multa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Aplicar Multa ao gestor, Sr. Antônio Adenilson Menezes Bonfim, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, VI, da Resolução n.04/2002, no valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais, vinte e oito centavos), face  à  prática  de  atos  com  grave  infração  às  normais  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial, descritos no item 13 do Relatório/voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao gestor, Sr. Antônio Adenilson Menezes Bonfim, nos termos do artigo 54, da Lei Estadual n.2.423/96, c/c art.308, VI, da Resolução n.04/2002, no valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais, vinte e oito centavos), face  à  prática  de  atos  com  grave  infração  às  normais  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial, descritos no item 13 do Relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A30B",
+          "tipologia_irregularidade": "Não conformidade com leis e regulamentos",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "A multa é aplicada devido à prática de atos com grave infração às normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais, o que se relaciona à não conformidade com leis e regulamentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "54",
+              "descricao": "Sanção de multa"
+            },
+            {
+              "norma": "Resolução n.04/2002",
+              "artigo": "308, VI",
+              "descricao": "Sanção de multa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres estaduais, do valor  imputado  dos  débitos,  com  comprovação  perante  este  Tribunal, acrescidos  da atualização monetária e dos juros de mora devidos, nos termos do art.72, III, da Lei Estadual n.2.423/96 e art. 169, I, da Resolução n.04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres estaduais, do valor  imputado  dos  débitos,  com  comprovação  perante  este  Tribunal, acrescidos  da atualização monetária e dos juros de mora devidos, nos termos do art.72, III, da Lei Estadual n.2.423/96 e art. 169, I, da Resolução n.04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho determina o prazo para recolhimento de débitos, não indicando uma irregularidade na gestão, mas sim uma consequência de irregularidades anteriores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2.423/96",
+              "artigo": "72, III",
+              "descricao": "Prazo para recolhimento de débitos"
+            },
+            {
+              "norma": "Resolução n.04/02-TCE/AM",
+              "artigo": "169, I",
+              "descricao": "Prazo para recolhimento de débitos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Autorizar desde já  a instauração do Processo de Cobrança Executiva dos débitos,  no  caso  de  não  recolhimento  dos  valores  da  condenação, ex  vi o  art.173  do Regimento Interno deste Tribunal de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já  a instauração do Processo de Cobrança Executiva dos débitos,  no  caso  de  não  recolhimento  dos  valores  da  condenação, ex  vi o  art.173  do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho autoriza a instauração de processo de cobrança executiva, não indicando uma irregularidade na gestão, mas sim um procedimento a ser adotado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Autorização para instauração do Processo de Cobrança Executiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem quanto: À  necessidade  de  levantamento  geral  dos  bens  móveis  e  imóveis conforme estabelecido no art. 96, I da Lei n. 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem quanto: À  necessidade  de  levantamento  geral  dos  bens  móveis  e  imóveis conforme estabelecido no art. 96, I da Lei n. 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação sobre o levantamento de bens móveis e imóveis indica uma deficiência nos registros analíticos de bens patrimoniais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4.320/64",
+              "artigo": "96, I",
+              "descricao": "Levantamento geral dos bens móveis e imóveis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem quanto: À instauração de processo administrativo disciplinar a fim de apurar a conduta de servidores quanto à adulteração de comprovantes de deslocamentos de diárias, consoante restrição nº 10",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem quanto: À instauração de processo administrativo disciplinar a fim de apurar a conduta de servidores quanto à adulteração de comprovantes de deslocamentos de diárias, consoante restrição nº 10",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A81B",
+          "tipologia_irregularidade": "Pagamento de Gratificação não regulamentada",
+          "descricao": "Concessão de gratificação aos funcionários sem a devida regulamentação legal ou interna.",
+          "justificativa_tipologia": "A recomendação de instauração de processo administrativo para apurar a adulteração de comprovantes de diárias sugere pagamento de gratificações não regulamentadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem quanto: À necessidade de controle mais efetivo e eficiente sobre a concessão de diárias e passagens aos seus membros",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem quanto: À necessidade de controle mais efetivo e eficiente sobre a concessão de diárias e passagens aos seus membros",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial.",
+          "justificativa_tipologia": "A recomendação de controle mais efetivo sobre a concessão de diárias e passagens está diretamente relacionada a falhas na prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem quanto: Às providências para coibir acumulações indevidas de cargos e funções públicas",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem quanto: Às providências para coibir acumulações indevidas de cargos e funções públicas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A recomendação para coibir acumulações indevidas de cargos e funções públicas indica a existência de acúmulo ilegal de cargos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem quanto: Criação do cargo efetivo de Controlador Interno",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem quanto: Criação do cargo efetivo de Controlador Interno",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação da criação do cargo efetivo de Controlador Interno indica que o controle interno não está adequadamente implementado.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem quanto: À criação de mecanismos de controle de veículos, sejam alugados ou de propriedade da Câmara",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem quanto: À criação de mecanismos de controle de veículos, sejam alugados ou de propriedade da Câmara",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos.",
+          "justificativa_tipologia": "A recomendação de criar mecanismos de controle de veículos, indica a ausência de registro contínuo e permanente de controle de entrada e saída dos objetos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem quanto: À  observância  das  normas  e  procedimentos  definidos  na Lei nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem quanto: À  observância  das  normas  e  procedimentos  definidos  na Lei nº 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A recomendação de observância às normas da Lei nº 8.666/93 indica deficiências nos processos licitatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "null",
+              "descricao": "Normas e procedimentos para licitações e contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Oficiar ao  Ministério  Púbico  Estadual  dando-lhe  conhecimento  dos  fatos para apuração de atos de improbidade administrativa praticados pelo Sr. Antônio Adenilson Menezes  Bonfim ,  gestor  e  ordenador  de  despesas,  por  infringência  às  normas  legais  já mencionadas e danos ao Erário, de acordo com o inciso XXIV, art. 1º da lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Oficiar ao  Ministério  Púbico  Estadual  dando-lhe  conhecimento  dos  fatos para apuração de atos de improbidade administrativa praticados pelo Sr. Antônio Adenilson Menezes  Bonfim ,  gestor  e  ordenador  de  despesas,  por  infringência  às  normas  legais  já mencionadas e danos ao Erário, de acordo com o inciso XXIV, art. 1º da lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Oficiar ao Ministério Público Estadual para apuração de atos de improbidade administrativa, que tem relação com a transparência na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "lei nº 2423/96",
+              "artigo": "1º",
+              "descricao": "apuração de atos de improbidade administrativa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

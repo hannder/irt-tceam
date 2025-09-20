@@ -1,0 +1,70 @@
+{
+  "acordao": "9/2022",
+  "processo": "11353/2017",
+  "data_sessao": "06 de Abril de 2022",
+  "orgao": "Prefeitura Municipal de Humaitá",
+  "municipio": "Humaitá",
+  "exercicio": "2016",
+  "responsavel": [
+    "José Cidenei Lobo do Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o encaminhamento  deste Parecer Prévio, publicado e acompanhado de cópias integrais  do  processo,  à  Câmara  Municipal  de Humaitá, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o encaminhamento  deste Parecer Prévio, publicado e acompanhado de cópias integrais  do  processo,  à  Câmara  Municipal  de Humaitá, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Esta determinação envolve o cumprimento de normas e procedimentos contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CE/1989",
+              "artigo": "127",
+              "descricao": "Determina a competência da Câmara Municipal para julgar as contas do Prefeito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX  que  tome  as medidas cabíveis para a autuação de processos apartados, que deverão ser  devidamente  instruídos,  respeitando  a  competência  de  cada  órgão técnico,  e  as  documentações referentes às impropriedades atinentes às Contas de Gestão mencionadas nos itens de 01 a 23 da DICREA; de 24 a 36  da  DICAMI  e  de  37  a  39  da  DICOP,  listados  na  fundamentação  do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX  que  tome  as medidas cabíveis para a autuação de processos apartados, que deverão ser  devidamente  instruídos,  respeitando  a  competência  de  cada  órgão técnico,  e  as  documentações referentes às impropriedades atinentes às Contas de Gestão mencionadas nos itens de 01 a 23 da DICREA; de 24 a 36  da  DICAMI  e  de  37  a  39  da  DICOP,  listados  na  fundamentação  do Relatório/Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Esta determinação envolve a necessidade de autuação de processos apartados para apurar impropriedades nas contas de gestão, o que está relacionado com a implementação e estruturação do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno  que  dê  ciência  do  desfecho destes  autos  aos  interessados,  bem  como  à  Câmara  Municipal  de Humaitá e à Prefeitura Municipal.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  do  Tribunal  Pleno  que  dê  ciência  do  desfecho destes  autos  aos  interessados,  bem  como  à  Câmara  Municipal  de Humaitá e à Prefeitura Municipal.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "Dar ciência do desfecho do processo aos interessados é uma medida de transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

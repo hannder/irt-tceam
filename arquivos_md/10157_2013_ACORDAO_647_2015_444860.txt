@@ -1,0 +1,384 @@
+{
+  "acordao": "647/2015",
+  "processo": "10157/2013",
+  "data_sessao": "26 de agosto de 2015",
+  "orgao": "Câmara Municipal de Barreirinha",
+  "municipio": "Barreirinha",
+  "exercicio": "2012",
+  "responsavel": [
+    "Carlos Márcio Tavares Marques"
+  ],
+  "itens": [
+    {
+      "tipo": "Glosar",
+      "descricao": "Glosar o montante de R$ 100.600,00 (cem mil e seiscentos reais) , julgando em alcance o Sr. Carlos Márcio Tavares Marques , para devolução dos seguintes valores, corrigidos monetariamente:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Glosar",
+      "descricao": "R$ 27.100,00 (vinte e sete mil e cem reais), relativos à não comprovação do objeto da NE n.º 232",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  27.100,00 (vinte e  sete  mil  e  cem  reais),  relativos  à  não comprovação do objeto da NE n.º 232",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho indica que não houve comprovação do objeto da NE n.º 232, o que configura uma despesa sem comprovação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Glosar",
+      "descricao": "R$ 73.500,00 (setenta e três mil e quinhentos reais), relativos à não comprovação do objeto da NE n.º 184",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 73.500,00 (setenta e três mil e quinhentos reais), relativos à não comprovação do objeto da NE n.º 184",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho indica que não houve comprovação do objeto da NE n.º 184, o que configura uma despesa sem comprovação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Multar o  Sr. Carlos  Márcio  Tavares  Marques ,  Presidente  da  Câmara Municipal de Barreirinha e Ordenador de Despesas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "N o  valor  de R$  1.096,03 (um  mil,  noventa  e  seis  reais  e  três centavos),  conforme  art.  308,  inciso  II,  da  Resolução  TCE/AM  nº.  04/2002,  alterado  pela Resolução TCE/AM nº  25/2012, pelo atraso no envio  das informações  do 2º semestre do Relatório de Gestão Fiscal, conforme especificado no item 13, do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "N o  valor  de R$  1.096,03 (um  mil,  noventa  e  seis  reais  e  três centavos),  conforme  art.  308,  inciso  II,  da  Resolução  TCE/AM  nº.  04/2002,  alterado  pela Resolução TCE/AM nº  25/2012, pelo atraso no envio  das informações  do 2º semestre do Relatório de Gestão Fiscal, conforme especificado no item 13, do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve multa por atraso no envio de informações, o que se enquadra na tipologia de balancetes mensais entregues fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE/AM nº. 04/2002",
+              "artigo": "308, inciso II",
+              "descricao": "Multa por atraso no envio de informações"
+            },
+            {
+              "norma": "Resolução TCE/AM nº 25/2012",
+              "artigo": "Não aplicável",
+              "descricao": "Alteração da Resolução TCE/AM nº. 04/2002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "No valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte cinco centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, inciso VI, da Resolução TCE/AM n° 04/2002, alterada pela Resolução TCE/AM n° 25/2012, pelos atos praticados  com  grave  infração  à  norma  legal  ou  regulamentar  de natureza  contábil, financeira, orçamentária, operacional e patrimonial, constantes dos itens 2, 4, 5, 6, 7, 10, 11, 17 e 18 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte cinco centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, inciso VI, da Resolução TCE/AM n° 04/2002, alterada pela Resolução TCE/AM n° 25/2012, pelos atos praticados  com  grave  infração  à  norma  legal  ou  regulamentar  de natureza  contábil, financeira, orçamentária, operacional e patrimonial, constantes dos itens 2, 4, 5, 6, 7, 10, 11, 17 e 18 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A10B",
+          "tipologia_irregularidade": "Descumprimento de medidas para redução de Gasto com pessoal ao limite previsto na LRF",
+          "descricao": "Pagamentos sem processo administrativo contendo justificativa para a dispensa de licitação, razão da escolha do fornecedor, pesquisa de mercado e sem cobertura contratual.",
+          "justificativa_tipologia": "O texto indica multa por atos com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Multa por atos praticados com grave infração à norma legal ou regulamentar"
+            },
+            {
+              "norma": "Resolução TCE/AM n° 04/2002",
+              "artigo": "308, inciso VI",
+              "descricao": "Multa por atos praticados com grave infração à norma legal ou regulamentar"
+            },
+            {
+              "norma": "Resolução TCE/AM n° 25/2012",
+              "artigo": "Não aplicável",
+              "descricao": "Alteração da Resolução TCE/AM n° 04/2002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias ,  para  que o Sr. Carlos Márcio Tavares Marques , recolha o valor do débito que lhe foi aplicado aos cofres públicos (art. 72, III, 'c', da Lei n.º 2423/96), ficando a DICREX autorizada, caso expirado esse prazo sem o devido pagamento, a tomar as providências para iniciar a sua execução administrativa, adotando as medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n.º 4/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar o  prazo de 30 (trinta) dias ,  para  que o Sr. Carlos Márcio Tavares Marques , recolha os valores das multas que lhe foram aplicados aos cofres públicos (art. 72, III,  'c',  da  Lei  nº  2423/96),  ficando  a  DICREX autorizada, caso expirado esse prazo sem o devido  pagamento,  a  tomar  as  providências para iniciar a sua execução administrativa, adotando  as  medidas  previstas  nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da Resolução n.º 4/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Autorizar ,  em caso  de  não  recolhimentos  dos  valores  de  condenação,  a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do  art. 73 da Lei nº 2.423/96, art. 169, II, art. 173, e § 6º do art. 308, todos da Resolução nº 04/2002- TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Poder Legislativo de Barreirinha, sob pena de aplicação de multa pela reincidência nos mesmos atos, que",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Publique os  balanços  orçamentário,  financeiro  e  patrimonial  no Diário Oficial dos Municípios do Estado do Amazonas (item 03 do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Publique os  balanços  orçamentário,  financeiro  e  patrimonial  no Diário Oficial dos Municípios do Estado do Amazonas (item 03 do Relatório/Voto)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação para publicar os balanços no diário oficial visa aumentar a transparência das contas públicas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Tome providências no sentido excluir de sua Folha de Pagamento as obrigações referentes ao pagamento de aposentadorias e pensões e as repasse ao Fundo de Aposentadoria e Pensão de Servidores Públicos do Município de Barreirinha (item 4 do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Tome providências no sentido excluir de sua Folha de Pagamento as obrigações referentes ao pagamento de aposentadorias e pensões e as repasse ao Fundo de Aposentadoria e Pensão de Servidores Públicos do Município de Barreirinha (item 4 do Relatório/Voto)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A144B",
+          "tipologia_irregularidade": "O RPPS apresenta ausência de contas bancárias separadas das demais disponibilidades do ente federativo",
+          "descricao": "Foi identificado o RPPS possui contas bancárias separadas das demais disponibilidades do ente federativo;",
+          "justificativa_tipologia": "A recomendação visa corrigir a segregação de pagamentos e repasses ao Fundo de Aposentadoria e Pensão, garantindo a organização e conformidade com as práticas previdenciárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe com rigor o cumprimento das regras da Lei de Licitações (Lei n.º 8.666/93),  sobretudo  no que  diz  respeito  à  comprovação  da  publicação  da homologação  e  adjudicação,  as  Certidões  de  Regularidade  Fiscal  das  contratadas  e  o Parecer técnico ou jurídico devidamente assinado (item 6 do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com rigor o cumprimento das regras da Lei de Licitações (Lei n.º 8.666/93),  sobretudo  no que  diz  respeito  à  comprovação  da  publicação  da homologação  e  adjudicação,  as  Certidões  de  Regularidade  Fiscal  das  contratadas  e  o Parecer técnico ou jurídico devidamente assinado (item 6 do Relatório/Voto)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "A recomendação visa garantir o cumprimento das regras da Lei de Licitações, especialmente quanto à comprovação da publicação da homologação e adjudicação, as Certidões de Regularidade Fiscal das contratadas e o Parecer técnico ou jurídico devidamente assinado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 8.666/93",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Licitações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Atente para a observância da LC n.º 147/2014, no que se refere ao tratamento  diferenciado  obrigatório  a  ser  concedido  às microempresas  e  às  empresas  de pequeno porte (item 9 do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente para a observância da LC n.º 147/2014, no que se refere ao tratamento  diferenciado  obrigatório  a  ser  concedido  às microempresas  e  às  empresas  de pequeno porte (item 9 do Relatório/Voto)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A7B",
+          "tipologia_irregularidade": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "descricao": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "justificativa_tipologia": "A recomendação visa garantir o tratamento diferenciado obrigatório a ser concedido às microempresas e às empresas de pequeno porte, conforme a LC n.º 147/2014.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC n.º 147/2014",
+              "artigo": "Não aplicável",
+              "descricao": "Tratamento diferenciado a microempresas e empresas de pequeno porte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Promova o adequado cumprimento da legislação correspondente ao registro analítico de todos os bens de caráter permanente (art. 94, da Lei n.º 2.423/96) (item 10 do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova o adequado cumprimento da legislação correspondente ao registro analítico de todos os bens de caráter permanente (art. 94, da Lei n.º 2.423/96) (item 10 do Relatório/Voto)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação visa garantir o registro analítico de todos os bens de caráter permanente, conforme a legislação patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "94",
+              "descricao": "Registro analítico de todos os bens de caráter permanente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Atente ao  prazo  para  encaminhamento  dos  Relatórios  de  Gestão Fiscal, via GEFIS (item 13 do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente ao  prazo  para  encaminhamento  dos  Relatórios  de  Gestão Fiscal, via GEFIS (item 13 do Relatório/Voto)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A11C",
+          "tipologia_irregularidade": "Publicação do RREO até 30 dias após o encerramento do período",
+          "descricao": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona).",
+          "justificativa_tipologia": "A recomendação visa garantir o cumprimento dos prazos para encaminhamento dos Relatórios de Gestão Fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Cumpra os ditames legais (arts. 31 e 74, da CF/88 e no art. 76, da Lei n.° 4.320/64)  e capacite e treine os servidores designados para esta função, a fim de criar  um  sistema  que  efetivamente  controle,  gerencie,  avalie  e  analise  os  objetivos,  os recursos e as metas do Poder Público (itens 15 e 16 do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra os ditames legais (arts. 31 e 74, da CF/88 e no art. 76, da Lei n.° 4.320/64)  e capacite e treine os servidores designados para esta função, a fim de criar  um  sistema  que  efetivamente  controle,  gerencie,  avalie  e  analise  os  objetivos,  os recursos e as metas do Poder Público (itens 15 e 16 do Relatório/Voto)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho recomenda o cumprimento dos ditames legais e capacitação de servidores para controle, gerenciamento, avaliação e análise dos objetivos, recursos e metas do Poder Público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "31",
+              "descricao": "Controle da administração pública"
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "74",
+              "descricao": "Sistema de controle interno"
+            },
+            {
+              "norma": "Lei n.° 4.320/64",
+              "artigo": "76",
+              "descricao": "Instrumentos de programação e execução orçamentária"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Mantenha os  documentos  técnicos  de  obras/reformas/serviços  de Engenharia nos arquivos da CMB",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha os  documentos  técnicos  de  obras/reformas/serviços  de Engenharia nos arquivos da CMB",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "A recomendação visa garantir a manutenção dos documentos técnicos de obras/reformas/serviços de engenharia nos arquivos da CMB.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe com rigor as regras do art. 6º, IX, da Lei nº 8.666/93 para fins  de  elaboração  de  Projeto  Básico  para  obras  e  serviços  de  Engenharia  quanto  aos documentos: Especificações Técnicas, Planilha Orçamentária, Composição  de Custo Unitário, Cronograma  Físico-Financeiro,  Projeto  Arquitetônico  (se  couber)  e/ou  Projeto Geométrico (se couber) em parceria com a Prefeitura Municipal e/ou outro órgão técnico na esfera estadual/federal; todos devidamente assinados por responsável técnico com o devido registro  no  Conselho  Regional  de  Engenharia  e  Agronomia  do  Amazonas  -  CREA/AM, visando à boa e regular execução de suas obras/serviços de engenharia",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com rigor as regras do art. 6º, IX, da Lei nº 8.666/93 para fins  de  elaboração  de  Projeto  Básico  para  obras  e  serviços  de  Engenharia  quanto  aos documentos: Especificações Técnicas, Planilha Orçamentária, Composição  de Custo Unitário, Cronograma  Físico-Financeiro,  Projeto  Arquitetônico  (se  couber)  e/ou  Projeto Geométrico (se couber) em parceria com a Prefeitura Municipal e/ou outro órgão técnico na esfera estadual/federal; todos devidamente assinados por responsável técnico com o devido registro  no  Conselho  Regional  de  Engenharia  e  Agronomia  do  Amazonas  -  CREA/AM, visando à boa e regular execução de suas obras/serviços de engenharia",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "A recomendação é para observar com rigor as regras do art. 6º, IX, da Lei nº 8.666/93 para fins de elaboração de Projeto Básico para obras e serviços de Engenharia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "6º, IX",
+              "descricao": "Elaboração de Projeto Básico para obras e serviços de Engenharia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Atente à  exigência  de  Anotação  de  Responsabilidade  Técnica  ART (art. 1º c/c art. 2º c/c art. 3º da Lei Federal n.º 6.496 de 07/12/1977 c/c o art. 1º c/c art. 2º c/c art. 3º da Resolução n.º 1.025 de 30/10/2009 do Conselho Federal de Engenharia e Agronomia - CONFEA) por pessoa física e/ou jurídica executoras de obras e/ou serviços de Engenharia",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente à  exigência  de  Anotação  de  Responsabilidade  Técnica  ART (art. 1º c/c art. 2º c/c art. 3º da Lei Federal n.º 6.496 de 07/12/1977 c/c o art. 1º c/c art. 2º c/c art. 3º da Resolução n.º 1.025 de 30/10/2009 do Conselho Federal de Engenharia e Agronomia - CONFEA) por pessoa física e/ou jurídica executoras de obras e/ou serviços de Engenharia",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A17B",
+          "tipologia_irregularidade": "O Projeto Básico não foi elaborado por profissional legalmente habilitado com o registro ART ou RRT, junto ao respectivo Conselho",
+          "descricao": "O Projeto Básico não foi elaborado por profissional legalmente habilitado com o registro ART ou RRT, junto ao respectivo Conselho",
+          "justificativa_tipologia": "A recomendação é para garantir a exigência de Anotação de Responsabilidade Técnica ART por pessoa física e/ou jurídica executoras de obras e/ou serviços de Engenharia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n.º 6.496 de 07/12/1977",
+              "artigo": "1º",
+              "descricao": "Anotação de Responsabilidade Técnica"
+            },
+            {
+              "norma": "Lei Federal n.º 6.496 de 07/12/1977",
+              "artigo": "2º",
+              "descricao": "Anotação de Responsabilidade Técnica"
+            },
+            {
+              "norma": "Lei Federal n.º 6.496 de 07/12/1977",
+              "artigo": "3º",
+              "descricao": "Anotação de Responsabilidade Técnica"
+            },
+            {
+              "norma": "Resolução n.º 1.025 de 30/10/2009 do Conselho Federal de Engenharia e Agronomia - CONFEA",
+              "artigo": "1º",
+              "descricao": "Anotação de Responsabilidade Técnica"
+            },
+            {
+              "norma": "Resolução n.º 1.025 de 30/10/2009 do Conselho Federal de Engenharia e Agronomia - CONFEA",
+              "artigo": "2º",
+              "descricao": "Anotação de Responsabilidade Técnica"
+            },
+            {
+              "norma": "Resolução n.º 1.025 de 30/10/2009 do Conselho Federal de Engenharia e Agronomia - CONFEA",
+              "artigo": "3º",
+              "descricao": "Anotação de Responsabilidade Técnica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Representação",
+      "descricao": "Representar ao Ministério Público Estadual, nos termos do art. 1.º, XXIV da Lei n.º 2423/96 c/c art. 190, III, 'b' da Resolução n. 04/2002 (Regimento Interno do TCE/AM), para apuração de responsabilidade do gestor, por infringência às normas legais",
+      "trechos_identificados": []
+    }
+  ]
+}

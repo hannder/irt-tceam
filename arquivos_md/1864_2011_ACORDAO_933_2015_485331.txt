@@ -1,0 +1,219 @@
+{
+  "acordao": "933/2015",
+  "processo": "1864/2011",
+  "data_sessao": "28 de outubro de 2015",
+  "orgao": "Recursos Supervisionados pela SEMAD - U.G. 350101",
+  "municipio": "Manaus",
+  "exercicio": "2010",
+  "responsavel": [
+    "José Antônio Ferreira de Assunção"
+  ],
+  "itens": [
+    {
+      "tipo": "Glosar",
+      "descricao": "Glosar o montante de R$ 45.020,87 (quarenta e cinco mil e vinte reais e oitenta e sete centavos), referente às impropriedades nºs. 5,  6,  8  10 e 11 do Relatório/Voto, considerando  o  Senhor José  Antônio  Ferreira  de  Assunção , Secretário Municipal  de Administração e Ordenador de Despesas, à época, em ALCANCE, nos termos do artigo 304, inciso I, da Resolução nº. 04/2002 (RITCE) , fixando-lhe o prazo de 30 (trinta)  dias,  para  que recolha o valor do débito aos cofres da Fazenda Municipal, com a devida comprovação nestes autos  (artigo  72,  inciso  III,  alínea  'a'  da  Lei  n.  2423/1996  -  LOTCE  e  artigo  308,  §3°,  da Resolução  nº.  4/2002  -  Regimento  Interno).  Expirado  o  prazo  estabelecido,  o  referido  valor deverá  ser  inscrito  na  Dívida  Ativa  do  Município,  seguida  de  imediata  cobrança  judicial cientificando este Tribunal de todas as medidas adotadas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Glosar o montante de R$ 45.020,87 (quarenta e cinco mil e vinte reais e oitenta e sete centavos), referente às impropriedades nºs. 5,  6,  8  10 e 11 do Relatório/Voto, considerando  o  Senhor José  Antônio  Ferreira  de  Assunção , Secretário Municipal  de Administração e Ordenador de Despesas, à época, em ALCANCE, nos termos do artigo 304, inciso I, da Resolução nº. 04/2002 (RITCE) , fixando-lhe o prazo de 30 (trinta)  dias,  para  que recolha o valor do débito aos cofres da Fazenda Municipal, com a devida comprovação nestes autos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "O trecho descreve a glosa de um montante específico devido a impropriedades, indicando um potencial desvio de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  n.  2423/1996",
+              "artigo": "72, inciso  III,  alínea  'a'",
+              "descricao": "Base legal para o recolhimento do débito aos cofres da Fazenda Municipal."
+            },
+            {
+              "norma": "Resolução  nº.  4/2002",
+              "artigo": "308, §3°",
+              "descricao": "Norma sobre a comprovação do recolhimento do débito."
+            }
+          ]
+        },
+        {
+          "trecho": "Expirado  o  prazo  estabelecido,  o  referido  valor deverá  ser  inscrito  na  Dívida  Ativa  do  Município,  seguida  de  imediata  cobrança  judicial cientificando este Tribunal de todas as medidas adotadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho é apenas uma instrução sobre o procedimento a ser seguido caso o débito não seja pago no prazo, não indicando uma irregularidade em si.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar IRREGULAR, com fulcro no artigo 1º, inciso III, 22, alínea 'b', da Lei  n.  2.423/1996  (LOTCE);  e  artigo  188,  §1º,  inciso  III,  alínea  'b',  da  Resolução  TC  nº. 04/2002  (RITCE),  a  Prestação  de  Contas,  referente  ao  exercício  de  2010,  dos  Recursos Supervisionados pela SEMAD - U.G. 350101, de responsabilidade do Senhor José Antônio Ferreira de Assunção ,  Secretário  Municipal de  Administração e Ordenador de Despesas, à época;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR, com fulcro no artigo 1º, inciso III, 22, alínea 'b', da Lei  n.  2.423/1996  (LOTCE);  e  artigo  188,  §1º,  inciso  III,  alínea  'b',  da  Resolução  TC  nº. 04/2002  (RITCE),  a  Prestação  de  Contas,  referente  ao  exercício  de  2010,  dos  Recursos Supervisionados pela SEMAD - U.G. 350101, de responsabilidade do Senhor José Antônio Ferreira de Assunção ,  Secretário  Municipal de  Administração e Ordenador de Despesas, à época",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas foi considerada irregular, o que implica falhas na apresentação e documentação das informações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  n.  2.423/1996",
+              "artigo": "1º, inciso III, 22, alínea 'b'",
+              "descricao": "Fundamentação legal para julgar a prestação de contas como irregular."
+            },
+            {
+              "norma": "Resolução  TC  nº. 04/2002",
+              "artigo": "188, §1º,  inciso  III,  alínea  'b'",
+              "descricao": "Base normativa para a decisão de irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Na  forma  prevista  no  artigo  1º,  inciso  XXVI  e  artigo  52  da  Lei  nº. 2423/1996  -  LOTCE,  aplicar  ao  Senhor José  Antônio  Ferreira  de  Assunção ,  Secretário Municipal de Administração e Ordenador de Despesas, à época, multa no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), de acordo com o artigo 308, inciso VI, da Resolução nº.  04/2002  - RITCE, alterado pela Resolução n. 25, de 30 de agosto  de  2012,  referente aos  atos  praticados  com  grave  infração  à  norma  legal  ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial constantes nos itens 3, 4, 5, 6, 7, 8, 9, 10, 11 e 12 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Na  forma  prevista  no  artigo  1º,  inciso  XXVI  e  artigo  52  da  Lei  nº. 2423/1996  -  LOTCE,  aplicar  ao  Senhor José  Antônio  Ferreira  de  Assunção ,  Secretário Municipal de Administração e Ordenador de Despesas, à época, multa no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), de acordo com o artigo 308, inciso VI, da Resolução nº.  04/2002  - RITCE, alterado pela Resolução n. 25, de 30 de agosto  de  2012,  referente aos  atos  praticados  com  grave  infração  à  norma  legal  ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial constantes nos itens 3, 4, 5, 6, 7, 8, 9, 10, 11 e 12 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho indica a aplicação de multa devido a atos praticados com grave infração, o que pode configurar uma burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº. 2423/1996",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "Fundamentação legal para a aplicação de multa."
+            },
+            {
+              "norma": "Lei  nº. 2423/1996",
+              "artigo": "52",
+              "descricao": "Base legal para a aplicação de multa."
+            },
+            {
+              "norma": "Resolução nº.  04/2002",
+              "artigo": "308, inciso VI",
+              "descricao": "Regulamentação interna sobre a aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo 174 do Regimento Interno), para que o Senhor José Antônio Ferreira de Assunção , Secretário Municipal de Administração e Ordenador de Despesas, à época , recolha aos cofres da Fazenda Estadual o valor da multa ora aplicada, com  a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar  o prazo concedido (artigo 55,  da Lei  n. 2423/1996  LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias (artigo 174 do Regimento Interno), para que o Senhor José Antônio Ferreira de Assunção , Secretário Municipal de Administração e Ordenador de Despesas, à época , recolha aos cofres da Fazenda Estadual o valor da multa ora aplicada, com  a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar  o prazo concedido (artigo 55,  da Lei  n. 2423/1996  LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho estabelece um prazo para o recolhimento de uma multa e as consequências do não cumprimento, o que não configura uma irregularidade em si.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  n. 2423/1996",
+              "artigo": "55",
+              "descricao": "Base legal para atualização monetária da multa em caso de expiração do prazo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: a) Remeta à atual Administração dos Recursos Supervisionados pela SEMAD U.G.  350101,  cópias  autênticas  das  peças  emitidas  pela  Comissão  de  Inspeção  e  pelo Representante  Ministerial,  visando  evitar  o  cometimento  das  mesmas  impropriedades  em Prestações de Contas futuras; b) Notifique o Senhor José  Antônio  Ferreira  de  Assunção , Secretário Municipal  de  Administração  e  Ordenador  de  Despesas,  à  época,  cópia  do  Relatório/Voto  e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso; c) Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: a) Remeta à atual Administração dos Recursos Supervisionados pela SEMAD U.G.  350101,  cópias  autênticas  das  peças  emitidas  pela  Comissão  de  Inspeção  e  pelo Representante  Ministerial,  visando  evitar  o  cometimento  das  mesmas  impropriedades  em Prestações de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para remeter cópias autênticas das peças visa fortalecer o controle interno, prevenindo a reincidência de impropriedades.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "b) Notifique o Senhor José  Antônio  Ferreira  de  Assunção , Secretário Municipal  de  Administração  e  Ordenador  de  Despesas,  à  época,  cópia  do  Relatório/Voto  e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A notificação e garantia de direito a recurso visam assegurar o devido processo legal, um componente do controle interno.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "c) Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de adotar providências após a coisa julgada reforça o controle interno ao garantir a execução das decisões do tribunal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "159 e 160",
+              "descricao": "Base normativa para a ocorrência da coisa julgada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "POR MAIORIA, na forma prevista no artigo 1º, inciso XXVI e artigo 52 da Lei nº. 2423/1996  -  LOTCE,  aplicar  ao  Senhor José  Antônio  Ferreira  de  Assunção , Secretário Municipal de Administração e Ordenador de Despesas, à época, multa no valor de R$ 5.480,15 (cinco mil, quatrocentos e oitenta reais e quinze centavos), de acordo com o artigo 308,  inciso  II,  da  Resolução  nº.  04/2002  -  RITCE,  alterada  pela  Resolução  nº.  25/2012, correspondente a R$ 1.096,03, por mês de competência ( junho, julho, agosto, setembro e outubro , do exercício de 2010), relativo aos dados e demonstrativos contábeis ACP/Captura,remetidos ao Tribunal de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 10/2012 TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "POR MAIORIA, na forma prevista no artigo 1º, inciso XXVI e artigo 52 da Lei nº. 2423/1996  -  LOTCE,  aplicar  ao  Senhor José  Antônio  Ferreira  de  Assunção , Secretário Municipal de Administração e Ordenador de Despesas, à época, multa no valor de R$ 5.480,15 (cinco mil, quatrocentos e oitenta reais e quinze centavos), de acordo com o artigo 308,  inciso  II,  da  Resolução  nº.  04/2002  -  RITCE,  alterada  pela  Resolução  nº.  25/2012, correspondente a R$ 1.096,03, por mês de competência ( junho, julho, agosto, setembro e outubro , do exercício de 2010), relativo aos dados e demonstrativos contábeis ACP/Captura,remetidos ao Tribunal de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 10/2012 TCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Aplicação de multa devido ao envio de dados contábeis fora do prazo, indicando falha no cumprimento das obrigações de envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "Fundamentação legal para a aplicação de multa."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "52",
+              "descricao": "Base legal para a aplicação de multa."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "308, inciso II",
+              "descricao": "Regulamentação interna sobre a aplicação de multas."
+            },
+             {
+              "norma": "Resolução nº. 10/2012 TCE/AM",
+              "artigo": "4.º",
+              "descricao": "Regulamentação interna sobre o prazo de envio dos documentos contábeis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

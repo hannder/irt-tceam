@@ -1,0 +1,179 @@
+{
+  "acordao": "216/2020",
+  "processo": "1423/2006",
+  "data_sessao": "10 de Março de 2020",
+  "orgao": "Câmara Municipal de Tonantins",
+  "municipio": "Tonantins",
+  "exercicio": "2005",
+  "responsavel": [
+    "Francisco Castro de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação  de  Contas  da  Câmara  Municipal  de Tonantins, referente ao  exercício de  2005,  de  responsabilidade  do Sr.Francisco Castro de Oliveira , na qualidade de Presidente da Câmara daquela Municipalidade, nos termos do art. 19, II, c/c o art. 22, III, 'b' e 'c',  da  lei  Orgânica  deste  Tribunal  de  Contas  n.º2.423,  c/c  o  art.  11,  III, 'a', item 4 da Resolução n.º 04/2002 - TCE/AM, em razão das restrições, constantes dos itens 1, 5, 6, 8, 9, 11, 12, 13 e 14, da Fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação  de  Contas  da  Câmara  Municipal  de Tonantins, referente ao  exercício de  2005,  de  responsabilidade  do Sr.Francisco Castro de Oliveira , na qualidade de Presidente da Câmara daquela Municipalidade, nos termos do art. 19, II, c/c o art. 22, III, 'b' e 'c',  da  lei  Orgânica  deste  Tribunal  de  Contas  n.º2.423,  c/c  o  art.  11,  III, 'a', item 4 da Resolução n.º 04/2002 - TCE/AM, em razão das restrições, constantes dos itens 1, 5, 6, 8, 9, 11, 12, 13 e 14, da Fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica que a prestação de contas é irregular devido a restrições nos demonstrativos contábeis, o que impede a transparência e o controle adequado das finanças públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do Tribunal de Contas n.º2.423",
+              "artigo": "19, II",
+              "descricao": "Indica a competência do TCE para julgar as contas dos responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei Orgânica do Tribunal de Contas n.º2.423",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Define as responsabilidades dos gestores em prestar contas de forma regular e tempestiva."
+            },
+            {
+              "norma": "Resolução n.º 04/2002 - TCE/AM",
+              "artigo": "11, III, 'a', item 4",
+              "descricao": "Estabelece os procedimentos para o julgamento das contas anuais no âmbito do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Francisco  Castro  de  Oliveira , Presidente  da Câmara Municipal de Tonantins, referente ao exercício de 2005, no valor de R$1.706,80 (mil, setecentos e seis reais e oitenta centavos) por cada mês  de  atraso  no  envio  dos  demonstrativos  contábeis,  totalizando  o montante  de R$17.068,00 (dezessete  mil  e  sessenta  e  oito  reais),  que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o  código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE, em razão do atraso no envio dos demonstrativos  contábeis,  referentes  aos  meses  de  janeiro,  fevereiro, março,  abril,  maio,  junho,  julho,  agosto,  outubro  e  novembro,  conforme especificado no item 1 da Fundamentação do Voto, nos termos do art. 54, I, 'a', da Lei n.º 2423/96 (LOTCE/AM), alterada pela Lei Complementar nº 204/2020 e do art. 308, I, 'a' da Resolução TCE/AM nº. 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Francisco  Castro  de  Oliveira , Presidente  da Câmara Municipal de Tonantins, referente ao exercício de 2005, no valor de R$1.706,80 (mil, setecentos e seis reais e oitenta centavos) por cada mês  de  atraso  no  envio  dos  demonstrativos  contábeis,  totalizando  o montante  de R$17.068,00 (dezessete  mil  e  sessenta  e  oito  reais),  que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o  código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE, em razão do atraso no envio dos demonstrativos  contábeis,  referentes  aos  meses  de  janeiro,  fevereiro, março,  abril,  maio,  junho,  julho,  agosto,  outubro  e  novembro,  conforme especificado no item 1 da Fundamentação do Voto, nos termos do art. 54, I, 'a', da Lei n.º 2423/96 (LOTCE/AM), alterada pela Lei Complementar nº 204/2020 e do art. 308, I, 'a' da Resolução TCE/AM nº. 04/2002.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio dos demonstrativos contábeis, indicando falha na gestão e envio de informações financeiras, o que prejudica o controle externo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2423/96 (LOTCE/AM)",
+              "artigo": "54, I, 'a'",
+              "descricao": "Estabelece as penalidades aplicáveis por irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Lei Complementar nº 204/2020",
+              "artigo": "Não aplicável",
+              "descricao": "Altera a Lei n.º 2423/96 (LOTCE/AM), sem especificar artigos."
+            },
+            {
+              "norma": "Resolução TCE/AM nº. 04/2002",
+              "artigo": "308, I, 'a'",
+              "descricao": "Define os procedimentos para aplicação de multas por atraso no envio de documentos contábeis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Francisco  Castro  de  Oliveira , Presidente  da Câmara Municipal de Tonantins, referente ao exercício de 2005, no valor de R$1.706,80 (mil,  setecentos  e  seis  reais  e  oitenta  centavos),  que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, pelo atraso na entrega do Relatório de Gestão Fiscal  do  1º  semestre  de  2005,  conforme  especificado  no  item  11 da Fundamentação do Voto, nos termos do art. 54, I, 'c' da Lei n.º 2423/96 (LOTCE/AM), alterada pela Lei Complementar nº 204/2020 e do art. 308, I, 'c' da Resolução TCE/AM nº. 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Francisco  Castro  de  Oliveira , Presidente  da Câmara Municipal de Tonantins, referente ao exercício de 2005, no valor de R$1.706,80 (mil,  setecentos  e  seis  reais  e  oitenta  centavos),  que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, pelo atraso na entrega do Relatório de Gestão Fiscal  do  1º  semestre  de  2005,  conforme  especificado  no  item  11 da Fundamentação do Voto, nos termos do art. 54, I, 'c' da Lei n.º 2423/96 (LOTCE/AM), alterada pela Lei Complementar nº 204/2020 e do art. 308, I, 'c' da Resolução TCE/AM nº. 04/2002.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na entrega do Relatório de Gestão Fiscal, indicando falha no cumprimento das obrigações fiscais e de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2423/96 (LOTCE/AM)",
+              "artigo": "54, I, 'c'",
+              "descricao": "Estabelece as penalidades aplicáveis por irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Lei Complementar nº 204/2020",
+              "artigo": "Não aplicável",
+              "descricao": "Altera a Lei n.º 2423/96 (LOTCE/AM), sem especificar artigos."
+            },
+            {
+              "norma": "Resolução TCE/AM nº. 04/2002",
+              "artigo": "308, I, 'c'",
+              "descricao": "Define os procedimentos para aplicação de multas por atraso no envio de documentos fiscais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Francisco  Castro  de  Oliveira, Presidente  da Câmara Municipal de Tonantins, referente ao exercício de 2005, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove  centavos),  que  deverá  ser  recolhida no  prazo  de  30  dias para  o Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE,  pelos  atos praticados  com grave  infração  às  normas  legais,  conforme  especificado nos itens 5, 6, 8, 9, 12, 13 e 14 da Fundamentação do Voto, nos termos do  art. 54, VI, da  Lei nº 2.423/96  (LOTCE/AM),  alterada  pela  Lei Complementar nº 204/2020, c/c o art. 308, VI, da Resolução nº 04/2002 (RITCE/AM).",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Francisco  Castro  de  Oliveira, Presidente  da Câmara Municipal de Tonantins, referente ao exercício de 2005, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove  centavos),  que  deverá  ser  recolhida no  prazo  de  30  dias para  o Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE,  pelos  atos praticados  com grave  infração  às  normas  legais,  conforme  especificado nos itens 5, 6, 8, 9, 12, 13 e 14 da Fundamentação do Voto, nos termos do  art. 54, VI, da  Lei nº 2.423/96  (LOTCE/AM),  alterada  pela  Lei Complementar nº 204/2020, c/c o art. 308, VI, da Resolução nº 04/2002 (RITCE/AM).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A multa é aplicada por atos que infringem gravemente as normas legais, indicando potenciais desvios nos procedimentos de pagamento e contratação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96 (LOTCE/AM)",
+              "artigo": "54, VI",
+              "descricao": "Estabelece as penalidades aplicáveis por atos praticados com grave infração às normas legais na gestão de recursos públicos."
+            },
+            {
+              "norma": "Lei Complementar nº 204/2020",
+              "artigo": "Não aplicável",
+              "descricao": "Altera a Lei nº 2.423/96 (LOTCE/AM), sem especificar artigos."
+            },
+            {
+              "norma": "Resolução nº 04/2002 (RITCE/AM)",
+              "artigo": "308, VI",
+              "descricao": "Define os procedimentos para aplicação de multas por infrações às normas legais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Francisco Castro de Oliveira , Presidente da Câmara Municipal de Tonantins, do teor das deliberações desta Corte, encaminhando-lhe cópia do Relatório-Voto e do Acórdão correspondente",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Francisco Castro de Oliveira , Presidente da Câmara Municipal de Tonantins, do teor das deliberações desta Corte, encaminhando-lhe cópia do Relatório-Voto e do Acórdão correspondente",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ciência tem como objetivo informar o gestor sobre as falhas encontradas, para que ele possa tomar medidas para corrigir as irregularidades e melhorar a gestão pública. Este processo contribui para o fortalecimento do controle interno e para a prevenção de novas irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O arquivamento dos autos, após o cumprimento dos prazos legais, é um procedimento padrão do TCE e marca o encerramento formal do processo de controle externo. Embora não seja uma ação diretamente relacionada ao controle interno, garante que as ações corretivas e preventivas sejam devidamente documentadas e implementadas antes do encerramento do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

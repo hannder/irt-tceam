@@ -1,0 +1,298 @@
+{
+  "acordao": "150/2014",
+  "processo": "2290/2013",
+  "data_sessao": "12 de março de 2014",
+  "orgao": "Serviço de Pronto Atendimento Joventina Dias",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Antônio Moraes de Aquino",
+    "Ednelza Blair Cavalcante"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  Regular  com  Ressalva a  Prestação  de  Contas  do  SPA Joventina  Dias  referente  ao  exercício  de  2012,  de  responsabilidade  do Sr.  Antonio Moraes  de  Aquino , gestor  no  período  de  01/01/2012  a  05/04/2012  e  01/11/2012  a 31/12/2012, nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalva a  Prestação  de  Contas  do  SPA Joventina  Dias  referente  ao  exercício  de  2012,  de  responsabilidade  do Sr.  Antonio Moraes  de  Aquino , gestor  no  período  de  01/01/2012  a  05/04/2012  e  01/11/2012  a 31/12/2012, nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento formal da prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso III, 'b'",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "25",
+              "descricao": "Responsabilidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  Regular  com  Ressalva a  Prestação  de  Contas  do  SPA Joventina Dias referente ao exercício de 2012, de responsabilidade da Sra. Ednelza Blair Cavalcante , gestora no período de 05/04/2012 a 01/11/2012, nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalva a  Prestação  de  Contas  do  SPA Joventina Dias referente ao exercício de 2012, de responsabilidade da Sra. Ednelza Blair Cavalcante , gestora no período de 05/04/2012 a 01/11/2012, nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento formal da prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso III, 'b'",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "25",
+              "descricao": "Responsabilidades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual Direção do SPA Joventina Dias:a) que observe, com maior rigor, a correta alimentação do Sistema ACP, nos termos da Resolução 07/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à atual Direção do SPA Joventina Dias:a) que observe, com maior rigor, a correta alimentação do Sistema ACP, nos termos da Resolução 07/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho se refere a alimentação do sistema ACP, o que se enquadra no tema de envio de informações da PCA e outros documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 07/2002",
+              "artigo": "Não especificado",
+              "descricao": "Alimentação do Sistema ACP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual Direção do SPA Joventina Dias:b)  que  observe, com  maior  rigor,  o  cumprimento  da  Lei  de  Licitações 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à atual Direção do SPA Joventina Dias:b)  que  observe, com  maior  rigor,  o  cumprimento  da  Lei  de  Licitações 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1A",
+          "tipologia_irregularidade": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "descricao": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "justificativa_tipologia": "O trecho se refere ao cumprimento da Lei de Licitações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Licitações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual Direção do SPA Joventina Dias:c) que observe, com  maior rigor, os procedimentos administrativos necessários à correta manutenção da Unidade.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à atual Direção do SPA Joventina Dias:c) que observe, com  maior rigor, os procedimentos administrativos necessários à correta manutenção da Unidade.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Recomendação para observar os procedimentos administrativos na correta manutenção da Unidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Na  forma  prevista  nos  artigos  1º,  inciso  XXVI  e  52 da  Lei  nº. 2423/1996, aplicar ao Senhor Antônio Moraes de Aquino, Diretor Geral e Ordenador de Despesas, no período de 01.01.2012 a 05.04.2012 e 01.11.2012 a 31.12.2012 ,  multa, no valor de R$ 1.613,34, de  acordo com o artigo 308, I, alínea 'c', da Resolução nº. 4/2002 (Regimento Interno), alterada pela Resolução nº. 01/2009, correspondente R$ 806,67, por mês de competência (janeiro e fevereiro do exercício de 2012), relativo aos dados  e  demonstrativos  contábeis  ACP/Captura,  remetidos  ao  Tribunal  de  Contas,  com mais de 30 (trinta) dias além do prazo fixado no artigo 4.º da Resolução n. 10/2002-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Na  forma  prevista  nos  artigos  1º,  inciso  XXVI  e  52 da  Lei  nº. 2423/1996, aplicar ao Senhor Antônio Moraes de Aquino, Diretor Geral e Ordenador de Despesas, no período de 01.01.2012 a 05.04.2012 e 01.11.2012 a 31.12.2012 ,  multa, no valor de R$ 1.613,34, de  acordo com o artigo 308, I, alínea 'c', da Resolução nº. 4/2002 (Regimento Interno), alterada pela Resolução nº. 01/2009, correspondente R$ 806,67, por mês de competência (janeiro e fevereiro do exercício de 2012), relativo aos dados  e  demonstrativos  contábeis  ACP/Captura,  remetidos  ao  Tribunal  de  Contas,  com mais de 30 (trinta) dias além do prazo fixado no artigo 4.º da Resolução n. 10/2002-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Multa por envio de dados e demonstrativos contábeis fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "Multa"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "52",
+              "descricao": "Multa"
+            },
+            {
+              "norma": "Resolução nº. 4/2002",
+              "artigo": "308, I, alínea 'c'",
+              "descricao": "Multa"
+            },
+            {
+              "norma": "Resolução nº. 01/2009",
+              "artigo": "Não especificado",
+              "descricao": "Alteração da Resolução nº. 4/2002"
+            },
+            {
+              "norma": "Resolução n. 10/2002-TCE",
+              "artigo": "4",
+              "descricao": "Prazo para envio de dados e demonstrativos contábeis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo  174  do  Regimento Interno), para que o Senhor Antônio Moraes de Aquino, Diretor Geral e Ordenador de Despesas, no período de 01.01.2012 a 05.04.2012 e 01.11.2012 a 31.12.2012 , recolha aos cofres da Fazenda Estadual a multa ora aplicada, com a devida comprovação nos autos. Na hipótese de expirar este prazo, o valor da multa deverá ser atualizado monetariamente (art. 55, da Lei n. 2423/1996), ficando a DICREX autorizada a adotar as medidas previstas no artigo 173 da Subseção III e da Seção III, do Capítulo X, da Resolução TC n. 4/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias (artigo  174  do  Regimento Interno), para que o Senhor Antônio Moraes de Aquino, Diretor Geral e Ordenador de Despesas, no período de 01.01.2012 a 05.04.2012 e 01.11.2012 a 31.12.2012 , recolha aos cofres da Fazenda Estadual a multa ora aplicada, com a devida comprovação nos autos. Na hipótese de expirar este prazo, o valor da multa deverá ser atualizado monetariamente (art. 55, da Lei n. 2423/1996), ficando a DICREX autorizada a adotar as medidas previstas no artigo 173 da Subseção III e da Seção III, do Capítulo X, da Resolução TC n. 4/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Fixa prazo para recolhimento de multa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "174",
+              "descricao": "Prazo para recolhimento de multa"
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "55",
+              "descricao": "Atualização monetária da multa"
+            },
+            {
+              "norma": "Resolução TC n. 4/2002",
+              "artigo": "173",
+              "descricao": "Medidas a serem adotadas pela DICREX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Multar  o  Sr.  Antônio  Moraes  de  Aquino pelos  subitens  10.1.2  e 10.1.4 do relatório/voto, no valor de R$ 4.468,42 (Quatro mil, quatrocentos e sessenta e oito reais e quarenta e dois centavos), pelas impropriedades, conforme disposto no art. 53, Parágrafo Único, da Lei Orgânica 2.423/96 com a nova redação dada pelo art. 2º da Lei Complementar nº 114/2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar  o  Sr.  Antônio  Moraes  de  Aquino pelos  subitens  10.1.2  e 10.1.4 do relatório/voto, no valor de R$ 4.468,42 (Quatro mil, quatrocentos e sessenta e oito reais e quarenta e dois centavos), pelas impropriedades, conforme disposto no art. 53, Parágrafo Único, da Lei Orgânica 2.423/96 com a nova redação dada pelo art. 2º da Lei Complementar nº 114/2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "Aplicação de multa por impropriedades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica 2.423/96",
+              "artigo": "53, Parágrafo Único",
+              "descricao": "Disposições sobre multas"
+            },
+            {
+              "norma": "Lei Complementar nº 114/2013",
+              "artigo": "2º",
+              "descricao": "Nova redação da Lei Orgânica 2.423/96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Multar a Sra.  Ednelza  Blair  Cavalcante pelo  subitem  10.2.4  do relatório/voto, no valor de R$ 4.468,42 (Quatro mil, quatrocentos e sessenta e oito reais e quarenta e dois centavos), pelas impropriedades, conforme disposto no art. 53, Parágrafo Único, da Lei Orgânica  2.423/96  com  a  nova  redação  dada  pelo  art. 2º da Lei Complementar nº 114/2013.",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar a Sra.  Ednelza  Blair  Cavalcante pelo  subitem  10.2.4  do relatório/voto, no valor de R$ 4.468,42 (Quatro mil, quatrocentos e sessenta e oito reais e quarenta e dois centavos), pelas impropriedades, conforme disposto no art. 53, Parágrafo Único, da Lei Orgânica  2.423/96  com  a  nova  redação  dada  pelo  art. 2º da Lei Complementar nº 114/2013.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "Aplicação de multa por impropriedades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica 2.423/96",
+              "artigo": "53, Parágrafo Único",
+              "descricao": "Disposições sobre multas"
+            },
+            {
+              "norma": "Lei Complementar nº 114/2013",
+              "artigo": "2º",
+              "descricao": "Nova redação da Lei Orgânica 2.423/96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  prazo  de  30  dias para  recolher  as  multas  citadas aplicadas acima aos cofres da Fazenda Pública nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM, e caso não seja recolhida, proceda a inscrição na dívida ativa pela Fazenda Estadual, em consonância com art. 73 da Lei nº 2.423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  prazo  de  30  dias para  recolher  as  multas  citadas aplicadas acima aos cofres da Fazenda Pública nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM, e caso não seja recolhida, proceda a inscrição na dívida ativa pela Fazenda Estadual, em consonância com art. 73 da Lei nº 2.423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Determina o prazo para recolhimento da multa aplicada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Recolhimento das multas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Regras sobre multas"
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "73",
+              "descricao": "Inscrição na dívida ativa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

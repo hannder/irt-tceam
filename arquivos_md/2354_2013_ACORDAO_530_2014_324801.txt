@@ -1,0 +1,315 @@
+{
+  "acordao": "530/2014",
+  "processo": "2354/2013",
+  "data_sessao": "30 de setembro de 2014",
+  "orgao": "Secretaria Municipal do Trabalho e Desenvolvimento Social - SEMTRAD",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Vital da Costa Melo",
+    "Maria Francinete Correia de Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  IRREGULAR a  Prestação  de  Contas  Anual  da  Secretaria Municipal  do  Trabalho  e  do  Desenvolvimento  Social,  relativas  ao  exercício  de  2012,  no período de 01/01/2012 a 04/04/2012, de responsabilidade do Sr. Vital da Costa Melo, nos termos do artigo 5º, inciso XI, e do artigo  188, § 1º, inciso III, alínea 'b',  do Regimento Interno TCE nº  04/2002, e do artigo 7º, inciso IV, da Lei Orgânica TCE nº 2423/96, em razão das impropriedades não sanadas expostas anteriormente",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  IRREGULAR a  Prestação  de  Contas  Anual  da  Secretaria Municipal  do  Trabalho  e  do  Desenvolvimento  Social,  relativas  ao  exercício  de  2012,  no período de 01/01/2012 a 04/04/2012, de responsabilidade do Sr. Vital da Costa Melo, nos termos do artigo 5º, inciso XI, e do artigo  188, § 1º, inciso III, alínea 'b',  do Regimento Interno TCE nº  04/2002, e do artigo 7º, inciso IV, da Lei Orgânica TCE nº 2423/96, em razão das impropriedades não sanadas expostas anteriormente",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição indica uma falha na prestação de contas, especificamente na ausência de informações essenciais, o que prejudica a transparência e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno TCE nº 04/2002",
+              "artigo": "188, § 1º, inciso III, alínea 'b'",
+              "descricao": "Define os termos para julgamento de irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Lei Orgânica TCE nº 2423/96",
+              "artigo": "7º, inciso IV",
+              "descricao": "Define os termos para julgamento de irregularidade na prestação de contas."
+            },
+              {
+              "norma": "artigo 5º",
+              "artigo": "inciso XI",
+              "descricao": "Define os termos para julgamento de irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar IRREGULAR as contas da Secretaria Municipal do Trabalho e do Desenvolvimento Social, relativas ao exercício de 2012, de responsabilidade da Sra. Maria Francinete Correia de Lima, no período de 05/04/2012 a 31/12/2012, nos termos do artigo 5º , inciso XI, artigo 188, § 1º , inciso III, alínea 'b', do Regimento Interno do TCE nº 04/2002,  e  do  artigo  7º,  inciso  IV,  da  Lei  Orgânica  TCE  nº  2423/96,  em  razão  das impropriedades não sanadas apontadas anteriormente.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR as contas da Secretaria Municipal do Trabalho e do Desenvolvimento Social, relativas ao exercício de 2012, de responsabilidade da Sra. Maria Francinete Correia de Lima, no período de 05/04/2012 a 31/12/2012, nos termos do artigo 5º , inciso XI, artigo 188, § 1º , inciso III, alínea 'b', do Regimento Interno do TCE nº 04/2002,  e  do  artigo  7º,  inciso  IV,  da  Lei  Orgânica  TCE  nº  2423/96,  em  razão  das impropriedades não sanadas apontadas anteriormente.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição indica uma falha na prestação de contas, especificamente na ausência de informações essenciais, o que prejudica a transparência e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno TCE nº 04/2002",
+              "artigo": "188, § 1º, inciso III, alínea 'b'",
+              "descricao": "Define os termos para julgamento de irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Lei Orgânica TCE nº 2423/96",
+              "artigo": "7º, inciso IV",
+              "descricao": "Define os termos para julgamento de irregularidade na prestação de contas."
+            },
+              {
+              "norma": "artigo 5º",
+              "artigo": "inciso XI",
+              "descricao": "Define os termos para julgamento de irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinqüenta e dois reais e trinta e sete centavos) ao Sr. Vital da Costa Melo, com base no art. 54, II e III, da  Lei Estadual n. 2.423/96, c/c o art. 308, V e VI da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/A,B,C, 3 e 5B , deste Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinqüenta e dois reais e trinta e sete centavos) ao Sr. Vital da Costa Melo, com base no art. 54, II e III, da  Lei Estadual n. 2.423/96, c/c o art. 308, V e VI da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/A,B,C, 3 e 5B , deste Relatório-Voto",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A aplicação de multa está relacionada à irregularidade nas contas, decorrente da ausência de informações essenciais, o que prejudica a transparência e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II e III",
+              "descricao": "Base legal para aplicação de multa."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, V e VI",
+              "descricao": "Base legal para aplicação de multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos) à Sra. Maria Francinete Correia de Lima, com  base  no  art.  54,  II  e  III,  da  Lei  Estadual  n.  2.423/96,  c/c  o  art.  308,  V  e  VI  da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/2A,B,C, 3, 4, 6 e 7 , deste RelatórioVoto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos) à Sra. Maria Francinete Correia de Lima, com  base  no  art.  54,  II  e  III,  da  Lei  Estadual  n.  2.423/96,  c/c  o  art.  308,  V  e  VI  da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/2A,B,C, 3, 4, 6 e 7 , deste RelatórioVoto",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A aplicação de multa está relacionada à irregularidade nas contas, decorrente da ausência de informações essenciais, o que prejudica a transparência e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II e III",
+              "descricao": "Base legal para aplicação de multa."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, V e VI",
+              "descricao": "Base legal para aplicação de multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias (art. 174 do Regimento Interno), para que  os Senhores VITAL DA COSTA  MELO e  MARIA FRANCINETE CORREIA DE LIMA recolham aos cofres da Fazenda Estadual o valor das multas ora aplicadas, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei 2423/1996  - LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE, devendo ainda ser determinado que a Secretaria do Tribunal Pleno adote as providências previstas no artigo 162, §2º , do Regimento Interno",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias (art. 174 do Regimento Interno), para que  os Senhores VITAL DA COSTA  MELO e  MARIA FRANCINETE CORREIA DE LIMA recolham aos cofres da Fazenda Estadual o valor das multas ora aplicadas, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei 2423/1996  - LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE, devendo ainda ser determinado que a Secretaria do Tribunal Pleno adote as providências previstas no artigo 162, §2º , do Regimento Interno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento de multa, apesar de relacionada a irregularidades contábeis, é um procedimento administrativo padrão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "artigo 55, da Lei 2423/1996  - LOTCE",
+              "artigo": "null",
+              "descricao": "Define sobre a atualização monetária, na hipótese de expirar o prazo concedido."
+            },
+            {
+              "norma": "Resolução n. 4/2002 - RITCE",
+              "artigo": "null",
+              "descricao": "autoriza a DICREX a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X"
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "174",
+              "descricao": "FIXAR o prazo de 30 (trinta) dias"
+            },
+              {
+              "norma": "Regimento Interno",
+              "artigo": "162, §2º",
+              "descricao": "Determina que a Secretaria do Tribunal Pleno adote as providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "RECOMENDAR a Administração da SEMTRAD que: a) Quando da Adesão a Ata de Registro de Preços, proceda à pesquisa de preços a fim de comprovar a vantajosidade da adesão, bem como a emissão de parecer jurídico prévio quando a adesão envolver contrato, acordos, convênios ou ajustes; b) Tome providências quanto ao uso incessante de edifícios alugados e em desacordo com a Lei de Acessibilidade; c)  Na  contratação  de  objetos  compostos  por  vários  itens  em  lote  único, analise e justifique a preferência por este modelo de licitação em detrimento da divisão do objeto. d)  Tome  providencias  no  sentido  de  publicar  os  seus  atos  dentro  dos prazos estabelecidos pela Lei 8666/93; e) Nas contratações que envolvam agregação de bens de uso permanente, cuja  vida  útil  será  maior  que  a  execução  do  projeto,  planeje  a  devida  utilização  dos materiais; f) Tome providências com vistas ao melhor uso dos materiais já adquiridos no PROFITEC; g) Realize ajustes nos procedimentos para adequação ao artigo 42, da Lei Complementar  nº  101/2000,  especificamente  acerca  da  comprovação  da  disponibilidade para a quitação de 'Restos a Pagar' junto à SEMEF.",
+      "trechos_identificados": [
+        {
+          "trecho": "Quando da Adesão a Ata de Registro de Preços, proceda à pesquisa de preços a fim de comprovar a vantajosidade da adesão, bem como a emissão de parecer jurídico prévio quando a adesão envolver contrato, acordos, convênios ou ajustes",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de comprovar a vantajosidade da adesão e emitir parecer jurídico, o que está diretamente ligado à economicidade e à legalidade em aquisições.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Tome providências quanto ao uso incessante de edifícios alugados e em desacordo com a Lei de Acessibilidade",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A16B",
+          "tipologia_irregularidade": "O Projeto Básico não possui adequação às Normas de Acessibilidade às Normas de Acessibilidade visando assegurar o movimento de pessoas portadoras de deficiência ou com mobilidade reduzida",
+          "descricao": "O Projeto Básico não possui adequação às Normas de Acessibilidade às Normas de Acessibilidade visando assegurar o movimento de pessoas portadoras de deficiência ou com mobilidade reduzida",
+          "justificativa_tipologia": "A recomendação aborda a necessidade de adequação às normas de acessibilidade, o que impacta diretamente a inclusão e a qualidade de vida das pessoas com deficiência.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Na  contratação  de  objetos  compostos  por  vários  itens  em  lote  único, analise e justifique a preferência por este modelo de licitação em detrimento da divisão do objeto.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A47B",
+          "tipologia_irregularidade": "Tomar serviços sem cobertura contratual (pagamentos indenizatórios)",
+          "descricao": "Tomar serviços sem cobertura contratual (pagamentos indenizatórios)",
+          "justificativa_tipologia": "A análise da preferência por lote único em vez da divisão do objeto está relacionada à eficiência e à economicidade nas contratações, evitando o direcionamento ou a restrição à competitividade.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Tome providencias no sentido de publicar os seus atos dentro dos prazos estabelecidos pela Lei 8666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A recomendação aborda a importância da publicidade nos atos administrativos, impactando a transparência e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "null",
+              "descricao": "Estabelece normas para licitações e contratos da Administração Pública."
+            }
+          ]
+        },
+        {
+          "trecho": "Nas contratações que envolvam agregação de bens de uso permanente, cuja  vida  útil  será  maior  que  a  execução  do  projeto,  planeje  a  devida  utilização  dos materiais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A6B",
+          "tipologia_irregularidade": "Não incorporação de Ativo ao patrimônio",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "O planejamento da utilização de materiais de uso permanente está relacionado à gestão eficiente do patrimônio público.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Tome providências com vistas ao melhor uso dos materiais já adquiridos no PROFITEC",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A6B",
+          "tipologia_irregularidade": "Não incorporação de Ativo ao patrimônio",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "A utilização dos materiais adquiridos no PROFITEC está relacionada à gestão eficiente do patrimônio público.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Realize ajustes nos procedimentos para adequação ao artigo 42, da Lei Complementar  nº  101/2000,  especificamente acerca da comprovação da disponibilidade para a quitação de 'Restos a Pagar' junto à SEMEF.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "A adequação aos procedimentos para a quitação de 'Restos a Pagar' está relacionada à gestão fiscal e orçamentária responsável.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "42",
+              "descricao": "Trata das limitações para a inscrição de despesas como Restos a Pagar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "DETERMINAR GLOSA à Sra. Maria Francinete Correia de Lima, no valor  de  12.780,92  (  doze  mil,  setecentos  e  oitenta  reais  e  noventa  e  dois  centavos), relativa  ao pagamento reiterado de multas e juros pertinente ao  INSS, de acordo com o artigo 304, inciso I e III, da Resolução nº 04/2002-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR GLOSA à Sra. Maria Francinete Correia de Lima, no valor  de  12.780,92  (  doze  mil,  setecentos  e  oitenta  reais  e  noventa  e  dois  centavos), relativa  ao pagamento reiterado de multas e juros pertinente ao  INSS, de acordo com o artigo 304, inciso I e III, da Resolução nº 04/2002-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "O pagamento de multas e juros indica uma falha nos controles internos relacionados ao cumprimento de obrigações fiscais e previdenciárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE",
+              "artigo": "304, inciso I e III",
+              "descricao": "Dispõe sobre a determinação de glosa em casos de pagamentos indevidos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "FIXAR o prazo de  30  (trinta)  dias  (art.174  do  Regimento  Interno), para  que  a  Senhora  MARIA  FRANCINETE  CORREIA  DE  LIMA  recolha  aos  cofres  da Fazenda Municipal o valor da glosa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de  30  (trinta)  dias  (art.174  do  Regimento  Interno), para  que  a  Senhora  MARIA  FRANCINETE  CORREIA  DE  LIMA  recolha  aos  cofres  da Fazenda Municipal o valor da glosa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento de valores, apesar de relacionada a irregularidades na execução orçamentária, é um procedimento administrativo padrão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "174",
+              "descricao": "FIXAR o prazo de 30 (trinta) dias"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

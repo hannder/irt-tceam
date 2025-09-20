@@ -1,0 +1,109 @@
+{
+  "acordao": "709/2021",
+  "processo": "12428/2020",
+  "data_sessao": "28 de Julho de 2021",
+  "orgao": "Fundo de Aposentadoria e Pensão dos Servidores Municipais de Barcelos - FAPEN",
+  "municipio": "Barcelos",
+  "exercicio": "2019",
+  "responsavel": [
+    "Francisco Moreira de Oliveira Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do Fundo de Aposentadoria  e  Pensão  dos  Servidores  Municipais  de  Barcelos  FAPEN,  de  responsabilidade  do Sr.  Francisco  Moreira  de  Oliveira Neto , no exercício de 2019, com fundamento no Art. 22, III, 'b', da Lei nº 2423/1996;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual do Fundo de Aposentadoria  e  Pensão  dos  Servidores  Municipais  de  Barcelos  FAPEN,  de  responsabilidade  do Sr.  Francisco  Moreira  de  Oliveira Neto , no exercício de 2019",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de notas explicativas impede a correta interpretação das contas, dificultando a análise da gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "22",
+              "descricao": "Define critérios para julgamento de contas, incluindo a identificação de irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Francisco Moreira de Oliveira Neto, no valor de R$ 20.481,60 (vinte  mil,  quatrocentos  e  oitenta  e  um  reais  e  sessenta centavos) e  fixar prazo  de  30  (trinta)  dias para  que  o  responsável recolha o valor da multa, mencionada no item 12, do Relatório-Voto, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  '5508  -  multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE', em virtude da impropriedade nº 01, que importa em inobservância de prazos legais, para  remessa  ao  Tribunal,  por  meio  informatizado  ou  documental,  de balancetes mensais, nos moldes do Art. 308, I, a, do Regimento Interno TCE/AM  e  Art.  54,  I, a, da  Lei nº 2.423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Francisco Moreira de Oliveira Neto, no valor de R$ 20.481,60 e fixar prazo de 30 dias para que o responsável recolha o valor da multa, em virtude da impropriedade nº 01, que importa em inobservância de prazos legais, para remessa ao Tribunal, por meio informatizado ou documental, de balancetes mensais, nos moldes do Art. 308, I, a, do Regimento Interno TCE/AM e Art. 54, I, a, da Lei nº 2.423/1996.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A entrega fora do prazo dos balancetes mensais compromete o acompanhamento e a fiscalização das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno TCE/AM",
+              "artigo": "308",
+              "descricao": "Define as penalidades por irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "54",
+              "descricao": "Estabelece as sanções aplicáveis em caso de irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Francisco Moreira de Oliveira Neto, no valor de R$ 25.000,00 (vinte  e  cinco  mil  reais) e  fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da multa, mencionada no item 13 do Relatório-Voto, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - multas aplicadas pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE', em virtude das impropriedades que importam em ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira,  orçamentária,  operacional  e  patrimonial,  nos  moldes  do  Art. 54,  inciso  VI,  da  Lei  estadual  nº  2.423/96  c/c  Art.  308,  inciso  VI,  do Regimento Interno desta Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Francisco Moreira de Oliveira Neto, no valor de R$ 25.000,00 e fixar prazo de 30 dias para que o responsável recolha o valor da multa em virtude das impropriedades que importam em ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, nos moldes do Art. 54, inciso VI, da Lei estadual nº 2.423/96 c/c Art. 308, inciso VI, do Regimento Interno desta Corte de Contas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa por grave infração à norma legal de natureza contábil, financeira, orçamentária, operacional e patrimonial indica falhas no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Define critérios para aplicação de multas por irregularidades na gestão pública."
+            },
+            {
+              "norma": "Regimento Interno desta Corte de Contas",
+              "artigo": "308",
+              "descricao": "Regulamenta os procedimentos internos para aplicação de sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que a cópia do Relatório Conclusivo nº 12/2021 - DICERP , fls. 61 a 66, seja enviada para os seguintes órgãos: Coordenador-Geral de Auditoria, Atuária, Contabilidade e Investimentos -CGACI, Departamento dos Regimes de Previdência no Serviço Público - DRPSP, Secretaria  de  Políticas  de  Previdência  Social  -  SPPS  e  Ministério  da Previdência Social - MPS.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que a cópia do Relatório Conclusivo nº 12/2021 - DICERP seja enviada para os seguintes órgãos: Coordenador-Geral de Auditoria, Atuária, Contabilidade e Investimentos -CGACI, Departamento dos Regimes de Previdência no Serviço Público - DRPSP, Secretaria  de  Políticas  de  Previdência  Social  -  SPPS  e  Ministério  da Previdência Social - MPS.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A26B",
+          "tipologia_irregularidade": "Ausência de certificação por entidade autônoma",
+          "descricao": "Ausência de certificação por entidade autônoma",
+          "justificativa_tipologia": "A certificação por entidade autônoma garante a segurança e a credibilidade dos investimentos, protegendo os recursos previdenciários.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

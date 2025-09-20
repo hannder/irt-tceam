@@ -1,0 +1,189 @@
+{
+  "acordao": "250/2023",
+  "processo": "12184/2022",
+  "data_sessao": "23 de Fevereiro de 2023",
+  "orgao": "Fundo Especial do Corpo de Bombeiros Militar do Estado do Amazonas-CBMAM",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Orleilso Ximenes Muniz",
+    "Danízio Valente Gonçalves Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  do Sr. Orleilso Ximenes Muniz ,  Comandante-Geral e Ordenador de Despesas do Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas-CBMAM, no curso  do  exercício  de 29/11/2021  a  31/12/2021,  com  fulcro  no  art. 22, I da Lei nº 2423/96, tendo em vista a ausência de Achados de Auditoria a serem sanados;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  do Sr. Orleilso Ximenes Muniz ,  Comandante-Geral e Ordenador de Despesas do Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas-CBMAM, no curso  do  exercício  de 29/11/2021  a  31/12/2021,  com  fulcro  no  art. 22, I da Lei nº 2423/96, tendo em vista a ausência de Achados de Auditoria a serem sanados",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares devido à ausência de irregularidades, o que não se relaciona diretamente com uma tipologia específica de irregularidade, mas com a aprovação das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, I",
+              "descricao": "O dispositivo legal indica o embasamento para o julgamento da regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao Sr.  Orleilso  Ximenes  Muniz , de  conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr.  Orleilso  Ximenes  Muniz , de  conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares devido à ausência de irregularidades, o que não se relaciona diretamente com uma tipologia específica de irregularidade, mas com a aprovação das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "O dispositivo legal indica o embasamento para a quitação."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, I",
+              "descricao": "O dispositivo legal indica o embasamento para a quitação."
+            },
+            {
+              "norma": "Resolução nº 02/2002 TCE-AM",
+              "artigo": "189, I",
+              "descricao": "O dispositivo legal indica o embasamento para a quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual  do Sr.  Danízio Valente Gonçalves Neto , Comandante-Geral e Ordenador de Despesas do Corpo de Bombeiros Militar do Estado do AmazonasCBMAM, no  curso  do  exercício de  01/01/2021  a  29/11/2021,  nos termos  do  art.  22,  III,  'b',  da  Lei  nº  2423/96,  tendo  em  vista  os Achados de Auditoria nº 2, 4 e 7 da Notificação nº 195/2022-DICAD, não sanados;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Anual  do Sr.  Danízio Valente Gonçalves Neto , Comandante-Geral e Ordenador de Despesas do Corpo de Bombeiros Militar do Estado do AmazonasCBMAM, no  curso  do  exercício de  01/01/2021  a  29/11/2021,  nos termos  do  art.  22,  III,  'b',  da  Lei  nº  2423/96,  tendo  em  vista  os Achados de Auditoria nº 2, 4 e 7 da Notificação nº 195/2022-DICAD, não sanados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como irregulares devido a achados de auditoria não sanados, o que indica uma falha nas demonstrações contábeis ou na gestão orçamentária, sendo relevante para o índice por apontar um problema na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "O dispositivo legal indica o embasamento para o julgamento da irregularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Danizio Valente Gonçalves Neto , Comandante-Geral e Ordenador de Despesas do CBMAM, no período  de  01/01/2021  a  29/11/2021, no  valor  de  R$  13.654,39 (treze  mil,  seiscentos  e  cinquenta  e  quatro  reais,  e  trinta  e  nove centavos), nos termos do art. 54, VI da Lei nº 2423/96 c/c art. 308, VI, da Resolução nº 04/2002-RITCE/AM, pelos Achados de Auditoria nº 2 e 4 da Notificação nº 195/2022-DICAD, não sanados, em função de grave infração a norma legal ou regulamentar",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Danizio Valente Gonçalves Neto , Comandante-Geral e Ordenador de Despesas do CBMAM, no período  de  01/01/2021  a  29/11/2021, no  valor  de  R$  13.654,39 (treze  mil,  seiscentos  e  cinquenta  e  quatro  reais,  e  trinta  e  nove centavos), nos termos do art. 54, VI da Lei nº 2423/96 c/c art. 308, VI, da Resolução nº 04/2002-RITCE/AM, pelos Achados de Auditoria nº 2 e 4 da Notificação nº 195/2022-DICAD, não sanados, em função de grave infração a norma legal ou regulamentar",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa por achados de auditoria não sanados indica falhas nos controles internos, tornando o trecho relevante para o índice por apontar um problema crônico na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, VI",
+              "descricao": "O dispositivo legal indica o embasamento para a aplicação de multa."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "308, VI",
+              "descricao": "O dispositivo legal indica o embasamento para a aplicação de multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Danizio Valente Gonçalves Neto , Comandante-Geral e Ordenador de Despesas do CBMAM, no período de 01/01/2021 a 29/11/2021, no valor de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), nos moldes do art. 54, II 'b', da Lei nº 2423/96 c/c art. 308, II, 'b' da Resolução nº 04/2002-RITCE/AM, pelo Achado de Auditoria nº 7 da Notificação nº 195/2022-DICAD, não sanado",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Danizio Valente Gonçalves Neto , Comandante-Geral e Ordenador de Despesas do CBMAM, no período de 01/01/2021 a 29/11/2021, no valor de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), nos moldes do art. 54, II 'b', da Lei nº 2423/96 c/c art. 308, II, 'b' da Resolução nº 04/2002-RITCE/AM, pelo Achado de Auditoria nº 7 da Notificação nº 195/2022-DICAD, não sanado",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa por achados de auditoria não sanados indica falhas nos controles internos, tornando o trecho relevante para o índice por apontar um problema crônico na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, II 'b'",
+              "descricao": "O dispositivo legal indica o embasamento para a aplicação de multa."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "308, II, 'b'",
+              "descricao": "O dispositivo legal indica o embasamento para a aplicação de multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Determinar recomendação ao Fundo Especial do Corpo de Bombeiros  Militar  do  Estado  do  Amazonas-CBMAM,  nos  termos  do art. 188, §2º do Regimento Interno/TCEAM no sentido de: - nos exercícios vindouros, observar os prazos regulamentados pelo TCE/AM, para envio dos balancetes mensais, via sistema e-contas, sob pena de incidência de multa, nos termos do art. 54, II, 'b', da Lei nº 2423/1996;",
+      "trechos_identificados": [
+        {
+          "trecho": "nos exercícios vindouros, observar os prazos regulamentados pelo TCE/AM, para envio dos balancetes mensais, via sistema e-contas, sob pena de incidência de multa, nos termos do art. 54, II, 'b', da Lei nº 2423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para observar os prazos de envio dos balancetes mensais indica uma falha recorrente no cumprimento das obrigações, tornando o trecho relevante para o índice por indicar um problema crônico na gestão pública, mesmo que seja uma recomendação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "art. 54, II, 'b', da Lei nº 2423/1996",
+              "artigo": "null",
+              "descricao": "Embasa a recomendação de observância dos prazos para envio dos balancetes mensais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Determinar recomendação ao Fundo Especial do Corpo de Bombeiros  Militar  do  Estado  do  Amazonas-CBMAM,  nos  termos  do art. 188, §2º do Regimento Interno/TCEAM no sentido de: -acostar aos autos dos processos administrativos referentes aos procedimentos licitatórios e às contratações diretas os expedientes enviados formalmente  pelo  Órgão,  solicitando  as  cotações  de preços das empresas;",
+      "trechos_identificados": [
+        {
+          "trecho": "acostar aos autos dos processos administrativos referentes aos procedimentos licitatórios e às contratações diretas os expedientes enviados formalmente  pelo  Órgão,  solicitando  as  cotações  de preços das empresas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A recomendação para formalizar os pedidos de cotação de preços indica uma deficiência no processo de licitação e contratação, sugerindo uma possível falha no controle de preços, justificando a classificação no tema de licitações e contratos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

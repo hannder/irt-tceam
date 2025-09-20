@@ -1,0 +1,245 @@
+{
+  "acordao": "530/2014",
+  "processo": "2354/2013",
+  "data_sessao": "30 de setembro de 2014",
+  "orgao": "Secretaria Municipal do Trabalho e Desenvolvimento Social - SEMTRAD",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Vital da Costa Melo",
+    "Maria Francinete Correia de Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  IRREGULAR a  Prestação  de  Contas  Anual  da  Secretaria Municipal  do  Trabalho  e  do  Desenvolvimento  Social,  relativas  ao  exercício  de  2012,  no período de 01/01/2012 a 04/04/2012, de responsabilidade do Sr. Vital da Costa Melo, nos termos do artigo 5º, inciso XI, e do artigo  188, § 1º, inciso III, alínea 'b',  do Regimento Interno TCE nº  04/2002, e do artigo 7º, inciso IV, da Lei Orgânica TCE nº 2423/96, em razão das impropriedades não sanadas expostas anteriormente",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  IRREGULAR a  Prestação  de  Contas  Anual  da  Secretaria Municipal  do  Trabalho  e  do  Desenvolvimento  Social,  relativas  ao  exercício  de  2012,  no período de 01/01/2012 a 04/04/2012, de responsabilidade do Sr. Vital da Costa Melo, nos termos do artigo 5º, inciso XI, e do artigo  188, § 1º, inciso III, alínea 'b',  do Regimento Interno TCE nº  04/2002, e do artigo 7º, inciso IV, da Lei Orgânica TCE nº 2423/96, em razão das impropriedades não sanadas expostas anteriormente",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Prestação de contas julgada irregular devido a impropriedades não sanadas, indicando problemas na gestão contábil e financeira.",
+          "justificativa_tipologia": "justificativa=A irregularidade na prestação de contas anual, indica uma ausência de comprovação de valores no balanço patrimonial, o que justifica o enquadramento nessa tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno TCE nº 04/2002",
+              "artigo": "5º, inciso XI",
+              "descricao": "Fundamenta a decisão do TCE em relação à irregularidade das contas."
+            },
+            {
+              "norma": "Regimento Interno TCE nº 04/2002",
+              "artigo": "188, § 1º, inciso III, alínea 'b'",
+              "descricao": "Detalha o enquadramento regimental para o julgamento de contas irregulares."
+            },
+            {
+              "norma": "Lei Orgânica TCE nº 2423/96",
+              "artigo": "7º, inciso IV",
+              "descricao": "Base legal para a competência do TCE em julgar contas irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar IRREGULAR as contas da Secretaria Municipal do Trabalho e do Desenvolvimento Social, relativas ao exercício de 2012, de responsabilidade da Sra. Maria Francinete Correia de Lima, no período de 05/04/2012 a 31/12/2012, nos termos do artigo 5º , inciso XI, artigo 188, § 1º , inciso III, alínea 'b', do Regimento Interno do TCE nº04/2002,  e  do  artigo  7º,  inciso  IV,  da  Lei  Orgânica  TCE  nº  2423/96,  em  razão  das impropriedades não sanadas apontadas anteriormente.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR as contas da Secretaria Municipal do Trabalho e do Desenvolvimento Social, relativas ao exercício de 2012, de responsabilidade da Sra. Maria Francinete Correia de Lima, no período de 05/04/2012 a 31/12/2012, nos termos do artigo 5º , inciso XI, artigo 188, § 1º , inciso III, alínea 'b', do Regimento Interno do TCE nº04/2002,  e  do  artigo  7º,  inciso  IV,  da  Lei  Orgânica  TCE  nº  2423/96,  em  razão  das impropriedades não sanadas apontadas anteriormente.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Prestação de contas julgada irregular devido a impropriedades não sanadas, indicando problemas na gestão contábil e financeira.",
+          "justificativa_tipologia": "justificativa=A irregularidade na prestação de contas anual, indica uma ausência de comprovação de valores no balanço patrimonial, o que justifica o enquadramento nessa tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno TCE nº 04/2002",
+              "artigo": "5º, inciso XI",
+              "descricao": "Fundamenta a decisão do TCE em relação à irregularidade das contas."
+            },
+            {
+              "norma": "Regimento Interno TCE nº 04/2002",
+              "artigo": "188, § 1º, inciso III, alínea 'b'",
+              "descricao": "Detalha o enquadramento regimental para o julgamento de contas irregulares."
+            },
+            {
+              "norma": "Lei Orgânica TCE nº 2423/96",
+              "artigo": "7º, inciso IV",
+              "descricao": "Base legal para a competência do TCE em julgar contas irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinqüenta e dois reais e trinta e sete centavos) ao Sr. Vital da Costa Melo, com base no art. 54, II e III, da  Lei Estadual n. 2.423/96, c/c o art. 308, V e VI da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/A,B,C, 3 e 5B , deste Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinqüenta e dois reais e trinta e sete centavos) ao Sr. Vital da Costa Melo, com base no art. 54, II e III, da  Lei Estadual n. 2.423/96, c/c o art. 308, V e VI da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/A,B,C, 3 e 5B , deste Relatório-Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Relatório-Voto",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade, mas sim de aplicação de sanção pecuniária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II e III",
+              "descricao": "Base legal para a aplicação de multa ao responsável."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, V e VI",
+              "descricao": "Detalha os itens do relatório-voto que justificam a multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos) à Sra. Maria Francinete Correia de Lima, com  base  no  art.  54,  II  e  III,  da  Lei  Estadual  n.  2.423/96,  c/c  o  art.  308,  V  e  VI  da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/2A,B,C, 3, 4, 6 e 7 , deste RelatórioVoto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA no  montante  de R$  13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos) à Sra. Maria Francinete Correia de Lima, com  base  no  art.  54,  II  e  III,  da  Lei  Estadual  n.  2.423/96,  c/c  o  art.  308,  V  e  VI  da Resolução n. 04/02-TCE, concernentes aos itens 1, 2/2A,B,C, 3, 4, 6 e 7 , deste RelatórioVoto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "RelatórioVoto",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade, mas sim de aplicação de sanção pecuniária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II e III",
+              "descricao": "Base legal para a aplicação de multa à responsável."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, V e VI",
+              "descricao": "Detalha os itens do relatório-voto que justificam a multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias (art. 174 do Regimento Interno), para que  os Senhores VITAL DA COSTA  MELO e  MARIA FRANCINETE CORREIA DE LIMA recolham aos cofres da Fazenda Estadual o valor das multas ora aplicadas, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei 2423/1996  - LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE, devendo ainda ser determinado que a Secretaria do Tribunal Pleno adote as providências previstas no artigo 162, §2º , do Regimento Interno",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias (art. 174 do Regimento Interno), para que  os Senhores VITAL DA COSTA  MELO e  MARIA FRANCINETE CORREIA DE LIMA recolham aos cofres da Fazenda Estadual o valor das multas ora aplicadas, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei 2423/1996  - LOTCE), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE, devendo ainda ser determinado que a Secretaria do Tribunal Pleno adote as providências previstas no artigo 162, §2º , do Regimento Interno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade, mas sim de determinação para recolhimento de valores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "174",
+              "descricao": "Define o prazo para o cumprimento da determinação."
+            },
+            {
+              "norma": "Lei 2423/1996  - LOTCE",
+              "artigo": "artigo 55",
+              "descricao": "Estabelece a atualização monetária em caso de expiração do prazo."
+            },
+            {
+              "norma": "Resolução n. 4/2002 - RITCE",
+              "artigo": "Subseções III e IV da Secção III, do Capítulo X",
+              "descricao": "Autoriza a DICREX a adotar medidas em caso de não cumprimento."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "162, §2º",
+              "descricao": "Determina as providências a serem adotadas pela Secretaria do Tribunal Pleno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "RECOMENDAR a Administração da SEMTRAD que:\n- a) Quando da Adesão a Ata de Registro de Preços, proceda à pesquisa de preços a fim de comprovar a vantajosidade da adesão, bem como a emissão de parecer jurídico prévio quando a adesão envolver contrato, acordos, convênios ou ajustes;\n- b) Tome providências quanto ao uso incessante de edifícios alugados e em desacordo com a Lei de Acessibilidade;\n- c)  Na  contratação  de  objetos  compostos  por  vários  itens  em  lote  único, analise e justifique a preferência por este modelo de licitação em detrimento da divisão do objeto.\n- d)  Tome  providencias  no  sentido  de  publicar  os  seus  atos  dentro  dos prazos estabelecidos pela Lei 8666/93;\n- e) Nas contratações que envolvam agregação de bens de uso permanente, cuja  vida  útil  será  maior  que  a  execução  do  projeto,  planeje  a  devida  utilização  dos materiais;\n- f) Tome providências com vistas ao melhor uso dos materiais já adquiridos no PROFITEC;\n- g) Realize ajustes nos procedimentos para adequação ao artigo 42, da Lei Complementar  nº  101/2000,  especificamente  acerca  da  comprovação  da  disponibilidade para a quitação de 'Restos a Pagar' junto à SEMEF.",
+      "trechos_identificados": [
+        {
+          "trecho": "RECOMENDAR a Administração da SEMTRAD que:\n- a) Quando da Adesão a Ata de Registro de Preços, proceda à pesquisa de preços a fim de comprovar a vantajosidade da adesão, bem como a emissão de parecer jurídico prévio quando a adesão envolver contrato, acordos, convênios ou ajustes;\n- b) Tome providências quanto ao uso incessante de edifícios alugados e em desacordo com a Lei de Acessibilidade;\n- c)  Na  contratação  de  objetos  compostos  por  vários  itens  em  lote  único, analise e justifique a preferência por este modelo de licitação em detrimento da divisão do objeto.\n- d)  Tome  providencias  no  sentido  de  publicar  os  seus  atos  dentro  dos prazos estabelecidos pela Lei 8666/93;\n- e) Nas contratações que envolvam agregação de bens de uso permanente, cuja  vida  útil  será  maior  que  a  execução  do  projeto,  planeje  a  devida  utilização  dos materiais;\n- f) Tome providências com vistas ao melhor uso dos materiais já adquiridos no PROFITEC;\n- g) Realize ajustes nos procedimentos para adequação ao artigo 42, da Lei Complementar  nº  101/2000,  especificamente  acerca  da  comprovação  da  disponibilidade para a quitação de 'Restos a Pagar' junto à SEMEF.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Recomendação para que, na adesão a Ata de Registro de Preços, proceda à pesquisa de preços a fim de comprovar a vantajosidade da adesão",
+          "justificativa_tipologia": "justificativa=A recomendação explicita a necessidade de comprovar a vantajosidade da adesão a atas de registro de preços, o que está relacionado a evitar sobrepreço.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "DETERMINAR GLOSA à Sra. Maria Francinete Correia de Lima, no valor  de  12.780,92  (  doze  mil,  setecentos  e  oitenta  reais  e  noventa  e  dois  centavos), relativa  ao pagamento reiterado de multas e juros pertinente ao  INSS, de acordo com o artigo 304, inciso I e III, da Resolução nº 04/2002-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR GLOSA à Sra. Maria Francinete Correia de Lima, no valor  de  12.780,92  (  doze  mil,  setecentos  e  oitenta  reais  e  noventa  e  dois  centavos), relativa  ao pagamento reiterado de multas e juros pertinente ao  INSS, de acordo com o artigo 304, inciso I e III, da Resolução nº 04/2002-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "justificativa=A determinação de glosa, neste caso, decorre do pagamento de multas em recolhimentos previdenciários, o que indica uma falha no monitoramento de contratos e obrigações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE",
+              "artigo": "304, inciso I e III",
+              "descricao": "Fundamenta a determinação de glosa devido ao pagamento reiterado de multas e juros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "FIXAR o prazo de  30  (trinta)  dias  (art.174  do  Regimento  Interno), para  que  a  Senhora  MARIA  FRANCINETE  CORREIA  DE  LIMA  recolha  aos  cofres  da Fazenda Municipal o valor da glosa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de  30  (trinta)  dias  (art.174  do  Regimento  Interno), para  que  a  Senhora  MARIA  FRANCINETE  CORREIA  DE  LIMA  recolha  aos  cofres  da Fazenda Municipal o valor da glosa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=Não se trata de irregularidade, mas sim de determinação para recolhimento de valores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "174",
+              "descricao": "Define o prazo para o cumprimento da determinação."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

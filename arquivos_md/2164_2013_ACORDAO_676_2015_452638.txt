@@ -1,0 +1,142 @@
+{
+  "acordao": "676/2015",
+  "processo": "2164/2013",
+  "data_sessao": "02 de setembro de 2015",
+  "orgao": "Fundo Estadual de Assistência Social - FEAS",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Maria das  Graças  Soares  Prola"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  Anual  do  Fundo  Estadual  da Assistência Social e Cidadania - FEAS, relativa ao exercício de 2012, de responsabilidade da Sra. Maria das Graças Soares Prola, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III, 'b' e 'c' da Lei n° 2.423/96 c/c art. 11, III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de  Contas  Anual  do  Fundo  Estadual  da Assistência Social e Cidadania - FEAS, relativa ao exercício de 2012, de responsabilidade da Sra. Maria das Graças Soares Prola, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III, 'b' e 'c' da Lei n° 2.423/96 c/c art. 11, III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação trata do julgamento das contas como irregulares devido a problemas na prestação de contas, o que indica uma falha na documentação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Dispõe sobre a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Similar ao art. 71, II, da CF/88, aplicado à Constituição Estadual."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1°, II, 2°, 4°, 5°, I e 22, III, 'b' e 'c'",
+              "descricao": "Define as atribuições e competências do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "11, III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c'",
+              "descricao": "Estabelece normas para o processo de tomada e prestação de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Aplicar multa no montante de R$ 13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos) à Sra. Maria das Graças Soares Prola , com base no art. 54,  II  e  III,  da  Lei  Estadual  n.  2.423/96,  c/c  o  art.  308,  V  e  VI,  da  Resolução  n. 04/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa no montante de R$ 13.152,37 (treze mil, cento e cinquenta e dois reais e trinta e sete centavos) à Sra. Maria das Graças Soares Prola , com base no art. 54,  II  e  III,  da  Lei  Estadual  n.  2.423/96,  c/c  o  art.  308,  V  e  VI,  da  Resolução  n. 04/02-TCE",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A multa é aplicada devido a irregularidades na gestão fiscal, relacionadas ao descumprimento de obrigações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II e III",
+              "descricao": "Estabelece as sanções aplicáveis em caso de irregularidades nas contas públicas."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, V e VI",
+              "descricao": "Regulamenta os procedimentos para aplicação de multas pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar prazo de 30 (trinta) dias  para  o  recolhimento aos cofres públicos do valor da pena pecuniária imposta, com comprovação perante este Tribunal. Expirado o prazo, autorizar desde  já  a  instauração  de  cobrança  executiva,  no  caso  de  nãorecolhimento do  valor da condenação, nos moldes do art.  173  da Resolução n. 04/02TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar prazo de 30 (trinta) dias  para  o  recolhimento aos cofres públicos do valor da pena pecuniária imposta, com comprovação perante este Tribunal. Expirado o prazo, autorizar desde  já  a  instauração  de  cobrança  executiva,  no  caso  de  nãorecolhimento do  valor da condenação, nos moldes do art.  173  da Resolução n. 04/02TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento da multa e a autorização para cobrança executiva são procedimentos para garantir o ressarcimento ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/02TCE",
+              "artigo": "173",
+              "descricao": "Estabelece os procedimentos para a cobrança executiva de débitos perante o TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a  Secretaria  do  Fundo  Estadual  da  Assistência  Social  e Cidadania - FEAS que observe com rigor os dispositivos da Lei 8.666/93, no tocante à obrigatoriedade de realização de procedimento licitatório previamente às contratações, e quanto  aos  casos  excepcionais,  quando  houver  respaldo  legal  para  a  dispensa  de licitação, estes devem ser devidamente justificados, nos termos dos arts. 24, inciso XIII, e 26 e seu parágrafo único, da supramencionada lei.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar a  Secretaria  do  Fundo  Estadual  da  Assistência  Social  e Cidadania - FEAS que observe com rigor os dispositivos da Lei 8.666/93, no tocante à obrigatoriedade de realização de procedimento licitatório previamente às contratações",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A recomendação para observar a obrigatoriedade de licitação indica um problema recorrente na gestão de contratações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "arts. 24, inciso XIII, e 26 e seu parágrafo único",
+              "descricao": "Estabelece normas gerais sobre licitações e contratos administrativos, incluindo os casos em que é permitida a dispensa de licitação e os requisitos para sua justificativa."
+            }
+          ]
+        },
+        {
+          "trecho": "e quanto  aos  casos  excepcionais,  quando  houver  respaldo  legal  para  a  dispensa  de licitação, estes devem ser devidamente justificados, nos termos dos arts. 24, inciso XIII, e 26 e seu parágrafo único, da supramencionada lei.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A recomendação para justificar a dispensa de licitação indica uma falha recorrente na administração pública.É fundamental que as dispensas de licitação sejam devidamente justificadas, seguindo os requisitos legais, para garantir a transparência e a legalidade dos processos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "arts. 24, inciso XIII, e 26 e seu parágrafo único",
+              "descricao": "Regulamenta as dispensas de licitação e a necessidade de justificativa nesses casos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

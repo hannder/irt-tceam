@@ -1,0 +1,207 @@
+{
+  "acordao": "297/2023",
+  "processo": "12166/2020",
+  "data_sessao": "28 de Fevereiro de 2023",
+  "orgao": "Serviço de Pronto Atendimento São Raimundo - SPA Sao Raimundo",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Sra. Ana Valeria Costa de Matos",
+    "Sr. Josenildo dos Santos Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Revelia",
+      "descricao": "Considerar revel a Sra. Ana Valeria Costa de Matos , na forma do art. 20, §4º da lei 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel a Sra. Ana Valeria Costa de Matos , na forma do art. 20, §4º da lei 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho indica uma formalidade processual, não uma irregularidade na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "lei 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Procedimento formal para considerar a revelia no processo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Revelia",
+      "descricao": "Considerar revel o Sr. Josenildo dos Santos Silva , na forma do art. 20, §4º da lei 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel o Sr. Josenildo dos Santos Silva , na forma do art. 20, §4º da lei 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho indica uma formalidade processual, não uma irregularidade na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "lei 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Procedimento formal para considerar a revelia no processo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Serviço de Pronto Atendimento São Raimundo-SPA São Raimundo, exercício de 2019, de responsabilidade da Sra. Ana Valeria Costa de Matos , com fundamento no artigo 22, III, 'b' e 'c', da Lei Estadual nº 2423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Serviço de Pronto Atendimento São Raimundo-SPA São Raimundo, exercício de 2019, de responsabilidade da Sra. Ana Valeria Costa de Matos , com fundamento no artigo 22, III, 'b' e 'c', da Lei Estadual nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de informações essenciais nas notas explicativas das demonstrações contábeis impede a transparência e o controle adequado das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Fundamentação para o julgamento da irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa à  Sra.  Ana  Valeria  Costa  de  Matos , no  valor  de  R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), com fundamento no art. 54, inciso VI, da Lei n. 2.423/96 c/c art. 308, VI, do RI-TCE/AM, em razão das impropriedades consideradas não sanadas no bojo da Proposta de Voto, elencadas no relatório de fls. 280/327,  que  deverá  ser  recolhida  no prazo  de  30  dias para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa à  Sra.  Ana  Valeria  Costa  de  Matos , no  valor  de  R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), com fundamento no art. 54, inciso VI, da Lei n. 2.423/96 c/c art. 308, VI, do RI-TCE/AM, em razão das impropriedades consideradas não sanadas no bojo da Proposta de Voto, elencadas no relatório de fls. 280/327,  que  deverá  ser  recolhida  no prazo  de  30  dias para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica que as impropriedades não sanadas refletem falhas nos controles internos da organização, tornando o trecho relevante para o índice de reincidência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "54, inciso VI",
+              "descricao": "Fundamentação para a aplicação de multa."
+            },
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Regimento Interno do TCE/AM que fundamenta a aplicação da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao  Sr.  Josenildo  dos  Santos  Silva , no  valor  de  R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), com fundamento no art. 54, inciso VI, da Lei nº 2.423/96 c/c art. 308, VI, do RI-TCE/AM, em razão das impropriedades consideradas não sanadas no bojo da Proposta de Voto, elencadas no relatório de fls. 280/327,  que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Sr.  Josenildo  dos  Santos  Silva , no  valor  de  R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), com fundamento no art. 54, inciso VI, da Lei nº 2.423/96 c/c art. 308, VI, do RI-TCE/AM, em razão das impropriedades consideradas não sanadas no bojo da Proposta de Voto, elencadas no relatório de fls. 280/327,  que  deverá  ser  recolhida  no prazo  de  30  dias para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica que as impropriedades não sanadas refletem falhas nos controles internos da organização, tornando o trecho relevante para o índice de reincidência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, inciso VI",
+              "descricao": "Fundamentação para a aplicação de multa."
+            },
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Regimento Interno do TCE/AM que fundamenta a aplicação da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance a Sra. Ana Valeria Costa de Matos e o Sr. Josenildo  dos  Santos  Silva , de  forma  solidária,  no  valor  de R$ 2.887,53 (dois mil, oitocentos e oitenta e sete reais e cinquenta e três centavos),  com  fulcro  no  artigo  304,  incisos  III  e  IV  da  Resolução  n° 04/2002-RI/TCE, em razão de prejuízos consubstanciados no pagamento de juros e multas durante o exercício de 2019, no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance a Sra. Ana Valeria Costa de Matos e o Sr. Josenildo  dos  Santos  Silva , de  forma  solidária,  no  valor  de R$ 2.887,53 (dois mil, oitocentos e oitenta e sete reais e cinquenta e três centavos),  com  fulcro  no  artigo  304,  incisos  III  e  IV  da  Resolução  n° 04/2002-RI/TCE, em razão de prejuízos consubstanciados no pagamento de juros e multas durante o exercício de 2019, no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O alcance é resultado de pagamentos irregulares (juros e multas), indicando burla ao processo legal e impactando a gestão financeira. Essa conduta é relevante para o índice de reincidência, pois demonstra uma falha sistemática no cumprimento das normas orçamentárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RI/TCE",
+              "artigo": "304, incisos III e IV",
+              "descricao": "Fundamentação legal para considerar em alcance os responsáveis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que os responsáveis atendam as Diligências dessa Corte de Contas, conforme determina o art. 54, inciso IV da Lei nº 2424/96 (Lei Orgânica  -  TCE/AM)  c/c  o  art.  308,  inciso  I,  alínea  'a'  da Resolução nº 04/2002 (Regimento Interno - TCE/AM);",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que os responsáveis atendam as Diligências dessa Corte de Contas, conforme determina o art. 54, inciso IV da Lei nº 2424/96 (Lei Orgânica  -  TCE/AM)  c/c  o  art.  308,  inciso  I,  alínea  'a'  da Resolução nº 04/2002 (Regimento Interno - TCE/AM)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação para atender às diligências não indica necessariamente uma irregularidade em si, mas sim uma requisição para sanar pendências. No entanto, o descumprimento dessa determinação pode apontar para falhas de controle interno e não envio de documentos importantes.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2424/96 (Lei Orgânica - TCE/AM)",
+              "artigo": "54, inciso IV",
+              "descricao": "Base legal para a determinação de atendimento às diligências."
+            },
+            {
+              "norma": "Resolução nº 04/2002 (Regimento Interno - TCE/AM)",
+              "artigo": "308, inciso I, alínea 'a'",
+              "descricao": "Base legal para a determinação de atendimento às diligências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência a Sra. Ana  Valeria  Costa  de  Matos e  aos  demais responsáveis, acerca do desfecho dos autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência a Sra. Ana  Valeria  Costa  de  Matos e  aos  demais responsáveis, acerca do desfecho dos autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Dar ciência sobre o desfecho dos autos não indica uma irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

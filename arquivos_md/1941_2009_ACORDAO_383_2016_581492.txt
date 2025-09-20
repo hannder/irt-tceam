@@ -1,0 +1,177 @@
+{
+  "acordao": "383/2016",
+  "processo": "1941/2009",
+  "data_sessao": "04 de maio de 2016",
+  "orgao": "Agência de Comunicação Social - AGECOM",
+  "municipio": "Manaus",
+  "exercicio": "2008",
+  "responsavel": [
+    "Hiel Levy Maia Vasconcelos"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Regular com Ressalvas",
+      "descricao": "Julgar Regular com Ressalvas , nos termos dos artigos 1º, II, c/c o art. 22, II, todos da Lei nº 2423/1996 (RITCE), a Prestação de Contas, referente ao exercício de  2008,  da Agência  de  Comunicação  Social -AGECOM ,  de  responsabilidade  do Senhor Hiel  Levy  Maia  Vasconcelos , Secretário  de  Estado-Chefe  da  AGECOM  e Ordenador de Despesas, à época;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas , nos termos dos artigos 1º, II, c/c o art. 22, II, todos da Lei nº 2423/1996 (RITCE), a Prestação de Contas, referente ao exercício de  2008,  da Agência  de  Comunicação  Social -AGECOM ,  de  responsabilidade  do Senhor Hiel  Levy  Maia  Vasconcelos , Secretário  de  Estado-Chefe  da  AGECOM  e Ordenador de Despesas, à época",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica um julgamento formal das contas, que não necessariamente indica uma irregularidade contábil passível de reincidência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "22, II",
+              "descricao": "Estabelece diretrizes para o julgamento das contas pelos Tribunais de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar quitação",
+      "descricao": "Dar quitação ao responsável , determinando a ele, ou a quem lhe houver sucedido  a  adoção  de  medidas  necessárias  à  correção  das  impropriedades  ou  faltas identificadas de modo a prevenir a ocorrência de outras semelhantes, conforme art. 24, da LO/TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao responsável , determinando a ele, ou a quem lhe houver sucedido  a  adoção  de  medidas  necessárias  à  correção  das  impropriedades  ou  faltas identificadas de modo a prevenir a ocorrência de outras semelhantes, conforme art. 24, da LO/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de adoção de medidas corretivas para impropriedades é essencial para a melhoria contínua dos processos de controle interno e prevenção de futuras irregularidades, mas não se trata de uma irregularidade em si.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LO/TCE",
+              "artigo": "24",
+              "descricao": "Determina a adoção de medidas necessárias à correção das impropriedades ou faltas identificadas, de modo a prevenir a ocorrência de outras semelhantes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual Administração da ex-Agência de Comunicação Social  (AGECOM), hoje  Secretaria  Estadual  de  Comunicação  Social  -  SECOM,  maior presteza e zelo em relação às Prestações de Contas futuras, para que não se repitam as falhas demonstradas no Relatório Conclusivo 24/2012  às fls. 990/1001 e no Parecer nº 2697/2012-MP-FCVM  às  fls.  1002/1011,  cujas  cópias  reprográficas  deverão  a  ela  ser remetidas, notadamente que:",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à atual Administração da ex-Agência de Comunicação Social  (AGECOM), hoje  Secretaria  Estadual  de  Comunicação  Social  -  SECOM,  maior presteza e zelo em relação às Prestações de Contas futuras, para que não se repitam as falhas demonstradas no Relatório Conclusivo 24/2012  às fls. 990/1001 e no Parecer nº 2697/2012-MP-FCVM  às  fls.  1002/1011,  cujas  cópias  reprográficas  deverão  a  ela  ser remetidas, notadamente que",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A recomendação visa a melhoria na apresentação das futuras prestações de contas, alertando sobre a recorrência de falhas anteriores. A recomendação, por si só, não configura uma irregularidade, mas sim uma orientação para evitar futuras não conformidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Registre  no  sistema  ACP,  hoje  e-contas,  de todas  as  portarias  de inexigibilidade que adjudicaram os objetos das contratações",
+      "trechos_identificados": [
+        {
+          "trecho": "Registre  no  sistema  ACP,  hoje  e-contas,  de todas  as  portarias  de inexigibilidade que adjudicaram os objetos das contratações",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A40B",
+          "tipologia_irregularidade": "Não divulga Carta de Serviços ao Usuário",
+          "descricao": "Não foi encontrada Carta de Serviços ao Usuário",
+          "justificativa_tipologia": "A recomendação de registrar portarias de inexigibilidade no sistema e-contas é relevante para a transparência, pois garante que informações importantes sobre contratações diretas sejam acessíveis para consulta pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Proceda ao registro dos Bens Móveis do subgrupo Imobilizado do Ativo Permanente, em sua totalidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Proceda ao registro dos Bens Móveis do subgrupo Imobilizado do Ativo Permanente, em sua totalidade",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação de registrar os Bens Móveis do subgrupo Imobilizado do Ativo Permanente é crucial para garantir o controle patrimonial, a transparência e a responsabilização na gestão dos recursos públicos, além de evitar a ocorrência de outras irregularidades. Por isso é relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Proceda a contabilização, na Variação Patrimonial Ativa Resultante da Execução Orçamentária, do Material de Consumo adquirido conforme informado no Relatório Circunstanciado de Atividades.",
+      "trechos_identificados": [
+        {
+          "trecho": "Proceda a contabilização, na Variação Patrimonial Ativa Resultante da Execução Orçamentária, do Material de Consumo adquirido conforme informado no Relatório Circunstanciado de Atividades.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A contabilização correta do material de consumo é fundamental para a transparência e o controle financeiro. A ausência dessa contabilização pode indicar problemas na gestão dos recursos públicos e dificultar a fiscalização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção que ao analisar as Contas da atual SECOM verifique se já foi dado baixa na responsabilidade da Sra. Zilmar de Souza Lima , referente ao adiantamento no valor de R$ 4.000,00 (quatro mil reais);",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção que ao analisar as Contas da atual SECOM verifique se já foi dado baixa na responsabilidade da Sra. Zilmar de Souza Lima , referente ao adiantamento no valor de R$ 4.000,00 (quatro mil reais)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A8C",
+          "tipologia_irregularidade": "Escopo de auditoria interna insuficiente",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A determinação para verificar a baixa de responsabilidade sobre adiantamento pendente é importante para a gestão adequada dos recursos e a prevenção de futuras irregularidades. Trata-se de pendência não é adequadamente regularizada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após a ocorrência da coisa julgada administrativa, nos termos dos artigos 159 e 160, da Resolução nº 04/2002 - RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Após a ocorrência da coisa julgada administrativa, nos termos dos artigos 159 e 160, da Resolução nº 04/2002 - RITCE, adote as providências do artigo 162, §2º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação para adotar as providências do artigo 162, §2º, do RITCE após a coisa julgada administrativa é um procedimento interno do TCE para garantir a execução de suas decisões, mas não indica um problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - RITCE",
+              "artigo": "159 e 160",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE"
+            },
+            {
+              "norma": "RITCE",
+              "artigo": "162, §2º",
+              "descricao": "Trata das providências a serem tomadas após a coisa julgada administrativa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "acordao": "309/2017",
+  "processo": "1496/2015",
+  "data_sessao": "11 de Abril de 2017",
+  "orgao": "Instituto de Pesos e Medidas do Estado do Amazonas - IPEM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Márcio André Oliveira Brito"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas com fundamento no art. 24 da Lei n.º 2.423/96,  a  Prestação  de  Contas  do  Sr.  Márcio  André  Oliveira  Brito, responsável pelo Instituto de Pesos e Medidas do Estado do Amazonas - IPEM, no curso do exercício 2014",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Dar quitação",
+      "descricao": "Dar quitação ao  Sr.  Márcio André Oliveira Brito, com fundamento no art. 189, II, do Regimento Interno deste Tribunal de Contas (Resolução n.º 04/02 - TCE/AM)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Sr. Márcio André Oliveira Brito que observe, com rigor, as  determinações (1  -  tomar  providências,  dentro  do  limite  de  suas competências, para realização de concurso público para provimento de cargos  de  Procurador  de  Carreira  e  demais  cargos  necessários  à realização das atividades-fim e atividades-meio do IPEM, 2 - atualizar o portal eletrônico do IPEM no sentido de que sejam alimentadas todas as informações exigidas pela Lei Complementar n.º 101/00 e pela Lei n.º 12.527/2011,  3 -registrar no Orçamento  Anual  do IPEM  as previsões de receitas e despesas oriundas de convênios, 4 - Manter na sede  do  IPEM  documentos  hábeis  a  comprovar  toda  e  qualquer despesa realizada pela entidade em respeito ao princípio da transparência e 5  -  Observar  as  orientações  descritas  pela  Unidade Técnica quanto às falhas observadas em peças contábeis) consignadas na Fundamentação desta Proposta de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "tomar providências, dentro do limite de suas competências, para realização de concurso público para provimento de cargos  de  Procurador  de  Carreira  e  demais  cargos  necessários  à realização das atividades-fim e atividades-meio do IPEM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A determinação explicita a necessidade de realização de concurso público, indicando uma falha na gestão de pessoal ao não prover cargos efetivos através de concurso.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, II",
+              "descricao": "Necessidade de concurso público para investidura em cargo público."
+            }
+          ]
+        },
+        {
+          "trecho": "atualizar o portal eletrônico do IPEM no sentido de que sejam alimentadas todas as informações exigidas pela Lei Complementar n.º 101/00 e pela Lei n.º 12.527/2011",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação explicita a necessidade de atualizar o portal eletrônico com informações exigidas por lei, indicando uma falha na transparência da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/00",
+              "artigo": "Não consta",
+              "descricao": "Exigências de transparência fiscal."
+            },
+            {
+              "norma": "Lei n.º 12.527/2011",
+              "artigo": "Não consta",
+              "descricao": "Exigências de transparência na gestão pública."
+            }
+          ]
+        },
+        {
+          "trecho": "registrar no Orçamento  Anual  do IPEM  as previsões de receitas e despesas oriundas de convênios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Falta de planejamento orçamentário",
+          "justificativa_tipologia": "A determinação explicita a necessidade de registrar as previsões de receitas e despesas de convênios no orçamento, indicando uma falha no planejamento orçamentário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Manter na sede  do  IPEM  documentos  hábeis  a  comprovar  toda  e  qualquer despesa realizada pela entidade em respeito ao princípio da transparência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação explicita a necessidade de manter documentos comprobatórios de despesas, indicando uma falha na transparência e controle da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Observar  as  orientações  descritas  pela  Unidade Técnica quanto às falhas observadas em peças contábeis",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A determinação explicita a necessidade de observar as orientações da Unidade Técnica quanto às falhas contábeis, indicando uma deficiência na gestão contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Márcio André Oliveira Brito, Diretor-Presidente do IPEM ao  longo  do  exercício  de  2014, acerca  do  desfecho  atribuído  a  estes autos para que adote as determinações consignadas nestes autos.",
+      "trechos_identificados": []
+    }
+  ]
+}

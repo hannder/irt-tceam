@@ -1,0 +1,29 @@
+{
+  "acordao": "330/2019",
+  "processo": "11214/2017",
+  "data_sessao": "30 de Abril de 2019",
+  "orgao": "Recursos Supervisionados pela SEMAD",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Luiz Alberto de Aguiar Albuquerque",
+    "Gilmar de Oliveira Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos presentes autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos presentes autos.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação de arquivamento dos autos, por si só, não indica uma irregularidade, mas sim um procedimento padrão do Tribunal de Contas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "acordao": "1359/2022",
+  "processo": "12035/2022",
+  "data_sessao": "16 de Agosto de 2022",
+  "orgao": "Fundo Municipal de Direitos Humanos - FMDH",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Jane Mara Silva de Moraes"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  da Sra. Jane  Mara  Silva  de Moraes , responsável pelo Fundo Municipal de Direitos Humanos  FMDH, no curso do exercício 2021",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  da Sra. Jane  Mara  Silva  de Moraes , responsável pelo Fundo Municipal de Direitos Humanos  FMDH, no curso do exercício 2021",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A prestação de contas foi julgada regular, indicando a conformidade com as normas contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Competência do Tribunal de Contas do Amazonas para julgar as contas dos responsáveis pela administração de recursos públicos."
+            },
+            {
+              "norma": "Resolução n.04/2002-TCE/AM",
+              "artigo": "11, inciso III, alínea 'a', item 3",
+              "descricao": "Atribuição para julgar as contas dos responsáveis pela gestão de recursos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar quitação a Sra. Jane Mara Silva de Moraes , responsável pelo Fundo  Municipal de  Direitos Humanos  -  FMDH,  no  curso  do exercício 2021",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação a Sra. Jane Mara Silva de Moraes , responsável pelo Fundo  Municipal de  Direitos Humanos  -  FMDH,  no  curso  do exercício 2021",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A quitação sugere que não foram encontradas irregularidades significativas nas contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Competência do Tribunal de Contas do Amazonas para julgar as contas dos responsáveis pela administração de recursos públicos."
+            },
+            {
+              "norma": "Resolução n.04/2002-TCE/AM",
+              "artigo": "11, inciso III, alínea 'a', item 3",
+              "descricao": "Atribuição para julgar as contas dos responsáveis pela gestão de recursos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar ciência a Sra. Jane Mara Silva de Moraes e aos demais interessados do teor da decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência a Sra. Jane Mara Silva de Moraes e aos demais interessados do teor da decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "A deliberação visa garantir a transparência e o conhecimento da decisão por todos os interessados, sem indicar irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivar",
+      "descricao": "Arquivar o  processo  após  cumpridos  os  itens  anteriores,  nas  normas regimentais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  processo  após  cumpridos  os  itens  anteriores,  nas  normas regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O arquivamento do processo é um procedimento padrão após o cumprimento das deliberações, sem indicar irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

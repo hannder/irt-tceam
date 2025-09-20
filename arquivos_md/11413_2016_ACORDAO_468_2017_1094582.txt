@@ -1,0 +1,38 @@
+{
+  "acordao": "468/2017",
+  "processo": "11413/2016",
+  "data_sessao": "02 de Maio de 2017",
+  "orgao": "Câmara Municipal de Santo Antônio do Içá",
+  "municipio": "Santo Antônio do Içá",
+  "exercicio": "2015",
+  "responsavel": [
+    "Manoel Jerônimo Portela"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  do Sr.  Manoel  Jerônimo Portela , responsável pela Câmara Municpal de Santo Antonio do Içá, no curso do exercício 2015",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Manoel Jerônimo Portela no valor de R$ 15.000,00 (quinze  mil  reais)  que  devem  ser  recolhidos  na  esfera Estadual para o órgão  Encargos  Gerais  do  Estado -SEFAZ  por descumprimento das improbidades apontadas. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Manoel Jerônimo Portela no valor de R$ 23.265,00 (vinte e três mil, duzentos  e  sessenta  e  cinco  reais), correspondente  às  impropriedades  constantes  no  item  15.11  do  voto, que devem ser recolhidos na esfera Municipal. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a remessa das peças processuais necessárias à demonstração  da  necessidade  de  investigação  e  apuração  de  ato  de improbidade administrativa do Sr. Manoel Jerônimo Portela , nos termos do art. 22, da Lei nº 8.429/92, ao Ministério Público do Estado do Amazonas,  devendo  esta  providência  ser  adotada  pela  Secretaria  do Tribunal  Pleno,  imediatamente  após  a  publicação  do Acórdão  que resultar deste processo, tendo em  vista os prazos prescricionais previstos no art. 23, da referida Lei",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Manoel Jerônimo Portela , encaminhando-lhe cópias do Acórdão, do Relatório/Voto, dos Relatórios Conclusivos e do Parecer Ministerial, para ciência do feito e interposição de recurso, caso queira",
+      "trechos_identificados": []
+    }
+  ]
+}

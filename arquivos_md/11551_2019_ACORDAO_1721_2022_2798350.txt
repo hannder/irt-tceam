@@ -1,0 +1,187 @@
+{
+  "acordao": "1721/2022",
+  "processo": "11551/2019",
+  "data_sessao": "4 de Outubro de 2022",
+  "orgao": "Câmara Municipal de Anamã",
+  "municipio": "Anamã",
+  "exercicio": "2018",
+  "responsavel": [
+    "Sebastião Sampaio do Nascimento",
+    "Francisco Nunes Bastos"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual  do Sr. Francisco  Nunes  Bastos, ordenador  de  despesas  da Câmara Municipal  de  Anamã  no  período  de  01/01/2018  a 21/05/2018, com fulcro no  art.  22,  inciso  III,  'b',  da  Lei  nº 2.423/1996-LO-TCE/AM, em razão da nomeação de parente em linha reta para ocupar cargo de assessoramento,  em  flagrante  nepotismo,  descumprindo  o art. 37, caput , da  Constituição  Federal,  bem  como  da Súmula Vinculante nº 13 do Supremo Tribunal Federal;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Anual  do Sr. Francisco  Nunes  Bastos, ordenador  de  despesas  da Câmara Municipal  de  Anamã  no  período  de  01/01/2018  a 21/05/2018, com fulcro no  art.  22,  inciso  III,  'b',  da  Lei  nº 2.423/1996-LO-TCE/AM, em razão da nomeação de parente em linha reta para ocupar cargo de assessoramento,  em  flagrante  nepotismo,  descumprindo  o art. 37, caput , da  Constituição  Federal,  bem  como  da Súmula Vinculante nº 13 do Supremo Tribunal Federal;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A117B",
+          "tipologia_irregularidade": "Nepotismo",
+          "descricao": "A administração pública contrata ou promove servidores públicos por nepotismo, violando os princípios da impessoalidade, da moralidade e da probidade administrativa.",
+          "justificativa_tipologia": "O trecho descreve a nomeação de parente em linha reta para cargo de assessoramento, caracterizando nepotismo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LO-TCE/AM",
+              "artigo": "22, inciso III, 'b'",
+              "descricao": "Fundamentação para julgar irregular a prestação de contas."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, caput",
+              "descricao": "Princípio da impessoalidade na administração pública."
+            },
+            {
+              "norma": "Súmula Vinculante nº 13 do Supremo Tribunal Federal",
+              "artigo": "N/A",
+              "descricao": "Veda a prática do nepotismo na administração pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas  Anual do Sr. Sebastião Sampaio do Nascimento , ordenador de despesas  Câmara  Municipal  de  Anamã  no  período  de 22/05/2018 a 31/12/2018, com fulcro no art. 22, inciso I, da Lei nº 2.423/1996-LO-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas  Anual do Sr. Sebastião Sampaio do Nascimento , ordenador de despesas  Câmara  Municipal  de  Anamã  no  período  de 22/05/2018 a 31/12/2018, com fulcro no art. 22, inciso I, da Lei nº 2.423/1996-LO-TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Apesar de ser um julgamento de regularidade, incluo por precaução para garantir que a análise seja exaustiva e que todas as informações contextuais sejam preservadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LO-TCE/AM",
+              "artigo": "22, inciso I",
+              "descricao": "Fundamentação para julgar regular a prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr.  Francisco Nunes Bastos , com fulcro no  art.  54,  inciso  VI,  da  Lei  nº  2.423/1996-LO-TCE/AM,  no valor  de R$  13.654,39 , em  razão  da  nomeação  de  parente em  linha  reta  para  ocupar  cargo  de  assessoramento,  em flagrante nepotismo,  descumprindo  o  art.  37, caput , da Constituição Federal, bem como da Súmula Vinculante nº 13 do Supremo Tribunal Federal, e fixar prazo de 30 (trinta) dias para  que  o  responsável  recolha  o  valor  da MULTA na esfera Estadual para o órgão Fundo de Apoio ao Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o código  '5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de Apoio ao Exercício do Controle Externo - FAECE'. Dentro  do  prazo  anteriormente  conferido,  é  obrigatório  o encaminhamento do comprovante de pagamento (autenticado  pelo  Banco)  a Corte  de  Contas  (art.  72,  inciso III, alínea 'a', da Lei Orgânica  do  TCE/AM),  condição imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal importará  na  continuidade  da  cobrança  administrativa  ou judicial do  título executivo  (art. 73  da  Lei  Orgânica  do TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao  encaminhamento  do  título  executivo  para  protesto  em nome do responsável;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr.  Francisco Nunes Bastos , com fulcro no  art.  54,  inciso  VI,  da  Lei  nº  2.423/1996-LO-TCE/AM,  no valor  de R$  13.654,39 , em  razão  da  nomeação  de  parente em  linha  reta  para  ocupar  cargo  de  assessoramento,  em flagrante nepotismo,  descumprindo  o  art.  37, caput , da Constituição Federal, bem como da Súmula Vinculante nº 13 do Supremo Tribunal Federal,",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A117B",
+          "tipologia_irregularidade": "Nepotismo",
+          "descricao": "A administração pública contrata ou promove servidores públicos por nepotismo, violando os princípios da impessoalidade, da moralidade e da probidade administrativa.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa devido à nomeação de parente, caracterizando nepotismo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LO-TCE/AM",
+              "artigo": "54, inciso VI",
+              "descricao": "Fundamentação para aplicação de multa."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, caput",
+              "descricao": "Princípio da impessoalidade na administração pública."
+            },
+            {
+              "norma": "Súmula Vinculante nº 13 do Supremo Tribunal Federal",
+              "artigo": "N/A",
+              "descricao": "Veda a prática do nepotismo na administração pública."
+            }
+          ]
+        },
+        {
+          "trecho": "fixar prazo de 30 (trinta) dias para  que  o  responsável  recolha  o  valor  da MULTA na esfera Estadual para o órgão Fundo de Apoio ao Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o código  '5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de Apoio ao Exercício do Controle Externo - FAECE'.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Rigorosamente, esta deliberação não se enquadra em nenhuma das tipologias fornecidas. Contudo, classifiquei como tema da Contabilidade por analogia à necessidade de rastreamento dos recursos públicos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Dentro  do  prazo  anteriormente  conferido,  é  obrigatório  o encaminhamento do comprovante de pagamento (autenticado  pelo  Banco)  a Corte  de  Contas  (art.  72,  inciso III, alínea \"a\", da Lei Orgânica  do  TCE/AM),  condição imprescindível  para  emissão  do  Termo  de  Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Rigorosamente, esta deliberação não se enquadra em nenhuma das tipologias fornecidas. Contudo, classifiquei como tema da Contabilidade por analogia à necessidade de rastreamento dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica  do  TCE/AM",
+              "artigo": "72,  inciso III, alínea \"a\"",
+              "descricao": "Obrigação de encaminhar comprovante de pagamento à Corte de Contas."
+            }
+          ]
+        },
+        {
+          "trecho": "O  não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal importará  na  continuidade  da  cobrança  administrativa  ou judicial do  título executivo  (art. 73  da  Lei  Orgânica  do TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao  encaminhamento  do  título  executivo  para  protesto  em nome do responsável;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Rigorosamente, esta deliberação não se enquadra em nenhuma das tipologias fornecidas. Contudo, classifiquei como tema da Contabilidade por analogia à necessidade de rastreamento dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica  do  TCE/AM",
+              "artigo": "73",
+              "descricao": "Continuidade da cobrança administrativa ou judicial do título executivo."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Medidas a serem adotadas pelo DERED em caso de não pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a  instauração  de  processo  administrativo  para apurar o acúmulo ilícito de cargos públicos objeto do item VI da proposta  de  voto,  devendo  encaminhar  a  conclusão  dos feitos a Corte de  Contas  em 180  dias após  a  ciência do decisum :",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a  instauração  de  processo  administrativo  para apurar o acúmulo ilícito de cargos públicos objeto do item VI da proposta  de  voto,  devendo  encaminhar  a  conclusão  dos feitos a Corte de  Contas  em 180  dias após  a  ciência do decisum",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "O trecho determina a instauração de processo administrativo para apurar acúmulo ilegal de cargos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência do julgado à (ao):",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência do julgado à (ao):",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "Este item refere-se à comunicação da decisão, o que não se enquadra diretamente em uma tipologia de irregularidade específica, mas a área da transparência é uma necessidade para o controle social",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

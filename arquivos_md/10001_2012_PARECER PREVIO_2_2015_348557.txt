@@ -1,0 +1,245 @@
+{
+  "acordao": "002/2015",
+  "processo": "10001/2012",
+  "data_sessao": "14 de janeiro de 2015",
+  "orgao": "Prefeitura Municipal de Itamarati",
+  "municipio": "Itamarati",
+  "exercicio": "2011",
+  "responsavel": [
+    "João Medeiros Campelo"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr.  João  Medeiros Campelo, Prefeito de Itamarati, exercício de 2011, nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  Sr.  João  Medeiros Campelo, Prefeito de Itamarati, exercício de 2011, nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica uma irregularidade na prestação de contas, especificamente a falta de notas explicativas, o que dificulta a transparência e o entendimento das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso III, 'b'",
+              "descricao": "Define a irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "25",
+              "descricao": "Define a irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Itamarati que o responsável corrija a inconsistência entre a numeração do registro no Livro Tombo e as etiquetas fixadas nos bens patrimoniais, além de etiquetar aqueles bens que não possuem identificação  patrimonial  e  não  estão  registrados  no  Livro  Tombo,  sob  pena  de  sanção pecuniária em caso de futura reincidência, subitem 16.7 do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de Itamarati que o responsável corrija a inconsistência entre a numeração do registro no Livro Tombo e as etiquetas fixadas nos bens patrimoniais, além de etiquetar aqueles bens que não possuem identificação  patrimonial  e  não  estão  registrados  no  Livro  Tombo,  sob  pena  de  sanção pecuniária em caso de futura reincidência, subitem 16.7 do Relatório/Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A recomendação visa corrigir falhas na identificação e registro de bens patrimoniais, indicando uma deficiência no controle patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar o Sr.  João Medeiros  Campelo pelos  subitens  16.2,  16.3, 16.5, 16.6, 16.8, 16.9 do Relatório/Voto, no valor de R$ 8.768,25 (Oito  mil,  setecentos e sessenta  e  oito  reais  e  vinte  e  cinco  centavos), por  grave  infração  à  norma  legal, conforme  disposto  no  art.  308,  inciso  VI,  da  Resolução  TCE  nº  04/2002 com  a  nova redação dada pelo art. 2º da Resolução nº 25/2012.",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Sr.  João Medeiros  Campelo pelos  subitens  16.2,  16.3, 16.5, 16.6, 16.8, 16.9 do Relatório/Voto, no valor de R$ 8.768,25 (Oito  mil,  setecentos e sessenta  e  oito  reais  e  vinte  e  cinco  centavos), por  grave  infração  à  norma  legal, conforme  disposto  no  art.  308,  inciso  VI,  da  Resolução  TCE  nº  04/2002 com  a  nova redação dada pelo art. 2º da Resolução nº 25/2012.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A multa é aplicada devido a grave infração à norma legal, indicando descumprimento de obrigações fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "308, inciso VI",
+              "descricao": "Define a aplicação de multa por grave infração à norma legal."
+            },
+            {
+              "norma": "Resolução nº 25/2012",
+              "artigo": "2º",
+              "descricao": "Altera a redação do art. 308 da Resolução TCE nº 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar prazo de 30 dias para recolher a  multa  aos cofres da Fazenda Pública Estadual nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar prazo de 30 dias para recolher a  multa  aos cofres da Fazenda Pública Estadual nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação estabelece um prazo para o recolhimento de uma multa, o que está relacionado ao cumprimento das obrigações financeiras perante a Fazenda Pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Define o prazo para recolhimento de multas aos cofres públicos."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Complementa a Lei nº 2423/1996 sobre o recolhimento de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar ,  caso  o  valor  da  referida  condenação  não  venha  a  ser recolhido dentro do prazo estabelecido, a inscrição do débito na Dívida Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva, em consonância com o art. 72, inciso III, 'a' c/c art. 73 ambos da Lei 2423/96 e arts. 169, inciso II, 173 e 308, §6º da Resolução 04/2002 - TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar ,  caso  o  valor  da  referida  condenação  não  venha  a  ser recolhido dentro do prazo estabelecido, a inscrição do débito na Dívida Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso III, 'a' c/c art. 73 ambos da Lei 2423/96 e arts. 169, inciso II, 173 e 308, §6º da Resolução 04/2002 - TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação refere-se aos procedimentos a serem adotados caso a multa não seja paga, incluindo a inscrição em dívida ativa e cobrança executiva.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "72, inciso III, 'a'",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "169, inciso II",
+              "descricao": "Complementa a Lei 2423/96 sobre a cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "173",
+              "descricao": "Complementa a Lei 2423/96 sobre a cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, §6º",
+              "descricao": "Complementa a Lei 2423/96 sobre a cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  ao  Sr.  João  Medeiros  Campelo,  a  devolução do débito no valor de R$ 53.127,28 (cinquenta e três mil, cento e vinte e sete reais e vinte e oito centavos) subitem 16.11 do Relatório/Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  ao  Sr.  João  Medeiros  Campelo,  a  devolução do débito no valor de R$ 53.127,28 (cinquenta e três mil, cento e vinte e sete reais e vinte e oito centavos) subitem 16.11 do Relatório/Voto;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação de devolução de débito sugere o uso irregular de recursos públicos, classificando-se como Suposto Desvio de recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar prazo de 30 dias para recolher a devolução do débito constante  no  subitem  17.7  deste  voto,  aos  cofres  da  Fazenda  Pública  Municipal  nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar prazo de 30 dias para recolher a devolução do débito constante  no  subitem  17.7  deste  voto,  aos  cofres  da  Fazenda  Pública  Municipal  nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação estabelece um prazo para o recolhimento do débito aos cofres da Fazenda Pública Municipal, o que está relacionado ao cumprimento das obrigações financeiras perante a Fazenda Pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Define o prazo para recolhimento de débitos aos cofres públicos."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Complementa a Lei nº 2423/1996 sobre o recolhimento de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar ,  caso  o  valor  da  referida  condenação  não  venha  a  ser recolhido dentro do prazo estabelecido, a inscrição do débito na Dívida Ativa pela Fazenda Pública Municipal, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso III, 'a' c/c art. 73 ambos da Lei 2423/96 e arts. 169, inciso II, 173 e 308, §6º da Resolução 04/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar ,  caso  o  valor  da  referida  condenação  não  venha  a  ser recolhido dentro do prazo estabelecido, a inscrição do débito na Dívida Ativa pela Fazenda Pública Municipal, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso III, 'a' c/c art. 73 ambos da Lei 2423/96 e arts. 169, inciso II, 173 e 308, §6º da Resolução 04/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação refere-se aos procedimentos a serem adotados caso a devolução do débito não seja cumprida, incluindo a inscrição em dívida ativa e cobrança executiva.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "72, inciso III, 'a'",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "169, inciso II",
+              "descricao": "Complementa a Lei 2423/96 sobre a cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "173",
+              "descricao": "Complementa a Lei 2423/96 sobre a cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, §6º",
+              "descricao": "Complementa a Lei 2423/96 sobre a cobrança executiva."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "acordao": "386/2016",
+  "processo": "2211/2014",
+  "data_sessao": "04 de Maio de 2016",
+  "orgao": "Secretaria Executiva de Proteção e Defesa Civil - SEPDEC",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "José Fernando de Farias"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  Anuais  da Secretaria Executiva de Proteção e Defesa Civil, exercício de 2013, sob a responsabilidade do senhor José Fernando de Farias , Secretário Executivo de Proteção e  Defesa  Civil,  nos  termos  do  inciso  II  do  art.  1º  e  do  inciso  II  do  art.  22,  dando-se quitação ao  Responsável, condicionado ao atendimento do art. 24 e do inciso II do art. 72, todos da Lei nº 2.423/96, considerando que as contas evidenciam impropriedades de que não resultaram dano ao Erário.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  Anuais  da Secretaria Executiva de Proteção e Defesa Civil, exercício de 2013, sob a responsabilidade do senhor José Fernando de Farias , Secretário Executivo de Proteção e  Defesa  Civil,  nos  termos  do  inciso  II  do  art.  1º  e  do  inciso  II  do  art.  22,  dando-se quitação ao  Responsável, condicionado ao atendimento do art. 24 e do inciso II do art. 72, todos da Lei nº 2.423/96, considerando que as contas evidenciam impropriedades de que não resultaram dano ao Erário.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica que, apesar do julgamento regular com ressalvas, a prestação de contas apresenta impropriedades, o que justifica a classificação no tema de contabilidade e na tipologia de ausência de comprovação de valores no balanço patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º",
+              "descricao": "Define a competência do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre as decisões do Tribunal de Contas em relação às prestações de contas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "24",
+              "descricao": "Regula as medidas a serem tomadas em caso de irregularidades identificadas nas contas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "72",
+              "descricao": "Estabelece as condições para a quitação dos responsáveis pelas contas julgadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria Executiva de Proteção e Defesa Civil que se exima de aderir a atas de registro de preços com vigência superior a 12 meses.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria Executiva de Proteção e Defesa Civil que se exima de aderir a atas de registro de preços com vigência superior a 12 meses.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A determinação indica uma falha na gestão de contratos e licitações, especificamente na adesão a atas de registro de preços com vigência excessiva, o que pode comprometer a economicidade e a competitividade das contratações públicas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

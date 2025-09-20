@@ -1,0 +1,163 @@
+{
+  "acordao": "55/2022",
+  "processo": "11511/2021",
+  "data_sessao": "16 de Agosto de 2022",
+  "orgao": "Prefeitura Municipal de Guajará",
+  "municipio": "Guajará",
+  "exercicio": "2020",
+  "responsavel": [
+    "Ordean Gonzaga da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar À  ORIGEM que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas anuais:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Quanto à análise no Sistema E-Contas-GEFIS, verificou-se que a Prefeitura enviou extemporaneamente as remessas referentes ao 1º bimestre/2020 e até a elaboração deste relatório não enviou as remessas do 2º, 3º, 4º, 5º e 6º bimestres de 2020",
+      "trechos_identificados": [
+        {
+          "trecho": "Quanto à análise no Sistema E-Contas-GEFIS, verificou-se que a Prefeitura enviou extemporaneamente as remessas referentes ao 1º bimestre/2020 e até a elaboração deste relatório não enviou as remessas do 2º, 3º, 4º, 5º e 6º bimestres de 2020",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O envio fora do prazo dos balancetes mensais é uma falha na tempestividade da entrega de documentos, afetando o acompanhamento e fiscalização das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15",
+              "descricao": "O não envio dos balancetes mensais impede a fiscalização e o controle dos gastos públicos."
+            },
+             {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "20, inciso II",
+              "descricao": "O envio dos balancetes mensais é obrigatório para a transparência e o controle das contas públicas."
+            },
+             {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "null",
+              "descricao": "Regulamenta o envio de informações e documentos ao TCE, incluindo os balancetes mensais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Descumprimento dos prazos de publicações dos demonstrativos do Relatório Resumido de Execução Orçamentária - RREO, inerente aos 2º, 3º, 4º, 5º e 6º bimestres do exercício de 2020, ao sistema E-Contas (GEFIS)",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento dos prazos de publicações dos demonstrativos do Relatório Resumido de Execução Orçamentária - RREO, inerente aos 2º, 3º, 4º, 5º e 6º bimestres do exercício de 2020, ao sistema E-Contas (GEFIS)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A não remessa de dados periódicos ao e-Contas impede o monitoramento e a transparência das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "1º",
+              "descricao": "Estabelece a obrigatoriedade de envio de dados periódicos ao e-Contas para fiscalização e controle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Quando da análise do Sistema E-Contas-GEFIS, verificou-se que a Prefeitura enviou ao TCE-AM as remessas dos 1º, 2º e 3º quadrimestres do Relatório de Gestão Fiscal- RGF fora do prazo",
+      "trechos_identificados": [
+        {
+          "trecho": "Quando da análise do Sistema E-Contas-GEFIS, verificou-se que a Prefeitura enviou ao TCE-AM as remessas dos 1º, 2º e 3º quadrimestres do Relatório de Gestão Fiscal- RGF fora do prazo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O envio fora do prazo dos relatórios de gestão fiscal é uma falha na tempestividade da entrega de documentos, afetando o acompanhamento e fiscalização das contas.",
+          "fundamentacao_legal": [
+             {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "20, inciso II",
+              "descricao": "O envio dos balancetes mensais é obrigatório para a transparência e o controle das contas públicas."
+            },
+             {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "null",
+              "descricao": "Regulamenta o envio de informações e documentos ao TCE, incluindo os balancetes mensais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Descumprimento dos prazos de publicações dos demonstrativos dos Relatórios de Gestão Fiscal - RGF inerente ao 2º quadrimestre de 2020 ao sistema E-Contas (GEFIS)",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento dos prazos de publicações dos demonstrativos dos Relatórios de Gestão Fiscal - RGF inerente ao 2º quadrimestre de 2020 ao sistema E-Contas (GEFIS)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A não remessa de dados periódicos ao e-Contas impede o monitoramento e a transparência das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "1º",
+              "descricao": "Estabelece a obrigatoriedade de envio de dados periódicos ao e-Contas para fiscalização e controle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Inexistência  de  Serviço  de  Informação  ao  Cidadão,  com instalações físicas de atendimento aos interesses, em descumprimento  aos  ditames  da  Lei  nº  12.527/2011  -  Lei  de acesso  à  informação  quanto  à  implantação  e  manutenção  dos Postais de Transparências",
+      "trechos_identificados": [
+        {
+          "trecho": "Inexistência  de  Serviço  de  Informação  ao  Cidadão,  com instalações físicas de atendimento aos interesses, em descumprimento  aos  ditames  da  Lei  nº  12.527/2011  -  Lei  de acesso  à  informação  quanto  à  implantação  e  manutenção  dos Postais de Transparências",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A ausência do serviço de informação ao cidadão dificulta o acesso à informação, prejudicando a transparência e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "null",
+              "descricao": "Regula o acesso à informação e estabelece a obrigatoriedade de implantação e manutenção dos portais de transparência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar o encaminhamento do Parecer Prévio, publicado e acompanhado de cópias integrais  do  processo,  à  Câmara  Municipal  de Guajará, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX  que  tome  as medidas cabíveis para a autuação de processos apartados, que deverão ser  devidamente  instruídos,  respeitando  a  competência  de  cada  órgão técnico,  e  as  documentações referentes às impropriedades atinentes às Contas de Gestão mencionadas nos itens 01 da DICOP; e de 02 a 25 da DICAMI , bem como aqueles referentes à possível imputação de multas dos itens 26 a 30 que se referem a Atos de Governo, todas listadas na fundamentação do Relatório/Voto.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno  que  dê  ciência  do  desfecho dos autos aos interessados, bem como à Câmara Municipal de Guajará e à Prefeitura Municipal.",
+      "trechos_identificados": []
+    }
+  ]
+}

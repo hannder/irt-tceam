@@ -1,0 +1,70 @@
+{
+  "acordao": "669/2021",
+  "processo": "11074/2017",
+  "data_sessao": "14 de Julho de 2021",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Parintins - SAAE",
+  "municipio": "Parintins",
+  "exercicio": "2016",
+  "responsavel": [
+    "Samarone da Silva Moura"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Em  futuras  concessões  de  diárias,  fornecer  evidências  mais contundentes acerca do interesse público envolvido nas viagens realizadas pelos servidores que perceberem tais valores, apresentando-se comprovação de comparecimento aos órgãos envolvidos",
+      "trechos_identificados": [
+        {
+          "trecho": "Em  futuras  concessões  de  diárias,  fornecer  evidências  mais contundentes acerca do interesse público envolvido nas viagens realizadas pelos servidores que perceberem tais valores, apresentando-se comprovação de comparecimento aos órgãos envolvidos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A recomendação indica uma deficiência na documentação e justificativa das diárias, o que impede a adequada verificação do interesse público nas viagens realizadas. Isso se alinha com a tipologia de ausência ou falha na prestação de contas de diárias, pois a documentação insuficiente dificulta a comprovação da correta aplicação dos recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Regularizar, com máxima urgência, a situação do não recolhimento dos saldos das consignações registradas no Demonstrativo da Dívida Flutuante",
+      "trechos_identificados": [
+        {
+          "trecho": "Regularizar, com máxima urgência, a situação do não recolhimento dos saldos das consignações registradas no Demonstrativo da Dívida Flutuante",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "A recomendação para regularizar a situação do não recolhimento dos saldos das consignações se encaixa na tipologia de contas com pendências de regularização, pois indica que há valores que não foram devidamente conciliados e necessitam de correção para garantir a exatidão dos registros contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Em  futuras  execuções  contratuais,  designar  um  servidor  para atuar  como  fiscal  de  forma  a  acompanhar  e  fiscalizar  a  execução  de contrato, conforme determina o art. 67 da Lei nº 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Em  futuras  execuções  contratuais,  designar  um  servidor  para atuar  como  fiscal  de  forma  a  acompanhar  e  fiscalizar  a  execução  de contrato, conforme determina o art. 67 da Lei nº 8.666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Deficiências no controle e fiscalização da execução contratual.",
+          "justificativa_tipologia": "A recomendação para designar um fiscal de contrato se relaciona diretamente com a necessidade de melhorar o controle e fiscalização da execução contratual, evitando falhas e garantindo o cumprimento das obrigações contratuais. A ausência de fiscalização adequada é uma deficiência no controle da execução contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "67",
+              "descricao": "Determina a designação de um servidor para acompanhar e fiscalizar a execução dos contratos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

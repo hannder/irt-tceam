@@ -1,0 +1,211 @@
+{
+  "acordao": "494/2015",
+  "processo": "10977/2014",
+  "data_sessao": "15 de julho de 2015",
+  "orgao": "Câmara Municipal de Ipixuna",
+  "municipio": "Ipixuna",
+  "exercicio": "2013",
+  "responsavel": [
+    "César Augusto Farias de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular, nos termos do artigo 22, alíneas III, 'b', § 1º da Lei Estadual nº 2423/96 (LO/TCEAM), a Prestação de Contas, relativa ao exercício de 2013, de responsabilidade do Senhor César Augusto Farias de Oliveira, Presidente e Ordenador de Despesas da Câmara Municipal de Ipixuna, à época;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Senhor César Augusto Farias de Oliveira, Presidente e Ordenador de Despesas da Câmara Municipal de Ipixuna, à época, no valor total de R$ 15.000,00 (quinze mil reais), pelas impropriedades previstas nas restrições nº 4, 5, 8, 9, 10, 11, 12, 13 e 14 do Relatório Conclusivo nº 95/2014- CI/DICAMI (fls.391/425), com fulcro no art. 308, VI, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pelo art. 2º, da Resolução n. 25/2012-TCE/AM, abaixo relacionadas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Permanência de recursos financeiros em Caixa;",
+      "trechos_identificados": [
+        {
+          "trecho": "Permanência de recursos financeiros em Caixa",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Identificado saldo em conta corrente sem justificativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 56. da Lei 4320/64",
+              "artigo": "Art. 56",
+              "descricao": "O recolhimento de todas as receitas far-se-á em estrita observância ao princípio de unidade de tesouraria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de documentos nos Processos Licitatórios (Certidão do INSS, FGTS, Fazenda Municipal, Estadual e Federal, Parecer Jurídico relativo a minuta de edital de licitação, indicação de onde seriam prestados os serviços e/ou distribuídos os materiais);",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentos nos Processos Licitatórios (Certidão do INSS, FGTS, Fazenda Municipal, Estadual e Federal, Parecer Jurídico relativo a minuta de edital de licitação, indicação de onde seriam prestados os serviços e/ou distribuídos os materiais)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "Ausência de documentos obrigatórios em licitações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 24, inciso IV e art. 26 da Lei nº 8.666/93",
+              "artigo": "Art. 24, inciso IV e art. 26",
+              "descricao": "Omissão de informações essenciais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de designação de representante da Administração para o acompanhamento de execução de todos os contratos e seus Aditivos, consequentemente, a ausência dos relatórios de execução do mesmo para a Câmara;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de designação de representante da Administração para o acompanhamento de execução de todos os contratos e seus Aditivos, consequentemente, a ausência dos relatórios de execução do mesmo para a Câmara",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "Não há fiscalização da execução contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Artigo 67, parágrafo 1º da Lei 8.666/93",
+              "artigo": "Artigo 67",
+              "descricao": "Não há fiscalização."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não informação dos valores deixados em Restos a Pagar, no montante de R$18.406,76, não registrado no Balanço Financeiro;",
+      "trechos_identificados": [
+        {
+          "trecho": "Não informação dos valores deixados em Restos a Pagar, no montante de R$18.406,76, não registrado no Balanço Financeiro",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A2B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "Omissão de restos a pagar.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Manual de Contabilidade Aplicada ao Setor Público – MCASP",
+              "artigo": "Art. 1",
+              "descricao": "Omissão de restos a pagar"
+            },
+            {
+              "norma": "Norma Brasileira de Contabilidade",
+              "artigo": "Art. 1",
+              "descricao": "Omissão de restos a pagar"
+            },
+            {
+              "norma": "NBC TSP 07",
+              "artigo": "Art. 1",
+              "descricao": "Omissão de restos a pagar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Fragmentação de despesas para fuga de Licitação;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fragmentação de despesas para fuga de Licitação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "Despesas fragmentadas para evitar licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "Art. 63",
+              "descricao": "Omissão de licitação em caso obrigatório"
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "Art. 7",
+              "descricao": "Omissão de contrato."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Não atualização do Portal da Transparência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Não atualização do Portal da Transparência.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "Transparência é essencial para o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Princípio da transparência",
+              "artigo": "Art. 1",
+              "descricao": "A administração pública deve ser transparente"
+            },
+            {
+              "norma": "os arts. 48, inciso II",
+              "artigo": "Art. 48",
+              "descricao": "Lei de Responsabilidade Fiscal"
+            },
+            {
+              "norma": "Art. 48-A",
+              "artigo": "Art. 48-A",
+              "descricao": "Lei de Responsabilidade Fiscal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar prazo de 30 (trinta) dias para o recolhimento das sanções discriminadas no subitem 9.2 acima aos cofres da Fazenda Pública Estadual, acrescidos de atualização monetária e dos juros de mora, devidos, com comprovação perante este Tribunal, nos termos do art. 174, caput , da Resolução n. 4/2002-TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar, caso os valores das sanções não sejam recolhidos dentro do prazo estabelecido, a inscrição dos débitos na Dívida Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva, em consonância com o art. 173 da Subseção III e da Seção III, do Capitulo X, da Resolução n. 4/2002-TCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem que observe mais atentamente as normas legais aplicáveis a espécie em especial a Lei Complementar nº 06/91, Resolução nº 06/2001, Lei Complementar nº 101/2000, Lei nº 8.666/93 e Lei nº 4320/64;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Comunicação",
+      "descricao": "Comunicar a Secretaria da Receita Federal do Brasil acerca do não recolhimento da contribuição previdenciária dos servidores ao regime geral de previdência social para que adote as medidas cabíveis, nos termos da lei.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que a próxima comissão de inspeção verifique se foram cumpridas as determinações e recomendações desta Corte .",
+      "trechos_identificados": []
+    }
+  ]
+}

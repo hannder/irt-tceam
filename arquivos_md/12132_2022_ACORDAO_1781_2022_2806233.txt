@@ -1,0 +1,112 @@
+{
+  "acordao": "1781/2022",
+  "processo": "12132/2022",
+  "data_sessao": "18 de Outubro de 2022",
+  "orgao": "Fundo Municipal de Habitação - FMH",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Carlos Alberto Valente Araujo"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  do  Fundo  Municipal  de Habitação - FMH, referente ao exercício de 2021, de responsabilidade do  Senhor Carlos  Alberto  Valente  Araujo , Presidente  do  Fundo Municipal de Habitação - FMH e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso I, da Lei nº. 2423/1996 LOTCE/AM; c/c o artigo 188, §1º, inciso I, da Resolução nº. 04/2002 RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  do  Fundo  Municipal  de Habitação - FMH, referente ao exercício de 2021, de responsabilidade do  Senhor Carlos  Alberto  Valente  Araujo , Presidente  do  Fundo Municipal de Habitação - FMH e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso I, da Lei nº. 2423/1996 LOTCE/AM; c/c o artigo 188, §1º, inciso I, da Resolução nº. 04/2002 RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares, sem apontar irregularidades. Por isso, a tipologia escolhida é a mais básica de contabilidade, para fins de preenchimento do campo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 LOTCE/AM",
+              "artigo": "1º, inciso II",
+              "descricao": "Define as responsabilidades do gestor em relação à prestação de contas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996 LOTCE/AM",
+              "artigo": "22, inciso I",
+              "descricao": "Estabelece os procedimentos para julgamento das contas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 RITCE/AM",
+              "artigo": "188, §1º, inciso I",
+              "descricao": "Complementa os procedimentos para julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Senhor Carlos Alberto Valente Araujo, Presidente do Fundo  Municipal  de  Habitação  -  FMH  e  Ordenador  de  Despesas,  à época, Nos termos dos artigos 23 e 72, inciso I, da Lei nº. 2423/1996 LOTCE, c/c o artigo 189, inciso I, da Resolução nº. 04/2002 - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Senhor Carlos Alberto Valente Araujo, Presidente do Fundo  Municipal  de  Habitação  -  FMH  e  Ordenador  de  Despesas,  à época, Nos termos dos artigos 23 e 72, inciso I, da Lei nº. 2423/1996 LOTCE, c/c o artigo 189, inciso I, da Resolução nº. 04/2002 - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho descreve a quitação das contas, sem apontar irregularidades. Por isso, a tipologia escolhida é a mais básica de contabilidade, para fins de preenchimento do campo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 LOTCE",
+              "artigo": "23",
+              "descricao": "Define as condições para a quitação do responsável."
+            },
+            {
+              "norma": "Lei nº. 2423/1996 LOTCE",
+              "artigo": "72, inciso I",
+              "descricao": "Estabelece os efeitos da quitação."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso I",
+              "descricao": "Complementa os procedimentos para a quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria do Tribunal Pleno que, após a ocorrência da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002  -  RITCE/AM,  adote  as  providências  do  artigo  162, §1º, do RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria do Tribunal Pleno que, após a ocorrência da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002  -  RITCE/AM,  adote  as  providências  do  artigo  162, §1º, do RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação se refere a procedimentos internos do TCE, sem indicar irregularidades na gestão do órgão fiscalizado. A classificação em Controle Interno reflete a natureza processual da determinação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "159",
+              "descricao": "Regulamenta a ocorrência da coisa julgada."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "160",
+              "descricao": "Define os efeitos da coisa julgada."
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "162, §1º",
+              "descricao": "Estabelece as providências a serem adotadas após a coisa julgada."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

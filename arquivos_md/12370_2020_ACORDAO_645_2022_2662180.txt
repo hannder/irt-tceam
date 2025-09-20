@@ -1,0 +1,76 @@
+{
+  "acordao": "645/2022",
+  "processo": "12370/2020",
+  "data_sessao": "4 de maio de 2022",
+  "orgao": "Fundação Hospitalar de Hematologia e Hemoterapia do Amazonas  FHEMOAM",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Maria do Perpétuo Socorro Sampaio Carvalho"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  prestação  de  contas  anual  da Sra. Maria do Perpétuo Socorro Sampaio Carvalho, Diretora-Presidente da Fundação Hospitalar de Hematologia e Hemoterapia do Amazonas (FHEMOAM), exercício 2019, nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCEAM,  em  razão  do  não  atendimento  à  diligência determinada por este Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  prestação  de  contas  anual  da Sra. Maria do Perpétuo Socorro Sampaio Carvalho, Diretora-Presidente da Fundação Hospitalar de Hematologia e Hemoterapia do Amazonas (FHEMOAM), exercício 2019, nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCEAM,  em  razão  do  não  atendimento  à  diligência determinada por este Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento regular com ressalvas, a ausência de atendimento à diligência e a possível falta de informações detalhadas nas notas explicativas justificam a classificação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "LOTCEAM - Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa à Sra. Maria do Perpétuo Socorro Sampaio Carvalho no valor de R$3.413,49 (três mil, quatrocentos e treze reais e quarenta e  nove  centavos), nos  termos  do  art.  54,  inciso  II,  alínea  'a',  da  LOTCE/AM, em razão do não atendimento à diligência determinada por este Tribunal, e fixar prazo de 30 (trinta) dias para que o responsável recolha  o  valor  da  multa, na  esfera  Estadual para  o  órgão  Fundo  de Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Maria do Perpétuo Socorro Sampaio Carvalho no valor de R$3.413,49 (três mil, quatrocentos e treze reais e quarenta e  nove  centavos), nos  termos  do  art.  54,  inciso  II,  alínea  'a',  da  LOTCE/AM, em razão do não atendimento à diligência determinada por este Tribunal, e fixar prazo de 30 (trinta) dias para que o responsável recolha  o  valor  da  multa, na  esfera  Estadual para  o  órgão  Fundo  de Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE'.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A17A",
+          "tipologia_irregularidade": "Aplicação de 25% da receita vinculável na Manutenção e Desenvolvimento do Ensino",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "Multa aplicada por descumprimento de diligência do TCE, indicando falha na gestão orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LOTCE/AM",
+              "artigo": "54, inciso II, alínea 'a'",
+              "descricao": "Multa por não atendimento à diligência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência deste decisum à Sra.  Maria  do  Perpetuo  Socorro Sampaio  Carvalho ,  Diretora-Presidente  da  Fundação  Hospitalar  de Hematologia  e  Hemoterapia  do  Amazonas  (FHEMOAM),  exercício 2019.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência deste decisum à Sra.  Maria  do  Perpetuo  Socorro Sampaio  Carvalho ,  Diretora-Presidente  da  Fundação  Hospitalar  de Hematologia  e  Hemoterapia  do  Amazonas  (FHEMOAM),  exercício 2019.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação de dar ciência da decisão não indica, por si só, uma irregularidade, mas o contexto do não atendimento prévio pode sugerir deficiências nos controles internos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

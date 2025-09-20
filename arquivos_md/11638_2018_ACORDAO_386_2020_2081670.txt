@@ -1,0 +1,84 @@
+{
+  "acordao": "386/2020",
+  "processo": "11638/2018",
+  "data_sessao": "23 de Abril de 2020",
+  "orgao": "Fundo Municipal de Saúde de Tabatinga",
+  "municipio": "Tabatinga",
+  "exercicio": "2017",
+  "responsavel": [
+    "Marlem Riglison Silva Ferreira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com ressalvas a  prestação  de  contas  do  Sr.  Marlem Riglison Silva Ferreira, responsável pelo Fundo Municipal de Saúde de Tabatinga, no curso do exercício de 2017.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao  Sr.  Marlem  Riglison  Silva  Ferreira  no  valor  de R$ 4.500,00 (quatro mil e quinhentos reais), nos termos do art. 308, VII da Res. 04/02-TCE/AM, que deverá ser recolhida no prazo de 30 (trinta) dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "atenda às determinações da Lei 4.320/64, mais especificamente quanto ao controle do Almoxarifado e Inventário dos Bens Patrimoniais;",
+      "trechos_identificados": [
+        {
+          "trecho": "atenda às determinações da Lei 4.320/64, mais especificamente quanto ao controle do Almoxarifado e Inventário dos Bens Patrimoniais;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho determina a regularização do controle de almoxarifado e inventário de bens patrimoniais, indicando uma deficiência no controle patrimonial do órgão, o que é relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "Vários",
+              "descricao": "Controle do Almoxarifado e Inventário dos Bens Patrimoniais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "tome  as providências necessárias para regularizar a situação  do  quadro  de  pessoal,  abstendo-se  de  realizar contratações  temporárias  que não  estejam  em  perfeita consonância com a exceção constitucional consubstanciada no  inciso  IX  do  art.  37  da  CRFB/88  e  demais  normas infraconstitucionais que regulam a matéria.",
+      "trechos_identificados": [
+        {
+          "trecho": "tome  as providências necessárias para regularizar a situação  do  quadro  de  pessoal,  abstendo-se  de  realizar contratações  temporárias  que não  estejam  em  perfeita consonância com a exceção constitucional consubstanciada no  inciso  IX  do  art.  37  da  CRFB/88  e  demais  normas infraconstitucionais que regulam a matéria.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho determina a regularização do quadro de pessoal e a abstenção de contratações temporárias em desacordo com a Constituição, o que indica um problema estrutural na gestão de pessoal, sendo relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CRFB/88",
+              "artigo": "37, inciso IX",
+              "descricao": "Exceção constitucional para contratações temporárias"
+            },
+             {
+              "norma": "Normas infraconstitucionais",
+              "artigo": "N/A",
+              "descricao": "Regulamentação das contratações temporárias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria de Controle Externo que tome as providências necessárias  para  que  as  irregularidades  mencionadas  acima  sejam incluídas no escopo da próxima inspeção a ser realizada. com o intuito de verificar a adequação do órgão às determinações legais.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Marlem Riglison Silva Ferreira para que tenha conhecimento da decisão.",
+      "trechos_identificados": []
+    }
+  ]
+}

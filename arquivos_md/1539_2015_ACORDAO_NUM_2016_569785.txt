@@ -1,0 +1,28 @@
+{
+  "acordao": "262/2016",
+  "processo": "1539/2015",
+  "data_sessao": "30 de março de 2016",
+  "orgao": "Recursos Supervisionados pela SEMAD",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Serafim Pereira D`Alvim Meirelles Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Multa",
+      "descricao": "Multar o Sr. Serafim Pereira D'Alvim Meirelles Neto , ex-secretário e ordenador de despesas dos Recursos Supervisionados, no valor de R$ 4.468,42 (quatro mil, quatrocentos e sessenta e oito reais e quarenta e dois centavos), com fulcro no art. 53, Parágrafo Único, da Lei Orgânica 2.423/96 com a nova redação dada pelo art. 2º da Lei Complementar nº 114/2013, em face das restrições não sanadas, relacionadas ao item 9.2 subitens do relatório/voto, (item, 6. a, c, e, h, do Relatório Conclusivo nº 002/2016-DICAD-MA)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Cumprimento do Decreto n° 998, de 02 de junho de 2011, republicado integralmente no DOM edição 2753 de 19.08.2011, a todos os servidores que utilizam diárias, em especial, a regra do seu art. 11, sob pena da aplicação dos §§ 2° e 3° deste artigo, e do art. 13, ficando os servidores impedidos de receber diárias, passagens, além da participação de cursos em ocasiões posteriores, afora devolução dos valores não comprovados perante a Administração em relação às despesas, além de responderem solidariamente pelos atos praticados em desacordo com este Decreto, o ordenador de despesas e o servidor que houver recebido as diárias.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem que atente as Normas Brasileiras de Contabilidade, NBCT 16.5, Item 24, uma vez que estabelece critérios para o registro contábil dos atos e dos fatos que afetam ou possam vir a afetar o patrimônio das entidades do setor público",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "acordao": "951/2018",
+  "processo": "1524/2010",
+  "data_sessao": "18 de Dezembro de 2018",
+  "orgao": "Fundação Universidade do Estado do Amazonas - UEA",
+  "municipio": "Manaus",
+  "exercicio": "2009",
+  "responsavel": [
+    "Marilene Correa da Silva Freitas"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do exercício de 2009 da Universidade do Estado do Amazonas de responsabilidade da Sra. Marilene Correa da Silva Freitas, Reitora e Ordenadora das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, II e 24 da Lei 2.423/96.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa à Sra. Marilene Correa da Silva Freitas no valor de R$ 4.000,00, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE , com fundamento no art. 308, I, 'b' da Resolução n. 04/2002 pelas restrições: 12.6.1.j; 12.6.2.4; 12.6.3.d e f; 12.6.4.d; 12.10.2 e 12.10.6;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa à Sra. Marilene Correa da Silva Freitas no valor de R$ 1.096,03, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE , com fundamento no art. 308, II da Resolução n. 04/2002 pela restrição 12.3 deste RelatórioVoto;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar Inscrição na Dívida Ativa da Sra. Marilene Correa da Silva Freitas, ficando, desde já, autorizada a DICREX a adoção das medidas previstas no art. 175 da Resolução TCE 04/02.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Aplique esforço no sentido de suprir as lacunas normativas da Fundação.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Observe mais atentamente quando da elaboração das conciliações bancárias;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Adote medidas visando reaver os 'Créditos a Receber' desde 2008 no valor de 27.747,47",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Adote a nomenclatura das contas nos demonstrativos contábeis em harmonia com Normas Brasileira de Contabilidade Aplicada ao Setor Público.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Observe e cumpra as determinações contidas na Lei Federal nº 8.666/93, quando da formalização de Contratos e Licitações;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Dê mais atenção ao planejamento da logística dos cursos no interior do Estado;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Dê preferência sempre ao concurso público em obediência a Lei n. 8.666/93;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Verifique se foi prestado contas as diárias pagas à Sra. Antônia do Perpétuo Socorro da Silva Queiroz no valor de R$2.173,04;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Dê mais atenção ao setor de almoxarifado;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Implemente melhorias e atualizações no sistema de controle dos bens móveis patrimoniais",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Reveja sua política de controle interno na verificação da regularidade na aplicação dos recursos em adiantamento;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Sra. Marilene Correa da Silva Freitas, bem como, ao atual Reitor da UEA que: Cumpra o que determina a Lei 4.320/64, que trata das Normas Gerais de Direito Financeiro, principalmente quanto a contratação sem prévio empenho;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Sepleno a extração de cópias das páginas 1553-1732 e posterior remessa à DICAD para adoção das medidas cabíveis visando verificar se os atos foram encaminhados à esta Corte.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste Acordão à Sra. Marilene Correa da Silva Freitas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os presentes autos e seus apensos, nos termos regimentais, após o registro e o cumprimento dos itens acima.",
+      "trechos_identificados": []
+    }
+  ]
+}

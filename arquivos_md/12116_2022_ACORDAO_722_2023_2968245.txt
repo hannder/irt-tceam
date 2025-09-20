@@ -1,0 +1,38 @@
+{
+  "acordao": "722/2023",
+  "processo": "12116/2022",
+  "data_sessao": "25 de Abril de 2023",
+  "orgao": "Câmara Municipal de Atalaia do Norte",
+  "municipio": "Atalaia do Norte",
+  "exercicio": "2021",
+  "responsavel": [
+    "Jonas Gossel Meirelles"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a Prestação  de  Contas  Anual  da Câmara Municipal  de  Atalaia  do  Norte ,  de  responsabilidade  do Sr. Jonas Gossel Meirelles ,  referente  ao  exercício  de  2021,  nos  termos do art. 22, II, da Lei Estadual nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Jonas Gossel Meirelles, Presidente da Câmara Municipal  de  Atalaia  do  Norte,  exercício  de  2021,  no  valor  de  R$ 1.706,80 (um mil, setecentos e seis reais e oitenta centavos), conforme o  art.  54,  I,  'c',  da  Lei  nº  2.4231/996,  com  redação  dada  pela  LC  nº 204/2020,  c/c  o  art.  308,  I,  'c',  da  Resolução  nº  04/2002-TCE/AM, alterada pela Resolução nº 4/2018 - TCE/AM, pelo envio a destempo do  Relatório  de  Gestão  Fiscal  (1°  e  2°  semestres/2021),  ao  Sistema GEFIS, perfazendo o montante de R$ 3.413,60 (três mil, quatrocentos e treze  reais  e  sessenta  centavos),  de  acordo  com  o achado  1 da fundamentação do voto e fixar prazo de 30 dias para que a responsável recolha o valor da MULTA",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Jonas Gossel Meirelles, Presidente da Câmara Municipal  de  Atalaia  do  Norte,  exercício  de  2021,  no  valor  de R$ 1.706,80 (um mil, setecentos e seis reais e oitenta centavos), conforme o  art.  54,  VII,  da  Lei  nº  2.4231/996,  com  redação  dada  pela  LC  nº 204/2020,  c/c  o  art.  308,  VII,  da  Resolução  nº  04/2002-TCE/AM, alterada  pela  Resolução  n.º  4/2018  -  TCE/AM,  em  decorrência  da ausência  de  publicação  do  Relatório  de  Gestão  Fiscal  (1° e 2° semestres/2021),  ao  Sistema  GEFIS,  de  acordo  com  o achado  2 da fundamentação do voto e fixar prazo de 30 dias para que a responsável recolha o valor da MULTA",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Jonas  Gossel  Meirelles ,  para  conhecimento  da presente Decisão",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os presentes autos, após expirados os prazos legais.",
+      "trechos_identificados": []
+    }
+  ]
+}

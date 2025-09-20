@@ -1,0 +1,333 @@
+{
+  "acordao": "795/2016",
+  "processo": "1422/2015",
+  "data_sessao": "27 de Setembro de 2016",
+  "orgao": "Superintendência Estadual de Navegação, Portos e Hidrovias - SNPH",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Cláudio de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "revelia",
+      "descricao": "Decretar a revelia do gestor e ordenador de despesas responsável, nos termos do art. 20, §4°, da LO/TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Decretar a revelia do gestor e ordenador de despesas responsável, nos termos do art. 20, §4°, da LO/TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Registro de ato administrativo regular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LO/TCE",
+              "artigo": "20, §4°",
+              "descricao": "Decretar a revelia do gestor e ordenador de despesas responsável"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidades",
+      "descricao": "Julgar Irregulares as Contas Anuais da Superintendência Estadual de Navegação, Portos e Hidrovias - SNPH, referente ao exercício de 2014, de responsabilidade do Sr. Cláudio de Souza , ex-gestor e ordenador de despesas, nos termos do art. 22, III, 'b', da Lei 2.423/96 c/c o art. 188, §1º, III, 'b', da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregulares as Contas Anuais da Superintendência Estadual de Navegação, Portos e Hidrovias - SNPH, referente ao exercício de 2014, de responsabilidade do Sr. Cláudio de Souza , ex-gestor e ordenador de despesas, nos termos do art. 22, III, 'b', da Lei 2.423/96 c/c o art. 188, §1º, III, 'b', da Resolução 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Julgamento formal da prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "Julgar Irregulares as Contas Anuais"
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, §1º, III, 'b'",
+              "descricao": "Julgar Irregulares as Contas Anuais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "alcance",
+      "descricao": "Julgar em ALCANCE o Senhor Cláudio de Souza , nos moldes do art. 305, da  Resolução  n.  04/2002-RI/TCE,  glosando  o  montante  de  R$ 1.215.611,70 (um  milhão, duzentos e quinze mil, seiscentos e onze reais e setenta centavos), atualizados monetariamente, com devolução aos cofres públicos face a não comprovação das despesas consideradas irregulares e lesivas ao patrimônio público, ilegais e/ou ilegítimas, elencadas nos itens 05, 08, 12, 13 e 16;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar em ALCANCE o Senhor Cláudio de Souza , nos moldes do art. 305, da  Resolução  n.  04/2002-RI/TCE,  glosando  o  montante  de  R$ 1.215.611,70 (um  milhão, duzentos e quinze mil, seiscentos e onze reais e setenta centavos), atualizados monetariamente, com devolução aos cofres públicos face a não comprovação das despesas consideradas irregulares e lesivas ao patrimônio público, ilegais e/ou ilegítimas, elencadas nos itens 05, 08, 12, 13 e 16;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "As despesas não foram comprovadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-RI/TCE",
+              "artigo": "305",
+              "descricao": "Julgar em ALCANCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "prazo",
+      "descricao": "FIXAR o prazo de  30 (trinta)  dias para o  recolhimento do  valor  do débito aos cofres da Fazenda Estadual, com a devida comprovação nestes autos (art.72, III, 'a', da Lei nº 2423/96), atualizado monetariamente (art.55, da Lei n. 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Res. n. 04/02 - RITCE/AM);",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de  30 (trinta)  dias para o  recolhimento do  valor  do débito aos cofres da Fazenda Estadual, com a devida comprovação nestes autos (art.72, III, 'a', da Lei nº 2423/96), atualizado monetariamente (art.55, da Lei n. 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Res. n. 04/02 - RITCE/AM)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "Procedimentos internos do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'a'",
+              "descricao": "FIXAR o prazo de 30 dias para o recolhimento do valor do débito aos cofres da Fazenda Estadual"
+            },
+            {
+              "norma": "Lei n. 2423/96 - LOTCE/AM",
+              "artigo": "55",
+              "descricao": "valor do débito atualizado monetariamente"
+            },
+            {
+              "norma": "Res. n. 04/02 - RITCE/AM",
+              "artigo": "308, § 3º",
+              "descricao": "valor do débito atualizado monetariamente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "comunicado",
+      "descricao": "Comunicar ao Poder Executivo , que no caso de não recolhimento dos valores das condenações, ex vi o art.173 da Res. nº 04/2002 - RITCE/AM e expirado o prazo estabelecido, os valores dos débitos deverão ser inscritos na Dívida Ativa , seguido da imediata Cobrança Judicial , cientificando este Tribunal de todas as medidas adotadas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar ao Poder Executivo , que no caso de não recolhimento dos valores das condenações, ex vi o art.173 da Res. nº 04/2002 - RITCE/AM e expirado o prazo estabelecido, os valores dos débitos deverão ser inscritos na Dívida Ativa , seguido da imediata Cobrança Judicial , cientificando este Tribunal de todas as medidas adotadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Um aviso de procedimento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. nº 04/2002 - RITCE/AM",
+              "artigo": "173",
+              "descricao": "valores dos débitos deverão ser inscritos na Dívida Ativa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar Multa ao responsável no valor de: R$ 8.867,25 (oito  mil,  setecentos  e  sessenta  e  oito  reais  e  vinte  e cinco centavos), nos termos do art. 54, II, da Lei n. 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato  praticado  com  grave  infração  à  norma  legal  ou  regulamentar  de  natureza contábil,  financeira,  orçamentária,  operacional  e patrimonial,  conforme  itens  01 'b'  a  'f',  02, 04, 06, 07, 09, 10, 11, 15;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao responsável no valor de: R$ 8.867,25 (oito  mil,  setecentos  e  sessenta  e  oito  reais  e  vinte  e cinco centavos), nos termos do art. 54, II, da Lei n. 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato  praticado  com  grave  infração  à  norma  legal  ou  regulamentar  de  natureza contábil,  financeira,  orçamentária,  operacional  e patrimonial,  conforme  itens  01 'b'  a  'f',  02, 04, 06, 07, 09, 10, 11, 15;",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Sanção aplicada devido a irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Multa por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil,  financeira,  orçamentária,  operacional  e patrimonial"
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, VI",
+              "descricao": "Multa por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil,  financeira,  orçamentária,  operacional  e patrimonial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar Multa ao responsável no valor de: R$ 4.384,12 (quatro  mil  trezentos  e  oitenta  e  quatro  reais  e  doze centavos), nos termos do art. 54, III, da Lei n. 2.423/96 c/c o art. 308, V, da Resolução 4/2002, por  ato  de  gestão  ilegítimo  ou  antieconômico  de  que  resulte  injustificado  dano  ao  erário, conforme itens 05, 08, 12, 13 e 16",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao responsável no valor de: R$ 4.384,12 (quatro  mil  trezentos  e  oitenta  e  quatro  reais  e  doze centavos), nos termos do art. 54, III, da Lei n. 2.423/96 c/c o art. 308, V, da Resolução 4/2002, por  ato  de  gestão  ilegítimo  ou  antieconômico  de  que  resulte  injustificado  dano  ao  erário, conforme itens 05, 08, 12, 13 e 16",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Sanção devido a ato de gestão ilegítimo ou antieconômico com dano ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Multa por ato de gestão ilegítimo ou antieconômico de que resulte injustificado dano ao erário"
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, V",
+              "descricao": "Multa por ato de gestão ilegítimo ou antieconômico de que resulte injustificado dano ao erário"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "prazo",
+      "descricao": "Fixar  prazo de 30  (trinta)  dias  para  o recolhimento  aos  cofres  da  Fazenda Estadual, do montante de R$ 13.251,37 (treze mil, duzentos e cinquenta e um reais e trinta e sete  centavos),  referente  às  MULTAS,  com  a  devida  comprovação  perante  a este Tribunal, nos termos dos arts. 72, III, 'a', da Lei n. 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar  prazo de 30  (trinta)  dias  para  o recolhimento  aos  cofres  da  Fazenda Estadual, do montante de R$ 13.251,37 (treze mil, duzentos e cinquenta e um reais e trinta e sete  centavos),  referente  às  MULTAS,  com  a  devida  comprovação  perante  a este Tribunal, nos termos dos arts. 72, III, 'a', da Lei n. 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Procedimentos internos do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "72, III, 'a'",
+              "descricao": "Fixar prazo de 30 dias para o recolhimento aos cofres da Fazenda Estadual, do montante referente às MULTAS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "prazo",
+      "descricao": "Expirado prazo estabelecido, atualizar os valores das multas monetariamente (art. 55, da Lei nº 2.423/96 c/c o art. 308, § 3º da Resolução nº 04/2002TCE/AM), autorizando desde já a inscrição das penalidades na Dívida Ativa e a instauração da Cobrança Executiva em caso de não-recolhimento dos valores da condenação, ex  vi do art. 173, do Regimento Interno deste Tribunal de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Expirado prazo estabelecido, atualizar os valores das multas monetariamente (art. 55, da Lei nº 2.423/96 c/c o art. 308, § 3º da Resolução nº 04/2002TCE/AM), autorizando desde já a inscrição das penalidades na Dívida Ativa e a instauração da Cobrança Executiva em caso de não-recolhimento dos valores da condenação, ex vi do art. 173, do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Um aviso de procedimento",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "55",
+              "descricao": "atualizar os valores das multas monetariamente"
+            },
+            {
+              "norma": "Resolução nº 04/2002TCE/AM",
+              "artigo": "308, § 3º",
+              "descricao": "atualizar os valores das multas monetariamente"
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "autorizando desde já a inscrição das penalidades na Dívida Ativa e a instauração da Cobrança Executiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "comunicado",
+      "descricao": "Comunicar , com fulcro no art. 114, inciso III, da Lei Estadual nº 2.423/96, ao Ministério Público  Estadual  do  Amazonas,  remetendo  cópia  dos  autos,  em  razão  das irregularidades constatadas nesta Prestação de Contas Anual, haja vista os indícios de crimes previstos na  Lei  Nacional  nº 10.028/00 (Lei dos  Crimes de  Responsabilidade Fiscal), Lei  de Licitações Públicas (Lei Nacional nº 8.666/93, arts. 89 à 99) e Lei dos Crimes de Improbidades Administrativas (Lei Nacional nº 8.429/92);",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar , com fulcro no art. 114, inciso III, da Lei Estadual nº 2.423/96, ao Ministério Público  Estadual  do  Amazonas,  remetendo  cópia  dos  autos,  em  razão  das irregularidades constatadas nesta Prestação de Contas Anual, haja vista os indícios de crimes previstos na  Lei  Nacional  nº 10.028/00 (Lei dos  Crimes de  Responsabilidade Fiscal), Lei  de Licitações Públicas (Lei Nacional nº 8.666/93, arts. 89 à 99) e Lei dos Crimes de Improbidades Administrativas (Lei Nacional nº 8.429/92);",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "Informação sobre processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "114, inciso III",
+              "descricao": "Comunicar ao Ministério Público Estadual do Amazonas"
+            },
+             {
+              "norma": "Lei  Nacional  nº 10.028/00",
+              "artigo": " ",
+              "descricao": "Lei dos Crimes de Responsabilidade Fiscal"
+            },
+             {
+              "norma": "Lei Nacional nº 8.666/93",
+              "artigo": "arts. 89 à 99",
+              "descricao": "Lei de Licitações Públicas"
+            },
+             {
+              "norma": "Lei Nacional nº 8.429/92",
+              "artigo": " ",
+              "descricao": "Lei dos Crimes de Improbidades Administrativas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "comunicado",
+      "descricao": "Comunicar a decisão ao Tribunal Regional Eleitoral no Estado do Amazonas, em razão do art. 1º, I, alínea 'g', da Lei Complementar nº 64, de 18/5/1990;",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar a decisão ao Tribunal Regional Eleitoral no Estado do Amazonas, em razão do art. 1º, I, alínea 'g', da Lei Complementar nº 64, de 18/5/1990;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Informação sobre processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 64",
+              "artigo": "1º, I, alínea 'g'",
+              "descricao": "inelegibilidade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "encaminhamento",
+      "descricao": "Encaminhar cópia do Acórdão à Secex para que tome providências quanto a ausência de Prestação de Contas referente ao Termo de Parceria firmado entre a SNPH e a PROSAM - Programas Sociais da Amazônia.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar cópia do Acórdão à Secex para que tome providências quanto a ausência de Prestação de Contas referente ao Termo de Parceria firmado entre a SNPH e a PROSAM - Programas Sociais da Amazônia.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Informação sobre processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

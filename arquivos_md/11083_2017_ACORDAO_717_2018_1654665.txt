@@ -1,0 +1,222 @@
+{
+  "acordao": "717/2018",
+  "processo": "11083/2017",
+  "data_sessao": "23 de Outubro de 2018",
+  "orgao": "Câmara Municipal de Tapauá",
+  "municipio": "Tapauá",
+  "exercicio": "2016",
+  "responsavel": [
+    "Paulo Adnael Andrade de Almeida"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Paulo Adnael Andrade de Almeida, Vereador-Presidente e Ordenador de Despesa, à época, Câmara Municipal de Tapauá ,  exercício de 2016 , nos termos do art. 22, III, 'b' e 'c', da Lei 2.423/96 c/c o art. 188, §1º, III, 'b' e 'c', da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr. Paulo Adnael Andrade de Almeida, Vereador-Presidente e Ordenador de Despesa, à época, Câmara Municipal de Tapauá ,  exercício de 2016 , nos termos do art. 22, III, 'b' e 'c', da Lei 2.423/96 c/c o art. 188, §1º, III, 'b' e 'c', da Resolução 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A deliberação explicita o julgamento irregular da prestação de contas devido ao descumprimento de requisitos formais, caracterizando a tipologia de irregularidade como Ausência de documentação na Prestação de Contas Anuais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Fundamentação legal para o julgamento da irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, §1º, III, 'b' e 'c'",
+              "descricao": "Base legal para o julgamento da irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Considerar",
+      "descricao": "Considerar em Alcance o Sr. Paulo Adnael Andrade de Almeida no valor de R$ 322.228,00 (trezentos e vinte e dois mil, duzentos e vinte e oito reais), atualizados monetariamente, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, em face das restrições não sanadas transcritas na fundamentação do Voto (itens 2, 5 e 8 - Notificação n. 02/2016 - CI/DICAMI)",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Paulo Adnael Andrade de Almeida no valor de R$ 322.228,00 (trezentos e vinte e dois mil, duzentos e vinte e oito reais), atualizados monetariamente, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, em face das restrições não sanadas transcritas na fundamentação do Voto (itens 2, 5 e 8 - Notificação n. 02/2016 - CI/DICAMI)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação de alcance indica um possível desvio de recursos públicos, pois não houve comprovação de deslocamento em processos de diárias, retiradas em espécie sem comprovação das despesas, e ausência de fundamentação legal para aquisições, o que se enquadra na tipologia de Suposto Desvio de recursos públicos e Ausência do Termo de Responsabilidade dos Bens Patrimoniais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RESTRIÇÃO",
+      "descricao": "Não comprovação de deslocamento nos processos de diárias no valor de R$ 31.000,00",
+      "trechos_identificados": [
+        {
+          "trecho": "Não comprovação de deslocamento nos processos de diárias no valor de R$ 31.000,00",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A ausência de comprovação de deslocamento nas diárias configura uma falha na prestação de contas, justificando a classificação na tipologia especificada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RESTRIÇÃO",
+      "descricao": "retiradas em espécie da Conta Corrente sem a devida comprovação das despesas, somando um total de R$ 285.228,00",
+      "trechos_identificados": [
+        {
+          "trecho": "retiradas em espécie da Conta Corrente sem a devida comprovação das despesas, somando um total de R$ 285.228,00",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "As retiradas em espécie sem comprovação das despesas violam o princípio da unidade de tesouraria e a necessidade de rastreabilidade dos gastos públicos, justificando a classificação na tipologia especificada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RESTRIÇÃO",
+      "descricao": "Ausência de fundamentação legal para subsidiar as aquisições de \"canetas personalizadas\" para distribuição, no valor de R$ 6.000,00 (seis mil reais)",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de fundamentação legal para subsidiar as aquisições de \"canetas personalizadas\" para distribuição, no valor de R$ 6.000,00 (seis mil reais)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A ausência de fundamentação legal para aquisições de bens configura uma falta de justificativa para a escolha do fornecedor, indicando uma possível irregularidade no processo de compra.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Paulo Adnael Andrade de Almeida no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do art. 54, II, da Lei 2.423/96 c/c o art. 308, VI da Resolução 04/2002, por atos praticados com grave infração à norma legal, referente aos itens 1, 2 e 3 -Notificação n. 01/2017 -CI/DICREA e 1, 4, 9 à 15 - Notificação 02/2016 - CI/DICAMI, transcritos na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo  FAECE",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Paulo Adnael Andrade de Almeida no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do art. 54, II, da Lei 2.423/96 c/c o art. 308, VI da Resolução 04/2002, por atos praticados com grave infração à norma legal, referente aos itens 1, 2 e 3 -Notificação n. 01/2017 -CI/DICREA e 1, 4, 9 à 15 - Notificação 02/2016 - CI/DICAMI, transcritos na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo  FAECE",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "SANÇÕES",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "Multa por atos praticados com grave infração à norma legal",
+          "descricao": "Multa por atos praticados com grave infração à norma legal",
+          "justificativa_tipologia": "A aplicação de multa por atos praticados com grave infração à norma legal se enquadra na tipologia de sanções, refletindo a penalidade imposta devido às irregularidades encontradas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Fundamentação legal para a aplicação de multa por atos praticados com grave infração à norma legal."
+            },
+            {
+              "norma": "Resolução 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Base legal para a aplicação de multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Paulo Adnael Andrade de Almeida no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do art. 54, inciso III, da Lei n° 2423/96 c/c o art. 308, V, da Resolução n° 04/2002 , por atos de gestão de que resulte injustificado dano ao erário , referente aos itens 2, 5 e 8 - Notificação 02/2016 - CI/DICAMI, transcritos na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Paulo Adnael Andrade de Almeida no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do art. 54, inciso III, da Lei n° 2423/96 c/c o art. 308, V, da Resolução n° 04/2002 , por atos de gestão de que resulte injustificado dano ao erário , referente aos itens 2, 5 e 8 - Notificação 02/2016 - CI/DICAMI, transcritos na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "SANÇÕES",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "Multa por atos de gestão que resultem em dano ao erário",
+          "descricao": "Multa por atos de gestão que resultem em dano ao erário",
+          "justificativa_tipologia": "A aplicação de multa por atos de gestão que resultem em dano ao erário se enquadra na tipologia de sanções, refletindo a penalidade imposta devido ao dano causado ao patrimônio público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2423/96",
+              "artigo": "54, inciso III",
+              "descricao": "Fundamentação legal para a aplicação de multa por atos de gestão que resultem em dano ao erário."
+            },
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "308, V",
+              "descricao": "Base legal para a aplicação de multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar ao atual chefe do Poder Legislativo o cumprimento das Recomendações e Determinações listadas nas manifestações da Unidade Técnica e Parquet , remetendo-lhe cópias das referidas peças",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao atual chefe do Poder Legislativo o cumprimento das Recomendações e Determinações listadas nas manifestações da Unidade Técnica e Parquet , remetendo-lhe cópias das referidas peças",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "A determinação para cumprimento de recomendações e determinações das unidades técnica e jurídica reflete uma necessidade de melhoria e implementação do controle interno, alinhando-se à tipologia indicada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar ao atual chefe do Poder Legislativo o cumprimento das recomendações expostas na fundamentação do Voto, no que se refere a elaboração de relatórios mensais da utilização de veículos terrestres ou aquáticos locados, caso ainda seja realizada esta prática, para que seja possível a análise de uma possível economia ao erário pela próxima Comissão designada para fiscalizar o Município de Tapauá",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao atual chefe do Poder Legislativo o cumprimento das recomendações expostas na fundamentação do Voto, no que se refere a elaboração de relatórios mensais da utilização de veículos terrestres ou aquáticos locados, caso ainda seja realizada esta prática, para que seja possível a análise de uma possível economia ao erário pela próxima Comissão designada para fiscalizar o Município de Tapauá",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "A determinação de elaborar relatórios mensais sobre a utilização de veículos reflete a necessidade de melhor controle e transparência nos gastos, indicando uma possível falha na execução orçamentária e financeira, além de garantir o controle patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Dar ciência",
+      "descricao": "Dar ciência ao Ministério Público do Estado do Amazonas, encaminhando cópia dos autos, de acordo com o inciso XXIV, artigo 1º, da Lei nº 2423/96, para adoção de medidas que entender necessárias",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Ministério Público do Estado do Amazonas, encaminhando cópia dos autos, de acordo com o inciso XXIV, artigo 1º, da Lei nº 2423/96, para adoção de medidas que entender necessárias",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Este trecho é apenas uma notificação de procedimento, sem indicar qualquer irregularidade ou problema de gestão. Portanto, não se enquadra em nenhuma das tipologias de irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º",
+              "descricao": "Fundamentação legal para o envio de informações ao Ministério Público."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

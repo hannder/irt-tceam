@@ -1,0 +1,108 @@
+{
+  "acordao": "1518/2022",
+  "processo": "11778/2021",
+  "data_sessao": "13 de Setembro de 2022",
+  "orgao": "Fundo Especial do Corpo de Bombeiros Militar do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Danizio Valente Gonçalves Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual, da Unidade Gestora Fundo Especial  do  Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas  FUNESBOM,  de  responsabilidade  do  Sr. Danizio  Valente  Gonçalves Neto,  referente  ao  exercício  de  2020,  conforme  os  ditames  do art.  188, §1º,  I,  da  Resolução  nº  04/2002-  RITCE/AM,  c/c  art.  22,  I,  da  Lei  nº 2423/96-LOTCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual, da Unidade Gestora Fundo Especial  do  Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas  FUNESBOM,  de  responsabilidade  do  Sr. Danizio  Valente  Gonçalves Neto,  referente  ao  exercício  de  2020,  conforme  os  ditames  do art.  188, §1º,  I,  da  Resolução  nº  04/2002-  RITCE/AM,  c/c  art.  22,  I,  da  Lei  nº 2423/96-LOTCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere ao julgamento da regularidade das contas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002- RITCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM"
+            },
+            {
+              "norma": "Lei nº 2423/96-LOTCE/AM",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a Lei Orgânica do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao  Sr. Danizio  Valente  Gonçalves Neto, Presidente  do Conselho  de  Administração  do  FUNESBOM,  de  conformidade  com  os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao  Sr. Danizio  Valente  Gonçalves Neto, Presidente  do Conselho  de  Administração  do  FUNESBOM,  de  conformidade  com  os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere a quitação das contas, não apresentando indícios de irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do TCE/AM"
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, I",
+              "descricao": "Dispõe sobre a Lei Orgânica do TCE/AM"
+            },
+            {
+              "norma": "Resolução nº 02/2002 TCE-AM",
+              "artigo": "189, I",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao  Sr. Danizio  Valente  Gonçalves  Neto,  sobre  o  teor  da decisão, com cópia do Relatório-Voto e do respectivo Acórdão;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao  Sr. Danizio  Valente  Gonçalves  Neto,  sobre  o  teor  da decisão, com cópia do Relatório-Voto e do respectivo Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere apenas a ciência do responsável sobre a decisão",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, após cumpridas as determinações acima.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo, após cumpridas as determinações acima.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a arquivamento do processo após o cumprimento das determinações",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

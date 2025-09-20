@@ -1,0 +1,86 @@
+{
+  "acordao": "110/2014",
+  "processo": "539/2014",
+  "data_sessao": "15 de abril de 2014",
+  "orgao": "Município de Presidente Figueiredo",
+  "municipio": "Presidente Figueiredo",
+  "exercicio": "2013",
+  "responsavel": [
+    "Nelson da Cruz Cavalcante"
+  ],
+  "itens": [
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar ao Sr. Nelson da Cruz Cavalcante, Prefeito do Município de Presidente Figueiredo; multa no valor de R$ 1.096,03 (Mil e noventa e seis reais e três centavos) nos temmos dos art. 1' XXVI e 52 da Lei 2423/1996 (Lei Orgânica do TCEIAM) 04/2002 (Regimento Interno do TCEAM); pela remessa intempestiva dos Relatórios Resumidos de Execução Orçamentária;   referentes ao 10 Bimestre de 2013, previsto no artigo 165, $3\" da CFI88.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar ao Sr. Nelson da Cruz Cavalcante, Prefeito do Município de Presidente Figueiredo; multa no valor de R$ 1.096,03 (Mil e noventa e seis reais e três centavos) nos temmos dos art. 1' XXVI e 52 da Lei 2423/1996 (Lei Orgânica do TCEIAM) 04/2002 (Regimento Interno do TCEAM); pela remessa intempestiva dos Relatórios Resumidos de Execução Orçamentária;   referentes ao 10 Bimestre de 2013, previsto no artigo 165, $3\" da CFI88.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "Remessa intempestiva de documentos",
+          "justificativa_tipologia": "O trecho indica uma sanção aplicada devido ao envio fora do prazo dos Relatórios Resumidos de Execução Orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "1' XXVI e 52",
+              "descricao": "A multa é aplicada com base nos artigos 1' XXVI e 52 da Lei 2423/1996."
+            },
+            {
+              "norma": "Resolução n' 04/2002",
+              "artigo": "null",
+              "descricao": "A multa é aplicada com base nos artigos 1' XXVI e 52 da Lei 2423/1996 04/2002 (Regimento Interno do TCEAM)."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "165, $3",
+              "descricao": "Remessa intempestiva dos Relatórios Resumidos de Execução Orçamentária referentes ao 1º Bimestre de 2013, previsto no artigo 165, $3 da CF/88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar prazo de 30 dias para recolhimento da multa aplicada aos cofres da Fazenda Estadual com camprovação perante a este Tribunal; acrescido de atualização monetária e juros de mora devidos , do art. 174 do Jimento   Interno, autorizando desde já inscrição do débito na dívida ativa e RL Regi",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar prazo de 30 dias para recolhimento da multa aplicada aos cofres da Fazenda Estadual com camprovação perante a este Tribunal; acrescido de atualização monetária e juros de mora devidos , do art. 174 do Jimento   Interno, autorizando desde já inscrição do débito na dívida ativa e RL Regi",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "Notificação de prazo para pagamento",
+          "justificativa_tipologia": "O trecho define o prazo para recolhimento da multa aplicada e as consequências do não cumprimento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Jimento Interno",
+              "artigo": "174",
+              "descricao": "A atualização monetária e os juros de mora são devidos conforme o art. 174 do Jimento Interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhar à Diretoria de Controle Externo da Administração dos Municípios do Interior DICAMI cópia desta decisão para que proceda a juntada nos autos da Prestação de Contas da Prefeitura Municipal de Presidente Figueiredo; exercício de 2013.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar à Diretoria de Controle Externo da Administração dos Municípios do Interior DICAMI cópia desta decisão para que proceda a juntada nos autos da Prestação de Contas da Prefeitura Municipal de Presidente Figueiredo; exercício de 2013.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "Ato administrativo regular",
+          "justificativa_tipologia": "O trecho descreve um procedimento interno do TCE para juntada de documentos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

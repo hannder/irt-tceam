@@ -1,0 +1,97 @@
+{
+  "acordao": "137/2015",
+  "processo": "1622/2014",
+  "data_sessao": "04 de março de 2015",
+  "orgao": "Fundo Municipal de Inclusão Socioeducacional - FMIS",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Luiza Maria Bessa Rebelo"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular a Prestação  de  Contas  Anual  do  Fundo  Municipal  de Inclusão Socioeducacional - FMIS, referente ao exercício de 2013, de responsabilidade da Sra. Luiza Maria Bessa Rebelo, Diretora Geral da Escola de Serviço Público  Municipal, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, I, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a Prestação  de  Contas  Anual  do  Fundo  Municipal  de Inclusão Socioeducacional - FMIS, referente ao exercício de 2013, de responsabilidade da Sra. Luiza Maria Bessa Rebelo, Diretora Geral da Escola de Serviço Público  Municipal, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, I, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares, o que não indica uma irregularidade em si. A regularidade das contas, por si só, não indica um problema estrutural ou recorrente na gestão pública que justifique marcá-la como relevante para o índice.O tema Contabilidade é o mais adequado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II, c/c o art. 75",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II, c/c art. 22, II",
+              "descricao": "Estabelece normas sobre o processo de tomada e prestação de contas no âmbito do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Regulamenta o processo de tomada e prestação de contas no Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar que  a  atual  Diretora  Geral  da  Escola  de  Serviço  Público Municipal, com fulcro no Capítulo IV, art. 17,  X, da Lei Delegada n° 01/2013, determine que a Prefeitura Municipal de Manaus proceda a efetiva extinção da UG 610.901 e da UG 140.901, relativas ao Fundo Municipal de Inclusão Socieducacional - FMIS",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que  a  atual  Diretora  Geral  da  Escola  de  Serviço  Público Municipal, com fulcro no Capítulo IV, art. 17,  X, da Lei Delegada n° 01/2013, determine que a Prefeitura Municipal de Manaus proceda a efetiva extinção da UG 610.901 e da UG 140.901, relativas ao Fundo Municipal de Inclusão Socieducacional - FMIS",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação para extinguir as UGs pode estar relacionada a irregularidades na gestão orçamentária e financeira, como a manutenção indevida de contas ou a não observância do princípio da unidade de tesouraria. O tema da Execução Financeira e Orçamentária parece o mais adequado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Delegada n° 01/2013",
+              "artigo": "Capítulo IV, art. 17, X",
+              "descricao": "Lei que atribui competências à Diretora Geral da Escola de Serviço Público Municipal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar quitação à responsável ,  nos  termos do art. 23, da Lei Estadual nº 2423/96, c/c art. 189, I, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação à responsável ,  nos  termos do art. 23, da Lei Estadual nº 2423/96, c/c art. 189, I, da Resolução nº 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A quitação, por si só, não indica um problema estrutural ou recorrente na gestão pública que justifique marcá-la como relevante para o índice.O tema Contabilidade é o mais adequado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a quitação dos responsáveis após a aprovação das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Regulamenta a concessão de quitação aos responsáveis no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "acordao": "1114/2015",
+  "processo": "11160/2014",
+  "data_sessao": "16 de dezembro de 2015",
+  "orgao": "Câmara Municipal de São Paulo de Olivença",
+  "municipio": "São Paulo de Olivença",
+  "exercicio": "2013",
+  "responsavel": [
+    "Christian  Miller de  Moraes"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regular, com ressalvas, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei n. 2423/1996-LOTCE; artigo 18, inciso II, da LC n. 06/1991; c/c o artigo 188, §1º,  inciso II,  da Resolução nº.  04/2002-RITCE, a Prestação de Contas Anual, referente  ao  exercício  de  2013,  da  Câmara  Municipal  de  São  Paulo  de  Olivença,  de responsabilidade  do  Senhor Christian  Miller  de  Moraes, Presidente  e  Ordenador  de Despesas, à época",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular, com ressalvas, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei n. 2423/1996-LOTCE; artigo 18, inciso II, da LC n. 06/1991; c/c o artigo 188, §1º,  inciso II,  da Resolução nº.  04/2002-RITCE, a Prestação de Contas Anual, referente  ao  exercício  de  2013,  da  Câmara  Municipal  de  São  Paulo  de  Olivença,  de responsabilidade  do  Senhor Christian  Miller  de  Moraes, Presidente  e  Ordenador  de Despesas, à época",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação em si é um julgamento formal das contas, mas o resultado com ressalvas indica que houve impropriedades na gestão, que podem ser relevantes para o índice se forem estruturais ou recorrentes.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "Regulamenta sobre a prestação de contas"
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a regularidade com ressalva da prestação de contas"
+            },
+            {
+              "norma": "Lei Complementar n. 06/1991",
+              "artigo": "18, inciso II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Define os termos para o julgamento das contas como regular com ressalva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Nos  termos  dos  artigos  24  e  72,  inciso  II,  da  Lei  nº.  2423/1996LOTCE,  c/c  o  artigo  189,  inciso  II,  da  Resolução  nº.  04/2002, dar  quitação ao  Senhor Christian Miller de Moraes , Presidente e Ordenador de Despesas, à época",
+      "trechos_identificados": [
+        {
+          "trecho": "Nos  termos  dos  artigos  24  e  72,  inciso  II,  da  Lei  nº.  2423/1996LOTCE,  c/c  o  artigo  189,  inciso  II,  da  Resolução  nº.  04/2002, dar  quitação ao  Senhor Christian Miller de Moraes , Presidente e Ordenador de Despesas, à época",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A quitação é uma consequência do julgamento das contas, mas não indica, por si só, um problema estrutural na gestão pública",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "24",
+              "descricao": "Dispõe sobre as multas aplicáveis em processos de contas"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Define a competência para dar quitação em processos de contas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "189, inciso II",
+              "descricao": "Regulamenta a concessão de quitação após o julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar o Senhor Christian Miller de Moraes, na forma prevista no artigo 1º, inciso XXVI e artigo 52 da Lei n. 2423/1996 - LOTCE: R$ 2.000,00 (dois mil reais), de acordo com o art. 53, parágrafo único, da Lei nº.  2423/1996; c/c artigo 54,  §2º,  da Lei nº. 2423/1996  LOTCE;  e  artigo  1º,  da  Resolução  nº.  25/2012  -  TCE/AM,  pelas impropriedades constantes dos itens 04 e 06 do relatório/voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Senhor Christian Miller de Moraes, na forma prevista no artigo 1º, inciso XXVI e artigo 52 da Lei n. 2423/1996 - LOTCE: R$ 2.000,00 (dois mil reais), de acordo com o art. 53, parágrafo único, da Lei nº.  2423/1996; c/c artigo 54,  §2º,  da Lei nº. 2423/1996  LOTCE;  e  artigo  1º,  da  Resolução  nº.  25/2012  -  TCE/AM,  pelas impropriedades constantes dos itens 04 e 06 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica falhas nos processos administrativos e de controle interno, que podem ser estruturais e recorrentes. As irregularidades mencionadas nos itens 04 e 06 do relatório/voto (não detalhadas no acórdão) devem ser analisadas para determinar a tipologia específica.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "Define as multas aplicáveis pelo TCE-AM."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "52",
+              "descricao": "Estabelece critérios para aplicação de multas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "53, parágrafo único",
+              "descricao": "Define os valores das multas aplicáveis pelo TCE-AM"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "54, §2º",
+              "descricao": "Estabelece os procedimentos para aplicação das multas"
+            },
+            {
+              "norma": "Resolução nº. 25/2012 - TCE/AM",
+              "artigo": "1º",
+              "descricao": "Altera os valores das multas aplicáveis pelo TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Christian Miller de Moraes, recolha aos cofres da Fazenda Estadual o valor das multas    aplicadas,  com  a  devida  comprovação  nos  autos,  o  qual  deverá  ser  atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei nº. 2423/1996LOTCE),  ficando  a  DICREX  autorizada  a  adotar  as  medidas  das  Subseções  III  e  IV  da Secção III, do Capítulo X, da Resolução nº. 04/2002-RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Christian Miller de Moraes, recolha aos cofres da Fazenda Estadual o valor das multas    aplicadas,  com  a  devida  comprovação nos  autos,  o  qual  deverá  ser  atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei nº. 2423/1996LOTCE),  ficando  a  DICREX  autorizada  a  adotar  as  medidas  das  Subseções  III  e  IV  da Secção III, do Capítulo X, da Resolução nº. 04/2002-RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento da multa é um procedimento padrão e não indica, por si só, um problema estrutural na gestão",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "174",
+              "descricao": "Regulamenta os prazos processuais no âmbito do TCE-AM"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a atualização monetária das multas aplicadas pelo TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "Subseções III e IV da Seção III, do Capítulo X",
+              "descricao": "Autoriza a DICREX a adotar medidas para a cobrança das multas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: Encaminhe à atual Administração da Câmara de São Paulo de Olivença, cópias das peças emitidas pela Comissão de Inspeção e pela Representante  Ministerial,  visando  evitar  o  cometimento  das  mesmas impropriedades em Prestação de Contas futuras",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: Encaminhe à atual Administração da Câmara de São Paulo de Olivença, cópias das peças emitidas pela Comissão de Inspeção e pela Representante  Ministerial,  visando  evitar  o  cometimento  das  mesmas impropriedades em Prestação de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A determinação para encaminhar cópias das peças visa evitar a reincidência das mesmas impropriedades, indicando uma preocupação com a melhoria dos processos de prestação de contas",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: Notifique o Senhor Christian Miller de Moraes , com cópia do Relatório/Voto e deste Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: Notifique o Senhor Christian Miller de Moraes , com cópia do Relatório/Voto e deste Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A notificação do responsável é um procedimento padrão e não indica, por si só, um problema estrutural na gestão",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: Arquive o apenso Processo nº. 12425/2014  - Representação Decisão nº. 060/2013 - TRIBUNAL PLENO",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: Arquive o apenso Processo nº. 12425/2014  - Representação Decisão nº. 060/2013 - TRIBUNAL PLENO",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O arquivamento de processo apenso é um procedimento padrão e não indica, por si só, um problema estrutural na gestão",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002-RITCE, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002-RITCE, adote as providências do artigo 162, §1º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A adoção de providências após o trânsito em julgado é um procedimento padrão e não indica, por si só, um problema estrutural na gestão",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "159 e 160",
+              "descricao": "Define os termos da coisa julgada"
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "162, §1º",
+              "descricao": "Regulamenta as providências a serem adotadas após a coisa julgada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Por  maioria,  aplicar  multa ao Senhor  Christian  Miller  de Moraes no valor  de R$ 8.768,24 (oito mil, setecentos e sessenta e oito mil e vinte e quatro centavos), na forma prevista no artigo 308, inciso II, da Resolução nº. 04/2002 - RITCE, alterada pela Resolução  nº.  25/2012,  correspondente  a R$  1.096,03 ,  por  mês  de  competência  ( maio, junho, julho agosto, setembro, outubro, novembro e dezembro do exercício de 2013 ), relativo  aos  dados  e  demonstrativos  contábeis  ACP/Captura,  remetidos  ao  Tribunal  de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 10/2012  - TCE/AM, listado no item nº. 03 do relatório/voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Por  maioria,  aplicar  multa ao Senhor  Christian  Miller  de Moraes no valor  de R$ 8.768,24 (oito mil, setecentos e sessenta e oito mil e vinte e quatro centavos), na forma prevista no artigo 308, inciso II, da Resolução nº. 04/2002 - RITCE, alterada pela Resolução  nº.  25/2012,  correspondente  a R$  1.096,03 ,  por  mês  de  competência  ( maio, junho, julho agosto, setembro, outubro, novembro e dezembro do exercício de 2013 ), relativo  aos  dados  e  demonstrativos  contábeis  ACP/Captura,  remetidos  ao  Tribunal  de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 10/2012  - TCE/AM, listado no item nº. 03 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso na entrega de dados e demonstrativos contábeis indica falhas nos controles internos e na gestão da informação, o que pode ser estrutural e recorrente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "308, inciso II",
+              "descricao": "Define as multas aplicáveis em caso de descumprimento de prazos processuais."
+            },
+            {
+              "norma": "Resolução nº. 25/2012",
+              "artigo": "Não especificado",
+              "descricao": "Altera os valores das multas aplicáveis pelo TCE-AM."
+            },
+            {
+              "norma": "Resolução nº. 10/2012 - TCE/AM",
+              "artigo": "4º",
+              "descricao": "Fixa os prazos para a remessa de dados e demonstrativos contábeis ACP/Captura."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

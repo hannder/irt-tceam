@@ -1,0 +1,67 @@
+{
+  "acordao": "169/2015",
+  "processo": "1570/2014",
+  "data_sessao": "18 de março de 2015",
+  "orgao": "Secretaria Municipal do Trabalho, Emprego e Desenvolvimento - SEMTRAD",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "José Augusto de Souza Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Que  se  abstenha  de  contrair  obrigações  que  não  possam,  ser cumpridas no mesmo exercício, sem que haja disponibilidade financeira para arcar com os valores inscritos como Restos a Pagar",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  se  abstenha  de  contrair  obrigações  que  não  possam,  ser cumpridas no mesmo exercício, sem que haja disponibilidade financeira para arcar com os valores inscritos como Restos a Pagar",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "justificativa=A determinação explicita uma falha na gestão orçamentária, com impacto na saúde financeira da entidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Que observe e cumpra o prazo de recolhimento dos encargos sociais retidos da remuneração dos servidores até  o dia 20 de cada mês a que se referem as remunerações, evitando prejuízos para o Município com pagamento de juros de mora e multa",
+      "trechos_identificados": [
+        {
+          "trecho": "Que observe e cumpra o prazo de recolhimento dos encargos sociais retidos da remuneração dos servidores até  o dia 20 de cada mês a que se referem as remunerações, evitando prejuízos para o Município com pagamento de juros de mora e multa",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "justificativa=A determinação visa evitar o pagamento de juros e multas por atraso, o que indica uma falha no controle interno da entidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Dar quitação ao Responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A19A",
+          "tipologia_irregularidade": "Falta de segregação de funções",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "justificativa=O Tribunal Pleno decide dar quitação ao responsável",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

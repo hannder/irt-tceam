@@ -1,0 +1,176 @@
+{
+  "acordao": "251/2016",
+  "processo": "10734/2015",
+  "data_sessao": "23 de março de 2016",
+  "orgao": "Câmara Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2014",
+  "responsavel": [
+    "Francisco Elaime Monteiro da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de Iranduba ,  sob  a  responsabilidade do Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara  Municipal, exercício de 2014,  nos termos do inciso  II do art. 1º, inciso II do art. 19 e alínea 'b' do inciso III do art. 22, da Lei nº 2.423/96;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Adotar providências com vista a equacionar a situação de acúmulo de cargos  públicos,  a  qual  já  fora  apontada  nos  dois  exercícios  que antecederam ao de 2014 e até a presente data permanece insolúvel, conforme se extrai da irregularidade 2.3 do item 2 do Relatório/Proposta de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar providências com vista a equacionar a situação de acúmulo de cargos  públicos,  a  qual  já  fora  apontada  nos  dois  exercícios  que antecederam ao de 2014 e até a presente data permanece insolúvel, conforme se extrai da irregularidade 2.3 do item 2 do Relatório/Proposta de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "O trecho descreve a necessidade de solucionar o acúmulo de cargos públicos, o que indica uma irregularidade persistente na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Adotar providências com vista a equacionar a situação de acúmulo de cargos  públicos,  a  qual  já  fora  apontada  nos  dois  exercícios  que antecederam ao de 2014 e até a presente data permanece insolúvel, conforme se extrai da irregularidade 2.3 do item 2 do Relatório/Proposta de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar providências com vista a equacionar a situação de acúmulo de cargos  públicos,  a  qual  já  fora  apontada  nos  dois  exercícios  que antecederam ao de 2014 e até a presente data permanece insolúvel, conforme se extrai da irregularidade 2.3 do item 2 do Relatório/Proposta de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A15B",
+          "tipologia_irregularidade": "Ausência do certificado e relatório de auditoria",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "O trecho descreve a necessidade de solucionar o acúmulo de cargos públicos, o que indica uma irregularidade persistente na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Adotar providencias para o correto preenchimento do Sistema GEFIS e para os documentos que compõem a Prestação de Contas Anuais, nos termos da Res. TCE n.º 06/2009, bem como da Res. TCE n.º 15/2013 com as alterações promovidas pela Res. TCE n.º 24/2013, sob pena de, em caso de reincidência, incorrer na multa do art. 308, IV, 'b' da Res. TCE n.º 04/2002, qual seja, reincidência no descumprimento de determinação  do  Tribunal (irregularidade 3.1  e 3.2  do  item 3  do Relatório/Proposta de Voto);",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar providencias para o correto preenchimento do Sistema GEFIS e para os documentos que compõem a Prestação de Contas Anuais, nos termos da Res. TCE n.º 06/2009, bem como da Res. TCE n.º 15/2013 com as alterações promovidas pela Res. TCE n.º 24/2013, sob pena de, em caso de reincidência, incorrer na multa do art. 308, IV, 'b' da Res. TCE n.º 04/2002, qual seja, reincidência no descumprimento de determinação  do  Tribunal (irregularidade 3.1  e 3.2  do  item 3  do Relatório/Proposta de Voto)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve a necessidade de corrigir o preenchimento do Sistema GEFIS e dos documentos da Prestação de Contas Anuais, indicando falhas no envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. TCE n.º 06/2009",
+              "artigo": "Não aplicável",
+              "descricao": "Refere-se às normas para o correto preenchimento do Sistema GEFIS e documentos da Prestação de Contas Anuais."
+            },
+            {
+              "norma": "Res. TCE n.º 15/2013",
+              "artigo": "Não aplicável",
+              "descricao": "Refere-se às normas para o correto preenchimento do Sistema GEFIS e documentos da Prestação de Contas Anuais."
+            },
+            {
+              "norma": "Res. TCE n.º 24/2013",
+              "artigo": "Não aplicável",
+              "descricao": "Refere-se às alterações promovidas nas normas para o preenchimento do Sistema GEFIS e documentos da Prestação de Contas Anuais."
+            },
+            {
+              "norma": "art. 308, IV, 'b' da Res. TCE n.º 04/2002",
+              "artigo": "Não aplicável",
+              "descricao": "Estabelece multa por reincidência no descumprimento de determinação do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Adotar  providências  para  a  atualização  do  Portal  de  Transparência existente e dar cumprimento ao que determinam os arts. 48 e 48-A da Lei  Complementar  n.º  101/2000  com a  redação  dada  pela  Lei  n.º 131/2009 a fim de permitir maior controle social e por parte do Tribunal de Contas /AM (irregularidade 3.3 do item 3 do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar  providências  para  a  atualização  do  Portal  de  Transparência existente e dar cumprimento ao que determinam os arts. 48 e 48-A da Lei  Complementar  n.º  101/2000  com a  redação  dada  pela  Lei  n.º 131/2009 a fim de permitir maior controle social e por parte do Tribunal de Contas /AM (irregularidade 3.3 do item 3 do Relatório/Proposta de Voto)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho descreve a necessidade de atualizar o Portal de Transparência, indicando ausência ou deficiência na divulgação de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "arts. 48 e 48-A da Lei Complementar n.º 101/2000",
+              "artigo": "48 e 48-A",
+              "descricao": "Estabelecem normas para a transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei n.º 131/2009",
+              "artigo": "Não aplicável",
+              "descricao": "Altera dispositivos da Lei Complementar nº 101/2000 para aumentar a transparência na gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar  que  a  Câmara  Municipal  mantenha  os  Relatórios  de Gestão Fiscal e seus Anexos, nos termos dos arts. 54 e 55, I, II e III da Lei de Responsabilidade Fiscal (LC n.º 101/2000) devidamente publicados  e  assinados  disponíveis  à  Comissão  de Inspeção  na ocasião das inspeções ordinárias do Tribunal de Contas quando foram solicitados, sob pena de incorrer na multa descrita no art. 308,  I, 'b' (sonegação  de  processo  ou  documento,  em  inspeções  ou  auditorias realizadas pelo Tribunal) ou  IV, 'b', (reincidência no descumprimento de  determinação  do  Tribunal),  ambas  da  Res.  TCE  n.º  04/2002 (irregularidade 3.6 e 3.7 do item 3 do Relatório/Proposta de Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  que  a  Câmara  Municipal  mantenha  os  Relatórios  de Gestão Fiscal e seus Anexos, nos termos dos arts. 54 e 55, I, II e III da Lei de Responsabilidade Fiscal (LC n.º 101/2000) devidamente publicados  e  assinados  disponíveis  à  Comissão  de Inspeção  na ocasião das inspeções ordinárias do Tribunal de Contas quando foram solicitados, sob pena de incorrer na multa descrita no art. 308,  I, 'b' (sonegação  de  processo  ou  documento,  em  inspeções  ou  auditorias realizadas pelo Tribunal) ou  IV, 'b', (reincidência no descumprimento de  determinação  do  Tribunal),  ambas  da  Res.  TCE  n.º  04/2002 (irregularidade 3.6 e 3.7 do item 3 do Relatório/Proposta de Voto)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69A",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho determina a manutenção e disponibilidade dos Relatórios de Gestão Fiscal, o que indica uma falha na publicação e acesso a esses documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "arts. 54 e 55, I, II e III da Lei de Responsabilidade Fiscal (LC n.º 101/2000)",
+              "artigo": "54 e 55, I, II e III",
+              "descricao": "Estabelecem normas para a elaboração e divulgação dos Relatórios de Gestão Fiscal."
+            },
+            {
+              "norma": "art. 308, I, 'b' da Res. TCE n.º 04/2002",
+              "artigo": "Não aplicável",
+              "descricao": "Estabelece multa por sonegação de processo ou documento em inspeções ou auditorias."
+            },
+            {
+              "norma": "art. 308, IV, 'b', da Res. TCE n.º 04/2002",
+              "artigo": "Não aplicável",
+              "descricao": "Estabelece multa por reincidência no descumprimento de determinação do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais  e  vinte  e  oito  centavos),  nos  termos  do  inciso  VI  do  art.  308  da Resolução  nº  4/2002  (RITCE/AM),  em  decorrência  de  atos  praticados com grave infração às normas legais (irregularidades nº 2.1, 2.2, 2.5, 3.3, 3.4 e 3.5 do Relatório/Proposta de Voto);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do inciso III do art. 54 da Lei nº 2.423/96 c/c o inciso V do art. 308 da Resolução nº 04/2002  - TCE/AM, em decorrência de ato antieconômico injustificado, (irregularidades nº 2.4 do Relatório/Proposta de Voto);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Aplicar  multa ao Sr. Francisco Elaime Monteiro da Silva ,  ordenador de despesas da Câmara Municipal, exercício de 2014: No valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do inciso VII do art. 54 da Lei nº. 2.423/96 c/c inciso IV, alínea 'b'  do art. 308 da Resolução nº 04/2002- TCE/AM, em decorrência  de  reincidência  no  descumprimento  de  determinação  do Tribunal, (irregularidade 2.3 do Relatório/Proposta de Voto);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar  o  prazo  de  30  (trinta)  dias para  o  recolhimento  aos  cofres  da Fazenda Estadual do valor das multas impostas, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96, c/c o §4° do art. 174 da Resolução 4/2002 (RI-TCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei 2.423/96);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Remeter",
+      "descricao": "Remeter os autos à DICREX para que efetue os procedimentos previstos no art. 3º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução.",
+      "trechos_identificados": []
+    }
+  ]
+}

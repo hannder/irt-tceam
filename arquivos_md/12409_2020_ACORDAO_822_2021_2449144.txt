@@ -1,0 +1,79 @@
+{
+  "acordao": "822/2021",
+  "processo": "12409/2020",
+  "data_sessao": "10 de Agosto de 2021",
+  "orgao": "Secretaria Executiva de Proteção e Defesa Civil - SEPDEC",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Antonio Junior de Souza Brandao"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  da  Secretaria  Executiva  de Proteção e Defesa Civil -SEPDEC,  exercício de 2019, sob a responsabilidade do Sr. Antonio Junior de Souza Brandao - Secretário e ordenador de despesas, à época, nos termos do art. 1º, II e art. 22, I, ambos da Lei nº 2.423/96 c/c art. 5º, II e 188, § 1º, I, da Resolução n.º 4/2002-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  da  Secretaria  Executiva  de Proteção e Defesa Civil -SEPDEC,  exercício de 2019, sob a responsabilidade do Sr. Antonio Junior de Souza Brandao - Secretário e ordenador de despesas, à época, nos termos do art. 1º, II e art. 22, I, ambos da Lei nº 2.423/96 c/c art. 5º, II e 188, § 1º, I, da Resolução n.º 4/2002-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A regularidade da prestação de contas, por si só, não denota um problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE",
+              "artigo": "5º, II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE",
+              "artigo": "188, § 1º, I",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o DERED a expedição do termo de quitação ao Sr. Antônio Junior  de  Souza  Brandão , Secretário  e  ordenador  de  despesas,  à época, com fulcro no art. 22, I c/c o art. 23 ambos da Lei 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o DERED a expedição do termo de quitação ao Sr. Antônio Junior  de  Souza  Brandão , Secretário  e  ordenador  de  despesas,  à época, com fulcro no art. 22, I c/c o art. 23 ambos da Lei 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação de expedição de termo de quitação não indica, por si só, uma falha estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

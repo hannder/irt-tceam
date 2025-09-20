@@ -1,0 +1,91 @@
+{
+  "acordao": "599/2017",
+  "processo": "11837/2016",
+  "data_sessao": "2017-06-08",
+  "orgao": "Hospital e Pronto Socorro da Criança - Zona Sul",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Uildéia Galvão da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com Ressalvas",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas Anuais da Sra. Uildéia  Galvão  da  Silva ,  Diretora  Geral,  responsável  pelo  Hospital  e Pronto  Socorro  da  Criança  Zona  Sul,  relativa  ao  exercício  2015,  nos termos do art. 1º, II, 22,  II, e  24 da Lei 2423/1996 e art. 188, § 1º, II, e 189, II, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação à Sra. Uildéia Galvão da Silva, nos termos dos arts. 24 e 72,  II,  ambos  da  Lei  n.  2423,  de  10/12/1996,  c/c  o  art.  189,  II,  da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  Administração  do  Hospital  e  Pronto  Socorro  da Criança - Zona Sul que execute um planejamento prévio, ao término de cada exercício, para as suas aquisições de material hospitalar e outros de extrema necessidade ao funcionamento das atividades da área meio e  fim  da  referida  Casa  de  Saúde,  de  modo  a  evitar  a  realização  de despesas que possam caracterizar fracionamento, evitando, desta forma, penalidades impostas por este Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  atual  Administração  do  Hospital  e  Pronto  Socorro  da Criança - Zona Sul que execute um planejamento prévio, ao término de cada exercício, para as suas aquisições de material hospitalar e outros de extrema necessidade ao funcionamento das atividades da área meio e  fim  da  referida  Casa  de  Saúde,  de  modo  a  evitar  a  realização  de despesas que possam caracterizar fracionamento, evitando, desta forma, penalidades impostas por este Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A49A",
+          "tipologia_irregularidade": "Emergência fabricada",
+          "descricao": "A auditoria observou, por reiteradas vezes, a utilização de dispensa de licitação, com base no art. 24, IV, da Lei 8.666/1993 ou no art. 75, VIII, da Lei 14.133/2023, para casos de emergência ou de calamidade pública. No entanto, quando se analisa minuciosamente o caso concreto, observa-se que não se trata de emergência resultante de fato imprevisível, mas sim decorrente de falta de planejamento, de inércia administrativa ou de má gestão de recursos públicos. - Contudo, em que pese a comprovação da falta de planejamento e a inércia administrativa, entende-se cabível a dispensa de licitação com fundamento nesses dispositivos, em virtude da essencialidade do serviço, porém deve-se avaliar a responsabilização dos agentes públicos que concorreram para originar a situação emergencial.",
+          "justificativa_tipologia": "A recomendação de planejar as aquisições de material hospitalar visa evitar o fracionamento de despesas, o que sugere um problema recorrente na gestão e planejamento das aquisições, potencialmente enquadrando-se como 'Emergência Fabricada'.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Controladoria  Geral  do  Estado  -  CGE,  quando  do cumprimento de seus obejtivos institucionais prescritos no inciso VIII do art. 4º da Lei Delegada nº 71, de 18/05/2007, envide esforços no sentido de emitir Parecer, Relatório e Certificado de Auditoria, conforme exigência contida no inciso III do  art. 10 da Lei nº  2423/96-TCE/AM, e encaminhe-os tempestivamente aos órgãos da Administração Estadual, para que façam constar em suas respectivas prestações de contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  Controladoria  Geral  do  Estado  -  CGE,  quando  do cumprimento de seus obejtivos institucionais prescritos no inciso VIII do art. 4º da Lei Delegada nº 71, de 18/05/2007, envide esforços no sentido de emitir Parecer, Relatório e Certificado de Auditoria, conforme exigência contida no inciso III do  art. 10 da Lei nº  2423/96-TCE/AM, e encaminhe-os tempestivamente aos órgãos da Administração Estadual, para que façam constar em suas respectivas prestações de contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para que a CGE emita e encaminhe tempestivamente os documentos de auditoria, indica uma deficiência no controle interno relacionada à documentação e prazos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Delegada nº 71",
+              "artigo": "4º",
+              "descricao": "Atribuições da Controladoria Geral do Estado"
+            },
+            {
+              "norma": "Lei nº 2423/96-TCE/AM",
+              "artigo": "10",
+              "descricao": "Exigência de Parecer, Relatório e Certificado de Auditoria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a  Sepleno  -  Secretaria  do  Tribunal  Pleno  que  adote  as providências previstas no art. 161 da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a  Sepleno  -  Secretaria  do  Tribunal  Pleno  que  adote  as providências previstas no art. 161 da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para que a Sepleno adote providências internas do TCE não indica diretamente um problema na gestão do órgão auditado, mas sim um procedimento interno do Tribunal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "161",
+              "descricao": "Procedimentos internos do TCE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

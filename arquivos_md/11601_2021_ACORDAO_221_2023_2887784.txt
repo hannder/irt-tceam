@@ -1,0 +1,44 @@
+{
+  "acordao": "221/2023",
+  "processo": "11601/2021",
+  "data_sessao": "14 de Fevereiro de 2023",
+  "orgao": "Centro de Serviços Compartilhados-CSC",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Walter Siqueira Brito",
+    "Creuza Tereza Paulino Cavalcante"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas do Sr. Walter Siqueira Brito, Presidente do Centro de Serviços Compartilhados-CSC, referente ao exercício de 2020, com fundamento no art. 22, I, da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas da Sra. Creuza Tereza Paulino Cavalcante, Ordenadora das Despesas do Centro de Serviços Compartilhados-CSC, referente ao exercício de 2020, com fulcro no art. 22, I, da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Walter Siqueira Brito, Presidente do Centro de Serviços Compartilhados-CSC, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação à Sra. Creuza Tereza Paulino Cavalcante, Ordenadora das Despesas do Centro de Serviços Compartilhados-CSC, de conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Walter Siqueira Brito, à Sra. Creuza Teresa Paulino Cavalcante e ao Centro de Serviços Compartilhados-CSC, bem como aos seus Patronos, se for o caso, sobre o teor desta decisão, com cópia do Relatório-Voto e deste Acórdão",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos regimentais.",
+      "trechos_identificados": []
+    }
+  ]
+}

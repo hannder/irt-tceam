@@ -1,0 +1,53 @@
+{
+  "acordao": "1050/2020",
+  "processo": "12423/2020",
+  "data_sessao": "4 de Novembro de 2020",
+  "orgao": "Centro Psiquiátrico Eduardo Ribeiro",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Andrea Barker Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas Anual, referente ao exercício de 2019,  da Sra.  Andrea  Barker  Costa , Diretora  Executiva  do  Centro Psiquiátrico  Eduardo  Ribeiro,  nos  termos  do  artigo  22,  III,  'b',  da  Lei Estadual nº 2423/1996",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "aplicar  multa à Sra.  Andrea  Barker Costa , Diretora  Executiva  do  Centro  Psiquiátrico  Eduardo  Ribeiro,  no valor  de R$  3.413,60 (três  mil,  quatrocentos  e  treze  reais  e  sessenta centavos), na forma do Art. 54, inciso I, 'a', da Lei nº 2.423/96, c/c o Art. 308,  inciso  I,  'a',  do  Regimento  Interno  -  TCE/AM,  pela  impropriedade não  sanada  nº  2,  do  Relatório  Cconclusivo nº  49/2020-DICAD.  A  multa deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda -  SEFAZ.  Dentro  do  prazo  anteriormente  conferido,  é  obrigatório  o encaminhamento do comprovante de pagamento (autenticado pelo Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "aplicar  multa à Sra.  Andrea  Barker Costa , Diretora  Executiva  do  Centro  Psiquiátrico  Eduardo  Ribeiro,  no valor de R$20.000,00 (vinte mil reais), na forma do Art. 54, inciso VI, da Lei nº 2.423/96, c/c o Art. 308, inciso VI, do Regimento Interno - TCE/AM, pelas impropriedades não sanadas nº 3, 4, 5, 6, 9 e 10, do Relatório Conclusivo nº 49/2020-DICAD, em razão de ato praticado com grave  infração  à  norma  legal  ou  regulamentar  de  natureza  contábil, financeira,  orçamentária,  operacional  e  patrimonial.  A  multa  deverá  ser recolhida  no prazo  de  30  dias para  o  Cofre  Estadual  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  Multas  aplicadas  pelo  TCE/AM  -  Secretaria  de  Estado  da  Fazenda  SEFAZ. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Envide esforços junto ao Fundo Estadual e a SEFAZ no sentido de regularizar  a  conta caixa  do  Balanço  Financeiro,  procedendo  a baixa do valor de R$ 269,50",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Faça  gestão  junto  a  SEFAZ  e  ao  Fundo  de  Saúde  para regularizar a pendência de pagamento referente a Restos a Pagar Processados  do  exercício  de  2018  de  responsabilidade  da Sra. Andrea  Barker  Costa , uma  vez  que  o  art.  63  da  Lei  nº  4.320/64 determina que a liquidação da despesa consiste na verificação do direito adquirido pelo credor tendo como base os títulos e documentos comprobatórios do respectivo crédito.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhe à atual Administração do Centro Psiquiátrico Eduardo Ribeiro, cópias das peças emitidas pela Comissão de Inspeção,  e  pelo  Representante  Ministerial,  visando  evitar  o cometimento  das  mesmas  impropriedades  em  Prestação  de Contas futuras.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos arts. 159 e 160, da Resolução nº. 04/2002 -RITCE/AM, adote as providências do art. 162, §1º, do RITCE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência a Sra. Andrea Barker Costa da decisão.",
+      "trechos_identificados": []
+    }
+  ]
+}

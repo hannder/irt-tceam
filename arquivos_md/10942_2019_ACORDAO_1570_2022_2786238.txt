@@ -1,0 +1,162 @@
+{
+  "acordao": "1570/2022",
+  "processo": "10942/2019",
+  "data_sessao": "19 de setembro de 2022",
+  "orgao": "Câmara Municipal de Manaquiri",
+  "municipio": "Manaquiri",
+  "exercicio": "2018",
+  "responsavel": [
+    "Antônio Silva de Holanda"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  prestação  de  contas  anual  do Sr. Antônio Silva de Holanda , Vereador-Presidente da Câmara Municipal de Manaquiri, exercício 2018, nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCEAM,  em  razão  de  impropriedades  identificadas  e não sanadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  prestação  de  contas  anual  do Sr. Antônio Silva de Holanda , Vereador-Presidente da Câmara Municipal de Manaquiri, exercício 2018, nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCEAM,  em  razão  de  impropriedades  identificadas  e não sanadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento regular com ressalvas, a justificativa da decisão aponta para impropriedades não sanadas, o que pode indicar deficiências nas demonstrações contábeis que requerem atenção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Antônio  Silva de Holanda no valor de R$1.706,79 (um  mil, setecentos e seis reais e setenta e nove centavos), nos termos do art. 54, inciso VII, da LO-TCE/AM, em razão de impropriedades ou faltas identificadas e consideradas não sanadas, em  violação às seguintes normas legais: Lei Complementar nº 101/2000 - art. 48 c/c 55, §2º (atraso no envio de relatório de gestão fiscal); Lei nº 8.666/1993 - art. 38 c/c art. 67 (processo licitatório sem numeração de folhas e execução de contato sem fiscal designado pela administração);  Lei  nº  4.320/1964  -  art.  94  (ausência  de  registros analíticos dos bens de caráter permanente do órgão); e Resolução nº 04/2002 - RITCEAM - art.259, parágrafo único c/c art. 260, inciso II, §2º  (ausência  de  oficialização  de  atos  de  admissão  e  exoneração  de servidores  ocupantes  de  cargos  comissionados  e  fixar prazo  de  30 dias para  que  o  responsável  recolha  o  valor  da  MULTA na  esfera Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE'.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Antônio  Silva de Holanda no valor de R$1.706,79 (um  mil, setecentos e seis reais e setenta e nove centavos), nos termos do art. 54, inciso VII, da LO-TCE/AM, em razão de impropriedades ou faltas identificadas e consideradas não sanadas, em  violação às seguintes normas legais: Lei Complementar nº 101/2000 - art. 48 c/c 55, §2º (atraso no envio de relatório de gestão fiscal)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O atraso no envio do RREO indica uma falha na gestão fiscal e no cumprimento das obrigações de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "48",
+              "descricao": "Dispõe sobre a transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "55, §2º",
+              "descricao": "Refere-se ao atraso no envio de relatório de gestão fiscal."
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, inciso VII",
+              "descricao": "Aplica multa devido a impropriedades ou faltas identificadas e consideradas não sanadas"
+            }
+          ]
+        },
+        {
+          "trecho": "em  violação às seguintes normas legais: Lei Complementar nº 101/2000 - art. 48 c/c 55, §2º (atraso no envio de relatório de gestão fiscal); Lei nº 8.666/1993 - art. 38 c/c art. 67 (processo licitatório sem numeração de folhas e execução de contato sem fiscal designado pela administração)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "Processo licitatório sem numeração de folhas e execução de contrato sem fiscal designado pela administração indica falha em processo licitatorio",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "38",
+              "descricao": "Dispõe sobre o processo licitatório."
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "67",
+              "descricao": "Dispõe sobre a execução de contato sem fiscal designado pela administração"
+            },
+              {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, inciso VII",
+              "descricao": "Aplica multa devido a impropriedades ou faltas identificadas e consideradas não sanadas"
+            }
+          ]
+        },
+        {
+          "trecho": "em  violação às seguintes normas legais: Lei Complementar nº 101/2000 - art. 48 c/c 55, §2º (atraso no envio de relatório de gestão fiscal); Lei nº 8.666/1993 - art. 38 c/c art. 67 (processo licitatório sem numeração de folhas e execução de contato sem fiscal designado pela administração);  Lei  nº  4.320/1964  -  art.  94  (ausência  de  registros analíticos dos bens de caráter permanente do órgão)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A ausência de registros analíticos dos bens de caráter permanente do órgão indica deficiências no controle patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "94",
+              "descricao": "Dispõe sobre a ausência de registros analíticos dos bens de caráter permanente do órgão."
+            },
+              {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, inciso VII",
+              "descricao": "Aplica multa devido a impropriedades ou faltas identificadas e consideradas não sanadas"
+            }
+          ]
+        },
+        {
+          "trecho": "em  violação às seguintes normas legais: Lei Complementar nº 101/2000 - art. 48 c/c 55, §2º (atraso no envio de relatório de gestão fiscal); Lei nº 8.666/1993 - art. 38 c/c art. 67 (processo licitatório sem numeração de folhas e execução de contato sem fiscal designado pela administração);  Lei  nº  4.320/1964  -  art.  94  (ausência  de  registros analíticos dos bens de caráter permanente do órgão); e Resolução nº 04/2002 - RITCEAM - art.259, parágrafo único c/c art. 260, inciso II, §2º  (ausência  de  oficialização  de  atos  de  admissão  e  exoneração  de servidores  ocupantes  de  cargos  comissionados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A46A",
+          "tipologia_irregularidade": "Ausência de publicação do ato de autorização do certame",
+          "descricao": "Ausência de publicação do ato de autorização do certame.",
+          "justificativa_tipologia": "A ausência de oficialização de atos de admissão e exoneração de servidores ocupantes de cargos comissionados viola a transparência e a legalidade na gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - RITCEAM",
+              "artigo": "259, parágrafo único",
+              "descricao": "Dispõe sobre a oficialização de atos de admissão de servidores"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCEAM",
+              "artigo": "260, inciso II, §2º",
+              "descricao": "Dispõe sobre a oficialização de atos de exoneração de servidores"
+            },
+              {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, inciso VII",
+              "descricao": "Aplica multa devido a impropriedades ou faltas identificadas e consideradas não sanadas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste decisum ao do Sr. Antônio Silva de Holanda",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência deste decisum ao do Sr. Antônio Silva de Holanda",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Apenas formaliza a ciência da decisão, sem indicar problemas estruturais ou recorrentes.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "acordao": "12/2022",
+  "processo": "12467/2020",
+  "data_sessao": "18 de Janeiro de 2022",
+  "orgao": "Regime Próprio de Previdência Social do Município de Urucará -URUCARAPREV",
+  "municipio": "Urucará",
+  "exercicio": "2019",
+  "responsavel": [
+    "Romualdo Vicente Alves Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. Romualdo Vicente  Alves  Filho ,  responsável  pelo  Regime  Próprio  de  Previdência Social do Município de Urucará - URUCARAPREV, exercício de 2019",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Dar quitação",
+      "descricao": "Dar quitação ao Sr. Romualdo Vicente Alves Filho ,  com fulcro no art. 163,  da  Resolução  nº  04/2002-TCE/AM (Regimento Interno  desta  Corte de Contas)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual e futuras gestões do URUCARAPREV que observe com maior cautela os ditames da Lei nº 9.717/1998, mormente no que se refere  ao  encaminhamento  do  documento  de  registro  das  contribuições individualizadas (por servidor) e da parte patronal, sob pena de multa por reincidência de descumprimento",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à atual e futuras gestões do URUCARAPREV que observe com maior cautela os ditames da Lei nº 9.717/1998, mormente no que se refere  ao  encaminhamento  do  documento  de  registro  das  contribuições individualizadas (por servidor) e da parte patronal, sob pena de multa por reincidência de descumprimento",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A25B",
+          "tipologia_irregularidade": "Ausência de registro individualizado",
+          "descricao": "Ausência de registro individualizado",
+          "justificativa_tipologia": "O trecho determina o envio do documento de registro das contribuições individualizadas, o que se relaciona com a tipologia 'Ausência de registro individualizado'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 9.717/1998",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão a ser designada para realizar inspeção no  Regime  Próprio  de  Previdência  Social  do  Município  de  Urucará  URUCARAPREV que apure a existência dos documentos que comprovem a existência de sistema informatizado em que consta registro das contribuições individualizadas dos servidores municipais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão a ser designada para realizar inspeção no  Regime  Próprio  de  Previdência  Social  do  Município  de  Urucará  URUCARAPREV que apure a existência dos documentos que comprovem a existência de sistema informatizado em que consta registro das contribuições individualizadas dos servidores municipais.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A25B",
+          "tipologia_irregularidade": "Ausência de registro individualizado",
+          "descricao": "Ausência de registro individualizado",
+          "justificativa_tipologia": "A determinação visa apurar a existência de documentos que comprovem o registro individualizado das contribuições, relacionando-se à tipologia 'Ausência de registro individualizado'.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Dar ciência",
+      "descricao": "Dar ciência ao Sr. Romualdo Vicente Alves Filho , bem como aos seus patronos, sobre o deslinde do feito.",
+      "trechos_identificados": []
+    }
+  ]
+}

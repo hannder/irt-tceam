@@ -1,0 +1,172 @@
+{
+  "acordao": "812/2017",
+  "processo": "11704/2016",
+  "data_sessao": "2 de Agosto de 2017",
+  "orgao": "Fundo Estadual de Defesa do Consumidor - FUNDECON",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Janaina Sales Rodrigues",
+    "Rosely de Assis Fernandes"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da Sra.  Rosely  de  Assis Fernandes , na  qualidade  de  ordenadora  de  despesas  do  Fundo Estadual de Defesa do Consumidor -FUNDECON  (período  de 25.03.2015  a 31.12.2015),  com  fulcro  no  artigo  22,  II,  da  Lei  n. 2423/1996 (Lei Orgânica TCE/AM)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da Sra.  Rosely  de  Assis Fernandes , na  qualidade  de  ordenadora  de  despesas  do  Fundo Estadual de Defesa do Consumidor -FUNDECON  (período  de 25.03.2015  a 31.12.2015).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ordenadora teve suas contas julgadas irregulares devido a problemas na prestação de contas, indicando falta de clareza e comprovação nos registros contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  n. 2423/1996",
+              "artigo": "22, II",
+              "descricao": "Lei Orgânica TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa a Sra.  Rosely  de  Assis  Fernandes,  no valor  de  R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos) , nos moldes dos arts. 54, II, da Lei nº 2423/96 e 308, VI, da Resolução  nº  04/2002  -  TCE/AM,  em  virtude  de:  a)  realização  de despesa sem prévio empenho; b) realização de dispensa de licitação de forma  indevida,  que  devem  ser  recolhidos  na  esfera  Estadual  para  o órgão Encargos Gerais do Estado - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa a Sra.  Rosely  de  Assis  Fernandes,  no valor  de  R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos) , nos moldes dos arts. 54, II, da Lei nº 2423/96 e 308, VI, da Resolução  nº  04/2002  -  TCE/AM,  em  virtude  de:  a)  realização  de despesa sem prévio empenho.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A multa foi aplicada devido à realização de despesa sem o devido empenho, o que é uma violação das normas financeiras e orçamentárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, II",
+              "descricao": "Multa por irregularidade"
+            },
+            {
+              "norma": "Resolução  nº  04/2002  -  TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Multa por irregularidade"
+            }
+          ]
+        },
+        {
+          "trecho": "Aplicar  Multa a Sra.  Rosely  de  Assis  Fernandes,  no valor  de  R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos) , nos moldes dos arts. 54, II, da Lei nº 2423/96 e 308, VI, da Resolução  nº  04/2002  -  TCE/AM,  em  virtude  de: b) realização de dispensa de licitação de forma  indevida.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "A multa foi aplicada devido à realização de dispensa de licitação de forma indevida, sem amparo legal",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, II",
+              "descricao": "Multa por irregularidade"
+            },
+            {
+              "norma": "Resolução  nº  04/2002  -  TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Multa por irregularidade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar  Multa a Sra.  Rosely  de  Assis  Fernandes,  no valor  de  R$ 4.384,12  (quatro  mil,  trezentos  e  oitenta  e  quatro  reais  e  doze centavos) ,  de  acordo  com  a  inteligência  dos  arts.  54,  VII,  da  Lei  nº 2423/96 e 308, IV, a, da Resolução nº 04/02 - TCE/AM, em virtude de reincidência no descumprimento em determinação deste Tribunal (item 9.4.2 do Acórdão nº 447/2016, do Processo nº 1608/2015), qual seja ausência  de  remessa  de  informações  obrigatórias  de  certames  via portal  e-contas,  que  devem ser  recolhidos  na  esfera  Estadual  para  o órgão Encargos Gerais do Estado - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa a Sra.  Rosely  de  Assis  Fernandes,  no valor  de  R$ 4.384,12  (quatro  mil,  trezentos  e  oitenta  e  quatro  reais  e  doze centavos) ,  de  acordo  com  a  inteligência  dos  arts.  54,  VII,  da  Lei  nº 2423/96 e 308, IV, a, da Resolução nº 04/02 - TCE/AM, em virtude de reincidência no descumprimento em determinação deste Tribunal (item 9.4.2 do Acórdão nº 447/2016, do Processo nº 1608/2015), qual seja ausência  de  remessa  de  informações  obrigatórias  de  certames  via portal  e-contas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "Multa aplicada devido à reincidência na ausência de remessa de informações obrigatórias via portal e-contas, indicando falha persistente no cumprimento das obrigações de transparência e controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "54, VII",
+              "descricao": "Multa por descumprimento de determinação do Tribunal"
+            },
+            {
+              "norma": "Resolução nº 04/02 - TCE/AM",
+              "artigo": "308, IV, a",
+              "descricao": "Multa por descumprimento de determinação do Tribunal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar ao  Fundo Estadual de Defesa do Consumidor  - Fundecon que: informe ao sistema e-contas todos as informações referentes a termos de contratos, procedimentos licitatórios, notas de empenhos, credor vencedor e demais documentos obrigatórios",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao  Fundo Estadual de Defesa do Consumidor  - Fundecon que: informe ao sistema e-contas todos as informações referentes a termos de contratos, procedimentos licitatórios, notas de empenhos, credor vencedor e demais documentos obrigatórios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação visa assegurar a completa e correta alimentação do sistema e-contas, ferramenta essencial para o controle e transparência dos gastos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar ao  Fundo Estadual de Defesa do Consumidor  - Fundecon que: planeje adequadamente as aquisições e/ou contratações a fim de evitar  despesa realizada com dispensa de licitação, nos  termos  do  artigo  24,  IV,  da  Lei  nº  8.666/93,  onde  a situação emergencial foi gerada por falta de planejamento e má-gestão",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao  Fundo Estadual de Defesa do Consumidor  - Fundecon que: planeje adequadamente as aquisições e/ou contratações a fim de evitar  despesa realizada com dispensa de licitação, nos  termos  do  artigo  24,  IV,  da  Lei  nº  8.666/93,  onde  a situação emergencial foi gerada por falta de planejamento e má-gestão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A determinação visa mitigar o uso de dispensas de licitação emergenciais, que podem indicar falta de planejamento e gestão inadequada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº  8.666/93",
+              "artigo": "24, IV",
+              "descricao": "Dispensa de licitação em casos de emergência ou calamidade pública"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar ao  Fundo Estadual de Defesa do Consumidor  - Fundecon que: realize procedimento licitatório para aquisição de 'climatizadores de ar', uma vez que o seu aluguel é medida economicamente menos viável para o erário",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao  Fundo Estadual de Defesa do Consumidor  - Fundecon que: realize procedimento licitatório para aquisição de 'climatizadores de ar', uma vez que o seu aluguel é medida economicamente menos viável para o erário",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A determinação visa garantir a economicidade na gestão dos recursos públicos, buscando a opção mais vantajosa para a aquisição de bens.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

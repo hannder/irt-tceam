@@ -1,0 +1,87 @@
+{
+  "acordao": "1127/2023",
+  "processo": "11924/2020",
+  "data_sessao": "13 de Junho de 2023",
+  "orgao": "Tribunal Pleno",
+  "municipio": "Tabatinga",
+  "exercicio": "2022",
+  "responsavel": [
+    "Saul Nunes Bemerguy"
+  ],
+  "itens": [
+    {
+      "tipo": "Conhecer",
+      "descricao": "Conhecer os  Embargos de Declaração opostos pelo Sr. Saul Nunes Bemerguy, Prefeito do  Município  de  Tabatinga,  por  preencher  os requisitos legais à espécie;",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer os  Embargos de Declaração opostos pelo Sr. Saul Nunes Bemerguy, Prefeito do  Município  de  Tabatinga,  por  preencher  os requisitos legais à espécie;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho em questão é um procedimento administrativo padrão do Tribunal de Contas, sem indicação de irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Negar Provimento",
+      "descricao": "Negar Provimento aos Embargos opostos pelo Sr. Saul Nunes Bemerguy, por  ausência  dos  pressupostos  exigidos  no  art.  148,  do RITCE/AM, uma vez que não há omissão, contradição, obscuridade ou erro material a serem sanados no feito, mantendo-se incólume o teor do Parecer  Prévio n° 80/2022  -  TCE  -  Tribunal  Pleno  (fls.  2584/2585), devendo ser mantido incólume em todos seus termos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar Provimento aos Embargos opostos pelo Sr. Saul Nunes Bemerguy, por  ausência  dos  pressupostos  exigidos  no  art.  148,  do RITCE/AM, uma vez que não há omissão, contradição, obscuridade ou erro material a serem sanados no feito, mantendo-se incólume o teor do Parecer  Prévio n° 80/2022  -  TCE  -  Tribunal  Pleno  (fls.  2584/2585), devendo ser mantido incólume em todos seus termos;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho em questão é um procedimento administrativo padrão do Tribunal de Contas, sem indicação de irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE/AM",
+              "artigo": "148",
+              "descricao": "Requisitos para Embargos de Declaração"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à SEPLENO que oficie o Embargante, na pessoa de seus advogados,  comunicando-lhe  quanto  ao  teor  da  decisão  que  vier  ser proferida,  devendo  ser  remetida  no  ato  comunicatório  cópia  deste Relatório/Voto para conhecimento;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SEPLENO que oficie o Embargante, na pessoa de seus advogados,  comunicando-lhe  quanto  ao  teor  da  decisão  que  vier  ser proferida,  devendo  ser  remetida  no  ato  comunicatório  cópia  deste Relatório/Voto para conhecimento;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho em questão é um procedimento administrativo padrão do Tribunal de Contas, sem indicação de irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivar",
+      "descricao": "Arquivar os autos, após o cumprimento das formalidades.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após o cumprimento das formalidades.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho em questão é um procedimento administrativo padrão do Tribunal de Contas, sem indicação de irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

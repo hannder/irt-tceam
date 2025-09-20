@@ -1,0 +1,278 @@
+{
+  "acordao": "26/2018",
+  "processo": "10982/2015",
+  "data_sessao": "11 de Junho de 2018",
+  "orgao": "Prefeitura Municipal de Tapauá",
+  "municipio": "Tapauá",
+  "exercicio": "2014",
+  "responsavel": [
+    "Almino Gonçalves de Albuquerque"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Senhor Almino Gonçalves de Albuquerque , Prefeito e Ordenador de Despesas, responsável pela Prefeitura  Municipal  de  Tapauá,  no  exercício  financeiro  de  2014,  em conformidade com o artigo 71, inciso II e artigo 75, da CF/88 c/c artigo 40, II, da CE/89 e artigo 1º, inciso II, artigo 2º, 4º e 5º da lei nº 2423/96, art.  11,  inciso  III,  artigo  188,  §  1º,  alíneas  'b'  e  'c',  da  Resolução 04/2002 - TCE/AM, com fundamento no artigo 18, da LC nº 06/91 c/c o artigo 22, inciso III, alínea 'b', 'c' e 'd', c/c artigo 25, da Lei nº 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Senhor Almino Gonçalves de Albuquerque , Prefeito e Ordenador de Despesas, responsável pela Prefeitura  Municipal  de  Tapauá,  no  exercício  financeiro  de  2014,  em conformidade com o artigo 71, inciso II e artigo 75, da CF/88 c/c artigo 40, II, da CE/89 e artigo 1º, inciso II, artigo 2º, 4º e 5º da lei nº 2423/96, art.  11,  inciso  III,  artigo  188,  §  1º,  alíneas  'b'  e  'c',  da  Resolução 04/2002 - TCE/AM, com fundamento no artigo 18, da LC nº 06/91 c/c o artigo 22, inciso III, alínea 'b', 'c' e 'd', c/c artigo 25, da Lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho descreve o julgamento irregular das contas devido a falhas na prestação de contas, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, inciso II e artigo 75",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Estabelece a competência do Tribunal de Contas do Estado para fiscalizar as contas públicas estaduais."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º, inciso II, artigo 2º, 4º e 5º",
+              "descricao": "Define as atribuições do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "11, inciso III, artigo 188, § 1º, alíneas 'b' e 'c'",
+              "descricao": "Estabelece normas para o julgamento das contas anuais."
+            },
+            {
+              "norma": "Lei Complementar nº 06/91",
+              "artigo": "18",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso III, alínea 'b', 'c' e 'd', c/c artigo 25",
+              "descricao": "Estabelece as sanções aplicáveis aos responsáveis por irregularidades nas contas públicas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Senhor  Almino  Gonçalves  de  Albuquerque ,  no valor de R$ 8.768,25 (Oito Mil, Setecentos e Sessenta e Oito Reais e Vinte e Cinco Centavos), nos termos do art. 308, incisos V e VI,  com nova redação dada pelo artigo 2º, da Resolução nº 25/2012-TCE/AM, por  atos  de  gestão  ilegítimo  ou  ante  econômico,  bem  como  atos praticados com grave infração a norma legal, face as impropriedades descritas nos itens 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 5,9, 5.10, 5.11 e 5.12 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Senhor  Almino  Gonçalves  de  Albuquerque ,  no valor de R$ 8.768,25 (Oito Mil, Setecentos e Sessenta e Oito Reais e Vinte e Cinco Centavos), nos termos do art. 308, incisos V e VI,  com nova redação dada pelo artigo 2º, da Resolução nº 25/2012-TCE/AM, por  atos  de  gestão  ilegítimo  ou  ante  econômico,  bem  como  atos praticados com grave infração a norma legal, face as impropriedades descritas nos itens 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 5,9, 5.10, 5.11 e 5.12 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A multa aplicada por atos de gestão ilegítimos ou antieconômicos e por grave infração a norma legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Altera a redação do art. 308, incisos V e VI."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar  o  prazo  de  30  (trinta)  dias para  que  o  responsável proceda com o recolhimento da multa a ele imputada à esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, por força do art. 2º, VI, da Lei n. 4375/2016, por meio de Documento de Arrecadação - DAR avulso, gerado no  sítio  eletrônico  da  SEFAZ,  sob  o  código  '5508  -  Multas aplicadas pelo TCE/AM-FAECE', devendo a responsável comprovar o recolhimento perante este Tribunal de Contas, nos termos do art. 72, III, 'a' da Lei n. 2.423/1996 c/c o art. 169, I da Resolução n. 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar  o  prazo  de  30  (trinta)  dias para  que  o  responsável proceda com o recolhimento da multa a ele imputada à esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, por força do art. 2º, VI, da Lei n. 4375/2016, por meio de Documento de Arrecadação - DAR avulso, gerado no  sítio  eletrônico  da  SEFAZ,  sob  o  código  '5508  -  Multas aplicadas pelo TCE/AM-FAECE', devendo a responsável comprovar o recolhimento perante este Tribunal de Contas, nos termos do art. 72, III, 'a' da Lei n. 2.423/1996 c/c o art. 169, I da Resolução n. 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Ação de recolhimento da multa imputada à esfera estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, com prazo definido para o responsável proceder com o recolhimento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4375/2016",
+              "artigo": "2º, VI",
+              "descricao": "Define a destinação dos recursos arrecadados com as multas aplicadas pelo TCE/AM ao Fundo de Apoio ao Exercício do Controle Externo (FAECE)."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, III, 'a'",
+              "descricao": "Estabelece a obrigação de comprovar o recolhimento de débitos perante o Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "169, I",
+              "descricao": "Regulamenta os procedimentos para a comprovação do recolhimento de débitos perante o Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar Inscrição na Dívida Ativa e a imediata cobrança executiva nos termos do art. 173 da Subsecção III e da Sessão III, do Capitulo X, da Resolução 002 - TCE/AM, caso o Senhor Almino Gonçalves de Albuquerque , Prefeito e Ordenador no Exercício de 2014, não recolha os valores referente às multas aplicadas por esta Corte de Contas caso persistam os débitos",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar Inscrição na Dívida Ativa e a imediata cobrança executiva nos termos do art. 173 da Subsecção III e da Sessão III, do Capitulo X, da Resolução 002 - TCE/AM, caso o Senhor Almino Gonçalves de Albuquerque , Prefeito e Ordenador no Exercício de 2014, não recolha os valores referente às multas aplicadas por esta Corte de Contas caso persistam os débitos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho descreve uma ação administrativa padrão do TCE para assegurar a cobrança de multas não pagas, inscrevendo o débito em dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 002 - TCE/AM",
+              "artigo": "173 da Subsecção III e da Sessão III, do Capitulo X",
+              "descricao": "Autoriza a inscrição na Dívida Ativa e a imediata cobrança executiva em caso de não recolhimento das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária o Senhor Almino Gonçalves  de  Albuquerque , Prefeito e Ordenador de Despesas, à época e a Empresa NERIS S A MORAIS-ME -  CNPJ: 15.530.000/0001-70, nos termos das alíneas 'b' e 'c' do inciso III e § 2º do art. 22 da Lei 2.423/96 - TCE/AM e determinar a devolução aos cofres públicos do montante de R$ 60.035,00 (Sessenta Mil e Trinta e Cinco Reais),  que  devem  ser  recolhidos  na  esfera  Municipal  para  o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes do artigo 305  da  Resolução  nº  04/2002  -  TCE/AM,  em  virtude  de  recursos aplicados e não comprovada sua devida execução, conforme impropriedade listada no item 12.3 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance por Responsabilidade Solidária o Senhor Almino Gonçalves  de  Albuquerque , Prefeito e Ordenador de Despesas, à época e a Empresa NERIS S A MORAIS-ME -  CNPJ: 15.530.000/0001-70, nos termos das alíneas 'b' e 'c' do inciso III e § 2º do art. 22 da Lei 2.423/96 - TCE/AM e determinar a devolução aos cofres públicos do montante de R$ 60.035,00 (Sessenta Mil e Trinta e Cinco  Reais),  que  devem  ser  recolhidos  na  esfera  Municipal  para  o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes do artigo 305  da  Resolução  nº  04/2002  -  TCE/AM,  em  virtude  de  recursos aplicados e não comprovada sua devida execução, conforme impropriedade listada no item 12.3 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho descreve a responsabilização solidária do Prefeito e da empresa NERIS S A MORAIS-ME devido à não comprovação da devida execução dos recursos aplicados, caracterizando burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96 - TCE/AM",
+              "artigo": "22, alíneas 'b' e 'c' do inciso III e § 2º",
+              "descricao": "Estabelece as sanções aplicáveis aos responsáveis por irregularidades nas contas públicas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "305",
+              "descricao": "Regulamenta a correção monetária dos débitos apurados pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária o Senhor Almino Gonçalves  de Albuquerque , Prefeito e Ordenador de Despesas,  à  época  e  a Empresa  ELIZABETH  RAMOS  MARQUES EIRELI-ME - CNPJ: 17.088.502/0001-19, nos termos das alíneas 'b' e 'c'  do  inciso  III  e  § 2º  do  art. 22  da  Lei  2.423/96  -  TCE/AM  e determinar a  devolução  aos  cofres  públicos  do  montante  de R$ 58.234,00 (Cinquenta e Oito  Mil, Duzentos e Trinta e Quatro Reais), que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes e artigo 305 da Resolução nº 04/2002  -  TCE/AM,  em  virtude  de  recursos  aplicados  e  não comprovada sua devida execução, conforme impropriedade listada no item 12.4 e 12.5 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance por Responsabilidade Solidária o Senhor Almino Gonçalves  de Albuquerque , Prefeito e Ordenador de Despesas,  à  época  e  a Empresa  ELIZABETH  RAMOS  MARQUES EIRELI-ME - CNPJ: 17.088.502/0001-19, nos termos das alíneas 'b' e 'c'  do  inciso  III  e  § 2º  do  art. 22  da  Lei  2.423/96  -  TCE/AM  e determinar a  devolução  aos  cofres  públicos  do  montante  de R$ 58.234,00 (Cinquenta e Oito  Mil, Duzentos e Trinta e Quatro Reais), que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes e artigo 305 da Resolução nº 04/2002  -  TCE/AM,  em  virtude  de  recursos  aplicados  e  não comprovada sua devida execução, conforme impropriedade listada no item 12.4 e 12.5 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho descreve a responsabilização solidária do Prefeito e da empresa ELIZABETH RAMOS MARQUES EIRELI-ME devido à não comprovação da devida execução dos recursos aplicados, caracterizando burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96 - TCE/AM",
+              "artigo": "22, alíneas 'b' e 'c' do inciso III e § 2º",
+              "descricao": "Estabelece as sanções aplicáveis aos responsáveis por irregularidades nas contas públicas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "305",
+              "descricao": "Regulamenta a correção monetária dos débitos apurados pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Considerar em Alcance o Senhor Almino Gonçalves de Albuquerque , Prefeito e Ordenador de Despesas, à época, com fulcro no artigo 25, da Lei nº 2423/96 - TCE/AM, c/c o artigo 190, inciso I e artigo 304  da  Resolução  nº  04/2002  -  TCE/AM  e determinar a devolução aos cofres públicos do montante de R$ 13.500,00 (Treze Mil e  Quinhentos  Reais),  que  devem  ser  recolhidos  na  esfera  Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes e artigo  305  da  Resolução  nº  04/2002  -  TCE/AM,  relativo  ao  recurso aplicado  e  não  comprovada  sua  execução,  conforme  impropriedade listada no item 12.6 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Senhor Almino Gonçalves de Albuquerque , Prefeito e Ordenador de Despesas, à época, com fulcro no artigo 25, da Lei nº 2423/96 - TCE/AM, c/c o artigo 190, inciso I e artigo 304  da  Resolução  nº  04/2002  -  TCE/AM  e determinar a devolução aos cofres públicos do montante de R$ 13.500,00 (Treze Mil e  Quinhentos  Reais),  que  devem  ser  recolhidos  na  esfera  Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes e artigo  305  da  Resolução  nº  04/2002  -  TCE/AM,  relativo  ao  recurso aplicado  e  não  comprovada  sua  execução,  conforme  impropriedade listada no item 12.6 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho descreve a responsabilização do Prefeito devido à aplicação de recursos sem comprovação da devida execução, evidenciando ausência de controle patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96 - TCE/AM",
+              "artigo": "25",
+              "descricao": "Estabelece as sanções aplicáveis aos responsáveis por irregularidades nas contas públicas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "190, inciso I e artigo 304",
+              "descricao": "Regulamenta os procedimentos para a responsabilização e a correção monetária dos débitos apurados pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Considerar em Alcance o Senhor Almino Gonçalves de Albuquerque , Prefeito  e  Ordenador  de  Despesas,  à  época,  nos termos do art. 22 da Lei 2.423/96  - TCE/AM, c/c o art. 190,  I, e art. 304, da Resolução nº 04/2002 - TCE/AM, e determinar a  devolução aos  cofres  públicos  do  montante  de R$  462.680,35 (Quatrocentos  e Sessenta  e  Dois  Mil,  Seiscentos  e  Oitenta  Reais  e  Trinta  e  Cinco Centavos),  consoante  a  gastos  não  comprovados  com  passagens  e despesas  com  locomoção,  bem  como  o  valor  de R$  72.622,22 (Setenta e Dois  Mil, Seiscentos e Vinte e Dois Reais e  Vinte e Dois Centavos),  gastos  e  não  comprovados  com  hospedagem,  no  valor global de R$ 535.302,57 (Quinhentos e Trinta e Cinco Mil Trezentos e Dois Reais e Cinquenta e Sete Centavos),que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos  nos  moldes  e  artigo  305  da  Resolução  nº  04/2002 -TCE/AM, conforme impropriedade listada no item 14.1 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Senhor Almino Gonçalves de Albuquerque , Prefeito  e  Ordenador  de  Despesas,  à  época,  nos termos do art. 22 da Lei 2.423/96  - TCE/AM, c/c o art. 190,  I, e art. 304, da Resolução nº 04/2002 - TCE/AM, e determinar a  devolução aos  cofres  públicos  do  montante  de R$  462.680,35 (Quatrocentos  e Sessenta  e  Dois  Mil,  Seiscentos  e  Oitenta  Reais  e  Trinta  e  Cinco Centavos),  consoante  a  gastos  não  comprovados  com  passagens  e despesas  com  locomoção,  bem  como  o  valor  de R$  72.622,22 (Setenta e Dois  Mil, Seiscentos e Vinte e Dois Reais e  Vinte e Dois Centavos),  gastos  e  não  comprovados  com  hospedagem,  no  valor global de R$ 535.302,57 (Quinhentos e Trinta e Cinco Mil Trezentos e Dois Reais e Cinquenta e Sete Centavos),que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos  nos  moldes  e  artigo  305  da  Resolução  nº  04/2002 -TCE/AM, conforme impropriedade listada no item 14.1 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho indica a responsabilização do gestor pela não comprovação de gastos com passagens, locomoção e hospedagem.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96 - TCE/AM",
+              "artigo": "22",
+              "descricao": "Define a responsabilização do gestor, e art. 22 da lei 2423/96"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "190, I, e art. 304",
+              "descricao": "Lei 2.423/96 - TCE/AM, c/c o art. 190, I, e art. 304"
+            },
+             {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "305",
+              "descricao": "Fixa a correção monetária nos termos desta resolução"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Considerar em Alcance o Senhor Almino Gonçalves de Albuquerque , Prefeito  e  Ordenador  de  Despesas,  à  época,  nos termos do art. 22 da Lei 2.423/96  - TCE/AM, c/c o art. 190,  I, e art. 304, da Resolução nº 04/2002 - TCE/AM, e determinar a  devolução aos  cofres  públicos  do  montante  de R$  397.769,02 (Trezentos  e Noventa  e  Sete  Mil,  Setecentos  e  Sessenta  e  Nove  Reais  e  Dois Centavos), que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes e artigo 305 da Resolução nº 04/2002 - TCE/AM, consoante a gastos com matériais, serviços e bens para distribuição gratuita sem qualquer comprovação, conforme impropriedade listada no item 14.2 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Senhor Almino Gonçalves de Albuquerque , Prefeito  e  Ordenador  de  Despesas,  à  época,  nos termos do art. 22 da Lei 2.423/96  - TCE/AM, c/c o art. 190,  I, e art. 304, da Resolução nº 04/2002 - TCE/AM, e determinar a  devolução aos  cofres  públicos  do  montante  de R$  397.769,02 (Trezentos  e Noventa  e  Sete  Mil,  Setecentos  e  Sessenta  e  Nove  Reais  e  Dois Centavos), que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Tapauá, corrigidos nos moldes e artigo 305 da Resolução nº 04/2002 - TCE/AM, consoante a gastos com matériais, serviços e bens para distribuição gratuita sem qualquer comprovação, conforme impropriedade listada no item 14.2 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho indica a responsabilização do gestor devido à não comprovação de gastos com materiais, serviços e bens para distribuição gratuita.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96 - TCE/AM",
+              "artigo": "22",
+              "descricao": "Estabelece a responsabilização do gestor, e art. 22 da lei 2423/96"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "190, I, e art. 304",
+              "descricao": "Lei 2.423/96 - TCE/AM, c/c o art. 190, I, e art. 304

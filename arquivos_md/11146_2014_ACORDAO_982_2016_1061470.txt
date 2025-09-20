@@ -1,0 +1,131 @@
+{
+  "acordao": "982/2016",
+  "processo": "11146/2014",
+  "data_sessao": "06 de Dezembro de 2016",
+  "orgao": "Fundo Municipal de Saúde de Tabatinga",
+  "municipio": "Tabatinga",
+  "exercicio": "2013",
+  "responsavel": [
+    "Raimundo Carvalho Caldas"
+  ],
+  "itens": [
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Aplicar Multa ao Sr. Raimundo  Carvalho Caldas no valor de R$10.000,00 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado -SEFAZ por descumprimento das improbidades apontadas. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Raimundo  Carvalho Caldas no valor de R$10.000,00 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado -SEFAZ por descumprimento das improbidades apontadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa aplicada decorrente de improbidades administrativas, o que indica má gestão fiscal, pois houve descumprimento dos princípios da administração pública e da gestão fiscal responsável.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "O recolhimento deve ser feito no prazo de 30 dias",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa aplicada decorrente de improbidades administrativas, o que indica má gestão fiscal, pois houve descumprimento dos princípios da administração pública e da gestão fiscal responsável.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Conceder  Prazo ao  Raimundo  Carvalho  Caldas  de  30  dias  para recolher  aos  cofres  do  Estado  do  valor  da  multa  e  30  dias  para recoleher aos cofres do Municipio o valor do Alcance",
+      "trechos_identificados": [
+        {
+          "trecho": "Conceder  Prazo ao  Raimundo  Carvalho  Caldas  de  30  dias  para recolher  aos  cofres  do  Estado  do  valor  da  multa",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "Prazo concedido para recolhimento de multa.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Conceder  Prazo ao  Raimundo  Carvalho  Caldas  de  30  dias  para recoleher aos cofres do Municipio o valor do Alcance",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "Prazo concedido para recolhimento do alcance.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Considerar em Alcance o Sr. Raimundo Carvalho Caldas no valor de R$  445.169,15  que  devem  ser  recolhidos  na  esfera  Municipal  para  o órgão  Prefeitura Municipal  de  Tabatinga  por  descumprimento  das improbidades apontadas. O recolhimento deve ser feito no prazo de 30 dias.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Raimundo Carvalho Caldas no valor de R$  445.169,15  que  devem  ser  recolhidos na esfera Municipal para o órgão  Prefeitura Municipal  de  Tabatinga  por  descumprimento  das improbidades apontadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O alcance indica um potencial desvio de recursos, o que justifica a classificação como 'Suposto Desvio de recursos públicos'.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "O recolhimento deve ser feito no prazo de 30 dias.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O alcance indica um potencial desvio de recursos, o que justifica a classificação como 'Suposto Desvio de recursos públicos'.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "JULGAMENTO",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr.Raimundo  Carvalho Caldas,  responsável  pelo  Fundo  Municipal  de  Saúde  -  Tabatinga, relativa ao exercício de 2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  Sr.Raimundo  Carvalho Caldas,  responsável  pelo  Fundo  Municipal  de  Saúde  -  Tabatinga, relativa ao exercício de 2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A irregularidade na prestação de contas pode indicar problemas significativos na gestão contábil e financeira, além de falta de transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "COMUNICAÇÃO",
+      "descricao": "Notificar o Raimundo Carvalho Caldas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Raimundo Carvalho Caldas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Procedimento padrão do TCE para garantir o direito de resposta e o devido processo legal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

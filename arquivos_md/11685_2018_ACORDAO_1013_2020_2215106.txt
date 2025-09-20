@@ -1,0 +1,148 @@
+{
+  "acordao": "1013/2020",
+  "processo": "11685/2018",
+  "data_sessao": "2020-11-04",
+  "orgao": "Câmara Municipal de Barreirinha",
+  "municipio": "Barreirinha",
+  "exercicio": "2017",
+  "responsavel": [
+    "Ronan dos Santos Barbosa",
+    "Dilson Marcos Kovalski"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. Ronan dos Santos Barbosa ,  responsável pela Câmara Municipal de Barreirinha, no curso do exercício 2017, tendo como responsável pela contabilidade o Sr. Dilson Marcos Kovalski",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Dar quitação",
+      "descricao": "Dar quitação ao Sr. Ronan dos Santos Barbosa , Presidente da Câmara Municipal  de  Barreirinha  à  época,  referente  ao  exercício  de  2017,  nos termos  do  art.  23,  da  Lei  Estadual  nº  2423/96,  c/c  art.  189,  I,  da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Ronan dos Santos Barbosa , Presidente da Câmara Municipal  de  Barreirinha  à  época,  referente  ao  exercício  de  2017,  nos termos  do  art.  23,  da  Lei  Estadual  nº  2423/96,  c/c  art.  189,  I,  da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica uma ação formal de aprovação das contas, sem apontar irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "23",
+              "descricao": "Lei Estadual nº 2423/96, art. 23"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189",
+              "descricao": "Resolução nº 04/2002-TCE/AM, art. 189, I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem (Câmara Municipal de Barreirinha) que atente com mais rigor ao cumprimento da legislação e praxe administrativa referente aos seguintes pontos:\n\n- 10.3.1. Empregar  maior  zelo  quanto  à  obediência  aos  prazos  de publicação referentes ao Relatório de Gestão Fiscal, 1º e 2º semestres, nos próximos exercícios;\n- 10.3.2. Divulgar  tempestivamente  os  dados  da  gestão  fiscal  no Portal  da  Transparência  (receitas,  despesas  e  processos licitatórios) nas próximas oportunidades;\n- 10.3.3. Em futuras prestações de contas, atentar, com mais rigor, à apresentação dos seguintes documentos:\n\n10.3.3.1. CPF ou CNPJ dos contratados;\n\n10.3.3.2. Comprovação da publicação do Despacho de Homologação e Adjudicação;\n\n10.3.3.3. Demonstração  de  que  houve  acompanhamento  e fiscalização  da  execução  contratual  por  parte  de representante da Administração especialmente designado, conforme determina o art. 67, da Lei de Licitação nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Empregar  maior  zelo  quanto  à  obediência  aos  prazos  de publicação referentes ao Relatório de Gestão Fiscal, 1º e 2º semestres, nos próximos exercícios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A recomendação indica uma falha no cumprimento dos prazos de publicação, afetando a transparência e o controle fiscal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Divulgar  tempestivamente  os  dados  da  gestão  fiscal  no Portal  da  Transparência  (receitas,  despesas  e  processos licitatórios) nas próximas oportunidades",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de divulgar dados relevantes, como receitas, despesas e licitações, no Portal da Transparência, o que é fundamental para o controle social e a transparência na gestão pública.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Em futuras prestações de contas, atentar, com mais rigor, à apresentação dos seguintes documentos: CPF ou CNPJ dos contratados",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista.",
+          "justificativa_tipologia": "A falta de CPF ou CNPJ dos contratados dificulta a identificação e verificação da regularidade das empresas, comprometendo a transparência e a legalidade das contratações.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Em futuras prestações de contas, atentar, com mais rigor, à apresentação dos seguintes documentos: Comprovação da publicação do Despacho de Homologação e Adjudicação",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A não comprovação da publicação do Despacho de Homologação e Adjudicação impede o acompanhamento e a fiscalização dos processos licitatórios, comprometendo a transparência e o controle social.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Demonstração  de  que  houve  acompanhamento  e fiscalização  da  execução  contratual  por  parte  de representante da Administração especialmente designado, conforme determina o art. 67, da Lei de Licitação nº 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "A ausência de acompanhamento e fiscalização da execução contratual impede a verificação da correta aplicação dos recursos públicos, o cumprimento das obrigações contratuais e a identificação de eventuais irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Licitação nº 8.666/93",
+              "artigo": "67",
+              "descricao": "Lei de Licitação nº 8.666/93, art. 67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno, para que oficie ao Responsável sobre o teor do Acórdão, acompanhando cópia do Relatório/Voto para conhecimento",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno, para que oficie ao Responsável sobre o teor do Acórdão, acompanhando cópia do Relatório/Voto para conhecimento",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A Determinação diz respeito a comunicação interna do Tribunal, não se relaciona a gestão do órgão fiscalizado",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, após cumpridas as formalidades legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo, após cumpridas as formalidades legais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação de arquivamento diz respeito a fase interna do processo no Tribunal, não se relaciona a gestão do órgão fiscalizado",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

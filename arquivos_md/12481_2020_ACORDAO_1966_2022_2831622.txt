@@ -1,0 +1,356 @@
+{
+  "acordao": "1966/2022",
+  "processo": "12481/2020",
+  "data_sessao": "22 de Novembro de 2022",
+  "orgao": "Secretaria Municipal de  Agricultura, Abastecimento,  Centro  e  Comércio Informal - SEMACC",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Fabio Henrique dos Santos Albuquerque",
+    "Renato Frota Magalhães"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Secretaria Municipal de Agricultura, Abastecimento, Centro e Comércio Informal (SEMACC), sob a responsabilidade do Sr. Fabio Henrique dos Santos Albuquerque , exercício 2019, nos termos do art. 22, III c/c art. 25 da Lei 2423/96, devido às restrições da Notificação nº 071/2020-DICAMM (fls. 605/615) enviada ao Sr. Fábio Henrique dos Santos Albuquerque, ex-Secretário  Municipal, com  Aviso  de  Recebimento positivo às fls.  666, cuja resposta se anexou às fls. 616/665 pelo Sr. Renato Frota Magalhães, em virtude dos achados não sanados:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por afronta aos artigos 36, 37, 58 a 62 todos da Lei nº 4320/64, visto  que  em  relação  ao  exercício  de  2019  a  SEMACC  não possuía cobertura financeira para quitação de suas obrigações financeiras,  e  portanto,  não  atendeu ao Princípio do Equilíbrio das  Contas  Públicas,  expresso  no  §1º  do  artigo  1º  da  Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Por afronta aos artigos 36, 37, 58 a 62 todos da Lei nº 4320/64, visto  que  em  relação  ao  exercício  de  2019  a  SEMACC  não possuía cobertura financeira para quitação de suas obrigações financeiras,  e  portanto,  não  atendeu ao Princípio do Equilíbrio das  Contas  Públicas,  expresso  no  §1º  do  artigo  1º  da  Lei Complementar nº 101/2000",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A descrição detalha a ausência de cobertura financeira e o não atendimento ao princípio do equilíbrio das contas públicas, o que se relaciona com a falta de planejamento financeiro e controle das despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "36",
+              "descricao": "Regula a execução orçamentária e financeira, incluindo a necessidade de cobertura financeira para as obrigações."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "37",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "58 a 62",
+              "descricao": "Dispõe sobre a execução da despesa pública e a necessidade de empenho prévio."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "1º",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e o equilíbrio das contas públicas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por descumprimento aos art. 5, da Lei nº 8666/1993 e artigos 62, 64 e 65 da Lei nº 4320/64, pois, em  análise dos pagamentos realizados, verificou-se o pagamento de Restos a pagar  de  Exercícios  anteriores  do  exercício  de  2018,  em desobediência à ordem cronológica dos pagamentos  das exigibilidades,  visto  que  há  Restos  a  Pagar  dos  exercícios  de 2011, 2012 e 2014, uma vez que o artigo 5º da Lei nº 8666/93, determina  que  sejam  observados a  ordem  cronológica  dos pagamentos das exigibilidades",
+      "trechos_identificados": [
+        {
+          "trecho": "Por descumprimento aos art. 5, da Lei nº 8666/1993 e artigos 62, 64 e 65 da Lei nº 4320/64, pois, em  análise dos pagamentos realizados, verificou-se o pagamento de Restos a pagar  de  Exercícios  anteriores  do  exercício  de  2018,  em desobediência à ordem cronológica dos pagamentos  das exigibilidades,  visto  que  há  Restos  a  Pagar  dos  exercícios  de 2011, 2012 e 2014, uma vez que o artigo 5º da Lei nº 8666/93, determina  que  sejam  observados a  ordem  cronológica  dos pagamentos das exigibilidades",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A descrição detalha o descumprimento da ordem cronológica dos pagamentos, o que indica deficiências no controle e na gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "5",
+              "descricao": "Estabelece a obrigatoriedade de observância à ordem cronológica dos pagamentos."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "62",
+              "descricao": "Define a necessidade de liquidação da despesa antes do pagamento."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "64",
+              "descricao": "Estabelece os requisitos para a ordem de pagamento."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "65",
+              "descricao": "Regula a emissão de cheques nominativos para pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por desobediência ao art. 8º, §1º, IV da Lei nº 12527/11, haja vista  omissão  das  licitações  036/2018  e  012/2019  registradas no  site  Portal  da  Transparência  em  comparação  ao  Portal  Econtas",
+      "trechos_identificados": [
+        {
+          "trecho": "Por desobediência ao art. 8º, §1º, IV da Lei nº 12527/11, haja vista  omissão  das  licitações  036/2018  e  012/2019  registradas no  site  Portal  da  Transparência  em  comparação  ao  Portal  Econtas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A descrição detalha a omissão de informações sobre licitações no Portal da Transparência, o que impacta diretamente na capacidade de controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "8º",
+              "descricao": "Regulamenta o acesso à informação e estabelece a obrigatoriedade de divulgação de informações de interesse público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por transgressão ao art. 8º, §1º, IV da Lei nº 12527/11, já que os contratos registrados no site Portal da Transparência divergem das informações anexas ao Portal E-contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Por transgressão ao art. 8º, §1º, IV da Lei nº 12527/11, já que os contratos registrados no site Portal da Transparência divergem das informações anexas ao Portal E-contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A descrição detalha a divergência de informações entre o Portal da Transparência e o Portal E-contas, o que dificulta o acompanhamento e controle social dos contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "8º",
+              "descricao": "Regulamenta o acesso à informação e estabelece a obrigatoriedade de divulgação de informações de interesse público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por desobediência  ao  o  art. 5° de Decreto  Municipal n° 230/2009, de 07 de julho de 2009, dada ausência de sistema de controle eletrônico de ponto biométrico na Secretaria",
+      "trechos_identificados": [
+        {
+          "trecho": "Por desobediência  ao  o  art. 5° de Decreto  Municipal n° 230/2009, de 07 de julho de 2009, dada ausência de sistema de controle eletrônico de ponto biométrico na Secretaria",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A17B",
+          "tipologia_irregularidade": "Inadequação do prazo mínimo para a realização da primeira prova",
+          "descricao": "Inadequação do prazo mínimo para a realização da primeira prova",
+          "justificativa_tipologia": "A descrição detalha a ausência de sistema de controle eletrônico de ponto biométrico, o que dificulta a fiscalização do cumprimento da carga horária dos servidores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Municipal n° 230/2009",
+              "artigo": "5",
+              "descricao": "Artigo que determina a instalação de sistema de controle eletrônico de ponto biométrico."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por  inexistir  providências  que  demonstrem  a  instauração  de procedimento administrativo (ação regressiva) na apuração de responsabilidade contra os condutores dos veículos, quanto às multas de trânsito aplicadas pelo órgão fiscalizador e o efetivo ressarcimento  ao  erário  ou  comprovação  de  pagamento  da multa por parte do condutor do veículo o S-10 placa PHW-7J36",
+      "trechos_identificados": [
+        {
+          "trecho": "Por  inexistir  providências  que  demonstrem  a  instauração  de procedimento administrativo (ação regressiva) na apuração de responsabilidade contra os condutores dos veículos, quanto às multas de trânsito aplicadas pelo órgão fiscalizador e o efetivo ressarcimento  ao  erário  ou  comprovação de pagamento da multa por parte do condutor do veículo o S-10 placa PHW-7J36",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho descreve a falta de ação para apurar responsabilidade sobre o uso de bens públicos, em caso de multas de trânsito. Isso afeta a gestão do patrimônio e o ressarcimento ao erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por  ausência  de  apresentação  de  seguro  contra  incêndio, exigido  no  Termo  de  Contrato  n°  023/2014  que  originou  o  5° Termo Aditivo celebrado com o Sr. José Herculano Bandeira de Melo, tendo como objeto a locação de imóvel localizado na Av. Joaquim Nabuco n° 659 - Centro, consta na Cláusula Quinta Parágrafo único que o pagamento do IPTU",
+      "trechos_identificados": [
+        {
+          "trecho": "Por  ausência  de  apresentação  de  seguro  contra  incêndio, exigido  no  Termo  de  Contrato  n°  023/2014  que  originou  o  5° Termo Aditivo celebrado com o Sr. José Herculano Bandeira de Melo, tendo como objeto a locação de imóvel localizado na Av. Joaquim Nabuco n° 659 - Centro, consta na Cláusula Quinta Parágrafo único que o pagamento do IPTU",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A46A",
+          "tipologia_irregularidade": "Emergência fabricada",
+          "descricao": "A auditoria observou, por reiteradas vezes, a utilização de dispensa de licitação, com base no art. 24, IV, da Lei 8.666/1993 ou no art. 75, VIII, da Lei 14.133/2023, para casos de emergência ou de calamidade pública. No entanto, quando se analisa minuciosamente o caso concreto, observa-se que não se trata de emergência resultante de fato imprevisível, mas sim decorrente de falta de planejamento, de inércia administrativa ou de má gestão de recursos públicos. - Contudo, em que pese a comprovação da falta de planejamento e a inércia administrativa, entende-se cabível a dispensa de licitação com fundamento nesses dispositivos, em virtude da essencialidade do serviço, porém deve-se avaliar a responsabilização dos agentes públicos que concorreram para originar a situação emergencial.",
+          "justificativa_tipologia": "A descrição detalha a ausência de seguro contra incêndio em um contrato de locação, indicando deficiência na gestão contratual e no cumprimento de obrigações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Por  ausência  de  apresentação  de  seguro  contra  incêndio, exigido  no  Termo  de  Contrato  n°  002/2013  que  originou  o  5° Termo  Aditivo  celebrado  com  a  empresa  Braga  Participações Ltda, tendo como objeto a locação de imóvel localizado na Av. Lobo D'Almada n° 229 - Centro, consta na Cláusula Quarta Parágrafo único que o pagamento do IPTU",
+      "trechos_identificados": [
+        {
+          "trecho": "Por  ausência  de  apresentação  de  seguro  contra  incêndio, exigido  no  Termo  de  Contrato  n°  002/2013  que  originou  o  5° Termo  Aditivo  celebrado  com  a  empresa  Braga  Participações Ltda, tendo como objeto a locação de imóvel localizado na Av. Lobo D'Almada n° 229 - Centro, consta na Cláusula Quarta Parágrafo único que o pagamento do IPTU",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A46A",
+          "tipologia_irregularidade": "Emergência fabricada",
+          "descricao": "A auditoria observou, por reiteradas vezes, a utilização de dispensa de licitação, com base no art. 24, IV, da Lei 8.666/1993 ou no art. 75, VIII, da Lei 14.133/2023, para casos de emergência ou de calamidade pública. No entanto, quando se analisa minuciosamente o caso concreto, observa-se que não se trata de emergência resultante de fato imprevisível, mas sim decorrente de falta de planejamento, de inércia administrativa ou de má gestão de recursos públicos. - Contudo, em que pese a comprovação da falta de planejamento e a inércia administrativa, entende-se cabível a dispensa de licitação com fundamento nesses dispositivos, em virtude da essencialidade do serviço, porém deve-se avaliar a responsabilização dos agentes públicos que concorreram para originar a situação emergencial.",
+          "justificativa_tipologia": "A descrição detalha a ausência de seguro contra incêndio em um contrato de locação, indicando deficiência na gestão contratual e no cumprimento de obrigações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Fabio  Henrique  dos  Santos  Albuquerque no valor de R$ 17.191,01 (dezessete mil, cento e noventa e um reais e um centavo) e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor  da  multa,  na  esfera  Estadual para  o  órgão  Fundo  de Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o  referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem  como proceder,  conforme  estabelecido  no  Acordo  de  Cooperação  firmado com o Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável; devido às seguintes infrações:",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Fabio  Henrique  dos  Santos  Albuquerque no valor de R$ 17.191,01 (dezessete mil, cento e noventa e um reais e um centavo) e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor  da  multa,  na  esfera  Estadual para  o  órgão  Fundo  de Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE'.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho aplica multa ao responsável devido a irregularidades na gestão financeira, caracterizando uma burla ao processo legal de pagamento.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Por afronta aos artigos 36, 37, 58 a 62 todos da Lei nº 4320/64, visto  que  em  relação  ao  exercício  de  2019  a  SEMACC  não possuía cobertura financeira para quitação de suas obrigações financeiras,  e  portanto,  não  atendeu ao Princípio do Equilíbrio das  Contas  Públicas,  expresso  no  §1º  do  artigo  1º  da  Lei Complementar nº 101/2000",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho aplica multa ao responsável devido a irregularidades na gestão financeira, caracterizando uma burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "36",
+              "descricao": "Regula a execução orçamentária e financeira, incluindo a necessidade de cobertura financeira para as obrigações."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "37",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "58 a 62",
+              "descricao": "Dispõe sobre a execução da despesa pública e a necessidade de empenho prévio."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "1º",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e o equilíbrio das contas públicas."
+            }
+          ]
+        },
+        {
+          "trecho": "Por descumprimento aos art. 5, da Lei nº 8666/1993 e artigos 62, 64 e 65 da Lei nº 4320/64, pois, em  análise dos pagamentos realizados, verificou-se o pagamento de Restos a pagar  de  Exercícios  anteriores  do  exercício  de  2018,  em desobediência à ordem cronológica dos pagamentos  das exigibilidades,  visto  que  há  Restos  a  Pagar  dos  exercícios  de 2011, 2012 e 2014, uma vez que o artigo 5º da Lei nº 8666/93, determina  que  sejam  observados a  ordem  cronológica  dos pagamentos das exigibilidades",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho aplica multa ao responsável devido a irregularidades na gestão financeira, caracterizando uma burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "5",
+              "descricao": "Estabelece a obrigatoriedade de observância à ordem cronológica dos pagamentos."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "62",
+              "descricao": "Define a necessidade de liquidação da despesa antes do pagamento."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "64",
+              "descricao": "Estabelece os requisitos para a ordem de pagamento."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "65",
+              "descricao": "Regula a emissão de cheques nominativos para pagamento."
+            }
+          ]
+        },
+        {
+          "trecho": "Por desobediência ao art. 8º, §1º, IV da Lei nº 12527/11, haja vista  omissão  das  licitações  036/2018  e  012/2019  registradas no  site  Portal  da  Transparência  em  comparação  ao  Portal  Econtas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "O trecho aplica multa ao responsável devido a omissão de informações sobre licitações no Portal da Transparência, impactando diretamente na capacidade de controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "8º",
+              "descricao": "Regulamenta o acesso à informação e estabelece a obrigatoriedade de divulgação de informações de interesse público."
+            }
+          ]
+        },
+        {
+          "trecho": "Por transgressão ao art. 8º, §1º, IV da Lei nº 12527/11, já que os contratos registrados no site Portal da Transparência divergem das informações anexas ao Portal E-contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "O trecho aplica multa ao responsável devido a divergência de informações entre o Portal da Transparência e o Portal E-contas, o que dificulta o acompanhamento e controle social dos contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "8º",
+              "descricao": "Regulamenta o acesso à informação e estabelece a obrigatoriedade de divulgação de informações de interesse público."
+            }
+          ]
+        },
+        {
+          "trecho": "Por desobediência  ao  o  art. 5° de Decreto  Municipal n° 230/2009, de 07 de julho de 2009, dada ausência de sistema de controle eletrônico de ponto biométrico na Secretaria",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A17B",
+          "tipologia_irregularidade": "Inadequação do prazo mínimo para a realização da primeira prova",
+          "descricao": "Inadequação do prazo mínimo para a realização da primeira prova",
+          "justificativa_tipologia": "O trecho aplica multa ao responsável devido a ausência de sistema de controle eletrônico de ponto biométrico, o que dificulta a fiscalização do cumprimento da carga horária dos servidores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Municipal n° 230/2009",
+              "artigo": "5",
+              "descricao": "Artigo que determina a instalação de sistema de controle eletrônico de ponto biométrico."
+            }
+          ]
+        },
+        {
+          "trecho": "Por  inexistir  providências  que  demonstrem  a  instauração  de procedimento administrativo (ação regressiva) na apuração de responsabilidade contra os condutores dos veículos, quanto às multas de trânsito aplicadas pelo órgão fiscalizador e o efetivo ressarcimento  ao  erário  ou  comprovação de pagamento da multa por parte do condutor do veículo o S-10 placa PHW-7J36",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho aplica multa devido à falta de ação para apurar responsabilidade sobre o uso de bens públicos, em caso de multas de trânsito. Isso afeta a gestão do patrimônio e o ressarcimento ao erário.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Por  ausência  de  apresentação  de  seguro  contra  incêndio, exigido  no  Termo  de  Contrato  n°  023/2014  que  originou  o  5° Termo Aditivo celebrado com o Sr. José Herculano Bandeira de Melo, tendo como objeto a locação de imóvel localizado na Av. Joaquim Nabuco n° 659 - Centro, consta na Cláusula Quinta Parágrafo único que o pagamento do

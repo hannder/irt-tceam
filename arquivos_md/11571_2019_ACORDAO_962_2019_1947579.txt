@@ -1,0 +1,40 @@
+{
+  "acordao": "962/2019",
+  "processo": "11571/2019",
+  "data_sessao": "2 de Outubro de 2019",
+  "orgao": "Hospital Infantil Dr. Fajardo",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Aly Nasser Abrahim Ballut"
+  ],
+  "itens": [
+    {
+      "tipo": "Ressalva",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas, exercício de 2018, do Hospital  Infantil  Dr.  Fajardo, sob  a  responsabilidade  do Sr.  Aly Nasser Abrahim Ballut - Diretor-Geral à época da presente Prestação de Contas, nos termos dos arts. 22, II e 24, da Lei nº 2.423/96 e art. 188, § 1º, II, da Resolução nº 04/02-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Aly Nasser Abrahim Ballut no valor de R$ 1.706,80, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Hospital Infantil Dr. Fajardo. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao responsável à época, Sr. Aly Nasser Abrahim Ballut, e à atual administração do Hospital Infantil Dr. Fajardo que atente para os prazos estabelecidos para o envio dos demonstrativos contábeis mensais a esta Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao responsável à época, Sr. Aly Nasser Abrahim Ballut, e à atual administração do Hospital Infantil Dr. Fajardo que atente para os prazos estabelecidos para o envio dos demonstrativos contábeis mensais a esta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho determina que o responsável atente para os prazos de envio dos demonstrativos contábeis mensais ao TCE/AM, o que está diretamente relacionado à tipologia de Balancetes Mensais entregues fora do prazo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

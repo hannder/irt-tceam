@@ -1,0 +1,251 @@
+{
+  "acordao": "1962/2023",
+  "processo": "12140/2022",
+  "data_sessao": "26 de Setembro de 2023",
+  "orgao": "Fundo Municipal de Educação de Coari",
+  "municipio": "Coari",
+  "exercicio": "2021",
+  "responsavel": [
+    "Edivaldo Goncalves de Holanda"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. Edivaldo Goncalves de Holanda , responsável pelo Fundo Municipal de Educação de Coari, no curso do exercício 2021, nos termos do art. 22, inciso II e 24 da Lei n.º 2.423/96-LO/TCE, c/c art. 5°, II e art. 188, § 1° inciso II, da Resolução n° 04/2002-RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas do Sr. Edivaldo Goncalves de Holanda , responsável pelo Fundo Municipal de Educação de Coari, no curso do exercício 2021, nos termos do art. 22, inciso II e 24 da Lei n.º 2.423/96-LO/TCE, c/c art. 5°, II e art. 188, § 1° inciso II, da Resolução n° 04/2002-RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O texto relata o julgamento das contas como regulares com ressalvas, indicando que houve conformidade geral, mas com algumas pendências que não comprometem a aprovação. Ressalvas no Balanço Orçamentário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, inciso II e 24",
+              "descricao": "Disposição sobre julgamento de contas pelo TCE"
+            },
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "5°, II",
+              "descricao": "Regimento Interno do TCE/AM sobre julgamento de contas"
+            },
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "188, § 1° inciso II",
+              "descricao": "Regimento Interno do TCE/AM sobre julgamento de contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Educação de Coari o fiel cumprimento das normas norteadoras da Administração de recursos públicos, tratados no presente voto:",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundo Municipal de Educação de Coari o fiel cumprimento das normas norteadoras da Administração de recursos públicos, tratados no presente voto:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para o fiel cumprimento das normas norteadoras da Administração de recursos públicos se relaciona com a necessidade de fortalecer os mecanismos de controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Apresente a documentação solicitada pela Comissão de inspeção, respeitando os prazos procedimentais, a fim de não causar prejuízos a fiscalização da Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Apresente a documentação solicitada pela Comissão de inspeção, respeitando os prazos procedimentais, a fim de não causar prejuízos a fiscalização da Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A solicitação de apresentação de documentos dentro dos prazos estabelecidos está diretamente relacionada à regularidade e tempestividade no envio de informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Não gere embaraços à atuação fiscalizatória do CACSFUNDEB, cumprindo em tempo razoável as solicitações de documentos ou justificando adequadamente eventual impossibilidade ou impedimento legal de fazê-lo, devendo ainda enviar as folhas do FUNDEB para serem vistadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Não gere embaraços à atuação fiscalizatória do CACSFUNDEB, cumprindo em tempo razoável as solicitações de documentos ou justificando adequadamente eventual impossibilidade ou impedimento legal de fazê-lo, devendo ainda enviar as folhas do FUNDEB para serem vistadas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A4B",
+          "tipologia_irregularidade": "Ausência das perguntas e respostas mais frequentes relacionadas às atividades desenvolvidas pelo Poder/Órgão",
+          "descricao": "Ausência das perguntas e respostas mais frequentes relacionadas às atividades desenvolvidas pelo Poder/Órgão",
+          "justificativa_tipologia": "A recomendação visa garantir que não haja obstrução à fiscalização do CACSFUNDEB e que os documentos sejam fornecidos em tempo hábil, promovendo a transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observe o impeditivo legal de utilizar recursos do FUNDEB para o pagamento de despesas dos exercícios anteriores (DEA).",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe o impeditivo legal de utilizar recursos do FUNDEB para o pagamento de despesas dos exercícios anteriores (DEA).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A6B",
+          "tipologia_irregularidade": "Despesas com recursos do FUNDEB estranhas à Manutenção e Desenvolvimento do Ensino - MDE (não de folha)",
+          "descricao": "Despesas com recursos do FUNDEB estranhas à Manutenção e Desenvolvimento do Ensino - MDE (não de folha)",
+          "justificativa_tipologia": "A recomendação de não utilizar recursos do FUNDEB para o pagamento de despesas de exercícios anteriores está relacionada ao correto uso dos recursos vinculados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Regularize as pendências de passivo previdenciário, e envide esforços no sentido de recolher as contribuições previdenciárias regular e tempestivamente.",
+      "trechos_identificados": [
+        {
+          "trecho": "Regularize as pendências de passivo previdenciário, e envide esforços no sentido de recolher as contribuições previdenciárias regular e tempestivamente.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "justificativa_tipologia": "A recomendação visa garantir que o passivo previdenciário seja regularizado e que as contribuições sejam recolhidas de forma regular e tempestiva.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Realize corretamente a contabilização das receitas do FUNDEB, bem como declare devidamente todos os valores recebidos como receita.",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize corretamente a contabilização das receitas do FUNDEB, bem como declare devidamente todos os valores recebidos como receita.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A14B",
+          "tipologia_irregularidade": "Despesas oriundas de recursos de impostos computadas indevidamente como MDE",
+          "descricao": "Despesas oriundas de recursos de impostos computadas indevidamente como MDE",
+          "justificativa_tipologia": "A recomendação visa garantir a correta contabilização e declaração das receitas do FUNDEB, evitando o uso indevido dos recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Que se abstenham de movimentar recursos do FUNDEB fora da conta específica, salvo permissivo legal (§9º do art. 21 da Lei nº 14.113/2020, referente a contassalário).",
+      "trechos_identificados": [
+        {
+          "trecho": "Que se abstenham de movimentar recursos do FUNDEB fora da conta específica, salvo permissivo legal (§9º do art. 21 da Lei nº 14.113/2020, referente a contassalário).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A4A",
+          "tipologia_irregularidade": "Transferência de recursos do FUNDEB para outras contas (exceção à folha de pagamento)",
+          "descricao": "Transferência de recursos do FUNDEB para outras contas (exceção à folha de pagamento)",
+          "justificativa_tipologia": "A recomendação de evitar a movimentação de recursos do FUNDEB fora da conta específica está relacionada ao controle e transparência no uso desses recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 14.113/2020",
+              "artigo": "21",
+              "descricao": "Regulamentação do FUNDEB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Capacite seus servidores quanto às ilegalidades apresentadas nos Achados relativos a contratos e licitações, bem como se adequem às exigências da Nova de Lei de Licitações e Contratos Nº 14.133/2021.",
+      "trechos_identificados": [
+        {
+          "trecho": "Capacite seus servidores quanto às ilegalidades apresentadas nos Achados relativos a contratos e licitações, bem como se adequem às exigências da Nova de Lei de Licitações e Contratos Nº 14.133/2021.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "justificativa_tipologia": "A recomendação de capacitar os servidores em relação às ilegalidades em contratos e licitações visa garantir o conhecimento e aplicação da legislação pertinente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Nº 14.133/2021",
+              "artigo": "N/A",
+              "descricao": "Nova Lei de Licitações e Contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Promova melhor adequação de modo a efetivar o funcionamento e atuação do CI.",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova melhor adequação de modo a efetivar o funcionamento e atuação do CI.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para efetivar o funcionamento e atuação do CI está relacionada com a necessidade de fortalecer os mecanismos de controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Atender os editais de licitação quanto às metodologias para validar a exequibilidade das propostas de preços, consoante o art. 48, inciso II, §1º e §2º da Lei Nº 8.666/1993.",
+      "trechos_identificados": [
+        {
+          "trecho": "Atender os editais de licitação quanto às metodologias para validar a exequibilidade das propostas de preços, consoante o art. 48, inciso II, §1º e §2º da Lei Nº 8.666/1993.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "justificativa_tipologia": "A recomendação para atender os editais de licitação quanto à exequibilidade das propostas de preços visa evitar sobrepreço e garantir a eficiência nos gastos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Nº 8.666/1993",
+              "artigo": "48",
+              "descricao": "Metodologias para validar a exequibilidade das propostas de preços"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Cumpra a segregação de funções-chave no que se refere às etapas de planejamento, execução, fiscalização e pagamento dos contratos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra a segregação de funções-chave no que se refere às etapas de planejamento, execução, fiscalização e pagamento dos contratos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A4A",
+          "tipologia_irregularidade": "Ausência de segregação de funções nas atividades de autorização, aprovação, execução, controle e contabilização",
+          "descricao": "Ausência de segregação de funções nas atividades de autorização, aprovação, execução, controle e contabilização",
+          "justificativa_tipologia": "A recomendação para cumprir a segregação de funções nas etapas de planejamento, execução, fiscalização e pagamento dos contratos se relaciona com a necessidade de fortalecer os mecanismos de controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

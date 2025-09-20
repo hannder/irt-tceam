@@ -1,0 +1,86 @@
+{
+  "acordao": "085/2015",
+  "processo": "10985/2014",
+  "data_sessao": "11 de fevereiro de 2015",
+  "orgao": "Câmara Municipal de Boca do Acre",
+  "municipio": "Boca do Acre",
+  "exercicio": "2013",
+  "responsavel": [
+    "Radir de Souza Magalhães"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regulares, com Ressalvas, a Prestação de Contas da Câmara  Municipal  de  Boca  do  Acre,  referente  ao  exercício  de  2013,  sob  a responsabilidade  do  Sr.  Radir  de  Souza  Magalhães,  Presidente  e  Ordenador  de Despesas, nos termos do inciso II do art. 1º; inciso II do art. 22, dando-se quitação ao citado Responsável, condicionado ao atendimento do art. 24 e do inciso  II do art. 72, todos da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem,  nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que atenda ao estabelecido no art. 45 da Constituição Estadual c/c art. 43 da Lei nº 2.423/96 que prever Criação de Controle Interno",
+      "trechos_identificados": [
+        {
+          "trecho": "atenda ao estabelecido no art. 45 da Constituição Estadual c/c art. 43 da Lei nº 2.423/96 que prever Criação de Controle Interno",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação explicita a necessidade de implementar o controle interno conforme a legislação, refletindo uma deficiência na estrutura de gestão e controle da organização, o que é relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "45",
+              "descricao": "O artigo explicita a necessidade de implementação do controle interno."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "43",
+              "descricao": "O artigo explicita a necessidade de implementação do controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aviso",
+      "descricao": "Determinar à Origem,  nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que observe, por  último, que a reincidência do agente  responsável  no cumprimento das determinações ora veiculadas acarretará o julgamento das suas respectivas  Contas  irregulares,  conforme  prevê  a  alínea  'e'  do  inciso  III  do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "observe, por  último, que a reincidência do agente  responsável  no cumprimento das determinações ora veiculadas acarretará o julgamento das suas respectivas  Contas  irregulares,  conforme  prevê  a  alínea  'e'  do  inciso  III  do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este item é um aviso sobre a reincidência do agente responsável. Este item não se enquadra em nenhuma tipologia de irregularidade ou tema, é apenas um aviso. O tema controle interno é um tema próximo a este aviso. ",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "O parágrafo define as consequências da reincidência no descumprimento das determinações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Comunicação",
+      "descricao": "Comunicar à DICAMI para que oriente a próxima comissão de inspeção a verificar nas Contas de 2014 as licenças dos softw ares utilizados  nos equipamentos  adquiridos  por  meio  da  Nota  Fiscal  000.000.032,  Série  1,  do fornecedor Francisco Matos Santana, bem como o cumprimento das determinações ora veiculadas na Proposta de Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar à DICAMI para que oriente a próxima comissão de inspeção a verificar nas Contas de 2014 as licenças dos softw ares utilizados  nos equipamentos  adquiridos  por  meio  da  Nota  Fiscal  000.000.032,  Série  1,  do fornecedor Francisco Matos Santana, bem como o cumprimento das determinações ora veiculadas na Proposta de Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este item é uma comunicação sobre a necessidade de verificar as licenças de softwares utilizados. Este item não se enquadra em nenhuma tipologia de irregularidade ou tema, é apenas uma comunicação. O tema controle interno é um tema próximo a esta comunicação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

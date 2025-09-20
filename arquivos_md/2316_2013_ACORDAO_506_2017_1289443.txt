@@ -1,0 +1,499 @@
+{
+  "acordao": "506/2017",
+  "processo": "2316/2013",
+  "data_sessao": "16 de Maio de 2017",
+  "orgao": "Fundação Universidade do Estado do Amazonas - UEA",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Jose Aldemir de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Sr.  Jose Aldemir de Oliveira, Ex-Reitor da Universidade Estadual do Amazonas  -  UEA  e  ordenador  de  despesa,  exercício  2013 ,  nos termos do inciso II do artigo 1º e inciso II do artigo 22 da Lei estadual nº 2.423/96,  dando  quitação  e  condicionando-os  ao  atendimento  do  art. 24, c/c o inciso II do art. 72, todos da Lei estadual nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Sr.  Jose Aldemir de Oliveira, Ex-Reitor da Universidade Estadual do Amazonas  -  UEA  e  ordenador  de  despesa,  exercício  2013 ,  nos termos do inciso II do artigo 1º e inciso II do artigo 22 da Lei estadual nº 2.423/96,  dando  quitação  e  condicionando-os  ao  atendimento  do  art. 24, c/c o inciso II do art. 72, todos da Lei estadual nº 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação indica um julgamento formal das contas, sem detalhar irregularidades que prejudiquem a análise da gestão contábil e financeira da entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "1º",
+              "descricao": "Define os requisitos para julgamento das contas."
+            },
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Estabelece as condições para regularidade com ressalvas."
+            },
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "24",
+              "descricao": "Condiciona a quitação ao atendimento de requisitos."
+            },
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "72",
+              "descricao": "Define as condições para julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Fundação Universidade do Estado do Amazonas - Uea nos termos do art. 188, §2º, do Regimento Interno/TCE-AM, que:\n9.2.1.  encaminhe, juntamente com  sua prestação de contas anuais, o relatório de auditoria, exigido pelo art. 10, II, da Lei n° 2.423/96, sob pena de aplicação do art. 54, VII da Lei nº 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Fundação Universidade do Estado do Amazonas - Uea nos termos do art. 188, §2º, do Regimento Interno/TCE-AM, que: encaminhe, juntamente com sua prestação de contas anuais, o relatório de auditoria, exigido pelo art. 10, II, da Lei n° 2.423/96, sob pena de aplicação do art. 54, VII da Lei nº 2.423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A27B",
+          "tipologia_irregularidade": "Gestão inadequada de estoque",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais",
+          "justificativa_tipologia": "O item demonstra a necessidade de envio de relatório de auditoria, demonstrando falha nos controles internos da organização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "Dispõe sobre os termos da determinação."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "10",
+              "descricao": "Exige o relatório de auditoria."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Estabelece a aplicação de penalidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.2.  regularize  as  pendências bancárias, sob pena de aplicação do art. 54, VII da Lei nº 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "regularize as pendências bancárias, sob pena de aplicação do art. 54, VII da Lei nº 2.423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A determinação para regularizar pendências bancárias indica um problema nos controles contábeis e financeiros.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Estabelece a aplicação de penalidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.3.  utilize  pesquisa  de  mercado  para  estipular  um  valor-hora para composição  de  custos  unitários para os  serviços contratados de mão de obra de professores",
+      "trechos_identificados": [
+        {
+          "trecho": "utilize  pesquisa  de  mercado  para  estipular  um  valor-hora para composição  de  custos  unitários para os  serviços contratados de mão de obra de professores",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O texto explicita a necessidade de realizar pesquisa de mercado para evitar sobrepreço, o que indica fragilidade nos processos de contratação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.4.  mantenha o controle de recebimento de bem com a relação de documentos e dos servidores responsáveis pelo recebimento e controle patrimonial",
+      "trechos_identificados": [
+        {
+          "trecho": "mantenha o controle de recebimento de bem com a relação de documentos e dos servidores responsáveis pelo recebimento e controle patrimonial",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A determinação explicita a necessidade de um controle para registrar entrada e saída de objetos, indicando um processo falho ou inexistente de controle patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.5.  os contratos firmados observem as regras disciplinadas nos arts. 54 e 55 da Lei federal nº 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "os contratos firmados observem as regras disciplinadas nos arts. 54 e 55 da Lei federal nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação explicita a necessidade de seguir as regras de contrato da lei 8666, indicando um descumprimento desta.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "54",
+              "descricao": "Regras para contratos."
+            },
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "55",
+              "descricao": "Cláusulas necessárias nos contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.6.  reveja  o  procedimento de centralização de pagamentos de despesas de todos os Órgãos pela SEFAZ, a fim de evitar juros por atrasos nos pagamentos",
+      "trechos_identificados": [
+        {
+          "trecho": "reveja  o  procedimento de centralização de pagamentos de despesas de todos os Órgãos pela SEFAZ, a fim de evitar juros por atrasos nos pagamentos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "A determinação visa evitar o pagamento de juros por atrasos, indicando uma execução orçamentária inadequada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.7.  envie a relação de tomadores de adiantamento para SEFAZ, de forma tempestiva",
+      "trechos_identificados": [
+        {
+          "trecho": "envie a relação de tomadores de adiantamento para SEFAZ, de forma tempestiva",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação se refere a envio tempestivo de documentos, demonstrando falha no controle interno da organização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.8.  mantenha  a  fiscalização  nos  contratos  realizados  com  a Fundação  Muraki  no  sentido  de verificar a  eficiência  e eficácia da prestação dos serviços",
+      "trechos_identificados": [
+        {
+          "trecho": "mantenha  a  fiscalização  nos  contratos  realizados  com  a Fundação  Muraki  no  sentido  de verificar a  eficiência  e eficácia da prestação dos serviços",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A19B",
+          "tipologia_irregularidade": "Ausência de controle de fiscalização de contratos",
+          "descricao": "Ausência de controle de fiscalização de contratos",
+          "justificativa_tipologia": "A determinação se refere a fiscalização dos contratos demonstrando que essa prática não vem sendo realizada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.9.  justifique o preço de suas dispensas licitatórias, levando em conta  pesquisa  de  mercado  para  composição  de  custos unitários de serviços, como reza o art. 26, parágrafo único, III, da Lei federal n° 8.666/93 e Jurisprudência do TCU",
+      "trechos_identificados": [
+        {
+          "trecho": "justifique o preço de suas dispensas licitatórias, levando em conta pesquisa de mercado para composição de custos unitários de serviços, como reza o art. 26, parágrafo único, III, da Lei federal n° 8.666/93 e Jurisprudência do TCU",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A determinação descreve a necessidade de justificar os preços das dispensas licitatórias e fazer uma pesquisa de mercado para evitar superfaturamento e má utilização dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal n° 8.666/93",
+              "artigo": "26",
+              "descricao": "Dispõe sobre a justificativa de preço em dispensas licitatórias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.10.  não delegue sua competência exclusiva, em cumprimento ao art. 1°, da Lei estadual  n° 2.637/2001 e  IV, art. 13, Lei estadual n° 2.794/2003",
+      "trechos_identificados": [
+        {
+          "trecho": "não delegue sua competência exclusiva, em cumprimento ao art. 1°, da Lei estadual  n° 2.637/2001 e  IV, art. 13, Lei estadual n° 2.794/2003",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A4A",
+          "tipologia_irregularidade": "Ausência de segregação de funções nas atividades de autorização, aprovação, execução, controle e contabilização",
+          "descricao": "Não encaminhamento do Plano de Providências ao Órgão de Controle Interno",
+          "justificativa_tipologia": "A Determinação para não delegar competência exclusiva aponta para uma possível falta de segregação de funções na entidade, o que compromete o controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei estadual  n° 2.637/2001",
+              "artigo": "1",
+              "descricao": "Proíbe a delegação de competência exclusiva."
+            },
+            {
+              "norma": "Lei estadual n° 2.794/2003",
+              "artigo": "13",
+              "descricao": "Proíbe a delegação de competência exclusiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.11.  retifique os seus termos de contratos que possuam prazo superior a 12 (doze) meses, em cumprimento ao art. 57, II, da  Lei  federal  nº  8.666/93  e  art.  34  da  Lei  federal  nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "retifique os seus termos de contratos que possuam prazo superior a 12 (doze) meses, em cumprimento ao art. 57, II, da Lei federal nº 8.666/93 e art. 34 da Lei federal nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "justificativa_tipologia": "A Determinação de retificar os termos de contratos com prazo superior a 12 meses revela inadequações no planejamento e formalização dos contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  federal  nº  8.666/93",
+              "artigo": "57",
+              "descricao": "Dispõe sobre os prazos dos contratos."
+            },
+            {
+              "norma": "Lei  federal  nº 4.320/64",
+              "artigo": "34",
+              "descricao": "Regras para gestão de contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.12.  só assine contrato quando o contratado apresentar todas as  certidões  negativas  de  débito  com  os  fiscos  federal, estadual e municipal, em cumprimento ao art. 29, III, da Lei federal n° 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "só assine contrato quando o contratado apresentar todas as certidões negativas de débito com os fiscos federal, estadual e municipal, em cumprimento ao art. 29, III, da Lei federal n° 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "A Determinação exige a apresentação de certidões negativas de débito, o que demonstra a frequente ausência de comprovação de regularidade fiscal e trabalhista nos contratos da entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal n° 8.666/93",
+              "artigo": "29",
+              "descricao": "Documentação exigida para habilitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.13.  abstenha-se  de  assinar contratos  que  possuam  vigência maior  que  um  exercício  financeiro  sem  comprovar  que  os objetos dos  contratos estejam  contemplados  com  seus respectivo recursos orçamentários (art. 167, II, da CF/88 c/c art. 57, caput , da Lei n° 8.666/93)",
+      "trechos_identificados": [
+        {
+          "trecho": "abstenha-se de assinar contratos que possuam vigência maior que um exercício financeiro sem comprovar que os objetos dos contratos estejam contemplados com seus respectivo recursos orçamentários (art. 167, II, da CF/88 c/c art. 57, caput , da Lei n° 8.666/93)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A21A",
+          "tipologia_irregularidade": "Empenho sem dotação orçamentária",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A Determinação para comprovar a existência de recursos orçamentários para contratos com vigência plurianual revela falta de planejamento orçamentário e risco de empenho sem dotação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "167",
+              "descricao": "Necessidade de prévia dotação orçamentária para despesas."
+            },
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "57",
+              "descricao": "Prazos dos contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.14.  observe as exigências da Lei federal n° 8.666/93, demostrando sempre a vantagem econômica e/ou a maior eficiência  na  execução  do  serviço  pela  Fundação  Muraki, assim como justificar o seu preço (art. 26, Parágrafo Único, III da Lei n° 8.666/93)",
+      "trechos_identificados": [
+        {
+          "trecho": "observe as exigências da Lei federal n° 8.666/93, demostrando sempre a vantagem econômica e/ou a maior eficiência na execução do serviço pela Fundação Muraki, assim como justificar o seu preço (art. 26, Parágrafo Único, III da Lei n° 8.666/93)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A Determinação para demonstrar a vantagem econômica e justificar o preço dos serviços da Fundação Muraki revela ausência de pesquisa de mercado e de critérios objetivos na contratação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "26",
+              "descricao": "Justificativa de preços."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.15.  apresente  o  Parecer  do  Conselho  Deliberativo  e/ou  do Conselho Fiscal que devem se pronunciar sobre as contas da UEA (art. 2.º, parágrafo único, inciso IX, da Resolução n.º 05/90 e Estatuto da UEA, art. 14, IV - aprovado pelo decreto 21.963/2001)",
+      "trechos_identificados": [
+        {
+          "trecho": "apresente  o  Parecer  do  Conselho  Deliberativo  e/ou  do Conselho Fiscal que devem se pronunciar sobre as contas da UEA (art. 2.º, parágrafo único, inciso IX, da Resolução n.º 05/90 e Estatuto da UEA, art. 14, IV - aprovado pelo decreto 21.963/2001)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "A Determinação exige a apresentação de pareceres dos Conselhos, o que indica uma falha na supervisão e aprovação das contas da UEA.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 05/90",
+              "artigo": "2",
+              "descricao": "Parecer sobre as contas."
+            },
+            {
+              "norma": "Estatuto da UEA",
+              "artigo": "14",
+              "descricao": "Atribuições do Conselho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.16.  obedeça  à  legislação  de  Direito  Financeiro,  ao  princípio orçamentário do equilíbrio e à Lei Complementar n° 101/00 (LRF), mantendo uma melhor comunicação com a Secretaria de Estado da Fazenda - SEFAZ-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "obedeça à legislação de Direito Financeiro, ao princípio orçamentário do equilíbrio e à Lei Complementar n° 101/00 (LRF), mantendo uma melhor comunicação com a Secretaria de Estado da Fazenda - SEFAZ-AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A determinação enfatiza a necessidade de obedecer à legislação financeira e à LRF, indicando um histórico de descumprimento das metas fiscais e orçamentárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n° 101/00 (LRF)",
+              "artigo": "null",
+              "descricao": "Lei de Responsabilidade Fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.17.  Regularize as inúmeras pendências da conciliação bancária por ter causado,  injustificadamente, distorções no saldo disponível dos Balanços Financeiro e Patrimonial",
+      "trechos_identificados": [
+        {
+          "trecho": "Regularize as inúmeras pendências da conciliação bancária por ter causado, injustificadamente, distorções no saldo disponível dos Balanços Financeiro e Patrimonial",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A Determinação para regularizar pendências na conciliação bancária explicita divergências nos saldos contábeis e bancários, indicando uma falha nos controles contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.18.  Promova o efetivo acompanhamento dos contratos determinados para que não ultrapassem os prazos acordados",
+      "trechos_identificados": [
+        {
+          "trecho": "Promova o efetivo acompanhamento dos contratos determinados para que não ultrapassem os prazos acordados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A Determinação de promover o acompanhamento dos contratos aponta uma ausência de controle dos prazos e aditivos contratuais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.19.  Encaminhe os devidos comprovantes das ações tomadas no item anterior.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe os devidos comprovantes das ações tomadas no item anterior.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "Item relacionado à comprovação de ações sem relação direta com irregularidade",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.20.  Realizar processos licitatórios para a concessão de espaço público da UEA",
+      "trechos_identificados": [
+        {
+          "trecho": "Realizar processos licitatórios para a concessão de espaço público da UEA",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A47B",
+          "tipologia_irregularidade": "Tomar serviços sem cobertura contratual (pagamentos indenizatórios)",
+          "descricao": "Tomar serviços sem cobertura contratual (pagamentos indenizatórios)",
+          "justificativa_tipologia": "A determinação para realizar licitação revela a ausência de processo licitatório prévio na concessão de espaços públicos da UEA.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "9.2.21.  Manter  o  controle  dos  comprovantes  de  pagamento  dos alugueis da concessão dos espaços da UEA",
+      "trechos_identificados": [
+        {
+          "trecho": "Manter o controle dos comprovantes de pagamento dos alugueis da concessão dos espaços da UEA",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",

@@ -1,0 +1,58 @@
+{
+  "acordao": "1274/2023",
+  "processo": "10927/2019",
+  "data_sessao": "28 de junho de 2023",
+  "orgao": "Tribunal Pleno",
+  "municipio": "Canutama",
+  "exercicio": "2018",
+  "responsavel": [
+    "Otaniel Lyra de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Conhecer dos  presentes Embargos de Declaração opostos pelo Sr. Otaniel  Lyra  de  Oliveira -Prefeito  do  Município  de  Canutama, exercício  2018,  em  razão  da  oposição  de  Embargos  de  Declaração com  efeitos  infringentes  (fls.  1.236/1.252)  pelo  citado  gestor,  por intermédio  de  seus  Causídicos  subscreventes,  em  face  do  Parecer Prévio nº 24/2023 - TCE - Tribunal Pleno (fls. 1.163/1.167), em razão do preenchimento do requisito estabelecido no art. 63, §1 da Lei n. 2.423/96 c/c o art. 148, §1º da Resolução n. 04/02 - RI-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer dos  presentes Embargos de Declaração opostos pelo Sr. Otaniel  Lyra  de  Oliveira -Prefeito  do  Município  de  Canutama, exercício  2018,  em  razão  da  oposição  de  Embargos  de  Declaração com  efeitos  infringentes  (fls.  1.236/1.252)  pelo  citado  gestor,  por intermédio  de  seus  Causídicos  subscreventes,  em  face  do  Parecer Prévio nº 24/2023 - TCE - Tribunal Pleno (fls. 1.163/1.167), em razão do preenchimento do requisito estabelecido no art. 63, §1 da Lei n. 2.423/96 c/c o art. 148, §1º da Resolução n. 04/02 - RI-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Prestação de contas enviada fora do prazo legal.",
+          "justificativa_tipologia": "A deliberação trata do conhecimento dos embargos de declaração opostos pelo prefeito em face do Parecer Prévio nº 24/2023, mencionando o cumprimento de requisitos formais, conhecimento de tramitação de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "63",
+              "descricao": "Requisito estabelecido no art. 63, §1 da Lei n. 2.423/96."
+            },
+            {
+              "norma": "Resolução n. 04/02 - RI-TCE/AM",
+              "artigo": "148",
+              "descricao": "Requisito estabelecido no art. 148, §1º da Resolução n. 04/02 - RI-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Negar provimento aos presentes Embargos de Declaração opostos pelo Sr. Otaniel Lyra de Oliveira -Prefeito do Município de Canutama, exercício  2018,  em  razão  da  oposição  de  Embargos  de Declaração  com  efeitos  infringentes  (fls.  1.236/1.252)  pelo  citado gestor, por intermédio de seus Causídicos subscreventes, em face do Parecer Prévio nº 24/2023 - TCE - Tribunal Pleno (fls. 1.163/1.167), mantendo-se  incólume  a  o decisum atacado,  em  razão  da  não demonstração de ocorrência da contradição alegada.",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar provimento aos presentes Embargos de Declaração opostos pelo Sr. Otaniel Lyra de Oliveira -Prefeito do Município de Canutama, exercício  2018,  em  razão  da  oposição  de  Embargos  de Declaração  com  efeitos  infringentes  (fls.  1.236/1.252)  pelo  citado gestor, por intermédio de seus Causídicos subscreventes, em face do Parecer Prévio nº 24/2023 - TCE - Tribunal Pleno (fls. 1.163/1.167), mantendo-se  incólume  a  o decisum atacado,  em  razão  da  não demonstração de ocorrência da contradição alegada.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Prestação de contas enviada fora do prazo legal.",
+          "descricao": "Prestação de contas enviada fora do prazo legal.",
+          "justificativa_tipologia": "A deliberação trata do não provimento dos embargos de declaração opostos pelo prefeito em face do Parecer Prévio nº 24/2023, mantendo-se a decisão original.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

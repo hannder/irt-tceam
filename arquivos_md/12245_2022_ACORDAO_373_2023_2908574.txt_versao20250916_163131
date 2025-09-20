@@ -1,0 +1,30 @@
+{
+  "acordao": "373/2023",
+  "processo": "12245/2022",
+  "data_sessao": "7 de março de 2023",
+  "orgao": "Policlínica Zeno Lanzini",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Vivaldo  Reis  Munhoz",
+    "Maria  Goreth  Silva Straham",
+    "Claudia  Lemos  de  Figueiredo"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "em razão da ressalva quanto à divergência entre a contaBens  Móveis  do  Ativo  Permanente  do  Balanço  Patrimonial  e  o Relatório de inventário patrimonial.",
+      "trechos_identificados": [
+        {
+          "trecho": "em razão da ressalva quanto à divergência entre a contaBens  Móveis  do  Ativo  Permanente  do  Balanço  Patrimonial  e  o Relatório de inventário patrimonial.",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho descreve divergência contábil entre o balanço patrimonial e o inventário, indicando uma falha na gestão patrimonial e contábil da entidade. A tipologia mais adequada é a que trata da divergência entre o balanço e o saldo de bens móveis e imóveis.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

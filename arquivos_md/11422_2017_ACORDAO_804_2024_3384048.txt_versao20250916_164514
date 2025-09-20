@@ -1,0 +1,87 @@
+{
+  "acordao": "804/2024",
+  "processo": "11422/2017",
+  "data_sessao": "20 de Maio de 2024",
+  "orgao": "Prefeitura Municipal de Fonte Boa",
+  "municipio": "Fonte Boa",
+  "exercicio": "2016",
+  "responsavel": [
+    "José Suediney de Souza Araújo"
+  ],
+  "itens": [
+    {
+      "tipo": "Reconhecimento",
+      "descricao": "Reconhecer a prescrição da competência desta Corte de Contas, por analogia ao disposto na Lei Federal nº. 9873/1999, com resolução de  mérito,  em  harmonia  ao  que  dispõe  o  art.  487  do  Código  de Processo Civil",
+      "trechos_identificados": [
+        {
+          "trecho": "Reconhecer a prescrição da competência desta Corte de Contas, por analogia ao disposto na Lei Federal nº. 9873/1999, com resolução de  mérito,  em  harmonia  ao  que  dispõe  o  art.  487  do  Código  de Processo Civil",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não se aplica",
+          "codigo_irregularidade": "Não se aplica",
+          "tipologia_irregularidade": "Não se aplica",
+          "descricao": "Não se aplica",
+          "justificativa_tipologia": "O trecho se refere ao reconhecimento da prescrição, um ato formal do processo, sem apontar irregularidades ou deficiências de gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº. 9873/1999",
+              "artigo": "Não se aplica",
+              "descricao": "Prescrição da competência do Tribunal de Contas"
+            },
+            {
+              "norma": "Código de Processo Civil",
+              "artigo": "487",
+              "descricao": "Resolução de mérito"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à autoridade competente, que apure os motivos que conduziram  à  prescrição,  de  modo  que  os  servidores  responsáveis sejam orientados a evitar atitudes que contribuam para sua ocorrência em ocasiões futuras",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à autoridade competente, que apure os motivos que conduziram  à  prescrição,  de  modo  que  os  servidores  responsáveis sejam orientados a evitar atitudes que contribuam para sua ocorrência em ocasiões futuras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para apurar as causas da prescrição indica uma falha nos controles internos que permitiram que o prazo para a ação do TCE expirasse. Por isso a tipologia de 'Não implementação do Controle Interno'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não se aplica",
+              "artigo": "Não se aplica",
+              "descricao": "Não se aplica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. José Suediney de Souza Araújo e à Câmara Municipal de Fonte Boa sobre o deslinde deste feito",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  José  Suediney  de  Souza  Araújo e  à  Câmara Municipal de Fonte Boa sobre o deslinde deste feito",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não se aplica",
+          "codigo_irregularidade": "Não se aplica",
+          "tipologia_irregularidade": "Não se aplica",
+          "descricao": "Não se aplica",
+          "justificativa_tipologia": "A comunicação do resultado do processo é um ato administrativo padrão, sem indicação de irregularidades ou potenciais problemas na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não se aplica",
+              "artigo": "Não se aplica",
+              "descricao": "Não se aplica"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

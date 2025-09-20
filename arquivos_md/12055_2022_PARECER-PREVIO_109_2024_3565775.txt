@@ -1,0 +1,222 @@
+{
+  "acordao": "109/2024",
+  "processo": "12055/2022",
+  "data_sessao": "21 de Novembro de 2024",
+  "orgao": "Prefeitura Municipal de Caapiranga",
+  "municipio": "Caapiranga",
+  "exercicio": "2021",
+  "responsavel": [
+    "Francisco Andrade Braz"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Manter o Portal da Transparência atualizado com todas as  informações  exigidas  pela  Lei  Complementar  nº  131/2009  e Decreto  nº  7.185/2010,  incluindo:  Plano  Plurianual  (PPA);  Lei Orçamentária  Anual  (LOA);  Estrutura  organizacional;  Repasses de recursos; Registro de despesas; Informações sobre procedimentos  licitatórios;  Contratos  celebrados  e  Dados  para acompanhamento de programas, ações, projetos e obras.",
+      "trechos_identificados": [
+        {
+          "trecho": "Manter o Portal da Transparência atualizado com todas as  informações  exigidas  pela  Lei  Complementar  nº  131/2009  e Decreto  nº  7.185/2010,  incluindo:  Plano  Plurianual  (PPA);  Lei Orçamentária  Anual  (LOA);  Estrutura  organizacional;  Repasses de recursos; Registro de despesas; Informações sobre procedimentos  licitatórios;  Contratos  celebrados  e  Dados  para acompanhamento de programas, ações, projetos e obras.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A prefeitura deve divulgar as informações exigidas pela lei no portal da transparencia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 131/2009",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a transparência na gestão fiscal, alterando a Lei Complementar nº 101, de 4 de maio de 2000; e dá outras providências."
+            },
+            {
+              "norma": "Decreto nº 7.185/2010",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre os padrões mínimos de qualidade do Sistema Integrado de Administração Financeira do Governo Federal (SIAFI) e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observar rigorosamente os prazos estabelecidos na Resolução  nº 15/2013  do TCE/AM  para  o  envio  do Relatório Resumido da Execução Orçamentária (RREO) e do Relatório de Gestão Fiscal (RGF)",
+      "trechos_identificados": [
+        {
+          "trecho": "Observar rigorosamente os prazos estabelecidos na Resolução  nº 15/2013  do TCE/AM  para  o  envio  do Relatório Resumido da Execução Orçamentária (RREO) e do Relatório de Gestão Fiscal (RGF)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "Necessidade de cumprimento dos prazos para envio do RREO e RGF.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 15/2013 do TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Estabelece procedimentos para o envio de informações e documentos ao Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Elaborar e manter atualizado o inventário de estoque de materiais, conforme exigido pelo inciso XXVII do art. 1º da Resolução TCE nº 27/2013.",
+      "trechos_identificados": [
+        {
+          "trecho": "Elaborar e manter atualizado o inventário de estoque de materiais, conforme exigido pelo inciso XXVII do art. 1º da Resolução TCE nº 27/2013.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A4B",
+          "tipologia_irregularidade": "Inventário do estoque de materiais sem indicação do valor total dos materiais",
+          "descricao": "Inventário do estoque de materiais sem indicação do valor total dos materiais.",
+          "justificativa_tipologia": "A prefeitura deve elaborar e manter o inventário de estoque de materiais para melhor controle patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 27/2013",
+              "artigo": "1º, inciso XXVII",
+              "descricao": "Dispõe sobre a obrigatoriedade de apresentação de documentos e informações para o exame das contas anuais dos órgãos e entidades da administração pública estadual e municipal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Implementar um sistema eficaz de controle de patrimônio, com a identificação de todos os bens, número de tombamento, localização e responsável pela guarda, bem como elaborar  e  manter  atualizado  o  Inventário  de  Bens Patrimoniais, conforme exigido pelos arts. 94, 95 e 96 da Lei nº 4.320/64.",
+      "trechos_identificados": [
+        {
+          "trecho": "Implementar um sistema eficaz de controle de patrimônio, com a identificação de todos os bens, número de tombamento, localização e responsável pela guarda,bem como elaborar  e  manter  atualizado  o  Inventário  de  Bens Patrimoniais, conforme exigido pelos arts. 94, 95 e 96 da Lei nº 4.320/64.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A9B",
+          "tipologia_irregularidade": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "Implementar o sistema de controle e elaborar o inventário dos bens.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "O controle dos bens patrimoniais será exercido pelos órgãos de contabilidade e pelos órgãos responsáveis pela guarda e administração dos mesmos."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "95",
+              "descricao": "Os serviços de contabilidade conservarão, em boa ordem, os documentos comprobatórios dos atos e fatos que deram origem à lançamentos nas contas do ativo e passivo."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "96",
+              "descricao": "A escrituração sintética das operações financeiras e patrimoniais processar-se-á nos livros Razão, Diário, Caixa e Contas Correntes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Implementar um Serviço de Informações ao Cidadão (SIC) com instalações  físicas, complementando  o  e-SIC  já disponível  no  portal  de  transparência,  conforme manda  a Lei nº 12.527/2011.",
+      "trechos_identificados": [
+        {
+          "trecho": "Implementar um Serviço de Informações ao Cidadão (SIC) com instalações  físicas, complementando  o  e-SIC  já disponível  no  portal  de  transparência,  conforme manda  a Lei nº 12.527/2011.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "Não consta",
+          "tipologia_irregularidade": "Não Especificada",
+          "descricao": "Não Especificada",
+          "justificativa_tipologia": "A prefeitura tem que disponibilizar o SIC.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "Não consta",
+              "descricao": "Regula o acesso à informação previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal; altera a Lei nº 8.159, de 8 de janeiro de 1991; e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Enviar os balancetes mensais ao TCE/AM rigorosamente dentro  do  prazo  estabelecido  pela  Lei  Complementar  nº 06/1991 e Resolução TCE nº 13/2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Enviar os balancetes mensais ao TCE/AM rigorosamente dentro  do  prazo  estabelecido  pela  Lei  Complementar  nº 06/1991 e Resolução TCE nº 13/2015",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Necessidade de envio dos balancetes dentro do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a organização da administração pública do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o envio de informações e documentos por meio eletrônico ao Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Francisco  Andrade  Braz ,  Prefeito  Municipal  de Caapiranga,  à  época,  acerca  da  decisão,  na  forma  do  art.  95,  da Resolução nº 04/2002, ficando autorizada a emissão de nova notificação, caso  a  primeira  seja  frustrada.  Ato  contínuo,  se,  por ventura, persistir a problemática, para não restarem dúvidas quanto à sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Francisco  Andrade  Braz ,  Prefeito  Municipal  de Caapiranga,  à  época,  acerca  da  decisão,  na  forma  do  art.  95,  da Resolução nº 04/2002, ficando autorizada a emissão de nova notificação, caso  a  primeira  seja  frustrada.  Ato  contínuo,  se,  por ventura, persistir a problemática, para não restarem dúvidas quanto à sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não Especificado",
+          "codigo_irregularidade": "Não Especificado",
+          "tipologia_irregularidade": "Não Especificada",
+          "descricao": "Não Especificada",
+          "justificativa_tipologia": "Trata-se de uma formalidade processual para garantir que o responsável tenha ciência da decisão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "95",
+              "descricao": "Define os procedimentos relativos às comunicações e notificações no âmbito do TCE/AM."
+            },
+              {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Define os procedimentos relativos às comunicações e notificações por edital no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo por cumprimento de decisão, na forma do art. 170, §1 da Resolução nº 04/2002 (RI-TCE/AM).",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo por cumprimento de decisão, na forma do art. 170, §1 da Resolução nº 04/2002 (RI-TCE/AM).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "Não Especificado",
+          "codigo_irregularidade": "Não Especificado",
+          "tipologia_irregularidade": "Não Especificada",
+          "descricao": "Não Especificada",
+          "justificativa_tipologia": "Determinação de arquivamento do processo após o cumprimento da decisão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 (RI-TCE/AM)",
+              "artigo": "170, §1",
+              "descricao": "Define os procedimentos para o arquivamento de processos no âmbito do TCE/AM após o cumprimento das determinações."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

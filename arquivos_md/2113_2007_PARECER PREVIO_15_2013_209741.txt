@@ -1,0 +1,366 @@
+{
+  "acordao": "015/2013",
+  "processo": "2113/2007",
+  "data_sessao": "09 de outubro de 2013",
+  "orgao": "Prefeitura Municipal de Borba",
+  "municipio": "Borba",
+  "exercicio": "2006",
+  "responsavel": [
+    "Antônio José Muniz Cavalcante"
+  ],
+  "itens": [
+    {
+      "tipo": "IRREGULAR",
+      "descricao": "JULGAR  IRREGULAR a prestação de contas da Prefeitura Municipal de Borba, referente ao  exercício  de  2006,  de  responsabilidade  do Sr.  Antônio  José  Muniz Cavalcante ,  Prefeito  e Ordenador de Despesa, nos termos do art. 22, III, 'a' e 'b', da Lei Estadual n. 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR  IRREGULAR a  prestação  de  contas  da  Prefeitura  Municipal  de Borba,  referente  ao  exercício  de  2006,  de  responsabilidade  do Sr.  Antônio  José  Muniz Cavalcante ,  Prefeito  e Ordenador de Despesa, nos termos do art. 22, III, 'a' e 'b', da Lei Estadual n. 2.423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação julga irregular a prestação de contas, indicando que as demonstrações contábeis estavam deficientes, o que está ligado à ausência de notas explicativas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre as contas irregulares"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "APLICAR  MULTA no  valor  total  de R$  21.922,61 ao Sr.  Antônio  José Muniz Cavalcante , Prefeito e Ordenador de Despesa, nos moldes discriminados a seguir:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "R$ 1.096,03 pelo atraso no envio de dados, via ACP ,  ocorrido nos meses de janeiro a dezembro , com fulcro no art. 308, II, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pelo art. 2º, da Resolução n. 25/2012-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 1.096,03 pelo atraso no envio de dados, via ACP ,  ocorrido nos meses de janeiro a dezembro , com fulcro no art. 308, II, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pelo art. 2º, da Resolução n. 25/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio de dados via ACP (Sistema de Acompanhamento de Contas Públicas), o que se relaciona diretamente com a entrega de balancetes mensais fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308",
+              "descricao": "Multa pelo atraso no envio de dados"
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Nova redação do art. 308 da Resolução n. 4/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "R$ 1.096,03 pela má alimentação do sistema ACP , tendo em vista a ausência de informações de ajustes discriminados pela Comissão de Inspeção, assim como a inserção de dados incorretos relacionados à área de pessoal , com fulcro no art. 308,  II,  da  Resolução  n.  4/2002-TCE/AM,  com  a  nova  redação  dada  pelo  art.  2º,  da Resolução n. 25/2012-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 1.096,03 pela má alimentação do sistema ACP , tendo em vista a ausência de informações de ajustes discriminados pela Comissão de Inspeção, assim como a inserção de dados incorretos relacionados à área de pessoal , com fulcro no art. 308,  II,  da  Resolução  n.  4/2002-TCE/AM,  com  a  nova  redação  dada  pelo  art.  2º,  da Resolução n. 25/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A multa se refere à má alimentação do sistema ACP com ausência e inserção incorreta de dados, o que implica no não envio de informações corretas e completas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308",
+              "descricao": "Multa pela má alimentação do sistema ACP"
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Nova redação do art. 308 da Resolução n. 4/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "R$ 1.096,03 por cada bimestre em que houve atraso no encaminhamento dos Relatórios Resumidos de Execução Orçamentária , ou seja, 1º, 2º, 3º, 4º, 5º e 6º bimestres , totalizando o valor de R$ 6.578,18 , com fulcro no art. 308, II, da Resolução  n.  4/2002-TCE/AM,  com  a  nova  redação  dada  pelo  art.  2º,  da Resolução n. 25/2012-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 1.096,03 por cada bimestre em que houve atraso no encaminhamento dos Relatórios Resumidos de Execução Orçamentária , ou seja, 1º, 2º, 3º, 4º, 5º e 6º bimestres , totalizando o valor de R$ 6.578,18 , com fulcro no art. 308, II, da Resolução  n.  4/2002-TCE/AM,  com  a  nova  redação  dada  pelo  art.  2º,  da Resolução n. 25/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no encaminhamento dos Relatórios Resumidos de Execução Orçamentária (RREO).",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308",
+              "descricao": "Multa por atraso no encaminhamento dos Relatórios Resumidos de Execução Orçamentária"
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Nova redação do art. 308 da Resolução n. 4/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "R$ 1.096,03 por cada semestre em que houve atraso no encaminhamento  dos Relatórios  de  Gestão  Fiscal , ou  seja, 1º e 2º semestres , totalizando o  valor  de R$  2.192,06 ,  com  fulcro  no  art.  308,  II,  da  Resolução  n.  4/2002TCE/AM, com a nova redação dada pelo art. 2º, da Resolução n. 25/2012-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 1.096,03 por cada semestre em que houve atraso no encaminhamento  dos Relatórios  de  Gestão  Fiscal , ou  seja, 1º e 2º semestres , totalizando o  valor  de R$  2.192,06 ,  com  fulcro  no  art.  308,  II,  da  Resolução  n.  4/2002TCE/AM, com a nova redação dada pelo art. 2º, da Resolução n. 25/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no encaminhamento dos Relatórios de Gestão Fiscal, RGF.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308",
+              "descricao": "Multa pelo atraso no encaminhamento dos Relatórios de Gestão Fiscal"
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "2º",
+              "descricao": "Nova redação do art. 308 da Resolução n. 4/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "R$  2.192,06 ,  com  fulcro  no  art.  308,  I,  'a',  da  Resolução  n.  4/2002TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM, pelas impropriedades discriminadas a seguir:9.2.5.1não atendimento, sem causa justificada, às diligências desta Corte de Contas materializadas nas notificações n. 147/2011-SECAMI/DEENG (fls. 1.169/1.177, vol. 6) e 20/2012-DCOP (fls. 1.283/1.285, vol. 7);9.2.5.2não atendimento à diligência deste Tribunal quanto a restrição n. 8-b do Relatório Conclusivo n. 4/2012-CI/DCAMI (fls. 1.210/1.232, vol. 7), e os itens 12, 14 e 19 da Diligência  Ministerial  n.  524/2008  (fls.  759/762,  vol.  4),  materializada  na  Notificação  n. 223/2012-DCAMI (fls. 1.244, vol. 7).",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  2.192,06 ,  com  fulcro  no  art.  308,  I,  'a',  da  Resolução  n.  4/2002TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM, pelas impropriedades discriminadas a seguir:9.2.5.1não atendimento, sem causa justificada, às diligências desta Corte de Contas materializadas nas notificações n. 147/2011-SECAMI/DEENG (fls. 1.169/1.177, vol. 6) e 20/2012-DCOP (fls. 1.283/1.285, vol. 7)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "Multa por não atendimento às diligências do TCE, o que implica em ausência de documentação necessária para a prestação de contas anual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308",
+              "descricao": "Multa por não atendimento às diligências"
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "25/2012",
+              "descricao": "Multa por não atendimento às diligências"
+            }
+          ]
+        },
+        {
+          "trecho": "não atendimento à diligência deste Tribunal quanto a restrição n. 8-b do Relatório Conclusivo n. 4/2012-CI/DCAMI (fls. 1.210/1.232, vol. 7), e os itens 12, 14 e 19 da Diligência  Ministerial  n.  524/2008  (fls.  759/762,  vol.  4),  materializada  na  Notificação  n. 223/2012-DCAMI (fls. 1.244, vol. 7)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "Multa por não atendimento às diligências do Tribunal quanto a restrições em relatórios conclusivos e itens de diligência ministerial, o que implica em falhas na prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "R$  8.768,25 pela  não  comprovação  de  que  as  despesas  relativas  ao FUNDEF haviam sido atestadas pelo Conselho Municipal e se foi identificado o destino do bem adquirido, assim como o efetivo uso em benefício do ensino fundamental, com fulcro no art. 308, VI, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$  8.768,25 pela  não  comprovação  de  que  as  despesas  relativas  ao FUNDEF haviam sido atestadas pelo Conselho Municipal e se foi identificado o destino do bem adquirido, assim como o efetivo uso em benefício do ensino fundamental, com fulcro no art. 308, VI, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pela Resolução n. 25/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A1B",
+          "tipologia_irregularidade": "Ausência de fomento ao controle social",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A multa é aplicada devido à não comprovação de que as despesas relativas ao FUNDEF foram atestadas pelo Conselho Municipal e não foi identificado o destino do bem adquirido, o que implica na ausência de fomento ao controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308",
+              "descricao": "Multa pela não comprovação de despesas relativas ao FUNDEF"
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "25/2012",
+              "descricao": "Multa pela não comprovação de despesas relativas ao FUNDEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINACAO",
+      "descricao": "FIXAR  PRAZO de  30  (trinta)  dias  para  o  recolhimento  das  sanções discriminadas  no  item  anterior  aos  cofres  da  Fazenda  Pública  Estadual,  acrescidos  de atualização  monetária  e  dos  juros  de  mora,  devidos,  com  comprovação  perante  este Tribunal, nos termos do art. 174, caput , da Resolução n. 4/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR  PRAZO de  30  (trinta)  dias  para  o  recolhimento  das  sanções discriminadas  no  item  anterior  aos  cofres  da  Fazenda  Pública  Estadual,  acrescidos  de atualização  monetária  e  dos  juros  de  mora,  devidos,  com  comprovação  perante  este Tribunal, nos termos do art. 174, caput , da Resolução n. 4/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "Fixar prazo para recolhimento de multa se enquadra em execução financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Fixa prazo para recolhimento das sanções"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINACAO",
+      "descricao": "AUTORIZAR ,  caso os valores das sanções não sejam recolhidos dentro do prazo estabelecido, a inscrição dos débitos na Dívida Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva, em consonância com o art. 173 da Subseção III e da Seção III, do Capitulo X, da Resolução n. 4/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR ,  caso os valores das sanções não sejam recolhidos dentro do prazo estabelecido, a inscrição dos débitos na Dívida Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva, em consonância com o art. 173 da Subseção III e da Seção III, do Capitulo X, da Resolução n. 4/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A autorização para inscrição em dívida ativa está relacionada a não adoção de providências para cobrança.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "173",
+              "descricao": "Autoriza a inscrição dos débitos na Dívida Ativa pela Fazenda Pública Estadual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDACAO",
+      "descricao": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.1observe com maior rigor a formalização dos documentos contábeis;9.2.9.2observe o prazo para envio de dados informatizados pelo sistema ACP, nos termos do art. 4º, caput , da Resolução n. 10/2012-TCE/AM;9.2.9.3observe o prazo para envio dos dados relativos ao Relatório Resumido de Execução Orçamentária, nos termos do art. 1º, II, da Resolução n. 11/2009-TCE/AM;9.2.9.4observe o prazo para envio dos dados relativos ao Relatório de Gestão Fiscal, nos termos do art. 32, II, 'h', da Lei Estadual n. 2.423/96, com a nova redação dada pela Lei Complementar Estadual n. 120/2013;9.2.9.5solicite  ao  Conselho Municipal que aprecie com maior rigor o uso dos recursos relacionados ao FUNDEF;9.2.9.6observe,  no  controle  de  combustíveis,  os  indicadores  elencados  pelo Ministério Público de Contas no item 14 da Diligência n. 524/2008 (fls. 759/762, vol. 4);9.2.9.7ao  firmar  contratos  de  serviços  advocatícios,  observe  os  indicadores elencados  pelo  Ministério  Público  de  Contas  no  item  19  da  Diligência  n.  524/2008  (fls. 759/762, vol. 4).",
+      "trechos_identificados": [
+        {
+          "trecho": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.1observe com maior rigor a formalização dos documentos contábeis",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A recomendação para observar com maior rigor a formalização dos documentos contábeis está relacionada à tipologia de ausência de notas explicativas nas demonstrações contábeis, visando garantir maior clareza e transparência nos registros contábeis.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.2observe o prazo para envio de dados informatizados pelo sistema ACP, nos termos do art. 4º, caput , da Resolução n. 10/2012-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para observar o prazo de envio de dados informatizados pelo sistema ACP está relacionada ao envio de balancetes mensais fora do prazo, visando garantir a tempestividade e a regularidade no envio das informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 10/2012-TCE/AM",
+              "artigo": "4",
+              "descricao": "Dispõe sobre o prazo para envio de dados informatizados pelo sistema ACP"
+            }
+          ]
+        },
+        {
+          "trecho": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.3observe o prazo para envio dos dados relativos ao Relatório Resumido de Execução Orçamentária, nos termos do art. 1º, II, da Resolução n. 11/2009-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A recomendação para observar o prazo de envio dos dados relativos ao Relatório Resumido de Execução Orçamentária está relacionada à publicação do RREO, visando garantir a transparência e a tempestividade das informações orçamentárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 11/2009-TCE/AM",
+              "artigo": "1",
+              "descricao": "Dispõe sobre o prazo para envio dos dados relativos ao Relatório Resumido de Execução Orçamentária"
+            }
+          ]
+        },
+        {
+          "trecho": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.4observe o prazo para envio dos dados relativos ao Relatório de Gestão Fiscal, nos termos do art. 32, II, 'h', da Lei Estadual n. 2.423/96, com a nova redação dada pela Lei Complementar Estadual n. 120/2013",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "A recomendação para observar o prazo de envio dos dados relativos ao Relatório de Gestão Fiscal está relacionada ao envio dos dados do RREO, visando garantir a transparência e a tempestividade das informações fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "32",
+              "descricao": "Dispõe sobre o prazo para envio dos dados relativos ao Relatório de Gestão Fiscal"
+            },
+            {
+              "norma": "Lei Complementar Estadual n. 120/2013",
+              "artigo": "120/2013",
+              "descricao": "Nova redação dada pela Lei Complementar Estadual n. 120/2013"
+            }
+          ]
+        },
+        {
+          "trecho": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.5solicite  ao  Conselho Municipal que aprecie com maior rigor o uso dos recursos relacionados ao FUNDEF",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A1B",
+          "tipologia_irregularidade": "Ausência de fomento ao controle social",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A recomendação para que o Conselho Municipal aprecie com maior rigor o uso dos recursos relacionados ao FUNDEF está relacionada à ausência de fomento ao controle social.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.6observe,  no  controle  de  combustíveis,  os  indicadores  elencados  pelo Ministério Público de Contas no item 14 da Diligência n. 524/2008 (fls. 759/762, vol. 4)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação para observar, no controle de combustíveis, os indicadores elencados pelo Ministério Público de Contas está relacionada ao devido empenho, licitação e contrato.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "RECOMENDAR à Prefeitura Municipal de Borba que:9.2.9.7ao  firmar  contratos  de  serviços  advocatícios,  observe  os  indicadores elencados  pelo  Ministério  Público  de  Contas  no  item  19  da  Diligência  n.  524/2008  (fls. 759/762, vol. 4).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A recomendação para observar os indicadores elencados pelo Ministério Público de Contas ao firmar contratos de serviços advocatícios está relacionada a dispensa ou inexigibilidade de licitação sem am

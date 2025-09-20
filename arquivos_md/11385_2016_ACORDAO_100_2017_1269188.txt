@@ -1,0 +1,58 @@
+{
+  "acordao": "100/2017",
+  "processo": "11385/2016",
+  "data_sessao": "13 de Fevereiro de 2017",
+  "orgao": "Câmara Municipal de Anamã",
+  "municipio": "Anamã",
+  "exercicio": "2015",
+  "responsavel": [
+    "Benedito Soares Bastos"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  Regular  com  Ressalvas a Prestação  de  Contas  do Sr. Benedito Soares Bastos , Presidente da Câmara Municipal de Anamã e Ordenador de Despesas, à época, nos termos do art. 1º, II, e art. 22, II, da Lei 2423/1996; artigo 18, inciso II, da LC nº. 06/1991; c/c art. 188, §1º,  II,  da  Resolução  nº.  04/2002  -  RITCE,  a  Prestação  de  Contas Anual, referente ao exercício de 2015, da Câmara Municipal de Anamã.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Benedito  Soares  Bastos no  valor  de R$ 5.000,00 , nos  termos  do  parágrafo  único,  do  artigo  53,  da  Lei  nº. 2423/1996 - LOTCE/AM, valor atualizado pela Resolução nº. 25/2012, pelas impropriedades constantes nos itens 02; 03; 04; 05; 06 e 07  do Relatório/  Voto,  que  devem  ser  recolhidos  na  esfera  Estadual  para  o órgão  Encargos  Gerais  do Estado  - SEFAZ  por  descumprimento  das improbidades apontadas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixe o prazo de 30 (trinta) dias (artigo 174 do RITCE)  para  que  o Sr. Benedito  Soares  Bastos , Presidente  da Câmara  Municipal  de  Anamã  e  Ordenador  de  Despesas,  à  época, recolha  aos  cofres  da  Fazenda  Estadual  os  valores  da  multa  ora aplicada,  com  a  devida  comprovação  nestes  autos.  Na  hipótese  de expirar este prazo, aquela importância deverá ser atualizada monetariamente (artigo 55, da Lei nº. 2423/1996 - LOTCE/AM), ficando a DICREX autorizada a adotar as medidas previstas no artigo 173 da Subseção III,  da Seção III, do Capítulo  X, da Resolução nº. 04/2002  - RITCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Benedito Soares Bastos,  Presidente da Câmara Municipal de Anamã e Ordenador de Despesas, à época, nos termos dos artigos 23 e 72, I, da Lei n. 2423/1996 - LOTCE; artigo 189, inciso I, da Resolução n. 04/2002 - RITCE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhe à atual Administração da Câmara Municipal de Anamã, cópias das peças emitidas pela Comissão de Inspeção e pela Representante  Ministerial,  visando  evitar  o  cometimento  das  mesmas impropriedades em Prestação de Contas futuras;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Notifique o Sr. Benedito Soares Bastos,  Presidente da Câmara Municipal de Anamã e Ordenador de Despesas, à época, com cópia do Relatório/Voto  e  Acórdão  para  ter  ciência  do  Acórdão  e,  querendo, apresente o devido recurso;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160,  da  Resolução  nº.  4/2002  -  RITCE/AM,  adote  as  providências  do artigo 162, §1º, do RITCE/AM;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Por maioria, aplicar Multa ao Sr. Benedito Soares Bastos no valor de R$ 3.288,09 ,  na forma prevista no art. 308, II, da Res. 4/2002 - RITCE, alterada pela Resolução nº. 25/2012, correspondente a R$ 1.096,03, por mês  de  competência  (agosto,  setembro  e  dezembro do  exercício  de 2015),  relativo  aos  dados  e  demonstrativos  contábeis  ACP/Captura, remetidos ao Tribunal de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 10/2012- TCE/AM, que devem ser recolhidos na esfera Estadual  para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ  por descumprimento de/pelas improbidades apontadas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixe o prazo de 30 (trinta)  dias  (artigo  174  do  RITCE)  para  que  o Sr. Benedito  Soares Bastos ,  Presidente  da  Câmara  Municipal  de  Anamã  e  Ordenador  de Despesas, à época, recolha aos cofres da Fazenda Estadual os valores das multas ora aplicadas, com a devida comprovação nestes autos. Na hipótese de expirar este prazo, aquela importância deverá ser atualizada monetariamente (artigo 55, da Lei nº. 2423/1996 - LOTCE/AM), ficando a DICREX  autorizada  a adotar as medidas previstas no artigo 173 da Subseção III,  da Seção III, do Capítulo  X, da Resolução nº. 04/2002  - RITCE/AM;",
+      "trechos_identificados": []
+    }
+  ]
+}

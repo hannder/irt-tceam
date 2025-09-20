@@ -1,0 +1,31 @@
+{
+  "acordao": "2135/2023",
+  "processo": "11337/2017",
+  "data_sessao": "17 de Outubro de 2023",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Urucurituba",
+  "exercicio": "2016",
+  "responsavel": [
+    "Renaldo Serrao dos Santos",
+    "Pedro Amorim Rocha"
+  ],
+  "itens": [
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Renaldo Serrao dos Santos , responsável pela Prefeitura de Urucurituba período de 04.07.2016 a 31.12.2016 , ao seu patrono constituído nos presentes autos,  ao Sr. Pedro Amorim Rocha responsável pela Prefeitura de Urucurituba no período de 01.01.2016 a 03.07.2016, e aos demais interessados.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Renaldo  Serrao  dos  Santos ,  responsável  pela Prefeitura de Urucurituba período de 04.07.2016 a 31.12.2016 , ao seu patrono constituído nos presentes autos,  ao Sr. Pedro Amorim Rocha responsável pela Prefeitura de Urucurituba no período de 01.01.2016 a 03.07.2016, e aos demais interessados.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere a dar ciencia aos responsáveis sobre o assunto tratado no processo",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "acordao": "326/2017",
+  "processo": "2357/2013",
+  "data_sessao": "04 de Abril de 2017",
+  "orgao": "Agência de Desenvolvimento Sustentável do Amazonas - ADS",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Raimundo Valdelino R. Cavalcante"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas da Agência de Desenvolvimento  Sustentável  do  Amazonas  -  ADS  (destaque) sob a responsabilidade do Sr. Raimundo Valdelino R. Cavalcante , Diretor Presidente da Agência e Ordenador de Despesas no curso do exercício 2012, nos termos do inciso II do art . 1º e da alínea 'b' do inciso  III  do  art.  22,  todos  da  Lei  n°  2.423/96,  em  decorrência  de grave  infração  à  norma  legal,  considerando  as  irregularidades  não sanadas descritas na fundamentação da proposta de voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas da Agência de Desenvolvimento  Sustentável  do  Amazonas  -  ADS  (destaque) sob a responsabilidade do Sr. Raimundo Valdelino R. Cavalcante , Diretor Presidente da Agência e Ordenador de Despesas no curso do exercício 2012, nos termos do inciso II do art . 1º e da alínea 'b' do inciso  III  do  art.  22,  todos  da  Lei  n°  2.423/96,  em  decorrência  de grave  infração  à  norma  legal,  considerando  as  irregularidades  não sanadas descritas na fundamentação da proposta de voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A deliberação indica uma grave infração à norma legal devido a irregularidades não sanadas na prestação de contas, o que sugere um possível desvio de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre a organização da administração pública do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades nas contas públicas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Raimundo Valdelino R. Cavalcante no  valor de R$ 8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ, nos termos do inciso VI do  art.  308  da  Resolução  4/2002  (RITCE/AM),  com  base  no  valor disciplinado à época, em decorrência de atos praticados com grave infração  às  normas  legais  por  todas  irregularidades  não  sanadas descritas  na  fundamentação  da  proposta  de  voto.  O  recolhimento deve ser feito no prazo de 30 dias;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Raimundo Valdelino R. Cavalcante no  valor de R$ 8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ, nos termos do inciso VI do  art.  308  da  Resolução  4/2002  (RITCE/AM),  com  base  no  valor disciplinado à época, em decorrência de atos praticados com grave infração  às  normas  legais  por  todas  irregularidades  não  sanadas descritas  na  fundamentação  da  proposta  de  voto.  O  recolhimento deve ser feito no prazo de 30 dias",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A aplicação de multa decorre de atos praticados com grave infração às normas legais, indicando irregularidades não sanadas na prestação de contas, o que pode estar associado a um desvio de recursos públicos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Define os critérios para aplicação de multas por irregularidades em processos no âmbito do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Encaminhamento",
+      "descricao": "Encaminhar os autos à Dicrex para que efetue a cobrança executiva administrativa e, não obtendo êxito, adotar os procedimentos necessários para a cobrança executiva judicial, observando os arts. 3º e 5º da Resolução n° 3/2011-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar os autos à Dicrex para que efetue a cobrança executiva administrativa e, não obtendo êxito, adotar os procedimentos necessários para a cobrança executiva judicial, observando os arts. 3º e 5º da Resolução n° 3/2011-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "Este item indica a necessidade de ação para recuperar valores devidos, o que está relacionado a possíveis irregularidades ou desvios de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 3/2011-TCE",
+              "artigo": "3º",
+              "descricao": "Estabelece os procedimentos para a cobrança executiva administrativa de débitos perante o Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n° 3/2011-TCE",
+              "artigo": "5º",
+              "descricao": "Define os procedimentos para a cobrança executiva judicial de débitos perante o Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a Casa Civil - Estado do Amazonas e a ADS para que aprovem  e  implementem  o  plano  de  cargos  e  salários  para  os servidores e, após, realizem concurso público para preenchimentos dos cargos efetivos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar a Casa Civil - Estado do Amazonas e a ADS para que aprovem  e  implementem  o  plano  de  cargos  e  salários  para  os servidores e, após, realizem concurso público para preenchimentos dos cargos efetivos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de regularização do quadro de pessoal e a realização de concurso público para preencher cargos efetivos, indicando uma possível irregularidade na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a Agência de Desenvolvimento Sustentável do Amazonas -  ADS,  nos  termos  do  art.  188,  §2º  do  Regimento  Interno/TCE-AM, que: \n- 9.5.1. Evite  prorrogar  Contratos  de  Pessoal  Temporário  dos quais fiquem  comprovados  excessivos  números  de faltas,  como também a ausência de comprometimento com essa Agência;\n- 9.5.2. Realize um estudo sobre o valor do aluguel do prédio da sede da ADS para fins de comparação com aquele que sendo pago.\n- 9.5.3. Observe,  por  último,  que  a  reincidência,  nas  próximas prestações de contas, das determinações ora veiculadas  acarretará  o  julgamento  da  irregularidade das respectivas Contas, conforme prevê  a alínea 'e' do inciso  III  do  parágrafo  1º  do  art.  188  do  Regimento Interno/TCE-AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Evite  prorrogar  Contratos  de  Pessoal  Temporário  dos quais fiquem  comprovados  excessivos  números  de faltas,  como também a ausência de comprometimento com essa Agência",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A8B",
+          "tipologia_irregularidade": "Ausência de Declaração de bens",
+          "descricao": "Ausência de Declaração de bens",
+          "justificativa_tipologia": "A determinação para evitar prorrogar contratos de pessoal temporário com excessivo número de faltas sugere uma falha na gestão de pessoal, com possível impacto na qualidade dos serviços e na regularidade dos contratos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "Estabelece as normas e procedimentos para o julgamento de processos no Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "Realize um estudo sobre o valor do aluguel do prédio da sede da ADS para fins de comparação com aquele que sendo pago",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "A determinação para realizar um estudo sobre o valor do aluguel da sede da ADS sugere uma preocupação com a economicidade e a eficiência na gestão dos recursos públicos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "Estabelece as normas e procedimentos para o julgamento de processos no Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe,  por  último,  que  a  reincidência,  nas  próximas prestações de contas, das determinações ora veiculadas  acarretará  o  julgamento  da  irregularidade das respectivas Contas, conforme prevê  a alínea 'e' do inciso  III  do  parágrafo  1º  do  art.  188  do  Regimento Interno/TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "Esta determinação indica que a reincidência no descumprimento das determinações pode resultar no julgamento da irregularidade das contas, o que demonstra que a ausência de controles internos eficazes pode levar a problemas de gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "Estabelece as normas e procedimentos para o julgamento de processos no Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

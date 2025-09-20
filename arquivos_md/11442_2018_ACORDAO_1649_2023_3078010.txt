@@ -1,0 +1,279 @@
+{
+  "acordao": "1649/2023",
+  "processo": "11442/2018",
+  "data_sessao": "8 de Agosto de 2023",
+  "orgao": "Escritório de Representação do Governo em São Paulo",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Paulo Sandro da Silva Soares",
+    "Samuel Assayag Hanan",
+    "José Raimundo Sousa de Farias",
+    "Rosiliane Cantisani Bessa"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Escritório de Representação do Governo em São Paulo, referente aos períodos de 01/01/2017 a 10/10/2017 e de 09/11/2017 a 15/12/2017 ,  tendo como responsáveis,  respectivamente,  os Srs.  José  Raimundo  Sousa  de Farias e Paulo Sandro da Silva Soares , Gestores e Ordenadores de Despesas, nos termos do art. 1°, inciso II, 'a', c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas constantes da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Escritório de Representação do Governo em São Paulo, referente aos períodos de 01/01/2017 a 10/10/2017 e de 09/11/2017 a 15/12/2017 ,  tendo como responsáveis,  respectivamente,  os Srs.  José  Raimundo  Sousa  de Farias e Paulo Sandro da Silva Soares , Gestores e Ordenadores de Despesas, nos termos do art. 1°, inciso II, 'a', c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas constantes da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A descrição indica que houve problemas na forma como os dados contábeis foram apresentados, avaliados ou classificados, o que pode comprometer a clareza e a confiabilidade das informações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "1°, inciso II, 'a'",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "22, inciso III, alíneas 'b' e 'c'",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades nas contas, como multa e outras medidas corretivas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas do Escritório de Representação do  Governo  em  São  Paulo,  referente  ao  período  de  11/10/2017  a 10/11/2017,  de  responsabilidade  do Sr.  Samuel  Assayag  Hanan , Gestor e Ordenadores de Despesas, dando plena quitação ao responsável, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº  2.423/96  c/c  o  artigo  11,  inciso  III,  alínea  'a',  item  3  e  art.  189,  I, Resolução nº 04/2002-TCE/AM - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Escritório de Representação do  Governo  em  São  Paulo,  referente  ao  período  de  11/10/2017  a 10/11/2017,  de  responsabilidade  do Sr.  Samuel  Assayag  Hanan , Gestor e Ordenadores de Despesas, dando plena quitação ao responsável, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº  2.423/96  c/c  o  artigo  11,  inciso  III,  alínea  'a',  item  3  e  art.  189,  I, Resolução nº 04/2002-TCE/AM - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ativo imobilizado incorporado com valor divergente da sua base documental",
+          "descricao": "Ativo imobilizado incorporado com valor divergente da sua base documental",
+          "justificativa_tipologia": "A descrição de regularidade em si não se enquadra nas tipologias fornecidas, mas o contexto da prestação de contas e as normas citadas remetem a necessidade de informações corretas sobre os Ativos imobilizados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº  2.423/96",
+              "artigo": "1°, inciso II, 'a'",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Lei nº  2.423/96",
+              "artigo": "22, I",
+              "descricao": "Define os critérios para julgar as contas como regulares."
+            },
+            {
+              "norma": "Lei nº  2.423/96",
+              "artigo": "23",
+              "descricao": "Define as condições para dar plena quitação ao responsável."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM - RITCE",
+              "artigo": "11,  inciso  III,  alínea  'a',  item  3",
+              "descricao": "Estabelece procedimentos para o julgamento de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM - RITCE",
+              "artigo": "189,  I",
+              "descricao": "Regulamenta a quitação dos responsáveis em caso de contas regulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. José Raimundo Sousa de Farias no valor de R$ 3.108,57 (três mil, cento e oito reais e cinquenta e sete centavos) , nos termos do art. 304, I, da Resolução nº 04/2002, no que diz respeito  a  gastos  não  realizados  em  favor  da  Administração Pública   diante  de  pagamentos  com  atraso,  que  geraram  multas  ao , Erário,  demonstrando,  portanto,  que  não  houve  o  bom  e  regular  uso dos recursos públicos, conforme item 8, da fundamentação do Voto, e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor do  Alcance/Glosa,   na  esfera  Estadual para o órgão Escritório  de Representação  do  Governo  em  São  Paulo,  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações  - Principal  -  Alcance  aplicado  pelo  TCE/AM',  órgão Escritório de Representação do Governo em São Paulo com a devida comprovação  perante  a  Corte  de  Contas  e  a  devida  atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, §  3º,  da  Res.  nº  04/02  -  RITCE/AM).  Dentro  do  prazo  anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a Corte de Contas (art. 72, inciso III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM),  condição  imprescindível para  emissão  do  Termo  de  Quitação.  O  não  adimplemento  dessa obrigação  pecuniária  no  prazo  legal  importará  na  continuidade  da cobrança  administrativa  ou  judicial  do  título  executivo  (art.  73  da  Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento  do  título  executivo  para  protesto em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. José Raimundo Sousa de Farias no valor de R$ 3.108,57 (três mil, cento e oito reais e cinquenta e sete centavos) , nos termos do art. 304, I, da Resolução nº 04/2002, no que diz respeito  a  gastos  não  realizados  em  favor  da  Administração Pública   diante  de  pagamentos  com  atraso,  que  geraram  multas  ao , Erário,  demonstrando,  portanto,  que  não  houve  o  bom  e  regular  uso dos recursos públicos, conforme item 8, da fundamentação do Voto, e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor do  Alcance/Glosa,   na  esfera  Estadual para o órgão Escritório  de Representação  do  Governo  em  São  Paulo,  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações  - Principal  -  Alcance  aplicado  pelo  TCE/AM',  órgão Escritório de Representação do Governo em São Paulo com a devida comprovação  perante  a  Corte  de  Contas  e  a  devida  atualização monetária",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A descrição indica que a não realização dos gastos em favor da Administração Pública e o pagamento de multas ao Erário demonstram que não houve o bom e regular uso dos recursos públicos, indicando possível burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "304, I",
+              "descricao": "Define os termos para considerar alcance em casos de irregularidades."
+            },
+             {
+              "norma": "Lei nº 2423/96 - LOTCE/AM",
+              "artigo": "72, III, 'a'",
+              "descricao": "Define que o não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo"
+            },
+            {
+              "norma": "Res. nº 04/02 - RITCE/AM",
+              "artigo": "308, §  3º",
+              "descricao": "Define a necessidade de atualização monetária dos valores a serem recolhidos."
+            }
+          ]
+        },
+        {
+          "trecho": "Dentro  do  prazo  anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a Corte de Contas (art. 72, inciso III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição imprescindível para  emissão  do  Termo  de  Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "O trecho estabelece uma condição para a emissão do Termo de Quitação, que é o encaminhamento do comprovante de pagamento autenticado pelo Banco à Corte de Contas. Embora não esteja diretamente ligada à execução orçamentária, a ausência desse procedimento pode indicar problemas no controle e acompanhamento dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  Orgânica  do  TCE/AM",
+              "artigo": "72, inciso III,  alínea  \"a\"",
+              "descricao": "Obrigação de encaminhar comprovante de pagamento para emissão do Termo de Quitação"
+            }
+          ]
+        },
+        {
+          "trecho": "O não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na  continuidade  da cobrança  administrativa  ou  judicial  do  título  executivo (art.  73  da  Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento  do  título  executivo  para  protesto em  nome  do responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "O trecho discorre sobre as consequências da inadimplência da obrigação pecuniária e as medidas que podem ser adotadas para a cobrança do título executivo. Embora não esteja diretamente ligada à execução orçamentária, a análise da capacidade de execução orçamentária pode ser relevante para evitar situações de inadimplência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Continuidade da cobrança administrativa ou judicial do título executivo"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "subseções  III  e  IV  da  Seção  III,  do  Capítulo  X",
+              "descricao": "Adoção das medidas administrativas para cobrança do título executivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. José Raimundo Sousa de Farias no valor de R$ 22.757,31 (vinte e dois mil, setecentos e cinquenta e sete reais e trinta  e  um  centavos) ,  nos  casos  praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, conforme os termos do art. 54, VI,  da  Lei  n°  2.423/96, alterada  pela  Lei  Complementar n° 204/2020-TCE/AM  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM, alterada  pela  Resolução  n.º  04/2018-TCE/AM,  pelas  impropriedades constantes nos itens 6, 7, 8, 9 e 10, da fundamentação do Voto, e fixar prazo de 30 dias para que o responsável recolha o valor da multa,  na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título  executivo  para  protesto em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. José Raimundo Sousa de Farias no valor de R$ 22.757,31 (vinte e dois mil, setecentos e cinquenta e sete reais e trinta  e  um  centavos) ,  nos  casos  praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, conforme os termos do art. 54, VI,  da  Lei  n°  2.423/96, alterada  pela  Lei  Complementar n° 204/2020-TCE/AM c/c art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM, alterada  pela Resolução n.º 04/2018-TCE/AM, pelas impropriedades constantes nos itens 6, 7, 8, 9 e 10, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ativo imobilizado incorporado com valor divergente da sua base documental",
+          "descricao": "Ativo imobilizado incorporado com valor divergente da sua base documental",
+          "justificativa_tipologia": "A aplicação de multa indica que as irregularidades praticadas envolvem graves infrações a normas legais ou regulamentares de natureza contábil, financeira, orçamentária, operacional e patrimonial. A tipologia foi escolhida baseada no contexto mais abrangente da contabilidade dos ativos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, VI",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Alteração da Lei n° 2.423/96, referente às sanções aplicáveis."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Regulamenta a aplicação de multas por infrações."
+            },
+            {
+              "norma": "Resolução n.º 04/2018-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Alteração da Resolução n° 04/2002-TCE/AM, referente à aplicação de multas."
+            }
+          ]
+        },
+        {
+          "trecho": "fixar prazo de 30 dias para que o responsável recolha o valor da multa,  na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'. Dentro do prazo  anteriormente  conferido,  é  obrigatório o encaminhamento  do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição imprescindível para emissão do Termo de Quitação",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho trata do procedimento de recolhimento da multa e do envio do comprovante de pagamento. Não há indicação de que a ausência de normatização das rotinas internas seja a causa do problema, apenas a imposição de um prazo e a descrição do procedimento a ser seguido.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72,  inciso  III,  alínea  \"a\"",
+              "descricao": "Obrigação de encaminhar comprovante de pagamento para emissão do Termo de Quitação"
+            }
+          ]
+        },
+        {
+          "trecho": "O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título  executivo  para  protesto em  nome  do responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho discorre sobre as consequências da inadimplência da obrigação pecuniária e as medidas que podem ser adotadas para a cobrança do título executivo. Embora não esteja diretamente ligada à ausência de normatização das rotinas internas, a existência de rotinas claras para a cobrança de multas poderia minimizar a inadimplência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Continuidade da cobrança administrativa ou judicial do título executivo"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "subseções  III  e  IV  da  Seção  III,  do  Capítulo  X",
+              "descricao": "Adoção das medidas administrativas para cobrança do título executivo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Paulo Sandro da Silva Soares no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) , nos casos praticados com grave infração à norma legal  ou  regulamentar  de  natureza  contábil, financeira, orçamentária, operacional e patrimonial, conforme os termos do art. 54, VI, da Lei n° 2.423/96, alterada pela Lei Complementar n° 204/2020-TCE/AM c/c art. 308,  inciso VI, da  Resolução  n°  04/2002-TCE/AM,  alterada  pela Resolução n.º 04/2018-TCE/AM, pelas impropriedades constantes nos itens 6, 7 e 9, da fundamentação do Voto, e fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando o DERED autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título  executivo  para  protesto em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Paulo Sandro da Silva Soares no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) ,  nos  casos  praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, conforme os termos do art. 54, VI, da Lei n° 2.423/96, alterada pela Lei Complementar n° 204/2020-TCE/AM c/c art. 308,  inciso VI, da  Resolução  n°  04/2002-TCE/AM,  alterada  pela Resolução n.º 04/2018-TCE/AM, pelas impropriedades constantes nos itens 6, 7 e 9, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ativo imobilizado incorporado com valor divergente da sua base documental",
+          "descricao": "Ativo imobilizado incorporado com valor divergente da sua base documental",
+          "justificativa_tipologia": "A aplicação de multa indica que as irregularidades praticadas envolvem graves infrações a normas legais ou regulamentares de natureza contábil, financeira, orçamentária, operacional e patrimonial. A tipologia foi escolhida baseada no contexto mais abrangente da contabilidade dos ativos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, VI",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Alteração da Lei n° 2.423/96, referente às sanções aplicáveis."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Regulamenta a aplicação de multas por infrações."
+            },
+            {
+              "norma": "Resolução n.º 04/2018-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Alteração da Resolução n° 04/2002-TCE/AM, referente à aplicação de multas."
+            }
+          ]
+        },
+        {
+          "trecho": "fixar prazo de 30 dias para que o responsável recolha o valor da multa,  na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'. Dentro do prazo  anteriormente  conferido,  é  obrigatório o encaminhamento  do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição imprescindível para emissão do Termo de Quitação",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho trata do procedimento de recolhimento da multa e

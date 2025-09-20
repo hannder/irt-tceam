@@ -1,0 +1,70 @@
+{
+  "acordao": "38/2023",
+  "processo": "12686/2022",
+  "data_sessao": "03 de abril de 2023",
+  "orgao": "Prefeitura Municipal de Juruá",
+  "municipio": "Juruá",
+  "exercicio": "2021",
+  "responsavel": [
+    "José Maria Rodrigues da Rocha Júnior"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  SEPLENO,  o  encaminhamento,  após  a  publicação,  do Parecer  Prévio,  acompanhado  deste  Voto  e  de  cópia  integral  destes autos à respectiva Câmara Municipal, para que, nos termos do art. 127, §§  5º,  6º  e  7º  da  Constituição  do  Estado  do  Amazonas,  proceda  o julgamento das contas da Prefeitura Municipal no prazo de 60 (sessenta)  dias após  a  respectiva  publicação  no  Diário  Oficial  do Estado ou equivalente,  ou,  estando  a  Câmara Municipal  em  recesso, até o sexagésimo dia do início da sessão legislativa seguinte; Decorrido esse  prazo,  sem  deliberação  pela  Câmara  Municipal,  que  as  contas juntamente com o parecer do Tribunal sejam incluídos na ordem do dia, sobrestando-se  a  deliberação  quanto  aos  demais  assuntos,  para  que ultime a votação; O parecer prévio, somente deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  SEPLENO,  o  encaminhamento,  após  a  publicação,  do Parecer  Prévio,  acompanhado  deste  Voto  e  de  cópia  integral  destes autos à respectiva Câmara Municipal, para que, nos termos do art. 127, §§  5º,  6º  e  7º  da  Constituição  do  Estado  do  Amazonas,  proceda  o julgamento das contas da Prefeitura Municipal no prazo de 60 (sessenta)  dias após  a  respectiva  publicação  no  Diário  Oficial  do Estado ou equivalente,  ou,  estando  a  Câmara Municipal  em  recesso, até o sexagésimo dia do início da sessão legislativa seguinte; Decorrido esse  prazo,  sem  deliberação  pela  Câmara  Municipal,  que  as  contas juntamente com o parecer do Tribunal sejam incluídos na ordem do dia, sobrestando-se  a  deliberação  quanto  aos  demais  assuntos,  para  que ultime a votação; O parecer prévio, somente deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Apesar de não explicitar o conteúdo de uma irregularidade, o trecho demonstra a necessidade de cumprimento de prazos e procedimentos legais para o julgamento das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "127, §§ 5º, 6º e 7º",
+              "descricao": "Determina os procedimentos e prazos para o julgamento das contas da Prefeitura Municipal pela Câmara Municipal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria Geral de Controle Externo-SECEX que extraia cópia dos autos e promova  a  autuação  do  processo  autônomo Fiscalização  dos  Atos  de  Gestão,  para  apreciação  por  este  Tribunal Pleno",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria Geral de Controle Externo-SECEX que extraia cópia dos autos e promova  a  autuação  do  processo  autônomo Fiscalização  dos  Atos  de  Gestão,  para  apreciação  por  este  Tribunal Pleno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Determina ação para apuração de responsabilidades, o que denota preocupação com a efetividade do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. José Maria Rodrigues da Rocha Júnior ,  Prefeito Municipal de Juruá, e demais interessados, quanto à referida decisão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. José Maria Rodrigues da Rocha Júnior ,  Prefeito Municipal de Juruá, e demais interessados, quanto à referida decisão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A5C",
+          "tipologia_irregularidade": "Ausência do botão Radar no site institucional",
+          "descricao": "Não consta no website institucional o banner com link de acesso ao Portal Radar da Transparência Pública que direcione o usuário a página vinculada a ATRICON",
+          "justificativa_tipologia": "Apesar de ser apenas uma notificação formal, o ato de dar ciência garante a transparência do processo e o direito à informação das partes interessadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

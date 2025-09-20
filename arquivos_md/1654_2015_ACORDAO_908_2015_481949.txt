@@ -1,0 +1,68 @@
+{
+  "acordao": "908/2015",
+  "processo": "1654/2015",
+  "data_sessao": "28 de outubro de 2015",
+  "orgao": "Serviço de Pronto Atendimento Coroado - SPA Coroado",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Maria da Conceição Carneiro Barbosa"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular, com ressalvas, com fulcro no art. 1º, II, art. 22, II, da Lei n.  2.423/1996; art. 18,  II, da LC nº. 6/1991; c/c art. 188, §1º,  II,  da Res. nº. 4/2002, a Prestação de Contas do Serviço de Pronto Atendimento Coroado - SPA Coroado (U.G: 17123),  de  responsabilidade  da  Senhora Maria  da  Conceição  Carneiro  Barbosa , Diretora Geral do SPA - Coroado (U.G: 17123) e Ordenadora de Despesas, à época",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "dar  quitação à  Senhora Maria  da  Conceição  Carneiro  Barbosa , Diretora Geral do SPA - Coroado (U.G: 17123) e Ordenadora de Despesas, à época;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Remeta à atual Administração do Serviço de Pronto Atendimento Coroado  -  SPA  Coroado  (U.G:  17123),  cópias  autênticas  das  peças  elaboradas  pela Comissão de Inspeção e pelo Representante  Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeta à atual Administração do Serviço de Pronto Atendimento Coroado  -  SPA  Coroado  (U.G:  17123),  cópias  autênticas  das  peças  elaboradas  pela Comissão de Inspeção e pelo Representante  Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho visa evitar impropriedades nas futuras prestações de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos arts. 159 e 160,  da  Resolução  nº.  04/2002-RITCE,  adote  as  providências  do  artigo  162,  §1º,  do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Após a ocorrência da coisa julgada, nos termos dos arts. 159 e 160,  da  Resolução  nº.  04/2002-RITCE,  adote  as  providências  do  artigo  162,  §1º,  do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A medida visa garantir a regularidade das futuras prestações de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "159 e 160",
+              "descricao": "Refere-se aos termos para ocorrência da coisa julgada."
+            },
+            {
+              "norma": "RITCE",
+              "artigo": "162, §1º",
+              "descricao": "Estabelece providências após a ocorrência da coisa julgada."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

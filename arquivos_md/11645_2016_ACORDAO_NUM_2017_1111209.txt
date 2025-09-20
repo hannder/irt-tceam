@@ -1,0 +1,58 @@
+{
+  "acordao": "38/2017",
+  "processo": "11645/2016",
+  "data_sessao": "9 de Fevereiro de 2017",
+  "orgao": "Fundo Municipal de Preservação  do  Patrimônio  Histórico e Cultural -FUNPATRI",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Bernardo Soares Monteiro de Paula"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  Regular a Prestação  de  Contas  do  Fundo  Municipal  de Proteção ao Patrimônio Histórico e Cultural -FUNPATRI,  sob responsabilidade  do  Sr.  Bernardo  Soares  Monteiro  de  Paula,  Diretor Presidente  da  Fundação  Municipal  de  Cultura,  Turismo  e  Eventos, exercício 2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular a Prestação  de  Contas  do  Fundo  Municipal  de Proteção ao Patrimônio Histórico e Cultural -FUNPATRI,  sob responsabilidade  do  Sr.  Bernardo  Soares  Monteiro  de  Paula,  Diretor Presidente  da  Fundação  Municipal  de  Cultura,  Turismo  e  Eventos, exercício 2015",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação se refere ao julgamento das contas como regulares, sem apontar falhas que comprometam a análise contábil.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao  Sr.  Bernardo  Soares  Monteiro  de  Paula,  Diretor Presidente  da  Fundação  Municipal  de  Cultura,  Turismo  e  Eventos, exercício  2015,  nos  termos  do  art.  22,  I  c/c  o  art.  23  ambos  da  Lei 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao  Sr.  Bernardo  Soares  Monteiro  de  Paula,  Diretor Presidente  da  Fundação  Municipal  de  Cultura,  Turismo  e  Eventos, exercício  2015,  nos  termos  do  art.  22,  I  c/c  o  art.  23  ambos  da  Lei 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação se refere a quitação das contas, sem apontar falhas que comprometam a análise contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22, I",
+              "descricao": "Quitação das contas"
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "23",
+              "descricao": "Quitação das contas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

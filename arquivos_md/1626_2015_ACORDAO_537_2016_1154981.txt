@@ -1,0 +1,86 @@
+{
+  "acordao": "537/2016",
+  "processo": "1626/2015",
+  "data_sessao": "22 de Junho de 2016",
+  "orgao": "Fundo Estadual Antidrogas-FEAD",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Louismar de Matos Bonates"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR COM RESSALVAS a Prestação de Contas Anual, do Fundo Estadual Antidrogas-FEAD, exercício de 2014, de responsabilidade do Sr. Louismar de Matos Bonates, com fulcro no art. 22, II, c/c art. 24 da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Que cumpra o disposto no art. 9º, da Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Que cumpra o disposto no art. 9º, da Lei Complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação de cumprir o art. 9 da LRF está relacionada à necessidade de promover a cobrança da dívida ativa, que envolve a adoção de providências para a arrecadação de receitas, seguindo os princípios da gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "9º",
+              "descricao": "Dispõe sobre a necessidade de promover a cobrança da dívida ativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Adote providências para a regularidade das anulações e/ou deduções da dotação orçamentária a serem computadas nos Demonstrativos Contábeis do Ente",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote providências para a regularidade das anulações e/ou deduções da dotação orçamentária a serem computadas nos Demonstrativos Contábeis do Ente",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A21A",
+          "tipologia_irregularidade": "Empenho sem dotação orçamentária",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A determinação de adotar providências para a regularidade das anulações e deduções da dotação orçamentária está relacionada à correta execução financeira e orçamentária, prevenindo despesas sem o devido empenho e garantindo a transparência e legalidade dos processos contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Adote providencias para garantir a regularidade da dos Demonstrativos relativos à arrecadação suficiente ou, quando for o caso, frustração de receitas, ademais, que observe as anulações de despesa e/ou limitações de empenhos, visando garantir a regularidade da movimentação financeira.",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote providencias para garantir a regularidade da dos Demonstrativos relativos à arrecadação suficiente ou, quando for o caso, frustração de receitas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A15B",
+          "tipologia_irregularidade": "Cumprimento da Meta bimestral de arrecadação",
+          "descricao": "Ausência da comprovação de que o valor da contratação por dispensa foi mais vantajoso.",
+          "justificativa_tipologia": "Esta determinação visa garantir a regularidade da arrecadação, que está diretamente ligada ao cumprimento das metas fiscais e à saúde financeira da entidade, enquadrando-se no tema 'Gestão Fiscal'.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "ademais, que observe as anulações de despesa e/ou limitações de empenhos, visando garantir a regularidade da movimentação financeira.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços",
+          "justificativa_tipologia": "Observar as anulações de despesa e/ou limitações de empenhos garante a regularidade da movimentação financeira, evitando gastos em desacordo com o planejamento e a legislação vigente, o que se enquadra no tema 'Execução Financeira e Orçamentária'.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

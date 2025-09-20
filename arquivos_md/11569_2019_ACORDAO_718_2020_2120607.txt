@@ -1,0 +1,43 @@
+{
+  "acordao": "718/2020",
+  "processo": "11569/2019",
+  "data_sessao": "15 de Julho de 2020",
+  "orgao": "Centro de Educação Tecnológica do Amazonas - CETAM",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Jose Augusto de Melo Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas Anual do Centro de  Educação  Tecnológica  do  Amazonas  -  CETAM, referente  ao exercício  de  2018,  de  responsabilidade  do Sr.  Jose  Augusto  de  Melo Neto,  na  qualidade  de  Diretor-Presidente,  à  época, com fulcro  no  artigo 22, inciso II e art. 24 ambos da Lei estadual n.º 2.423/96 - LOTCE/AM, c/c o art. 188, §1.º, inciso II da Resolução n.º 04/2002 - RITCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Jose Augusto  de Melo Neto no valor de R$4.000,00quatro mil reais (com  inserção  da  correção  monetária referente ao valor mínimo atualizado em 2020), referente à irregularidade não sanada no item 3.1 do Relatório Conclusivo n.º 43/2019 - CI-DICAI, com  fundamento  nos  artigos  54,  inciso  VII,  da  Lei  n.º  2.423/96  LOTCE/AM c/c art. 308, inciso VII, da Resolução n.º 04/2002-RITCE/AM, que  deverá  ser  recolhida no  prazo  de  30  dias para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Obrigações",
+      "descricao": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento  dessa  obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  direção  do  Centro  de  Educação  Tecnológica  do Amazonas - Cetam que atente para a escorreita fiscalização dos contratos celebrados  pela  autarquia,  de  forma  a  garantir  a  efetividade  daqueles instrumentos de avença.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  direção  do  Centro  de  Educação  Tecnológica  do Amazonas - Cetam observar hígidas justificativas e critérios para poderem utilizar  o  instituto  da  Dispensa  de  Licitação  art.2°,  24, II,  25  e  26  da  Lei federal nº 8.666/93.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Jose Augusto de Melo Neto e seus patronos, com cópia do Relatório/Voto e Acórdão para que tome ciência da decisão.",
+      "trechos_identificados": []
+    }
+  ]
+}

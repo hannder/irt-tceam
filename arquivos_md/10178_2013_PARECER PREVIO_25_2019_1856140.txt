@@ -1,0 +1,54 @@
+{
+  "acordao": "25/2019",
+  "processo": "10178/2013",
+  "data_sessao": "03 de Julho de 2019",
+  "orgao": "Prefeitura Municipal de Maués",
+  "municipio": "Maués",
+  "exercicio": "2012",
+  "responsavel": [
+    "Odivaldo Miguel de Oliveira Paiva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar  irregular a Prestação  de  Contas  Anual do Sr.  Odivaldo Miguel de Oliveira Paiva , relativa ao exercício de 2012, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, III, 19, II e 22, III, 'b' e 'c' da Lei Orgânica TCE/AM c/c art. 11, III, 'a', '2' e art. 188, § 1°, III, 'b' e 'c' da Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Odivaldo Miguel de Oliveira Paiva , no valor de R$ 10.240,80 (dez mil, duzentos e quarenta reais e oitenta centavos), que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  cofre  estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo -FAECE, pelo atraso no encaminhamento do RREO dos seis bimestres de 2012, nos termos do art.  165,  §3º,  da  Constituição  Federal  de  1988  c/c  art.  308,  I,  'b',  do Regimento Interno do TCE/AM, com nova redação dada pela Resolução  nº  04/2018. Dentro  do  prazo  anteriormente  conferido,  é obrigatório o encaminhamento do comprovante de pagamento ( autenticado  pelo  Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Odivaldo Miguel de Oliveira Paiva , no valor de R$  6.827,19 (seis  mil,  oitocentos  e  vinte  e  sete  reais  e  dezenove centavos), que deverá ser recolhida no prazo de 30 dias para o cofre estadual através de DAR  avulso  extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no art. 54,  III,  da  Lei  Orgânica  do  TCE/AM  c/c  o  art.  308,  V,  da  Resolução TCE/AM nº 04/02, com nova redação dada pela Resolução nº 04/2018, por  atos  de  gestão  ilegítimos  ou  antieconômicos  que  resultaram  em injustificados  danos  ao  erário  citados  no  Relatório/Voto. Dentro  do prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante de pagamento ( autenticado pelo Banco )  a  esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Odivaldo Miguel de Oliveira Paiva , no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no art. 54,  II,  da  Lei  Orgânica  do  TCE/AM  c/c  o  art.  308,  VI,  da  Resolução TCE/AM nº 04/02, com nova redação dada pela Resolução nº 04/2018, por atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial citados  no  Relatório/Voto. Dentro  do  prazo  anteriormente  conferido,  é obrigatório o encaminhamento do comprovante de pagamento ( autenticado  pelo  Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar em Alcance o Sr. Odivaldo Miguel de Oliveira Paiva , no valor de R$ 6.376.282,61 (seis milhões, trezentos e setenta e seis mil, duzentos e oitenta e dois reais e sessenta e um centavos), que devem ser  recolhidos  na  esfera  municipal  para  a  Prefeitura  Municipal  de Maués, em função das glosas especificadas na Informação nº 756/2018-DICAMI,  às  fls.  3185/3191,  nos  termos  do  art.  304,  do Regimento Interno do TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar em Alcance o Sr. Odivaldo Miguel de Oliveira Paiva ,  no valor de R$ 11.196.857,16 (onze milhões, cento e noventa e seis mil, oitocentos e cinquenta e sete reais e dezesseis centavos), que devem ser  recolhidos  na  esfera  municipal  para  a  Prefeitura  Municipal  de Maués, face às restrições do Relatório Conclusivo nº 244/2018-DICOP, às  fls.  3110/3184, nos  termos  do  art.  304,  do  Regimento  Interno  do TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que proceda à instauração  de  cobrança  executiva,  no  caso  de  não-recolhimento  dos valores acima imputados, nos moldes do art. 173, do Regimento Interno do TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Maués: Que  observe  as  exigências  do  art.  4º,  da  Resolução  TCE  nº 10/2012 c/c o §1º, do art. 15, da Lei Complementar nº 06/91, com nova redação dada pela Lei Complementar nº 24/2000, no sentido de que não ocorram mais atrasos no envio dos dados informatizados e os demonstrativos contábeis a este Tribunal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Maués: Que cumpra os ditames da LC nº 131/2009 e Lei nº 12527/2011 e  provi

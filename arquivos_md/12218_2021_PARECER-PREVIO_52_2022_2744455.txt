@@ -1,0 +1,214 @@
+{
+  "acordao": "52/2022",
+  "processo": "12218/2021",
+  "data_sessao": "02 de Agosto de 2022",
+  "orgao": "Prefeitura Municipal de Coari",
+  "municipio": "Coari",
+  "exercicio": "2020",
+  "responsavel": [
+    "Jeany de Paula Amaral Pinheiro",
+    "Adail Jose Figueiredo Pinheiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "À  ORIGEM que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas anuais:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de procedimento de controle interno relativo à adoção de livros, fichas ou listagens computadorizadas para o registro individualizado das obras e/ou serviços realizados, contendo as informações relacionadas em conformidade com o modelo proposto no Anexo I da Resolução nº 27/2012-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de procedimento de controle interno relativo à adoção de livros, fichas ou listagens computadorizadas para o registro individualizado das obras e/ou serviços realizados, contendo as informações relacionadas em conformidade com o modelo proposto no Anexo I da Resolução nº 27/2012-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve a ausência de um procedimento de controle interno, o que indica uma deficiência na implementação e estruturação do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 27/2012-TCE/AM",
+              "artigo": "Anexo I",
+              "descricao": "Estabelece modelo para registro individualizado de obras e serviços realizados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência de procedimento de controle interno relativo ao arquivamento  em  separado  e  de  forma  individualizada  de  \"Pasta  de Obra\" para cada obra e serviço de engenharia;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de procedimento de controle interno relativo ao arquivamento  em  separado  e  de  forma  individualizada  de  \"Pasta  de Obra\" para cada obra e serviço de engenharia",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve a ausência de um procedimento de controle interno, o que indica uma deficiência na implementação e estruturação do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Descumprimento dos prazos de envio e não envio do RREO ao TCE. Verificou-se  que  ocorreu  atraso  e  o  não  envio  das  remessas  ao sistema e-Contas (GEFIS), em desobediência a Resolução n° 15/2013, alterada pela Resolução n° 24/2013 inciso III do art. 4º (45 dias após o período) referente aos 1º, 2°, 3°, 4° 5° e 6º bimestres de 2020 do RREO;",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento dos prazos de envio e não envio do RREO ao TCE. Verificou-se  que  ocorreu  atraso  e  o  não  envio  das  remessas  ao sistema e-Contas (GEFIS), em desobediência a Resolução n° 15/2013, alterada pela Resolução n° 24/2013 inciso III do art. 4º (45 dias após o período) referente aos 1º, 2°, 3°, 4° 5° e 6º bimestres de 2020 do RREO",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas.",
+          "justificativa_tipologia": "O trecho descreve o não envio de dados obrigatórios dentro dos prazos estabelecidos, indicando uma falha no cumprimento das obrigações de envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 15/2013",
+              "artigo": "4º",
+              "descricao": "Dispõe sobre os prazos de envio do RREO ao TCE"
+            },
+            {
+              "norma": "Resolução n° 24/2013",
+              "artigo": "4º",
+              "descricao": "Altera a Resolução n° 15/2013 referente aos prazos de envio do RREO ao TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Descumprimento dos prazos de publicação do RREO. Verificou-se o descumprimento do prazo de publicação do RREO, em desobediência ao art. 165, § 3º, CF/88 c/c art. 52, da LC 101/00 (prazo legal  30  dias  após  o  período), referente  ao  6°  bimestre  de  2020  do RREO;",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento dos prazos de publicação do RREO. Verificou-se o descumprimento do prazo de publicação do RREO, em desobediência ao art. 165, § 3º, CF/88 c/c art. 52, da LC 101/00 (prazo legal  30  dias  após  o  período), referente  ao  6°  bimestre  de  2020  do RREO",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho descreve o descumprimento dos prazos de publicação do RREO, o que caracteriza uma falta de transparência na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "165, § 3º",
+              "descricao": "Dispõe sobre a publicação do RREO"
+            },
+            {
+              "norma": "LC 101/00",
+              "artigo": "52",
+              "descricao": "Dispõe sobre o prazo de publicação do RREO (30 dias após o período)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Descumprimento  dos  prazos  de  envio  e  não  envio  do  RGF  ao TCE. Verificou-se  que  ocorreu  o  atraso  e  não  envio  das  remessas  do RGF ao sistema E-Contas (GEFIS) com fulcro no art. 32, II, 'h', da Lei Estadual 2423/96 c/c Resoluções TCE 15/13 e 24/13 no Art. 18º (prazo legal 45 dias após o período), referente aos 3 quadrimestres do RGF de 2020;",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento  dos  prazos  de  envio  e  não  envio  do  RGF  ao TCE. Verificou-se  que  ocorreu  o  atraso  e  não  envio  das  remessas  do RGF ao sistema E-Contas (GEFIS) com fulcro no art. 32, II, 'h', da Lei Estadual 2423/96 c/c Resoluções TCE 15/13 e 24/13 no Art. 18º (prazo legal 45 dias após o período), referente aos 3 quadrimestres do RGF de 2020",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "O trecho descreve o atraso e não envio das remessas do RGF ao sistema e-Contas (GEFIS), indicando uma falha no cumprimento das obrigações de envio de informações e falta de transparência na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual 2423/96",
+              "artigo": "32, II, 'h'",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resoluções TCE 15/13 e 24/13",
+              "artigo": "18º",
+              "descricao": "Estabelece prazos para envio do RGF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Descumprimento dos prazos de publicação do RGF. Verificou-se o  descumprimento do prazo de publicação do RGF, em desobediência ao art.  165,  §  3º,  CF/88  c/c  art.  52,  da  LC 101/00 (prazo  legal  30  dias após o período), referente ao 3° quadrimestre de 2020 do RGF;",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento dos prazos de publicação do RGF. Verificou-se o  descumprimento do prazo de publicação do RGF, em desobediência ao art.  165,  §  3º,  CF/88  c/c  art.  52,  da  LC 101/00 (prazo  legal  30  dias após o período), referente ao 3° quadrimestre de 2020 do RGF",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A80C",
+          "tipologia_irregularidade": "Publicação do RGF não realizada",
+          "descricao": "Ausência de publicação.",
+          "justificativa_tipologia": "O trecho descreve o descumprimento dos prazos de publicação do RGF, o que caracteriza uma falta de transparência na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "165, § 3º",
+              "descricao": "Dispõe sobre a publicação do RGF"
+            },
+            {
+              "norma": "LC 101/00",
+              "artigo": "52",
+              "descricao": "Dispõe sobre o prazo de publicação do RGF (30 dias após o período)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "O Portal Eletrônico do órgão não atende as exigências concernentes  à  transparência  e  de  acesso  à  informação. Verificou-se que,  no  portal  de  transparência  do  município,  não  há  informações atualizadas do órgão, exigidas em  decorrência dos Princípios da Transparência e Publicidade dos atos administrativos, em conformidade com o art. 48, II, da LC 101/2000 e Art. 8º, §2º, da Lei 12.527/2011, uma vez que os campos destinados à inserção de dados relativos à Receita, Despesa,  Procedimentos  Licitatórios,  Contratos  Convênios  e  demais atos administrativos não se encontram disponíveis para consulta.",
+      "trechos_identificados": [
+        {
+          "trecho": "O Portal Eletrônico do órgão não atende as exigências concernentes  à  transparência  e  de  acesso  à  informação. Verificou-se que,  no  portal  de  transparência  do  município,  não  há  informações atualizadas do órgão, exigidas em  decorrência dos Princípios da Transparência e Publicidade dos atos administrativos, em conformidade com o art. 48, II, da LC 101/2000 e Art. 8º, §2º, da Lei 12.527/2011, uma vez que os campos destinados à inserção de dados relativos à Receita, Despesa,  Procedimentos  Licitatórios,  Contratos  Convênios  e  demais atos administrativos não se encontram disponíveis para consulta.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho descreve a ausência de informações atualizadas no portal de transparência do município, indicando uma falta de transparência e publicidade dos atos administrativos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC 101/2000",
+              "artigo": "48, II",
+              "descricao": "Dispõe sobre a transparência na gestão fiscal"
+            },
+            {
+              "norma": "Lei 12.527/2011",
+              "artigo": "8º, §2º",
+              "descricao": "Dispõe sobre o acesso à informação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o encaminhamento do Parecer Prévio, publicado e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Coari, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX  que  tome  as medidas cabíveis para a autuação de processos apartados, que deverão ser  devidamente  instruídos,  respeitando  a  competência  de  cada  órgão técnico, e as documentações referentes às impropriedades atinentes às Contas de Gestão mencionadas nos itens de 01 a 88 da DICOP e de 89 a 107 da DICAMI , listados na fundamentação deste VOTO.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que dê ciência do desfecho destes autos aos interessados, bem como à Câmara Municipal de Coari e à Prefeitura Municipal.",
+      "trechos_identificados": []
+    }
+  ]
+}

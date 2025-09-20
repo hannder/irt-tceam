@@ -1,0 +1,56 @@
+{
+  "acordao": "1018/2019",
+  "processo": "11795/2016",
+  "data_sessao": "08 de Outubro de 2019",
+  "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO AMAZONAS",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Carlos Alberto Gonçalves",
+    "Aldamir Gadelha",
+    "Andre Luiz Souza Pará de Macedo",
+    "Alexandre Guimaraes de Paiva"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Conhecer os  presentes  Embargos  de  Declaração  opostos  pelos Srs. Carlos  Alberto  Gonçalves,  Aldamir  Gadelha,  André  Luiz  Souza Pará  de  Macedo  e  Alexandre  Guimarães  de  Paiva , por  meio  de advogado devidamente constituído, em face do Acórdão nº 700/2019 TCE - TRIBUNAL PLENO (fls. 2900/2903), por preencher o requisito do art. 148, §1º da Resolução nº 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer os  presentes  Embargos  de  Declaração  opostos  pelos Srs. Carlos  Alberto  Gonçalves,  Aldamir  Gadelha,  André  Luiz  Souza Pará  de  Macedo  e  Alexandre  Guimarães  de  Paiva , por  meio  de advogado devidamente constituído, em face do Acórdão nº 700/2019 TCE - TRIBUNAL PLENO (fls. 2900/2903), por preencher o requisito do art. 148, §1º da Resolução nº 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Prestação de Contas intempestiva",
+          "descricao": "Prestação de contas enviada fora do prazo legal.",
+          "justificativa_tipologia": "O trecho descreve o conhecimento de embargos de declaração, um procedimento processual, e cita o artigo da resolução que rege esse procedimento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 - TCE/AM",
+              "artigo": "148, §1º",
+              "descricao": "Requisito para conhecer os Embargos de Declaração"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Negar  Provimento aos  presentes  Embargos  de  Declaração  opostos nesta  Prestação  de  Contas  pelos Srs.  Carlos  Alberto  Gonçalves, Aldamir Gadelha, André Luiz Souza Pará de Macedo e Alexandre Guimarães de Paiva , por meio de advogado devidamente constituído, mantendo-se integralmente o Acórdão nº 700/2019 -TCE -TRIBUNAL PLENO (fls. 2900/2903).",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar  Provimento aos  presentes  Embargos  de  Declaração  opostos nesta  Prestação  de  Contas  pelos Srs.  Carlos  Alberto  Gonçalves, Aldamir Gadelha, André Luiz Souza Pará de Macedo e Alexandre Guimarães de Paiva , por meio de advogado devidamente constituído, mantendo-se integralmente o Acórdão nº 700/2019 -TCE -TRIBUNAL PLENO (fls. 2900/2903).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Prestação de Contas intempestiva",
+          "descricao": "Prestação de contas enviada fora do prazo legal.",
+          "justificativa_tipologia": "O trecho descreve o julgamento de embargos de declaração, negando provimento e mantendo o acórdão anterior.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

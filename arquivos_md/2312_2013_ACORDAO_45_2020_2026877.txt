@@ -1,0 +1,142 @@
+{
+  "acordao": "45/2020",
+  "processo": "11806/2018",
+  "data_sessao": "4 de Fevereiro de 2020",
+  "orgao": "Unidade Gestora de Projetos Especiais - UGPE",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Claudemir  José  Andrade",
+    "Marcellus  José Barroso Campêlo"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Unidade  Gestora  de  Projetos  Especiais  (UGPE) , referente  ao exercício  de  2017,  sob  a  responsabilidade  do Sr. Marcellus  Jose Barroso Campêlo , Ordenador de Despesa no período de 01/01/2017 a 05/10/2017, e Sr. Claudemir José Andrade , Coordenador Executivo, Ordenador e Gestor no período de 06/10/2017 a 31/12/2017, nos  termos  do  art.  71,  II,  c/c  o  art.  75  da  Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Unidade  Gestora  de  Projetos  Especiais  (UGPE) , referente  ao exercício  de  2017,  sob  a  responsabilidade  do Sr. Marcellus  Jose Barroso Campêlo , Ordenador de Despesa no período de 01/01/2017 a 05/10/2017, e Sr. Claudemir José Andrade , Coordenador Executivo, Ordenador e Gestor no período de 06/10/2017 a 31/12/2017",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A aprovação com ressalvas indica que, embora a prestação de contas tenha sido aceita, foram identificados problemas que não configuram irregularidades graves.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Dispõe sobre as normas estabelecidas para os Tribunais de Contas dos Estados, incluindo a competência para apreciar as contas prestadas pelo Chefe do Poder Executivo Estadual."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Regulamenta a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Define as competências do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Estabelece as normas para o julgamento das prestações de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Unidade Gestora de Projetos Especiais (UGPE) que se abstenha de efetuar procedimentos de indenização e que haja com primor nos procedimentos que diferenciam a Despesa de Exercícios Anteriores  e  Termo  de  Ajuste  de  Contas,  pois  a  documentação acostada define os procedimentos contábeis, sendo DEA (Despesa de Exercícios  Anteriores)  contabiliza-se  na  449092  e  quando  é  TAC (Termo  de  Ajuste  de  Contas)  se  faz  no  lançamento  449093,  como Despesas  Indenizatórias.,  a  fim  de  evitar  a  reincidência,  o  que poderá ensejar  na  irregularidade  de  Prestações  de  Contas  futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Unidade Gestora de Projetos Especiais (UGPE) que se abstenha de efetuar procedimentos de indenização e que haja com primor nos procedimentos que diferenciam a Despesa de Exercícios Anteriores  e  Termo  de  Ajuste  de  Contas,  pois  a  documentação acostada define os procedimentos contábeis, sendo DEA (Despesa de Exercícios  Anteriores)  contabiliza-se  na  449092  e  quando  é  TAC (Termo  de  Ajuste  de  Contas)  se  faz  no  lançamento  449093,  como Despesas  Indenizatórias.,  a  fim  de  evitar  a  reincidência,  o  que poderá ensejar  na  irregularidade  de  Prestações  de  Contas  futuras",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O texto descreve uma determinação para corrigir procedimentos contábeis inadequados, o que indica uma falha na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "22, §1º",
+              "descricao": "Autoriza o Tribunal de Contas a determinar medidas para evitar irregularidades em futuras prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao Sr. Claudemir  José  Andrade e ao Sr. Marcellus José  Barroso  Campêlo, nos  termos  do  art.  24,  da  Lei  Estadual  nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr. Claudemir  José  Andrade e ao Sr. Marcellus José  Barroso  Campêlo, nos  termos  do  art.  24,  da  Lei  Estadual  nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A quitação é um ato formal de aprovação das contas, não indicando necessariamente uma ausência de problemas, mas sim a regularização formal da situação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "24",
+              "descricao": "Refere-se à quitação aos responsáveis após a aprovação das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Estabelece as normas para o julgamento das prestações de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr. Claudemir  José  Andrade e  ao Sr. Marcellus José Barroso Barrêto dos termos do julgado",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr. Claudemir  José  Andrade e  ao Sr. Marcellus José Barroso Barrêto dos termos do julgado",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A notificação é um aviso de procedimento, indicando uma orientação administrativa.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os  presentes  autos,  após  o  cumprimento  das  devidas formalidades legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os  presentes  autos,  após  o  cumprimento  das  devidas formalidades legais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social",
+          "justificativa_tipologia": "O arquivamento é um registro de ato administrativo regular.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

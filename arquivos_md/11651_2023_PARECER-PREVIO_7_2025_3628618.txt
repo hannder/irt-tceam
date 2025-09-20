@@ -1,0 +1,41 @@
+{
+  "acordao": "7/2025",
+  "processo": "11651/2023",
+  "data_sessao": "04 de fevereiro de 2025",
+  "orgao": "Prefeitura Municipal de Tonantins",
+  "municipio": "Tonantins",
+  "exercicio": "2022",
+  "responsavel": [
+    "Francisco Sales de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Tonantins:",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra com rigor os prazos de envio ao TCE/AM e de publicação, inclusive  no  Portal  da  Transparência  do  RREO  (bimestral)  e  do  RGF (semestral ou quadrimestral).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "A recomendação visa garantir a transparência na gestão pública.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Cumpra com rigor o prazo de envio (mensal e anual) de todos os documentos  requeridos  nas  Prestações  de  Contas  Mensais  e  Anuais, conforme normativos desta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "A recomendação visa a regularidade na entrega de informações exigidas pelo Tribunal de Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

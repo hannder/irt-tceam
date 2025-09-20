@@ -1,0 +1,107 @@
+{
+  "acordao": "134/2023",
+  "processo": "11614/2018",
+  "data_sessao": "29 de agosto de 2023",
+  "orgao": "Prefeitura Municipal de Uarini",
+  "municipio": "Uarini",
+  "exercicio": "2017",
+  "responsavel": [
+    "Antonio Waldetrudes Uchoa de Brito"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  origem  que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas anuais:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Atraso  no  envio  do  1º,  2º,  3º,  4º,  5°  e  6º  Bimestre  do Relatório  Resumido  da  Execução  Orçamentária  -  RREO,  em desacordo ao prazo de 45 dias estabelecido nas Resoluções nº. 15/13 c/c a nº. 24/13",
+      "trechos_identificados": [
+        {
+          "trecho": "Atraso  no  envio  do  1º,  2º,  3º,  4º,  5°  e  6º  Bimestre  do Relatório  Resumido  da  Execução  Orçamentária  -  RREO,  em desacordo ao prazo de 45 dias estabelecido nas Resoluções nº. 15/13 c/c a nº. 24/13",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O descumprimento dos prazos estabelecidos nas Resoluções nº. 15/13 c/c a nº. 24/13 para o envio do Relatório Resumido da Execução Orçamentária - RREO configura uma irregularidade, pois impede o acompanhamento adequado da gestão orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resoluções nº. 15/13",
+              "artigo": "Não consta",
+              "descricao": "Atraso no envio do 1º, 2º, 3º, 4º, 5° e 6º Bimestre do Relatório Resumido da Execução Orçamentária - RREO, em desacordo ao prazo de 45 dias estabelecido"
+            },
+            {
+              "norma": "Resoluções nº. 24/13",
+              "artigo": "Não consta",
+              "descricao": "Atraso no envio do 1º, 2º, 3º, 4º, 5° e 6º Bimestre do Relatório Resumido da Execução Orçamentária - RREO, em desacordo ao prazo de 45 dias estabelecido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Desatualização do Portal de Transparência",
+      "trechos_identificados": [
+        {
+          "trecho": "Desatualização do Portal de Transparência",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A desatualização do Portal da Transparência impede o controle social e o acesso à informação, prejudicando o princípio da publicidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Atraso  no  envio  ao  Portal  E-contas  e  publicação  dos Relatórios do RGF relativos ao 1º e 2º Semestres",
+      "trechos_identificados": [
+        {
+          "trecho": "Atraso  no  envio  ao  Portal  E-contas  e  publicação  dos Relatórios do RGF relativos ao 1º e 2º Semestres",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O atraso na publicação dos relatórios no Portal E-contas dificulta o controle externo e o acompanhamento da gestão fiscal, caracterizando uma irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar o  encaminhamento  deste  Parecer  Prévio,  publicado  e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Uarini, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX  que tome  as medidas  cabíveis  para  a  autuação  de  processos  apartados,  que deverão  ser  devidamente  instruídos,  respeitando  a  competência  de cada órgão técnico, e as documentações referentes às impropriedades atinentes  às  Contas  de  Gestão  mencionadas  nos  itens  de  01  a  155 apresentados pela DICOP; e de 156 a 177 apresentados pela DICAMI, bem como aqueles referentes à possível imputação de multas dos itens 178  a  180 que  se  referem  a  Atos  de  Governo,  todas  listadas  na fundamentação do voto.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que dê ciência do desfecho dos autos aos interessados, bem como à Câmara Municipal de Uarini e à Prefeitura Municipal.",
+      "trechos_identificados": []
+    }
+  ]
+}

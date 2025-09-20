@@ -1,0 +1,124 @@
+{
+  "acordao": "1276/2022",
+  "processo": "12500/2020",
+  "data_sessao": "02 de Agosto de 2022",
+  "orgao": "Fundo Municipal de Direitos do Idoso - FMDI",
+  "municipio": "Não identificado",
+  "exercicio": "2019",
+  "responsavel": [
+    "Martha Moutinho da Costa Cruz"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Fundo Municipal de Direitos do Idoso-FMDI, exercício 2019, de responsabilidade da Sra. Martha Moutinho da Costa Cruz, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, I, da Lei Estadual nº 2423/96, e art. 188, §1º, I, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Fundo Municipal de Direitos do Idoso-FMDI, exercício 2019, de responsabilidade da Sra. Martha Moutinho da Costa Cruz, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, I, da Lei Estadual nº 2423/96, e art. 188, §1º, I, da Resolução nº 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho descreve o julgamento formal da prestação de contas anual do Fundo Municipal de Direitos do Idoso, sendo classificada como regular, o que não indica um problema concreto de gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Disposições sobre o controle externo das contas públicas"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Normas sobre a organização dos Tribunais de Contas Estaduais."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Atribuições do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, I",
+              "descricao": "Competências do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Procedimentos relativos ao julgamento das contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar quitação plena à Sra. Martha Moutinho da Costa Cruz, nos termos do art.  23,  da  Lei  Estadual  nº  2423/96,  c/c  art.  189,  I,  da  Resolução  nº 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação plena à Sra. Martha Moutinho da Costa Cruz, nos termos do art.  23,  da  Lei  Estadual  nº  2423/96,  c/c  art.  189,  I,  da  Resolução  nº 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho refere-se à quitação plena da responsável, um procedimento administrativo que, por si só, não indica irregularidade ou problema de gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "23",
+              "descricao": "Disposições sobre a quitação dos responsáveis perante o Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Procedimentos para a concessão de quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar ao  Fundo  Municipal  de  Direitos  do  Idoso  -  FMDI que cumpra  com  rigor as disposições normativas elencadas  na  Lei nº 1515/2010, especialmente o art. 3º, §3º, inciso I.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Fundo  Municipal  de  Direitos  do  Idoso  -  FMDI que cumpra  com  rigor as disposições normativas elencadas  na  Lei nº 1515/2010, especialmente o art. 3º, §3º, inciso I.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação para cumprimento rigoroso das disposições normativas sugere uma possível fragilidade na observância das normas, o que pode indicar uma deficiência na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 1515/2010",
+              "artigo": "3º, §3º, inciso I",
+              "descricao": "Disposições específicas a serem rigorosamente cumpridas pelo Fundo Municipal de Direitos do Idoso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O arquivamento dos autos é um procedimento interno do TCE e não indica irregularidade ou problema de gestão no órgão fiscalizado.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

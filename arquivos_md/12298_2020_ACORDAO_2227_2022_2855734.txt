@@ -1,0 +1,64 @@
+{
+  "acordao": "2227/2022",
+  "processo": "12298/2020",
+  "data_sessao": "20 de dezembro de 2022",
+  "orgao": "Instituto Municipal de Engenharia e Fiscalização do Transito - MANAUSTRANS",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Franklin Jana Pinto"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual do Instituto Municipal de Engenharia e Fiscalização do Trânsito - MANAUSTRANS, exercício de 2019, sob a responsabilidade do Sr. Franklin Jana Pinto, Diretor Presidente à época, nos termos do artigo 22, inciso II, da Lei nº 2.423/1996 - LOTCE/AM c/c o artigo 188, §1º, inciso II, da Resolução nº 04/2002 - RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual do Instituto Municipal de Engenharia e Fiscalização do Trânsito - MANAUSTRANS, exercício de 2019, sob a responsabilidade do Sr. Franklin Jana Pinto, Diretor Presidente à época, nos termos do artigo 22, inciso II, da Lei nº 2.423/1996 - LOTCE/AM c/c o artigo 188, §1º, inciso II, da Resolução nº 04/2002 - RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica um julgamento formal das contas, que não aponta para um problema estrutural na gestão pública. Apesar de apresentar ressalvas, o julgamento em si não indica uma deficiência que necessariamente persista.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar quitação ao Senhor Sr. Franklin Jana Pinto, nos termos do art. 24 da Lei nº 2423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Senhor Sr. Franklin Jana Pinto, nos termos do art. 24 da Lei nº 2423/1996.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A determinação de quitação, por si só, não indica uma irregularidade ou um problema estrutural na gestão, mas sim a finalização do processo de análise das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

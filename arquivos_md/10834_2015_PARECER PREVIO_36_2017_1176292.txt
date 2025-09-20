@@ -1,0 +1,310 @@
+{
+  "acordao": "36/2017",
+  "processo": "10834/2015",
+  "data_sessao": "20 de Junho de 2017",
+  "orgao": "Prefeitura Municipal de Boca do Acre",
+  "municipio": "Boca do Acre",
+  "exercicio": "2014",
+  "responsavel": [
+    "Antonio Iran de Souza Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, exercício 2014, nos termos do art. 1º., II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, exercício 2014, nos termos do art. 1º., II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002-TCE/AM;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica um julgamento de irregularidade na prestação de contas, o que pode estar relacionado à ausência de informações nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Julgamento de irregularidade das contas"
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Julgamento de irregularidade das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, no valor de R$ 6.576,18 (seis mil, quinhentos e setenta e seis reais e dezoito centavos), com fulcro no art. 308, II da Resolução n.º 04/02 - RI-TCE/AM, em razão da impropriedade contida no item 1, subitem 1.1 do presente Relatório/Voto, referente à restrição contida no item 01 do Relatório 102/2015 - DICREA;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, no valor de R$ 6.576,18 (seis mil, quinhentos e setenta e seis reais e dezoito centavos), com fulcro no art. 308, II da Resolução n.º 04/02 - RI-TCE/AM, em razão da impropriedade contida no item 1, subitem 1.1 do presente Relatório/Voto, referente à restrição contida no item 01 do Relatório 102/2015 - DICREA;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A multa é aplicada devido a uma impropriedade, o que indica um descumprimento de normas financeiras ou orçamentárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "A multa é aplicada devido a uma impropriedade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de 30 (trinta) dias, para que o Sr. Antonio Iran de Souza Lima, recolha o valor da multa, que lhe foi aplicada, aos cofres públicos da esfera Estadual (órgão Encargos Gerais do Estado - SEFAZ), com fulcro no art. 72, III, 'c', da Lei n. 2423/96, ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n. 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias, para que o Sr. Antonio Iran de Souza Lima, recolha o valor da multa, que lhe foi aplicada, aos cofres públicos da esfera Estadual (órgão Encargos Gerais do Estado - SEFAZ), com fulcro no art. 72, III, 'c', da Lei n. 2423/96, ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n. 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação de recolhimento de multa está relacionada a aspectos da execução orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Fixação de prazo para recolhimento de multa"
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Autorização para a DICREX adotar medidas para cobrança"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "AUTORIZAR , em caso de não recolhimento do valor de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR , em caso de não recolhimento do valor de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Este trecho está relacionado com as medidas a serem tomadas para garantir o ressarcimento ao erário, o que está relacionado a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "73",
+              "descricao": "Autorização para inscrição do débito na Dívida Ativa"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE",
+              "artigo": "169, II",
+              "descricao": "Ensejo à ação executiva"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE",
+              "artigo": "308",
+              "descricao": "Ensejo à ação executiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, exercício 2014, no valor de R$ 30.000,00 (trinta mil reais), com fulcro no art. 54, II da Lei n.º 2.423/96 c/c o art. 308, VI da Resolução n.º 04/02 - RI-TCE/AM, em razão das impropriedades contidas:\na) no Item 1 (subitem 1.2) do Relatório/Voto, referente ao item 02 do Relatório n.º 102/2015 - DICREA;\nb) no Item 2 (Subitem 2.1 - alíneas 'a', 'b', 'c', 'd', 'e' e 'f'; Subitem 2.2 - alíneas 'a', 'b', 'c', 'd', 'e', e 'f'; Subitem 2.3 - alíneas 'a', 'b', 'c', e 'd'; Subitem 2.4 - alíneas 'a', 'b', 'c', 'd', 'e', 'f'; Subitem 2.5 - alíneas 'a', 'b'. 'c'. e 'd'; Subitem 2.6 - alíneas 'a', 'b' e 'c'; Subitem 2.7 - alíneas 'a', 'b', 'c', 'd', 'e', 'f', e 'g') do Relatório/Voto, referentes às restrições apontadas nos itens 7.1 (Subitens 1.1.1.1, 1.1.1.2, 1.2.1, 1.3.1, 1.3.2, 1.3.3, e 1.3.6), 7.2 (Subitens 2.1.1.1, 2.1.1.2, 2.2.1, 2.3.1, 2.3.2, 2.3.3, 2.3.8), 7.3 (Subitens 3.1.1.1, 3.1.1.2, 3.2.1, 3.2.2, 3.2.3, 3.2.6), 7.4 (Subitens 4.1.1.1, 4.1.1.2, 4.3.1, 4.3.2, 4.3.3, 4.3.4, 4.3.9), 7.5 (Subitens 5.1.1.1, 5.1.1.2, 5.3.1, 5.3.2, 5.3.7), 7.6 (Subitens 6.1.1.1, 6.1.1.2, 6.2.1, 6.3.1), 7.7 (Subitens 7.1.1.1, 7.1.1.2, 7.2.1, 7.2.2, 7.3.1, 7.3.2, 7.3.3, 7.3.5) do Relatório Conclusivo n.º 139/2015 - DICOP; e\nc) Item 3 (Subitens 'a', 'c', 'd', 'h', 'i', 'j', 'k', 'n', o', 'p', 'q', 'r', 's') do Relatório/Voto, referente às impropriedades contidas nos itens 01, 08, 09, 17, 18, 19, 20 do Relatório Conclusivo n.º 32/2016 - DICAMI, e restrições C, D, E, F, G, H da Informação n.º 1.034/2016 -DICAMI, respectivamente;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, exercício 2014, no valor de R$ 30.000,00 (trinta mil reais), com fulcro no art. 54, II da Lei n.º 2.423/96 c/c o art. 308, VI da Resolução n.º 04/02 - RI-TCE/AM, em razão das impropriedades contidas:\na) no Item 1 (subitem 1.2) do  Relatório/Voto, referente ao item 02 do Relatório n.º 102/2015 - DICREA;\nb) no Item 2 (Subitem 2.1 - alíneas 'a', 'b', 'c', 'd', 'e' e 'f'; Subitem 2.2 - alíneas 'a', 'b', 'c', 'd', 'e', e 'f'; Subitem 2.3 - alíneas 'a', 'b', 'c', e 'd'; Subitem 2.4 - alíneas 'a', 'b', 'c',  'd',  'e',  'f'; Subitem 2.5 - alíneas 'a', 'b'. 'c'. e 'd'; Subitem 2.6 - alíneas 'a', 'b' e 'c'; Subitem 2.7  - alíneas 'a', 'b', 'c', 'd', 'e', 'f', e 'g') do  Relatório/Voto, referentes às  restrições  apontadas  nos  itens  7.1  (Subitens  1.1.1.1, 1.1.1.2,  1.2.1,  1.3.1,  1.3.2,  1.3.3,  e  1.3.6),  7.2  (Subitens 2.1.1.1, 2.1.1.2, 2.2.1, 2.3.1, 2.3.2, 2.3.3, 2.3.8), 7.3 (Subitens  3.1.1.1,  3.1.1.2,  3.2.1,  3.2.2,  3.2.3,  3.2.6),  7.4 (Subitens 4.1.1.1, 4.1.1.2, 4.3.1, 4.3.2, 4.3.3, 4.3.4, 4.3.9), 7.5 (Subitens 5.1.1.1, 5.1.1.2, 5.3.1, 5.3.2, 5.3.7), 7.6 (Subitens 6.1.1.1, 6.1.1.2, 6.2.1, 6.3.1), 7.7 (Subitens 7.1.1.1,  7.1.1.2,  7.2.1,  7.2.2,  7.3.1,  7.3.2,  7.3.3,  7.3.5)  do Relatório Conclusivo n.º 139/2015 - DICOP; e\nc) Item 3 (Subitens 'a', 'c', 'd', 'h', 'i', 'j', 'k', 'n', o', 'p', 'q', 'r', 's') do  Relatório/Voto,  referente às  impropriedades contidas nos itens 01, 08, 09, 17, 18, 19, 20 do Relatório Conclusivo n.º 32/2016 - DICAMI, e restrições C, D, E, F, G, H da Informação n.º 1.034/2016 -DICAMI, respectivamente;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A descrição da sanção por si só não possibilita detalhar a tipologia, sendo selecionada a mais ampla das possibilidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Aplicação de multa devido a impropriedades"
+            },
+            {
+              "norma": "Resolução n.º 04/02 - RI-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Aplicação de multa devido a impropriedades"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. Antonio Iran de Souza  Lima,  recolha  o  valor  da  multa,  que  lhe  foi  aplicada,  aos cofres  públicos  da  esfera  Estadual (órgão  Encargos  Gerais  do Estado - SEFAZ), nos termos do art. 72, III, 'c', da Lei n. 2423/96, ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e  IV da Seção  III,  do Capítulo  X,  da Resolução n. 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. Antonio Iran de Souza  Lima,  recolha  o  valor  da  multa,  que  lhe  foi  aplicada,  aos cofres  públicos  da  esfera  Estadual (órgão  Encargos  Gerais  do Estado - SEFAZ), nos termos do art. 72, III, 'c', da Lei n. 2423/96, ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e  IV da Seção  III,  do Capítulo  X,  da Resolução n. 04/2002-TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação de recolhimento de multa visa garantir a recuperação de valores devidos aos cofres públicos, o que se relaciona com a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Fixação de prazo para recolhimento de multa"
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Autorização para a DICREX adotar medidas para cobrança"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "AUTORIZAR, em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR, em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Este trecho está relacionado com as medidas a serem tomadas para garantir o ressarcimento ao erário, o que se relaciona a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "73",
+              "descricao": "Autorização para inscrição do débito na Dívida Ativa"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE",
+              "artigo": "169, II",
+              "descricao": "Ensejo à ação executiva"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE",
+              "artigo": "308",
+              "descricao": "Ensejo à ação executiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, exercício 2014, no valor de R$ 831.510,19 (oitocentos e trainta e um mil, quinhentos e dez reais e dezenove centavos) e R$ 442.885,00 (quatrocentos e quarenta e dois mil, oitocentos e oitenta e cinco reais), em razão dos gastos concernentes a Passagens e Despesas de Locomoção e Outros Serviços de Terceiros - Pessoa Física, não comprovados pelo gestor, apontados na impropriedade contida no item 3, subitem \"l\" do Relatório/Voto, referente à restrição A da Informação n.º 1.034/2016 - DICAMI, bem como na Notificação n.º 248/2016 DICAMI (fls. 3.244/3.245).",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Antonio Iran de Souza Lima, Prefeito do Município de Boca do Acre, exercício 2014, no valor de R$ 831.510,19 (oitocentos e trainta e um mil, quinhentos e dez reais e dezenove centavos) e R$ 442.885,00 (quatrocentos e quarenta e dois mil, oitocentos e oitenta e cinco reais), em razão dos gastos concernentes a Passagens e Despesas de Locomoção e Outros Serviços de Terceiros - Pessoa Física, não comprovados pelo gestor, apontados na impropriedade contida no item 3, subitem \"l\" do Relatório/Voto, referente à restrição A da Informação n.º 1.034/2016 - DICAMI, bem como na Notificação n.º 248/2016 DICAMI (fls. 3.244/3.245).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A consideração em alcance ocorre devido à não comprovação de gastos, indicando falhas na documentação e registro de despesas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. Antonio Iran de Souza  Lima,  recolha  os  valores  dos  débitos,  que  lhes  foram imputados, aos cofres públicos da esfera Municipal (órgão Prefeitura  Municipal de Boca do Acre), nos termos do art. 72, III, 'c',  da  Lei  n.  2423/96, ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n. 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. Antonio Iran de Souza  Lima,  recolha  os  valores  dos  débitos,  que  lhes  foram imputados, aos cofres públicos da esfera Municipal (órgão Prefeitura  Municipal de Boca do Acre), nos termos do art. 72, III, 'c',  da  Lei  n.  2423/96, ficando a DICREX autorizada a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n. 04/2002-TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Este trecho está relacionado com as medidas a serem tomadas para garantir o ressarcimento ao erário, o que se relaciona a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Fixação de prazo para recolhimento de débitos"
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Autorização para a DICREX adotar medidas para cobrança"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "AUTORIZAR, em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR, em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n. 2.423/96, art. 169, II, e § 6º do art. 308, todos da Resolução n. 04/2002- TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Este trecho está relacionado com as medidas a serem tomadas para garantir o ressarcimento ao erário, o que se relaciona a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "73",
+              "descricao": "Autorização para inscrição do débito na Dívida Ativa"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE",
+              "artigo": "169, II",
+              "descricao": "Ensejo à ação executiva"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE",
+              "artigo": "308",
+              "descricao": "Ensejo à ação executiva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Boca do Acre que:\na) Observe e cumpra o prazo de remessa da movimentação contábil, os registros analíticos, e demais dados contábeis e atos jurídicos informatizados hoje via Sistema E-Contas, a este Tribunal;\nb) Apresente as informações, no Sistema E-Contas, da Lei Orçamentária Anual e da Lei de Diretrizes Orçamentárias, conforme a Resolução nº 10/2012 c/c nº 4/02-TCE;\nc) Observe com maior rigor as exigências da legislação de licitações e contratos, que formalize com as cautelas devidas os processos de dispensa e inexigibilidade de licitação, que preceda todas as contratações de compras, obras e/ou serviços de ampla pesquisa de mercado com justificativa da escolha do fornecedor como condição básica para seleção da melhor proposta à Administração, para que no futuro falhas dessa natureza não mais ocorram, sob pena de não serem mais relevadas;\nd) Implemente espaço físico, na Prefeitura, para a consecução de informações públicas pelos munícipes, em atendimento ao que estabelece a Lei n.º 12.527/2011;",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe e cumpra o prazo de remessa da movimentação contábil, os registros analíticos, e demais dados contábeis e atos jurídicos informatizados hoje via Sistema E-Contas, a este Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A recomendação está relacionada à necessidade de envio adequado de informações contábeis, o que se enquadra na tipologia de não envio de dados periódicos ao e-Contas.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Apresente as informações, no Sistema E-Contas, da Lei Orçamentária Anual e da Lei de Diretrizes Orçamentárias, conforme a Resolução nº 10/2012 c/c nº 4/02-TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "

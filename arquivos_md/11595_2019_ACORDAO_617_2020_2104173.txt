@@ -1,0 +1,266 @@
+{
+  "acordao": "617/2020",
+  "processo": "11595/2019",
+  "data_sessao": "17 de Junho de 2020",
+  "orgao": "Serviço  de  Pronto  Atendimento  e  Hospital  Dr.  Aristóteles  Platão  Bezerra  de Araújo - SPA Platão de Araújo",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Eliane Silva do Nascimento",
+    "Antônio Carlos Carneiro da Silva Nossa"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Antônio Carlos Carneiro da  Silva  Nossa , responsável  pelo Serviço  de  Pronto  Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo , Diretor-Geral e Ordenador de Despesas no período de 01/01/2018 a 16/07/2018, conforme dispõe o Art. 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM, em razão das impropriedades 01, 02, 03, 04, 05, 06, 07, 08 e 09 não sanadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr. Antônio Carlos Carneiro da  Silva  Nossa , responsável  pelo Serviço  de  Pronto  Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo , Diretor-Geral e Ordenador de Despesas no período de 01/01/2018 a 16/07/2018, conforme dispõe o Art. 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM, em razão das impropriedades 01, 02, 03, 04, 05, 06, 07, 08 e 09 não sanadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A deliberação indica que a prestação de contas foi considerada irregular devido a diversas impropriedades contábeis não sanadas, o que afeta a correta apresentação e avaliação das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Define as responsabilidades e critérios para julgamento da prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Antônio Carlos Carneiro da Silva Nossa , DiretorGeral e Ordenador de Despesas do Serviço de Pronto Atendimento e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo à época dos fatos, no valor de R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos), nos termos do Art. 308, inciso I, alínea 'a', da Resolução nº 04/2002-RITCE/AM c/c Art. 54, inciso I, alínea 'a', da Lei nº 2423/96-LOTCE/AM, pelos fatos e fundamentos apresentados noRelatório/Voto quanto à permanência da Impropriedade 04, que deverá ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Antônio Carlos Carneiro da Silva Nossa , DiretorGeral e Ordenador de Despesas do Serviço de Pronto Atendimento e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo à época dos fatos, no valor de R$ 1.706,80 (mil, setecentos e seis reais e oitenta centavos), nos termos do Art. 308, inciso I, alínea 'a', da Resolução nº 04/2002-RITCE/AM c/c Art. 54, inciso I, alínea 'a', da Lei nº 2423/96-LOTCE/AM, pelos fatos e fundamentos apresentados noRelatório/Voto quanto à permanência da Impropriedade 04, que deverá ser recolhida no  prazo  de  30  dias para  o  Cofre  Estadual  através  de  DAR avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "A aplicação de multa decorre da persistência da irregularidade relacionada à Impropriedade 04, indicando falhas na gestão orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "308, inciso I, alínea 'a'",
+              "descricao": "Estabelece as condições para aplicação de multas por irregularidades em prestações de contas."
+            },
+            {
+              "norma": "Lei nº 2423/96-LOTCE/AM",
+              "artigo": "54, inciso I, alínea 'a'",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades identificadas pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Antônio Carlos Carneiro da Silva Nossa, DiretorGeral e Ordenador de Despesas do Serviço de Pronto Atendimento e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo à época dos fatos, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta  e  quatro  reais  e  trinta  e  nove  centavos),  em  razão  de  ato praticado com grave infração à norma legal, nos termos do Art. 308, VI, da Resolução  nº  04/2002-RITCE/AM c/c art. 54, VI, da Lei n.º 2423/96LOTCE/AM,  pelos  fatos  e  fundamentos  apresentados  no  Relatório/Voto quanto à permanência das Impropriedades 01, 02, 03, 05, 06, 07, 08 e 09 não sanadas, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Antônio Carlos Carneiro da Silva Nossa, DiretorGeral e Ordenador de Despesas do Serviço de Pronto Atendimento e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo à época dos fatos, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta  e  quatro  reais e trinta e nove centavos), em razão de  ato praticado com grave infração à norma legal, nos termos do Art. 308, VI, da Resolução  nº  04/2002-RITCE/AM c/c art. 54, VI, da Lei n.º 2423/96LOTCE/AM,  pelos  fatos  e  fundamentos  apresentados  no  Relatório/Voto quanto à permanência das Impropriedades 01, 02, 03, 05, 06, 07, 08 e 09 não sanadas, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A multa é aplicada devido a graves infrações de normas legais, com base nas impropriedades não sanadas, o que pode indicar tentativas de burlar os processos legais de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Estabelece as condições para aplicação de multas por atos praticados com grave infração à norma legal."
+            },
+            {
+              "norma": "Lei nº 2423/96-LOTCE/AM",
+              "artigo": "54, VI",
+              "descricao": "Define as sanções aplicáveis em caso de atos praticados com grave infração à norma legal identificadas pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas  da Sra. Eliane Silva do Nascimento , responsável pelo Serviço de Pronto Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo , Diretora-Geral e Ordenadora  de Despesas  no  período de 16/07/2018 a 31/12/2018, conforme dispõe o Art. 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM, em razão das impropriedades 06, 07, 08, 09, 10, 11, 12, 13, 14, 15 e 16 não sanadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas  da Sra. Eliane Silva do Nascimento , responsável pelo Serviço de Pronto Atendimento  e Hospital  Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de Araújo , Diretora-Geral e Ordenadora  de Despesas  no  período de 16/07/2018 a 31/12/2018, conforme dispõe o Art. 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM, em razão das impropriedades 06, 07, 08, 09, 10, 11, 12, 13, 14, 15 e 16 não sanadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "A prestação de contas é julgada irregular devido a diversas impropriedades não sanadas, o que indica deficiências no sistema de controle interno da organização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LOTCE/AM",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Define as responsabilidades e critérios para julgamento da prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao  Sr. Eliane  Silva  do  Nascimento , Diretora-Geral  e Ordenadora de Despesas do Serviço de Pronto Atendimento e Hospital Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de  Araújo à época dos fatos, no valor de R$15.000,00 (quinze mil reais), em razão de atos praticados com grave infração à norma legal, nos termos do Art. 308, VI, da Resolução nº 04/2002-RITCE/AM c/c art. 54, VI, da Lei n.º 2423/96LOTCE/AM,  pelos  fatos  e  fundamentos  apresentados  no  Relatório/Voto quanto à permanência das Impropriedades 06, 07, 08, 09, 10, 11, 12, 13, 14, 15 e 16 não sanadas, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Sr. Eliane  Silva  do  Nascimento , Diretora-Geral  e Ordenadora de Despesas do Serviço de Pronto Atendimento e Hospital Dr.  Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de  Araújo à época dos fatos, no valor de R$15.000,00 (quinze mil reais), em razão de atos praticados com grave infração à norma legal, nos termos do Art. 308, VI, da Resolução nº 04/2002-RITCE/AM c/c art. 54, VI, da Lei n.º 2423/96LOTCE/AM,  pelos  fatos  e  fundamentos  apresentados  no  Relatório/Voto quanto à permanência das Impropriedades 06, 07, 08, 09, 10, 11, 12, 13, 14, 15 e 16 não sanadas, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "A multa é aplicada à responsável devido à persistência de irregularidades que constituem grave infração à norma legal, o que pode envolver despesas realizadas sem a devida cobertura contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Estabelece as condições para aplicação de multas por atos praticados com grave infração à norma legal."
+            },
+            {
+              "norma": "Lei nº 2423/96-LOTCE/AM",
+              "artigo": "54, VI",
+              "descricao": "Define as sanções aplicáveis em caso de atos praticados com grave infração à norma legal identificadas pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Serviço de Pronto Atendimento e Hospital Dr. Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de  Araújo ,  nos termos do Art. 188, §2º do Regimento Interno/TCEAM, que: - 10.6.1. Observe com rigor a legislação vigente no que toca à exigência de processo licitatório, nos termos dos artigos 2º, 24, 25 e 26, da Lei Federal n.º 8.666/93 e adote um sistemático planejamento de suas compras, a fim de evitar o fracionamento de despesa, sob pena de multa por reincidência nos termos do Art.308, IV, alínea 'b', do RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com rigor a legislação vigente no que toca à exigência de processo licitatório, nos termos dos artigos 2º, 24, 25 e 26, da Lei Federal n.º 8.666/93 e adote um sistemático planejamento de suas compras, a fim de evitar o fracionamento de despesa, sob pena de multa por reincidência nos termos do Art.308, IV, alínea 'b', do RITCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A47B",
+          "tipologia_irregularidade": "Tomar serviços sem cobertura contratual (pagamentos indenizatórios)",
+          "descricao": "Tomar serviços sem cobertura contratual (pagamentos indenizatórios)",
+          "justificativa_tipologia": "A determinação para observar rigorosamente a legislação licitatória e evitar o fracionamento de despesas indica a necessidade de corrigir práticas que levam a contratações sem cobertura contratual adequada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal n.º 8.666/93",
+              "artigo": "2º",
+              "descricao": "Define a obrigatoriedade de licitação para as contratações da administração pública."
+            },
+            {
+              "norma": "Lei Federal n.º 8.666/93",
+              "artigo": "24",
+              "descricao": "Estabelece as hipóteses de dispensa de licitação."
+            },
+            {
+              "norma": "Lei Federal n.º 8.666/93",
+              "artigo": "25",
+              "descricao": "Regulamenta as situações de inexigibilidade de licitação."
+            },
+            {
+              "norma": "Lei Federal n.º 8.666/93",
+              "artigo": "26",
+              "descricao": "Define os procedimentos para os casos de dispensa e inexigibilidade de licitação."
+            },
+             {
+              "norma": "Regimento Interno/TCEAM",
+              "artigo": "188, §2º",
+              "descricao": "Define as determinações do TCEAM."
+            },
+            {
+              "norma": "RITCE/AM",
+              "artigo": "308, IV, alínea 'b'",
+              "descricao": "Define multa por reincidência por descumprimento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Serviço de Pronto Atendimento e Hospital Dr. Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de  Araújo ,  nos termos do Art. 188, §2º do Regimento Interno/TCEAM, que: - 10.6.2. Oficie a SEFAZ para que atualize as pendências conciliadoras dentro  do  exercício  em  análise,  mantendo  sua  escrituração contábil em dia.",
+      "trechos_identificados": [
+        {
+          "trecho": "Oficie a SEFAZ para que atualize as pendências conciliadoras dentro  do  exercício  em  análise,  mantendo  sua  escrituração contábil em dia.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A determinação para que o órgão oficie a SEFAZ para atualizar pendências e manter a escrituração contábil em dia indica um problema na conciliação bancária.",
+          "fundamentacao_legal": [
+               {
+              "norma": "Regimento Interno/TCEAM",
+              "artigo": "188, §2º",
+              "descricao": "Define as determinações do TCEAM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Serviço de Pronto Atendimento e Hospital Dr. Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de  Araújo ,  nos termos do Art. 188, §2º do Regimento Interno/TCEAM, que: - 10.6.3. Apresente o Termo de Responsabilidade do gestor em relação aos  bens  patrimoniais,  mais  detalhado  conforme  demonstrado pela DICAD.",
+      "trechos_identificados": [
+        {
+          "trecho": "Apresente o Termo de Responsabilidade do gestor em relação aos  bens  patrimoniais,  mais  detalhado  conforme  demonstrado pela DICAD.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A9B",
+          "tipologia_irregularidade": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A determinação para apresentar um Termo de Responsabilidade mais detalhado indica que o existente é insuficiente, possivelmente não indicando o valor total dos bens patrimoniais.",
+          "fundamentacao_legal": [
+             {
+              "norma": "Regimento Interno/TCEAM",
+              "artigo": "188, §2º",
+              "descricao": "Define as determinações do TCEAM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Serviço de Pronto Atendimento e Hospital Dr. Aristóteles  Platão  Bezerra  de  Araújo  -  SPA  Platão  de  Araújo ,  nos termos do Art. 188, §2º do Regimento Interno/TCEAM, que: - 10.6.4. Proceda com um novo inventário de bens permanentes, devendo este ser registrado em saldo contábil correspondente, de modo que,  o  reconhecimento  e  mensuração  de  tais  ativos  sejam atualizados, conforme a nova realidade da ótica contábil quanto à  reavaliação  e  depreciação  de  bens,  conforme  Manual  de Contabilidade Aplicado ao Setor Público, 5ª Edição.",
+      "trechos_identificados": [
+        {
+          "trecho": "Proceda com um novo inventário de bens permanentes, devendo este ser registrado em saldo contábil correspondente, de modo que,  o  reconhecimento  e  mensuração  de  tais  ativos  sejam atualizados, conforme a nova realidade da ótica contábil quanto à  reavaliação  e  depreciação  de  bens,  conforme  Manual  de Contabilidade Aplicado ao Setor Público, 5ª Edição.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "A determinação para realizar um novo inventário e atualizar o reconhecimento e mensuração dos ativos indica que os valores atuais de depreciação, amortização e exaustão não estão atualizados.",
+          "fundamentacao_legal": [
+              {
+              "norma": "Regimento Interno/TCEAM",
+              "artigo": "188, §2º",
+              "descricao": "Define as determinações do TCEAM."
+            },
+            {
+              "norma": "Manual de Contabilidade Aplicado ao Setor Público",
+              "artigo": "5ª Edição",
+              "descricao": "Orienta sobre a reavaliação e depreciação de bens."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

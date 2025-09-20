@@ -1,0 +1,443 @@
+{
+  "acordao": "479/2020",
+  "processo": "10930/2019",
+  "data_sessao": "13 de Maio de 2020",
+  "orgao": "Câmara Municipal de Maués",
+  "municipio": "Maués",
+  "exercicio": "2018",
+  "responsavel": [
+    "Simildon Antonio Cavalcante da Rocha"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de ContasAnual, referente ao exercício de 2018, da Câmara Municipal de Maués, de responsabilidade do Senhor Simildon Antonio Cavalcante da Rocha , Presidente  da  Câmara  Municipal  de  Maués  e  Ordenador  de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de ContasAnual, referente ao exercício de 2018, da Câmara Municipal de Maués, de responsabilidade do Senhor Simildon Antonio Cavalcante da Rocha , Presidente  da  Câmara  Municipal  de  Maués  e  Ordenador  de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho é um julgamento formal da prestação de contas, indicando que, apesar das ressalvas, a documentação foi aceita. Não aponta para uma falha estrutural na gestão, mas sim para inconsistências pontuais.Por isso, foi classificado no tema Contabilidade e na tipologia referente à ausência de informações contábeis",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II",
+              "descricao": "LOTCE/AM - artigo que versa sobre a competencia do TCE"
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "22, inciso II",
+              "descricao": "LOTCE/AM - artigo que versa sobre a competencia do TCE"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "RITCE/AM - artigo que versa sobre a competencia do TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar quitação",
+      "descricao": "Dar quitação ao Senhor Simildon Antonio Cavalcante da Rocha, Presidente  da  Câmara  Municipal  de  Maués  e  Ordenador  de Despesas, à época, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Senhor Simildon Antonio Cavalcante da Rocha, Presidente  da  Câmara  Municipal  de  Maués  e  Ordenador  de Despesas, à época, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho consiste em um julgamento formal, não indicando problemas concretos de gestão.A emissão de quitação, por si só, não aponta para irregularidades ou falhas na gestão pública, mesmo que a prestação de contas tenha sido julgada regular com ressalvas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "24",
+              "descricao": "LOTCE - artigo que versa sobre a competencia do TCE"
+            },
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "72, inciso II",
+              "descricao": "LOTCE - artigo que versa sobre a competencia do TCE"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso II",
+              "descricao": "RITCE - artigo que versa sobre a competencia do TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A Determinação para que se evite a ocorrência de impropriedades em futuras prestações de contas, se refere a problemas encontrados no Portal da Transparência e nas Cartas Convite, que se enquadram como ausencia de divulgação no site Transparência",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "188",
+              "descricao": "artigo do regimento interno que descreve a competência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "a) -Ausência  informações  de  receitas  e  despesas,  posteriores  ao exercício, quando o instrumento legal determina a obrigatoriedade de divulgação,  em  tempo  real,  de  informações  relativas  à  execução orçamentária e financeira;",
+      "trechos_identificados": [
+        {
+          "trecho": "a) -Ausência  informações  de  receitas  e  despesas,  posteriores  ao exercício, quando o instrumento legal determina a obrigatoriedade de divulgação,  em  tempo  real,  de  informações  relativas  à  execução orçamentária e financeira",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A6B",
+          "tipologia_irregularidade": "Ausência de atualidade na divulgação das receitas do Poder ou órgão, evidenciando sua previsão e realização",
+          "descricao": "Ausência de atualidade na divulgação das receitas do Poder ou órgão, evidenciando sua previsão e realização",
+          "justificativa_tipologia": "A ausência de informações sobre receitas e despesas no portal de transparência impede o controle social e o acompanhamento da gestão fiscal, além de violar a legislação pertinente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 48 da LRF",
+              "artigo": "caput",
+              "descricao": "instrumento legal que determina a obrigatoriedade de divulgação,  em  tempo  real,  de  informações  relativas  à  execução orçamentária e financeira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "b) -Ausência  de  Transparência  informações  sobre  auditorias  do controle interno ou externo;",
+      "trechos_identificados": [
+        {
+          "trecho": "b) -Ausência  de  Transparência  informações  sobre  auditorias  do controle interno ou externo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A falta de divulgação de auditorias impede o controle social e a transparência da gestão pública.A não divulgação de informações sobre auditorias internas e externas dificulta o acompanhamento da gestão e o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "c) -Ausência de informações completas sobre os registros de competências e estrutura organizacional, endereços e telefones dos setores que compõem o órgão;",
+      "trechos_identificados": [
+        {
+          "trecho": "c) -Ausência de informações completas sobre os registros de competências e estrutura organizacional, endereços e telefones dos setores que compõem o órgão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A ausência de informações completas sobre a estrutura organizacional dificulta o acesso aos serviços públicos e o contato com os responsáveis.A falta de informações sobre a estrutura organizacional dificulta o acesso aos serviços e o contato com os responsáveis, prejudicando o funcionamento do órgão",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "d) -Não  constam  informações  detalhadas  sobre  as  aquisições  ou serviços nos quais foram aplicados os recursos nos demonstrativos de Despesas;",
+      "trechos_identificados": [
+        {
+          "trecho": "d) -Não  constam  informações  detalhadas  sobre  as  aquisições  ou serviços nos quais foram aplicados os recursos nos demonstrativos de Despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A10B",
+          "tipologia_irregularidade": "Ausência de atualidade na divulgação das informações pormenorizadas das despesas da entidade, detalhando o beneficiário do pagamento, o bem fornecido ou serviço prestado e o procedimento licitatório originário",
+          "descricao": "Ausência de atualidade na divulgação das informações pormenorizadas das despesas da entidade, detalhando o beneficiário do pagamento, o bem fornecido ou serviço prestado e o procedimento licitatório originário",
+          "justificativa_tipologia": "A ausência de informações detalhadas sobre as aquisições ou serviços nos demonstrativos de despesas dificulta o controle social e o acompanhamento da aplicação dos recursos públicos.A não divulgação de informações detalhadas sobre as despesas impede o controle social e o acompanhamento da aplicação dos recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "e) - Não foram localizadas as informações atualizadas sobre a gestão fiscal do órgão;",
+      "trechos_identificados": [
+        {
+          "trecho": "e) - Não foram localizadas as informações atualizadas sobre a gestão fiscal do órgão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A6B",
+          "tipologia_irregularidade": "Ausência de atualidade na divulgação das receitas do Poder ou órgão, evidenciando sua previsão e realização",
+          "descricao": "Ausência de atualidade na divulgação das receitas do Poder ou órgão, evidenciando sua previsão e realização",
+          "justificativa_tipologia": "A ausência de informações atualizadas sobre a gestão fiscal impede o acompanhamento da saúde financeira do órgão e o controle social.A falta de informações sobre a gestão fiscal dificulta o acompanhamento da saúde financeira do órgão e o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "f) -Não foram localizadas as informações atualizadas sobre procedimentos licitatórios e contratações;",
+      "trechos_identificados": [
+        {
+          "trecho": "f) -Não foram localizadas as informações atualizadas sobre procedimentos licitatórios e contratações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A19B",
+          "tipologia_irregularidade": "Não divulga a relação das licitações em ordem sequencial, informando o número e modalidade licitatória, o objeto, valor estimado/homologado e a situação",
+          "descricao": "Não divulga a relação das licitações em ordem sequencial, informando o número e modalidade licitatória, o objeto, valor estimado/homologado e a situação",
+          "justificativa_tipologia": "A ausência de informações atualizadas sobre procedimentos licitatórios e contratações dificulta o controle social e a fiscalização da aplicação dos recursos públicos.A não divulgação de informações sobre licitações e contratações impede o controle social e a fiscalização da aplicação dos recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "g) -Não foram localizadas as informações atualizadas sobre procedimentos licitatórios e contratações;",
+      "trechos_identificados": [
+        {
+          "trecho": "g) -Não foram localizadas as informações atualizadas sobre procedimentos licitatórios e contratações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A19B",
+          "tipologia_irregularidade": "Não divulga a relação das licitações em ordem sequencial, informando o número e modalidade licitatória, o objeto, valor estimado/homologado e a situação",
+          "descricao": "Não divulga a relação das licitações em ordem sequencial, informando o número e modalidade licitatória, o objeto, valor estimado/homologado e a situação",
+          "justificativa_tipologia": "A ausência de informações atualizadas sobre procedimentos licitatórios e contratações dificulta o controle social e a fiscalização da aplicação dos recursos públicos.A não divulgação de informações sobre licitações e contratações impede o controle social e a fiscalização da aplicação dos recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "h) -Não foram localizadas as informações atualizadas sobre procedimentos licitatórios e contratações;",
+      "trechos_identificados": [
+        {
+          "trecho": "h) -Não foram localizadas as informações atualizadas sobre procedimentos licitatórios e contratações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A19B",
+          "tipologia_irregularidade": "Não divulga a relação das licitações em ordem sequencial, informando o número e modalidade licitatória, o objeto, valor estimado/homologado e a situação",
+          "descricao": "Não divulga a relação das licitações em ordem sequencial, informando o número e modalidade licitatória, o objeto, valor estimado/homologado e a situação",
+          "justificativa_tipologia": "A ausência de informações atualizadas sobre procedimentos licitatórios e contratações dificulta o controle social e a fiscalização da aplicação dos recursos públicos.A não divulgação de informações sobre licitações e contratações impede o controle social e a fiscalização da aplicação dos recursos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "i) - Não foram localizadas as informações sobre os dados gerais para o acompanhamento de programas, ações, projetos e obras do órgão, com informações sobre a execução de cada componente;",
+      "trechos_identificados": [
+        {
+          "trecho": "i) - Não foram localizadas as informações sobre os dados gerais para o acompanhamento de programas, ações, projetos e obras do órgão, com informações sobre a execução de cada componente",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A25B",
+          "tipologia_irregularidade": "Não divulga informações sobre obras: data de início, etapas, percentual concluído, status e previsão de conclusão.",
+          "descricao": "Não divulga informações sobre obras: data de início, etapas, percentual concluído, status e previsão de conclusão.",
+          "justificativa_tipologia": "A ausência de informações sobre o acompanhamento de programas, ações, projetos e obras dificulta o controle social e a avaliação da eficiência da gestão pública.A não divulgação de informações sobre programas, ações, projetos e obras dificulta o controle social e a avaliação da eficiência da gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "j) -  Ausência  de  esclarecimentos  quanto  a  procedimentos  a  serem adotados para informações que não podem ser concedidas imediatamente;",
+      "trechos_identificados": [
+        {
+          "trecho": "j) -  Ausência  de  esclarecimentos  quanto  a  procedimentos  a  serem adotados para informações que não podem ser concedidas imediatamente",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A35B",
+          "tipologia_irregularidade": "Não divulga, na seção relativa ao e-SIC, os prazos de resposta ao cidadão, incluindo o recursal, e as autoridades competentes para o exame dos pedidos, além do procedimento referente à realização do pedido e de eventual recurso",
+          "descricao": "Não divulga, na seção relativa ao e-SIC, os prazos de resposta ao cidadão, incluindo o recursal, e as autoridades competentes para o exame dos pedidos, além do procedimento referente à realização do pedido e de eventual recurso",
+          "justificativa_tipologia": "A falta de esclarecimentos sobre os procedimentos para informações que não podem ser concedidas imediatamente dificulta o acesso à informação e o exercício do controle social.A ausência de informações sobre os procedimentos para informações restritas dificulta o acesso à informação e o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "k) -Não  foi  evidenciado  a  criação  do  Serviço  de  Informações  ao Cidadão;",
+      "trechos_identificados": [
+        {
+          "trecho": "k) -Não  foi  evidenciado  a  criação  do  Serviço  de  Informações  ao Cidadão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A33C",
+          "tipologia_irregularidade": "Não indica o endereço físico, o telefone e o e-mail da unidade responsável pelo SIC, além do horário de funcionamento",
+          "descricao": "Não indica o endereço físico, o telefone e o e-mail da unidade responsável pelo SIC, além do horário de funcionamento",
+          "justificativa_tipologia": "A falta de criação do Serviço de Informações ao Cidadão (SIC) dificulta o acesso à informação e o exercício do controle social, além de violar a legislação pertinente.A ausência do Serviço de Informações ao Cidadão (SIC) dificulta o acesso à informação e o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "l) - Não foi localizada a divulgação de procedimentos para pedidos de acesso à informação;",
+      "trechos_identificados": [
+        {
+          "trecho": "l) - Não foi localizada a divulgação de procedimentos para pedidos de acesso à informação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A35B",
+          "tipologia_irregularidade": "Não divulga, na seção relativa ao e-SIC, os prazos de resposta ao cidadão, incluindo o recursal, e as autoridades competentes para o exame dos pedidos, além do procedimento referente à realização do pedido e de eventual recurso",
+          "descricao": "Não divulga, na seção relativa ao e-SIC, os prazos de resposta ao cidadão, incluindo o recursal, e as autoridades competentes para o exame dos pedidos, além do procedimento referente à realização do pedido e de eventual recurso",
+          "justificativa_tipologia": "A ausência de divulgação dos procedimentos para pedidos de acesso à informação dificulta o exercício do controle social e a transparência da gestão pública.A ausência de procedimentos claros para pedidos de acesso à informação dificulta o exercício do controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "m) -  Não foram localizadas as informações sobre procedimentos para classificação de informações restritas;",
+      "trechos_identificados": [
+        {
+          "trecho": "m) -  Não foram localizadas as informações sobre procedimentos para classificação de informações restritas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A ausência de informações sobre os procedimentos para classificação de informações restritas dificulta o controle social e a transparência da gestão pública.A falta de informações sobre os procedimentos para informações restritas impede o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "n) -  Da  análise  de  ferramentas  de  pesquisa  disponíveis  no  Portal, identificamos  que  há  precariedade  nas  pesquisas  dos  conteúdos publicados, não sendo possível pesquisar livremente por um determinado fornecedor, contrato, recurso;",
+      "trechos_identificados": [
+        {
+          "trecho": "n) -  Da  análise  de  ferramentas  de  pesquisa  disponíveis  no  Portal, identificamos  que  há  precariedade  nas  pesquisas  dos  conteúdos publicados, não sendo possível pesquisar livremente por um determinado fornecedor, contrato, recurso",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A2B",
+          "tipologia_irregularidade": "O site de transparência do órgão não observar as recomendações do Modelo de Acessibilidade em Governo Eletrônico (e-MAG)",
+          "descricao": "O site de transparência do órgão não observar as recomendações do Modelo de Acessibilidade em Governo Eletrônico (e-MAG)",
+          "justificativa_tipologia": "A precariedade das ferramentas de pesquisa dificulta o acesso à informação e o controle social.A dificuldade de pesquisa por informações específicas no portal dificulta o acesso à informação e o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "o) - Não se verificam no Portal da Transparências ferramentas eficientes de acessibilidade de conteúdo para pessoas com deficiência;",
+      "trechos_identificados": [
+        {
+          "trecho": "o) - Não se verificam no Portal da Transparências ferramentas eficientes de acessibilidade de conteúdo para pessoas com deficiência",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A2B",
+          "tipologia_irregularidade": "O site de transparência do órgão não observar as recomendações do Modelo de Acessibilidade em Governo Eletrônico (e-MAG)",
+          "descricao": "O site de transparência do órgão não observar as recomendações do Modelo de Acessibilidade em Governo Eletrônico (e-MAG)",
+          "justificativa_tipologia": "A ausência de ferramentas de acessibilidade para pessoas com deficiência dificulta o acesso à informação e o exercício do controle social.A falta de ferramentas de acessibilidade dificulta o acesso à informação e o controle social por pessoas com deficiência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "a) - Nas Dispensas e Inexigibilidades realizadas pela Câmara Municipal de Maués, exercício de 2018, verificou-se a ausência de designação de um representante da Administração especialmente designado para acompanhamento  dos  Contratos,  arts. 67 da Lei n°. 8.666/93, conforme Cartas Convites 012, 017, 018, 019, 015, 016; Dispensa n°. 01 e Inexigibilidade n°. 01.",
+      "trechos_identificados": [
+        {
+          "trecho": "a) - Nas Dispensas e Inexigibilidades realizadas pela Câmara Municipal de Maués, exercício de 2018, verificou-se a ausência de designação de um representante da Administração especialmente designado para acompanhamento  dos  Contratos,  arts. 67 da Lei n°. 8.666/93, conforme Cartas Convites 012, 017, 018, 019, 015, 016; Dispensa n°. 01 e Inexigibilidade n°. 01.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A ausência de designação de um representante da Administração para acompanhar os contratos dificulta a fiscalização e o controle da execução contratual, favorecendo a ocorrência de irregularidades.A falta de designação de um responsável dificulta o acompanhamento dos contratos, favorecendo irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n°. 8.666/93",
+              "artigo": "67",
+              "descricao": "artigo que descreve a designação de um representante da Administração especialmente designado para acompanhamento  dos  Contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "b) - Ausência da pesquisa de preços do mercado, bem como a ausência de pareceres técnicos e jurídicos,  itens  essenciais  de  Julgamento  e Homologação dos procedimentos licitatórios, contrariando os arts. 38, VI e art. 43, IV da Lei n°. 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "b) - Ausência da pesquisa de preços do mercado, bem como a ausência de pareceres técnicos e jurídicos,  itens  essenciais  de  Julgamento  e Homologação dos procedimentos licitatórios, contrariando os arts. 38, VI e art. 43, IV da Lei n°. 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "justificativa_tipologia": "A ausência de pesquisa de preços de mercado e de pareceres técnicos e jurídicos dificulta a avaliação da economicidade das contratações e aumenta o risco de irregularidades.A falta de pesquisa de preços e de pareceres aumenta o risco de irregularidades nas contratações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n°. 8.666/93",
+              "artigo": "38, VI",
+              "descricao": "artigo que descreve a Julgamento  e Homologação dos procedimentos licitatórios"
+            },
+            {
+              "norma": "Lei n°. 8.666/93",
+              "artigo": "43, IV",
+              "descricao": "artigo que descreve a Julgamento  e Homologação dos procedimentos licitatórios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "c) - Ausência de Procurador jurídico, em desacordo com a Constituição Republicana de 1988, arts. 131 e 132 c/c art. 12, inciso II do Código de Processo Civil,  conforme a Doutrina e a Jurisprudência, do Pretório Excelso, de Tribunais de Justiça e do TCE\\AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "c) - Ausência de Procurador jurídico, em desacordo com a Constituição Republicana de 1988, arts. 131 e 132 c/c art. 12, inciso II do Código de Processo Civil,  conforme a Doutrina e a Jurisprudência, do Pretório Excelso, de Tribunais de Justiça e do TCE\\AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A ausência de procurador jurídico compromete a legalidade dos processos administrativos e aumenta o risco de irregularidades.Ausência de procurador jurídico na câmara municipal compromete a legalidade dos processos administrativos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Republicana de 1988",
+              "artigo": "131",
+              "descricao": "artigo sobre a necessidade de processo legal"
+            },
+            {
+              "norma": "Constituição Republicana de 1988",
+              "artigo": "132",
+              "descricao": "artigo sobre a necessidade de processo legal"
+            },
+            {
+              "norma": "Código de Processo Civil",
+              "artigo": "12, inciso II",
+              "descricao": "artigo sobre a necessidade de processo legal"
+            }
+          ]
+        

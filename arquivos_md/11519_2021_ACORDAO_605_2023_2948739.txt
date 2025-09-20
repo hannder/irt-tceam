@@ -1,0 +1,109 @@
+{
+  "acordao": "605/2023",
+  "processo": "11519/2021",
+  "data_sessao": "3 de Abril de 2023",
+  "orgao": "Casa Civil",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Breno Penha Souza Serra"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual da Casa Civil, referente ao exercício de 2020, sob responsabilidade do Sr. Breno Penha Souza Serra, Gestor e Ordenador de Despesas, nos termos do art. 22, II, c/c o art. 24, ambos da Lei n.º 2.423/96TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual da Casa Civil, referente ao exercício de 2020, sob responsabilidade do Sr. Breno Penha Souza Serra, Gestor e Ordenador de Despesas, nos termos do art. 22, II, c/c o art. 24, ambos da Lei n.º 2.423/96TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Julgamento formal da prestação de contas, sem indicação de irregularidade",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96TCE/AM",
+              "artigo": "22, II",
+              "descricao": "Dispõe sobre o julgamento das contas com ressalvas"
+            },
+            {
+              "norma": "Lei n.º 2.423/96TCE/AM",
+              "artigo": "24",
+              "descricao": "Dispõe sobre o julgamento das contas com ressalvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Casa  Civil que  adote  planos  de  gestão  eficientes quanto à correta classificação da despesa (com pessoal e indenizatória), utilizando-se das rubricas orçamentárias estritamente de acordo com a legislação vigente, a fim de permitir o pleno controle por parte deste TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  Casa  Civil que  adote  planos  de  gestão  eficientes quanto à correta classificação da despesa (com pessoal e indenizatória), utilizando-se das rubricas orçamentárias estritamente de acordo com a legislação vigente, a fim de permitir o pleno controle por parte deste TCE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A recomendação indica uma falha na classificação da despesa, sugerindo um risco de burla ao processo legal de pagamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  próxima Comissão de Inspeção que verifique se houve as  correções  nos  lançamentos  dos  bens  patrimoniais  na  referida unidade, concernente ao item 9, da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  próxima Comissão de Inspeção que verifique se houve as  correções  nos  lançamentos  dos  bens  patrimoniais  na  referida unidade, concernente ao item 9, da fundamentação do Voto",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A determinação implica que houve problemas nos lançamentos dos bens patrimoniais, indicando uma deficiência no controle patrimonial que pode afetar a avaliação correta dos ativos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Breno Penha Souza Serra, da respectiva decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Breno Penha Souza Serra, da respectiva decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Apenas notificação da decisão, sem indicar problemas concretos ou estruturais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Procedimento padrão do TCE, sem apontar problemas concretos ou estruturais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

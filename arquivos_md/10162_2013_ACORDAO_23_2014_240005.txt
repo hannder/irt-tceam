@@ -1,0 +1,64 @@
+{
+  "acordao": "23/2014",
+  "processo": "10162/2013",
+  "data_sessao": "15 de janeiro de 2014",
+  "orgao": "SAAE Presidente Figueiredo",
+  "municipio": "Presidente Figueiredo",
+  "exercicio": "2012",
+  "responsavel": [
+    "José de Menezes Pinheiro"
+  ],
+  "itens": [
+    {
+      "tipo": "JULGAR IRREGULARES",
+      "descricao": "JULGAR  IRREGULARES as  Contas  do  Serviço  Autônomo  de  Água  e Esgoto de Presidente Figueiredo, no exercício de 2012, nos termos do art. 22, III, alínea 'b', da Lei n. 2423/96, sob a responsabilidade do Sr. JOSÉ MENEZES PINHEIRO ;",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR  IRREGULARES as  Contas  do  Serviço  Autônomo  de  Água  e Esgoto de Presidente Figueiredo, no exercício de 2012, nos termos do art. 22, III, alínea 'b', da Lei n. 2423/96, sob a responsabilidade do Sr. JOSÉ MENEZES PINHEIRO ;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A prestação de contas foi julgada irregular, indicando uma possível má gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "22, III, alínea 'b'",
+              "descricao": "Define as condições para julgamento de contas como irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "APLICAR MULTA",
+      "descricao": "APLICAR  MULTA no  valor  de  R$  8.768,25  (oito  mil  setecentos  e sessenta e oito reais e vinte e cinco centavos) ao Sr. José Menezes Pinheiro , com base no art. 54, II, da Lei Estadual n. 2.423/96, c/c o art. 308, VI, da Resolução n. 04/02-TCE (Redação dada pelo art. 2º da Resolução n. 25 de 30 de agosto de 2012), referente às impropriedades inseridas nos itens I e II do Relatório Conclusivo n. 03/2013-DICAMI.",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR  MULTA no  valor  de  R$  8.768,25  (oito  mil  setecentos  e sessenta e oito reais e vinte e cinco centavos) ao Sr. José Menezes Pinheiro , com base no art. 54, II, da Lei Estadual n. 2.423/96, c/c o art. 308, VI, da Resolução n. 04/02-TCE (Redação dada pelo art. 2º da Resolução n. 25 de 30 de agosto de 2012), referente às impropriedades inseridas nos itens I e II do Relatório Conclusivo n. 03/2013-DICAMI.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SANÇÕES",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "A multa é uma sanção aplicada devido a irregularidades encontradas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Base legal para aplicação de multa."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta a aplicação de multas (Redação dada pelo art. 2º da Resolução n. 25 de 30 de agosto de 2012)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

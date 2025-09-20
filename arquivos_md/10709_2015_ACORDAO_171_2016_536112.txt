@@ -1,0 +1,258 @@
+{
+  "acordao": "171/2016",
+  "processo": "10709/2015",
+  "data_sessao": "24 de Fevereiro de 2016",
+  "orgao": "Câmara Municipal de Anori",
+  "municipio": "Anori",
+  "exercicio": "2014",
+  "responsavel": [
+    "Sidionei Gomes Bezerra"
+  ],
+  "itens": [
+    {
+      "tipo": "Glosar",
+      "descricao": "Glosar o montante de R$ 551,58 (quinhentos e cinquenta e um reais e cinquenta e oito centavos), referente à impropriedade nº. 09 deste voto, referente ao Superfaturamento dos itens da Planilha Orçamentária - Reforma da Calçada da Câmara Municipal e Reposição do novo piso cerâmico, prática esta vedada pela legislação nos termos do art. 63, §2º, III, da Lei n. 4320/64, c/c art. 7º, §4º, da Lei n. 8666/93. Considerando o Senhor Sidionei Gomes Bezerra , Presidente da Câmara Municipal de Anori (U.G: 673) e Ordenador de Despesas, à época, em ALCANCE , nos termos do artigo 304, inciso I, da Resolução nº. 04/2002 - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Glosar o montante de R$ 551,58 (quinhentos e cinquenta e um reais e cinquenta e oito centavos), referente à impropriedade nº. 09 deste voto, referente ao Superfaturamento dos itens da Planilha Orçamentária - Reforma da Calçada da Câmara Municipal e Reposição do novo piso cerâmico, prática esta vedada pela legislação nos termos do art. 63, §2º, III, da Lei n. 4320/64, c/c art. 7º, §4º, da Lei n. 8666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "O trecho descreve um superfaturamento na planilha orçamentária, indicando serviços pagos, mas não executados, caracterizando um problema na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "63, §2º, III",
+              "descricao": "Refere-se às condições para a realização de despesas públicas, incluindo a vedação de pagamentos sem a devida comprovação dos serviços prestados."
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "7º, §4º",
+              "descricao": "Estabelece a necessidade de detalhamento dos projetos para garantir a correta execução e evitar pagamentos indevidos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias, para que o responsável recolha o valor do débito aos cofres da Fazenda Municipal, com a devida comprovação nestes autos (artigo 72, inciso III, alínea 'a' da Lei nº. 2423/1996 - LOTCE e artigo 308, §3°, da Resolução nº. 04/2002-RITCE). Expirado o prazo estabelecido, o referido valor deverá ser inscrito na Dívida Ativa do Município, seguida de imediata Cobrança Judicial cientificando este Tribunal de todas as medidas adotadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias, para que o responsável recolha o valor do débito aos cofres da Fazenda Municipal, com a devida comprovação nestes autos (artigo 72, inciso III, alínea 'a' da Lei nº. 2423/1996 - LOTCE e artigo 308, §3°, da Resolução nº. 04/2002-RITCE).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho determina um prazo para o recolhimento do débito, enquadrando-se como uma ação relacionada à execução financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "72, inciso III, alínea 'a'",
+              "descricao": "Lei Orgânica do TCE que trata das sanções aplicáveis em caso de irregularidades."
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "308, §3°",
+              "descricao": "Regulamento Interno do TCE que detalha os procedimentos para a cobrança de débitos."
+            }
+          ]
+        },
+        {
+          "trecho": "Expirado o prazo estabelecido, o referido valor deverá ser inscrito na Dívida Ativa do Município, seguida de imediata Cobrança Judicial cientificando este Tribunal de todas as medidas adotadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A medida de inscrição em dívida ativa e cobrança judicial está diretamente ligada à gestão fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar IRREGULAR , com fulcro no artigo 1º, inciso III, artigo 22, alínea 'b', da Lei nº. 2.423/1996-LOTCE; e artigo 188, §1º, inciso III, alínea 'b', da Resolução nº. 04/2002-RITCE, a Prestação de Contas, exercício de 2014, da Câmara de Anori (U.G: 673), de responsabilidade do Sr. Sidionei Gomes Bezerra, Presidente e Ordenador de Despesas, à época",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR , com fulcro no artigo 1º, inciso III, artigo 22, alínea 'b', da Lei nº. 2.423/1996-LOTCE; e artigo 188, §1º, inciso III, alínea 'b', da Resolução nº. 04/2002-RITCE, a Prestação de Contas, exercício de 2014, da Câmara de Anori (U.G: 673), de responsabilidade do Sr. Sidionei Gomes Bezerra, Presidente e Ordenador de Despesas, à época",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O julgamento das contas como irregulares com base em legislações específicas do TCE, sem detalhar as irregularidades, está relacionado à falta de informações essenciais nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2.423/1996-LOTCE",
+              "artigo": "1º, inciso III",
+              "descricao": "Lei Orgânica do TCE que trata da competência para julgar contas."
+            },
+            {
+              "norma": "Lei nº. 2.423/1996-LOTCE",
+              "artigo": "22, alínea 'b'",
+              "descricao": "Lei Orgânica do TCE que trata dos critérios para irregularidade das contas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "188, §1º, inciso III, alínea 'b'",
+              "descricao": "Regulamento Interno do TCE que detalha o processo de julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multar",
+      "descricao": "Multar no montante de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), o Sr. Sidionei Gomes Bezerra, Presidente da Câmara de Anori e Ordenador de Despesas, na forma prevista no art. 1º, XXVI e art. 52 da Lei nº 2423/96, c/c art. 308, VI, da Res. nº. 4/2002, alterado pela Res. n. 25/2012, referente aos atos praticados com grave infração à norma legal indicados nos itens 05, 06, 07, 08 (8.1 a 8.12) e 09 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar no montante de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), o Sr. Sidionei Gomes Bezerra, Presidente da Câmara de Anori e Ordenador de Despesas, na forma prevista no art. 1º, XXVI e art. 52 da Lei nº 2423/96, c/c art. 308, VI, da Res. nº. 4/2002, alterado pela Res. n. 25/2012, referente aos atos praticados com grave infração à norma legal indicados nos itens 05, 06, 07, 08 (8.1 a 8.12) e 09 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa é aplicada devido a atos com grave infração à norma legal, o que pode estar relacionado a irregularidades na gestão fiscal, como o descumprimento de limites de gastos com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º, XXVI",
+              "descricao": "Lei Orgânica do TCE que define as infrações e sanções aplicáveis."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "52",
+              "descricao": "Lei Orgânica do TCE que estabelece os critérios para aplicação de multas."
+            },
+            {
+              "norma": "Res. nº. 4/2002",
+              "artigo": "308, VI",
+              "descricao": "Regulamento Interno do TCE que detalha os procedimentos para aplicação de multas."
+            },
+             {
+              "norma": "Res. nº. 25/2012",
+              "artigo": "nao consta",
+              "descricao": "Alteração da Res. nº. 4/2002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Sidionei Gomes Bezerra, Presidente da Câmara Municipal de Anori e Ordenador de Despesas, à época, recolha aos cofres da Fazenda Estadual o valor da multa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (art. 55, da Lei n. 2423/96), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Sidionei Gomes Bezerra, Presidente da Câmara Municipal de Anori e Ordenador de Despesas, à época, recolha aos cofres da Fazenda Estadual o valor da multa ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (art. 55, da Lei n. 2423/96)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A72B",
+          "tipologia_irregularidade": "Alcance da Meta bimestral de arrecadação não atingido",
+          "descricao": "Arrecadação estar abaixo/acima do previsto.",
+          "justificativa_tipologia": "O estabelecimento de prazo para recolhimento de multa está relacionado à gestão das finanças públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "artigo 174 do RITCE",
+              "artigo": "174",
+              "descricao": "Regulamento Interno do TCE que estabelece os prazos processuais."
+            },
+             {
+              "norma": "Lei n. 2423/96",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a atualização monetária"
+            }
+          ]
+        },
+        {
+          "trecho": "ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução n. 4/2002 - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A autorização para a DICREX adotar medidas está relacionada à cobrança de dívida ativa, impactando a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002 - RITCE",
+              "artigo": "nao consta",
+              "descricao": "Detalha os procedimentos para a cobrança de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: 9.6.1- Remeta à atual Administração da Câmara Municipal de Anori (U.G: 673), cópias autênticas do Relatório Conclusivo nº. 143/2015-DICOP, às fls. 325/333; do Relatório Conclusivo nº. 005/2016-DICAMI, às fls. 334/357; e do Parecer n. 645/2016 MPC - EMFA, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeta à atual Administração da Câmara Municipal de Anori (U.G: 673), cópias autênticas do Relatório Conclusivo nº. 143/2015-DICOP, às fls. 325/333; do Relatório Conclusivo nº. 005/2016-DICAMI, às fls. 334/357; e do Parecer n. 645/2016 MPC - EMFA, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A remessa de documentos visa fortalecer o controle interno, prevenindo futuras irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: 9.6.2- Notifique o Senhor Sidionei Gomes Bezerra, Presidente da Câmara Municipal de Anori (U.G: 673) e Ordenador de Despesas, à época, com cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+      "trechos_identificados": [
+        {
+          "trecho": "Notifique o Senhor Sidionei Gomes Bezerra, Presidente da Câmara Municipal de Anori (U.G: 673) e Ordenador de Despesas, à época, com cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A notificação do responsável é uma formalidade processual, relacionada ao cumprimento de prazos e envio de informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: 9.6.3Após a ocorrência da coisa julgada administrativa, nos termos dos arts. 159 e 160, da Res. nº. 4/2002, adote as providências do art. 162, §2º, do RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Após a ocorrência da coisa julgada administrativa, nos termos dos arts. 159 e 160, da Res. nº. 4/2002, adote as providências do art. 162, §2º, do RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Procedimentos administrativos do TCE para o cumprimento da decisão, relacionados ao controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. nº. 4/2002",
+              "artigo": "159 e 160",
+              "descricao": "Refere-se à coisa julgada administrativa."
+            },
+            {
+              "norma": "RITCE",
+              "artigo": "162, §2º",
+              "descricao": "Refere-se aos procedimentos a serem adotados após a coisa julgada."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

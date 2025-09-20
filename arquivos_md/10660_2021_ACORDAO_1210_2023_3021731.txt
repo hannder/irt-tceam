@@ -1,0 +1,180 @@
+{
+  "acordao": "1210/2023",
+  "processo": "10660/2021",
+  "data_sessao": "20 de Junho de 2023",
+  "orgao": "Câmara Municipal de Maués",
+  "municipio": "Maués",
+  "exercicio": "2020",
+  "responsavel": [
+    "Simildon  Antonio  Cavalcante  da  Rocha"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Câmara  Municipal  de  Maués,  relativa  ao  exercício  de  2020,  de responsabilidade do Sr. Simildon Antônio Cavalcante da Rocha , nos  termos  do  art.  71,  II,  c/c  o  art.  75  da  Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Câmara  Municipal  de  Maués,  relativa  ao  exercício  de  2020,  de responsabilidade do Sr. Simildon Antônio Cavalcante da Rocha , nos  termos  do  art.  71,  II,  c/c  o  art.  75  da  Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação principal é o julgamento das contas, sendo que a tipologia reflete a ausencia de informações contabeis relevantes para a gestão",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "A Constituição Federal Art 71, II trata do julgamento das contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da Administração direta e indireta"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "A Constituição Federal Art 75 trata sobre as normas estabelecidas para os Tribunais de Contas"
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "A Lei Estadual nº 2423/96, Art 1º, II trata sobre as competencias do Tribunal de Contas do Amazonas em relação a Julgamento das contas dos administradores e demais responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "A Lei Estadual nº 2423/96, Art 22, II trata sobre  a competencia do Tribunal de Contas do Amazonas sobre a fiscalização das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "A Resolução nº 04/2002-TCE/AM, art. 188, §1º, II estabelece diretrizes sobre a organização e funcionamento do Tribunal de Contas do Estado do Amazonas, no que tange as prestações de contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Aplicar multa ao Sr. Simildon Antônio Cavalcante da Rocha , no valor de R$ 1.706,80 e fixar prazo de 30 dias para que o responsável recolha o valor da multa ,  por restrições consideradas não sanadas citadas  no  Relatório/Voto  ainda  que  as  contas  sejam  julgadas regulares com ressalvas, com base no art. 54, II, da Lei Orgânica do TCE/AM c/c o  art.  308,  VII,  da  Resolução  TCE/AM  nº  04/02,  com nova redação dada pela Resolução nº 04/2018, na esfera Estadual para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE,  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do  comprovante  de  pagamento  (autenticado  pelo  Banco)  a  esta Corte  de  Contas (art.  72,  inciso  III,  alínea  a,  da  Lei  Orgânica  do TCE/AM),  condição  imprescindível  para  emissão  do  Termo  de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará  na  continuidade  da  cobrança  administrativa  ou judicial  do  título  executivo  (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando  o  DERED  autorizado,  caso  expirado  o  referido  prazo,  a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme  estabelecido  no  Acordo  de  Cooperação  firmado  com  o Instituto de  Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Simildon Antônio Cavalcante da Rocha , no valor de R$ 1.706,80 e fixar prazo de 30 dias para que o responsável recolha o valor da multa ,  por restrições consideradas não sanadas citadas  no  Relatório/Voto  ainda  que  as  contas  sejam  julgadas regulares com ressalvas, com base no art. 54, II, da Lei Orgânica do TCE/AM c/c o  art.  308,  VII,  da  Resolução  TCE/AM  nº  04/02,  com nova redação dada pela Resolução nº 04/2018, na esfera Estadual para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE,  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE'.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A multa é aplicada devido a restrições não sanadas, indicando descumprimento de normas na gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "54, II",
+              "descricao": "A Lei Orgânica do TCE/AM, art. 54, II estabelece o poder de aplicar multas aos responsáveis em casos de irregularidades ou ilegalidades encontradas em processos de fiscalização."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/02",
+              "artigo": "308, VII",
+              "descricao": "A Resolução TCE/AM nº 04/02, art. 308, VII define os critérios para aplicação de multas em processos de contas, no âmbito do TCE/AM, bem como as atualizações estabelecidas na Resolução nº 04/2018."
+            }
+          ]
+        },
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do  comprovante  de  pagamento  (autenticado  pelo  Banco)  a  esta Corte  de  Contas (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do TCE/AM),  condição  imprescindível  para  emissão  do  Termo  de Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O controle interno é responsavel por monitorar e verificar se as determinações estão sendo cumpridas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "A Lei Orgânica do TCE/AM, art. 72, inciso III, alínea \"a\" descreve os procedimentos relacionados ao acompanhamento e fiscalização do cumprimento das decisões do Tribunal de Contas."
+            }
+          ]
+        },
+        {
+          "trecho": "O não adimplemento dessa obrigação pecuniária no prazo legal importará  na  continuidade  da  cobrança  administrativa  ou judicial  do  título  executivo (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando  o  DERED  autorizado,  caso  expirado  o  referido  prazo,  a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme  estabelecido  no  Acordo  de  Cooperação  firmado  com  o Instituto de  Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "As rotinas internas devem prever o processo de cobrança administrativa ou judicial, caso o pagamento não seja efetuado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "A Lei Orgânica do TCE/AM, art. 73 descreve os procedimentos para cobrança administrativa ou judicial de títulos executivos emitidos pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "Não Especificado",
+              "descricao": "A Resolução nº 04/2002-TCE/AM estabelece as normas internas e os procedimentos administrativos para o funcionamento do Tribunal de Contas do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a Câmara Municipal de Maués que: cumpra o disposto no art.48, caput, da Lei Complementar nº, 101/00, com  redação da LC nº 131/2009, no que tange a disponibilização em tempo real da integralidade dos processos licitatórios e atos relativos as despesas; cumpra rigorosamente as formalidades referentes aos procedimentos de licitação, dispensa e inexigibilidade; crie uma procuradoria jurídica na Câmara Municipal.",
+      "trechos_identificados": [
+        {
+          "trecho": "cumpra o disposto no art.48, caput, da Lei Complementar nº, 101/00, com  redação da LC nº 131/2009, no que tange a disponibilização em tempo real da integralidade dos processos licitatórios e atos relativos as despesas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O descumprimento da LRF em relação à disponibilização de processos licitatórios e despesas caracteriza uma falha na transparência da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/00",
+              "artigo": "48, caput",
+              "descricao": "A Lei Complementar nº 101/00, art. 48, caput, com redação da LC nº 131/2009, estabelece diretrizes para a transparência da gestão fiscal, incluindo a disponibilização em tempo real de informações sobre processos licitatórios e despesas."
+            }
+          ]
+        },
+        {
+          "trecho": "cumpra rigorosamente as formalidades referentes aos procedimentos de licitação, dispensa e inexigibilidade",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A recomendação para cumprir rigorosamente as formalidades em licitações, dispensas e inexigibilidades visa prevenir irregularidades nesses procedimentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não Especificado",
+              "artigo": "Não Especificado",
+              "descricao": "Legislação pertinente a licitações, dispensas e inexigibilidades."
+            }
+          ]
+        },
+        {
+          "trecho": "crie uma procuradoria jurídica na Câmara Municipal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A criação de uma procuradoria jurídica visa fortalecer o controle interno, garantindo a legalidade e regularidade dos processos administrativos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não Especificado",
+              "artigo": "Não Especificado",
+              "descricao": "Legislação que disciplina a criação de órgãos de controle interno e assessoramento jurídico na administração pública municipal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

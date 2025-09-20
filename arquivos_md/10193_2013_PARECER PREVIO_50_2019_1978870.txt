@@ -1,0 +1,287 @@
+{
+  "acordao": "50/2019",
+  "processo": "10193/2013",
+  "data_sessao": "18 de Novembro de 2019",
+  "orgao": "Prefeitura Municipal de São Paulo de Olivença",
+  "municipio": "São Paulo de Olivença",
+  "exercicio": "2013",
+  "responsavel": [
+    "Raimundo Nonato Souza Martins",
+    "João Lúcio Galvão Gonçalves",
+    "Marreira Construções e Com. De Prod. Alimentícios Ltda.",
+    "Empresa Nicson M Lima Transportes-ME"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas da Prefeitura Municipal de São Paulo  de  Olivença,  referente  ao  exercício  de  2012,  tendo  como responsável o Sr. Raimundo  Nonato  Souza  Martins , Prefeito e Ordenador de Despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas supracitadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas da Prefeitura Municipal de São Paulo  de  Olivença,  referente  ao  exercício  de  2012,  tendo  como responsável o Sr. Raimundo  Nonato  Souza  Martins , Prefeito e Ordenador de Despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas supracitadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "justificativa_tipologia": "A deliberação expressa o julgamento irregular das contas devido a falhas contábeis encontradas, o que justifica a classificação na tipologia indicada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica nº 2.423/96",
+              "artigo": "19, inciso II",
+              "descricao": "Responsabilidade pela irregularidade na prestação de contas"
+            },
+            {
+              "norma": "Lei Orgânica nº 2.423/96",
+              "artigo": "22, inciso III, alíneas 'b' e 'c'",
+              "descricao": "Consequências da irregularidade na prestação de contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Considerar  em  Alcance o Sr. Raimundo  Nonato  Souza  Martins , Prefeito e Ordenador de Despesas, no valor de R$ 2.066.610,09 (dois milhões, sessenta e seis mil, seiscentos e dez reais e nove centavos), nos  termos  do  art.  304,  inciso  I,  da  Resolução  nº  04/2002-TCE/AM, pelos  motivos  abaixo  discriminados,  que  devem  ser  recolhidos,  no prazo de 30 dias, na esfera Municipal para o órgão Prefeitura Municipal de São Paulo de Olivença, ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr. Raimundo  Nonato  Souza  Martins , Prefeito e Ordenador de Despesas, no valor de R$ 2.066.610,09 (dois milhões, sessenta e seis mil, seiscentos e dez reais e nove centavos), nos  termos  do  art.  304,  inciso  I,  da  Resolução  nº  04/2002-TCE/AM, pelos  motivos  abaixo  discriminados,  que  devem  ser  recolhidos,  no prazo de 30 dias, na esfera Municipal para o órgão Prefeitura Municipal de São Paulo de Olivença, ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n° 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "A determinação de alcance sugere uma potencial irregularidade no uso de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Responsabilidade pela restituição de valores ao erário"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No valor de R$ 387.001,00 (trezentos e oitenta e sete mil e um reais),  por  despesas  decorridas  sem  a  comprovação  de  sua  real necessidade, tais como, fornecimento de alimentos, cestas básicas e locação  de  embarcação  fluvial,  conforme  itens  23,  24  e  25,  da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 387.001,00 (trezentos e oitenta e sete mil e um reais),  por  despesas  decorridas  sem  a  comprovação  de  sua  real necessidade, tais como, fornecimento de alimentos, cestas básicas e locação  de  embarcação  fluvial,  conforme  itens  23,  24  e  25,  da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A ausência de comprovação das despesas indica uma falha na gestão dos recursos, justificando a classificação na tipologia relacionada a despesas sem comprovação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No valor de R$ 56.583,20 (cinquenta e seis mil, quinhentos e oitenta  e  três  reais  e  vinte  centavos), em  solidariedade  com  o Sr. João Lúcio Galvão Gonçalves , engenheiro contratado, pela ausência de elementos/documentos (relatórios técnicos periódicos, planilhas de medição,  termo  de  recebimento  provisório/definitivo,  diário  de  obra assinado  pelo  fiscal  e  outros  serviços  técnicos)  que  comprovem  a efetiva  atuação  na  prestação  de  serviço  de  assessoria  e  fiscalização técnica em engenharia civil, objeto da Carta Convite n° 001/2012, item 38.14, da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 56.583,20 (cinquenta e seis mil, quinhentos e oitenta  e  três  reais  e  vinte  centavos), em  solidariedade  com  o Sr. João Lúcio Galvão Gonçalves , engenheiro contratado, pela ausência de elementos/documentos (relatórios técnicos periódicos, planilhas de medição,  termo  de  recebimento  provisório/definitivo,  diário  de  obra assinado  pelo  fiscal  e  outros  serviços  técnicos)  que  comprovem  a efetiva  atuação  na  prestação  de  serviço  de  assessoria  e  fiscalização técnica em engenharia civil, objeto da Carta Convite n° 001/2012, item 38.14, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "A ausência de documentação comprobatória do serviço de engenharia aponta para uma falha na fiscalização da obra, o que justifica a classificação na tipologia indicada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  78.878,06 (setenta  e  oito  mil,  oitocentos  e setenta e oito reais e seis centavos), pela ausência de identificação de documento que comprove a destinação e/ou aplicação da compra de material  hidráulico,  na  Carta  Convite  n°  009/2012,  item  40.15,  da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  78.878,06 (setenta  e  oito  mil,  oitocentos  e setenta e oito reais e seis centavos), pela ausência de identificação de documento que comprove a destinação e/ou aplicação da compra de material  hidráulico,  na  Carta  Convite  n°  009/2012,  item  40.15,  da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A falta de comprovação da destinação dos materiais hidráulicos configura uma irregularidade na execução da obra, justificando a tipologia relacionada a ausência de detalhamento da execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  44.340,00 (quarenta  e  quatro  mil, trezentos e quarenta reais), pela ausência de elementos/documentos que comprovem  o efetivo fornecimento, bem  como, identificação da destinação  das  centrais  de  condicionador  de  ar,  da  Carta  Convite  n° 002/2012, item 41.11, da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  44.340,00 (quarenta  e  quatro  mil, trezentos e quarenta reais), pela ausência de elementos/documentos que comprovem  o efetivo fornecimento, bem  como, identificação da destinação  das  centrais  de  condicionador  de  ar,  da  Carta  Convite  n° 002/2012, item 41.11, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de comprovação do fornecimento das centrais de ar condicionado e da sua destinação configura uma irregularidade na gestão dos recursos, justificando a tipologia relacionada a ausência de detalhamento da execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  78.580,00 (setenta  e  oito  mil,  quinhentos  e oitenta reais), pela ausência de elementos/documentos que comprovem  o efetivo fornecimento, bem  como, identificação da destinação  dos  materiais  elétricos  adquiridos,  na  Carta  Convite  n° 008/2012, item 42.15, da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  78.580,00 (setenta  e  oito  mil,  quinhentos  e oitenta reais), pela ausência de elementos/documentos que comprovem  o efetivo fornecimento, bem  como, identificação da destinação  dos  materiais  elétricos  adquiridos,  na  Carta  Convite  n° 008/2012, item 42.15, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de comprovação do fornecimento dos materiais elétricos e da sua destinação configura uma irregularidade na gestão dos recursos, justificando a tipologia relacionada a ausência de detalhamento da execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  76.850,00 (setenta  e  seis  mil,  oitocentos  e cinquenta reais), em solidariedade com a Empresa Nicson M Lima Transportes-ME , pela ausência de elementos/documentos que comprovem  o efetivo fornecimento, bem  como, identificação da destinação  dos  materiais  adquiridos  (cimento),  na  Carta  Convite  n° 007/2012, item 43.12, da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  76.850,00 (setenta  e  seis  mil,  oitocentos  e cinquenta reais), em solidariedade com a Empresa Nicson M Lima Transportes-ME , pela ausência de elementos/documentos que comprovem  o efetivo fornecimento, bem  como, identificação da destinação  dos  materiais  adquiridos  (cimento),  na  Carta  Convite  n° 007/2012, item 43.12, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de comprovação do fornecimento de cimento e da sua destinação configura uma irregularidade na gestão dos recursos, justificando a tipologia relacionada a ausência de detalhamento da execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  42.000,00 (quarenta  e  dois  mil  reais) pela ausência de elementos/documentos que comprovem o efetivo fornecimento,  bem  como,  identificação  da  destinação  dos  materiais adquiridos  (cimento),  na  Carta  Convite  n°  016/2012,  item  44.15,  da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  42.000,00 (quarenta  e  dois  mil  reais) pela ausência de elementos/documentos que comprovem o efetivo fornecimento,  bem  como,  identificação  da  destinação  dos  materiais adquiridos  (cimento),  na  Carta  Convite  n°  016/2012,  item  44.15,  da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de comprovação do fornecimento de cimento e da sua destinação configura uma irregularidade na gestão dos recursos, justificando a tipologia relacionada a ausência de detalhamento da execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  9.500,00 (nove  mil  e  quinhentos  reais),  pela ausência de elementos/documentos que comprovem o efetivo fornecimento,  bem  como,  identificação  da  destinação  dos  materiais adquiridos (caixa d'água), na Carta Convite n° 010/2012, item 45.11, da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  9.500,00 (nove  mil  e  quinhentos  reais),  pela ausência de elementos/documentos que comprovem o efetivo fornecimento,  bem  como,  identificação  da  destinação  dos  materiais adquiridos (caixa d'água), na Carta Convite n° 010/2012, item 45.11, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de comprovação do fornecimento das caixas d'água e da sua destinação configura uma irregularidade na gestão dos recursos, justificando a tipologia relacionada a ausência de detalhamento da execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No valor de R$ 1.248.877,83 (um milhão, duzentos e quarenta e oito mil, oitocentos e setenta e sete reais e oitenta e três centavos), em solidariedade  com  a  Empresa  Marreira  Construções  e  Com.  De Prod.  Alimentícios  Ltda. ,  pela  ausência  dos  Boletins  de  medição, caracterizando  de  forma  precisa  as  etapas  e  serviços  concluídos  e suas  respectivas  correspondências  com  o  edital,  com  o  instrumento contratual e com  o  cronograma  físico-financeiro, aprovados  pela fiscalização e assinado pelo preposto da contratada e pelo gestor do contrato (Art. 63, § 2º, III  da  Lei  4.320/64  c/c  os  arts.  66  e  67  da  Lei 8666/93);  e  Registros  fotográficos  da  obra/serviço  (antes,  durante  e após  a  conclusão);  na  Carta  Concorrência  n°  001/2012,  item  48,  da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 1.248.877,83 (um milhão, duzentos e quarenta e oito mil, oitocentos e setenta e sete reais e oitenta e três centavos), em solidariedade  com  a  Empresa  Marreira  Construções  e  Com.  De Prod.  Alimentícios  Ltda. ,  pela  ausência  dos  Boletins  de  medição, caracterizando  de  forma  precisa  as  etapas  e  serviços  concluídos  e suas  respectivas  correspondências  com  o  edital,  com  o  instrumento contratual e com  o  cronograma  físico-financeiro, aprovados  pela fiscalização e assinado pelo preposto da contratada e pelo gestor do contrato (Art. 63, § 2º, III  da  Lei  4.320/64  c/c  os  arts.  66  e  67  da  Lei 8666/93);  e  Registros  fotográficos  da  obra/serviço  (antes,  durante  e após  a  conclusão);  na  Carta  Concorrência  n°  001/2012,  item  48,  da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "A ausência de boletins de medição e registros fotográficos configura uma deficiência no acompanhamento e fiscalização da obra, justificando a classificação na tipologia indicada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "63, § 2º, III",
+              "descricao": "Exigências para a comprovação da despesa"
+            },
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "66",
+              "descricao": "Execução dos contratos"
+            },
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "67",
+              "descricao": "Fiscalização dos contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "No  valor  de R$  44.000,00 (quarenta  e  quatro  mil  reais), referente  à  importância  paga  à  contratada  na  fonte  de  recurso  103COSIP,  de  uma  obra contemplada integralmente com  Recursos Federais, conforme afirma a DICOP, item 49.34, da fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No  valor  de R$  44.000,00 (quarenta  e  quatro  mil  reais), referente  à  importância  paga  à  contratada  na  fonte  de  recurso  103COSIP,  de  uma  obra contemplada integralmente com  Recursos Federais, conforme afirma a DICOP, item 49.34, da fundamentação do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A falta de clareza na aplicação dos recursos, pagando com fonte de recurso diferente, indica problemas na gestão orçamentária da obra, o que justifica a tipologia relacionada a ausência de detalhamento da execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Raimundo  Nonato  Souza  Martins ,  Prefeito  e Ordenador de Despesas, no valor de R$ 1.706,80 (um mil, setecentos e  seis  reais  e  oitenta  centavos),  conforme  art.  308,  inciso  I,  'a'  da Resolução nº. 04/2002-TCE/AM, alterado pela Resolução nº 04/2018TCE/AM  por  todos  os  meses  em  que  os  demonstrativos  contábeis foram entregues com atraso (janeiro a dezembro/2012) , perfazendo o montante de R$ 20.481,60 (vinte mil, quatrocentos e oitenta e um reais e  sessenta  centavos),  constante  no  item  20,  da  fundamentação  do Voto,  que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Raimundo  Nonato  Souza  Martins ,  Prefeito  e Ordenador de Despesas, no valor de R$ 1.706,80 (um mil, setecentos e  seis  reais  e  oitenta  centavos),  conforme  art.  308,  inciso  I,  'a'  da Resolução nº. 04/2002-TCE/AM, alterado pela Resolução nº 04/2018TCE/AM  por  todos  os  meses  em  que  os  demonstrativos  contábeis foram entregues com atraso (janeiro a dezembro/2012) , perfazendo o montante de R$ 20.481,60 (vinte mil, quatrocentos e oitenta e um reais e  sessenta  centavos),  constante  no  item  20,  da  fundamentação  do Voto,  que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A aplicação de multa devido à entrega de demonstrativos contábeis com atraso se enquadra na tipologia de balancetes mensais entregues fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-TCE/AM",
+              "artigo": "308, inciso I, 'a'",
+              "descricao": "Multa por atraso na entrega de documentos contábeis"
+            },
+            {
+              "norma": "Resolução nº 04/2018-TCE/AM",
+              "artigo": "n/a",
+              "descricao": "Alteração da Resolução nº. 04/2002-TCE/AM"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Obrigatoriedade de encaminhamento do comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Raimundo  Nonato  Souza  Martins ,  Prefeito  e Ordenador de Despesas, no valor de R$ 1.706,80 (um mil, setecentos e  seis  reais  e  oitenta  centavos),  conforme  art.  308,  inciso  I,  'b'  da Resolução nº. 04/2002-TCE/AM, alterado pela Resolução nº 04/2018TCE/AM  por  cada  bimestre  (3°  e  4°  bimestres/2012)  em  que  foi entregue com atraso o Relatório Resumido de Execução Orçamentária, perfazendo o montante de R$ 3.413,60 (três mil, quatrocentos e treze reais  e  sessenta  centavos),  constante  no  item 18,  da fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico da SEFAZ/AM,  

@@ -1,0 +1,70 @@
+{
+  "acordao": "598/2023",
+  "processo": "11792/2021",
+  "data_sessao": "2023-04-03",
+  "orgao": "Unidade Executora de Projetos",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Keltom Kellyo de Aguiar Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Unidade Executora de Projetos que:\n- Em  casos  futuros,  caso  existam  mudanças  significativas nos  aditivos  de  contratos  firmados  pelo  órgão,  que  seja verificada a necessidade de se proceder à nova designação de fiscal, nos termos do art. 67 da Lei n° 8666/1993;\n- Observe  com  maior  cautela  os  termos  da  Resolução  n° 27, de 25 de outubro de 2012 - TCE/AM;\n- Observe com maior cautela  as  exigências  da  Resolução n°  1025/2009  -  CONFEA,  especialmente  no  que  tange  à validade do art.",
+      "trechos_identificados": [
+        {
+          "trecho": "Em  casos  futuros,  caso  existam  mudanças  significativas nos  aditivos  de  contratos  firmados  pelo  órgão,  que  seja verificada a necessidade de se proceder à nova designação de fiscal, nos termos do art. 67 da Lei n° 8666/1993.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16B",
+          "tipologia_irregularidade": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "descricao": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona).",
+          "justificativa_tipologia": "A recomendação de designar um novo fiscal em caso de mudanças significativas em aditivos contratuais, conforme o art. 67 da Lei nº 8666/1993, indica uma deficiência no controle e fiscalização dos contratos, impactando na legalidade e eficiência do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8666/1993",
+              "artigo": "67",
+              "descricao": "A recomendação de designar um novo fiscal em caso de mudanças significativas em aditivos contratuais, conforme o art. 67 da Lei nº 8666/1993, indica uma deficiência no controle e fiscalização dos contratos."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe  com  maior  cautela  os  termos  da  Resolução  n° 27, de 25 de outubro de 2012 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "A recomendação de observar com maior cautela os termos da Resolução nº 27, de 25 de outubro de 2012 - TCE/AM, indica uma deficiência no controle e fiscalização dos projetos de obras públicas, impactando na legalidade e eficiência do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 27, de 25 de outubro de 2012 - TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "A recomendação de observar com maior cautela os termos da Resolução nº 27, de 25 de outubro de 2012 - TCE/AM, indica uma deficiência no controle e fiscalização dos projetos de obras públicas, impactando na legalidade e eficiência do processo."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe com maior cautela  as  exigências  da  Resolução n°  1025/2009  -  CONFEA,  especialmente  no  que  tange  à validade do art.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "A recomendação de observar com maior cautela as exigências da Resolução nº 1025/2009 - CONFEA, indica uma deficiência no controle e fiscalização da validade do ART de obras públicas, impactando na legalidade e eficiência do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n°  1025/2009  -  CONFEA",
+              "artigo": "Não consta",
+              "descricao": "A recomendação de observar com maior cautela as exigências da Resolução nº 1025/2009 - CONFEA, indica uma deficiência no controle e fiscalização da validade do ART de obras públicas, impactando na legalidade e eficiência do processo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

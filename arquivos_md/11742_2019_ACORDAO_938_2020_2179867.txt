@@ -1,0 +1,398 @@
+{
+  "acordao": "938/2020",
+  "processo": "11742/2019",
+  "data_sessao": "30 de Setembro de 2020",
+  "orgao": "Fundo de Aposentadoria e Pensões do Município de Canutama - FAPEMUC",
+  "municipio": "Canutama",
+  "exercicio": "2018",
+  "responsavel": [
+    "Barnabé Andrade Leitão"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Barnabé Andrade Leitão, Diretor-Presidente do Fundo de Aposentadoria e Pensões do Município de Canutama - FAPEMUC, exercício de 2018, conforme art. 22, III, da Lei nº 2.423/96 c/c art. 188, § 1º, III, 'b', da Resolução nº 04/02- RI TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr. Barnabé Andrade Leitão, Diretor-Presidente do Fundo de Aposentadoria e Pensões do Município de Canutama - FAPEMUC, exercício de 2018",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas foi considerada irregular, indicando falhas que prejudicam o acompanhamento da gestão de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Resolução nº 04/02- RI TCE/AM",
+              "artigo": "188",
+              "descricao": "Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Barnabé Andrade Leitão , no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), nos termos do art. 54, VI, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Relatório/Voto, a qual deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Barnabé Andrade Leitão , no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), nos termos do art. 54, VI, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Relatório/Voto, a qual deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A aplicação de multa por infração a normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais indica um descumprimento de metas fiscais e normas de gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54",
+              "descricao": "Aplica multas"
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308",
+              "descricao": "Aplica multas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que observe as normas sobre a gestão e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica, em especial:",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à origem que observe as normas sobre a gestão e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica, em especial:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A1B",
+          "tipologia_irregularidade": "Estrutura física do Departamento inadequada para o desempenho das funções/atribuídas e delegadas ao RPPS",
+          "descricao": "Espaço inadequado pode ocasionar má gestão de organização documental necessária a gestão pessoal dos segurados, consequentemente perda ou arquivamento equivocado das informações. Informações e execuções das atividades essências por apenas um servidor pode ocasionar a centralização dessas informações com risco da descontinuidade dos serviços rotineiros, caso este servidor venha se afastar por situações adversas. Não dispondo de controle processual e Procedimentos Padrão Operacional da tramitação dos processos, corre-se risco da perda de prazos legais a serem cumpridos ou processos ficarem paralisados sem informações e passadas a parte interessada.",
+          "justificativa_tipologia": "A determinação de observar as normas sobre a gestão e organização previdenciária sugere uma estrutura física inadequada no departamento, prejudicando o desempenho das funções do RPPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CRFB/88",
+              "artigo": "40",
+              "descricao": "Regras gerais sobre o sistema de previdência social"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observe com mais rigor os prazos regimentais para encaminhamento dos balancetes mensais ao TCE ( Achado de Auditoria 1 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com mais rigor os prazos regimentais para encaminhamento dos balancetes mensais ao TCE ( Achado de Auditoria 1 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O texto indica que os balancetes mensais não foram entregues dentro do prazo regimental, caracterizando uma falha no cumprimento de obrigações documentais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que providencie de imediato a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos servidores da Prefeitura de Canutama, exercício 2018, com os valores atualizados, conforme disposição do art. 1º, II, da Lei Federal nº 9.717/98; arts. 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 308/2009; art. 1º da Lei Municipal nº 325/2010; art. 2º, §1º da Lei Municipal nº 336/2010 ( Achado de Auditoria 2 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Que providencie de imediato a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos servidores da Prefeitura de Canutama, exercício 2018, com os valores atualizados, conforme disposição do art. 1º, II, da Lei Federal nº 9.717/98; arts. 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 308/2009; art. 1º da Lei Municipal nº 325/2010; art. 2º, §1º da Lei Municipal nº 336/2010 ( Achado de Auditoria 2 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação de cobrança imediata das contribuições previdenciárias indica uma ausência de controle sistemático no cálculo e repasse dessas contribuições.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 9.717/98",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "19",
+              "descricao": "Regras para contribuição previdenciária"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "20",
+              "descricao": "Regras para contribuição previdenciária"
+            },
+            {
+              "norma": "Lei Municipal nº 308/2009",
+              "artigo": "1º",
+              "descricao": "Regras para contribuição previdenciária"
+            },
+            {
+              "norma": "Lei Municipal nº 325/2010",
+              "artigo": "1º",
+              "descricao": "Regras para contribuição previdenciária"
+            },
+            {
+              "norma": "Lei Municipal nº 336/2010",
+              "artigo": "2º",
+              "descricao": "Regras para contribuição previdenciária"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que providencie de imediato a cobrança dos juros e correção dos recolhimentos realizados com atraso das competências Janeiro, Fevereiro, Março e Abril/2018, devidamente atualizados, conforme disposição do art. 1º, II, da Lei Federal nº 9.717/98; arts. 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 308/2009; art. 1º da Lei Municipal nº 325/2010; art. 2º, §1º da Lei Municipal nº 336/2010; art. 1º da Lei Municipal nº 349/2011 ( Achado de Auditoria 3 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Que providencie de imediato a cobrança dos juros e correção dos recolhimentos realizados com atraso das competências Janeiro, Fevereiro, Março e Abril/2018, devidamente atualizados, conforme disposição do art. 1º, II, da Lei Federal nº 9.717/98; arts. 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 308/2009; art. 1º da Lei Municipal nº 325/2010; art. 2º, §1º da Lei Municipal nº 336/2010; art. 1º da Lei Municipal nº 349/2011 ( Achado de Auditoria 3 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação para cobrar juros e correção de recolhimentos atrasados indica uma fragilidade no controle sistemático dos repasses e pagamentos das contribuições previdenciárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 9.717/98",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "19",
+              "descricao": "Dispõe sobre o Regime Próprio de Previdência Social do Município de Canutama"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "20",
+              "descricao": "Dispõe sobre o Regime Próprio de Previdência Social do Município de Canutama"
+            },
+            {
+              "norma": "Lei Municipal nº 308/2009",
+              "artigo": "1º",
+              "descricao": "Altera a Lei Municipal nº 267/2003"
+            },
+            {
+              "norma": "Lei Municipal nº 325/2010",
+              "artigo": "1º",
+              "descricao": "Altera a Lei Municipal nº 267/2003"
+            },
+            {
+              "norma": "Lei Municipal nº 336/2010",
+              "artigo": "2º",
+              "descricao": "Altera a Lei Municipal nº 267/2003"
+            },
+            {
+              "norma": "Lei Municipal nº 349/2011",
+              "artigo": "1º",
+              "descricao": "Altera a Lei Municipal nº 267/2003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que providencie de imediato a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos servidores da Câmara Municipal de Canutama, exercício 2018, com os valores atualizados, conforme disposição do art. 1º, II, da Lei Federal nº 9.717/98; arts. 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 308/2009; art. 1º da Lei Municipal nº 325/2010; art. 2º, §1º da Lei Municipal nº 336/2010 2011 ( Achado de Auditoria 4 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Que providencie de imediato a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos servidores da Câmara Municipal de Canutama, exercício 2018, com os valores atualizados, conforme disposição do art. 1º, II, da Lei Federal nº 9.717/98; arts. 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 308/2009; art. 1º da Lei Municipal nº 325/2010; art. 2º, §1º da Lei Municipal nº 336/2010 2011 ( Achado de Auditoria 4 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação de cobrança imediata das contribuições previdenciárias da Câmara Municipal indica uma fragilidade no controle sistemático dos repasses e pagamentos dessas contribuições.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 9.717/98",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "19",
+              "descricao": "Dispõe sobre o Regime Próprio de Previdência Social do Município de Canutama"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "20",
+              "descricao": "Dispõe sobre o Regime Próprio de Previdência Social do Município de Canutama"
+            },
+            {
+              "norma": "Lei Municipal nº 308/2009",
+              "artigo": "1º",
+              "descricao": "Altera a Lei Municipal nº 267/2003"
+            },
+            {
+              "norma": "Lei Municipal nº 325/2010",
+              "artigo": "1º",
+              "descricao": "Altera a Lei Municipal nº 267/2003"
+            },
+            {
+              "norma": "Lei Municipal nº 336/2010",
+              "artigo": "2º",
+              "descricao": "Altera a Lei Municipal nº 267/2003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que providencie de imediato a realização da Avaliação Atuarial a fim de elaborar um novo plano de custeio para o RPPS de Canutama, conforme disposição do art. 1º, I, da Lei 9.717/98; art. 8º, Portaria MPS nº 402/2008; arts. 17, 18 e 19, Portaria MPS nº 403/2008; art. 15 da Lei Municipal nº 267/2003; art. 1º, Lei Municipal nº 325/2010, que modificou o art. 14 da Lei Municipal nº 267/2003; e art. 2º, Lei Municipal nº 336/2010 ( Achado de Auditoria 6 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Que providencie de imediato a realização da Avaliação Atuarial a fim de elaborar um novo plano de custeio para o RPPS de Canutama, conforme disposição do art. 1º, I, da Lei 9.717/98; art. 8º, Portaria MPS nº 402/2008; arts. 17, 18 e 19, Portaria MPS nº 403/2008; art. 15 da Lei Municipal nº 267/2003; art. 1º, Lei Municipal nº 325/2010, que modificou o art. 14 da Lei Municipal nº 267/2003; e art. 2º, Lei Municipal nº 336/2010 ( Achado de Auditoria 6 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A175B",
+          "tipologia_irregularidade": "A unidade gestora do RPPS realizou a avaliação atuarial no exercício, conforme norma vigente",
+          "descricao": "A unidade gestora do RPPS não realizou a avaliação atuarial no exercício, conforme norma vigente.",
+          "justificativa_tipologia": "A determinação para realizar a avaliação atuarial indica que ela não foi feita ou está desatualizada, o que compromete o planejamento e a sustentabilidade do RPPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 9.717/98",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            },
+            {
+              "norma": "Portaria MPS nº 402/2008",
+              "artigo": "8º",
+              "descricao": "Dispõe sobre as normas para elaboração e implantação do plano de contas dos RPPS"
+            },
+            {
+              "norma": "Portaria MPS nº 403/2008",
+              "artigo": "17",
+              "descricao": "Dispõe sobre as aplicações dos recursos financeiros dos RPPS"
+            },
+            {
+              "norma": "Portaria MPS nº 403/2008",
+              "artigo": "18",
+              "descricao": "Dispõe sobre as aplicações dos recursos financeiros dos RPPS"
+            },
+            {
+              "norma": "Portaria MPS nº 403/2008",
+              "artigo": "19",
+              "descricao": "Dispõe sobre as aplicações dos recursos financeiros dos RPPS"
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "15",
+              "descricao": "Dispõe sobre a estrutura e o funcionamento do RPPS"
+            },
+            {
+              "norma": "Lei Municipal nº 325/2010",
+              "artigo": "1º",
+              "descricao": "Altera dispositivos da Lei Municipal nº 267/2003"
+            },
+            {
+              "norma": "Lei Municipal nº 336/2010",
+              "artigo": "2º",
+              "descricao": "Altera dispositivos da Lei Municipal nº 267/2003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que providencie, de imediato, a regularização da base de cálculos dos servidores efetivos e comissionados da Prefeitura e da Câmara Municipal de Canutama, a fim de adequá-la à legislação vigente, conforme disposto art. 1º, II e III, Lei Federal nº 9.717/98; arts. 1º, 4º, §1º, VIII, e §2º Lei Federal nº 10.887/2004; arts. 2º, §2º, 4º, §1º, Portaria MPS nº 402/2008; art. 29, ON MPS nº 02/2009; art. 14, §1º, 42, §1º da Lei Municipal nº 267/2003 ( Achados de Auditoria 7, 8 e 9 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Que providencie, de imediato, a regularização da base de cálculos dos servidores efetivos e comissionados da Prefeitura e da Câmara Municipal de Canutama, a fim de adequá-la à legislação vigente, conforme disposto art. 1º, II e III, Lei Federal nº 9.717/98; arts. 1º, 4º, §1º, VIII, e §2º Lei Federal nº 10.887/2004; arts. 2º, §2º, 4º, §1º, Portaria MPS nº 402/2008; art. 29, ON MPS nº 02/2009; art. 14, §1º, 42, §1º da Lei Municipal nº 267/2003 ( Achados de Auditoria 7, 8 e 9 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação de regularizar a base de cálculos dos servidores indica uma falta de controle sistemático no cálculo das contribuições previdenciárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 9.717/98",
+              "artigo": "1º",
+              "descricao": "Estabelece regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos."
+            },
+            {
+              "norma": "Lei Federal nº 10.887/2004",
+              "artigo": "1º",
+              "descricao": "Dispõe sobre a aplicação de disposições da Emenda Constitucional nº 41, de 19 de dezembro de 2003"
+            },
+            {
+              "norma": "Lei Federal nº 10.887/2004",
+              "artigo": "4º",
+              "descricao": "Dispõe sobre a aplicação de disposições da Emenda Constitucional nº 41, de 19 de dezembro de 2003"
+            },
+            {
+              "norma": "Portaria MPS nº 402/2008",
+              "artigo": "2º",
+              "descricao": "Estabelece normas para o funcionamento dos RPPS"
+            },
+            {
+              "norma": "Portaria MPS nº 402/2008",
+              "artigo": "4º",
+              "descricao": "Estabelece normas para o funcionamento dos RPPS"
+            },
+            {
+              "norma": "ON MPS nº 02/2009",
+              "artigo": "29",
+              "descricao": "Orientações e procedimentos sobre os regimes próprios de previdência social."
+            },
+            {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "14",
+              "descricao": "Dispõe sobre o Regime Próprio de Previdência Social do Município de Canutama"
+            },
+             {
+              "norma": "Lei Municipal nº 267/2003",
+              "artigo": "42",
+              "descricao": "Dispõe sobre o Regime Próprio de Previdência Social do Município de Canutama"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que providencie, de imediato, o levantamento dos descontos da contribuição previdenciária ocorrida indevidamente nos salários dos servidores da Prefeitura e da Câmara, exercício 2018, com a posterior devolução ( Achados de Auditoria 7, 8 e 9 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Que providencie, de imediato, o levantamento dos descontos da contribuição previdenciária ocorrida indevidamente nos salários dos servidores da Prefeitura e da Câmara, exercício 2018, com a posterior devolução ( Achados de Auditoria 7, 8 e 9 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "O TCE/AM constatou a não conformidade do repasse, à Unidade Gestora do Regime Próprio de Previdência, das contribuições previdenciárias e das contribuições parceladas, por meio dos documentos/informações fornecidos pelos representantes legais do Ente Federativo.",
+          "justificativa_tipologia": "A determinação para levantar os descontos indevidos e realizar a posterior devolução indica uma fragilidade no controle sistemático dos cálculos e repasses das contribuições previdenciárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que providencie de imediato a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos servidores do Auxílio-Doença, da Prefeitura de Canutama, exercício 2018, com os valores devidamente atualizados, conforme disposição art. 4, §2º §3º, Portaria MPS 402/2008; arts. 13, § 1º, 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 325/2010; art, 2º da Lei Municipal nº 336/2010 ( Achado de Auditoria 10 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Que providencie de imediato a cobrança dos recolhimentos das contribuições previdenciárias patronal e dos servidores do Auxílio-Doença, da Prefeitura de Canutama, exercício 2018, com os valores devidamente atualizados, conforme disposição art. 4, §2º §3º, Portaria MPS 402/2008; arts. 13, § 1º, 19 e 20 da Lei Municipal nº 267/2003; art. 1º da Lei Municipal nº 325/2010; art, 2º da Lei Municipal nº 336/2010 ( Achado de Auditoria 10 )",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "

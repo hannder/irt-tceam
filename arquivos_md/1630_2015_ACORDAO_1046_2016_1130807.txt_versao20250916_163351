@@ -1,0 +1,28 @@
+{
+  "acordao": "1046/2016",
+  "processo": "1630/2015",
+  "data_sessao": "13 de Dezembro de 2016",
+  "orgao": "Instituto da Mulher Dona Lindu",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Agnaldo Gomes da Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "determinacao",
+      "descricao": "Notificar o Sr. Agnaldo Gomes da Costa, Diretor-Geral do Instituto da Mulher \"Dona Lindu\", exercício de 2014, concedendo-lhe o prazo de 30 dias para apresentar justificativas que julgar necessárias aos esclarecimentos das restrições detectadas pelo Órgão Técnico.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr.  Agnaldo Gomes da Costa, Diretor-Geral do Instituto da Mulher \"Dona Lindu\", exercício de 2014, concedendo-lhe o prazo de 30 dias para apresentar justificativas que julgar necessárias aos esclarecimentos das restrições detectadas pelo Órgão Técnico.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A9B",
+          "tipologia_irregularidade": "Omissão do Responsável pela Unidade de Controle Interno",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A notificação para justificar restrições, embora não seja uma irregularidade em si, indica potenciais falhas no controle interno, como a falta ou falha na prestação de contas de diárias, justificando a tipologia escolhida.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

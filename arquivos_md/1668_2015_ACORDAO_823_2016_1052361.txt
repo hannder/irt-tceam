@@ -1,0 +1,109 @@
+{
+  "acordao": "823/2016",
+  "processo": "1668/2015",
+  "data_sessao": "27 de Setembro de 2016",
+  "orgao": "Fundo de Apoio do Ministério Público do Amazonas - FAMP/AM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Francisco das Chagas Santiago da Cruz",
+    "Carlos Fábio Braga Monteiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar Regular a Prestação de Contas do Fundo de Apoio do Ministério Público do Amazonas - FAMP/AM, referente ao exercício de 2014, de responsabilidade do Sr. Francisco  das  Chagas  Santiago  da  Cruz (no período de 01.01.2014  a 13.10.2014)  e  do  Sr.  Carlos  Fábio  Braga Monteiro  (no  período  de  14.10.2014  a 31.12.2014), nos termos do art. 1º, II, c/c art. 22, I, da Lei Estadual nº 2423/1996, e art. 188, §1º, I, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular a Prestação de Contas do Fundo de Apoio do Ministério Público do Amazonas - FAMP/AM, referente ao exercício de 2014, de responsabilidade do Sr. Francisco  das  Chagas  Santiago  da  Cruz (no período de 01.01.2014  a 13.10.2014)  e  do  Sr.  Carlos  Fábio  Braga Monteiro  (no  período  de  14.10.2014  a 31.12.2014), nos termos do art. 1º, II, c/c art. 22, I, da Lei Estadual nº 2423/1996, e art. 188, §1º, I, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares, sem apontar irregularidades contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/1996",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas e dá outras providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao atual Procurador-Geral de Justiça que busque efetuar um melhor  controle  das  receitas  destinadas  ao  FAMP/AM,  a  fim  de  ter  projeções  que melhor representem sua realidade financeira",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao atual Procurador-Geral de Justiça que busque efetuar um melhor  controle  das  receitas  destinadas  ao  FAMP/AM,  a  fim  de  ter  projeções  que melhor representem sua realidade financeira",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Falta de planejamento orçamentário",
+          "justificativa_tipologia": "A recomendação indica uma deficiência no planejamento das receitas, o que pode impactar a execução orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação  plena  ao  responsável ,  nos  termos  do  art.  23,  da  Lei Estadual nº 2423/1996, c/c art. 189, I, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação  plena  ao  responsável ,  nos  termos  do  art.  23,  da  Lei Estadual nº 2423/1996, c/c art. 189, I, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho se refere à quitação das contas, não indicando irregularidades contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas e dá outras providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Finalmente, determinar o arquivamento do presente processo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Finalmente, determinar o arquivamento do presente processo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho determina o arquivamento do processo, sem apontar irregularidades contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

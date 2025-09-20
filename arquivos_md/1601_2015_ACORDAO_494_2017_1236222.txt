@@ -1,0 +1,188 @@
+{
+  "acordao": "494/2017",
+  "processo": "1601/2015",
+  "data_sessao": "16 de Maio de 2017",
+  "orgao": "Fundação Municipal de Cultura, Turismo e Eventos - MANAUSCULT",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Bernardo Soares Monteiro de Paula",
+    "Aldemara Kimura de Menezes"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. Bernardo Soares  Monteiro  de  Paula,  Diretor-Presidente  da  Fundação  Municipal de Cultura, Turismo e Eventos - MANAUSCULT, no exercício de 2014, com base no art. 22, II da Lei 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas do Sr. Bernardo Soares  Monteiro  de  Paula,  Diretor-Presidente  da  Fundação  Municipal de Cultura, Turismo e Eventos - MANAUSCULT, no exercício de 2014, com base no art. 22, II da Lei 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A fundamentação indica julgamento das contas, sem identificar uma falha ou problema concreto na gestão, apenas indicando o artigo e a lei.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22, II",
+              "descricao": "Julgamento das contas com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Bernardo Soares Monteiro de Paula, no valor de R$ 7.453,02 (sete mil, quatrocentos e cinquenta e três reais e dois centavos), que corresponde a 17% do estabelecido no art. 308  caput  da  Resolução  04/2002  c/c  com  art.  53, parágrafo único, da Lei 2423/96 pelas Restrições 5 referente a horas extras pagas em virtude da Copa de 2014; 7, 8 e 9 referente a escrituração da conta de Bens Imóveis e móveis,estas restrições apontadas  no  Relatório  Conclusivo nº 005/2016 -DICAI-MA (fls. 2602/2637 -Processo 1601/2015); bem como pela impropriedade relativa ao desvio de finalidade na distribuição dos ingressos adquiridos para  jogos  da  Copa  do  Mundo  de  2014  realizados  em Manaus, analisada na Representação 2839/2014 e apontada no  Parecer  1134/2017 -MP  -  RCKS  (fls. 3006/3011 -Processo 1601/2015). A multa deve ser recolhida na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias aos cofres da Fazenda Pública nos termos do art. 72, inciso II, da Lei nº 2423/1996 e caso não seja recolhida, proceda a inscrição na dívida ativa pela Fazenda Estadual, em consonância com art. 73 da Lei nº 2.423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Bernardo Soares Monteiro de Paula, no valor de R$ 7.453,02 (sete mil, quatrocentos e cinquenta e três reais e dois centavos), que corresponde a 17% do estabelecido no art. 308  caput  da  Resolução  04/2002  c/c  com  art.  53, parágrafo único, da Lei 2423/96 pelas Restrições 5 referente a horas extras pagas em virtude da Copa de 2014",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A83A",
+          "tipologia_irregularidade": "Ausência de pagamento devido",
+          "descricao": "Ausência de pagamento de valores devidos a trabalhadores, como salários, horas extras, férias, etc.",
+          "justificativa_tipologia": "Multa aplicada devido a pagamentos de horas extras referentes a copa de 2014.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  04/2002",
+              "artigo": "308 caput",
+              "descricao": "Valor base para aplicação de multa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "Percentual da multa."
+            }
+          ]
+        },
+        {
+          "trecho": "Aplicar Multa ao Sr. Bernardo Soares Monteiro de Paula, no valor de R$ 7.453,02 (sete mil, quatrocentos e cinquenta e três reais e dois centavos), que corresponde a 17% do estabelecido no art. 308  caput  da  Resolução  04/2002  c/c  com  art.  53, parágrafo único, da Lei 2423/96 pelas Restrições 7, 8 e 9 referente a escrituração da conta de Bens Imóveis e móveis,estas restrições apontadas  no  Relatório  Conclusivo nº 005/2016 -DICAI-MA (fls. 2602/2637 -Processo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A multa é aplicada devido a restrições na escrituração de bens imoveis e moveis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  04/2002",
+              "artigo": "308 caput",
+              "descricao": "Valor base para aplicação de multa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "Percentual da multa."
+            }
+          ]
+        },
+        {
+          "trecho": "Aplicar Multa ao Sr. Bernardo Soares Monteiro de Paula, no valor de R$ 7.453,02 (sete mil, quatrocentos e cinquenta e três reais e dois centavos), que corresponde a 17% do estabelecido no art. 308  caput  da  Resolução  04/2002  c/c  com  art.  53, parágrafo único, da Lei 2423/96 pela  impropriedade relativa ao desvio de finalidade na distribuição dos ingressos adquiridos para  jogos  da  Copa  do  Mundo  de  2014  realizados  em Manaus, analisada na Representação 2839/2014 e apontada no  Parecer  1134/2017 -MP  -  RCKS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Multa aplicada por impropriedade relativa ao desvio de finalidade na distribuição dos ingressos da Copa do Mundo de 2014.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  04/2002",
+              "artigo": "308 caput",
+              "descricao": "Valor base para aplicação de multa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "Percentual da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa a  Sra. Aldemara  Kimura  de  Menezes, no  valor  de  R$  4 384,13 (quatro mil, trezentos e oitenta e quatro reais e treze centavos), que corresponde a 10%  do estabelecido no art. 308 caput da Resolução 04/2002 c/c com art. 53, parágrafo único, da Lei 2423/96, pela impropriedade relativa ao desvio de finalidade na distribuição dos ingressos adquiridos para jogos da Copa do  Mundo de 2014 realizados em Manaus, analisada na Representação 2839/2014 e apontada no Parecer 1134/2017 - MP - RCKS (fls. 3006/3011 - Processo 1601/2015).  A multa  deve ser recolhida na esfera Estadual para  o  órgão  Encargos  Gerais  do  Estado  -  SEFAZ.  O recolhimento deve ser feito no prazo de 30 dias aos cofres da Fazenda Pública nos termos do art. 72, inciso II, da Lei nº 2423/1996 e caso não seja recolhida, proceda a inscrição na dívida  ativa  pela  Fazenda  Estadual,  em  consonância  com art. 73 da Lei nº 2.423/1996.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa a  Sra. Aldemara  Kimura  de  Menezes, no  valor  de  R$  4 384,13 (quatro mil, trezentos e oitenta e quatro reais e treze centavos), que corresponde a 10%  do estabelecido no art. 308 caput da Resolução 04/2002 c/c com art. 53, parágrafo único, da Lei 2423/96, pela impropriedade relativa ao desvio de finalidade na distribuição dos ingressos adquiridos para jogos da Copa do  Mundo de 2014 realizados em Manaus, analisada na Representação 2839/2014 e apontada no Parecer 1134/2017 - MP - RCKS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Multa aplicada por impropriedade relativa ao desvio de finalidade na distribuição dos ingressos da Copa do Mundo de 2014.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  04/2002",
+              "artigo": "308 caput",
+              "descricao": "Valor base para aplicação de multa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "Percentual da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Sr.  Bernardo  Soares  Monteiro  de  Paula  ou  a  atual Direção da MANAUSCULT: Que  se  atentem  quanto  ao  prazo  de  pagamentos  das despesas  de  previdência  paras  que  não  incorram  em multas, sob pena da aplicação de multa pela reincidência no comportamento faltoso, Restrição 01 do Relatório e Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Sr.  Bernardo  Soares  Monteiro  de  Paula  ou  a  atual Direção da MANAUSCULT: Que  se  atentem  quanto  ao  prazo  de  pagamentos  das despesas  de  previdência  paras  que  não  incorram  em multas, sob pena da aplicação de multa pela reincidência no comportamento faltoso, Restrição 01 do Relatório e Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A7B",
+          "tipologia_irregularidade": "Ausência de Certificado de Regularidade Previdenciária - CRP, emitido pelo MPS, ou com a falta de esclarecimentos sobre o motivo da suspensão",
+          "descricao": "Ausência de Certificado de Regularidade Previdenciária - CRP, emitido pelo MPS, ou com a falta de esclarecimentos sobre o motivo da suspensão",
+          "justificativa_tipologia": "O texto indica que há uma recomendação para que se atentem para que não ocorram multas, o que significa que as contas do órgão podem ter sido impactadas em virtude da ausência de CRP, atraindo esta tipologia.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Sr.  Bernardo  Soares  Monteiro  de  Paula  ou  a  atual Direção da MANAUSCULT: Que, ainda que realizado por meio de processo seletivo, o apoio a entes privados para realização de eventos culturais seja  feito exclusivamente  com  empresas  sem  finalidade lucrativa, Restrição 14 do Relatório e Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Sr.  Bernardo  Soares  Monteiro  de  Paula  ou  a  atual Direção da MANAUSCULT: Que, ainda que realizado por meio de processo seletivo, o apoio a entes privados para realização de eventos culturais seja  feito exclusivamente  com  empresas  sem  finalidade lucrativa, Restrição 14 do Relatório e Voto;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "Há uma recomendação para que a escolha do fornecedor, ainda que realizado por meio de processo seletivo, seja para entidades sem fins lucrativos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Sr.  Bernardo  Soares  Monteiro  de  Paula  ou  a  atual Direção da MANAUSCULT: Que verifique previamente se as entidades que receberão recursos  não  possuem  nenhum  impedimento  de  ordem jurídica  ou  legal,  inclusive  perante  o  Tribunal  de  Contas, Restrição 17 e 19 do Relatório e Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Sr.  Bernardo  Soares  Monteiro  de  Paula  ou  a  atual Direção da MANAUSCULT: Que verifique previamente se as entidades que receberão recursos  não  possuem  nenhum  impedimento  de  ordem jurídica  ou  legal,  inclusive  perante  o  Tribunal  de  Contas, Restrição 17 e 19 do Relatório e Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "A recomendação para que verifique previamente se as entidades que receberão recursos não possuem impedimentos. Para uma boa gestão é indispensável a verificação da regularidade fiscal, contábil e jurídica.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

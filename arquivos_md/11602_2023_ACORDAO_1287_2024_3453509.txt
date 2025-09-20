@@ -1,0 +1,108 @@
+{
+  "acordao": "1287/2024",
+  "processo": "11602/2023",
+  "data_sessao": "30 de Julho de 2024",
+  "orgao": "Fundo Municipal dos Direitos da Criança e do Adolescente - FMDCA",
+  "municipio": "Tabatinga",
+  "exercicio": "2022",
+  "responsavel": [
+    "Jane Mara Silva de Moraes",
+    "Eduardo Lucas da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Fundo Municipal dos Direitos das Crianças e do Adolescente - FMDCA, exercício de 2022, sob responsabilidade da Sra. Jane Mara Silva de Moraes ,  Secretária e Ordenadora de Despesas, no período de 01/01/2022 à 31/08/2022 e do Sr. Eduardo Lucas da Silva , Secretário e Ordenador de Despesas, no período de 01/09/2022 à 31/12/2022, nos termos do art. 1º, II e art. 22,  I,  ambos  da  Lei  nº  2.423/96  c/c  art.  5º,  II  e  188,  §  1º,  I,  da Resolução n.º 4/2002-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Fundo Municipal dos Direitos das Crianças e do Adolescente - FMDCA, exercício de 2022, sob responsabilidade da Sra. Jane Mara Silva de Moraes ,  Secretária e Ordenadora de Despesas, no período de 01/01/2022 à 31/08/2022 e do Sr. Eduardo Lucas da Silva , Secretário e Ordenador de Despesas, no período de 01/09/2022 à 31/12/2022, nos termos do art. 1º, II e art. 22,  I,  ambos  da  Lei  nº  2.423/96 c/c art. 5º, II e 188, § 1º, I, da Resolução n.º 4/2002-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento formal da prestação de contas como regular, sem apontar problemas concretos na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define as responsabilidades dos gestores de recursos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Estabelece as diretrizes para a prestação de contas anual."
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE",
+              "artigo": "5º, II",
+              "descricao": "Regulamenta os procedimentos para o julgamento das contas anuais."
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE",
+              "artigo": "188, § 1º, I",
+              "descricao": "Especifica os requisitos para a regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação aos Srs. Jane Mara Silva de Moraes e Eduardo Lucas da Silva ,  nos  termos  dos  arts.  23  e  72,  I,  ambos  da  Lei  n.  2423,  de 10/12/1996, c/c o art. 189, I, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação aos Srs. Jane Mara Silva de Moraes e Eduardo Lucas da Silva ,  nos  termos  dos  arts.  23  e  72,  I,  ambos  da  Lei  n.  2423,  de 10/12/1996, c/c o art. 189, I, da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho é um julgamento formal da prestação de contas, sem apontar problemas concretos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423, de 10/12/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a quitação dos responsáveis pela gestão de recursos públicos."
+            },
+            {
+              "norma": "Lei n. 2423, de 10/12/1996",
+              "artigo": "72, I",
+              "descricao": "Define os critérios para a concessão de quitação."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Regulamenta o processo de quitação no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno a adoção das providências previstas  no  art.  161  da  Resolução  04/2002  -  TCE/AM,  comunicando do julgamento às partes interessadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno a adoção das providências previstas  no  art.  161  da  Resolução  04/2002  -  TCE/AM,  comunicando do julgamento às partes interessadas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho descreve um procedimento interno do TCE, não indicando problemas na gestão do órgão fiscalizado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "161",
+              "descricao": "Estabelece os procedimentos para comunicação das decisões do Tribunal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

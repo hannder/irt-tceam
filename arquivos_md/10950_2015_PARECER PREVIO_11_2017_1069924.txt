@@ -1,0 +1,387 @@
+{
+  "acordao": "11/2017",
+  "processo": "10950/2015",
+  "data_sessao": "14 de Março de 2017",
+  "orgao": "Prefeitura Municipal de Amaturá",
+  "municipio": "Amaturá",
+  "exercicio": "2014",
+  "responsavel": [
+    "João Braga Dias"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas do Sr. João Braga Dias, responsável como ordenador de despesas, pela Prefeitura Municipal de Amaturá, exercício 2014, conforme art. 22, III, alíneas \"b\" e \"c\" c/c o art. 25, da Lei nº 2423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta intrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas do Sr. João Braga Dias, responsável como ordenador de despesas, pela Prefeitura Municipal de Amaturá, exercício 2014, conforme art. 22, III, alíneas \"b\" e \"c\" c/c o art. 25, da Lei nº 2423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta intrução",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho descreve uma burla ao processo legal de pagamento, indicando uma irregularidade na execução financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96-LO/TCE",
+              "artigo": "22",
+              "descricao": "Fundamenta o julgamento irregular das contas devido a restrições não sanadas."
+            },
+            {
+              "norma": "Lei nº 2423/96-LO/TCE",
+              "artigo": "25",
+              "descricao": "Complementa a base legal para o julgamento irregular das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o Sr.  João  Braga  Dias , no valor  de  R$ 14.001,00 (quatorze  mil  e  um  reais),  com  base  no  art.  304, I da Resolução  TCE/AM  nº  04/2002,  que  devem  ser  recolhidos  na  esfera Municipal para a Prefeitura Municipal de Amaturá em face de gastos não comprovados  em  favor  do  interesse  público  relativos  a  compra  de combustível. O recolhimento deve ser feito no prazo de 30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr.  João  Braga  Dias , no valor  de  R$ 14.001,00 (quatorze  mil  e  um  reais),  com  base  no  art.  304, I da Resolução  TCE/AM  nº  04/2002,  que  devem  ser  recolhidos  na  esfera Municipal para a Prefeitura Municipal de Amaturá em face de gastos não comprovados  em  favor  do  interesse  público  relativos  a  compra  de combustível.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O trecho indica alcance devido a gastos não comprovados, caracterizando despesas sem a devida documentação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE/AM nº 04/2002",
+              "artigo": "304",
+              "descricao": "Base legal para a responsabilização em alcance devido a gastos não comprovados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  João  Braga  Dias , no  valor  de  R$  41.649,18 (quarenta  e  um  mil,  seissentos  e  quarenta  e  nove  reais e  dezoito centavos),  que  devem ser  recolhidos  na  esfera  Estadual  para  o  órgão Encargos Gerais do Estado - SEFAZ, no prazo de 30 dias, em face às seguintes impropriedades:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "No valor de R$ 19.728,54 (dezenove mil, setecentos e vinte e oito reais  e  cinquenta  e  quatro  centavos),  com  base  no  art.  308,  II  da Resolução nº 04/2002, por atraso: a)  de janeiro à dezembro dos balancetes mensais ao sistema e-contas (12 x R$ 1.096,03); b) dos 6 (seis) bimenstres do Relatório Resumido  de Execução Orçamentária (6 x R$ 1.096,03).",
+      "trechos_identificados": [
+        {
+          "trecho": "de janeiro à dezembro dos balancetes mensais ao sistema e-contas (12 x R$ 1.096,03)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve o atraso no envio dos balancetes mensais, configurando descumprimento dos prazos estabelecidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308",
+              "descricao": "Base legal para a aplicação de multa devido ao atraso no envio de documentos."
+            }
+          ]
+        },
+        {
+          "trecho": "dos 6 (seis) bimenstres do Relatório Resumido  de Execução Orçamentária (6 x R$ 1.096,03).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho descreve o atraso no envio do Relatório Resumido de Execução Orçamentária, indicando falha na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308",
+              "descricao": "Base legal para a aplicação de multa devido ao atraso no envio de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "No valor de R$ 21.920,64 (vinte e um mil, novecentos e vinte reais e  sessenta  e  quatro  centavos),  nos  termos  do  art.  54,  II  da  Lei  nº 2423/1996, c/c o art. 308, VI da Resolução TCE/AM nº 04/2002, por tos de grave  infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou patrimonial, em decorrência das irregularidades  descritas  nos  itens  16.2,  16.6,  17.3,  17.4,  17.5,  17.6  e 17.13 do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Nos termos do art. 54, II da Lei nº 2423/1996, c/c o art. 308, VI da Resolução TCE/AM nº 04/2002, por tos de grave  infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou patrimonial, em decorrência das irregularidades  descritas  nos  itens  16.2,  16.6,  17.3,  17.4,  17.5,  17.6  e 17.13 do Relatório/Voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho descreve graves infrações a normas contábeis, financeiras, orçamentárias, operacionais ou patrimoniais, justificando a classificação no tema de Contabilidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "54",
+              "descricao": "Base legal para a aplicação de multa devido a infrações graves."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/2002",
+              "artigo": "308",
+              "descricao": "Complementa a base legal para a aplicação de multa devido a infrações graves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Sepleno - Secretaria do Tribunal Pleno que: encaminhe ao Ministério Público do Estado do Amazonas, as peças processuais necessárias à demonstração de necessidade de investigação e apuração do ato de improbidade administrativa, nos  termos  do  art. 22 da Lei nº 8429/92, imediatamente após a publicação da Decisão que resultar deste processo, tendo em vista os prazos prescricionais previstos no art. 25 da referida Lei",
+      "trechos_identificados": [
+        {
+          "trecho": "encaminhe ao Ministério Público do Estado do Amazonas, as peças processuais necessárias à demonstração de necessidade de investigação e apuração do ato de improbidade administrativa, nos  termos  do  art. 22 da Lei nº 8429/92, imediatamente após a publicação da Decisão que resultar deste processo, tendo em vista os prazos prescricionais previstos no art. 25 da referida Lei",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O envio de informações ao Ministério Público para investigação de improbidade administrativa está relacionado à transparência e à necessidade de divulgação de informações relevantes para o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8429/92",
+              "artigo": "22",
+              "descricao": "Fundamenta o envio de peças processuais para investigação de improbidade administrativa."
+            },
+            {
+              "norma": "Lei nº 8429/92",
+              "artigo": "25",
+              "descricao": "Menciona os prazos prescricionais a serem considerados na investigação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Sepleno - Secretaria do Tribunal Pleno que: encaminhe ao Tribunal de Justiça do Amazonas as cópias do Relatório/Voto  e  Acórdão,  para  que  tome  ciência  acerca  de gastos  que  originariamente são  daquele  Órgão  Judiciário, efetuados pela Prefeitura Municipal de Amaturá, conforme itens 17.5 e 17.6 do Voto e tome as medidas internas que entender cabíveis",
+      "trechos_identificados": [
+        {
+          "trecho": "encaminhe ao Tribunal de Justiça do Amazonas as cópias do Relatório/Voto  e  Acórdão,  para  que  tome  ciência  acerca  de gastos  que  originariamente são  daquele  Órgão  Judiciário, efetuados pela Prefeitura Municipal de Amaturá, conforme itens 17.5 e 17.6 do Voto e tome as medidas internas que entender cabíveis",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "O trecho determina o envio de informações ao Tribunal de Justiça sobre gastos realizados pela Prefeitura Municipal que são originalmente daquele órgão judiciário, o que pode indicar problemas na execução financeira e orçamentária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Sepleno - Secretaria do Tribunal Pleno que: encaminhe à Conselheira-Relatora das Contas do Tribunal de Justiça (TJ/AM), exercício de 2014, cópia do Relatório/Voto e Acórdão, para que tome ciência e adote as providências que entender necessárias, acerca do item acima",
+      "trechos_identificados": [
+        {
+          "trecho": "encaminhe à Conselheira-Relatora das Contas do Tribunal de Justiça (TJ/AM), exercício de 2014, cópia do Relatório/Voto e Acórdão, para que tome ciência e adote as providências que entender necessárias, acerca do item acima",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação para encaminhar informações à Conselheira-Relatora das Contas do Tribunal de Justiça está relacionada ao controle interno e à necessidade de documentar e comunicar adequadamente as informações relevantes.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Sepleno - Secretaria do Tribunal Pleno que: encaminhar ao Tribunal de Contas da  União (TCU) o rol de documentos  necessários  (fls.1140/2200)  em  relação  a dados que são de sua competência de análise.",
+      "trechos_identificados": [
+        {
+          "trecho": "encaminhar ao Tribunal de Contas da  União (TCU) o rol de documentos  necessários  (fls.1140/2200)  em  relação  a dados que são de sua competência de análise",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A determinação para encaminhar documentos ao TCU está relacionada à necessidade de prestar contas e garantir a transparência na gestão dos recursos públicos, o que se enquadra no tema de Documentos e Envio de Informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secex - Secretaria Geral do Controle Externo: que  na  comissão  dos  próximos  exercícios,  inclua  na inspeção  itens  relativos  à  contratação  para  a  aquisição  de combustíveis,  inclusive  em  comparação  com  os  preços  de mercado",
+      "trechos_identificados": [
+        {
+          "trecho": "que  na  comissão  dos  próximos  exercícios,  inclua  na inspeção  itens  relativos  à  contratação  para  a  aquisição  de combustíveis,  inclusive  em  comparação  com  os  preços  de mercado",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A determinação para incluir itens relativos à contratação de combustíveis nas próximas inspeções, incluindo a comparação com os preços de mercado, está relacionada ao tema de Licitações e Contratos, visando evitar sobrepreço e garantir a economicidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secex - Secretaria Geral do Controle Externo: que  a  comissão  responsável,  ao  elaborar  o  relatório  de inspeção  dos  próximos  exercícios,  leve  em  consideração  os itens não sanados e as determinações constantes no acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "que  a  comissão  responsável,  ao  elaborar  o  relatório  de inspeção  dos  próximos  exercícios,  leve  em  consideração  os itens não sanados e as determinações constantes no acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para que a comissão responsável leve em consideração os itens não sanados e as determinações constantes no acórdão está relacionada ao controle interno, visando garantir que as falhas sejam corrigidas e que as determinações sejam cumpridas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Amaturá: que a partir do exercício em  que tomar  ciência do Parecer/Acórdão destas Contas, efetue medidas para o registro de todos os bens de caráter permanente, bem como das fichas funcionais e financeiras, e as demonstre na respectiva prestação de contas, sob pena de multa",
+      "trechos_identificados": [
+        {
+          "trecho": "que a partir do exercício em  que tomar  ciência do Parecer/Acórdão destas Contas, efetue medidas para o registro de todos os bens de caráter permanente, bem como das fichas funcionais e financeiras, e as demonstre na respectiva prestação de contas, sob pena de multa",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A determinação para registrar todos os bens de caráter permanente e as fichas funcionais e financeiras está diretamente relacionada ao controle patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Amaturá: que  proceda  à  designação  de  servidor  do  quadro  da Prefeitura oara a fiscalização de contratos do Poder Executivo, nos termos do art. 67 da Lei nº 8666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "que  proceda  à  designação  de  servidor  do  quadro  da Prefeitura oara a fiscalização de contratos do Poder Executivo, nos termos do art. 67 da Lei nº 8666/1993",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "justificativa_tipologia": "A designação de um servidor para a fiscalização de contratos é crucial para assegurar a legalidade e a conformidade nos processos licitatórios e contratuais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8666/1993",
+              "artigo": "67",
+              "descricao": "Obrigatoriedade de designar servidor para fiscalização de contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Amaturá: que observe o disposto no art. 62 da Lei de Responsabilidae Fiscal (Lei Complementar nº 101/2001), regularizando o custeio, de qualquer espécie, das despesas de outros entes da federação",
+      "trechos_identificados": [
+        {
+          "trecho": "que observe o disposto no art. 62 da Lei de Responsabilidae Fiscal (Lei Complementar nº 101/2001), regularizando o custeio, de qualquer espécie, das despesas de outros entes da federação",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A2B",
+          "tipologia_irregularidade": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "descricao": "Ausência de Parecer Jurídico ao Aditivo",
+          "justificativa_tipologia": "A observância do art. 62 da LRF e a regularização do custeio de despesas de outros entes estão relacionadas à gestão fiscal e à correta alocação de recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2001",
+              "artigo": "62",
+              "descricao": "Norma que trata do custeio de despesas de outros entes da federação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Amaturá: que  planeje e demonstre  as  medidas  tomadas  para adequação à Lei nº 12.305/2010 (Política Nacional de Resíduos Sólidos)",
+      "trechos_identificados": [
+        {
+          "trecho": "que  planeje e demonstre  as  medidas  tomadas  para adequação à Lei nº 12.305/2010 (Política Nacional de Resíduos Sólidos)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "MEIO AMBIENTE",
+          "codigo_irregularidade": "T9A3B",
+          "tipologia_irregularidade": "Falta de monitoramento e atualização do PGRSS",
+          "descricao": "O PGRSS não está sendo monitorado e atualizado periodicamente, conforme definido pelo responsável por sua elaboração e implantação.",
+          "justificativa_tipologia": "A adequação à Política Nacional de Resíduos Sólidos é um tema relacionado ao meio ambiente e à gestão adequada dos recursos naturais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.305/2010",
+              "artigo": "null",
+              "descricao": "Política Nacional de Resíduos Sólidos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Amaturá: que demonstre, na próxima prestação de contas, o cumprimento  do  compromisso  firmado  na  defesa,  de  que  no exercício de 2016, o fundo Municipal dos Direitos da Criança e do Adolescente estará em atividades para propiciar a autonomia do respectivo Conselho Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "que demonstre, na próxima prestação de contas, o cumprimento  do  compromisso  firmado  na  defesa,  de  que  no exercício de 2016, o fundo Municipal dos Direitos da Criança e do Adolescente estará em atividades para propiciar a autonomia do respectivo Conselho Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A demonstração do cumprimento do compromisso na próxima prestação de contas está relacionada à transparência e à necessidade de divulgar informações relevantes sobre a gestão dos recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Amaturá: que seja observado e cumprido o prazo para recolhimento dos encargos sociais retidos da remuneração dos servidores",
+      "trechos_identificados": [
+        {
+          "trecho": "que seja observado e cumprido o prazo para recolhimento dos encargos sociais retidos da remuneração dos servidores",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A13B",
+          "tipologia_irregularidade": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "descricao": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "justificativa_tipologia": "A determinação para observar e cumprir o prazo para recolhimento dos encargos sociais retidos da remuneração dos servidores está relacionada ao tema de Pessoal e à necessidade de garantir o cumprimento das obrigações trabalhistas e previdenciárias, bem como o limite de despesas com pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Amaturá: por fim, que mantenha organizado todos os documentos relativos às indenizações trabalhistas",
+      "trechos_identificados": [
+        {
+          "trecho": "por fim, que mantenha organizado todos os documentos relativos às indenizações trabalhistas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A determinação para manter organizados todos os documentos relativos às indenizações trabalhistas está relacionada ao tema de Pessoal e à necessidade de garantir a transparência e a conformidade na gestão dos recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

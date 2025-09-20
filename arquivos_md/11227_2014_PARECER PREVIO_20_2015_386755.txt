@@ -1,0 +1,264 @@
+{
+  "acordao": "020/2015",
+  "processo": "11227/2014",
+  "data_sessao": "29 de abril de 2015",
+  "orgao": "Prefeitura Municipal de Caapiranga",
+  "municipio": "Caapiranga",
+  "exercicio": "2013",
+  "responsavel": [
+    "Zilmar Almeida de Sales"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas da Prefeitura Municipal de Caapiranga, exercício de 2013, de responsabilidade do senhor  Zilmar Almeida de Sales, prefeito do município, à época, nos termos dos arts. 22, III, 'b' e 25, da Lei n. 2.423/96, c/c o art. 188, II e § 1º, III, 'b', da Resolução 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas da Prefeitura Municipal de Caapiranga, exercício de 2013, de responsabilidade do senhor  Zilmar Almeida de Sales, prefeito do município, à época, nos termos dos arts. 22, III, 'b' e 25, da Lei n. 2.423/96, c/c o art. 188, II e § 1º, III, 'b', da Resolução 04/02-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de regularidade nas contas dificulta a transparência e a clareza das informações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "22, III, 'b' e 25",
+              "descricao": "Define a irregularidade da prestação de contas e as responsabilidades do gestor."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, II e § 1º, III, 'b'",
+              "descricao": "Complementa as definições e procedimentos para julgamento de contas irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ao  Sr.  Zilmar  Almeida  de  Sales,  no  valor  de R$ 10.000,00 (dez mil reais) , com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, pelas seguintes impropriedades:\n\n- ● Ausência  de  publicação  do  Contrato  n.º  03/2013-CPL-Caapiranga , cujo  objeto  era  aquisição  de  combustíveis,  no  valor  global  de  79.461,00, originário da Dispensa n.º 2/2013.\n- ● Impropriedades  levantadas  pela  DICOP,  no Relatório  Técnico  de Vistoria da DICOP (fls. 8.172/8.8.245), relacionadas as Cartas-Contrato n.º 023/2013,  n.º  045/2012,  n.º  027/2013,  n.º  019/2013,  n.º  020/2013,  n.º 004/2013, n.º 006/2013 e n.º 022/2013;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  Sr.  Zilmar  Almeida  de  Sales,  no  valor  de R$ 10.000,00 (dez mil reais) , com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, pelas seguintes impropriedades:\n\n- ● Ausência  de  publicação  do  Contrato  n.º  03/2013-CPL-Caapiranga , cujo  objeto  era  aquisição  de  combustíveis,  no  valor  global  de  79.461,00, originário da Dispensa n.º 2/2013.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Descumprimento dos requisitos para contratação por meio de Pregão Eletrônico.",
+          "justificativa_tipologia": "A ausência de publicação de contrato impede o controle e a transparência dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define a aplicação de multa por irregularidades."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Complementa as definições e procedimentos para aplicação de multas."
+            }
+          ]
+        },
+        {
+          "trecho": "● Impropriedades  levantadas  pela  DICOP,  no Relatório  Técnico  de Vistoria da DICOP (fls. 8.172/8.8.245), relacionadas as Cartas-Contrato n.º 023/2013,  n.º  045/2012,  n.º  027/2013,  n.º  019/2013,  n.º  020/2013,  n.º 004/2013, n.º 006/2013 e n.º 022/2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "As irregularidades nas cartas contrato indicam falhas no processo licitatório",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define a aplicação de multa por irregularidades."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Complementa as definições e procedimentos para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em ALCANCE o  Sr.  Zilmar  Almeida  de  Sales  no montante de R$ 1.621.237,50 (um milhão seiscentos e vinte e um mil, duzentos e trinta e sete  reais  e  cinquenta  centavos),  referente  às  despesas  liquidadas  e  pagas  de  forma irregular na execução das obras objeto das Cartas-Contrato n.º 023/2013, n.º 045/2012, n.º 027/2013, n.º 019/2013, n.º 020/2013, n.º 004/2013, n.º 006/2013 e n.º 022/2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em ALCANCE o  Sr.  Zilmar  Almeida  de  Sales  no montante de R$ 1.621.237,50 (um milhão seiscentos e vinte e um mil, duzentos e trinta e sete  reais  e  cinquenta  centavos),  referente  às  despesas  liquidadas  e  pagas  de  forma irregular na execução das obras objeto das Cartas-Contrato n.º 023/2013, n.º 045/2012, n.º 027/2013, n.º 019/2013, n.º 020/2013, n.º 004/2013, n.º 006/2013 e n.º 022/2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "O alcance é devido a despesas liquidadas e pagas de forma irregular, o que caracteriza superfaturamento quantitativo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao  responsável  e  ao  atual  Prefeito  do  Município  de Caapiranga que:\n\na)  Observe  todos  os  dispositivos  constantes  na  Resolução  n.º  7/2002  TCE/AM, que versa acerca do Sistema ACP/Captura;\n- b)  Observe  os  prazos  para  o  envio  do  Relatório  Resumido  de  Execução Orçamentária previstos na Resolução n.º 15/2013 -TCE/AM, com alterações da Resolução n.º 24/2013 - TCE/AM;\n- c)  Adote as medidas necessárias para efetuar a execução da Dívida  Ativa Tributária  ou  Não  Tributária,  sob  pena  de  a  renúncia  de  receita  gerar responsabilidade fiscal;\n- d)  Empreenda  esforços  para  implantação  de  um  Sistema  de  Controle Interno, tal como delineado nos arts. 31 e 74 da Constituição Federal.\n- e)  Observe  com  maior  rigor  as  disposições  das  Lei  Complementar  n.º 101/2000, sobretudo no que diz respeito as metas fiscais.\n\nf) cumpra integralmente os ditames da Lei Complementar n.º 131/2009 e Lei Federal n.º 12/527/2011 - Lei de Acesso a Informação, atentando para que as  informações  publicadas  sejam  disponibilizadas  em  tempo  real,  nos termos do Decreto Federal n.º 7.185/2010, e com apresentação didática dos dados e em linguagem cidadã, com possibilidade de download do banco de dados e canal de interação com os usuários, tudo em observância às boas práticas de promoção da transparência.",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  todos  os  dispositivos  constantes  na  Resolução  n.º  7/2002  TCE/AM, que versa acerca do Sistema ACP/Captura",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O envio de dados do ACP/Captura é fundamental para a transparência da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 7/2002  TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o Sistema ACP/Captura."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe  os  prazos  para  o  envio  do  Relatório  Resumido  de  Execução Orçamentária previstos na Resolução n.º 15/2013 -TCE/AM, com alterações da Resolução n.º 24/2013 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O cumprimento dos prazos para envio do RREO é essencial para o controle fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 15/2013 -TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o envio do Relatório Resumido de Execução Orçamentária."
+            },
+            {
+              "norma": "Resolução n.º 24/2013 - TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Altera a Resolução n.º 15/2013 -TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "Adote as medidas necessárias para efetuar a execução da Dívida  Ativa Tributária  ou  Não  Tributária,  sob  pena  de  a  renúncia  de  receita  gerar responsabilidade fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A execução da Dívida Ativa é crucial para a recuperação de recursos públicos e a responsabilidade fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Empreenda  esforços  para  implantação  de  um  Sistema  de  Controle Interno, tal como delineado nos arts. 31 e 74 da Constituição Federal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A implantação de um sistema de controle interno é fundamental para a gestão eficiente e transparente dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "31",
+              "descricao": "Dispõe sobre a fiscalização financeira e orçamentária."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Dispõe sobre o sistema de controle interno."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe  com  maior  rigor  as  disposições  das  Lei  Complementar  n.º 101/2000, sobretudo no que diz respeito as metas fiscais.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O rigor nas disposições da LRF é essencial para a gestão fiscal responsável e o equilíbrio das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "Não consta",
+              "descricao": "Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal."
+            }
+          ]
+        },
+        {
+          "trecho": "cumpra integralmente os ditames da Lei Complementar n.º 131/2009 e Lei Federal n.º 12/527/2011 - Lei de Acesso a Informação, atentando para que as  informações  publicadas  sejam  disponibilizadas  em  tempo  real,  nos termos do Decreto Federal n.º 7.185/2010, e com apresentação didática dos dados e em linguagem cidadã, com possibilidade de download do banco de dados e canal de interação com os usuários, tudo em observância às boas práticas de promoção da transparência.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O cumprimento da Lei de Acesso à Informação é fundamental para a transparência e o controle social da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 131/2009",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei Federal n.º 12/527/2011",
+              "artigo": "Não consta",
+              "descricao": "Regula o acesso à informação."
+            },
+            {
+              "norma": "Decreto Federal n.º 7.185/2010",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre a disponibilização de informações em tempo real."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "aplicar  multa ao  Sr.  Zilmar  Almeida  de  Sales,  no valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos) por cada mês de atraso no envio dos dados do ACP (janeiro a dezembro), totalizando R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos) , com fulcro no art. 54, IV, da Lei n.º 2.423/96 c/c o art. 308, II, da Resolução nº 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "aplicar  multa ao  Sr.  Zilmar  Almeida  de  Sales,  no valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos) por cada mês de atraso no envio dos dados do ACP (janeiro a dezembro), totalizando R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos) , com fulcro no art. 54, IV, da Lei n.º 2.423/96 c/c o art. 308, II, da Resolução nº 04/2002.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio de dados, uma falha na documentação e envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Define a aplicação de multa por atraso no envio de dados."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, II",
+              "descricao": "Complementa as definições e procedimentos para aplicação de multas por atraso."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

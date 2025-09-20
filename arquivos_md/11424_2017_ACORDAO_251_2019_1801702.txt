@@ -1,0 +1,246 @@
+{
+  "acordao": "251/2019",
+  "processo": "11424/2017",
+  "data_sessao": "23 de Abril de 2019",
+  "orgao": "Serviço  de  Pronto  Atendimento  e  Policlínica  Dr.  José  de  Jesus  Lins  de Albuquerque - SPA JOSÉ LINS",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Dayanna Regina Cerquinho Barreto de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  da Sra.  Dayanna  Regina Cerquinho  Barreto  de  Souza ,  Diretora-Geral  do  SPA  JOSÉ  LINS, exercício de 2016, nos termos do art. 22, inciso III, alínea 'b', da Lei Estadual nº 2.423/1996 c/c art. 188, inciso II; §1º, inciso III, alínea 'b', todos estes da Resolução nº 04/2002 - RITCE/AM, por haver incorrido em graves infrações às normas legais ou regulamentares de natureza financeira,    orçamentária,  patrimonial  e  operacional:  ausência  de Parecer do Controle Interno; ausência de Parecer Jurídico referentes às dispensas de licitações; fracionamento de despesas; e pagamento indevido de juros e multas ao INSS",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de  Contas  da Sra.  Dayanna  Regina Cerquinho  Barreto  de  Souza ,  Diretora-Geral  do  SPA  JOSÉ  LINS, exercício de 2016, nos termos do art. 22, inciso III, alínea 'b', da Lei Estadual nº 2.423/1996 c/c art. 188, inciso II; §1º, inciso III, alínea 'b', todos estes da Resolução nº 04/2002 - RITCE/AM, por haver incorrido em graves infrações às normas legais ou regulamentares de natureza financeira, orçamentária, patrimonial e operacional: ausência de Parecer do Controle Interno",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A descrição indica a ausência de parecer do controle interno, o que caracteriza uma não implementação do controle interno",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCE/AM",
+              "artigo": "188, inciso II; §1º, inciso III, alínea 'b'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        },
+        {
+          "trecho": "ausência de Parecer Jurídico referentes às dispensas de licitações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "justificativa_tipologia": "A deliberação relata a ausência de parecer jurídico em processos de dispensa de licitação, o que demonstra a incompatibilidade entre o certificado de registro cadastral e a documentação exigida",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCE/AM",
+              "artigo": "188, inciso II; §1º, inciso III, alínea 'b'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        },
+        {
+          "trecho": "fracionamento de despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "O trecho indica fracionamento de despesas, com o objetivo de evitar licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCE/AM",
+              "artigo": "188, inciso II; §1º, inciso III, alínea 'b'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        },
+        {
+          "trecho": "pagamento indevido de juros e multas ao INSS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "O pagamento de multas e juros em recolhimentos previdenciários indica falha no monitoramento dos contratos e obrigações fiscais, caracterizando uma deficiência no controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCE/AM",
+              "artigo": "188, inciso II; §1º, inciso III, alínea 'b'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance a Sra. Dayanna Regina Cerquinho Barreto de Souza , Diretora-Geral do SPA JOSÉ LINS, exercício de 2016, no valor  de R$  2.023,06 , que  devem  ser  devidamente  corrigidos  e atualizados  monetariamente  nos  termos  do  art.  25,  caput,  da  Lei Orgânica deste TCE/AM c/c art. 304, inciso I, da Resolução nº 04/2002-RITCE/AM,  a  serem  recolhidos  na  esfera  Estadual  para  o  órgão Secretaria de Estado da Fazenda - SEFAZ decorrente do pagamento indevido de juros e multas ao INSS",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance a Sra. Dayanna Regina Cerquinho Barreto de Souza , Diretora-Geral do SPA JOSÉ LINS, exercício de 2016, no valor de R$ 2.023,06 , que devem ser devidamente corrigidos e atualizados monetariamente nos termos do art. 25, caput, da Lei Orgânica deste TCE/AM c/c art. 304, inciso I, da Resolução nº 04/2002-RITCE/AM, a serem recolhidos na esfera Estadual para o órgão Secretaria de Estado da Fazenda - SEFAZ decorrente do pagamento indevido de juros e multas ao INSS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "O trecho especifica que houve pagamento indevido de juros e multas ao INSS, o que indica falha no monitoramento de contratos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste TCE/AM",
+              "artigo": "25, caput",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa à Sra. Dayanna Regina Cerquinho Barreto de Souza no valor de R$ 13.654,39 , nos termos do art. 54, inciso II, da Lei Estadual nº  2.423/1996  c/c  art.  308,  inciso  VI  da  Resolução  nº  04/2002  RITCE/AM, pelo cometimento de atos praticados com graves infrações às normas legais ou regulamentares de natureza financeira, orçamentária,  patrimonial  e  operacional:  ausência  de  Parecer  do Controle Interno; ausência de Parecer Jurídico referente às dispensas de  licitações;  fracionamento  de  despesas;  e  pagamento  indevido  de juros e multas ao INSS",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Dayanna Regina Cerquinho Barreto de Souza no valor de R$ 13.654,39 , nos termos do art. 54, inciso II, da Lei Estadual nº  2.423/1996  c/c  art.  308,  inciso  VI  da  Resolução  nº  04/2002  RITCE/AM, pelo cometimento de atos praticados com graves infrações às normas legais ou regulamentares de natureza financeira, orçamentária,  patrimonial  e  operacional:  ausência  de  Parecer  do Controle Interno",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa devido à ausência de parecer do controle interno indica uma falha na implementação do controle interno",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº  2.423/1996",
+              "artigo": "54, inciso II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução  nº  04/2002  RITCE/AM",
+              "artigo": "308,  inciso  VI",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        },
+        {
+          "trecho": "ausência de Parecer Jurídico referente às dispensas de  licitações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "justificativa_tipologia": "A aplicação de multa devido à ausência de parecer jurídico referente às dispensas de licitações, demonstra a incompatibilidade entre o certificado de registro cadastral e a documentação exigida",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº  2.423/1996",
+              "artigo": "54, inciso II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução  nº  04/2002  RITCE/AM",
+              "artigo": "308,  inciso  VI",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        },
+        {
+          "trecho": "fracionamento de despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "O trecho indica fracionamento de despesas, com o objetivo de evitar licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº  2.423/1996",
+              "artigo": "54, inciso II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução  nº  04/2002  RITCE/AM",
+              "artigo": "308,  inciso  VI",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        },
+        {
+          "trecho": "pagamento indevido de juros e multas ao INSS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "A aplicação de multa devido ao pagamento indevido de juros e multas ao INSS indica uma falha no monitoramento dos contratos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº  2.423/1996",
+              "artigo": "54, inciso II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução  nº  04/2002  RITCE/AM",
+              "artigo": "308,  inciso  VI",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência à Sra. Dayanna Regina Cerquinho Barreto de Souza da presente decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência à Sra. Dayanna Regina Cerquinho Barreto de Souza da presente decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho apenas informa sobre a ciência da decisão ao responsável, não indicando problemas ou irregularidades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

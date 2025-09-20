@@ -1,0 +1,47 @@
+{
+  "acordao": "521/2021",
+  "processo": "11580/2019",
+  "data_sessao": "01 de Junho de 2021",
+  "orgao": "Policlínica João dos Santos Braga",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Maria do Carmo Soares Braga"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas da Sra. Maria do Carmo Soares Braga, Gestora da Policlínica João dos Santos Braga, exercício de 2018",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas da Sra. Maria do Carmo Soares Braga, Gestora da Policlínica João dos Santos Braga, exercício de 2018",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A prestação de contas foi aprovada com ressalvas, o que indica que houve problemas, mas não graves o suficiente para reprovação total.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao jurisdicionado que observe a proibição de que as contratações homogêneas sejam consideradas isoladamente, para fim de determinação do cabimento de licitação ou da modalidade cabível, devendo a Administração considerar o valor global e, para isto, prever todas as contratações que realizará no curso do exercício, de modo a prevenir a ocorrência de novas falhas do tipo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao jurisdicionado que observe a proibição de que as contratações homogêneas sejam consideradas isoladamente, para fim de determinação do cabimento de licitação ou da modalidade cabível, devendo a Administração considerar o valor global e, para isto, prever todas as contratações que realizará no curso do exercício, de modo a prevenir a ocorrência de novas falhas do tipo.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A50A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Constatou-se a prática reiterada de divisão de despesas com objetos de mesma natureza, no mesmo exercício financeiro, para adoção de dispensa de licitação, com fundamento no baixo valor. - Tal conduta é irregular e ilegal, pois, na realidade, visa fugir da realização de processo licitatório, realizando o serviço por meio de processo de contratação direta em função do pequeno valor.",
+          "justificativa_tipologia": "A determinação emitida indica que o órgão não está seguindo os procedimentos corretos para licitações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

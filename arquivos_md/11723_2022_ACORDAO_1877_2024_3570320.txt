@@ -1,0 +1,49 @@
+{
+  "acordao": "1877/2024",
+  "processo": "11723/2022",
+  "data_sessao": "27 de Novembro de 2024",
+  "orgao": "Fundo de Apoio aos Pequenos Negocios Produtivos do Município de Maués FUNPEQ",
+  "municipio": "Maués",
+  "exercicio": "2021",
+  "responsavel": [
+    "Daniela Brandt de Oliveira",
+    "José Luiz da Costa Virgolino"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do Fundo de Apoio aos Pequenos  Negócios  produtivos  do  Município  de  Maués-FUNPEQ, relativa ao exercício de 2021, de responsabilidade do Sr. José Luiz da Costa Virgolino , Direto Executivo, período de 01/01/2021 a 10/06/2021 e  Sra. Daniela  Brandt  de  Oliveira , Diretora  Executiva,  período  de 10/06/2021 a 31/12/2021, nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 4°, 5°, I e 22, III da Lei n° 2.423/96 c/c art. 11, III e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/02-TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ao  Sr. José  Luiz  da  Costa  Virgolino , no  valor  de R$6.827,19  (seis  mil,  oitocentos  e  vinte  e  sete  reais  e  dezenove centavos), com base no art. 54, V, da Lei Orgânica do TCE/AM c/c o art.  308,  V,  da  Resolução TCE/AM nº 04/02, com nova redação dada pela Resolução nº 04/2018, por atos de gestão ilegítimos ou antieconômicos  que  resultaram  em  injustificados danos  ao  erário citados  no  Relatório/Voto  (impropriedade  não  sanada  constante  do achado 8 listada no Laudo da DICAMI, e fixar prazo de 30 dias para que o responsável recolha o valor  da multa, mencionado no item",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Daniela  Brandt  de  Oliveira , no  valor de R$6.827,19  (seis  mil,  oitocentos  e  vinte  e  sete  reais  e  dezenove centavos), com base no art. 54, V, da Lei Orgânica do TCE/AM c/c o art.  308,  V,  da  Resolução TCE/AM nº 04/02, com nova redação dada pela Resolução nº 04/2018, por atos de gestão ilegítimos ou antieconômicos  que  resultaram  em  injustificados danos  ao  erário citados  no  Relatório/Voto  (impropriedade  não  sanada  constante  do achado 8 listada no Laudo da DICAMI, e fixar prazo de 30 dias para que o responsável recolha o valor da multa, mencionado no item",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance ao  Sr. José  Luiz  da  Costa  Virgolino ,  no valor de R$45.938,11 (quarenta e cinco mil, novecentos e trinta e oito reais e onze centavos), nos termos do art. 304, inciso V, do Regimento Interno do TCE/AM, pelos pagamentos a título de 'Outros Serviços de Terceiros-  Pessoa  Jurídico'  não  comprovados  e  fixar  prazo  de  30 (trinta) dias para que o responsável recolha o valor do ALCANCE/GLOSA,  mencionado  no  item",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance a  Sra. Daniela Brandt de Oliveira ,  no valor de R$ 30.390,00 (trinta mil, trezentos e noventa reais), nos termos do art. 304, inciso V, do Regimento Interno do TCE/AM, pelos pagamentos a título de  'Outros  Serviços  de  Terceiros-  Pessoa  Jurídico' não comprovados e fixar prazo de 30 (trinta) dias para que o responsável recolha  o  valor  do  Alcance/Glosa,  mencionado  no  item",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao  Sr. José Luiz da Costa Virgolino ,  no  valor  de  R$ 13.654,39  (treze  mil,  seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e nove centavos), com base no art. 54, VI, da Lei Orgânica do TCE/AM c/c o art. 308, VI, da Resolução TCE/AM nº 04/02, com nova redação dada  pela  Resolução  nº  04/2018,  por  atos  praticados  com  grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária,  operacional  e  patrimonial citados no  Relatório/Voto. (impropriedades listadas nas no laudo da DICAMI (achados de auditoria nº 01, 04, 05, 06, 07), e fixar prazo de 30 dias para que o responsável recolha o valor da multa, mencionado no item",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Daniela  Brandt  de  Oliveira , no  valor de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), com base no art. 54, VI, da Lei Orgânica do TCE/AM c/c o art. 308, VI, da Resolução TCE/AM nº 04/02, com nova redação dada  pela  Resolução  nº  04/2018,  por  atos  praticados  com  grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária,  operacional  e  patrimonial citados no  Relatório/Voto.(restrições constantes do laudo da DICAMI (achados de auditoria nº 01, 04, 05, 06, 07), e fixar prazo de 30 dias para que o responsável recolha o valor da multa, mencionado no item",
+      "trechos_identificados": []
+    }
+  ]
+}

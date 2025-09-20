@@ -1,0 +1,277 @@
+{
+  "acordao": "168/2018",
+  "processo": "11444/2016",
+  "data_sessao": "20 de Março de 2018",
+  "orgao": "Procuradoria Geral do Município de Manaus - PGM",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Marcos Ricardo Herszon Cavalcanti"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Procuradoria Geral do Município de Manaus - PGM, referente ao exercício de 2015, de responsabilidade do Sr.  Marcos  Ricardo  Herszon  Cavalcanti , Procurador Geral do Município e Ordenador de Despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual da Procuradoria Geral do Município de Manaus - PGM, referente ao exercício de 2015, de responsabilidade do Sr.  Marcos  Ricardo  Herszon  Cavalcanti , Procurador Geral do Município e Ordenador de Despesas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A aprovação das contas em si não indica uma irregularidade, mas a necessidade de garantir que a contabilidade esteja em ordem",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Dar quitação ao Sr. Marcos  Ricardo Herszon Cavalcanti , Procurador  Geral  do Município e Ordenador  de  Despesas  da Procuradoria Geral do  Município de  Manaus, referente ao exercício de  2015,  nos  termos  do  art.  23,  da  Lei  Orgânica  desta  Corte  de Contas c/c art. 189, inciso I da Resolução nº 04/2002 - RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Marcos  Ricardo Herszon Cavalcanti , Procurador  Geral  do Município e Ordenador  de  Despesas  da Procuradoria Geral do  Município de  Manaus, referente ao exercício de  2015,  nos  termos  do  art.  23,  da  Lei  Orgânica  desta  Corte  de Contas c/c art. 189, inciso I da Resolução nº 04/2002 - RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A aprovação das contas em si não indica uma irregularidade, mas a necessidade de garantir que a contabilidade esteja em ordem",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica desta Corte de Contas",
+              "artigo": "23",
+              "descricao": "Lei Orgânica desta Corte de Contas"
+            },
+            {
+              "norma": "Resolução nº 04/2002 - RITCE/AM",
+              "artigo": "189, inciso I",
+              "descricao": "Resolução nº 04/2002 - RITCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Procuradoria Geral do Município de Manaus - PGM:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que  aprimore o regime de adoção de adiantamentos, observando às disposições legais, principalmente acerca das despesas  que  podem  subordinarse  ao  processo  normal  de aplicação, nos termos art. 68, da Lei nº 4.320/1964 e art. 4º, I, do Decreto nº 1595/1993, assim como art. 4º, I, do Decreto nº 3206/2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  aprimore o regime de adoção de adiantamentos, observando às disposições legais, principalmente acerca das despesas  que  podem  subordinarse  ao  processo  normal  de aplicação, nos termos art. 68, da Lei nº 4.320/1964 e art. 4º, I, do Decreto nº 1595/1993, assim como art. 4º, I, do Decreto nº 3206/2015",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O adiantamento de despesas, sem a devida comprovação, pode indicar problemas na gestão financeira e orçamentária, evidenciando a falta de planejamento e controle adequados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "68",
+              "descricao": "Dispõe sobre as despesas que podem subordinar-se ao processo normal de aplicação."
+            },
+            {
+              "norma": "Decreto nº 1595/1993",
+              "artigo": "4º, I",
+              "descricao": "Dispõe sobre os limites para adiantamentos."
+            },
+            {
+              "norma": "Decreto nº 3206/2015",
+              "artigo": "4º, I",
+              "descricao": "Dispõe sobre os limites para adiantamentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que observe com rigor o art. 7º, da Lei nº 198/1993, limitando os  gastos  de  adiantamento  apenas  às  despesas  que  o motivaram em primeiro lugar",
+      "trechos_identificados": [
+        {
+          "trecho": "Que observe com rigor o art. 7º, da Lei nº 198/1993, limitando os  gastos  de  adiantamento  apenas  às  despesas  que  o motivaram em primeiro lugar",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A delimitação dos gastos de adiantamento às despesas que o motivaram inicialmente visa garantir o controle e a transparência no uso dos recursos públicos, evitando desvios e aplicações indevidas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 198/1993",
+              "artigo": "7º",
+              "descricao": "Estabelece limites para gastos de adiantamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que  cumpra  o  art.  6º,  II,  e  parágrafo  único,  do  Decreto  nº 9.254/2007",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  art.  6º,  II,  e  parágrafo  único,  do  Decreto  nº 9.254/2007",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O descumprimento de normas específicas em decretos pode indicar falhas na gestão e controle de processos internos, prejudicando a transparência e a regularidade dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto  nº 9.254/2007",
+              "artigo": "6º, II",
+              "descricao": "Normas sobre procedimentos administrativos"
+            },
+            {
+              "norma": "Decreto  nº 9.254/2007",
+              "artigo": "Parágrafo único",
+              "descricao": "Normas sobre procedimentos administrativos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que em futuras adesões a Atas de Registro de Preço, sejam observadas as regras do Decreto Federal 7892/2013,  artigo 22 c/c artigo 11, IX do Decreto Municipal nº 3013/2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Que em futuras adesões a Atas de Registro de Preço, sejam observadas as regras do Decreto Federal 7892/2013,  artigo 22 c/c artigo 11, IX do Decreto Municipal nº 3013/2015",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A inobservância das regras para adesão a atas de registro de preço pode comprometer a legalidade, a economicidade e a transparência das contratações públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Federal 7892/2013",
+              "artigo": "22",
+              "descricao": "Regras para adesão a Atas de Registro de Preço"
+            },
+            {
+              "norma": "Decreto Municipal nº 3013/2015",
+              "artigo": "11, IX",
+              "descricao": "Regras para adesão a Atas de Registro de Preço"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que cumpra a Resolução nº 013/2015 TCE/AM, e alimente o sistema  EContas  com  as  informações  relativas  aos  seus procedimentos licitatórios, adesões à Atas de Registro Preço e quaisquer aquisições, principalmente as oriundas de Dispensa de Licitação",
+      "trechos_identificados": [
+        {
+          "trecho": "Que cumpra a Resolução nº 013/2015 TCE/AM, e alimente o sistema  EContas  com  as  informações  relativas  aos  seus procedimentos licitatórios, adesões à Atas de Registro Preço e quaisquer aquisições, principalmente as oriundas de Dispensa de Licitação",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A alimentação do sistema EContas é fundamental para garantir a transparência e o controle externo das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 013/2015 TCE/AM",
+              "artigo": "Não aplicável",
+              "descricao": "Alimentar o sistema EContas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que  cumpra  de  forma  efetiva  a  Lei  Complementar  nº 131/2009 (Lei da Transparência) e a Lei nº 12.527/2011 (Lei de Acesso à Informação).",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  de  forma  efetiva  a  Lei  Complementar  nº 131/2009 (Lei da Transparência) e a Lei nº 12.527/2011 (Lei de Acesso à Informação).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "O cumprimento da Lei da Transparência e da Lei de Acesso à Informação é essencial para garantir a transparência e o controle social da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  Complementar  nº 131/2009",
+              "artigo": "Não aplicável",
+              "descricao": "Lei da Transparência"
+            },
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Acesso à Informação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção da Procuradoria Geral do Município de Manaus - Pgm, que acompanhe a situação relativa aos  servidores  sob  o  RDA,  garantindo  o  pleno  cumprimento  das determinações por ventura advindas do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção da Procuradoria Geral do Município de Manaus - Pgm, que acompanhe a situação relativa aos  servidores  sob  o  RDA,  garantindo  o  pleno  cumprimento  das determinações por ventura advindas do TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para acompanhar a situação dos servidores sob o RDA (Regime de Dedicação) visa garantir que as determinações do TCE/AM sejam cumpridas, fortalecendo o controle interno e a regularidade na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Marcos  Ricardo  Herszon  Cavalcanti da decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Marcos  Ricardo  Herszon  Cavalcanti da decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ciência da decisão garante a transparência do processo e informa o responsável sobre as medidas a serem adotadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os  presentes autos, após cumpridos os itens acima, nos termos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os  presentes autos, após cumpridos os itens acima, nos termos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O arquivamento dos autos, após o cumprimento das determinações, encerra o processo de fiscalização, indicando a conclusão dos trabalhos e a regularização das pendências.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

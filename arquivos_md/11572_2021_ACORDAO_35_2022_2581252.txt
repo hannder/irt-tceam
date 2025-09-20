@@ -1,0 +1,91 @@
+{
+  "acordao": "35/2022",
+  "processo": "11572/2021",
+  "data_sessao": "2 de Fevereiro de 2022",
+  "orgao": "Recursos Supervisionados pela SEMEF",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Mariza da Rocha Barreto Gentil",
+    "Lourival Litaiff Praia"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual dos Recursos Supervisionados  pela  SEMEF,  referente  ao  exercício  de  2020,  sob responsabilidade  do Sr.  Lourival  Litaiff  Praia ,  Gestor  e  Ordenador  de Despesas no período de 01.01.2020 a 21.05.2020 e da Sra. Mariza da Rocha Barreto Gentil ,  Gestora  e  Ordenadora  de  Despesas  no  período de 22.05.2020 a 31.12.2020, dando plena quitação aos responsáveis, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002TCE/AM - RITCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual dos Recursos Supervisionados  pela  SEMEF,  referente  ao  exercício  de  2020,  sob responsabilidade  do Sr.  Lourival  Litaiff  Praia ,  Gestor  e  Ordenador  de Despesas no período de 01.01.2020 a 21.05.2020 e da Sra. Mariza da Rocha Barreto Gentil ,  Gestora  e  Ordenadora  de  Despesas  no  período de 22.05.2020 a 31.12.2020, dando plena quitação aos responsáveis, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002TCE/AM - RITCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares, sem apontar irregularidades que justifiquem outro tema.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11",
+              "descricao": "RITCE"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189",
+              "descricao": "RITCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Lourival  Litaiff  Praia e  à Sra.  Mariza  da  Rocha Barreto Gentil , da respectiva decisão;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Lourival  Litaiff  Praia e  à Sra.  Mariza  da  Rocha Barreto Gentil , da respectiva decisão;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Apenas notificação da decisão, sem irregularidades detectadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Apenas uma determinação de procedimento interno do Tribunal, sem relação com falhas na gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

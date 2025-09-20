@@ -1,0 +1,75 @@
+{
+  "acordao": "67/2022",
+  "processo": "11622/2018",
+  "data_sessao": "28 de Setembro de 2022",
+  "orgao": "Prefeitura Municipal de Boa Vista do Ramos",
+  "municipio": "Boa Vista do Ramos",
+  "exercicio": "2017",
+  "responsavel": [
+    "Eraldo Trindade da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  Secretaria  Geral  de  Controle  Externo  -  SECEX que, examinando as impropriedades consideradas não sanadas pela DICAMI, pela DICOP e pelo d. Ministério Público de Contas, relativas às contas de gestão do Responsável, em atenção às orientações exaradas na Portaria nº 152/2021-GP  e  pela  Resolução  ATRICON  nº  02/2020,  adote  as providências cabíveis à autuação de processos apartados neste Tribunal de Contas para devida apuração",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  Geral  de  Controle  Externo  -  SECEX que, examinando as impropriedades consideradas não sanadas pela DICAMI, pela DICOP e pelo d. Ministério Público de Contas, relativas às contas de gestão do Responsável, em atenção às orientações exaradas na Portaria nº 152/2021-GP  e  pela  Resolução  ATRICON  nº  02/2020,  adote  as providências cabíveis à autuação de processos apartados neste Tribunal de Contas para devida apuração",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa a apuração de impropriedades, o que indica uma deficiência no controle interno que precisa ser corrigida e fiscalizada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria nº 152/2021-GP",
+              "artigo": "Não aplicável",
+              "descricao": "Orientações para a atuação da Secex."
+            },
+            {
+              "norma": "Resolução  ATRICON  nº  02/2020",
+              "artigo": "Não aplicável",
+              "descricao": "Orientações para a atuação da Secex."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à próxima Comissão de Inspeção que dê especial atenção às impropriedades aqui debatidas, com o fito de aferir se a situação foi regularizada pela Prefeitura Municipal de Boa Vista dos Ramos",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção que dê especial atenção às impropriedades aqui debatidas, com o fito de aferir se a situação foi regularizada pela Prefeitura Municipal de Boa Vista dos Ramos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação explicita um problema de controle interno que necessita de correção e acompanhamento para garantir que a situação seja regularizada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "CIÊNCIA",
+      "descricao": "Dar ciência ao Sr. Eraldo Trindade da Silva , bem como aos advogados constituídos nos autos, sobre o deslinde deste feito",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Eraldo Trindade da Silva , bem como aos advogados constituídos nos autos, sobre o deslinde deste feito",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A citação tem o objetivo de informar os responsáveis sobre os resultados do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

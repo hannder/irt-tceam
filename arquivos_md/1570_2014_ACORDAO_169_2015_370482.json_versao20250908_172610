@@ -1,0 +1,31 @@
+{
+  "acordao": "10/2023",
+  "processo": "2085/2022",
+  "data_sessao": "17 de Janeiro de 2023",
+  "orgao": "Prefeitura Municipal de Boa Vista do Ramos",
+  "municipio": "Boa Vista do Ramos",
+  "exercicio": "2021",
+  "responsavel": [
+    "Eder Trindade Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Considerando a não apresentação da Relação dos Processos Licitatórios, Dispensas e Inexigibilidades, referente ao exercício de 2021.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerando a não apresentação da Relação dos Processos Licitatórios, Dispensas e Inexigibilidades, referente ao exercício de 2021.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "TRANSFERÊNCIAS VOLUNTÁRIAS",
+          "codigo_irregularidade": "T5A2B",
+          "tipologia_irregularidade": "Ausência do relatório dos processos licitatórios, dispensas, inexigibilidades",
+          "descricao": "Não foram apresentados os processos referentes as licitações.",
+          "justificativa_tipologia": "justificativa=A ausência de documentação comprobatória de licitações, inexigibilidades e dispensas impede a fiscalização da aplicação de recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

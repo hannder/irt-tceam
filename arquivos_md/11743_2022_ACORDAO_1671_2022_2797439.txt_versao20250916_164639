@@ -1,0 +1,126 @@
+{
+  "acordao": "1671/2022",
+  "processo": "11743/2022",
+  "data_sessao": "4 de Outubro de 2022",
+  "orgao": "Fundo  de  Previdência  Social dos  Servidores Públicos de Manaquiri -FUNPREV",
+  "municipio": "Manaquiri",
+  "exercicio": "2021",
+  "responsavel": [
+    "Ayrton Romero da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual,  do  Fundo  de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV,  exercício  financeiro  de  2021,  de  responsabilidade do Sr. Ayrton Romero da Silva ,  nos termos do art. 22, inciso III, da Lei nº 2423/96-LOTCE/AM  c/c  o  art.  188,  §1º,  inciso  III,  da Resolução nº 04/2002-RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Anual,  do  Fundo  de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV,  exercício  financeiro  de  2021,  de  responsabilidade do Sr. Ayrton Romero da Silva ,  nos termos do art. 22, inciso III, da Lei nº 2423/96-LOTCE/AM  c/c  o  art.  188,  §1º,  inciso  III,  da Resolução nº 04/2002-RITCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A9B",
+          "tipologia_irregularidade": "Emissão de CRP na modalidade judicial",
+          "descricao": "Emissão de CRP na modalidade judicial",
+          "justificativa_tipologia": "A irregularidade decorre do julgamento da prestação de contas como irregular, o que demonstra que o RPPS não cumpriu os requisitos exigidos para a sua regularidade, o que pode impactar na emissão do CRP - Certificado de Regularidade Previdenciária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso III",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "188, §1º, inciso III",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Ayrton  Romero  da  Silva no valor  de  R$ 68.271,96 (sessenta e oito mil, duzentos e setenta e um reais e noventa e seis centavos) , nos termos do art. 54, inciso VI, da Lei nº 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002 por grave infração a norma legal ou regulamentar em razão das impropriedades não sanadas nos itens 01, 02, 03, 05, 06, 07, 08, 10,  15,  16,  19  e  20  constantes  no  âmbito  da Notificação  nº 02/2022-CI/DICAMI (fls. 792-795) e fixar prazo de 30 (trinta) dias para  que  o  responsável  recolha  o  valor  da  MULTA, na  esfera Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo -FAECE,  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED  autorizado, caso expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo  de  Cooperação  firmado  com  o  Instituto  de  Estudos  de Protesto de Títulos do Brasil  -  Seção Amazonas - IEPTB/AM, ao encaminhamento  do  título  executivo  para  protesto  em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Ayrton  Romero  da  Silva no valor  de  R$ 68.271,96 (sessenta e oito mil, duzentos e setenta e um reais e noventa e seis centavos) , nos termos do art. 54, inciso VI, da Lei nº 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002 por grave infração a norma legal ou regulamentar em razão das impropriedades não sanadas nos itens 01, 02, 03, 05, 06, 07, 08, 10,  15,  16,  19  e  20  constantes  no  âmbito  da Notificação  nº 02/2022-CI/DICAMI (fls. 792-795)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A9B",
+          "tipologia_irregularidade": "Emissão de CRP na modalidade judicial",
+          "descricao": "Emissão de CRP na modalidade judicial",
+          "justificativa_tipologia": "A multa é uma sanção administrativa aplicada em decorrência de irregularidades identificadas na gestão do RPPS, não se enquadrando diretamente em uma tipologia de irregularidade específica, mas sendo uma consequência destas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, inciso VI",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que mantenha a atual gestão do Fundo de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV mantenha o Portal da Transparência devidamente atualizado, com divulgação em tempo real das informações de interesse coletivo ou geral, conforme dispõe o art. 8°, §§ 2° e 4° da Lei nº 12.527/2012 e que  observe  com  maior  rigor o  disposto  no  art.  67  da  Lei  nº 8.666/1993, acerca da nomeação formal de fiscal do contrato, sob pena de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que mantenha a atual gestão do Fundo de Previdência Social dos Servidores Públicos de Manaquiri -FUNPREV mantenha o Portal da Transparência devidamente atualizado, com divulgação em tempo real das informações de interesse coletivo ou geral, conforme dispõe o art. 8°, §§ 2° e 4° da Lei nº 12.527/2012",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação visa corrigir a ausência de atualização do Portal da Transparência, garantindo a divulgação em tempo real das informações, conforme exigido pela legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2012",
+              "artigo": "8°, §§ 2° e 4°",
+              "descricao": "Regula o acesso à informação previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal; e dá outras providências."
+            }
+          ]
+        },
+        {
+          "trecho": "Determinar que [...] observe  com  maior  rigor o  disposto  no  art.  67  da  Lei  nº 8.666/1993, acerca da nomeação formal de fiscal do contrato, sob pena de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "A determinação visa garantir a nomeação formal de fiscal do contrato, conforme exigido pela Lei nº 8.666/1993, para garantir o acompanhamento e a fiscalização da execução contratual, atestando a regularidade da execução.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "67",
+              "descricao": "Regulamenta o Art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Ayrton  Romero  da  Silva e  seus  patronos, sobre a decisão da Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Ayrton  Romero  da  Silva e  seus  patronos, sobre a decisão da Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A9B",
+          "tipologia_irregularidade": "Emissão de CRP na modalidade judicial",
+          "descricao": "Emissão de CRP na modalidade judicial",
+          "justificativa_tipologia": "A ciência não se refere a uma irregularidade, mas sim à comunicação da decisão do Tribunal ao responsável.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

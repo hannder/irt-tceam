@@ -1,0 +1,101 @@
+{
+  "acordao": "509/2016",
+  "processo": "1637/2015",
+  "data_sessao": "14 de Junho de 2016",
+  "orgao": "Secretaria de Estado dos Direitos da Pessoa com Deficiência - SEPED",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Vânia Suely de Melo Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR COM RESSALVAS , nos termos do artigo 1º, inciso II,  e  artigo  22,  inciso  II,  da  Lei  nº.  2423/1996  -  LOTCE/AM; artigo 18, inciso  II, da Lei Complementar  nº.  06/1991;  c/c  o  artigo  188,  §1º,  inciso  II,  da  Resolução  nº.  04/2002RITCE/AM, a Prestação de Contas Anual, referente ao exercício de 2014,  da Secretaria de Estado  dos  Direitos da Pessoa  com  Deficiência -SEPED  (U.G:  36101),  de responsabilidade  da  Senhora Vânia  Suely  de  Melo  Silva , Secretária  de  Estado  e Ordenadora de Despesas, à época;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR COM RESSALVAS , nos termos do artigo 1º, inciso II,  e  artigo  22,  inciso  II,  da  Lei  nº.  2423/1996  -  LOTCE/AM; artigo 18, inciso  II, da Lei Complementar  nº.  06/1991;  c/c  o  artigo  188,  §1º,  inciso  II,  da  Resolução  nº.  04/2002RITCE/AM, a Prestação de Contas Anual, referente ao exercício de 2014,  da Secretaria de Estado  dos  Direitos da Pessoa  com  Deficiência -SEPED  (U.G:  36101),  de responsabilidade  da  Senhora Vânia  Suely  de  Melo  Silva , Secretária  de  Estado  e Ordenadora de Despesas, à época",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento regular com ressalvas, a menção à necessidade de regularização contábil indica uma deficiência que pode persistir se não corrigida.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei Complementar nº. 06/1991",
+              "artigo": "18, inciso II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Nos  termos  dos  artigos  24  e  72,  inciso  II,  da  Lei  nº.  2423/1996  LOTCE/AM; artigo 189, inciso II, da Resolução nº. 04/2002-RITCE/AM, dar quitação à Senhora Vânia Suely de Melo Silva, Secretária de Estado e Ordenadora de Despesas, à época;",
+      "trechos_identificados": [
+        {
+          "trecho": "Nos  termos  dos  artigos  24  e  72,  inciso  II,  da  Lei  nº.  2423/1996  LOTCE/AM; artigo 189, inciso II, da Resolução nº. 04/2002-RITCE/AM, dar quitação à Senhora Vânia Suely de Melo Silva, Secretária de Estado e Ordenadora de Despesas, à época",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A quitação, por si só, não indica um problema estrutural na gestão, mas sim o encerramento da responsabilidade no período avaliado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "189, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Encaminhe à atual Administração da Secretaria de Estado dos Direitos da Pessoa com Deficiência  - SEPED (U.G: 36101), cópias das peças emitidas pela Comissão  de Inspeção e pelo Representante Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe à atual Administração da Secretaria de Estado dos Direitos da Pessoa com Deficiência  - SEPED (U.G: 36101), cópias das peças emitidas pela Comissão  de Inspeção e pelo Representante Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A determinação de encaminhar cópias das peças para evitar impropriedades futuras indica uma preocupação com a recorrência de falhas na prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

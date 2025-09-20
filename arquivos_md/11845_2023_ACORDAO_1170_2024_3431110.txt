@@ -1,0 +1,113 @@
+{
+  "acordao": "1170/2024",
+  "processo": "11845/2023",
+  "data_sessao": "28 de Maio de 2024",
+  "orgao": "Fundação Televisão e Rádio Cultura do Amazonas - FUNTEC",
+  "municipio": "Manaus",
+  "exercicio": "2022",
+  "responsavel": [
+    "Oswaldo Jodas Lopes Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas Anuais do Sr. Oswaldo Jodas Lopes Filho , Diretor-Presidente da Fundação Televisão e Rádio Cultura do Amazonas (Funtec), exercício 2022, nos termos do art. 22, inciso II da Lei nº 2.423/1996-LOTCEAM c/c artigo 188, inciso I e § 1º, inciso II da Resolução nº 04/2002-RITCEAM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação de Contas Anuais do Sr. Oswaldo Jodas Lopes Filho , Diretor-Presidente da Fundação Televisão e Rádio Cultura do Amazonas (Funtec), exercício 2022, nos termos do art. 22, inciso II da Lei nº 2.423/1996-LOTCEAM c/c artigo 188, inciso I e § 1º, inciso II da Resolução nº 04/2002-RITCEAM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação envolve o julgamento das contas como regular com ressalvas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "LOTCEAM"
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "188, inciso I e § 1º, inciso II",
+              "descricao": "RITCEAM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Fundação Televisão e Rádio Cultura do Amazonas - Funtec que  evite realizar despesas  sem  licitação, sem  cobertura contratual,  bem  como,  despesas  anteriores  à  emissão  do  empenho, contrariando os arts. 2º, 54 e 60 da Lei nº 8.666/93 e art. 60 da Lei nº 4.320/64  (item  5,  subitem  5.1,  alíneas  'a'  e  'b',  da  Notificação  nº 91/2023-DICAI)",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Fundação Televisão e Rádio Cultura do Amazonas - Funtec que  evite realizar despesas  sem  licitação, sem  cobertura contratual,  bem  como,  despesas  anteriores  à  emissão  do  empenho, contrariando os arts. 2º, 54 e 60 da Lei nº 8.666/93 e art. 60 da Lei nº 4.320/64  (item  5,  subitem  5.1,  alíneas  'a'  e  'b',  da  Notificação  nº 91/2023-DICAI)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A32A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com superfaturamento",
+          "descricao": "Ausência de registro de controle de recebimento do objeto.",
+          "justificativa_tipologia": "O trecho descreve uma recomendação para evitar despesas sem licitação e cobertura contratual, o que indica uma falha no controle dos gastos e possíveis superfaturamentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "2º",
+              "descricao": "Lei de Licitações"
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "54",
+              "descricao": "Lei de Licitações"
+            },
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "60",
+              "descricao": "Lei de Licitações"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "60",
+              "descricao": "Normas Gerais de Direito Financeiro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência dos  termos  do decisum ao Sr. Oswaldo  Jodas  Lopes Filho, assim como também à Fundação Televisão e Rádio Cultura do Amazonas - FUNTEC",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência dos  termos  do decisum ao Sr. Oswaldo  Jodas  Lopes Filho, assim como também à Fundação Televisão e Rádio Cultura do Amazonas - FUNTEC",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho apenas informa sobre a ciência dada aos responsáveis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo por  cumprimento de decisão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo por  cumprimento de decisão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho apenas informa sobre o arquivamento do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

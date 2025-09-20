@@ -1,0 +1,202 @@
+{
+  "acordao": "66/2022",
+  "processo": "11516/2018",
+  "data_sessao": "8 de Fevereiro de 2022",
+  "orgao": "Serviço Autonomo de Agua e Esgoto de Uarini - SAAE",
+  "municipio": "Uarini",
+  "exercicio": "2017",
+  "responsavel": [
+    "Flavio Mota Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Considerar  revel o Sr.  Flavio  Mota  Junior , gestor  e  ordenador  de despesas, nos termos do art. 20, §4º, da Lei nº 2.423/96, c/c o art. 88, da Resolução TCE/AM nº 04/2002, por não apresentar razões de defesa no prazo  regimental,  deixando  de  atender  às  notificações  desta  Corte  de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  revel o Sr.  Flavio  Mota  Junior , gestor  e  ordenador  de despesas, nos termos do art. 20, §4º, da Lei nº 2.423/96, c/c o art. 88, da Resolução TCE/AM nº 04/2002, por não apresentar razões de defesa no prazo  regimental,  deixando  de  atender  às  notificações  desta  Corte  de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A3B",
+          "tipologia_irregularidade": "Não envio de Balancetes Mensais",
+          "descricao": "Não envio de Balancetes Mensais.",
+          "justificativa_tipologia": "O trecho indica que o responsável não apresentou defesa, o que impede a análise adequada das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Refere-se à revelia por não apresentar razões de defesa."
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/2002",
+              "artigo": "88",
+              "descricao": "Dispõe sobre os efeitos da revelia no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Serviço  Autônomo  de  Água  e Esgoto - SAAE do município de Uarini, referente ao exercício de 2017, sob a responsabilidade do Sr. Flavio Mota Junior , gestor e ordenador de despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas indicadas na fundamentação deste Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Serviço  Autônomo  de  Água  e Esgoto - SAAE do município de Uarini, referente ao exercício de 2017, sob a responsabilidade do Sr. Flavio Mota Junior , gestor e ordenador de despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em razão das falhas indicadas na fundamentação deste Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A Prestação de Contas foi considerada irregular devido as falhas na apresentação das informações financeiras e contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "19, inciso II",
+              "descricao": "Dispõe sobre a competência do TCE para julgar as contas."
+            },
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "22, inciso III, alíneas 'b' e 'c'",
+              "descricao": "Define as condições para irregularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Considerar em Alcance o Sr. Flavio Mota Junior , gestor e ordenador de despesas, no valor de R$ 76.138,24 (setenta e seis mil, cento e trinta e oito reais e vinte e quatro centavos), nos termos do art. 304, inciso I, da Resolução nº 04/2002-TCE/AM, pelos motivos abaixo discriminados, que devem ser recolhidos no prazo de 30 (trinta) dias ,  na  esfera  Municipal para o órgão Serviço Autônomo de Água e Esgoto de Uarini - SAAE:",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Flavio Mota Junior , gestor e ordenador de despesas, no valor de R$ 76.138,24 (setenta e seis mil, cento e trinta e oito reais e vinte e quatro centavos), nos termos do art. 304, inciso I, da Resolução nº 04/2002-TCE/AM, pelos motivos abaixo discriminados, que devem ser recolhidos no prazo de 30 (trinta) dias ,  na  esfera  Municipal para o órgão Serviço Autônomo de Água e Esgoto de Uarini - SAAE",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O gestor foi considerado em alcance devido a despesas que não beneficiaram a administração pública municipal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Define as condições para considerar alguém em alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "No valor de R$ 262,44 (duzentos e sessenta e dois reais e quarenta e quatro centavos), por gastos não realizados em favor da  Administração  Pública Municipal, referente ao pagamento  de  multas  e  juros  nas  contas  da  Amazonas Distribuidora de Energia, conforme o item 6, da fundamentação do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 262,44 (duzentos e sessenta e dois reais e quarenta e quatro centavos), por gastos não realizados em favor da  Administração  Pública Municipal, referente ao pagamento  de  multas  e  juros  nas  contas  da  Amazonas Distribuidora de Energia, conforme o item 6, da fundamentação do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho especifica que o alcance é devido a pagamentos de multas e juros que não beneficiaram a administração pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "No valor de R$ 75.875,80 (setenta e cinco mil, oitocentos e setenta e cinco reais e oitenta centavos), uma vez que não restou comprovada a entrada dos produtos das NFs listadas nos  itens  7  e  8,  da  fundamentação  do  Relatório/Voto,  no almoxarifado da Unidade Gestora.",
+      "trechos_identificados": [
+        {
+          "trecho": "No valor de R$ 75.875,80 (setenta e cinco mil, oitocentos e setenta e cinco reais e oitenta centavos), uma vez que não restou comprovada a entrada dos produtos das NFs listadas nos  itens  7  e  8,  da  fundamentação  do  Relatório/Voto,  no almoxarifado da Unidade Gestora.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A5B",
+          "tipologia_irregularidade": "Ausência de registro da entrada no inventário de bens",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "Não há comprovação da entrada dos produtos no almoxarifado, indicando irregularidade na gestão patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Aplicar Multa ao Sr. Flavio Mota  Junior , gestor e ordenador  de despesas,  no  valor de R$  68.271,96 (sessenta  e  oito  mil,  duzentos  e setenta e um reais e noventa e seis centavos), nos casos praticados com grave  infração  à  norma  legal  ou  regulamentar  de  natureza  contábil, financeira,  orçamentária,  operacional  e  patrimonial,  conforme  os  termos do  art.  54,  VI,  da  Lei  n°  2.423/96,  alterada  pela  Lei  Complementar  n° 204/2020-TCE/AM  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002TCE/AM, alterada pela Resolução n.º 04/2018-TCE/AM, pelas impropriedades constantes nos itens 1, 2, 3, 5 e 9  da fundamentação do , Relatório/Voto e fixar prazo de 30 (trinta) dias para  que  o  responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o  encaminhamento  do  comprovante  de  pagamento  (autenticado  pelo Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título  executivo  (art.  73  da  Lei  Orgânica  do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil  -  Seção  Amazonas  - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Flavio Mota  Junior , gestor e ordenador  de despesas,  no  valor de R$  68.271,96 (sessenta  e  oito  mil,  duzentos  e setenta e um reais e noventa e seis centavos), nos casos praticados com grave  infração  à  norma  legal  ou  regulamentar  de  natureza  contábil, financeira,  orçamentária,  operacional  e  patrimonial,  conforme  os  termos do  art.  54,  VI,  da  Lei  n°  2.423/96,  alterada  pela  Lei  Complementar  n° 204/2020-TCE/AM  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002TCE/AM, alterada pela Resolução n.º 04/2018-TCE/AM, pelas impropriedades constantes nos itens 1, 2, 3, 5 e 9  da fundamentação do , Relatório/Voto e fixar prazo de 30 (trinta) dias para  que  o  responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE'.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68A",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "A multa é aplicada por infrações graves de natureza contábil, financeira, orçamentária, operacional e patrimonial, indicando descumprimento de normas essenciais de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, VI",
+              "descricao": "Define as condições para aplicação de multa por infração à norma legal ou regulamentar."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "null",
+              "descricao": "Altera a Lei n° 2.423/96."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Regulamenta a aplicação de multas no âmbito do TCE/AM."
+            },
+             {
+              "norma": "Resolução n.º 04/2018-TCE/AM",
+              "artigo": "null",
+              "descricao": "Altera a Resolução n° 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Aplicar  Multa ao Sr. Flavio Mota  Junior , gestor e ordenador  de despesas, no valor de R$ 34.135,98 (trinta  e quatro mil, cento e trinta e cinco reais e noventa e oito centavos), conforme os termos do art. 54, V, da Lei n° 2.423/96, alterada pela Lei Complementar n° 204/2020-TCE/AM c/c  art.  308,  inciso  V,  da  Resolução  n°  04/2002-TCE/AM,  alterada  pela Resolução n.º 04/2018-TCE/AM, por atos de gestão ilegítimo e antieconômico de que resulte injustificado dano ao erário, pelas impropriedades constantes nos itens 6, 7 e 8, da fundamentação do Relatório/Voto e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de dar avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE'. Dentro  do  prazo  anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título  executivo  (art.  73  da  Lei  Orgânica  do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil  -  Seção  Amazonas  - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr. Flavio Mota  Junior , gestor e ordenador  de despesas, no valor de R$ 34.135,98 (trinta  e quatro mil, cento e trinta e cinco reais e noventa e oito centavos), conforme os termos do art. 54, V, da Lei n° 2.423/96, alterada pela Lei Complementar n° 204/2020-TCE/AM c/c  art.  308,  inciso  V,  da  Resolução  n°  04/2002-TCE/AM,  alterada  pela Resolução n.º 04/2018-TCE/AM, por atos de gestão ilegítimo e antieconômico de que resulte injustificado dano ao erário, pelas impropriedades constantes nos itens 6, 7 e 8, da fundamentação do Relatório/Voto e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de dar avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo  FAECE'.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles",
+          "justificativa_tipologia": "A multa é aplicada por atos de gestão ilegítimos e antieconômicos com dano ao erário, como o pagamento de multas e a falta de comprovação da entrada de produtos no almoxarifado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, V",
+              "descricao": "Define as condições para aplicação de multa por atos de gestão ilegítimos e antieconômicos."
+            },
+            {
+              "norma": "Lei Complementar n° 204/2020-TCE/AM",
+              "artigo": "null",
+              "descricao": "Altera a Lei n° 2.423/96."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso V",
+              "descricao": "Regulamenta a aplicação de multas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução n.º 04/2018-TCE/AM",
+              "artigo": "null",
+              "descricao": "Altera a Resolução n° 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

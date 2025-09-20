@@ -1,0 +1,148 @@
+{
+  "acordao": "1308/2019",
+  "processo": "11589/2018",
+  "data_sessao": "11 de Dezembro de 2019",
+  "orgao": "Fundo de Previdência Social do Município de Manacapuru - FUNPREVIM",
+  "municipio": "Manacapuru",
+  "exercicio": "2017",
+  "responsavel": [
+    "Ailton  Santos  Andrade",
+    "Jucimar Fonseca da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do Sr.Jucimar  Fonseca  da Silva , Diretor-Presidente do Fundo de Previdência Social do Município de  Manacapuru  -  FUNPREVIM,  no  período  de 02/01  à  14/08/2017 , conforme art.  22,  III,  da  Lei  nº  2.423/96  c/c  art.  188,  §  1º,  III,  'b',  da Resolução nº 04/02- RI TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do Sr.Jucimar  Fonseca  da Silva , Diretor-Presidente do Fundo de Previdência Social do Município de  Manacapuru  -  FUNPREVIM,  no  período  de 02/01  à  14/08/2017 , conforme art.  22,  III,  da  Lei  nº  2.423/96  c/c  art.  188,  §  1º,  III,  'b',  da Resolução nº 04/02- RI TCE/AM",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Ainda que genérica, a irregularidade no julgamento da prestação de contas indica que houve falhas na comprovação de despesas, o que se relaciona com a tipologia escolhida. A ausência de detalhamento impede a identificação de tipologia mais específica.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº  2.423/96",
+              "artigo": "22,  III",
+              "descricao": "Dispositivo legal que fundamenta a irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/02- RI TCE/AM",
+              "artigo": "188, § 1º, III, 'b'",
+              "descricao": "Regulamento que trata das irregularidades em prestações de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Ailton Santos  Andrade ,  Diretor-Presidente  do  Fundo  de  Previdência  Social do  Município  de  Manacapuru  -  FUNPREVIM,  no  período  de 15/08  à 31/12/2017 ,  conforme art. 22, III, da Lei nº 2.423/96 c/c art. 188, § 1º, III, 'b', da Resolução nº 04/02- RI TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr. Ailton Santos  Andrade ,  Diretor-Presidente  do  Fundo de Previdência Social do  Município  de  Manacapuru  -  FUNPREVIM,  no  período  de 15/08  à 31/12/2017 ,  conforme art. 22, III, da Lei nº 2.423/96 c/c art. 188, § 1º, III, 'b', da Resolução nº 04/02- RI TCE/AM",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Ainda que genérica, a irregularidade no julgamento da prestação de contas indica que houve falhas na comprovação de despesas, o que se relaciona com a tipologia escolhida. A ausência de detalhamento impede a identificação de tipologia mais específica.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Dispositivo legal que fundamenta a irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/02- RI TCE/AM",
+              "artigo": "188, § 1º, III, 'b'",
+              "descricao": "Regulamento que trata das irregularidades em prestações de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa ao Sr. Ailton Santos Andrade no valor de R$ 13.654,39 (treze mil, seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e  nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Ailton Santos Andrade no valor de R$ 13.654,39 (treze mil, seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e  nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A aplicação de multa decorre de graves infrações às normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais, o que pode indicar tentativa de burla ao processo legal de pagamento. A ausência de detalhamento impede a identificação de tipologia mais específica.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Fundamentação legal para a aplicação de multa por infração à norma."
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, VI",
+              "descricao": "Norma interna do TCE/AM que estabelece os critérios para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  Multa ao Sr.  Jucimar  Fonseca  da  Silva no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Jucimar  Fonseca  da  Silva no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da  Resolução  4/2002,  por  ato  praticado  com  grave  infração  à  norma legal  ou  regulamentar  de  natureza  contábil,  financeira,  orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A aplicação de multa decorre de graves infrações às normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais, o que pode indicar tentativa de burla ao processo legal de pagamento. A ausência de detalhamento impede a identificação de tipologia mais específica.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Fundamentação legal para a aplicação de multa por infração à norma."
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, VI",
+              "descricao": "Norma interna do TCE/AM que estabelece os critérios para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório da Unidade Técnica\"; justificativa=\"A determinação para observar normas sobre gestão previdenciária, com base nas restrições do relatório, indica deficiências no controle interno. Por ser genérica, a tipologia mais adequada é a de não implementação do controle interno.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à SECEX que oriente as próximas Comissões designadas a  vistoriar  o  RPPS  do  Município  de  Manacapuru  que  verifiquem  o cumprimento das determinações elencadas no voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que oriente as próximas Comissões designadas a  vistoriar  o  RPPS  do  Município  de  Manacapuru  que  verifiquem  o cumprimento das determinações elencadas no voto",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação à SECEX para orientar as comissões de vistoria indica a necessidade de reforçar a fiscalização e o controle sobre o RPPS, o que se relaciona com a omissão do controle interno em notificar irregularidades.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

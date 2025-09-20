@@ -1,0 +1,202 @@
+{
+  "acordao": "269/2014",
+  "processo": "2056/2012",
+  "data_sessao": "20 de maio de 2014",
+  "orgao": "Câmara Municipal de Manaquiri",
+  "municipio": "Manaquiri",
+  "exercicio": "2011",
+  "responsavel": [
+    "Quintino Farias de Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR, COM RESSALVAS , nos termos do art. 18, II, da LC n. 6/1991 c/c art. 1º, II, e art. 22, II, da Lei n 2423/1996, art. 188, § 1º, II, da Resolução n. 4/2002 - RITCE e artigo 5º da Resolução n. 9/1997, a Prestação de Contas, referente ao exercício de 2011, da Câmara Municipal de Manaquiri, de responsabilidade do Senhor Quintino  Farias  de  Lima,  Presidente  do  Poder  Legislativo  Municipal  e  Ordenador  de Despesas, à época;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR, COM RESSALVAS , nos termos do art. 18, II, da LC n. 6/1991 c/c art. 1º, II, e art. 22, II, da Lei n 2423/1996, art. 188, § 1º, II, da Resolução n. 4/2002 - RITCE e artigo 5º da Resolução n. 9/1997, a Prestação de Contas, referente ao exercício de 2011, da Câmara Municipal de Manaquiri, de responsabilidade do Senhor Quintino  Farias  de  Lima,  Presidente  do  Poder  Legislativo  Municipal  e  Ordenador  de Despesas, à época;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação julga as contas com ressalvas, o que indica a necessidade de melhorias na contabilidade e gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC n. 6/1991",
+              "artigo": "18, II",
+              "descricao": "Lei que dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Lei que dispõe sobre as taxas de serviços devidos ao Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n 2423/1996",
+              "artigo": "22, II",
+              "descricao": "Lei que dispõe sobre as taxas de serviços devidos ao Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n. 4/2002 - RITCE",
+              "artigo": "188, § 1º, II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n. 9/1997",
+              "artigo": "5º",
+              "descricao": "Dispõe sobre o processo de tomada e prestação de contas no âmbito do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar quitação ao Sr. Quintino Farias de Lima, nos termos dos arts. 24 e 76, da Lei n. 2423/1996, c/c art. 189, II, da Res. n. 4/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Quintino Farias de Lima, nos termos dos arts. 24 e 76, da Lei n. 2423/1996, c/c art. 189, II, da Res. n. 4/2002;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A quitação formaliza o encerramento da análise das contas, indicando regularidade formal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "24",
+              "descricao": "Lei que dispõe sobre as taxas de serviços devidos ao Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "76",
+              "descricao": "Lei que dispõe sobre as taxas de serviços devidos ao Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Res. n. 4/2002",
+              "artigo": "189, II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: a) encaminhe,  à  atual  Presidência  da  Câmara  de  Manaquiri,  cópias reprográficas  do Relatório  Conclusivo  n.  23/2012 ,  às  fls.  242/265,  e  do Parecer  n. 722/2014 , às  fls.  311/315,  para  que  deles  colham  as  recomendações  ali  expostas, evitando, no futuro, reincidir nas mesmas falhas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: a) encaminhe,  à  atual  Presidência  da  Câmara  de  Manaquiri,  cópias reprográficas  do Relatório  Conclusivo  n.  23/2012 ,  às  fls.  242/265,  e  do Parecer  n. 722/2014 , às  fls.  311/315,  para  que  deles  colham  as  recomendações  ali  expostas, evitando, no futuro, reincidir nas mesmas falhas;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de encaminhar cópias dos relatórios visa fortalecer o controle interno, garantindo que as recomendações sejam implementadas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: b)  remeta  à DICAMI, cópias  reprográficas  do Relatório  Conclusivo  nº. 23/2012 , às fls. 242/265; do Parecer  nº. 14/2013-MP-ESB, às fls. 267/272; da Informação  nº.  133/2014-DICAMI ,  às  fls.  309/310;  e  do Parecer  nº.  722/2014 , às  fls. 311/315,  para  que  a  Comissão  de  Inspeção  que  irá  inspecionar  as  Contas  futuras observe as impropriedades e recomendações ali constantes, em  prol de evitar reincidências;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: b)  remeta  à DICAMI, cópias  reprográficas  do Relatório  Conclusivo  nº. 23/2012 , às fls. 242/265; do Parecer  nº. 14/2013-MP-ESB, às fls. 267/272; da Informação  nº.  133/2014-DICAMI ,  às  fls.  309/310;  e  do Parecer  nº.  722/2014 , às  fls. 311/315,  para  que  a  Comissão  de  Inspeção  que  irá  inspecionar  as  Contas  futuras observe as impropriedades e recomendações ali constantes, em  prol de evitar reincidências;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de remeter cópias dos documentos à DICAMI visa fortalecer o controle interno e evitar reincidências em impropriedades.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: c)  adote  as  providências  previstas  no  artigo  162,  §1º,  do  Regimento Interno.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: c)  adote  as  providências  previstas  no  artigo  162,  §1º,  do  Regimento Interno.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de adotar providências conforme o regimento interno visa garantir o cumprimento das normas e a eficácia do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "162, §1º",
+              "descricao": "Artigo do regimento que trata das providências a serem adotadas pela Secretaria do Tribunal Pleno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Aplicar ao Senhor Quintino Farias de Lima, multa no valor de R$ 10.960,30 (dez mil novecentos e sessenta reais e trinta centavos), correspondendo em R$ 1.096,03 (mil e noventa e seis reais e três centavos) por mês de competência (fevereiro a junho e agosto a dezembro do exercício de 2011), relativo aos dados e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas com mais  de 30  (trinta) dias  além  do  prazo  fixado,  nos  termos  do  art.  308,  inciso  II  da Resolução n. 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar ao Senhor Quintino Farias de Lima, multa no valor de R$ 10.960,30 (dez mil novecentos e sessenta reais e trinta centavos), correspondendo em R$ 1.096,03 (mil e noventa e seis reais e três centavos) por mês de competência (fevereiro a junho e agosto a dezembro do exercício de 2011), relativo aos dados e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas com mais  de 30  (trinta) dias  além  do  prazo  fixado,  nos  termos  do  art.  308,  inciso  II  da Resolução n. 04/2002.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A aplicação de multa por atraso na entrega de documentos contábeis demonstra uma falha na observância dos prazos e normas estabelecidas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, inciso II",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo 174 do Regimento Interno), para que o Senhor Quintino Farias de Lima, recolha aos cofres da Fazenda Estadual o valor da multa  ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei n. 2423/1996), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução TC n. 4/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias (artigo 174 do Regimento Interno), para que o Senhor Quintino Farias de Lima, recolha aos cofres da Fazenda Estadual o valor da multa  ora aplicada, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei n. 2423/1996), ficando a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Resolução TC n. 4/2002;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de fixar um prazo para o recolhimento da multa visa garantir o cumprimento das decisões do Tribunal e a efetividade do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "174",
+              "descricao": "Artigo do regimento interno que estabelece os prazos para cumprimento das decisões do Tribunal de Contas."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "55",
+              "descricao": "Lei que dispõe sobre as taxas de serviços devidos ao Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução TC n. 4/2002",
+              "artigo": "Subseções III e IV da Secção III, do Capítulo X",
+              "descricao": "Regulamenta sobre a cobrança de débitos e multas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

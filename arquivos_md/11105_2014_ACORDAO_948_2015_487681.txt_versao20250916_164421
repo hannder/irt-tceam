@@ -1,0 +1,428 @@
+{
+  "acordao": "948/2015",
+  "processo": "11105/2014",
+  "data_sessao": "18 de novembro de 2015",
+  "orgao": "Câmara Municipal de Rio Preto da Eva",
+  "municipio": "Rio Preto da Eva",
+  "exercicio": "2013",
+  "responsavel": [
+    "Jamerson Zênio da Costa Faria",
+    "Luiz Horomberg Almino Paz",
+    "Francisco Batista da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Irregular a  Prestação de Contas do Sr. Jamerson  Zênio da Costa Faria, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período  de  01/01/2013  a  20/06/2013  e  05/07/2013  a  10/07/2013,  nos  termos  do  art.  22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a  Prestação de Contas do Sr. Jamerson  Zênio da Costa Faria, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período  de  01/01/2013  a  20/06/2013  e  05/07/2013  a  10/07/2013,  nos  termos  do  art.  22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas foi julgada irregular, o que pode indicar problemas concretos e recorrentes na gestão contábil, refletindo na ausência de informações relevantes",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso III, 'b'",
+              "descricao": "Define as irregularidades passíveis de julgamento em prestações de contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "25",
+              "descricao": "Estabelece as consequências para irregularidades encontradas em prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Multar o Sr. Jamerson Zênio da Costa Faria, pelos subitens 9.2 Restrição 2,  9.4  Restrição 4, 9.6 Restrição 10  do Relatório/voto, no  valor de R$ 8.768,25 (Oito  mil, setecentos e sessenta e oito reais e vinte e cinco centavos), por grave infração à norma legal, conforme disposto no art. 308, inciso VI, da Resolução TCE nº 04/2002 com a nova redação dada pelo art. 2º da Resolução nº 25/2012;",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Sr. Jamerson Zênio da Costa Faria, pelos subitens 9.2 Restrição 2,  9.4  Restrição 4, 9.6 Restrição 10  do Relatório/voto, no  valor de R$ 8.768,25 (Oito  mil, setecentos e sessenta e oito reais e vinte e cinco centavos), por grave infração à norma legal, conforme disposto no art. 308, inciso VI, da Resolução TCE nº 04/2002 com a nova redação dada pelo art. 2º da Resolução nº 25/2012",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SANÇÃO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Aplicação de multa por infração à norma legal",
+          "justificativa_tipologia": "O trecho descreve a aplicação de uma multa por infração à norma legal, o que é um problema recorrente em auditorias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "308, inciso VI",
+              "descricao": "Estabelece as disposições sobre multas por infrações à norma legal."
+            },
+            {
+              "norma": "Resolução nº 25/2012",
+              "artigo": "2º",
+              "descricao": "Altera a redação da Resolução TCE nº 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar prazo de 30 dias para recolher a multa constante no subitem 12.1.1  do  Relatório/voto,  aos  cofres  da  Fazenda  Pública  Estadual  nos  termos  do  art.  72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar prazo de 30 dias para recolher a multa constante no subitem 12.1.1  do  Relatório/voto,  aos  cofres  da  Fazenda  Pública  Estadual  nos  termos  do  art.  72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PROCESSO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Fixação de prazo para recolhimento de multa",
+          "justificativa_tipologia": "O trecho se refere a um procedimento interno do TCE, que não caracteriza um problema concreto na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Estabelece os procedimentos para o recolhimento de multas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Regulamenta os prazos e formas de recolhimento de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DIVIDA ATIVA",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Autorização para inscrição em dívida ativa e cobrança executiva",
+          "justificativa_tipologia": "O trecho se refere a um procedimento interno do TCE, que não caracteriza um problema concreto na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "72, inciso III, 'a'",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "169, inciso II",
+              "descricao": "Regulamenta a inscrição de débitos na Dívida Ativa."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "173",
+              "descricao": "Regulamenta a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, §6º",
+              "descricao": "Regulamenta os procedimentos para cobrança de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular a Prestação de Contas do Sr. Luiz Horomberg Almino Paz, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período de 20/06/2013 a 05/072013 e 11/07/2013 a 01/08/2013, nos termos do art. 22, inciso I, c/c o art. 23, ambos da Lei nº 2423/96, dando- lhe plena quitação;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular a Prestação de Contas do Sr. Luiz Horomberg Almino Paz, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período de 20/06/2013 a 05/072013 e 11/07/2013 a 01/08/2013, nos termos do art. 22, inciso I, c/c o art. 23, ambos da Lei nº 2423/96, dando- lhe plena quitação",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Julgamento regular das contas",
+          "justificativa_tipologia": "O trecho indica um julgamento formal da prestação de contas, não apontando problemas na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso I",
+              "descricao": "Define as condições para julgamento regular das contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "23",
+              "descricao": "Estabelece os critérios para a quitação das responsabilidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Irregular a Prestação de Contas do Sr. Francisco Batista da Silva, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período de 02/08/2013 a 31/12/2013 nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas do Sr. Francisco Batista da Silva, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período de 02/08/2013 a 31/12/2013 nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas foi julgada irregular, o que pode indicar problemas concretos e recorrentes na gestão contábil, refletindo na ausência de informações relevantes",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso III, 'b'",
+              "descricao": "Define as irregularidades passíveis de julgamento em prestações de contas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "25",
+              "descricao": "Estabelece as consequências para irregularidades encontradas em prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Multar o Sr. Francisco Batista da Silva, pelo subitem 8.3 Restrição 4, no valor de R$ 8.768,25 (Oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), por grave infração à norma legal, conforme disposto no art. 308, inciso VI, da Resolução TCE nº 04/2002 com a nova redação dada pelo art. 2º da Resolução nº 25/2012;",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Sr. Francisco Batista da Silva, pelo subitem 8.3 Restrição 4, no valor de R$ 8.768,25 (Oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), por grave infração à norma legal, conforme disposto no art. 308, inciso VI, da Resolução TCE nº 04/2002 com a nova redação dada pelo art. 2º da Resolução nº 25/2012",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SANÇÃO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Aplicação de multa por infração à norma legal",
+          "justificativa_tipologia": "O trecho descreve a aplicação de uma multa por infração à norma legal, o que é um problema recorrente em auditorias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "308, inciso VI",
+              "descricao": "Estabelece as disposições sobre multas por infrações à norma legal."
+            },
+            {
+              "norma": "Resolução nº 25/2012",
+              "artigo": "2º",
+              "descricao": "Altera a redação da Resolução TCE nº 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o prazo de 30 dias para recolher a multa constante no subitem 12.3.1 deste voto, aos cofres da Fazenda Pública Estadual nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o prazo de 30 dias para recolher a multa constante no subitem 12.3.1 deste voto, aos cofres da Fazenda Pública Estadual nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PROCESSO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Fixação de prazo para recolhimento de multa",
+          "justificativa_tipologia": "O trecho se refere a um procedimento interno do TCE, que não caracteriza um problema concreto na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Estabelece os procedimentos para o recolhimento de multas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Regulamenta os prazos e formas de recolhimento de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DIVIDA ATIVA",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Autorização para inscrição em dívida ativa e cobrança executiva",
+          "justificativa_tipologia": "O trecho se refere a um procedimento interno do TCE, que não caracteriza um problema concreto na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "72, inciso III, 'a'",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "169, inciso II",
+              "descricao": "Regulamenta a inscrição de débitos na Dívida Ativa."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "173",
+              "descricao": "Regulamenta a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, §6º",
+              "descricao": "Regulamenta os procedimentos para cobrança de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Sr. Francisco Batista da Silva, a devolução do débito no valor de R$ 3.227,20 (três mil, duzentos e vinte e sete reais e vinte centavos), subitem 8.6 Restrição 8, do Relatório/voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao Sr. Francisco Batista da Silva, a devolução do débito no valor de R$ 3.227,20 (três mil, duzentos e vinte e sete reais e vinte centavos), subitem 8.6 Restrição 8, do Relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O trecho indica uma determinação de devolução de débito, sugerindo um possível desvio de recursos públicos e a ausência de responsabilidade patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar prazo  de 30  dias para  recolher  a  devolução  do  débito constante no subitem 12.3.4 do Relatório/voto, aos cofres da Fazenda Pública Municipal nos termos do art. 72, inciso  II,  da Lei nº 2423/1996 c/c o art. 174  da Resolução nº  04/2002TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar prazo  de 30  dias para  recolher  a  devolução  do  débito constante no subitem 12.3.4 do Relatório/voto, aos cofres da Fazenda Pública Municipal nos termos do art. 72, inciso  II,  da Lei nº 2423/1996 c/c o art. 174  da Resolução nº  04/2002TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PROCESSO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Fixação de prazo para recolhimento de débito",
+          "justificativa_tipologia": "O trecho se refere a um procedimento interno do TCE, que não caracteriza um problema concreto na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Estabelece os procedimentos para o recolhimento de débitos."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "174",
+              "descricao": "Regulamenta os prazos e formas de recolhimento de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Municipal, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Municipal, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DIVIDA ATIVA",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Autorização para inscrição em dívida ativa e cobrança executiva",
+          "justificativa_tipologia": "O trecho se refere a um procedimento interno do TCE, que não caracteriza um problema concreto na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "72, inciso III, 'a'",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "169, inciso II",
+              "descricao": "Regulamenta a inscrição de débitos na Dívida Ativa."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "173",
+              "descricao": "Regulamenta a instauração da cobrança executiva."
+            },
+            {
+              "norma": "Resolução 04/2002 - TCE/AM",
+              "artigo": "308, §6º",
+              "descricao": "Regulamenta os procedimentos para cobrança de débitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à administração da Câmara Municipal de Rio Preto da Eva que:\n- a) Sejam observados e cumpridos os prazos para a remessa da movimentação contábil via ACP conforme estabelece o art.4º da Resolução 10/12-TCE;\n- b) Proceda à abertura dos trâmites para realização de concurso público, a fim de sanear a deficiência de pessoal da sua área administrativa e compor o Controle Interno com cargo de provimento efetivo;\n- c)  Revise  o  Anexo  II,  da  Lei  n°  01/2011,  alterando  o  cargo  de  Controlador Interno, de livre nomeação e exoneração, para cargo de provimento efetivo;\n- d)  Proceda  à  criação  do  cargo  de  provimento  efetivo  de  Procurador  Geral, bem como a realização do seu respectivo concurso público;\n- e)  Proceda  à  regulamentação  do  seu  sistema  de  registro  de  preços,  bem como  efetue  a  elaboração  dos  Projetos  Básicos, cotações  de  preços  e  pagamentos  por regime de empreitada global conforme dispostos na legislação;\n- f) Proceda  com  maior  zelo  na  juntada  e  paginação  dos  seus  processos administrativos,  com  vistas  a manter  a  ordem  cronológica dos  atos  e  a  evitar  a  retirada, alteração ou inclusão de folhas;\n- g) Efetue a comprovação da ida dos Vereadores às localidades previamente listadas  no  planejamento  mensal  por  meio  do  recebimento  de  Relatórios  descrevendo  as datas e atividades desenvolvidas dentro do interesse público;\n- h)  Proceda  ao  repasse  imediato  dos  valores  referentes  as  pendências  do Legislativo junto ao Executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Sejam observados e cumpridos os prazos para a remessa da movimentação contábil via ACP conforme estabelece o art.4º da Resolução 10/12-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação sugere um problema na tempestividade do envio de informações contábeis, indicando uma falha processual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 10/12-TCE",
+              "artigo": "4º",
+              "descricao": "Estabelece os prazos para a remessa da movimentação contábil via ACP."
+            }
+          ]
+        },
+        {
+          "trecho": "Proceda à abertura dos trâmites para realização de concurso público, a fim de sanear a deficiência de pessoal da sua área administrativa e compor o Controle Interno com cargo de provimento efetivo",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho indica uma deficiência na estruturação do controle interno, com a recomendação de sanear a falta de pessoal qualificado.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Revise o Anexo II, da Lei n° 01/2011, alterando o cargo de Controlador Interno, de livre nomeação e exoneração, para cargo de provimento efetivo",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A6B",
+          "tipologia_irregularidade": "O responsável pelo Controle Interno não é servidor efetivo",
+          "descricao": "Ausência do Plano de Providências expedido pelo Jurisdicionado para sanear achados do relatório do Órgão Central de Controle Interno.",
+          "justificativa_tipologia": "A recomendação indica uma fragilidade na independência do controle interno, que não é exercido por servidor efetivo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 01/2011",
+              "art

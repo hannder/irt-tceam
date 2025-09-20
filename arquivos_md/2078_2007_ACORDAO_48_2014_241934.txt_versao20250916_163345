@@ -1,0 +1,60 @@
+{
+  "acordao": "48/2014",
+  "processo": "2078/2007",
+  "data_sessao": "29 de janeiro de 2014",
+  "orgao": "Secretaria Municipal de Meio Ambiente - SEMMA",
+  "municipio": "Manaus",
+  "exercicio": "2006",
+  "responsavel": [
+    "Luciana Montenegro Valente"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Em  atendimento  ao  disposto  nos  arts.  1º  e  3º  da  Lei  n.  6.496/77, nas contratações para a execução de obras ou prestação de quaisquer serviços profissionais referentes à Engenharia, à  Arquitetura e à  Agronomia, exija  a Anotação de Responsabilidade Técnica - ART, cuja ausência sujeitará o profissional ou  a empresa à multa prevista na  alínea \"a\" do art. 73 da Lei nº 5.194, de 24 de dezembro de 1966, e demais cominações legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Em  atendimento  ao  disposto  nos  arts.  1º  e  3º  da  Lei  n.  6.496/77, nas contratações para a execução de obras ou prestação de quaisquer serviços profissionais referentes à Engenharia, à  Arquitetura e à  Agronomia, exija  a Anotação de Responsabilidade Técnica - ART, cuja ausência sujeitará o profissional ou  a empresa à multa prevista na  alínea \"a\" do art. 73 da Lei nº 5.194, de 24 de dezembro de 1966, e demais cominações legais",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Lei n. 6.496/77\"; justificativa=\"A ausência de ART em contratações de serviços de engenharia, arquitetura e agronomia configura uma irregularidade no processo licitatório, violando normas específicas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 6.496/77",
+              "artigo": "1º e 3º",
+              "descricao": "Dispõe sobre a Anotação de Responsabilidade Técnica na contratação de serviços de engenharia, arquitetura e agronomia"
+            },
+            {
+              "norma": "Lei nº 5.194/66",
+              "artigo": "73",
+              "descricao": "Dispõe sobre as penalidades aplicáveis à ausência de ART"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Na  realização  de  despesas  cujos  somatórios  excedam  ao limite legalmente permitido, realize o devido procedimento licitatório em observância à Lei n. 8.666/93 e demais normativos pertinentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Na  realização  de  despesas  cujos  somatórios  excedam  ao limite legalmente permitido, realize o devido procedimento licitatório em observância à Lei n. 8.666/93 e demais normativos pertinentes",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Lei n. 8.666/93\"; justificativa=\"O não cumprimento do procedimento licitatório em despesas que excedem o limite legalmente permitido configura ausência de licitação e violação de normas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 8.666/93",
+              "artigo": "22",
+              "descricao": "Normas gerais sobre licitações e contratos administrativos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

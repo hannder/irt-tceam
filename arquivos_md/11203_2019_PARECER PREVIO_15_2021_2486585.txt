@@ -1,0 +1,47 @@
+{
+  "acordao": "15/2021",
+  "processo": "11203/2019",
+  "data_sessao": "14 de Setembro de 2021",
+  "orgao": "Prefeitura Municipal de São Sebastião do Uatumã",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2018",
+  "responsavel": [
+    "Fernando Falabella"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que adote as medidas necessárias para autuação de processo autônomo visando à apuração das irregularidades e ilegalidades cometidas pelo jurisdicionado, na qualidade de gestor/ordenador de despesas as quais permaneceram no presente feito após julgamento pelo Egrégio Tribunal Pleno",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que adote as medidas necessárias para autuação de processo autônomo visando à apuração das irregularidades e ilegalidades cometidas pelo jurisdicionado, na qualidade de gestor/ordenador de despesas as quais permaneceram no presente feito após julgamento pelo Egrégio Tribunal Pleno",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação para apuração de irregularidades e ilegalidades cometidas pelo gestor indica a necessidade de investigar possíveis desvios ou falhas na execução orçamentária e financeira, o que se alinha com a burla ao processo legal de pagamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste Parecer ao Poder Legislativo de São Sebastião do Uatumã e ao Sr. Fernando Falabella.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência deste Parecer ao Poder Legislativo de São Sebastião do Uatumã e ao Sr. Fernando Falabella.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A comunicação formal ao Poder Legislativo e ao responsável indica um esforço para garantir a transparência e o conhecimento das decisões do Tribunal de Contas, o que se relaciona com a ausência de divulgação de informações relevantes no site de transparência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

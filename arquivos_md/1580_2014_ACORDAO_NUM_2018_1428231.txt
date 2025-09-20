@@ -1,0 +1,57 @@
+{
+  "acordao": "216/2018",
+  "processo": "1580/2014",
+  "data_sessao": "17 de Abril de 2018",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Rossieli Soares da Silva",
+    "Alcenir da Rocha Leite",
+    "Alcineia da Mota Nunes",
+    "Anderson Brito dos Santos",
+    "Caritas da Silva Baccin",
+    "Aliança Serviços de Edificações e Transporte Ltda.",
+    "Construcom Construções, Comércio e Representações Ltda.",
+    "Construtora Progresso Ltda.",
+    "Mariuá Construções Ltda.",
+    "RMS Construções e Comércio Ltda.",
+    "Isabel Cristina Duarte Silva",
+    "Ivete Coelho Dibo",
+    "Jerocilio Roberto Simões Alves da Silva",
+    "Liliany Viana de Oliveira",
+    "Moacir Ferreira Torres Junior",
+    "Orlando Freire Neto",
+    "Rafaela Almeida Guimarães",
+    "Raimundo Nonato Belo Soares",
+    "Roberto Palmeira Reis",
+    "Juarez Frazão Rodrigues Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "Embargos de Declaração",
+      "descricao": "Conhecer os  presentes  Embargos  de  Declaração  da  empresa Sociedade  Empresarial  Mariuá  Construções  Ltda .,  opostos  por seu advogado, Sr. Juarez Frazão Rodrigues Junior - OAB/AM 5851, nos moldes do artigo 149, da Resolução nº.04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Dar  Provimento aos  presentes  Embargos  de  Declaração,  para anular  o  Acórdão  nº  1042/2017  -  TCE  -  TRIBUNAL  PLENO,  em razão da ausência de publicação do nome  dos patronos e interessados na pauta das 33ª e 42ª Sessões Ordinárias do Tribunal Pleno de 2017",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SEPLENO que quando da nova inclusão do processo nº1580/2014 em pauta de julgamento do Tribunal Pleno, inclua todos os interessados e seus patronos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o  retorno  dos  autos  ao  Relator  do  presente  processo para que adote as providências que entender cabíveis.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar a  Embargante  para  que  tome  ciência  do  Decisório,  na figura de  seu  advogado,  com  cópia  do  Relatório/Voto  e  deste Acórdão.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "acordao": "644/2023",
+  "processo": "12474/2020",
+  "data_sessao": "10 de Abril de 2023",
+  "orgao": "Agência Amazonense de Desenvolvimento Econômico Social e Ambiental AADESAM",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Carlos  Eduardo  Araújo  de  Assis",
+    "Ezequiel Fernandes de Oliveira",
+    "Ezequias  Nascimento dos Santos",
+    "Braulio da Silva Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar À ORIGEM que, nos termos do §2º, do artigo 188, do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência da Relação de empenhos pagos no mês, especificando o número e a data da emissão, credor, programa de trabalho, valor empenhado, valor pago e saldo de empenho, conforme exigido pelo art. 1°, II da Resolução TCE n° 05/90",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência da Relação de empenhos pagos no mês, especificando o número e a data da emissão, credor, programa de trabalho, valor empenhado, valor pago e saldo de empenho, conforme exigido pelo art. 1°, II da Resolução TCE n° 05/90",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Identificado a Ausência da Relação de empenhos pagos no mês.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE n° 05/90",
+              "artigo": "1°, II",
+              "descricao": "Exigência da especificação do número e a data da emissão, credor, programa de trabalho, valor empenhado, valor pago e saldo de empenho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência das cópias das Declarações de Bens atualizadas dos servidores que exercem cargos comissionados e dos Diretores da Entidade (art. 13, da Lei n° 8.429/92, disposições legais da Lei n° 8.730/93 c/c art. 289, da Resolução n° 04/02 - TCE AM)",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência das cópias das Declarações de Bens atualizadas dos servidores que exercem cargos comissionados e dos Diretores da Entidade (art. 13, da Lei n° 8.429/92, disposições legais da Lei n° 8.730/93 c/c art. 289, da Resolução n° 04/02 - TCE AM)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A8B",
+          "tipologia_irregularidade": "Ausência de Declaração de bens",
+          "descricao": "Ausência de Declaração de bens",
+          "justificativa_tipologia": "Identificado a Ausência das cópias das Declarações de Bens atualizadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.429/92",
+              "artigo": "13",
+              "descricao": "Refere-se à obrigatoriedade da apresentação da declaração de bens"
+            },
+            {
+              "norma": "Lei n° 8.730/93",
+              "artigo": "null",
+              "descricao": "Refere-se à obrigatoriedade da apresentação da declaração de bens"
+            },
+            {
+              "norma": "Resolução n° 04/02 - TCE AM",
+              "artigo": "289",
+              "descricao": "Refere-se à obrigatoriedade da apresentação da declaração de bens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de informação se houve admissão de pessoal temporário no exercício de 2019; se houver, pede-se para que disponibilize a relação dos agentes públicos admitidos, bem como legislação  que  ampare  e  comprove  o  limite  de  quantitativo  e temporal dos contratos",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  informação  se  houve  admissão  de  pessoal temporário no exercício de 2019; se houver, pede-se para que disponibilize a relação dos agentes públicos admitidos, bem como legislação  que  ampare  e  comprove  o  limite  de  quantitativo  e temporal dos contratos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Não se configura como irregularidade, apenas a necessidade de comprovação das informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de informação se houve concessão de aposentadorias ou pensões no exercício de 2019, assim como encaminhar  cópia  de  ofício  de  encaminhamento  do  TCE/AM, conforme art. 264 e 267, da Resolução TCE AM n° 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de informação se houve concessão de aposentadorias ou pensões no exercício de 2019, assim como encaminhar  cópia  de  ofício  de  encaminhamento  do  TCE/AM, conforme art. 264 e 267, da Resolução TCE AM n° 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Não se configura como irregularidade, apenas a necessidade de comprovação das informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE AM n° 04/2002",
+              "artigo": "264",
+              "descricao": "Procedimentos para envio de informações ao TCE/AM."
+            },
+            {
+              "norma": "Resolução TCE AM n° 04/2002",
+              "artigo": "267",
+              "descricao": "Procedimentos para envio de informações ao TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de cópia do Quadro de Pessoal, Plano de Carreira, Cargos  e  Salário  e  cópia  do  documento  legal  de  criação  de cargos, conforme artigos 39, §§ 1º e 8º e 61, inciso II, alínea 'a' da Constituição Federal ou legislação específica",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de cópia do Quadro de Pessoal, Plano de Carreira, Cargos  e  Salário  e  cópia  do  documento  legal  de  criação  de cargos, conforme artigos 39, §§ 1º e 8º e 61, inciso II, alínea 'a' da Constituição Federal ou legislação específica",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Identificado a Ausência de cópia do Quadro de Pessoal, Plano de Carreira, Cargos e Salário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "39, §§ 1º e 8º",
+              "descricao": "Referência aos requisitos e estrutura da remuneração dos servidores."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "61, II, alínea 'a'",
+              "descricao": "Processo legislativo e iniciativa de leis sobre servidores públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de concurso público, principalmente, após a promulgação do art. 37, II, Constituição Federal/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de concurso público, principalmente, após a promulgação do art. 37, II, Constituição Federal/88",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "Identificado a Ausência de Concurso público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "37, II",
+              "descricao": "Norma que estabelece a obrigatoriedade de concurso público para investidura em cargo ou emprego público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de publicidade, informações de interesse público da AADES, tendo em vista que as informações disponibilizadas no sitio  do  órgão  encontram-se  de maneira  incompleta  e  precária, contrariando  o  que  diz  a  letra  do  art.  8,  §  1°  e  2°,  da  Lei  n° 12.527/11 (Lei de Acesso à Informação)",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de publicidade, informações de interesse público da AADES, tendo em vista que as informações disponibilizadas no sitio  do  órgão  encontram-se  de maneira  incompleta  e  precária, contrariando  o  que  diz  a  letra  do  art.  8,  §  1°  e  2°,  da  Lei  n° 12.527/11 (Lei de Acesso à Informação)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "Falta de informações de interesse público no site da AADES.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 12.527/11",
+              "artigo": "8, § 1° e 2°",
+              "descricao": "Regulamenta o direito constitucional de acesso dos cidadãos às informações públicas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Inexistência de registros de quaisquer repasses ou transferências de recursos financeiros, contrariando o art. 8º, 1º, II, da Lei nº 12.527/2011",
+      "trechos_identificados": [
+        {
+          "trecho": "Inexistência de registros de quaisquer repasses ou transferências de recursos financeiros, contrariando o art. 8º, 1º, II, da Lei nº 12.527/2011",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Não há registro de repasses e transferência de recurso financeiros.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "8º, 1º, II",
+              "descricao": "Estabelece a obrigatoriedade de divulgação de informações sobre repasses e transferências de recursos financeiros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de registros das despesas, contrariando o art. 8º, 1º, III, da Lei nº 12.527/2011",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de registros das despesas, contrariando o art. 8º, 1º, III, da Lei nº 12.527/2011",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Não há registro das despesas do orgão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "8º, 1º, III",
+              "descricao": "Estabelece a obrigatoriedade de divulgação de informações sobre despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Conforme  consulta  no  Sistema  de  Controle  de  Diárias  e Passagens  -  SCDP,  Portal  da  Transparência  e  Sistema  AFI, observamos que não existem solicitações de viagens e diárias do referido órgão. Pede-se ao jurisdicionado que relacione e encaminhe todas as passagens e diárias pagas pelo órgão no exercício  de  2019,  assim  como  que  encaminhe  documentação que comprove a realização das viagens realizadas por servidores lotados  na  AADES.  Caso  não  se  aplique,  que  comprove  de maneira documentada. Ressaltamos que o não cumprimento de todas as etapas previstas em lei da solicitação e prestação de contas de viagens e diárias aplica-se penalidade prevista no art. 12 do Decreto n° 26.337, de 12 de dezembro de 2006",
+      "trechos_identificados": [
+        {
+          "trecho": "Conforme  consulta  no  Sistema  de  Controle  de  Diárias  e Passagens  -  SCDP,  Portal  da  Transparência  e  Sistema  AFI, observamos que não existem solicitações de viagens e diárias do referido órgão. Pede-se ao jurisdicionado que relacione e encaminhe todas as passagens e diárias pagas pelo órgão no exercício  de  2019,  assim  como  que  encaminhe  documentação que comprove a realização das viagens realizadas por servidores lotados  na  AADES.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A5B",
+          "tipologia_irregularidade": "Ausência do Relatório de Prestação de Contas de diárias",
+          "descricao": "Ausência do Relatório de Prestação de Contas de diárias",
+          "justificativa_tipologia": "Ausência de registros de diárias e passagens.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ressaltamos que o não cumprimento de todas as etapas previstas em lei da solicitação e prestação de contas de viagens e diárias aplica-se penalidade prevista no art. 12 do Decreto n° 26.337, de 12 de dezembro de 2006",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A ausência de informações sobre diárias e passagens no sistema de controle e na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto n° 26.337",
+              "artigo": "12",
+              "descricao": "Aplica-se penalidade pelo não cumprimento de todas as etapas previstas em lei da solicitação e prestação de contas de viagens e diárias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de Termo  de  Referência  com  aprovação  de autoridade competente (art. 9, § 2°, Decreto Federal 5.450/2005)",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Termo  de  Referência  com  aprovação  de autoridade competente (art. 9, § 2°, Decreto Federal 5.450/2005)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Ausência de Termo  de  Referência  com  aprovação  de autoridade competente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Federal 5.450/2005",
+              "artigo": "9, § 2°",
+              "descricao": "Necessidade de aprovação do Termo de Referência por autoridade competente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de Nota de empenho do referido contrato, estas não se  encontram  cadastradas  no  sistema  E-CONTAS,  em  sua maioria (art. 60 da Lei nº. 4.320/64)",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Nota de empenho do referido contrato, estas não se  encontram  cadastradas  no  sistema  E-CONTAS,  em  sua maioria (art. 60 da Lei nº. 4.320/64)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A21A",
+          "tipologia_irregularidade": "Empenho sem dotação orçamentária",
+          "descricao": "Empenho sem dotação orçamentária",
+          "justificativa_tipologia": "A ausência de Nota de Empenho indica que a despesa não foi devidamente empenhada, o que é uma violação à execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 4.320/64",
+              "artigo": "60",
+              "descricao": "Exigência de empenho para despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de Ato designatório de representante de contrato que anotará em registro próprio todas as ocorrências relacionadas com a execução do contrato, determinando o que for necessário à regularização das faltas ou defeitos observados, bem  como,  as  decisões  e  providências  que  ultrapassarem  a competência  do  representante  deverão  ser  solicitadas  a  seus superiores em  tempo  hábil para a adoção das medidas convenientes como determina § 1º. e § 2º. do art. 67 da Lei nº. 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Ato designatório de representante de contrato que anotará em registro próprio todas as ocorrências relacionadas com a execução do contrato, determinando o que for necessário à regularização das faltas ou defeitos observados, bem  como,  as  decisões  e  providências  que  ultrapassarem  a competência  do  representante  deverão  ser  solicitadas  a  seus superiores em  tempo  hábil para a adoção das medidas convenientes como determina § 1º. e § 2º. do art. 67 da Lei nº. 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "A ausência de Ato designatório dificulta acompanhamento e a regularização de contrato.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/93",
+              "artigo": "67",
+              "descricao": "Acompanhamento e fiscalização da execução contratual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de Parecer Jurídico aprovando  a  minuta do contrato, como prevê art. 30, IX, do Decreto nº 5.450/2005 e do o art. 38, parágrafo único, da Lei Federal de Licitação n° 8.666/93 e suas alterações",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Parecer Jurídico aprovando  a  minuta do contrato, como prevê art. 30, IX, do Decreto nº 5.450/2005 e do o art. 38, parágrafo único, da Lei Federal de Licitação n° 8.666/93 e suas alterações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A ausência de Parecer Jurídico aprovando  a  minuta do contrato.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto nº 5.450/2005",
+              "artigo": "30, IX",
+              "descricao": "Aprovação da minuta do contrato por parecer jurídico."
+            },
+            {
+              "norma": "Lei Federal de Licitação n° 8.666/93",
+              "artigo": "38",
+              "descricao": "Exigência de parecer jurídico para aprovação de minuta de contrato."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de Indicação do recurso para despesa e comprovação da existência de previsão de recursos orçamentários  (com  a  indicação  das  respectivas  rubricas)  que assegurem o pagamento das obrigações a serem assumidas no exercício financeiro, conforme estabelece, inciso IV do art. 30 do Decreto nº. 5450/2005, § 2º, inciso III do artigo 7º, c/c o art. 14 da Lei nº. 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Indicação do recurso para despesa e comprovação da existência de previsão de recursos orçamentários  (com  a  indicação  das  respectivas  rubricas)  que assegurem o pagamento das obrigações a serem assumidas no exercício financeiro, conforme estabelece, inciso IV do art. 30 do Decreto nº. 5450/2005, § 2º, inciso III do artigo 7º, c/c o art. 14 da Lei nº. 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A21A",
+          "tipologia_irregularidade": "Empenho sem dotação orçamentária",
+          "descricao": "Empenho sem dotação orçamentária",
+          "justificativa_tipologia": "Não comprovação da existência de previsão de recursos orçamentários que assegurem o pagamento das obrigações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto nº. 5450/2005",
+              "artigo": "30, inciso IV",
+              "descricao": "Indicação do recurso para despesa e comprovação da existência de previsão de recursos orçamentários"
+            },
+            {
+              "norma": "Lei nº. 8.666/93",
+              "artigo": "7",
+              "descricao": "Formalização do contrato"
+            },
+            {
+              "norma": "Lei nº. 8.666/93",
+              "artigo": "14",
+              "descricao": "Previsão de recursos orçamentários"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de documentação relativa à qualificação econômico-financeira,  a  fim  de  comprovar  a  capacidade  da contratada  à  prestação  dos  serviços  solicitados,  conforme  art. 31, I, II, III da Lei nº. 8.666/93 c/c §§2º, 3º, 4º e 5º, deste mesmo Artigo",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentação relativa à qualificação econômico-financeira,  a  fim  de  comprovar  a  capacidade  da contratada  à  prestação  dos  serviços  solicitados,  conforme  art. 31, I, II, III da Lei nº. 8.666/93 c/c §§2º, 3º, 4º e 5º, deste mesmo Artigo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "justificativa_tipologia": "Não foi apresentada documentação para comprovar a capacidade econômico-financeira da empresa contratada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/93",
+              "artigo": "31, I, II, III",
+              "descricao": "Qualificação econômico-financeira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência  de  comprovação  de  recolhimento  por  parte  da contratada, das obrigações trabalhistas e previdenciárias, conforme art. 71, da Lei 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  comprovação  de  recolhimento  por  parte  da contratada, das obrigações trabalhistas e previdenciárias, conforme art. 71, da Lei 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "Ausência da documentação comprobatória das obrigações trabalhistas e previdenciárias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "71",
+              "descricao": "Responsabilidades do contratado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de Manifestação do Controle Interno, dentre outas exigências legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Manifestação do Controle Interno, dentre outas exigências legais",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "Omissão do parecer do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Mediante consulta no sistema E-Contas, constamos que não houve registros de contratos assinados pela AADES no exercício de 2019. No entanto, conforme análise do Balanço Financeiro e Notas Explicativas, o referido órgão justificou que o saldo da conta 'Obrigações a Pagar', presente no referido balanço, refere-se a débitos financeiros com fornecedores. Pede-se ao jurisdicionado que relacione e encaminhe, por meios digitais, todos os contratos celebrados pela AADES. Caso não se aplique, pede-se comprovação por escrito",
+      "trechos_identificados": [
+        {
+          "trecho": "Mediante consulta no sistema E-Contas, constamos que não houve registros de contratos assinados pela AADES no exercício de 2019. No entanto, conforme análise do Balanço Financeiro e Notas Explicativas, o referido órgão justificou que o saldo da conta 'Obrigações a Pagar', presente no referido balanço, refere-se a débitos financeiros com fornecedores. Pede-se ao jurisdicionado que relacione e encaminhe, por meios digitais, todos os contratos celebrados pela AADES. Caso não se aplique, pede-se comprovação por escrito",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "Não se configura como irregularidade, apenas a necessidade de comprovação das informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência da publicidade, mensalmente, em órgão de divulgação  oficial  ou  em  quadro de avisos de amplo acesso público, referente à relação de todas as compras realizadas pela administração,  tornando  transparente

@@ -1,0 +1,107 @@
+{
+  "acordao": "423/2014",
+  "processo": "1458/2010",
+  "data_sessao": "30 de julho de 2014",
+  "orgao": "Fundo Municipal de Saúde",
+  "municipio": "Tabatinga",
+  "exercicio": "2009",
+  "responsavel": [
+    "Francisco Deodato Guimarães"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  Regular,  com  Ressalvas, a  Prestação  de  Contas  do  Fundo Municipal de Saúde, exercício 2009 de responsabilidade do Sr. Francisco Deodato Guimarães Secretário de Saúde do Município e Ordenador de Despesa, nos termos dos arts. 22, II, e 24, da Lei n° 2.423/96, c/c o art. 188, II e § 1º, II, da Resolução 04/02-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular,  com  Ressalvas, a  Prestação  de  Contas  do  Fundo Municipal de Saúde, exercício 2009 de responsabilidade do Sr. Francisco Deodato Guimarães Secretário de Saúde do Município e Ordenador de Despesa, nos termos dos arts. 22, II, e 24, da Lei n° 2.423/96, c/c o art. 188, II e § 1º, II, da Resolução 04/02-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento formal da prestação de contas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, sua Lei Orgânica e o Regimento Interno."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, sua Lei Orgânica e o Regimento Interno."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, § 1º, II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Dar  quitação ao  Sr.  Francisco  Deodato  Guimarães  -  Secretário  de Saúde do Município e Ordenador de Despesa, nos termos dos arts. 24, da Lei n° 2.423/96, c/c o art. 189, II, da Resolução 04/02-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao  Sr.  Francisco  Deodato  Guimarães  -  Secretário  de Saúde do Município e Ordenador de Despesa, nos termos dos arts. 24, da Lei n° 2.423/96, c/c o art. 189, II, da Resolução 04/02-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Quitação formal ao responsável",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, sua Lei Orgânica e o Regimento Interno."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a  origem que observe com maior rigor os termos das Leis 4.320/64 e 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a  origem que observe com maior rigor os termos das Leis 4.320/64 e 8.666/93.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "Apesar de ser uma determinação, não descreve uma falha concreta, mas sim uma orientação genérica",
+          "fundamentacao_legal": [
+            {
+              "norma": "Leis 4.320/64",
+              "artigo": "Não especificado",
+              "descricao": "Lei do Orçamento Público"
+            },
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Licitações e Contratos"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

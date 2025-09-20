@@ -1,0 +1,106 @@
+{
+  "acordao": "441/2016",
+  "processo": "1501/2015",
+  "data_sessao": "11 de Maio de 2016",
+  "orgao": "Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios Brasileiros - PNAFM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Ulisses Tapajós Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Arquivar a Prestação de Contas do Sr. Ulisses Tapajós Neto, responsável pelo Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios durante o exercício de 2014",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar a Prestação  de  Contas  do  Sr. Ulisses  Tapajós  Neto , responsável  pelo  Programa  Nacional  de  Apoio  à  Gestão  Administrativa  e  Fiscal  dos Municípios durante o exercício de 2014",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho é apenas um arquivamento, não indicando problemas de gestão que possam persistir.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Competência em relação ao processo."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Disposições sobre o processo."
+            },
+             {
+              "norma": "Lei nº 2423/96",
+              "artigo": "2º",
+              "descricao": "Disposições sobre o processo."
+            },
+             {
+              "norma": "Lei nº 2423/96",
+              "artigo": "4º",
+              "descricao": "Disposições sobre o processo."
+            },
+              {
+              "norma": "Lei nº 2423/96",
+              "artigo": "5º, I",
+              "descricao": "Disposições sobre o processo."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Disposições sobre o processo."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11, inciso III, alínea 'a', item 3",
+              "descricao": "Disposições sobre o processo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Notificar a parte interessada acerca do desfecho concedido a estes autos",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar  a  parte  interessada acerca  do  desfecho  concedido  a  estes autos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho é apenas uma notificação, não indicando problemas de gestão que possam persistir.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar, com fulcro no art. 162, caput, do RI - TCE/AM, que, após o trânsito em julgado, o presente feito seja encaminhado à DICREX para registro e posterior arquivamento no setor competente",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar , com fulcro no art. 162, caput, do RI - TCE/AM, que, após o trânsito em julgado, o presente feito seja encaminhado à DICREX para registro e posterior arquivamento no setor competente",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho é apenas um encaminhamento para registro, não indicando problemas de gestão que possam persistir.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI - TCE/AM",
+              "artigo": "162, caput",
+              "descricao": "Fundamentação para o encaminhamento à DICREX."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

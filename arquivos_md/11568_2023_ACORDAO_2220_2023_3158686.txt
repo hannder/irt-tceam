@@ -1,0 +1,112 @@
+{
+  "acordao": "2220/2023",
+  "processo": "11568/2023",
+  "data_sessao": "26 de Outubro de 2023",
+  "orgao": "Fundo Municipal de Direitos do Idoso - FMDI",
+  "municipio": "Manaus",
+  "exercicio": "2022",
+  "responsavel": [
+    "Martha Moutinho da Costa Cruz"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  do  Fundo  Municipal  de Direitos do Idoso -FMDI, referente ao exercício de 2022, de responsabilidade da Senhora Martha Moutinho da Costa Cruz, Diretora  Presidente  da  Fundação  de  Apoio  ao  Idoso  'Dr.  Thomas'  FMDI e Ordenadora de Despesas, à época, nos termos do artigo 1º, II, e art. 22, I, da Lei nº. 2423/1996; c/c o art. 188, §1º, I, da Resolução nº. 04/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  do  Fundo  Municipal  de Direitos do Idoso -FMDI, referente ao exercício de 2022, de responsabilidade da Senhora Martha Moutinho da Costa Cruz, Diretora  Presidente  da  Fundação  de  Apoio  ao  Idoso  'Dr.  Thomas'  FMDI e Ordenadora de Despesas, à época, nos termos do artigo 1º, II, e art. 22, I, da Lei nº. 2423/1996; c/c o art. 188, §1º, I, da Resolução nº. 04/2002.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O trecho indica apenas o julgamento formal da prestação de contas, sem apontar irregularidades ou problemas concretos na gestão financeira ou contábil que possam persistir ao longo do tempo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "22, I",
+              "descricao": "Julgamento das contas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, I",
+              "descricao": "Julgamento das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar  quitação à  Senhora Martha  Moutinho  da  Costa  Cruz, Diretora Presidente  da  Fundação  de  Apoio  ao  Idoso  'Dr.  Thomas'  -  FMDI  e Ordenadora de Despesas, à época, nos termos dos artigos 23 e 72, I, da Lei nº.  2423/1996, c/c o artigo 189, I,  da  Resolução nº.  04/2002  RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação à  Senhora Martha  Moutinho  da  Costa  Cruz, Diretora Presidente  da  Fundação  de  Apoio  ao  Idoso  'Dr.  Thomas'  -  FMDI  e Ordenadora de Despesas, à época, nos termos dos artigos 23 e 72, I, da Lei nº.  2423/1996, c/c o artigo 189, I,  da  Resolução nº.  04/2002  RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "descricao": "Balanço Financeiro - Ausência de Regularização do valor registrado na conta Caixa e Equivalente de Caixa do Balanço Financeiro",
+          "justificativa_tipologia": "O trecho indica apenas a quitação formal, não refletindo problemas concretos na gestão contábil que justifiquem a reincidência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº.  2423/1996",
+              "artigo": "23",
+              "descricao": "Quitação"
+            },
+            {
+              "norma": "Lei nº.  2423/1996",
+              "artigo": "72, I",
+              "descricao": "Quitação"
+            },
+            {
+              "norma": "Resolução nº.  04/2002",
+              "artigo": "189, I",
+              "descricao": "Quitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Secretaria do Tribunal Pleno que, após a ocorrência da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria do Tribunal Pleno que, após a ocorrência da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002, adote as providências do artigo 162, §1º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve uma ação interna do Tribunal de Contas, sem relação direta com irregularidades na gestão da entidade fiscalizada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  nº. 04/2002",
+              "artigo": "159",
+              "descricao": "Coisa julgada"
+            },
+            {
+              "norma": "Resolução  nº. 04/2002",
+              "artigo": "160",
+              "descricao": "Coisa julgada"
+            },
+            {
+              "norma": "Resolução  nº. 04/2002",
+              "artigo": "162, §1º",
+              "descricao": "providências do artigo 162, §1º, do RITCE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

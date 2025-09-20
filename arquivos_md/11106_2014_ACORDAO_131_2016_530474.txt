@@ -1,0 +1,98 @@
+{
+  "acordao": "131/2016",
+  "processo": "11106/2014",
+  "data_sessao": "17 de Fevereiro de 2016",
+  "orgao": "Câmara Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2013",
+  "responsavel": [
+    "Francisco Elaime  Monteiro da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Iranduba,  exercício  de  2013,  sob  a  responsabilidade  do  Senhor Francisco  Elaime Monteiro da Silva , nos termos dos arts. 22, III, 'b' e 25, da Lei n. 2.423/96, c/c o art. 188, II e § 1º, III, 'b', da Resolução 04/02-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Senhor Francisco Elaime Monteiro da Silva, responsável  pela  Câmara  Municipal  de  Iranduba,  exercício  de 2013, valor  de  R$ 10.000,00 (dez mil reais), com fulcro no artigo 308, inciso V, da Resolução nº 04/2002,TRIBUNAL DE CONTAS DIV. DE ACÓRDÃOS## Estado do Amazonas TRIBUNAL DE CONTAS\nalterada pela Resolução n°. 25, de 30 de agosto de 2012, pela prática de ato de gestão ilegítimo ou antieconômico apontados no bojo da presente Proposta de Voto, quais sejam:\na) Ausência de explicação quanto à origem dos créditos apontados em  nome  de  Ednor  Pacheco  e  David  Queiroz,  no  montante  de  R$ 139.337,16 e  R$ 2.249,42 ,  respectivamente,  bem  como,  diante  da  incerteza  quanto  à  movimentação  do Gestor no sentido de cobrar os mesmos;\nb) Ausência de justificativas quanto a permanência de saldos que se arrastam desde 2012 e que possuem contas de natureza transitória e extra-orçamentária, permanecendo  sem  explicação  as  consignações  referente  ao  ISS,  ao  RPPS  dos Servidores e os Restos a Pagar;\nc) Ausência de controle eficaz no registro de pontos dos servidores temporários e comissionados da Casa, uma vez que o registro é realizado por meio de livro  ponto,  em  que  se  consta  somente  a  assinatura  (rubrica)  dos  servidores,  sem anotação de horário de entrada e saída;\nd) Ausência de controle efetivo dos veículos abastecidos, do quantitativo  de  combustível  neles  utilizados  e  sem  a  identificação  da  data  em  que  foi realizada o abastecimento",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Senhor Francisco Elaime Monteiro da Silva, responsável  pela  Câmara  Municipal  de  Iranduba,  exercício  de  2013,  no  valor  de  R$ 20.000,00 (vinte mil reais), com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, alterada pela Resolução n°. 25, de 30 de agosto de 2012, por todas as infrações às normas legais e/ ou regulamentares apontadas no bojo da  Proposta de Voto, quais sejam:\na) Violação  ao  artigo  70,  da  Constituição  Federal/88,  uma  vez  que não observou a adoção das condutas necessárias para a implantação de um Sistema de Controle, tal como delineado nos arts. 31 e 74 da Constituição Federal;\nb) Violação ao artigo 63, §1º, da Lei n. 101/2000, uma vez que não observou o prazo para publicação do Relatório de Gestão Fiscal;\nc) Divergência entre os valores existentes na Prestação de Contas e os lançados no Sistema GEFIS, infringindo a norma regulamentar disposta na Resolução n. 15/2013 desta Corte de Contas;\nd) Violação ao disposto no artigo 37, incisos I e V da CF/88, uma vez que o quadro de pessoal da Câmara Municipal de Iranduba foi estabelecido por Decreto (Decreto Legislativo N. 06/11-GP/CMI de 23/11/2011) e não por meio de Lei;\ne) Violação ao disposto no artigo 37, inciso XVI, alíneas a, b e c da CF/88,  em  razão  do  acúmulo  tríplice  de  cargo  por  parte  do  vereador  Paulo  Roberto Bandeira, que ocupava dois cargos de professor na SEDUC e trabalhava  efetivamente nesses seus dois vínculos concomitantemente com o exercício da vereança;\nf) Inobservância  dos  dispositivos  da  Lei  de  Licitação  e  Contratos Administrativos - Lei n. 8.666/93 e da Lei Federal n. 6.496/1977;\ng) Inobservância dos dispositivos constantes nos art. 48 e o art. 48-A, da Lei de Responsabilidade Fiscal c/c o artigo 8º, da Lei n. 12.527/2011",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Julgar em alcance",
+      "descricao": "Determinar o  julgamento  em  alcance  do  Senhor  Francisco  Elaime Monteiro da Silva no montante de R$ 1.231,52 (um mil, duzentos e trinta e um reais e cinquenta e dois centavos), nos termos do art. 304 c/c art. 305 da Resolução 4/2002  TCE/AM, em vista da divergência detectada nas guias de recolhimentos pagas em 2013, que demonstram  um  valor a menor do que os declarados nas  OBRIGAÇÕES PATRONAIS  -  RECURSOS  PROPRIOS  descritas  no  anexo  11  (Balanço  2013 -Comparativo da despesa autorizada com a realizada, fls. 18)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "JULGAR  PROCEDENTE a  Representação  formulada  por  meio  do Processo  nº  11.274/2014 ,  nos  termos  do  art.  288,  da  Resolução  n.  04/2002,  com  a consequente aplicação de multa ao Senhor Francisco Elaime Monteiro da Silva, no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, pela violação às disposições constantes nos art. 48 e o art. 48-A, da Lei de Responsabilidade Fiscal c/c o artigo 8º, da Lei n. 12.527/2011, uma vez que o Portal da Transparência da Câmara Municipal de Iranduba foi alimentado de forma intempestiva e que o mesmo não atende  integralmente o  que preceitua o artigo 8º, da Lei n.  12.527/2011, uma vez que faltam informações essenciais naquele site",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Fixar Prazo",
+      "descricao": "Fixar  o  Prazo de  30  (Trinta)  Dias  para  o  recolhimento  aos  cofres estaduais referente às multas dos Itens II, III e IV da conclusão desta Proposta de Voto e Municipais (referente ao julgamento em alcance), dos valores das penalidades impostas, com comprovação perante este Tribunal, nos termos do art. 174, § 4º, da Resolução n. 04/2002.  Observe-se  que  caso  o  prazo  estabelecido  expire,  os  valores  das  multas  e julgamento  em  alcance  deverão  ser  atualizados  monetariamente  (art.  55,  da  Lei  n. 2.423/96 c/c o art. 308, § 3º, da Resolução 04/02)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Autorizar desde  já  a  instauração  da Cobrança  Executiva no  caso  de não recolhimento dos valores das condenações, conforme preceituado pelo art. 73, da Lei n. 2.423/96 e arts. 169, II, 173 e 308, § 6º, todos da Resolução 04/02",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar ao  atual  Presidente  da  Câmara  Municipal  de  Iranduba  a adoção das seguintes medidas:\na) Observância das disposições contidas no artigo 70, da Constituição  Federal/88,  adotando  ações que objetivem  a  implantação  do  Sistema  de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar ao  atual  Presidente  da  Câmara  Municipal  de  Iranduba  a adoção das seguintes medidas:\nb) Adote providências que visem a regularização dos saldos que se arrastam desde 2012, registrados em consignações, visto que tais contas são de natureza transitória e extra-orçamentária e que permanecem  sem justificativas quanto à regularização das consignações referente ao ISS, ao RPPS  dos Servidores e os Restos a Pagar (Item V da presente Proposta de Voto)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar ao  atual  Presidente  da  Câmara  Municipal  de  Iranduba  a adoção das seguintes medidas:\nc) Estabeleça normas e procedimentos com vista a realizar o controle dos gastos com combustível, determinando a quantidade requisitada do combustível para abater do valor contratado, a identificação do carro abastecido para aferir correspondência com atividades ligadas ao órgão legislativo e os dias dessas transações para subsidiar o planejamento com esse tipo de gasto (Item XI da presente Proposta de Voto)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar ao  atual  Presidente  da  Câmara  Municipal  de  Iranduba  a adoção das seguintes medidas:\nd) Atualize  de  forma  tempestiva  o  Portal  da  Transparência  com  a inserção de todos os dados exigidos por meio da Lei n. 12.527/2011 - Lei de Acesso à Informação",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  próxima Comissão de Inspeção do Município de  Iranduba que  verifique  se  o  futuro  gestor  observou  de  forma  adequada  a  adoção  das seguintes medidas:\na) Observância das disposições contidas no artigo 70, da Constituição  Federal/88,  adotando  ações  que  objetivem  a  implantação  do  Sistema  de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  próxima Comissão de Inspeção do Município de  Iranduba que  verifique  se  o  futuro  gestor  observou  de  forma  adequada  a  adoção  das seguintes medidas:\nb) Observe  se  foram  adotadas  medidas  pelo  executivo  quanto  à inscrição na dívida ativa dos  valores correspondentes  a  conta  Responsabilidades Financeiras  em  nome  de  Ednor  Pacheco  e  David  Queiroz,  nos  montantes  de  R$ 139.000,00 e R$ 2.249,00, respectivamente",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  próxima Comissão de Inspeção do Município de  Iranduba que  verifique  se  o  futuro  gestor  observou  de  forma  adequada  a  adoção  das seguintes medidas:\nc) Verifique  se  a  Lei  que  trata  do  quadro  de  pessoal  da  Câmara Municipal de Iranduba foi efetivamente editada e implementada no âmbito daquele Poder, observando os preceitos do artigo 37, incisos I e V da CF/88",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  próxima Comissão de Inspeção do Município de  Iranduba que  verifique  se  o  futuro  gestor  observou  de  forma  adequada  a  adoção  das seguintes medidas:\nd) Verifique se acumulação indevida de cargos por parte do vereador Paulo Roberto Bandeira (dois cargos de professor na SEDUC e trabalhava efetivamente nesses  seus  dois  vínculos concomitantemente  com  o  exercício  da  vereança)  foi efetivamente cessada",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  próxima Comissão de Inspeção do Município de  Iranduba que  verifique  se  o  futuro  gestor  observou  de  forma  adequada  a  adoção  das seguintes medidas:\ne) Observe  se  foram  adotadas  medidas  saneadoras  quanto  à elaboração de normas e procedimentos com vista a realizar o controle dos gastos com combustível",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  próxima Comissão de Inspeção do Município de  Iranduba que  verifique  se  o  futuro  gestor  observou  de  forma  adequada  a  adoção  das seguintes medidas:\nf) Verifique  in  loco  se  as  cessões  dos servidores  da  Prefeitura  de Iranduba à Câmara Municipal estão de acordo com a Lei Municipal nº 105 de 11/03/2005, uma  vez  que  o  artigo  128  da  sobredita  lei  apenas  permite  a  cessão  de  servidores estáveis.",
+      "trechos_identificados": []
+    }
+  ]
+}

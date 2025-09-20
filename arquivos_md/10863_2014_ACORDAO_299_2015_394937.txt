@@ -1,0 +1,132 @@
+{
+  "acordao": "299/2015",
+  "processo": "10863/2014",
+  "data_sessao": "20 de maio de 2015",
+  "orgao": "Câmara Municipal de Santo Antônio do Içá",
+  "municipio": "Santo Antônio do Içá",
+  "exercicio": "2013",
+  "responsavel": [
+    "José Gouvêa"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar REGULAR COM RESSALVAS a Prestação de Contas da Câmara do Município de Santo Antônio de Içá, de responsabilidade de José Gouvêa na condição de Vereador-Presidente e ordenador da despesa, referente ao exercício de 2013, conforme prevê os artigos 22, II c/c artigo 24, ambos, da Lei Estadual nº 2423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR COM RESSALVAS a Prestação de Contas da Câmara do Município de Santo Antônio de Içá, de responsabilidade de José Gouvêa na condição de Vereador-Presidente e ordenador da despesa, referente ao exercício de 2013, conforme prevê os artigos 22, II c/c artigo 24, ambos, da Lei Estadual nº 2423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O texto indica um julgamento das contas como regulares com ressalvas, o que sugere que, apesar de aprovadas, foram identificadas não conformidades nas demonstrações contábeis, como a ausência de notas explicativas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/1996",
+              "artigo": "22, II",
+              "descricao": "Define os critérios para julgamento das contas, permitindo ressalvas."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/1996",
+              "artigo": "24",
+              "descricao": "Complementa os critérios para julgamento, especificando as condições para regularidade com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Origem que providencie a criação de sistema de controle do patrimônio e do almoxarifado da Câmara Municipal.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Origem que providencie a criação de sistema de controle do patrimônio e do almoxarifado da Câmara Municipal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de melhorar os sistemas de controle patrimonial e de almoxarifado, o que indica uma deficiência existente nesses controles, impactando a gestão patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar multa no valor total de R$ 4.384,12 (Quatro mil, trezentos e oitenta e quatro reais e doze centavos) ao responsável, Sr. José Gouvêa, na condição de Vereador-Presidente e ordenador da despesa da Câmara Municipal do de São Paulo de Olivença com fulcro no art. 308, II da Resolução 04/2002- TCE por atraso na remessa das informações através do sistema ACP dos meses de janeiro a abril de 2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa no valor total de R$ 4.384,12 (Quatro mil, trezentos e oitenta e quatro reais e doze centavos) ao responsável, Sr. José Gouvêa, na condição de Vereador-Presidente e ordenador da despesa da Câmara Municipal do de São Paulo de Olivença com fulcro no art. 308, II da Resolução 04/2002- TCE por atraso na remessa das informações através do sistema ACP dos meses de janeiro a abril de 2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na remessa de informações, o que caracteriza uma falha no cumprimento dos prazos para envio de documentos e informações exigidas pelos órgãos de controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002- TCE",
+              "artigo": "308, II",
+              "descricao": "Fundamenta a aplicação da multa devido ao atraso na remessa de informações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres do Estado do valor da penalidade imposta, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art. 72, II, da Lei Estadual n. 2.423/96 e art. 169, I, da Resolução n. 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres do Estado do valor da penalidade imposta, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art. 72, II, da Lei Estadual n. 2.423/96 e art. 169, I, da Resolução n. 04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A determinação de recolhimento ao cofre do Estado em um prazo determinado refere-se à execução orçamentária e financeira, garantindo o retorno dos recursos aos cofres públicos conforme o princípio da unidade de tesouraria.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "72, II",
+              "descricao": "Estabelece as diretrizes para a aplicação de penalidades financeiras e sua execução."
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE/AM",
+              "artigo": "169, I",
+              "descricao": "Detalha os procedimentos para a cobrança de débitos, incluindo atualização monetária e juros de mora."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação para inscrição em dívida ativa e cobrança executiva, caso o débito não seja pago, enquadra-se na categoria de gestão fiscal, pois trata da recuperação de ativos e do cumprimento das obrigações financeiras com o Estado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Autoriza a inscrição em dívida ativa e a cobrança executiva em caso de não recolhimento dos valores devidos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

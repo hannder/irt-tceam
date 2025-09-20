@@ -1,0 +1,74 @@
+{
+  "acordao": "421/2025",
+  "processo": "11734/2023",
+  "data_sessao": "19 de Março de 2025",
+  "orgao": "Fundo Municipal de Habitação - FMH",
+  "municipio": "Não Identificado",
+  "exercicio": "2022",
+  "responsavel": [
+    "Carlos Alberto Valente Araujo"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas  do Fundo  Municipal de Habitação  -  FMH,  exercício  de  2022,  de  responsabilidade  do Sr. Carlos  Alberto  Valente  Araujo ,  Diretor-Presidente  do  FMH  à  época da Prestação, nos termos dos arts. 22, I e 23, da Lei n.º 2.423/96 e art. 188, § 1º, I, da Resolução n.º 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas  do Fundo  Municipal de Habitação  -  FMH,  exercício  de  2022,  de  responsabilidade  do Sr. Carlos  Alberto  Valente  Araujo ,  Diretor-Presidente  do  FMH  à  época da Prestação, nos termos dos arts. 22, I e 23, da Lei n.º 2.423/96 e art. 188, § 1º, I, da Resolução n.º 04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho relata o julgamento regular das contas, sem apontar irregularidades contábeis, mas é importante manter a dimensão de Contabilidade relacionada a PCA",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre o julgamento da regularidade das contas."
+            },
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre as consequências do julgamento das contas."
+            },
+            {
+              "norma": "Resolução n.º 04/02-TCE/AM",
+              "artigo": "188, § 1º, I",
+              "descricao": "Estabelece os termos para o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação plena e irrestrita ao Sr. Carlos Alberto Valente Araujo , Diretor-Presidente do FMH à época da Prestação, conforme preceitua o  art.  23,  da  Lei  n.º  2.423/1996  c/c  o  art.  189,  I,  da  Resolução  n.º 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação plena e irrestrita ao Sr. Carlos Alberto Valente Araujo , Diretor-Presidente do FMH à época da Prestação, conforme preceitua o  art.  23,  da  Lei  n.º  2.423/1996  c/c  o  art.  189,  I,  da  Resolução  n.º 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho relata a quitação das contas, sem apontar falhas ou ausência de normatização das rotinas internas mas e importante manter a dimensao para verificar a integridade dos dados em PCA",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "23",
+              "descricao": "Estabelece a quitação plena e irrestrita ao responsável."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Define os procedimentos para a concessão de quitação."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

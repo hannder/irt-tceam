@@ -1,0 +1,86 @@
+{
+  "acordao": "380/2019",
+  "processo": "11156/2017",
+  "data_sessao": "14 de Maio de 2019",
+  "orgao": "Hospital de Isolamento Chapôt Prevost",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Sandra Lúcia Loureiro de Queiroz Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas, exercício de 2016, do Hospital de Isolamento Chapôt Prevost, sob a responsabilidade  da Sra.  Sandra  Lúcia  Loureiro  de  Queiroz  Lima , Diretora-Geral do Hospital à época desta Prestação de Contas s, nos termos dos arts. 22, II e 24, da Lei nº 2.423/96 e art. 188, § 1º, II, da Resolução nº 04/02-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à responsável à época e à atual administração do Hospital de Isolamento Chapôt Prevost que observe com rigor as disposições constantes nos artigos 2º,  24,  25  e  26,  todos  das  da  Lei  nº  8.666/93  -  Lei  de Licitações e Contratos Administrativos, a fim de  evitar contratações  e  compras  diretas,  sem  a  apresentação  de todas as documentações necessárias",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com rigor as disposições constantes nos artigos 2º,  24,  25  e  26,  todos  das  da  Lei  nº  8.666/93  -  Lei  de Licitações e Contratos Administrativos, a fim de  evitar contratações  e  compras  diretas,  sem  a  apresentação  de todas as documentações necessárias",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "O trecho determina a observância da lei de licitações para evitar contratações diretas sem a documentação necessária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "2º, 24, 25 e 26",
+              "descricao": "Disposições sobre licitações e contratos administrativos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à responsável à época e à atual administração do Hospital de Isolamento Chapôt Prevost que Atualize constantemente o Inventário de Bens Patrimoniais  e  de  Estoque,  juntamente  com  o  Balanço Patrimonial  da  Unidade  Hospitalar,  de  forma  a  deixar  o Sistema AFI e o Sistema AJURI sempre atualizados.",
+      "trechos_identificados": [
+        {
+          "trecho": "Atualize constantemente o Inventário de Bens Patrimoniais  e  de  Estoque,  juntamente  com  o  Balanço Patrimonial  da  Unidade  Hospitalar,  de  forma  a  deixar  o Sistema AFI e o Sistema AJURI sempre atualizados.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A deliberação exige a atualização constante do inventário de bens patrimoniais e de estoque, buscando a melhoria do controle patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação plena  e  irrestrita à  responsável, Sra.  Sandra  Lúcia Loureiro  de  Queiroz  Lima ,  conforme  preceitua  o  art.  23,  da  Lei  n.º 2.423/1996 c/c o art. 189, I, da Resolução 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação plena  e  irrestrita à  responsável, Sra.  Sandra  Lúcia Loureiro  de  Queiroz  Lima ,  conforme  preceitua  o  art.  23,  da  Lei  n.º 2.423/1996 c/c o art. 189, I, da Resolução 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho do documento relata sobre o saldo da quitação plena e irrestrita à responsável, senhora Sandra Lúcia Loureiro de Queiroz Lima.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "23",
+              "descricao": "Preceitua sobre a quitação plena e irrestrita à responsável."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Dispõe sobre a quitação plena e irrestrita à responsável."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

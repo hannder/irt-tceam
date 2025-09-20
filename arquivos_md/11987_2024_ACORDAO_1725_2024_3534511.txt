@@ -1,0 +1,76 @@
+{
+  "acordao": "1725/2024",
+  "processo": "11987/2024",
+  "data_sessao": "16 de Outubro de 2024",
+  "orgao": "Secretaria de Estado de Desenvolvimento Urbano e Metropolitano  - SEDURB",
+  "municipio": "Manaus",
+  "exercicio": "2023",
+  "responsavel": [
+    "Marcellus José Barroso Campêlo"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  do Sr.  Marcellus  José Barroso Campêlo , responsável pela Secretaria de Estado de Desenvolvimento Urbano e Metropolitano -SEDURB, exercício financeiro de 2023, nos termos do art. 22, inciso I, da Lei n.º 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  do Sr.  Marcellus  José Barroso Campêlo , responsável pela Secretaria de Estado de Desenvolvimento Urbano e Metropolitano -SEDURB, exercício financeiro de 2023, nos termos do art. 22, inciso I, da Lei n.º 2.423/96;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho é apenas o julgamento formal da prestação de contas, sem indicar problemas concretos na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, inciso I",
+              "descricao": "Dispõe sobre o julgamento das contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Secretaria  de  Estado  de  Desenvolvimento  Urbano  e Metropolitano - Sedurb, sob a responsabilidade do Sr. Marcellus José Barroso  Campêlo, que  adote  as  providências  necessárias  para  o impulsionamento das atividades da Secretaria, a fim de que esta possa cumprir  a  finalidade  para  a  qual  foi  instituída,  nos  termos  da  Lei  nº 6.225/2023;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  Secretaria  de  Estado  de  Desenvolvimento  Urbano  e Metropolitano - Sedurb, sob a responsabilidade do Sr. Marcellus José Barroso  Campêlo, que  adote  as  providências  necessárias  para  o impulsionamento das atividades da Secretaria, a fim de que esta possa cumprir  a  finalidade  para  a  qual  foi  instituída,  nos  termos  da  Lei  nº 6.225/2023;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação sugere que a secretaria não está cumprindo sua finalidade, indicando deficiências estruturais na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº 6.225/2023",
+              "artigo": "Não consta",
+              "descricao": "Lei de criação da Secretaria de Estado de Desenvolvimento Urbano e Metropolitano."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr.  Marcellus  Jose  Barroso  Campêlo , com  cópia  do Relatório/Voto e o sequente  Acórdão  para  que  tome  ciência  do decisório.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr.  Marcellus  Jose  Barroso  Campêlo , com  cópia  do Relatório/Voto e o sequente  Acórdão  para  que  tome  ciência  do decisório.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho é uma notificação de prazo, não indicando uma irregularidade ou problema concreto na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

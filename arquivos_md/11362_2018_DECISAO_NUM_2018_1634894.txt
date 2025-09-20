@@ -1,0 +1,102 @@
+{
+  "acordao": "171/2018",
+  "processo": "1005/2015",
+  "data_sessao": "2018-04-11",
+  "orgao": "PRODAM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [],
+  "itens": [
+    {
+      "tipo": "Registro",
+      "descricao": "Concurso Público regido pelo Edital n' 01/ž014 PRODAM cuja relação nominal está 0 que faço com fundamento nos art 10, IV, clc 0 art. 261, $1 , da Resolução 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Concurso Público regido pelo Edital n' 01/ž014 PRODAM cuja relação nominal está 0 que faço com fundamento nos art 10, IV, clc 0 art. 261, $1 , da Resolução 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho apenas registra a legalidade do concurso, sem apontar irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002",
+              "artigo": "10, IV",
+              "descricao": "Competência e art. 261, §1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem que observe a necessidade de convocar OS candidatos aprovados no Concurso Público objeto do Edital n\" 001/2014, até 0 término do prazo de validade; que se dará em 03/07/2018",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem que observe a necessidade de convocar OS candidatos aprovados no Concurso Público objeto do Edital n\" 001/2014, até 0 término do prazo de validade; que se dará em 03/07/2018",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho original não apresenta caraterística para ser classificado como uma irregularidade mas sim um alerta.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar OS Interessados enviando cópia do Relatório-Voto e do respectivo Acórdão para sua ciência e, querendo; para apresentação do devido recurso",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar OS Interessados enviando cópia do Relatório-Voto e do respectivo Acórdão para sua ciência e, querendo; para apresentação do devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho apenas informa sobre a notificação das partes, sem indicar problemas na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar 0 arquivamento do Processo n' 2394/2014, 0 qual se encontra julgado e está apensado a estes autos somente para consulta",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar 0 arquivamento do Processo n' 2394/2014, 0 qual se encontra julgado e está apensado a estes autos somente para consulta",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho apenas determina o arquivamento do processo, sem indicar problemas na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao DEPRIM que após a ocorrência de coisa   julgada administrativa; efetue 0 registro e proceda ao arquivamento; nos moldes regimentais",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao DEPRIM que após a ocorrência de coisa   julgada administrativa; efetue 0 registro e proceda ao arquivamento; nos moldes regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho apenas determina procedimentos internos, sem indicar problemas na gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "acordao": "169/2015",
+  "processo": "1570/2014",
+  "data_sessao": "18 de março de 2015",
+  "orgao": "Secretaria Municipal do Trabalho, Emprego e Desenvolvimento - SEMTRAD",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "José Augusto de Souza Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar Regular, com Ressalvas, a Prestação de Contas da Secretaria Municipal do Trabalho, Emprego e Desenvolvimento - SEMTRAD, referente ao exercício de 2013, de responsabilidade do Sr. José Augusto de Souza Rodrigues, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, II, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem: Que se abstenha de contrair obrigações que não possam, ser cumpridas no mesmo exercício, sem que haja disponibilidade financeira para arcar com os valores inscritos como Restos a Pagar",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  se  abstenha  de  contrair  obrigações  que  não  possam,  ser cumpridas no mesmo exercício, sem que haja disponibilidade financeira para arcar com os valores inscritos como Restos a Pagar",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A21A",
+          "tipologia_irregularidade": "Empenho sem dotação orçamentária",
+          "descricao": "Empenho sem dotação orçamentária",
+          "justificativa_tipologia": "O trecho determina a abstenção de contrair obrigações sem disponibilidade financeira, o que está relacionado ao controle da execução orçamentária e à necessidade de garantir que as despesas estejam devidamente amparadas por recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71",
+              "descricao": "O artigo 71 da Constituição Federal trata do controle externo da administração pública, exercido pelo Congresso Nacional com o auxílio do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem: Que observe e cumpra o prazo de recolhimento dos encargos sociais retidos da remuneração dos servidores até o dia 20 de cada mês a que se referem as remunerações, evitando prejuízos para o Município com pagamento de juros de mora e multa",
+      "trechos_identificados": [
+        {
+          "trecho": "Que observe e cumpra o prazo de recolhimento dos encargos sociais retidos da remuneração dos servidores até  o dia 20 de cada mês a que se referem as remunerações, evitando prejuízos para o Município com pagamento de juros de mora e multa",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A83A",
+          "tipologia_irregularidade": "Ausência de pagamento devido",
+          "descricao": "Ausência de pagamento de valores devidos a trabalhadores, como salários, horas extras, férias, etc.",
+          "justificativa_tipologia": "A determinação de observar o prazo para recolhimento de encargos sociais está diretamente ligada à necessidade de evitar prejuízos financeiros ao município, como juros de mora e multas, e garantir o cumprimento das obrigações trabalhistas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Responsável, nos termos do art. 24, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

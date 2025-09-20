@@ -1,0 +1,53 @@
+{
+  "acordao": "1056/2015",
+  "processo": "1457/2014",
+  "data_sessao": "16 de dezembro de 2015",
+  "orgao": "Fundação de Dermatologia Tropical e Venerologia Alfredo da Matta - FUAM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Carlos Alberto Chirano Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Não conhecimento",
+      "descricao": "Não conhecer os presentes Embargos de Declaração, por descumprimento  de  um  dos  requisitos  para  interposição  do  recurso,  qual  seja,  a tempestividade, previsto no art. 145, I, da Resolução nº 04/2002 TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Não conhecer os presentes Embargos de Declaração, por descumprimento  de  um  dos  requisitos  para  interposição  do  recurso,  qual  seja,  a tempestividade, previsto no art. 145, I, da Resolução nº 04/2002 TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas.",
+          "justificativa_tipologia": "O trecho descreve o descumprimento do requisito de tempestividade para interposição do recurso, conforme previsto no artigo 145, I, da Resolução nº 04/2002 TCE/AM, enquadrando-se na tipologia de 'Não envio de dados periódicos ao e-Contas'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "145, I",
+              "descricao": "Estabelece a tempestividade como requisito para interposição de recurso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o  Embargante para que tome ciência do Decisório, com cópia do Relatório/Voto e do presente Acórdão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o  Embargante para que tome ciência do Decisório, com cópia do Relatório/Voto e do presente Acórdão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho refere-se à notificação do embargante para ciência da decisão, o que não configura uma irregularidade, mas um procedimento administrativo padrão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "acordao": "1272/2019",
+  "processo": "11075/2017",
+  "data_sessao": "11 de Dezembro de 2019",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Presidente Figueiredo - SAAE",
+  "municipio": "Presidente Figueiredo",
+  "exercicio": "2016",
+  "responsavel": [
+    "José de Menezes Pinheiro"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Considerar revel o Sr. José de Menezes  Pinheiro , ex-DiretorPresidente  do Serviço  Autônomo  de  Água  e  Esgoto  de  Presidente Figueiredo",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel o Sr. José de Menezes  Pinheiro , ex-DiretorPresidente  do Serviço  Autônomo  de  Água  e  Esgoto  de  Presidente Figueiredo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho indica uma ação administrativa do Tribunal de Contas, não apontando diretamente para uma falha na gestão ou irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "IRREGULARIDADE",
+      "descricao": "Julgar irregular a Prestação de Contas Anual do Serviço Autônomo de Água e Esgoto de Presidente Figueiredo, exercício 2016 de responsabilidade do Sr.José de Menezes Pinheiro - Diretor-Presidente e Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual do Serviço Autônomo de Água e Esgoto de Presidente Figueiredo, exercício 2016 de responsabilidade do Sr.José de Menezes Pinheiro - Diretor-Presidente e Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A prestação de contas foi considerada irregular, indicando falhas na gestão contábil ou financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Artigo da Constituição Federal de 1988"
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Artigo da Constituição Estadual de 1989"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Artigo da Lei 2.423/96"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "Artigo da Lei 2.423/96"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "Artigo da Lei 2.423/96"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Artigo da Lei 2.423/96"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "25",
+              "descricao": "Artigo da Lei 2.423/96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Aplicar  Multa ao Sr.  José  de  Menezes  Pinheiro no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE, fundamentada no art. 308, I, 'a' da Resolução  n.  04/2002-TCE/AM  pelo  atraso  no  encaminhamento  de informações  por  meio  informatizado  relativas  aos  meses  de  agosto  e setembro, item 1 do Relatório Conclusivo n. 97/2018 - DICAMI. Dentro do  prazo  anteriormente  conferido,  é  obrigatório  o  encaminhamento  do comprovante  de  pagamento  ( autenticado  pelo  Banco )  a  esta  Corte  de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  José  de  Menezes  Pinheiro no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE, fundamentada no art. 308, I, 'a' da Resolução  n.  04/2002-TCE/AM  pelo  atraso  no  encaminhamento  de informações  por  meio  informatizado  relativas  aos  meses  de  agosto  e setembro, item 1 do Relatório Conclusivo n. 97/2018 - DICAMI. Dentro do  prazo  anteriormente  conferido, é  obrigatório  o  encaminhamento  do comprovante  de  pagamento  ( autenticado  pelo  Banco )  a  esta  Corte  de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio de informações, caracterizando descumprimento de prazos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "308, I, 'a'",
+              "descricao": "Artigo da Resolução n. 04/2002-TCE/AM que fundamenta a aplicação da multa por atraso no envio de informações"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Artigo da Lei Orgânica do TCE/AM que estabelece a obrigatoriedade do encaminhamento do comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Aplicar  Multa ao Sr.  José  de  Menezes  Pinheiro no  valor  de R$ 6.827,19 (seis mil, oitocentos e vinte e sete reais e dezenove centavos) , que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE, fundamentada no art. 308, V da Resolução n. 04/2002-TCE/AM pela prática de ato de gestão antieconômico resultando em injustificado dano ao erário, pelos itens 1.1, 1.10,  1.12  e  2.1  do  Relatório  Conclusivo  n.  176/2018  -  DICOP  e  pelo item  8  do  Relatório  Conclusivo  n.  97/2018  -  DICAMI.  Dentro  do  prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante  de  pagamento  ( autenticado  pelo  Banco )  a  esta  Corte  de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  José  de  Menezes  Pinheiro no  valor  de R$ 6.827,19 (seis mil, oitocentos e vinte e sete reais e dezenove centavos) , que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE, fundamentada no art. 308, V da Resolução n. 04/2002-TCE/AM pela prática de ato de gestão antieconômico resultando em injustificado dano ao erário, pelos itens 1.1, 1.10,  1.12  e  2.1  do  Relatório  Conclusivo  n.  176/2018  -  DICOP  e  pelo item  8  do  Relatório  Conclusivo  n.  97/2018  -  DICAMI.  Dentro  do  prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante  de  pagamento  ( autenticado  pelo  Banco )  a  esta  Corte  de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A multa é aplicada devido à prática de ato de gestão antieconômico resultando em dano ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "308, V",
+              "descricao": "Artigo da Resolução n. 04/2002-TCE/AM que fundamenta a aplicação da multa por prática de ato de gestão antieconômico"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Artigo da Lei Orgânica do TCE/AM que estabelece a obrigatoriedade do encaminhamento do comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "Aplicar  Multa ao Sr.  José  de  Menezes  Pinheiro no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, fundamentada no art.  308,  VI  da  Resolução  n.  04/2002-TCE/AM  pela prática de ato com grave infração a norma legal, pelos itens 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9. 1.11, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8 e 2.10 do Relatório Conclusivo n. 176/2018 - DICOP e pelos itens 02, 03, 04, 05, 06, 07 e 09 do Relatório Conclusivo n. 97/2018 -DICAMI.  Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento  ( autenticado  pelo  Banco )  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  José  de  Menezes  Pinheiro no  valor  de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, fundamentada no art.  308,  VI  da  Resolução  n.  04/2002-TCE/AM  pela prática de ato com grave infração a norma legal, pelos itens 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9. 1.11, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8 e 2.10 do Relatório Conclusivo n. 176/2018 - DICOP e pelos itens 02, 03, 04, 05, 06, 07 e 09 do Relatório Conclusivo n. 97/2018 -DICAMI.  Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento  ( autenticado  pelo  Banco )  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "A multa é aplicada devido à prática de ato com grave infração a norma legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Artigo da Resolução n. 04/2002-TCE/AM que fundamenta a aplicação da multa por ato com grave infração a norma legal"
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Artigo da Lei Orgânica do TCE/AM que estabelece a obrigatoriedade do encaminhamento do comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ALCANCE",
+      "descricao": "Considerar em Alcance o Sr. José de Menezes Pinheiro no valor de R$ 85.296,46 (oitenta  e  cinco  mil,  duzentos  e  noventa  e  seis  reais  e quarenta e seis centavos) que devem ser recolhidos n prazo de 30 dias na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de  Presidente Figueiredo, fundamentado no art. 304 da Resolução n. 04/2002-TCE/AM pelas seguintes glosas:",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. José de Menezes Pinheiro no valor de R$ 85.296,46 (oitenta  e  cinco  mil,  duzentos  e  noventa  e  seis  reais  e quarenta e seis centavos) que devem ser recolhidos n prazo de 30 dias na  esfera  Municipal  para  o  órgão  Prefeitura  Municipal  de  Presidente Figueiredo, fundamentado no art. 304 da Resolução n. 04/2002-TCE/AM pelas seguintes glosas:",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O alcance é determinado devido a irregularidades nos gastos, com indícios de desvio de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "304",
+              "descricao": "Artigo da Resolução n. 04/2002-TCE/AM que fundamenta a responsabilização por alcance"
+            }
+          ]
+        },
+        {
+          "trecho": "R$  5.280,00 pelo  item  8  do  Relatório  Conclusivo  n.  97/2018  DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A8C",
+          "tipologia_irregularidade": "Escopo de auditoria interna insuficiente",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "Indica um adiantamento com saldo acumulado pendente de prestação de contas, sugerindo uma falha no controle interno e possível dano ao erário",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "R$ 8.126,25 pelo item 1.1 do Relatório Conclusivo n. 176/2018 DICOP",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Despesas sem prévio empenho",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "R$ 13.360,00 pelo item 1.10 do Relatório Conclusivo n. 176/2018 - DICOP",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Despesas sem prévio empenho",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "R$ 54.594,08 pelo item 1.12 do Relatório Conclusivo n. 176/2018 - DICOP",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Despesas sem prévio empenho",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "R$ 3.936,13 pelo item 2.1 do Relatório Conclusivo n. 176/2018 DICOP",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Despesas sem prévio empenho",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Autorizar  Inscrição  na  Dívida  Ativa do Sr. José  de  Menezes Pinheiro em caso de não recolhimento das multas e glosas no prazo estabelecido. Ficando,  desde  já,  autorizada  a  DERED  a  adoção  das medidas previstas no art. 175 da Resolução TCE 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar  Inscrição  na  Dívida  Ativa do Sr. José  de  Menezes Pinheiro em caso de não recolhimento das multas e glosas no prazo estabelecido. Ficando,  desde  já,  autorizada  a  DERED  a  adoção  das medidas previstas no art. 175 da Resolução TCE 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Procedimento padrão do TCE, não afeta a gestão",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Autorização para a DERED (Departamento de Receita) adotar as medidas necessárias para inscrição na dívida ativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar ao Serviço Autônomo de Água e Esgoto de Presidente Figueiredo - SAAE que:\n- Observe os prazos para remessa das informações informatizadas à este Corte de Contas;\n- Controle mais detalhadamente a utilização de combustível;\n- Mantenha  atualizado  o  Portal  da  Transparência  do  Município, observando com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência;\n- Realize inventário anual dos bens móveis e imóveis, assim como proceda  à  atualização  dos  respectivos  valores  contábeis  por ocasião  da  elaboração de  Balanço  Patrimonial,  em  observância aos princípios contábeis da Continuidade, Oportunidade, Competência e, principalmente do Registro pelo Valor Original.\n- Verifique a implantação do Manual de Contabilidade Aplicado ao Setor  Público  (MCASP)  no  que  tange  à  nomeação  formal  de responsável  pelo  controle  de  materiais  de  consumo  com  prazo até o fim deste exercício por ocasião da Auditoria a ser realizada em 2015;\n- Mantenha um Controle Interno funcione de forma eficiente;\n- Observe com cautela a Lei complementar nº 101/2000;\n- Observe  com  o  máximo  zelo  a  Lei  n.  4.320/64,  principalmente quanto as fases da despesa pública;\n- Observe  com  o  máximo  zelo  o  Código  Tributário  Nacional, principalmente, quanto a retenção do ISS na fonte dos prestadores de servidos.\n- Promova o recolhimento das contribuições sociais dos trabalhadores e patronais nos prazos previstos em lei.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Serviço Autônomo de Água e Esgoto de Presidente Figueiredo - SAAE que: Observe os prazos para remessa das informações informatizadas à este Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Recomendação para observar os prazos de remessa de informações, o que está relacionado ao envio de documentos e informações.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Serviço Autônomo de Água e Esgoto de Presidente Figueiredo - SAAE que: Controle mais detalhadamente a utilização de combustível",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Recomendação para controlar a utilização de combustíveis, o que envolve a implementação de controles internos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Serviço Autônomo de Água e Esgoto de Presidente Figueiredo - SAAE que: Mantenha  atualizado  o  Portal  da  Transparência  do  Município, observando com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "Recomendação para manter atualizado o Portal da Transparência, o que está diretamente relacionado à transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n. 131/2009",
+              "artigo": "Não consta",
+              "descricao": "Lei da Transparência"
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar ao Serviço Autônomo de Água e Esgoto de Presidente Figueiredo - SAAE que: Realize inventário anual dos bens móveis e imóveis, assim como proceda  à  atualização  dos  respectivos  valores  contábeis  por ocasião  da  elaboração de  Balanço  Patrimonial,  em  observância aos princípios contábeis da Continuidade, Oportunidade, Competência e, principalmente do Registro pelo Valor Original",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "justificativa_tipologia": "Recomendação para realizar inventário e atualizar valores contábeis dos bens, o que está relacionado ao patrimônio.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Serviço Autônomo de

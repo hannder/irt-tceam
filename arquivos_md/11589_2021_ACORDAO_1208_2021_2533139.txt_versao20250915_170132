@@ -1,0 +1,85 @@
+{
+  "acordao": "1208/2021",
+  "processo": "11589/2021",
+  "data_sessao": "16 de Novembro de 2021",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Jorge Henrique de Freitas Pinho",
+    "Fabio Pereira Garcia dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Procuradoria Geral do Estado  do  Amazonas  -  PGE,  referente  ao  exercício  de  2020,  sob responsabilidade do Sr. Jorge Henrique de Freitas Pinho, Procurador-Geral  do  Estado  e  do  Sr. Fabio  Pereira  Garcia  dos Santos, Subprocurador-Geral do Estado e Ordenador de Despesas, dando plena  quitação  aos  responsáveis,  nos  termos  dos  artigos  1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002-TCE/AM - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual da Procuradoria Geral do Estado  do  Amazonas  -  PGE,  referente  ao  exercício  de  2020,  sob responsabilidade do Sr. Jorge Henrique de Freitas Pinho, Procurador-Geral  do  Estado  e  do  Sr. Fabio  Pereira  Garcia  dos Santos, Subprocurador-Geral do Estado e Ordenador de Despesas, dando plena  quitação  aos  responsáveis,  nos  termos  dos  artigos  1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002-TCE/AM - RITCE",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Falta de documentação dos controles internos",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"O trecho descreve o julgamento pela regularidade. Apesar de o oposto implicar a ausência de informações, este trecho não descreve a ausência em si.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1",
+              "descricao": "Dispõe sobre a organização da administração pública do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a organização da administração pública do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização da administração pública do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciencia",
+      "descricao": "ciência  ao  Sr.  Jorge  Henrique  de  Freitas  Pinho  e  ao  Sr. Fabio Dar Pereira Garcia dos Santos, da respectiva decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "ciência  ao  Sr.  Jorge  Henrique  de  Freitas  Pinho  e  ao  Sr. Fabio Dar Pereira Garcia dos Santos, da respectiva decisão",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A ciência não indica uma irregularidade, apenas uma notificação.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Arquivar os autos, após expirados os prazos legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"O arquivamento dos autos, após expirados os prazos legais, não indica uma irregularidade.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

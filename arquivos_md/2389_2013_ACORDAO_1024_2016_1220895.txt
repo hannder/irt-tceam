@@ -1,0 +1,68 @@
+{
+  "acordao": "1024/2016",
+  "processo": "2389/2013",
+  "data_sessao": "16 de Dezembro de 2016",
+  "orgao": "Departamento Estadual de Trânsito - DETRAN",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "DJALMA DUTRA FILHO",
+    "MÔNICA ANTONY DE QUEIROZ MELO"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Departamento Estadual de Trânsito do Estado do  Amazonas, relativa ao exercício de 2012, sob a responsabilidade da Sra Mônica Antony de Queiroz Melo, no período de 12/05/2012 a 31/12/2012, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, II, e art. 24, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/02-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Departamento Estadual de Trânsito do Estado do  Amazonas, relativa ao exercício de 2012, sob a responsabilidade do Sr. Djalma Dutra Filho, no período de 01/01/2012 a 11/05/2012, nos termos do art. 71, II, c/c o art. 75 da Constituição Federal, art. 1º, II, c/c art. 22, II, e art. 24, da Lei Estadual nº 2423/96, e art. 188, §1º, II, da Resolução nº 04/02-TCE/",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Departamento Estadual de Trânsito - Detran que: a)   Mantenha  registro  histórico  de  ocorrência  de  falta  de  energia,  com sua  duração,  para  respaldar  a  regularidade  de  abastecimento  dos geradores, em observância aos princípios da transparência, eficiência e economicidade.",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha  registro  histórico  de  ocorrência  de  falta  de  energia,  com sua  duração,  para  respaldar  a  regularidade  de  abastecimento  dos geradores, em observância aos princípios da transparência, eficiência e economicidade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de manter registros históricos sobre a falta de energia, o que impacta a transparência e a economicidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Departamento Estadual de Trânsito - Detran que: b)   Faça  gestão  junto  ao  administrador  do sistema  AJURI  para  adotar mecanismos de controle de forma que permita o registro de lançamentos tempestivos, em conformidade com os registrados no próximos Balanços Patrimoniais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Faça  gestão  junto  ao  administrador  do sistema  AJURI  para  adotar mecanismos de controle de forma que permita o registro de lançamentos tempestivos, em conformidade com os registrados no próximos Balanços Patrimoniais.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A recomendação visa melhorar os controles internos relacionados aos registros tempestivos, impactando a qualidade da informação contábil.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar quitação ao Sr. Djalma Dutra Filho, nos termos do art. 24, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Dar",
+      "descricao": "Dar quitação a  Sra. Mônica  Antony  de Queiroz  Melo,  nos termos do art.  24,  da  Lei  Estadual  nº  2423/96,  c/c  art.  189,  II,  da  Resolução  nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

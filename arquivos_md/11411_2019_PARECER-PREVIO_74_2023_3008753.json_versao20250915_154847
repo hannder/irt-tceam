@@ -1,0 +1,153 @@
+{
+    "acordao": "74/2023",
+    "processo": "11411/2019",
+    "data_sessao": "6 de Junho de 2023",
+    "orgao": "Prefeitura Municipal de Pauini",
+    "municipio": "Pauini",
+    "exercicio": "2018",
+    "responsavel": [
+        "Eliana de Oliveira Amorim"
+    ],
+    "itens": [
+        {
+            "tipo": "determinacao",
+            "descricao": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX,  que  adote  as medidas necessárias para a autuação de processos a serem em seguida submetidos  a  julgamento  nos  termos  da  Portaria  deste  TCE-AM  nº 152/2021,  com  o  carreamento  a  eles  dos  documentos  e  relatórios constantes destes autos, nos termos da competência disposta no artigo 71, incisos VIII, IX, X, XI e seu parágrafo primeiro da Constituição Federal e nos artigos 59, §1º e §2º e 73-A da Lei de Responsabilidade Fiscal",
+            "trechos_identificados": [
+                {
+                    "trecho": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX,  que  adote  as medidas necessárias para a autuação de processos a serem em seguida submetidos  a  julgamento  nos  termos  da  Portaria  deste  TCE-AM  nº 152/2021,  com  o  carreamento  a  eles  dos  documentos  e  relatórios constantes destes autos, nos termos da competência disposta no artigo 71, incisos VIII, IX, X, XI e seu parágrafo primeiro da Constituição Federal e nos artigos 59, §1º e §2º e 73-A da Lei de Responsabilidade Fiscal",
+                    "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+                    "codigo_irregularidade": "T4A8B",
+                    "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+                    "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+                    "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"Portaria deste TCE-AM nº 152/2021\"; justificativa=\"Determinação para apurar responsabilidades por irregularidades na gestão orçamentária e financeira.\"",
+                    "fundamentacao_legal": [
+                        {
+                            "norma": "Constituição Federal",
+                            "artigo": "71, incisos VIII, IX, X, XI e seu parágrafo primeiro",
+                            "descricao": "Competências do Tribunal de Contas para fiscalização e julgamento das contas públicas."
+                        },
+                        {
+                            "norma": "Lei de Responsabilidade Fiscal",
+                            "artigo": "59, §1º e §2º e 73-A",
+                            "descricao": "Disposições sobre as consequências do descumprimento das normas da LRF e as medidas a serem adotadas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "recomendacao",
+            "descricao": "Emite Parecer Prévio recomendando à Câmara Municipal a desaprovação das  Contas  de  Governo  da Sra.  Eliana  de  Oliveira Amorim ,  Prefeita  Municipal  de  Pauini,  exercício  2018,  nos  termos  do artigo 31, §1º e §2º, da Constituição Federal de 1988, combinado com o artigo  18,  inciso  I,  da  Lei  Complementar  nº  06/1991,  com  o  artigo  1º, inciso  I,  e  com  o  artigo  29,  ambos  da  Lei  nº  2.423/1996-LOTCE/AM,  e com o artigo 3º, inciso III, da Resolução TCE/AM nº 09/1997, em razão:",
+            "trechos_identificados": [
+                {
+                    "trecho": "Emite Parecer Prévio recomendando à Câmara Municipal a desaprovação das  Contas  de  Governo  da Sra.  Eliana  de  Oliveira Amorim ,  Prefeita  Municipal  de  Pauini,  exercício  2018,  nos  termos  do artigo 31, §1º e §2º, da Constituição Federal de 1988, combinado com o artigo  18,  inciso  I,  da  Lei  Complementar  nº  06/1991,  com  o  artigo  1º, inciso  I,  e  com  o  artigo  29,  ambos  da  Lei  nº  2.423/1996-LOTCE/AM,  e com o artigo 3º, inciso III, da Resolução TCE/AM nº 09/1997",
+                    "tema_irregularidade": "GESTÃO FISCAL",
+                    "codigo_irregularidade": "T6A78B",
+                    "tipologia_irregularidade": "Resultado Primário não atingido",
+                    "descricao": "Não cumpriu o desejável Regra de Ouro.",
+                    "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"Recomendação de desaprovação das contas devido a irregularidades na gestão.\"",
+                    "fundamentacao_legal": [
+                        {
+                            "norma": "Constituição Federal de 1988",
+                            "artigo": "31, §1º e §2º",
+                            "descricao": "Dispõe sobre a fiscalização contábil, financeira, orçamentária, operacional e patrimonial das entidades da Administração Pública."
+                        },
+                        {
+                            "norma": "Lei Complementar nº 06/1991",
+                            "artigo": "18, inciso I",
+                            "descricao": "Define as competências do Tribunal de Contas do Estado do Amazonas."
+                        },
+                        {
+                            "norma": "Lei nº 2.423/1996-LOTCE/AM",
+                            "artigo": "1º, inciso I",
+                            "descricao": "Define a organização e funcionamento do Tribunal de Contas do Estado do Amazonas."
+                        },
+                        {
+                            "norma": "Lei nº 2.423/1996-LOTCE/AM",
+                            "artigo": "29",
+                            "descricao": "Estabelece as responsabilidades dos gestores de recursos públicos perante o Tribunal de Contas."
+                        },
+                        {
+                            "norma": "Resolução TCE/AM nº 09/1997",
+                            "artigo": "3º, inciso III",
+                            "descricao": "Estabelece os critérios para a apreciação das contas anuais de governo."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "irregularidade",
+            "descricao": "do  descumprimento  de  sua  obrigação  constitucional  de aplicar pelo menos 15% da arrecadação de impostos em ações  e  serviços  públicos  de  saúde,  em  desatenção  ao art. 198, da CFRB/88, ao art. 7º, da Lei Complementar nº 141/2012",
+            "trechos_identificados": [
+                {
+                    "trecho": "do  descumprimento  de  sua  obrigação  constitucional  de aplicar pelo menos 15% da arrecadação de impostos em ações  e  serviços  públicos  de  saúde,  em  desatenção  ao art. 198, da CFRB/88, ao art. 7º, da Lei Complementar nº 141/2012",
+                    "tema_irregularidade": "GESTÃO FISCAL",
+                    "codigo_irregularidade": "T6A76B",
+                    "tipologia_irregularidade": "Despesa com saúde (15%) não realizada",
+                    "descricao": "Não cumprimento do limite Despesa com saúde (15%).",
+                    "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Descumprimento do mínimo constitucional em saúde.\"",
+                    "fundamentacao_legal": [
+                        {
+                            "norma": "CFRB/88",
+                            "artigo": "198",
+                            "descricao": "Dispõe sobre as ações e serviços públicos de saúde."
+                        },
+                        {
+                            "norma": "Lei Complementar nº 141/2012",
+                            "artigo": "7º",
+                            "descricao": "Regulamenta o § 3º do art. 198 da Constituição Federal para dispor sobre os critérios de rateio dos recursos da União destinados à saúde."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "irregularidade",
+            "descricao": "de não ter obedecido ao limite máximo de despesa total com  pessoal,  em  inobservância  ao  art.  20,  inciso  III, alínea \"b\" da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000)",
+            "trechos_identificados": [
+                {
+                    "trecho": "de não ter obedecido ao limite máximo de despesa total com  pessoal,  em  inobservância  ao  art.  20,  inciso  III, alínea \"b\" da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000)",
+                    "tema_irregularidade": "GESTÃO FISCAL",
+                    "codigo_irregularidade": "T6A28A",
+                    "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+                    "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+                    "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Omissão na observância ao limite máximo de gastos com pessoal.\"",
+                    "fundamentacao_legal": [
+                        {
+                            "norma": "Lei de Responsabilidade Fiscal",
+                            "artigo": "20, inciso III, alínea b",
+                            "descricao": "Estabelece os limites de despesa com pessoal para os entes da federação."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "irregularidade",
+            "descricao": "da desatualização do portal da transparência, em afronta ao princípio da transparência da gestão fiscal, em especial  quanto  ao  prazo  de  publicação  do  Relatório  de Gestão  Fiscal  (art.  55,  §2º  da  Lei  de  Responsabilidade Fiscal)  e  ao  prazo  de  publicação  do  Relatório Resumido da  Execução  Orçamentária  (Constituição  Federal,  art. 165, §3º)",
+            "trechos_identificados": [
+                {
+                    "trecho": "da desatualização do portal da transparência, em afronta ao princípio da transparência da gestão fiscal, em especial  quanto  ao  prazo  de  publicação  do  Relatório  de Gestão  Fiscal  (art.  55,  §2º  da  Lei  de  Responsabilidade Fiscal)  e  ao  prazo  de  publicação  do  Relatório Resumido da  Execução  Orçamentária  (Constituição  Federal,  art. 165, §3º)",
+                    "tema_irregularidade": "TRANSPARÊNCIA",
+                    "codigo_irregularidade": "T14A1B",
+                    "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+                    "descricao": "Ausência de divulgação de publicações no site Transparência.",
+                    "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"Omissão da atualização do Portal da Transparência com documentos exigidos por lei.\"",
+                    "fundamentacao_legal": [
+                        {
+                            "norma": "Lei de Responsabilidade Fiscal",
+                            "artigo": "55, §2º",
+                            "descricao": "Estabelece o prazo para publicação do Relatório de Gestão Fiscal."
+                        },
+                        {
+                            "norma": "Constituição Federal",
+                            "artigo": "165, §3º",
+                            "descricao": "Dispõe sobre a publicação do Relatório Resumido da Execução Orçamentária."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

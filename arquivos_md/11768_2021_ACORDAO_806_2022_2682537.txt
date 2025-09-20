@@ -1,0 +1,50 @@
+{
+  "acordao": "806/2022",
+  "processo": "11768/2021",
+  "data_sessao": "31 de maio de 2022",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Parintins - SAAE",
+  "municipio": "Parintins",
+  "exercicio": "2020",
+  "responsavel": [
+    "Fermiliano de Souza Tavares",
+    "Gildeth Pires Dias Prado",
+    "Nelson Raimundo Pinheiro Campos"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Serviço Autônomo de Água e Esgoto de Parintins, exercício de 2020, sob a responsabilidade do Sr. Nelson Raimundo Pinheiro Campos (01.01.2020 a 03.04.2020), nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, 19, II e 22, I, da Lei Orgânica TCE/AM c/c art. 11, III, 'a', '3' e art. 188, II e § 1°, I, da Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  do Serviço Autônomo de Água e Esgoto de Parintins, exercício de 2020, sob a responsabilidade da Sra. Gildeth Pires Dias Prado , (04.04.2020 a 01.07.2020), nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, 19, II e 22, II, da Lei Orgânica TCE/AM c/c art. 11, III, 'a', '3' e art. 188, II e § 1°, II, da Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  do Serviço Autônomo de Água e Esgoto de Parintins, exercício de 2020, sob a responsabilidade do Sr. Fermiliano de Souza  Tavares , (02.07.2020 a 31.12.2020), nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, 19, II e 22, II, da Lei Orgânica TCE/AM c/c art. 11, III, 'a', '3' e art. 188, II e § 1°, II, da Resolução TCE/AM n° 04/02 (Regimento Interno TCE/AM)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa à Sra. Gildeth  Pires  Dias  Prado (04.04.2020  a 01.07.2020), no valor de R$1.706,80 (um mil, setecentos e seis reais e oitenta centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA na esfera estadual para o Fundo de Apoio ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR  avulso extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE', com base no art. 54, VII, da Lei Orgânica do  TCE/AM e art.  308,  VII,  do  Regimento  Interno  do  TCE/AM,  pela ocorrência de impropriedades, ainda que julgadas as contas regulares com ressalvas. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou  judicial  do  título  executivo  (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido  no  Acordo  de  Cooperação  firmado  com  o  Instituto  de Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção  Amazonas  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa ao Sr. Fermiliano  de  Souza  Tavares (02.07.2020  a 31.12.2020), no valor de R$ 1.706,80 (um mil, setecentos e seis reais e oitenta centavos)  e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA na esfera estadual para o Fundo de Apoio ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR  avulso extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE', com base no art. 54, VII, da Lei Orgânica do  TCE/AM e art.  308,  VII,  do  Regimento  Interno  do  TCE/AM,  pela ocorrência de impropriedades, ainda que julgadas as contas regulares com ressalvas. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou  judicial  do  título  executivo  (art.  73  da  Lei  Orgânica  do  TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido  no  Acordo  de  Cooperação  firmado  com  o  Instituto  de Estudos  de  Protesto  de  Títulos  do  Brasil  -  Seção  Amazonas  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que, após o prazo fixado, em  caso  de  não  recolhimento  do  valor  das  penas  pecuniárias impostas, proceda à instauração da cobrança executiva, nos termos do art. 173, do Regimento Interno do TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Serviço Autônomo de Água e Esgoto de Parintins que planeje melhor suas futuras ações, observe e cumpra os prazos legais e  regimentais,  assim  como  as  recomendações  do  Laudo  Técnico  e Parecer Ministerial acostados aos autos, a fim de evitar a reincidência, o  que  poderá ensejar  na  irregularidade  de  Prestações  de  Contas futuras, nos termos do art. 22, §1º, da Lei Orgânica do TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

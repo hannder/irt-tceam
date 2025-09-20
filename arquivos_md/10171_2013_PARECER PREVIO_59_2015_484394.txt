@@ -1,0 +1,363 @@
+{
+  "acordao": "059/2015",
+  "processo": "10171/2013",
+  "data_sessao": "21 de outubro de 2015",
+  "orgao": "Prefeitura Municipal de Apuí",
+  "municipio": "Apuí",
+  "exercicio": "2012",
+  "responsavel": [
+    "Antônio Marcos  Maciel  Fernandes"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidades",
+      "descricao": "Julgar IRREGULARES as contas da Prefeitura  Municipal de  Apuí, referente ao exercício de 2012, tendo como responsável à época o Sr. Antônio Marcos Maciel Fernandes, Prefeito e Ordenador de Despesas, nos termos do art. 19, II, c/c o art. 22,  III,  'b'  e  'c'  da  Lei  n.°  2.423/96,  em  razão  da  permanência  das  falhas  citadasNO Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULARES as contas da Prefeitura  Municipal de  Apuí, referente ao exercício de 2012, tendo como responsável à  época o Sr. Antônio  Marcos Maciel Fernandes, Prefeito e Ordenador de Despesas, nos termos do art. 19, II, c/c o art. 22,  III,  'b'  e  'c'  da  Lei  n.°  2.423/96,  em  razão  da  permanência  das  falhas  citadasNO Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "As contas foram julgadas irregulares devido a falhas, o que indica descumprimento de normas de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 2.423/96",
+              "artigo": "19, II",
+              "descricao": "Define a irregularidade das contas."
+            },
+            {
+              "norma": "Lei n.° 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Estabelece os termos para considerar as contas irregulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "GLOSAR o montante de R$ 3.864.021,05 (três milhões, oitocentos e sessenta e quatro mil e vinte e um reais e cinco centavos), julgando em alcance o Sr. Antônio Marcos Maciel Fernandes, para devolução dos seguintes valores, corrigidos monetariamente:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 12.897,00 (doze mil, oitocentos e noventa e sete reais), referentes ao pagamento de multas e juros em decorrência do cumprimento intempestivo das Guias de Previdência Social (item 3);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 12.897,00 (doze mil, oitocentos e noventa e sete reais), referentes ao pagamento de multas e juros em decorrência do cumprimento intempestivo das Guias de Previdência Social (item 3);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "Pagamento de multas por atraso em recolhimentos previdenciários indica falha no monitoramento de prazos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 3.453.586,66 (três milhões, quatrocentos e cinquenta e três mil, quinhentos e oitenta e seis reais e sessenta e seis centavos), pela omissão das disponibilidades financeiras do Município resultante da diferença entre o desembolso e o ingresso de recursos financeiros ocorridos no exercício de 2012 (item 8);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 3.453.586,66 (três milhões, quatrocentos e cinquenta e três mil, quinhentos e oitenta e seis reais e sessenta e seis centavos), pela omissão das disponibilidades financeiras do Município resultante da diferença entre o desembolso e o ingresso de recursos financeiros ocorridos no exercício de 2012 (item 8);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A omissão das disponibilidades financeiras do Município resultante da diferença entre o desembolso e o ingresso de recursos financeiros caracteriza burla do processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 26.431,40 (vinte e seis mil, quatrocentos e trinta e um reais e quarenta centavos), em razão de despesas com diárias sem respaldo comprobatório (item 20);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 26.431,40 (vinte e seis mil, quatrocentos e trinta e um reais e quarenta centavos), em razão de despesas com diárias sem respaldo comprobatório (item 20);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "Despesas com diárias sem comprovação são consideradas falhas na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 59.290,00 (cinquenta e nove mil, duzentos e noventa reais), referentes aos serviços discriminados nas planilhas orçamentárias da Carta-Contrato n.º 150/2012, sem a identificação dos elementos comprobatórios da efetiva realização dos mesmos (item 54.1);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 59.290,00 (cinquenta e nove mil, duzentos e noventa reais), referentes aos serviços discriminados nas planilhas orçamentárias da Carta-Contrato n.º 150/2012, sem a identificação dos elementos comprobatórios da efetiva realização dos mesmos (item 54.1);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "Despesas sem comprovação da efetiva realização dos serviços se enquadram em despesas sem registro de entrada e saída de controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 90.044,35 (noventa mil e quarenta e quatro reais e trinta e cinco centavos), referentes aos serviços discriminados nas planilhas orçamentárias da Carta-Contrato n.º 022/2012, sem a identificação dos elementos comprobatórios da efetiva realização dos mesmos (itens 54.2 e 64.3);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 90.044,35 (noventa mil e quarenta e quatro reais e trinta e cinco centavos), referentes aos serviços discriminados nas planilhas orçamentárias da Carta-Contrato n.º 022/2012, sem a identificação dos elementos comprobatórios da efetiva realização dos mesmos (itens 54.2 e 64.3);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "Despesas sem comprovação da efetiva realização dos serviços se enquadram em despesas sem registro de entrada e saída de controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 181.511,64 (cento e oitenta e um mil, quinhentos e onze reais e sessenta e quatro centavos), referentes ao pagamento da NE n.º 1230 (R$ 155.452,25) e da NE n.º 1840 (R$ 26.059,39), em decorrência da diferença encontrada através do confronto entre os empenhos efetuados e o respectivo valor contratado no Contrato n.º 013/2012 (item 64.1);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 181.511,64 (cento e oitenta e um mil, quinhentos e onze reais e sessenta e quatro centavos), referentes ao pagamento da NE n.º 1230 (R$ 155.452,25) e da NE n.º 1840 (R$ 26.059,39), em decorrência da diferença encontrada através do confronto entre os empenhos efetuados e o respectivo valor contratado no Contrato n.º 013/2012 (item 64.1);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "Diferença entre os empenhos efetuados e o respectivo valor contratado é uma Divergência Contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 22.000,00 (vinte e dois mil reais), referentes ao pagamento do empenho n.º 265/2012 do Contrato n.º 57/2011, realizado em fevereiro de 2012, sendo que o prazo de vigência do contrato em tela havia expirado em junho de 2011 (item 64.2);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 22.000,00 (vinte e dois mil reais), referentes ao pagamento do empenho n.º 265/2012 do Contrato n.º 57/2011, realizado em fevereiro de 2012, sendo que o prazo de vigência do contrato em tela havia expirado em junho de 2011 (item 64.2);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "Pagamento realizado após a expiração do contrato é uma despesa sem cobertura contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Glosas",
+      "descricao": "R$ 18.260,00 (dezoito mil, duzentos e sessenta reais), referentes à não identificação da localização precisa da aplicação do material adquirido (manilhas de concreto) nas quantidades relacionadas no Contrato n.º 86/2012 (item 64.4);",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 18.260,00 (dezoito mil, duzentos e sessenta reais), referentes à não identificação da localização precisa da aplicação do material adquirido (manilhas de concreto) nas quantidades relacionadas no Contrato n.º 86/2012 (item 64.4);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A não identificação da localização precisa da aplicação do material dificulta o controle patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "MULTAR o Sr. Antônio Marcos Maciel Fernandes, Prefeito Municipal de Apuí e Ordenador de Despesas, exercício de 2012: no valor de R$  17.536,50 (dezessete mil, quinhentos e trinta e seis reais e cinquenta centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, VI da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pelos atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes dos itens 2, 4, 5, 6, 7, 9,10, 11, 12, 13, 14,15 ,16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 55, 56, 57, 58, 59, 60, 61, 62 e 63, do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "MULTAR o Sr. Antônio Marcos Maciel Fernandes, Prefeito Municipal de Apuí e Ordenador de Despesas, exercício de 2012: no valor de R$  17.536,50 (dezessete mil, quinhentos e trinta e seis reais e cinquenta centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, VI da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pelos atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes dos itens 2, 4, 5, 6, 7, 9,10, 11, 12, 13, 14,15 ,16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 55, 56, 57, 58, 59, 60, 61, 62 e 63, do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68A",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "Realização de despesas não previstas no Plano de Trabalho (R$3.570,72), transferência entre contas sem identificação do recebedor (1.219,48) e pagamento de Tarifa Bancária (191,55).",
+          "justificativa_tipologia": "A multa aplicada por infração à norma legal de natureza contábil, financeira, orçamentária, operacional e patrimonial indica um descumprimento de metas fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define a multa por infração à norma legal."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 04/02",
+              "artigo": "308, VI",
+              "descricao": "Especifica os atos praticados com grave infração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "MULTAR o Sr. Antônio Marcos Maciel Fernandes, Prefeito Municipal de Apuí e Ordenador de Despesas, exercício de 2012: no valor de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos), com fulcro no art. 54, III, da Lei n.º 2.423/96, c/c o art. 308, V, da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pelos atos de gestão ilegítimos e antieconômicos de que resultaram injustificado dano ao erário, constantes dos itens 3, 8, 20, 54.1, 54.2, 64.1, 64.2, 64.3 e 64.4, do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "MULTAR o Sr. Antônio Marcos Maciel Fernandes, Prefeito Municipal de Apuí e Ordenador de Despesas, exercício de 2012, no valor de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos), com fulcro no art. 54, III, da Lei n.º 2.423/96, c/c o art. 308, V, da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pelos atos de gestão ilegítimos e antieconômicos de que resultaram injustificado dano ao erário, constantes dos itens 3, 8, 20, 54.1, 54.2, 64.1, 64.2, 64.3 e 64.4, do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "Multa aplicada devido a atos de gestão antieconômicos com dano ao erário, indica uma execução financeira inadequada dos programas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Define multa por atos de gestão ilegítimos e antieconômicos."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 04/02",
+              "artigo": "308, V",
+              "descricao": "Especifica os atos de gestão ilegítimos e antieconômicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar Prazo",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias ,  para  que o Sr. Antônio  Marcos Maciel Fernandes, recolha o valor do débito que lhe foi aplicado aos cofres públicos (art. 72, III,  'c',  da  Lei  n.º  2423/96),  ficando  a  DICREX autorizada,  caso expirado esse prazo sem  o  devido  pagamento,  a  tomar  as  providências  para  iniciar a sua  execução administrativa,  adotando  as  medidas  previstas  nas  subseções  III  e  IV  da  Seção  III,  do Capítulo X, da Resolução n.º 4/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias ,  para  que o Sr. Antônio  Marcos Maciel Fernandes, recolha o valor do débito que lhe foi aplicado aos cofres públicos (art. 72, III,  'c',  da  Lei  n.º  2423/96),  ficando  a  DICREX autorizada,  caso expirado esse prazo sem  o  devido  pagamento,  a  tomar  as  providências  para  iniciar a sua  execução administrativa,  adotando  as  medidas  previstas  nas  subseções  III  e  IV  da  Seção  III,  do Capítulo X, da Resolução n.º 4/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Fixar prazo para recolhimento de débito é um procedimento padrão, este procedimento está relacionado a cobrança de dívida",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Define o prazo para recolhimento do débito."
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Estabelece as medidas para execução administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar Prazo",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias ,  para  que o Sr. Antônio  Marcos Maciel  Fernandes,  recolha  os  valores  das  multas  que  lhe  foram  aplicadas  aos  cofres públicos (art. 72, III, 'c', da Lei nº 2423/96), ficando a DICREX autorizada, caso expirado esse prazo sem o devido pagamento, a tomar as providências para iniciar a sua execução administrativa,  adotando  as  medidas  previstas  nas  subseções  III  e  IV  da  Seção  III,  do Capítulo X, da Resolução n.º 4/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias ,  para  que o Sr. Antônio  Marcos Maciel  Fernandes,  recolha  os  valores  das  multas  que  lhe  foram  aplicadas  aos  cofres públicos (art. 72, III, 'c', da Lei nº 2423/96), ficando a DICREX autorizada, caso expirado esse prazo sem o devido pagamento, a tomar as providências para iniciar a sua execução administrativa,  adotando  as  medidas  previstas  nas  subseções  III  e  IV  da  Seção  III,  do Capítulo X, da Resolução n.º 4/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Fixar prazo para recolhimento de multas é um procedimento padrão, este procedimento está relacionado a cobrança de dívida",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Define o prazo para recolhimento das multas."
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Estabelece as medidas para execução administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "RECOMENDAR à origem, sob pena de aplicação de multa pela reincidência nos mesmos atos, que: atente aos prazos para encaminhamento dos balancetes mensais, via ACP; cumpra os ditames dos arts. 31 e 74, da CF/88 e no art. 76, da  Lei  n.°  4.320/64,  a  fim  de  criar  um  sistema  que  efetivamente  controle, gerencie,  avalie  e  analise  os  objetivos,  os  recursos  e  as  metas  do  Poder Público; elabore anualmente o inventário dos bens permanentes na forma disposta do art. 94, da Lei n.º 4.320/64; realize o competente procedimento licitatório, enquadrando cada modalidade de acordo com as despesas, cujos limites estão estabelecidos no art. 23, incisos e alíneas, da Lei n.º 8.666/93; formalize os devidos relatórios de  viagens dos servidores, secretários e Prefeito, para fins de comprovação da legalidade das despesas; atente ao que determinam os arts. 19 e 20, da Lei Complementar  n.º  101/2000  -  LRF,  em  relação  ao  limite  dos  gastos  com pessoal; não proceda à nomeação de pessoal após vencido o prazo de validade do concurso público; cumpra o princípio da publicidade em todos os atos emanados por esse Poder Executivo Municipal, em especial aos dos Contratos e Cartas-Contratos, prerrogativa do parágrafo único do art. 61, da Lei n.º 8.666/93; observe as determinações do art. 22, §7º, da Lei n.º 8.666/93,  ao  realizar  processos  licitatórios  que  não  atendam  o  número mínimo de 3 licitantes; observe com maior rigor os ditames da Lei de Licitações, nas obras e serviços de engenharia, sobretudo no que diz respeito ao parecer jurídico sobre o processo licitatório, à Portaria designando os responsáveis pela fiscalização do contrato, aos relatórios de controle  e acompanhamento da fiscalização, à Anotação/Registro de Responsabilidade Técnica, ao Projeto Básico, ao Termo de Recebimento Provisório e/ou Definitivo",
+      "trechos_identificados": [
+        {
+          "trecho": "atente aos  prazos  para  encaminhamento  dos  balancetes mensais, via ACP",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para atentar aos prazos de envio dos balancetes mensais indica uma recorrência no descumprimento desses prazos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "cumpra os ditames dos arts. 31 e 74, da CF

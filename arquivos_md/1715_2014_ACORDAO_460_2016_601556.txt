@@ -1,0 +1,12 @@
+{
+  "acordao": "Acórdão",
+  "processo": "00/0000",
+  "data_sessao": "Não Especificado",
+  "orgao": "Não Especificado",
+  "municipio": "Não Especificado",
+  "exercicio": "0000",
+  "responsavel": [
+    "Sr. ..............................."
+  ],
+  "itens": []
+}

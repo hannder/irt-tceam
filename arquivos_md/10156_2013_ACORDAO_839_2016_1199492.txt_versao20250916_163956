@@ -1,0 +1,166 @@
+{
+  "acordao": "839/2016",
+  "processo": "10156/2013",
+  "data_sessao": "04 de Outubro de 2016",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Uarini",
+  "exercicio": "2012",
+  "responsavel": [
+    "Agberto de Castro Marinho"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  Anuais  Câmara  Municipal  de Uarini,  exercício 2012, sob a responsabilidade do senhor Agberto de Castro Marinho , Presidente da Câmara e Ordenadora de Despesa, em decorrência de atos praticados com grave  infração  às  normas  legais  nos  termos  da  alínea  'b'  do  inciso  III  do  art.  188  da Resolução 04/2002-TCE/AM, conforme a irregularidade 4",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de  Contas  Anuais  Câmara  Municipal  de Uarini,  exercício 2012, sob a responsabilidade do senhor Agberto de Castro Marinho , Presidente da Câmara e Ordenadora de Despesa, em decorrência de atos praticados com grave  infração  às  normas  legais  nos  termos  da  alínea  'b'  do  inciso  III  do  art.  188  da Resolução 04/2002-TCE/AM, conforme a irregularidade 4",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação da regular aplicação de recursos, através de notas explicativas, das contas contábeis.",
+          "justificativa_tipologia": "justificativa=\"A deliberação trata de julgamento de contas irregulares devido a atos com grave infração às normas legais, enquadrando-se na tipologia por não comprovar a aplicação de recursos em contas contábeis.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar multa ao Sr. Agberto de Castro Marinho , Presidente da Câmara Municipal  de  Uarini,  referente  ao  exercício  2013,  no  valor  de R$  8.768,25 (oito  mil setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do inciso VI do art.  308 da Resolução 4/2002 (RITCE/AM), em decorrência de ato praticado com grave infração às normas legais (irregularidade 4 do Relatório Conclusivo da Unidade Técnica)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Agberto de Castro Marinho , Presidente da Câmara Municipal  de  Uarini,  referente  ao  exercício  2013,  no  valor  de R$  8.768,25 (oito  mil setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do inciso VI do art.  308 da Resolução 4/2002 (RITCE/AM), em decorrência de ato praticado com grave infração às normas legais (irregularidade 4 do Relatório Conclusivo da Unidade Técnica)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Aplicação de multa por ausência de documentação dos controles internos.",
+          "justificativa_tipologia": "justificativa=\"A deliberação trata da aplicação de multa devido à falta de documentação dos controles internos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "A multa é aplicada nos termos do art. 308 da Resolução 4/2002 (RITCE/AM) por ato praticado com grave infração às normas legais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar  à  Origem , nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que:\n- · não atrase o envio da movimentação contábil, nos termos do art. 4º da Res. n. 07/02 c/c o parágrafo 1º, art.  15, da Lei Complementar n. 06/91, com nova redação dada pela LC n. 24/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "não atrase o envio da movimentação contábil, nos termos do art. 4º da Res. n. 07/02 c/c o parágrafo 1º, art.  15, da Lei Complementar n. 06/91, com nova redação dada pela LC n. 24/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Determinação para envio da movimentação contábil para fins de comprovação da aplicação de recursos.",
+          "justificativa_tipologia": "justificativa=\"A deliberação determina o envio da movimentação contábil, visando a comprovação do devido registro e aplicação dos valores no Balanço Patrimonial.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. n. 07/02",
+              "artigo": "4",
+              "descricao": "Determina o envio da movimentação contábil."
+            },
+            {
+              "norma": "Lei Complementar n. 06/91",
+              "artigo": "15",
+              "descricao": "Estabelece o envio da movimentação contábil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar  à  Origem , nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que:\n- · implante,  urgentemente,  sistema  de controle  interno  no  Município, com vistas nos termos do exigido pelo caput do art. 74 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "implante,  urgentemente,  sistema  de controle  interno  no  Município, com vistas nos termos do exigido pelo caput do art. 74 da Constituição Federal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Determinação para implementação urgente de sistema de controle interno no Município.",
+          "justificativa_tipologia": "justificativa=\"A deliberação determina a implementação urgente de um sistema de controle interno no Município, o que está diretamente relacionado à não implementação ou implementação insuficiente do controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "A Constituição Federal exige a implementação de sistema de controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar  à  Origem , nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que:\n- · realize  planejamento  de  compras  a  fim  de  que  possam  ser  feitas aquisições de produtos da mesma natureza de uma só vez, pela modalidade de licitação compatível com a estimada da totalidade do valor ser adquirido, abstendo-se de utilizar, nesses casos, o art. 24, inciso II, da Lei federal nº 8.666/93 para justificar a dispensa de licitação, por se caracterizar fracionamento de despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "realize  planejamento  de  compras  a  fim  de  que  possam  ser  feitas aquisições de produtos da mesma natureza de uma só vez, pela modalidade de licitação compatível com a estimada da totalidade do valor ser adquirido, abstendo-se de utilizar, nesses casos, o art. 24, inciso II, da Lei federal nº 8.666/93 para justificar a dispensa de licitação, por se caracterizar fracionamento de despesas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Determinação para realizar planejamento de compras, a fim de evitar fracionamento de despesas.",
+          "justificativa_tipologia": "justificativa=\"A deliberação determina que a entidade realize planejamento de compras para evitar o fracionamento de despesas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "24",
+              "descricao": "A determinação refere-se ao art. 24, inciso II, da Lei federal nº 8.666/93, que trata da dispensa de licitação, com o objetivo de evitar o fracionamento de despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar  à  Origem , nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que:\n- · encaminhe no prazo estipulado os Relatórios de Gestão Fiscal, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "encaminhe no prazo estipulado os Relatórios de Gestão Fiscal, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69A",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Determinação para encaminhar os Relatórios de Gestão Fiscal no prazo estipulado.",
+          "justificativa_tipologia": "justificativa=\"A deliberação determina o encaminhamento dos Relatórios de Gestão Fiscal no prazo estipulado, o que está diretamente relacionado à ausência de publicação do RREO.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "32",
+              "descricao": "A determinação refere-se à alínea 'h' do inciso II do art. 32 da Lei 2423/96, que trata do envio dos Relatórios de Gestão Fiscal."
+            },
+            {
+              "norma": "Resolução 11/2009",
+              "artigo": "1",
+              "descricao": "A determinação está relacionada ao §1º da Resolução 11/2009, que trata do envio dos Relatórios de Gestão Fiscal."
+            },
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "165",
+              "descricao": "A determinação está relacionada ao §3º do art. 165 da CF/88, que trata dos Relatórios de Gestão Fiscal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

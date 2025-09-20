@@ -1,0 +1,200 @@
+{
+  "acordao": "956/2015",
+  "processo": "1614/2014",
+  "data_sessao": "18 de novembro de 2015",
+  "orgao": "Instituto  de  Desenvolvimento Agropecuário e Florestal Sustentável do Estado do Amazonas-IDAM",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Edmar Vizolli"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regular com ressalvas as contas do Instituto de Desenvolvimento Agropecuário  e  Florestal  Sustentável  do  Estado  do  Amazonas-IDAM,  exercício  2013, tendo  como  responsável  o Sr.  Edmar  Vizolli ,  Diretor-Presidente,  conforme  o  art.  22, inciso II, da Lei n.º 2.423/96-LO/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas as contas do Instituto de Desenvolvimento Agropecuário  e  Florestal  Sustentável  do  Estado  do  Amazonas-IDAM,  exercício  2013, tendo  como  responsável  o Sr.  Edmar  Vizolli ,  Diretor-Presidente,  conforme  o  art.  22, inciso II, da Lei n.º 2.423/96-LO/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica um julgamento formal das contas com ressalvas, sem detalhar falhas específicas, e a tipologia da irregularidade que melhor se adequa é a de Ausência de Notas Explicativas, por ser uma falha recorrente em prestações de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Fundamentação legal para julgar as contas regulares com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao Sr. Edmar  Vizolli ,  Diretor-Presidente,  exercício  de 2013, com fulcro no artigo 53, parágrafo único da Lei nº 2.423/96, no valor de R$ 4.000,00 (quatro mil reais)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao Sr. Edmar  Vizolli ,  Diretor-Presidente,  exercício  de 2013, com fulcro no artigo 53, parágrafo único da Lei nº 2.423/96, no valor de R$ 4.000,00 (quatro mil reais)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "Aplicação de multa ao responsável, mas sem descrição das irregularidades que a motivaram,  e a tipologia que melhor se adequa é a de Execução financeira de programas em percentual superior ao programado/autorizado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "53, parágrafo único",
+              "descricao": "Fundamentação legal para aplicação de multa ao responsável."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar prazo de 30 (trinta) dias para o recolhimento da multa aos cofres da Fazenda Estadual, com comprovação perante este Tribunal, nos termos do art. 72, III da Lei nº 2423/96 c/c o art. 169,  I do Regimento  Interno  deste Tribunal (Resolução nº 04/2002), autorizando a instauração de inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar prazo de 30 (trinta) dias para o recolhimento da multa aos cofres da Fazenda Estadual, com comprovação perante este Tribunal, nos termos do art. 72, III da Lei nº 2423/96 c/c o art. 169,  I do Regimento  Interno  deste Tribunal (Resolução nº 04/2002), autorizando a instauração de inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A tipologia  que melhor se adequa é a de Não-adoção de providências para cobrança de dívida ativa pois se trata de uma cobrança em dívida ativa. ",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III",
+              "descricao": "Fundamentação legal para o recolhimento da multa aos cofres da Fazenda Estadual."
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal (Resolução nº 04/2002)",
+              "artigo": "169, I",
+              "descricao": "Fundamentação legal para o recolhimento da multa aos cofres da Fazenda Estadual."
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Fundamentação legal para a instauração de inscrição do débito na Dívida Ativa e instauração da cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar  à  origem que  observe  com  rigor  o  cumprimento  das normas legais, e que:\n\na) Seja criado o órgão de controle interno",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  à  origem que  observe  com  rigor  o  cumprimento  das normas legais, e que:\n\na) Seja criado o órgão de controle interno",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A22B",
+          "tipologia_irregularidade": "Falha na criação do Sistema de Controle Interno (SCI)**",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A recomendação de criar um órgão de controle interno aborda uma deficiência estrutural na gestão da entidade, relacionada a falhas na criação do sistema de controle interno, como a ausência de envio de dados ao e-Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "b) As  declarações  de  bens  dos  servidores  sejam  atualizadas anualmente e arquivadas corretamente nas pastas funcionais",
+      "trechos_identificados": [
+        {
+          "trecho": "b) As  declarações  de  bens  dos  servidores  sejam  atualizadas anualmente e arquivadas corretamente nas pastas funcionais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A13B",
+          "tipologia_irregularidade": "Descumprimento do Programa de Integridade",
+          "descricao": "Ausência de Declaração de bens",
+          "justificativa_tipologia": "A recomendação sobre a atualização e arquivamento correto das declarações de bens dos servidores está relacionada a descumprimento do programa de integridade e falhas no controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "c) Observe  as  regras  quanto  aos  limites  dos  valores  dos adiantamentos",
+      "trechos_identificados": [
+        {
+          "trecho": "c) Observe  as  regras  quanto  aos  limites  dos  valores  dos adiantamentos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A8C",
+          "tipologia_irregularidade": "Escopo de auditoria interna insuficiente",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A recomendação sobre observar as regras quanto aos limites dos valores dos adiantamentos está relacionada a um escopo de auditoria interna insuficiente",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "d) Observe  com  mais  rigor  os procedimentos  para  evitar acúmulos indevidos de cargos pelos servidores do IDAM",
+      "trechos_identificados": [
+        {
+          "trecho": "d) Observe  com  mais  rigor  os procedimentos  para  evitar acúmulos indevidos de cargos pelos servidores do IDAM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A15B",
+          "tipologia_irregularidade": "Ausência do certificado e relatório de auditoria",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A recomendação de observar os procedimentos para evitar acúmulos indevidos de cargos está relacionada a controle interno e a ausência do certificado e relatório de auditoria.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "e) Atualize o Portal de Transparência do site Lei nº12.527/2011Lei de acesso a informação quanto à implantação e manutenção dos Portais",
+      "trechos_identificados": [
+        {
+          "trecho": "e) Atualize o Portal de Transparência do site Lei nº12.527/2011Lei de acesso a informação quanto à implantação e manutenção dos Portais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação para atualizar o Portal de Transparência aborda a ausência de divulgação de publicações no site de transparência, o que é uma falha recorrente em órgãos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 12.527/2011",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Acesso à Informação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o interessado com cópia do Relatório/Voto, e deste  Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o interessado com cópia do Relatório/Voto, e deste  Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A notificação ao interessado para ciência do decisório e apresentação de recurso é um procedimento padrão sem relação direta com a detecção de irregularidades ou problemas estruturais na gestão pública. Classificar como controle interno é o mais adequado, já que a ausência de normatização das rotinas internas pode impactar a conformidade e a transparência dos processos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

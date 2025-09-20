@@ -1,0 +1,63 @@
+{
+  "acordao": "2028/2024",
+  "processo": "11980/2022",
+  "data_sessao": "10 de Dezembro de 2024",
+  "orgao": "Secretaria Municipal de Educação, Cultura e Esporte de Tefé",
+  "municipio": "Tefé",
+  "exercicio": "2021",
+  "responsavel": [
+    "Marcus Lucio de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Secretaria Municipal de Educação, Cultura e Esporte de Tefé, referente ao  exercício  de  2021,  de  responsabilidade  do Sr.  Marcus  Lucio  de Souza , Secretário e Ordenador de Despesas, à época, nos termos dos arts. 22, inciso II, e 24 da Lei nº 2.423/96 (LO-TCE/AM) c/c art. 188, § 1º, inciso II, da Resolução nº 04/2002 (RI-TCE/AM)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Marcus Lucio de Souza , Secretário Municipal de Educação, Cultura e Esporte de Tefé, à época, no valor de R$ 4.000,00 (quatro mil reais), na forma do art. 308, VII, da Resolução nº 04/2002 (RI-TCE/AM)  c/c  art.  54,  VII,  da  Lei  nº  2423/1996  (LO-TCE/AM), considerando que, ainda que as Contas da referida Secretaria Municipal,  no  exercício  de  2021,  tenham  sido  julgadas  regulares  com ressalvas, permaneceram  impropriedades  consideradas insanadas, quais sejam, os Achados de Auditoria nº 8; nº 10; nº 11; nº 14, 'c', 'd' e 'e';  nº  16;  nº  17;  nº  18;  nº  19  e  nº  25,  'a',  listados  no  Relatório Conclusivo nº 316/2022-DICAMI; e fixar prazo de 30 (trinta) dias para que o Responsável recolha o valor da multa na esfera Estadual, através de dar avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508' - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  no 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento  do  título executivo para protesto em  nome  do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Marcus Lucio de Souza , Secretário Municipal de Educação, Cultura e Esporte de Tefé, à época, nos termos do art. 24 e do  art.  72,  inciso  II,  da  Lei  nº  2.423/96  (LO-TCE/AM)  c/c  o  art.  189, inciso II, da Resolução nº 04/2002 (RI-TCE/AM), após o pagamento da multa imposta",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  gestão  da  Secretaria  Municipal  de  Educação, Cultura e Esporte de Tefé que:Proceda à manutenção permanente nos arquivos municipais de toda a documentação técnica referente a obras, reformas e serviços de engenharia, de modo a garantir sua disponibilidade imediata para análise in loco durante auditorias realizadas pela DICOP, evitando-se, assim, a necessidade de notificações para apresentação de documentos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  gestão  da  Secretaria  Municipal  de  Educação, Cultura e Esporte de Tefé que:Inclua de forma clara e detalhada, na elaboração de projetos básicos  para  obras  e  serviços  de  engenharia,  os  seguintes documentos:  especificações  técnicas,  planilha  orçamentária, composição  de  custo  unitário,  cronograma  físico-financeiro, projeto  arquitetônico,  quando  aplicável,  e  projeto  geométrico, quando aplicável; que devem estar devidamente assinados por responsável  técnico  habilitado,  com  registro  ativo  e  regular junto  ao  Conselho  Regional  de  Engenharia  e  Agronomia  do Amazonas  (CREA/AM)  ou  ao  Conselho  de  Arquitetura  e Urbanismo do Amazonas (CAU/AM)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  gestão  da  Secretaria  Municipal  de  Educação, Cultura e Esporte de Tefé que:Emita  o  registro  da  Anotação  de  Responsabilidade  Técnica (ART) junto  ao  CREA/AM,  ou,  quando  aplicável,  do  Registro de  Responsabilidade  Técnica  (RRT)  junto  ao  CAU/AM,  para cada  obra,  reforma  ou  serviço  de  engenharia  executado, garantindo  a  regularidade  técnica  e  jurídica  das  atividades desenvolvidas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  atual  gestão  da  Secretaria  Municipal  de  Educação, Cultura e Esporte de Tefé que:Mantenha  maior  rigor  no  envio  dos  balancetes  mensais  do órgão, via sistema e-Contas, a esta Corte, dentro dos prazos estabelecidos, sob pena de multa em caso de reincidência no atraso injustificado",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX  que,  na próxima Comissão  de  Inspeção , ao  realizar  vistoria  na Secretaria Municipal  de  Educação,  Cultura  e  Esporte  de  Tefé   apure  possíveis , casos  de  acúmulo  ilícito de  cargos,  levando  em  consideração  o Relatório  Conclusivo  nº  316/2022-DICAMI,  bem  como  monitore  as melhorias  e  o  progresso  nos  assuntos  relativos  a  cada  irregularidade abordada nestas Contas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria do Tribunal Pleno - SEPLENO que adote as providências  previstas  no  art.  162  da  Resolução  nº  04/2002  (RITCE/AM), dando ciência ao Responsável, Sr. Marcus Lucio de Souza , através  de  seus  patronos,  acerca  do  teor  do  presente decisum , encaminhando-lhe cópia do Relatório/Voto e do sequente Acórdão",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os  autos,  após  o  cumprimento  integral  do  decisório   nos , termos e prazos regimentais.",
+      "trechos_identificados": []
+    }
+  ]
+}

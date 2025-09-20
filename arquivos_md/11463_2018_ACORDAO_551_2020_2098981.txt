@@ -1,0 +1,186 @@
+{
+  "acordao": "551/2020",
+  "processo": "11463/2018",
+  "data_sessao": "3 de Junho de 2020",
+  "orgao": "Fundo  Especial  do  Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas  FUNESBOM",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Mauro Marcelo Lima Freire",
+    "Fernando Paiva Pires Junior",
+    "Fernando Sergio Austregésilo Luz",
+    "Carlos Alberto Freitas Tupinambá"
+  ],
+  "itens": [
+    {
+      "tipo": "Notificação",
+      "descricao": "Considerar  revel os  Srs. Mauro  Marcelo  Lima  Freire e Fernando Paiva  Pires  Júnior ,  nos  termos  do  Art.  20,  §4º,  da  Lei  nº.  2.423/96LOTCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  revel os  Srs. Mauro  Marcelo  Lima  Freire e Fernando Paiva  Pires  Júnior ,  nos  termos  do  Art.  20,  §4º,  da  Lei  nº.  2.423/96LOTCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho apresenta um procedimento formal do TCE-AM, não indicando irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº.  2.423/96LOTCE/AM",
+              "artigo": "20,  §4º",
+              "descricao": "Procedimento para revelia no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Mauro  Marcelo  Lima Freire, responsável  pelo Fundo  Especial  do  Corpo  de  Bombeiros Militar do Estado do Amazonas - FUNESBOM , Ordenador de Despesa no  período  de  04/10/2017  a  31/12/2017,  conforme  dispõe  o  Art.  22, inciso  III,  alínea  'b',  da  Lei  nº  2.423/1996-LOTCE/AM,  em  razão  das impropriedades1 e 3.1 não sanadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Mauro  Marcelo  Lima Freire, responsável  pelo Fundo  Especial  do  Corpo  de  Bombeiros Militar do Estado do Amazonas - FUNESBOM , Ordenador de Despesa no  período  de  04/10/2017  a  31/12/2017,  conforme  dispõe  o  Art.  22, inciso  III,  alínea  'b',  da  Lei  nº  2.423/1996-LOTCE/AM,  em  razão  das impropriedades1 e 3.1 não sanadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Aponta para deficiências nos controles internos que levaram a irregularidades na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº  2.423/1996-LOTCE/AM",
+              "artigo": "22, inciso  III,  alínea  'b'",
+              "descricao": "Julgamento de irregularidade em prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao  Sr. Mauro  Marcelo  Lima  Freire, Ordenador  de Despesas  do Fundo  Especial  do  Corpo  de  Bombeiros  Militar  do Estado do Amazonas-FUNESBOM , no período de 04/10/2017 a 31/12/2017, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais  e trinta  e  nove  centavos),  em  razão  de  ato  praticado  com grave infração à norma legal, nos termos do Art. 308, VI, da Resolução nº  04/2002-RITCE/AM  c/c  Art.  54,  VI,  da  Lei  n.º  2423/96-LOTCE/AM, pelos  fatos  e  fundamentos  apresentados  no Relatório/Voto  quanto  à permanência das impropriedades 1 e 3.1, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Sr. Mauro  Marcelo  Lima  Freire, Ordenador  de Despesas  do Fundo  Especial  do  Corpo  de  Bombeiros  Militar  do Estado do Amazonas-FUNESBOM , no período de 04/10/2017 a 31/12/2017, no valor de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais  e trinta  e  nove  centavos),  em  razão  de  ato  praticado  com grave infração à norma legal, nos termos do Art. 308, VI, da Resolução nº  04/2002-RITCE/AM  c/c  Art.  54,  VI,  da  Lei  n.º  2423/96-LOTCE/AM, pelos  fatos  e  fundamentos  apresentados  no Relatório/Voto  quanto  à permanência das impropriedades 1 e 3.1, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa decorre diretamente da identificação de irregularidades não sanadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº  04/2002-RITCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Sanções aplicáveis pelo TCE/AM."
+            },
+            {
+              "norma": "Lei  n.º  2423/96-LOTCE/AM",
+              "artigo": "54, VI",
+              "descricao": "Sanções aplicáveis pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Fernando Paiva Pires Junior ,  responsável  pelo Fundo  Especial  do  Corpo  de  Bombeiros Militar do Estado do Amazonas-FUNESBOM ,  Ordenador de Despesa no período de 23/02/2017 a 25/07/2017, nos termos do Art. 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM, em razão das impropriedades 1, 3.1, 3.2, 3.3 e 3.4 não sanadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  Sr. Fernando Paiva Pires Junior ,  responsável  pelo Fundo  Especial  do  Corpo  de  Bombeiros Militar do Estado do Amazonas-FUNESBOM ,  Ordenador de Despesa no período de 23/02/2017 a 25/07/2017, nos termos do Art. 22, inciso III, alínea 'b', da Lei nº 2.423/1996-LOTCE/AM, em razão das impropriedades 1, 3.1, 3.2, 3.3 e 3.4 não sanadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Aponta para deficiências nos controles internos que levaram a irregularidades na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LOTCE/AM",
+              "artigo": "22, inciso III, alínea 'b'",
+              "descricao": "Refere-se ao julgamento de irregularidade em prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao  Sr. Fernando  Paiva  Pires  Junior , Ordenador  de Despesas  do  Fundo Especial  do  Corpo  de  Bombeiros  Militar  do Estado  do Amazonas-FUNESBOM , no período de 23/02/2017 a 25/07/2017, no valor de R$15.000,00 , (quinze mil reais), em razão de ato praticado com grave infração à norma legal, nos termos do art. 308, VI, da Resolução nº 04/2002-RITCE/AM c/c art. 54, VI, da Lei n.º 2423/96LOTCE/AM, pelos fatos e fundamentos apresentados no Relatório-Voto quanto  à  permanência  das  impropriedades  1,  3.1,  3.2,  3.3  e  3.4,  que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  Sr. Fernando  Paiva  Pires  Junior , Ordenador  de Despesas  do  Fundo Especial  do  Corpo  de  Bombeiros  Militar  do Estado  do Amazonas-FUNESBOM , no período de 23/02/2017 a 25/07/2017, no valor de R$15.000,00 , (quinze mil reais), em razão de ato praticado com grave infração à norma legal, nos termos do art. 308, VI, da Resolução nº 04/2002-RITCE/AM c/c art. 54, VI, da Lei n.º 2423/96LOTCE/AM, pelos fatos e fundamentos apresentados no Relatório-Voto quanto  à  permanência  das  impropriedades  1,  3.1,  3.2,  3.3  e  3.4,  que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa decorre diretamente da identificação de irregularidades não sanadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-RITCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Refere-se às sanções aplicáveis pelo TCE/AM."
+            },
+            {
+              "norma": "Lei n.º 2423/96LOTCE/AM",
+              "artigo": "54, VI",
+              "descricao": "Refere-se às sanções aplicáveis pelo TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a Prestação  de  Contas  dos Srs. Fernando  Sergio Austregésilo  Luz e Carlos  Alberto  Freitas  Tupinambá ,  Ordenadores de Despesas do Fundo Especial do Corpo de Bombeiros Militar do Estado  do Amazonas-FUNESBOM , no período de 01/01/2017 a 22/02/2017 e 26/07/2017 a 03/10/2017, respectivamente, nos termos do Art. 22, inciso I, da Lei nº 2.423/1996-LOTCE/AM c/c o art. 188, §1º, I, da Resolução nº 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a Prestação  de  Contas  dos Srs. Fernando  Sergio Austregésilo  Luz e Carlos  Alberto  Freitas  Tupinambá ,  Ordenadores de Despesas do Fundo Especial do Corpo de Bombeiros Militar do Estado  do Amazonas-FUNESBOM , no período de 01/01/2017 a 22/02/2017 e 26/07/2017 a 03/10/2017, respectivamente, nos termos do Art. 22, inciso I, da Lei nº 2.423/1996-LOTCE/AM c/c o art. 188, §1º, I, da Resolução nº 04/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho descreve um julgamento formal de regularidade, não indicando problemas concretos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996-LOTCE/AM",
+              "artigo": "22, inciso I",
+              "descricao": "Refere-se ao julgamento de regularidade em prestações de contas."
+            },
+            {
+              "norma": "Resolução nº 04/02-TCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Refere-se ao julgamento de regularidade em prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar os  Srs. Mauro  Marcelo  Lima  Freire, Fernando  Paiva  Pires Júnior, Carlos Alberto Freitas Tupinambá e Fernando Sérgio Austregésilo  Luz ,  com  cópia  do  Relatório/Voto  e  Acórdão  para  que tome ciência do decisório",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar os  Srs. Mauro  Marcelo  Lima  Freire, Fernando  Paiva  Pires Júnior, Carlos Alberto Freitas Tupinambá e Fernando Sérgio Austregésilo  Luz ,  com  cópia  do  Relatório/Voto  e  Acórdão  para  que tome ciência do decisório",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho apresenta uma notificação, não indicando irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

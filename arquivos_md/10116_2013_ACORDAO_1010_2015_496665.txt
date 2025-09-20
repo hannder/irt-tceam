@@ -1,0 +1,195 @@
+{
+  "acordao": "1010/2015",
+  "processo": "10116/2013",
+  "data_sessao": "25 de novembro de 2015",
+  "orgao": "Câmara Municipal de Alvarães",
+  "municipio": "Alvarães",
+  "exercicio": "2012",
+  "responsavel": [
+    "Elvis Cleiton Barbosa Lavor"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregulares as Contas Anuais da Câmara Municipal de Alvarães, exercício de 2012, de responsabilidade do Sr. Elvis Cleiton Barbosa Lavor, VereadorPresidente e Ordenador de Despesa à época, nos termos do art. 22, III, 'b' e 'c', da Lei 2.423/96 c/c o art. 188, §1º, III, 'b' e 'c', da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregulares as Contas Anuais da Câmara Municipal de Alvarães, exercício  de  2012,  de  responsabilidade  do  Sr. Elvis  Cleiton  Barbosa  Lavor ,  VereadorPresidente e Ordenador  de Despesa à época, nos termos do art. 22,  III,  'b' e 'c', da Lei 2.423/96 c/c o art. 188, §1º, III, 'b' e 'c', da Resolução 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O trecho indica que as contas foram julgadas irregulares, o que implica descumprimento de normas e metas fiscais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Artigos que tratam das irregularidades passíveis de julgamento das contas anuais."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, §1º, III, 'b' e 'c'",
+              "descricao": "Artigos que tratam das irregularidades passíveis de julgamento das contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Julgar em alcance o responsável, nos moldes do art. 304, inciso VI, da Resolução n° 04/2002-RI/TCE, glosando o montante de R$ 42.667,75 (quarenta e dois mil, seiscentos e sessenta e sete reais e setenta e cinco centavos), atualizados monetariamente, com devolução aos cofres públicos em face da não regularização da despesa extra orçamentária na conta 'Créditos a Compensar', registrado no Balanço Financeiro",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar em alcance o responsável, nos moldes do art. 304, inciso VI, da Resolução n° 04/2002-RI/TCE, glosando o montante de R$ 42.667,75 (quarenta e dois mil, seiscentos e sessenta e sete reais e setenta e cinco centavos), atualizados monetariamente, com  devolução  aos  cofres  públicos  em  face  da  não  regularização  da  despesa  extra orçamentária na conta 'Créditos a Compensar', registrado no Balanço Financeiro",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A deliberação trata de alcance devido à não regularização de despesa extra orçamentária, indicando possível falta de licitação em casos obrigatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RI/TCE",
+              "artigo": "304, inciso VI",
+              "descricao": "Norma que trata do julgamento em alcance e da aplicação de glosas em decorrência de irregularidades financeiras."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multas ao responsável nos valores de: a) R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do art. 54, II, da Lei nº 2.423/96 c/c o art. 308, VI, da Resolução n° 04/02, em face da ausência de Controle Interno; b) R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do art. 54, III, da Lei n° 2.423/96 c/c o art. 308, V, da Resolução 4/2002, em face da burla ao disposto no art. 37 inciso XXI, da Constituição Republicana de 1988, c/c arts. 2º e 3º da Lei Nacional n° 8.666/93, configurando ato de gestão antieconômico",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multas ao responsável nos valores de: a)  R$  8.768,25 (oito  mil,  setecentos  e  sessenta  e  oito  reais  e  vinte  e cinco centavos), nos termos do art. 54, II, da Lei nº 2.423/96 c/c o art. 308,  VI,  da  Resolução  n°  04/02, em face da ausência de Controle Interno",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho indica aplicação de multa por ausência de controle interno, enquadrando-se na tipologia de não implementação do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Artigo que trata das multas aplicáveis em caso de irregularidades nas contas, especificamente por ausência de controle interno."
+            },
+            {
+              "norma": "Resolução n° 04/02",
+              "artigo": "308, VI",
+              "descricao": "Artigo que trata das multas aplicáveis em caso de irregularidades nas contas, especificamente por ausência de controle interno."
+            }
+          ]
+        },
+        {
+          "trecho": "Aplicar multas ao responsável nos valores de: b) R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do art. 54, III , da Lei n° 2.423/96 c/c o art. 308, V , da Resolução 4/2002, em face da burla ao disposto no art. 37 inciso XXI, da Constituição Republicana de 1988, c/c arts. 2º e 3º da Lei Nacional n° 8.666/93, configurando ato de gestão antieconômico",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Inexistência de licitação ou de processo de dispensa ou de inexigibilidade de licitação sem amparo legal",
+          "justificativa_tipologia": "A aplicação de multa é justificada pela burla ao art. 37, inciso XXI da CF/88 c/c arts. 2º e 3º da Lei nº 8.666/93, o que configura ausência de processo licitatório ou dispensa/inexigibilidade sem amparo legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Artigo que trata das multas aplicáveis em caso de dano ao erário decorrente de atos irregulares."
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, V",
+              "descricao": "Artigo que trata das multas aplicáveis em caso de dano ao erário decorrente de atos irregulares."
+            },
+            {
+              "norma": "Constituição Republicana de 1988",
+              "artigo": "37 inciso XXI",
+              "descricao": "Artigo que trata da obrigatoriedade de licitação para contratação de obras, serviços, compras e alienações pela Administração Pública."
+            },
+            {
+              "norma": "Lei Nacional n° 8.666/93",
+              "artigo": "2º",
+              "descricao": "Artigo que trata da obrigatoriedade de licitação para contratação de obras, serviços, compras e alienações pela Administração Pública."
+            },
+             {
+              "norma": "Lei Nacional n° 8.666/93",
+              "artigo": "3º",
+              "descricao": "Artigo que trata dos princípios da licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem: a) Que cumpra o estabelecido no parágrafo 1º, art. 15, da Lei Complementar nº 06, de 22/01/91, com nova redação dada pela Lei Complementar nº 24/2000, c/c o art. 4º da Resolução TCE nº 07/02, no que se refere ao prazo de encaminhamento dos balancetes; b) Que seja criado o Controle Interno conforme o determinado nos arts. 31 caput e caput 74 e incisos I, II, e IV, § 1º, da CF/88 e art. 76 caput da Lei nº 4.320/64; c) Que cumpra com rigor o estabelecido no Estatuto das Licitações",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  estabelecido  no parágrafo 1º, art. 15, da Lei Complementar  nº  06,  de  22/01/91,  com  nova  redação  dada  pela  Lei Complementar nº 24/2000, c/c o art. 4º da Resolução TCE nº 07/02, no que se refere ao prazo de encaminhamento dos balancetes",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho especifica que a determinação é para que se cumpra o prazo de encaminhamento dos balancetes, o que se relaciona diretamente com a entrega de balancetes mensais fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06",
+              "artigo": "15",
+              "descricao": "Artigo que trata do prazo de encaminhamento dos balancetes."
+            },
+            {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "Não consta",
+              "descricao": "Nova redação dada a Lei Complementar nº 06/91 sobre prazo de balancetes."
+            },
+            {
+              "norma": "Resolução TCE nº 07/02",
+              "artigo": "4º",
+              "descricao": "Artigo que trata do prazo de encaminhamento dos balancetes."
+            }
+          ]
+        },
+        {
+          "trecho": "Que seja criado o Controle Interno conforme o determinado nos arts. 31 caput e caput 74 e incisos I, II, e IV, § 1º, da CF/88 e art. 76 caput da Lei nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação é para que seja criado o controle interno, o que implica que atualmente ele não existe ou é insuficiente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "31 caput e caput 74 e incisos I, II, e IV, § 1º",
+              "descricao": "Artigos que tratam da obrigatoriedade de controle interno na administração pública."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "76 caput",
+              "descricao": "Artigo que trata da obrigatoriedade de controle interno na administração pública."
+            }
+          ]
+        },
+        {
+          "trecho": "Que cumpra com rigor o estabelecido no Estatuto das Licitações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1A",
+          "tipologia_irregularidade": "Inexistência de licitação ou de processo de dispensa ou de inexigibilidade de licitação sem amparo legal",
+          "descricao": "Descumprimento da legislação referente a licitações, contratos e dispensa.",
+          "justificativa_tipologia": "A determinação para cumprir com rigor o Estatuto das Licitações sugere que atualmente não há cumprimento adequado.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

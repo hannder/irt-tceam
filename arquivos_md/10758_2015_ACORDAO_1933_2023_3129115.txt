@@ -1,0 +1,53 @@
+{
+  "acordao": "1933/2023",
+  "processo": "10758/2015",
+  "data_sessao": "26 de setembro de 2023",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Antônio Adenilson Menezes Bonfim"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Conhecer dos Embargos de Declaração opostos pelo Sr. Antônio Adenilson Menezes Bonfim , por intermédio do seu Advogado Dr. Juarez Frazão Rodrigues Junior, OAB/AM nº 5851, no mérito, negar-lhe provimento, por ausência dos pressupostos exigidos no art. 148, (especificamente indicar no acordão qual teria sido o ponto obscuro, omisso ou contraditório) do RITCE/AM, mantendo-se na íntegra o Acórdão nº 1124 -2021- TCE - Tribunal Pleno (fls. 1403/1406) constante dos autos de nº 10758/2015.",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer dos Embargos de Declaração opostos pelo Sr. Antônio Adenilson Menezes Bonfim , por intermédio do seu Advogado Dr. Juarez Frazão Rodrigues Junior, OAB/AM nº 5851, no mérito, negar-lhe provimento, por ausência dos pressupostos exigidos no art. 148, (especificamente indicar no acordão qual teria sido o ponto obscuro, omisso ou contraditório) do RITCE/AM, mantendo-se na íntegra o Acórdão nº 1124 -2021- TCE - Tribunal Pleno (fls. 1403/1406) constante dos autos de nº 10758/2015.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho apresentado trata sobre o conhecimento do embargo de declaração portanto não se aplica a um tema de irregularidade a não ser como alerta.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE/AM",
+              "artigo": "148",
+              "descricao": "Dispositivo do RITCE/AM que trata dos pressupostos para provimento de Embargos de Declaração"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que oficie ao embargante sobre o teor do Acórdão, acompanhando Relatório e Voto para conhecimento.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que oficie ao embargante sobre o teor do Acórdão, acompanhando Relatório e Voto para conhecimento.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho apresentado não apresenta nenhuma irregularidade em si, e sim apenas uma determinação de ação",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

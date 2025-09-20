@@ -1,0 +1,43 @@
+{
+  "acordao": "36/2017",
+  "processo": "11726/2016",
+  "data_sessao": "31 de Janeiro de 2017",
+  "orgao": "Hospital Geral Dr.Geraldo da Rocha",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Ana Maria Belota de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  do Hospital Geral Dr. Geraldo da Rocha, exercício de 2015, de responsabilidade da Sra. Ana Maria Belota de Oliveira Diretora e Ordenadora  das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º da Lei 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a  Sra.  Ana  Maria Belota de Oliveira e ao atual Diretor do Órgão que: Observe com mais zelo a Lei de Licitações e Contratos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a  Sra.  Ana  Maria Belota de Oliveira e ao atual Diretor do Órgão que: Observe com a máxima urgência a Lei n. 12527/2011",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar a  Sra.  Ana  Maria Belota de Oliveira e ao atual Diretor do Órgão que: Adote medidas visando regular pendências de anos anteriores na reconciliação bancária",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste Acórdão a Sra. Ana Maria Belota de Oliveira",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  presente processo nos termos regimentais após o devido registro deste Acórdão.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "acordao": "568/2023",
+  "processo": "12208/2022",
+  "data_sessao": "28 de Março de 2023",
+  "orgao": "Companhia Humaitaense de Águas e Saneamento Básico-COHASB",
+  "municipio": "Humaitá",
+  "exercicio": "2021",
+  "responsavel": [
+    "Renan Castro Maia"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas da Companhia Humaitaense de Águas e Saneamento Básico-COHASB , exercício de 2021, de responsabilidade do Sr. Renan Castro Maia , na condição de Diretor e ordenador de despesas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em alcance o Sr. Renan Castro Maia , no valor de R$ 6.915,00 correspondentes aos bens sem comprovação documental, nem física (quais sejam: motocicleta Honda, ano 2009, modelo Biz 125KS, cor preta, no valor de R$ 6.565,00, e um HD externo 320GB, no valor de R$ 350,00, perfazendo R$ 6.915,00) e fixar prazo de 30 (trinta)  dias  para  que  o  responsável  recolha  o  valor  da  GLOSA, mencionado nas alíneas ‗c' e ‗d' do inc. III do art. 22, além da multa prevista  no  art. 53,  ambos  da  Lei  estadual  nº  2.423/96,  com condenação do ordenador em alcance, na esfera Municipal para o órgão Prefeitura Municipal de Humaitá.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em alcance o Sr. Renan Castro Maia , no valor de R$ 10.730,00  em  diárias  não  foi  acompanhadas  de  documentação comprobatórias (quais sejam: atos concessivos, provas de deslocamentos, relatórios de atividades), e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da GLOSA, mencionado   no  art.  22,  inc.  III,  alíneas  ‗c'  e  ‗d',  e  53  da  Lei estadual  nº  2.423/96,  na  esfera  Municipal  para  o  órgão  Prefeitura Municipal de Humaitá",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar multa ao Sr. Renan Castro Maia , no valor de R$ 13.654,39 e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, mencionado no art. 54, inc. VI, da Lei estadual n° 2.423/96, na  esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo FAECE'. Dentro  do  prazo  anteriormente  conferido,  é  obrigatório  o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo,  a  adotar  as  medidas  previstas  nas  subseções  III  e  IV  da Seção  III,  do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem como  proceder,  conforme  estabelecido  no  Acordo  de  Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil Seção Amazonas  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar multa o Sr. Renan Castro Maia , no valor de R$ 6.827,19 e fixar  prazo  de  30  dias  para  que  o  responsável  recolha  o  valor  da MULTA, mencionado no art. 54, inc. IV, da Lei estadual nº 2.423/96, na  esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo FAECE'. Dentro  do  prazo  anteriormente  conferido,  é  obrigatório  o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo,  a  adotar  as  medidas  previstas  nas  subseções  III  e  IV  da Seção  III,  do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem como  proceder,  conforme  estabelecido  no  Acordo  de  Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil Seção Amazonas  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar multa o Sr. Renan Castro Maia , no valor de R$ 3.413,60 e fixar  prazo  de  30  dias  para  que  o  responsável  recolha  o  valor  da MULTA,  mencionado  no  art.  54,  inciso  II,  da  Lei  nº  2.423/96,  na esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico  da  SEFAZ/AM,  sob  o  código  '5508  -  Multas  aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo FAECE'.  Dentro  do  prazo  anteriormente  conferido,  é  obrigatório  o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo,  a  adotar  as  medidas  previstas  nas  subseções  III  e  IV  da Seção  III,  do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem como  proceder,  conforme  estabelecido  no  Acordo  de  Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil Seção Amazonas  IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que, após o prazo fixado, em  caso  de  não  recolhimento  dos  valores  das  penas  pecuniárias impostas, proceda à instauração da cobrança executiva, nos termos do art. 173, do Regimento Interno do TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Renan Castro Maia , e aos demais interessados",
+      "trechos_identificados": []
+    }
+  ]
+}

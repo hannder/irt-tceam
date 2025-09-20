@@ -1,0 +1,91 @@
+{
+  "acordao": "645/2022",
+  "processo": "12370/2020",
+  "data_sessao": "4 de maio de 2022",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Maria do Perpétuo Socorro Sampaio Carvalho"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  regular  com  ressalvas a  prestação  de  contas  anual  da Sra. Maria do Perpétuo Socorro Sampaio Carvalho, Diretora-Presidente da Fundação Hospitalar de Hematologia e Hemoterapia do Amazonas (FHEMOAM), exercício 2019, nos termos do art. 22, inciso II, da Lei nº 2.423/1996-LOTCEAM,  em  razão  do  não  atendimento  à  diligência determinada por este Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "em  razão  do  não  atendimento  à  diligência determinada por este Tribunal",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O não atendimento à diligência demonstra falha no cumprimento das responsabilidades do Sistema de Controle Interno, especificamente na coleta e apresentação de informações solicitadas pelo Tribunal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "LOTCEAM - Lei Orgânica do TCE/AM. Este artigo estabelece as condições para julgamento das contas, e o não atendimento à diligência implica ressalva, indicando uma irregularidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa à Sra. Maria do Perpétuo Socorro Sampaio Carvalho no valor de R$3.413,49 (três mil, quatrocentos e treze reais e quarenta e  nove  centavos), nos  termos  do  art.  54,  inciso  II,  alínea  'a',  da  LOTCE/AM, em razão do não atendimento à diligência determinada por este Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "em razão do não atendimento à diligência determinada por este Tribunal",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O não atendimento à diligência, que culminou em multa, demonstra uma falha no cumprimento das responsabilidades do Sistema de Controle Interno, especificamente na coleta e apresentação de informações solicitadas pelo Tribunal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "54, inciso II, alínea 'a'",
+              "descricao": "LOTCE/AM - Lei Orgânica do TCE/AM. Este artigo estabelece as condições para aplicação de multas, e o não atendimento à diligência é passível de multa, indicando uma irregularidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "fixar prazo de 30 (trinta) dias para que o responsável recolha  o  valor  da  multa, na  esfera  Estadual  para  o  órgão  Fundo  de Apoio  ao  Exercício  do  Controle  Externo  -  FAECE,  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  (autenticado  pelo Banco)  a  esta  Corte  de  Contas (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o  DERED  autorizado,  caso  expirado  o  referido  prazo,  a  adotar  as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da  Resolução  nº  04/2002-TCE/AM,  bem  como  proceder,  conforme estabelecido  no  Acordo  de  Cooperação  firmado  com  o  Instituto  de Estudos  de  Protesto  de Títulos do Brasil -Seção  Amazonas  IEPTB/AM,  ao  encaminhamento  do  título  executivo  para  protesto  em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "é obrigatório o encaminhamento  do  comprovante  de  pagamento  (autenticado  pelo Banco)  a  esta  Corte  de  Contas (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação de encaminhar o comprovante de pagamento, embora não seja uma irregularidade em si, indica uma necessidade de normatização das rotinas internas para garantir o cumprimento das obrigações junto ao TCE/AM.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Este artigo estabelece as condições para emissão do Termo de Quitação, e o não envio do comprovante impede a emissão, indicando uma necessidade de normatização das rotinas internas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Dar  ciência deste decisum à Sra.  Maria  do  Perpetuo  Socorro Sampaio  Carvalho ,  Diretora-Presidente  da  Fundação  Hospitalar  de Hematologia  e  Hemoterapia  do  Amazonas  (FHEMOAM),  exercício 2019.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência deste decisum à Sra.  Maria  do  Perpetuo  Socorro Sampaio  Carvalho ,  Diretora-Presidente  da  Fundação  Hospitalar  de Hematologia  e  Hemoterapia  do  Amazonas  (FHEMOAM),  exercício 2019.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das Rotinas Internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação de dar ciência do decisum não é uma irregularidade em si, mas garante a ciência e conhecimento da decisão.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "acordao": "776/2023",
+  "processo": "11389/2022",
+  "data_sessao": "02 de Maio de 2023",
+  "orgao": "Câmara Municipal de Beruri",
+  "municipio": "Beruri",
+  "exercicio": "2021",
+  "responsavel": [
+    "Natan da Silva Saldanha"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. Natan da Silva Saldanha, na qualidade de Presidente da Câmara Municipal de Beruri, no exercício de 2021, com fundamento nos arts. 19, I, 22, II, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas) c/c os arts. 188, § 1º, II, da Resolução n.º 4/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas do Sr. Natan da Silva Saldanha, na qualidade de Presidente da Câmara Municipal de Beruri, no exercício de 2021, com fundamento nos arts. 19, I, 22, II, da Lei n.º 2.423/1996 (Lei Orgânica deste Tribunal de Contas) c/c os arts. 188, § 1º, II, da Resolução n.º 4/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho indica o julgamento das contas como regulares com ressalvas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "19, I, 22, II",
+              "descricao": "Lei Orgânica deste Tribunal de Contas"
+            },
+            {
+              "norma": "Resolução n.º 4/2002-TCE/AM",
+              "artigo": "188, § 1º, II",
+              "descricao": "Regulamento do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar multa",
+      "descricao": "Aplicar multa ao Sr. Natan da Silva Saldanha no valor de 3.000,00 (três mil reais), com fulcro no art. art. 54, VII, da Lei Estadual nº 2.423/1996, pela permanência das irregularidades de menor potencial ofensivas já tratadas nesta proposta de voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Natan da Silva Saldanha no valor de 3.000,00 (três mil reais), com fulcro no art. art. 54, VII, da Lei Estadual nº 2.423/1996, pela permanência das irregularidades de menor potencial ofensivas já tratadas nesta proposta de voto",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "A multa é aplicada devido à persistência de irregularidades, indicando um problema na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "54, VII",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Beruri que: Observe com maior cautela aos prazos de envio e publicação do Relatório de Gestão Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe com maior cautela aos prazos de envio e publicação do Relatório de Gestão Fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A recomendação para observar os prazos de envio e publicação do Relatório de Gestão Fiscal indica uma possível deficiência no cumprimento das obrigações fiscais, o que é relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Beruri que: Adote as providências necessárias à aperfeiçoar o controle interno do órgão",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote as providências necessárias à aperfeiçoar o controle interno do órgão",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para aperfeiçoar o controle interno do órgão indica uma deficiência estrutural na gestão, o que é relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Beruri que: Observe a necessidade de designação especial de servidor para fiscalizar o contrato, em estrita observância ao art. 67 da Lei 8666/1993 e às orientações do TCU (que veda a designação de membro da Comissão de Licitação para a função)",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe a necessidade de designação especial de servidor para fiscalizar o contrato, em estrita observância ao art. 67 da Lei 8666/1993 e às orientações do TCU (que veda a designação de membro da Comissão de Licitação para a função)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "justificativa_tipologia": "A recomendação para designar um servidor específico para fiscalizar o contrato, em observância ao art. 67 da Lei 8666/1993, sugere uma possível fragilidade na fiscalização de contratos, o que é relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/1993",
+              "artigo": "67",
+              "descricao": "Lei de Licitações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Dar ciência",
+      "descricao": "Dar ciência ao Sr.  Natan da Silva Saldanha sobre  o  deslinde  do feito, obedecendo à constituição de patrono",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr.  Natan da Silva Saldanha sobre  o  deslinde  do feito, obedecendo à constituição de patrono",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a dar ciência ao responsável sobre o deslinde do processo, o que não indica uma irregularidade ou problema estrutural.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

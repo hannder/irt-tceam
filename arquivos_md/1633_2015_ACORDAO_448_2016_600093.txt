@@ -1,0 +1,154 @@
+{
+  "acordao": "448/2016",
+  "processo": "1633/2015",
+  "data_sessao": "11 de Maio de 2016",
+  "orgao": "Programa Estadual de Proteção e Orientação do Consumidor- PROCON/AM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Silvana Miranda Corrêa",
+    "Janaína Sales Rodrigues"
+  ],
+  "itens": [
+    {
+      "tipo": "Decisão",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas da Sra. Silvana Miranda  Corrêa (01.01.2014  a  14.01.2014) e  da  Sra. Janaína  Sales  Rodrigues (14.01.2014  a  31.12.2014),  responsáveis  pelo  Departamento  do  Programa  Estadual  de Proteção ao Consumidor (exercício de 2014)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  multa a  Sra. Silvana Miranda Corrêa e  a  Sra. Janaína Sales Rodrigues , pelo não cumprimento do Acórdão nº 496/2014-TCE-TRIBUNAL PLENO, item 9.2.2, de 3 de setembro de 2014, no valor de R$ 2.192,06 (dois mil, cento e noventa e dois reais e seis centavos), nos moldes do art. 54, IV, da Lei n.º 2.423/96 e art. 308, I, a, da Resolução n.º 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa a  Sra. Silvana Miranda Corrêa e  a  Sra. Janaína Sales Rodrigues , pelo não cumprimento do Acórdão nº 496/2014-TCE-TRIBUNAL PLENO, item 9.2.2, de 3 de setembro de 2014, no valor de R$ 2.192,06 (dois mil, cento e noventa e dois reais e seis centavos), nos moldes do art. 54, IV, da Lei n.º 2.423/96 e art. 308, I, a, da Resolução n.º 04/02",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "A multa é aplicada devido ao não cumprimento de decisões anteriores do TCE, o que pode indicar problemas contínuos na gestão fiscal e orçamentária da entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Define as multas aplicáveis pelo Tribunal de Contas do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 04/02",
+              "artigo": "308, I, a",
+              "descricao": "Regulamenta os processos de Tomada de Contas no âmbito do TCE-AM, incluindo a aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  origem sob  pena  de  aplicação  de  multa  no  caso  de reincidência:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "o  pagamento  da  despesa  inscrita  em  resto  a  pagar,  referente  a 2008NE00022 no valor de R$ 566,92, cujo credor é a PRODAM",
+      "trechos_identificados": [
+        {
+          "trecho": "o  pagamento  da  despesa  inscrita  em  resto  a  pagar,  referente  a 2008NE00022 no valor de R$ 566,92, cujo credor é a PRODAM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "Restos a pagar pendentes indicam falhas na gestão orçamentária e financeira, afetando a transparência e o controle dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "a atual e próximas administrações do PROCON atentem para a obrigatoriedade  de  anexar  no  Sistema  e.Contas  todos  os  documentos  pertinentes  aos contratos e licitações celebrados",
+      "trechos_identificados": [
+        {
+          "trecho": "a atual e próximas administrações do PROCON atentem para a obrigatoriedade  de  anexar  no  Sistema  e.Contas  todos  os  documentos  pertinentes  aos contratos e licitações celebrados",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A ausência de documentos pertinentes aos contratos e licitações no Sistema e.Contas impede o acompanhamento adequado das atividades, prejudicando a transparência e o controle dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "seja dado  baixa  no  sistema  AFI  dos  adiantamentos  de  forma tempestiva, ou seja, até o dia 31 de março do seu ano subsequente",
+      "trechos_identificados": [
+        {
+          "trecho": "seja dado  baixa  no  sistema  AFI  dos  adiantamentos  de  forma tempestiva, ou seja, até o dia 31 de março do seu ano subsequente",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A8C",
+          "tipologia_irregularidade": "Escopo de auditoria interna insuficiente",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A falta de baixa tempestiva dos adiantamentos no sistema AFI dificulta o controle financeiro e a identificação de possíveis irregularidades, prejudicando a gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "informe todos os contratos e seus aditivos no sistema e.Contas, com todas as documentações pertinentes",
+      "trechos_identificados": [
+        {
+          "trecho": "informe todos os contratos e seus aditivos no sistema e.Contas, com todas as documentações pertinentes",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A falta de informação de contratos e aditivos impede o controle adequado e a transparência na gestão dos recursos públicos, e dificulta a fiscalização de licitações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Autorizar ,  desde já, a instauração da cobrança executiva no  caso de não recolhimento dos valores da condenação, conforme preceituado pelo art. 73, da Lei n.º 2.423/96 e arts. 169, II, 173 e 308, § 6º, todos da Resolução n.º 04/02-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Notificar as responsáveis , Sra. Silvana Miranda Corrêa (01.01.2014 a 14.01.2014)  e  Sra. Janaína  Sales  Rodrigues (14.01.2014  a  31.12.2014),  acerca  do desfecho dado a estes autos para que recolham, no prazo fixado, as sanções pecuniárias impostas.",
+      "trechos_identificados": []
+    }
+  ]
+}

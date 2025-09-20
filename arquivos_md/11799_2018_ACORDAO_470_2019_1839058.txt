@@ -1,0 +1,123 @@
+{
+  "acordao": "470/2019",
+  "processo": "11799/2018",
+  "data_sessao": "5 de Junho de 2019",
+  "orgao": "Fundação de Amparo à Pesquisa do Estado do Amazonas - FAPEAM",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "André de Santa Maria Binda"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. André de Santa Maria Binda , Ordenador de Despesas da Fundação de Amparo à Pesquisa  do  Estado  do  Amazonas  -  FAPEAM,  referente  ao  exercício 2017, nos termos do art. 22, inciso II, da Lei Estadual nº 2.423/1996 c/c art. 188, inciso II; §1º, inciso II, todos estes da Resolução nº 04/2002 RITCE/AM, quais sejam:\n- a.  descompasso  entre  os  registros  contábeis  e  as  disponibilidades  de caixa do órgão;\n- b. não apresentação da relação dos bens imóveis;",
+      "trechos_identificados": [
+        {
+          "trecho": "descompasso  entre  os  registros  contábeis  e  as  disponibilidades  de caixa do órgão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "O trecho descreve uma divergência entre os registros contábeis e as disponibilidades de caixa, indicando uma falha na conciliação bancária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Julgamento das contas com ressalvas"
+            },
+            {
+              "norma": "Resolução nº 04/2002 RITCE/AM",
+              "artigo": "188, inciso II; §1º, inciso II",
+              "descricao": "Julgamento das contas com ressalvas"
+            }
+          ]
+        },
+        {
+          "trecho": "não apresentação da relação dos bens imóveis",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "O trecho descreve a não apresentação da relação dos bens imóveis, indicando uma falha no controle patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Julgamento das contas com ressalvas"
+            },
+            {
+              "norma": "Resolução nº 04/2002 RITCE/AM",
+              "artigo": "188, inciso II; §1º, inciso II",
+              "descricao": "Julgamento das contas com ressalvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  André  de  Santa  Maria  Binda no  valor  de R$ 2.000,00 (dois mil reais), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Fundação  de  Amparo  a  Pesquisa  do  Estado  do Amazonas - FAPEAM que:\n- a)  Formalize  'Termo de Referência' e não 'Projeto Básico' quando for licitar na  modalidade  Pregão  Eletrônico,  nos  termos  do  Decreto  nº 5.450/05, art. 1º e 9º, §2º e art. 17 e 19, IN/SLTI nº 04/2010;\n- b) Indique os recursos orçamentários que assegurem o cumprimento das obrigações assumidas no exercício financeiro nos Termos de Referência e  nos  Projetos  Básicos,  nos  termos  do  Decreto  nº  5.450/05,  art.  30, inciso IV e Lei nº 8.666/39, art. 14, caput;",
+      "trechos_identificados": [
+        {
+          "trecho": "Formalize  'Termo de Referência' e não 'Projeto Básico' quando for licitar na  modalidade  Pregão  Eletrônico,  nos  termos  do  Decreto  nº 5.450/05, art. 1º e 9º, §2º e art. 17 e 19, IN/SLTI nº 04/2010",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "A recomendação para formalizar 'Termo de Referência' em vez de 'Projeto Básico' em pregões eletrônicos sugere uma possível falha no processo licitatório.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto nº 5.450/05",
+              "artigo": "1º e 9º, §2º",
+              "descricao": "Formalidades do pregão eletrônico"
+            },
+            {
+              "norma": "IN/SLTI nº 04/2010",
+              "artigo": "17 e 19",
+              "descricao": "Disposições sobre o Termo de Referência"
+            }
+          ]
+        },
+        {
+          "trecho": "Indique os recursos orçamentários que assegurem o cumprimento das obrigações assumidas no exercício financeiro nos Termos de Referência e  nos  Projetos  Básicos,  nos  termos  do  Decreto  nº  5.450/05,  art.  30, inciso IV e Lei nº 8.666/39, art. 14, caput",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "A recomendação para indicar recursos orçamentários nos Termos de Referência e Projetos Básicos indica uma possível deficiência no planejamento orçamentário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto nº 5.450/05",
+              "artigo": "30, inciso IV",
+              "descricao": "Requisitos para a elaboração do Termo de Referência"
+            },
+            {
+              "norma": "Lei nº 8.666/39",
+              "artigo": "14, caput",
+              "descricao": "Requisitos para a elaboração do Projeto Básico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à  FAPEAM  e  aos Srs.  René  Levy  Aguiar,  André  de Santa  Maria  Binda deste Acórdão, encaminhando-lhes  cópia  do presente decisum , bem  como  do  Laudo  Técnico e do Parecer Ministerial.",
+      "trechos_identificados": []
+    }
+  ]
+}

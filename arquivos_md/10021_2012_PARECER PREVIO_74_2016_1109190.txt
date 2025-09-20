@@ -1,0 +1,405 @@
+{
+  "acordao": "74/2016",
+  "processo": "10021/2012",
+  "data_sessao": "13 de Dezembro de 2016",
+  "orgao": "Prefeitura Municipal de Urucurituba",
+  "municipio": "Urucurituba",
+  "exercicio": "2011",
+  "responsavel": [
+    "Edivaldo Silva Araújo"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  exercício  de  2011  do Sr.Edivaldo Silva Araújo - Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  exercício  de  2011  do Sr.Edivaldo Silva Araújo - Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A deliberação descreve a irregularidade na prestação de contas, o que pode indicar uma falha na gestão dos recursos públicos. A ausência do Termo de Responsabilidade dos Bens Patrimoniais pode ser um sinal de possível desvio de recursos públicos, daí a classificação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos no âmbito estadual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos no âmbito estadual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos no âmbito estadual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos no âmbito estadual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos no âmbito estadual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "25",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos no âmbito estadual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$ 2.192,06 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308, I, 'b' da Resolução n. 04/2002  pelo  item  39  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.  O recolhimento deve ser feito no prazo de 30 dias (art. 72, III, alínea 'a' da Lei 2.423/96) com as devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c o art. 308, § 3º da Resolução TCE 04/02), ficando, desde já, autorizada a DICREX a adoção das medidas previstas no art. 175 da Resolução TCE 04/02.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$ 2.192,06 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308, I, 'b' da Resolução n. 04/2002  pelo  item  39  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A aplicação de multa indica uma não conformidade na gestão orçamentária ou financeira, como o pagamento de multas, o que justifica a classificação como gasto sem licitação e ausência de estudo técnico",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, I, 'b'",
+              "descricao": "Estabelece as multas aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72, III, alínea 'a'",
+              "descricao": "Define o prazo para recolhimento das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "308, § 3º",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Autoriza a DICREX a adotar medidas para cobrança das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao  Sr.  Edivaldo  Silva  Araújo  no  valor  de  R$13.152,36 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado  -  SEFAZ  com  fundamento  no  art.  308,  II do Regimento  Interno  do  TCE/AM,  pelos  itens  1  e  2  do  Relatório Conclusivo n. 48 - Dicami/CI. O recolhimento deve ser feito no prazo de 30  dias (art. 72, III, alínea  'a'  da  Lei  2.423/96)  com  as  devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c o art. 308, § 3º da Resolução  TCE  04/02),  ficando,  desde  já,  autorizada  a  DICREX  a adoção das medidas previstas no art. 175 da Resolução TCE 04/02.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao  Sr.  Edivaldo  Silva  Araújo  no  valor  de  R$13.152,36 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado  -  SEFAZ  com  fundamento  no  art.  308,  II do Regimento  Interno  do  TCE/AM,  pelos  itens  1  e  2  do  Relatório Conclusivo n. 48 - Dicami/CI.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A aplicação de multa indica uma não conformidade na gestão orçamentária ou financeira, como o pagamento de multas, o que justifica a classificação como gasto sem licitação e ausência de estudo técnico",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Estabelece as multas aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72, III, alínea 'a'",
+              "descricao": "Define o prazo para recolhimento das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "308, § 3º",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Autoriza a DICREX a adotar medidas para cobrança das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308,  VI da Resolução n. 04/2002 pelos itens 12, 13, 14, 16, 23, 26, 36, 37, 38, 40, 41, 42, 45, 46, 48,  53,  54,  55,  56,  57,  58  e  60  39 do  Relatório  Conclusivo  n.  48  Dicami/CI. O recolhimento deve ser feito no prazo de 30 dias (art. 72, III, alínea 'a' da Lei 2.423/96) com as devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c o art. 308, § 3º da Resolução TCE 04/02), ficando, desde  já, autorizada a DICREX  a  adoção  das  medidas previstas no art. 175 da Resolução TCE 04/02.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308,  VI da Resolução n. 04/2002 pelos itens 12, 13, 14, 16, 23, 26, 36, 37, 38, 40, 41, 42, 45, 46, 48,  53,  54,  55,  56,  57,  58  e  60  39 do  Relatório  Conclusivo  n.  48  Dicami/CI.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A aplicação de multa indica uma não conformidade na gestão orçamentária ou financeira, como o pagamento de multas, o que justifica a classificação como gasto sem licitação e ausência de estudo técnico",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Estabelece as multas aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72, III, alínea 'a'",
+              "descricao": "Define o prazo para recolhimento das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "308, § 3º",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Autoriza a DICREX a adotar medidas para cobrança das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308, V da Resolução n. 04/2002  pelo  item  17  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.  O recolhimento deve ser feito no prazo de 30 dias (art. 72, III, alínea 'a' da Lei 2.423/96) com as devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c o art. 308, § 3º da Resolução TCE 04/02), ficando, desde já, autorizada a DICREX a adoção das medidas previstas no art. 175 da Resolução TCE 04/02.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308, V da Resolução n. 04/2002  pelo  item  17  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A aplicação de multa indica uma não conformidade na gestão orçamentária ou financeira, como o pagamento de multas, o que justifica a classificação como gasto sem licitação e ausência de estudo técnico",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, V",
+              "descricao": "Estabelece as multas aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72, III, alínea 'a'",
+              "descricao": "Define o prazo para recolhimento das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "308, § 3º",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Autoriza a DICREX a adotar medidas para cobrança das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o  Sr.  Edivaldo  Silva  Araújo  no  valor  de R$4.819.186,85  que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Urucurituba com fundamento no art. 190, I  e  arts.  304  e  305  do  Regimento  Interno pelos  itens  13,  17  e  23  do Relatório Conclusivo n. 48 - Dicami/CI. O recolhimento deve ser feito no  prazo  de  30  dias (art.  72,  III,  alínea  'a'  da  Lei  2.423/96)  com  as devidas atualizações monetárias (art. 55 da Lei 2.423/96 c/c o art. 308, § 3º da Resolução TCE 04/02), ficando, desde já, autorizada a DICREX a adoção das medidas previstas no art. 175 da Resolução TCE 04/02.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o  Sr.  Edivaldo  Silva  Araújo  no  valor  de R$4.819.186,85  que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Urucurituba com fundamento no art. 190, I  e  arts.  304  e  305  do  Regimento  Interno pelos  itens  13,  17  e  23  do Relatório Conclusivo n. 48 - Dicami/CI.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A determinação de alcance e recolhimento de valores à prefeitura indica indícios de desvio de recursos ou pagamentos irregulares, o que se enquadra como supoto desvio de recursos",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "190, I",
+              "descricao": "Define as regras para alcance."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "304",
+              "descricao": "Define as regras para alcance."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "305",
+              "descricao": "Define as regras para alcance."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72, III, alínea 'a'",
+              "descricao": "Define o prazo para recolhimento das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "308, § 3º",
+              "descricao": "Define as regras para atualização monetária das multas aplicadas pelo Tribunal de Contas."
+            },
+            {
+              "norma": "Resolução TCE 04/02",
+              "artigo": "175",
+              "descricao": "Autoriza a DICREX a adotar medidas para cobrança das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que: a) Cumpra os prazos para remessa de dados eletronicamente quanto ao Sistema e-contas e Gefis; b)  Observe  o  correto  e  completo  preenchimento  das  informações  nos Sistemas deste TCE/AM; c) Observe com mais zelo a Lei de Licitações e Contratos. d) Evite a movimentação de grande volume de recursos financeiros em espécie; e) Observe com mais rigor as normas brasileiras de contabilidade quanto à correta escrituração e elaboração das demonstrações contábeis. f) Observe com maior rigor o que determina o art. 12 da Lei n. 4320/64; g) Zele pelo fiel registro das receitas tributárias municipais; h) Evite o registro patrimonial  de ativos em nome da própria prefeitura nas demonstrações contábeis. i) Proceda  a  instalação,  alimentação  e  manutenção  de  sistema  de controle de bens em estoque; j) Proceda  aos  repasses  das  retenções  previdenciárias  dentro  dos prazos definidos pela Secretaria da Receita Federal do Brasil.",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra os prazos para remessa de dados eletronicamente quanto ao Sistema e-contas e Gefis.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "O descumprimento dos prazos para remessa de dados eletrônicos (Sistema e-contas e Gefis) está relacionado a falhas nos processos de contabilização e registro de informações financeiras. A ausência ou atraso na atualização das contas de depreciação/amortização e exaustão no balanço patrimonial pode distorcer a real situação financeira da entidade e dificultar o controle.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Observe o correto e completo preenchimento das informações nos Sistemas deste TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O preenchimento incorreto ou incompleto das informações nos sistemas do TCE/AM indica uma falha na documentação dos controles internos da entidade. A ausência de documentação adequada dificulta a fiscalização e o acompanhamento da gestão pública, além de comprometer a transparência e a prestação de contas.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Observe com mais zelo a Lei de Licitações e Contratos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "A necessidade de observar com mais zelo a Lei de Licitações e Contratos indica uma falha na gestão dos processos licitatórios, como a ausência de pesquisa de preços de mercado e justificativa para a escolha do contratado. Essa falha pode levar a contratações irregulares e prejuízos aos cofres públicos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Evite a movimentação de grande volume de recursos financeiros em espécie.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "A movimentação de grande volume de recursos financeiros em espécie dificulta o rastreamento das transações e aumenta o risco de desvios e fraudes, o que indica uma falta de atividades de controle interno para transações financeiras.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Observe com mais rigor as normas brasileiras de contabilidade quanto à correta escrituração e elaboração das demonstrações contábeis.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A recomendação de observar com mais rigor as normas brasileiras de contabilidade indica uma falha na contabilização e registro de informações financeiras. A ausência de comprovação do valor registrado em contas contábeis pode distorcer a real situação financeira da entidade e dificultar o controle.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Observe com maior rigor o que determina o art. 12 da Lei n. 4320/64.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Art. 12 da Lei nº 4.320/64 trata da execução orçamentária e financeira, que envolve a arrecadação de receitas e a realização de despesas. A necessidade de observar com maior rigor esse dispositivo indica uma falha na gestão orçamentária e financeira, como a falta de adoção de medidas para cobrança de dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4320/64",
+              "artigo": "12",
+              "descricao": "A Lei nº 4.320/64 estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        },
+        {
+          "trecho": "Zele pelo fiel registro das receitas tributárias municipais.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A64B",
+          "tipologia_irregularidade": "Exercício da Competência Tributária - Instituição, previsão e efetiva arrecadação de todos os tributos da competência constitucional do ente não realizado",
+          "descricao": "Ente não exerceu e/ou não está exercendo sua competência tributária em relação à instituição, previsão e efetiva arrecadação do IPTU/ISS/ITBI.",
+          "justificativa_tipologia": "A recomendação de zelar pelo fiel registro das receitas tributárias municipais indica uma falha no controle das receitas, resultando na falta de informações sobre a arrecadação.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Evite o registro patrimonial  de ativos em nome da própria prefeitura nas demonstrações contábeis.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A recomendação de evitar o registro patrimonial de ativos em nome da própria prefeitura nas demonstrações contábeis indica a falta de elementos mínimos de caracterização dos bens, como a identificação dos responsáveis pela guarda e administração dos bens.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Proceda  a  instalação,  alimentação  e  manutenção  de  sistema  de controle de bens em estoque.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A ausência de um sistema de controle de bens em estoque indica falhas nos registros de entrada e saída dos objetos, o que dificulta o controle patrimonial.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Proceda  aos  repasses  das  retenções  previdenciárias  dentro  dos prazos definidos pela Secretaria da Receita Federal do Brasil.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A11B",
+          "tipologia_irregularidade": "Não efetivação do desconto de contrib

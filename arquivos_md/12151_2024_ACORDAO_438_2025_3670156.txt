@@ -1,0 +1,92 @@
+{
+  "acordao": "438/2025",
+  "processo": "12151/2024",
+  "data_sessao": "19 de Março de 2025",
+  "orgao": "Instituto Municipal de Trânsito e Transporte de Itacoatiara",
+  "municipio": "Itacoatiara",
+  "exercicio": "2023",
+  "responsavel": [
+    "Marcondes Aquino da Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regular a Prestação de Contas do Sr. Marcondes Aquino da Costa ,  Presidente  do  Instituto  Municipal  de  Trânsito  e  Transporte  de Itacoatiara no exercício de 2023, nos termos do inciso I do art. 22 da Lei Estadual n. 2423/1996, e inciso II do § 1º do art. 188 da Resolução n. 4/02 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Sr. Marcondes Aquino da Costa ,  Presidente  do  Instituto  Municipal  de  Trânsito  e  Transporte  de Itacoatiara no exercício de 2023, nos termos do inciso I do art. 22 da Lei Estadual n. 2423/1996, e inciso II do § 1º do art. 188 da Resolução n. 4/02 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O texto se refere ao julgamento das contas como regulares, sem apontar nenhuma falha ou inconsistencia nas contas julgadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2423/1996",
+              "artigo": "22",
+              "descricao": "Julgamento das contas como regulares."
+            },
+            {
+              "norma": "Resolução n. 4/02 - TCE/AM",
+              "artigo": "188",
+              "descricao": "Julgamento das contas como regulares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Instituto Municipal  de  Trânsito  e  Transporte  de Itacoatiara  -  IMTT,  que  cumpra  com  rigor  os  prazos  de  remessa  dos balancetes mensais, via Sistema  eContas, em  cumprimento  aos normativos legais desta Corte de Contas, sob pena de reincidência",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Instituto Municipal  de  Trânsito  e  Transporte  de Itacoatiara  -  IMTT,  que  cumpra  com  rigor  os  prazos  de  remessa  dos balancetes mensais, via Sistema  eContas, em  cumprimento  aos normativos legais desta Corte de Contas, sob pena de reincidência",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de cumprimento dos prazos de remessa, o que indica um problema recorrente no envio dos documentos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao  Sr. Marcondes  Aquino  da  Costa e  os  demais interessados no processo",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao  Sr. Marcondes  Aquino  da  Costa e  os  demais interessados no processo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A2B",
+          "tipologia_irregularidade": "O site de transparência do órgão não observar as recomendações do Modelo de Acessibilidade em Governo Eletrônico (e-MAG)",
+          "descricao": "O site de transparência do órgão não observar as recomendações do Modelo de Acessibilidade em Governo Eletrônico",
+          "justificativa_tipologia": "O termo "  
+    , "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "Arquivar o processo após cumprimento de decisão.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo após cumprimento de decisão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O texto se refere ao arquivamento do processo após o cumprimento da decisão, nao se refere a nenhuma irregularidade ou problema na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

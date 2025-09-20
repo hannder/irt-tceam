@@ -1,0 +1,200 @@
+{
+  "acordao": "577/2017",
+  "processo": "11571/2016",
+  "data_sessao": "30 de Maio de 2017",
+  "orgao": "Fundação Hospital Adriano Jorge - FHAJ",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Alexandre Bichara da Cunha"
+  ],
+  "itens": [
+    {
+      "tipo": "Regular com Ressalvas",
+      "descricao": "Julgar  Regular  com  Ressalvas a Prestação  de  Contas do Senhor Alexandre Bichara da Cunha, Diretor-Presidente da FHAJ e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 -  LOTCE;  artigo  18,  inciso  II,  da  Lei  Complementar  nº. 06/1991;  c/c  o  artigo  188,  §1º,  inciso  II,  da  Resolução  nº. 04/2002 - RITCE, a Prestação de Contas Anual, referente ao exercício  de  2015,  da  Fundação  Hospital  Adriano  Jorge  FHAJ;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalvas a Prestação  de  Contas do Senhor Alexandre Bichara da Cunha, Diretor-Presidente da FHAJ e Ordenador de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 -  LOTCE;  artigo  18,  inciso  II,  da  Lei  Complementar  nº. 06/1991;  c/c  o  artigo  188,  §1º,  inciso  II,  da  Resolução  nº. 04/2002 - RITCE, a Prestação de Contas Anual, referente ao exercício  de  2015,  da  Fundação  Hospital  Adriano  Jorge  FHAJ;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares com ressalvas, o que não indica necessariamente uma irregularidade grave, mas aponta para a necessidade de atenção aos aspectos ressalvados. A emissão de um julgamento formal da prestação de contas com ressalvas em si não indica um problema crônico, estrutural ou recorrente na gestão pública, mas sim um procedimento padrão do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "Lei nº. 2423/1996 -  LOTCE"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Lei nº. 2423/1996 -  LOTCE"
+            },
+            {
+              "norma": "Lei  Complementar  nº. 06/1991",
+              "artigo": "18, inciso  II",
+              "descricao": "Lei  Complementar  nº. 06/1991"
+            },
+            {
+              "norma": "Resolução  nº. 04/2002",
+              "artigo": "188,  §1º,  inciso  II",
+              "descricao": "Resolução  nº. 04/2002 - RITCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que: encaminhe  à  atual  administração  da Fundação  Hospital Adriano  Jorge  -  FHAJ,  cópias  das  peças  emitidas  pela Comissão de Inspeção e pelo Representante Ministerial, visando evitar o cometimento das mesmas impropriedades  em  Prestação  de  Contas  futuras;  Arquive os Processos apensos a estes autos (Processo nº. 12043/2016 e Processo nº. 11018/2017), tendo em vista que já  foram objeto de análise no processo principal, analisado em questão. Bem como, arquive o Processo nº. 10873/2017, o qual já foi julgado, conforme Acórdão nº. 1006/2016 - TCE -  Tribunal  Pleno. Após  a  ocorrência  da  coisa  julgada,  nos termos  dos  artigos  159  e  160,  da  Resolução  nº.  04/2002, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que: encaminhe  à  atual  administração  da Fundação  Hospital Adriano  Jorge  -  FHAJ,  cópias  das  peças  emitidas  pela Comissão de Inspeção e pelo Representante Ministerial, visando evitar o cometimento das mesmas impropriedades  em  Prestação  de  Contas  futuras;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve uma ação corretiva para evitar a reincidência de impropriedades, o que implica que o controle interno pode ser aprimorado. O índice de reincidência proposto (relevante_para_indice) busca mapear tanto falhas já consumadas (irregularidades) quanto deficiências estruturais persistentes (detectadas em recomendações e determinações). Portanto, relevante_para_indice == true indica que o trecho é potencialmente útil para monitorar problemas crônicos na gestão pública, independentemente da existência formal de uma infração.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Arquive os Processos apensos a estes autos (Processo nº. 12043/2016 e Processo nº. 11018/2017), tendo em vista que já  foram objeto de análise no processo principal, analisado em questão.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Esta determinação é um procedimento interno do Tribunal de Contas e não indica, por si só, uma deficiência na gestão ou controle interno do órgão fiscalizado.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Bem como, arquive o Processo nº. 10873/2017, o qual já foi julgado, conforme Acórdão nº. 1006/2016 - TCE -  Tribunal  Pleno.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Esta determinação é um procedimento interno do Tribunal de Contas e não indica, por si só, uma deficiência na gestão ou controle interno do órgão fiscalizado.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Após  a  ocorrência  da  coisa  julgada,  nos termos  dos  artigos  159  e  160,  da  Resolução  nº.  04/2002, adote as providências do artigo 162, §1º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Esta determinação é um procedimento interno do Tribunal de Contas e não indica, por si só, uma deficiência na gestão ou controle interno do órgão fiscalizado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  nº.  04/2002",
+              "artigo": "159",
+              "descricao": "Resolução  nº.  04/2002 - RITCE"
+            },
+            {
+              "norma": "Resolução  nº.  04/2002",
+              "artigo": "160",
+              "descricao": "Resolução  nº.  04/2002 - RITCE"
+            },
+            {
+              "norma": "Resolução  nº.  04/2002",
+              "artigo": "162, §1º",
+              "descricao": "Resolução  nº.  04/2002 - RITCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Senhor Alexandre Bichara da Cunha no valor de 2.000,00 (dois mil reais), nos termos do parágrafo  único,  do  artigo  53, da  Lei nº. 2423/1996  LOTCE/AM,  valor  atualizado  pela  Resolução  nº.  25/2012, pelas  impropriedades  constantes  nos  itens  1.2  e  03  do Relatório Conclusivo nº. 45/2016 -DICAI/AM, às fls. 839/860, bem como o item 05 da Informação Conclusiva nº. 54/2017, às  fls. 986/991, que  devem  ser  recolhidos  na esfera Estadual para o órgão Encargos Gerais do Estado  SEFAZ por descumprimento de/pelas improbidades apontadas.  O  recolhimento  deve  ser  feito  no  prazo  de  30 dias",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Senhor Alexandre Bichara da Cunha no valor de 2.000,00 (dois mil reais), nos termos do parágrafo  único,  do  artigo  53, da  Lei nº. 2423/1996  LOTCE/AM,  valor  atualizado  pela  Resolução  nº.  25/2012, pelas  impropriedades  constantes  nos  itens  1.2  e  03  do Relatório Conclusivo nº. 45/2016 -DICAI/AM, às fls. 839/860, bem como o item 05 da Informação Conclusiva nº. 54/2017, às  fls. 986/991, que  devem  ser  recolhidos  na esfera Estadual para o órgão Encargos Gerais do Estado  SEFAZ por descumprimento de/pelas improbidades apontadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa indica que houve falhas nos controles internos ou descumprimento de normas, o que demonstra uma deficiência estrutural que pode levar a outras irregularidades se não for corrigida.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "53",
+              "descricao": "Lei nº. 2423/1996  LOTCE/AM"
+            },
+            {
+              "norma": "Resolução  nº.  25/2012",
+              "artigo": "N/A",
+              "descricao": "valor  atualizado  pela  Resolução  nº.  25/2012"
+            }
+          ]
+        },
+        {
+          "trecho": "O  recolhimento  deve  ser  feito  no  prazo  de  30 dias",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O estabelecimento de um prazo para o recolhimento da multa é uma formalidade administrativa e não tem impacto direto na avaliação da gestão ou controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Alexandre Bichara  da  Cunha no valor de 1.096,03 (mil e noventa  e  seis reais e três centavos), na  forma  prevista  no  artigo  308,  inciso  II,  da Resolução nº. 04/2002 - RITCE, alterada pela Resolução nº. 25/2012, correspondente ao mês de competência (dezembro  do  exercício  de  2015),  relativo  aos  dados  e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas, fora do prazo fixado no art. 4.º da Res. nº. 10/2012 - TCE/AM, que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ por  descumprimento  de/pelas  improbidades  apontadas.  O recolhimento deve ser feito no prazo de 30 dias.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Alexandre Bichara  da  Cunha no valor de 1.096,03 (mil e noventa  e  seis reais e três centavos), na  forma  prevista  no  artigo  308,  inciso  II,  da Resolução nº. 04/2002 - RITCE, alterada pela Resolução nº. 25/2012, correspondente ao mês de competência (dezembro  do  exercício  de  2015),  relativo  aos  dados  e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas, fora do prazo fixado no art. 4.º da Res. nº. 10/2012 - TCE/AM, que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ por  descumprimento de/pelas improbidades apontadas.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A aplicação de multa por envio de balancetes fora do prazo indica uma falha na gestão documental e no cumprimento de prazos legais, o que pode comprometer a transparência e o controle das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "308,  inciso  II",
+              "descricao": "Resolução nº. 04/2002 - RITCE"
+            },
+            {
+              "norma": "Resolução nº. 25/2012",
+              "artigo": "N/A",
+              "descricao": "Resolução nº. 25/2012"
+            },
+            {
+              "norma": "Res. nº. 10/2012",
+              "artigo": "4.º",
+              "descricao": "Res. nº. 10/2012 - TCE/AM"
+            }
+          ]
+        },
+        {
+          "trecho": "O recolhimento deve ser feito no prazo de 30 dias.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A definição de um prazo para o recolhimento da multa é uma formalidade administrativa e não tem impacto direto na avaliação da gestão ou controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

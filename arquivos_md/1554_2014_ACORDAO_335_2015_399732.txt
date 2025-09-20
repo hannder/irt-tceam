@@ -1,0 +1,137 @@
+{
+  "acordao": "335/2014",
+  "processo": "1554/2014",
+  "data_sessao": "27 de maio de 2015",
+  "orgao": "Instituto da Mulher Dona Lindu",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Agnaldo Gomes da Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Regular com Ressalvas as Contas",
+      "descricao": "Julgar Regular com Ressalvas as Contas do Instituto da Mulher Dona Lindu , referente ao exercício financeiro de 2013, de responsabilidade do Senhor Agnaldo Gomes da Costa, Diretor Geral, na forma do art 22, ll da Lei n. 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas as Contas do Instituto da Mulher Dona Lindu , referente ao exercício financeiro de 2013, de responsabilidade do Senhor Agnaldo Gomes da Costa, Diretor Geral, na forma do art 22, ll da Lei n. 2.423/96",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição não apresenta inconformidades contábeis, apenas o julgamento das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "22",
+              "descricao": "Julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Instituto  da  Mulher  Dona  Lindu,  na  pessoa  de  seu representante, que observe ao que dispõem o art. 10, inciso lll, da Lei n. 2.423/96 e da Lei n.  8.666/93,  especialmente  no  art.  24,  II  a  Lei  n.  8.666/93,  no  sentido  de  providenciar relatório  e  certificado  do  Controle  Interno  do  órgão  para  as  próximas  Prestações  de Contas e evitar fracionamentos de despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Instituto  da  Mulher  Dona  Lindu,  na  pessoa  de  seu representante, que observe ao que dispõem o art. 10, inciso lll, da Lei n. 2.423/96 e da Lei n.  8.666/93,  especialmente  no  art.  24,  II  a  Lei  n.  8.666/93,  no  sentido  de  providenciar relatório  e  certificado  do  Controle  Interno  do  órgão  para  as  próximas  Prestações  de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação visa garantir a documentação adequada dos controles internos, o que é crucial para a transparência e a boa gestão, e evitar problemas recorrentes de falta de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "10",
+              "descricao": "Obrigatoriedade de relatório e certificado de controle interno."
+            },
+            {
+              "norma": "Lei n. 8.666/93",
+              "artigo": "24",
+              "descricao": "Dispensa de licitação."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar ao  Instituto  da  Mulher  Dona  Lindu,  na  pessoa  de  seu representante, que observe ao que dispõem o art. 10, inciso lll, da Lei n. 2.423/96 e da Lei n.  8.666/93,  especialmente  no  art.  24,  II  a  Lei  n.  8.666/93,  no  sentido  de  evitar fracionamentos de despesas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A recomendação foca em evitar o fracionamento de despesas, uma prática que compromete a transparência e a competitividade nos processos de contratação.  A relevância para o índice justifica-se pela necessidade de monitorar e corrigir falhas que podem levar a irregularidades em licitações e contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "10",
+              "descricao": "Obrigatoriedade de relatório e certificado de controle interno."
+            },
+            {
+              "norma": "Lei n. 8.666/93",
+              "artigo": "24",
+              "descricao": "Dispensa de licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar que  o  Governo  do  Estado  do  Amazonas  obtenha  da Controladoria  Geral  do  Estado  um  plano  para  sua  reorganização  e  adequação  às necessidades  de  exercício  do  controle  interno  constitucional  das  unidades  do  Poder Executivo, de modo que um arcabouço normativo adequado e os meios administrativos necessários sejam providos para este fim",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar que  o  Governo  do  Estado  do  Amazonas  obtenha  da Controladoria  Geral  do  Estado  um  plano  para  sua  reorganização  e  adequação  às necessidades  de  exercício  do  controle  interno  constitucional  das  unidades  do  Poder Executivo, de modo que um arcabouço normativo adequado e os meios administrativos necessários sejam providos para este fim",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação visa garantir a implementação e estruturação adequadas do controle interno, corrigindo deficiências que podem comprometer a gestão e a fiscalização. Por isso é relevante para o índice.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40",
+              "descricao": "Competência do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao responsável, nos termos do art. 24, da Lei Estadual n. 2423/96, c/c art. 189, II, da Resolução n. 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao responsável, nos termos do art. 24, da Lei Estadual n. 2423/96, c/c art. 189, II, da Resolução n. 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A descrição se refere a quitação do responsável, não apresentando inconformidades contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2423/96",
+              "artigo": "24",
+              "descricao": "Quitação ao responsável."
+            },
+            {
+              "norma": "Resolução n. 04/2002-TCE/AM",
+              "artigo": "189",
+              "descricao": "Quitação ao responsável."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

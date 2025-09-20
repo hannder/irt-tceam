@@ -1,0 +1,191 @@
+{
+  "acordao": "477/2022",
+  "processo": "11732/2021",
+  "data_sessao": "2022-04-06",
+  "orgao": "Hospital Infantil Dr. Fajardo",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Aly Nasser Abrahim Ballut"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  da  Unidade  Gestora Hospital  Infantil  Dr.  Fajardo,  de  responsabilidade  do Sr.  Aly  Nasser Abrahim  Ballut ,  referente  ao  exercício  de  2020,  nos  termos  do  art. 188, §1º, I, da Resolução nº 04/2002- RITCE/AM, c/c art. 22, I, da Lei nº 2423/96-LOTCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  da  Unidade  Gestora Hospital  Infantil  Dr.  Fajardo,  de  responsabilidade  do Sr.  Aly  Nasser Abrahim  Ballut ,  referente  ao  exercício  de  2020,  nos  termos  do  art. 188, §1º, I, da Resolução nº 04/2002- RITCE/AM, c/c art. 22, I, da Lei nº 2423/96-LOTCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares, sem indicar irregularidades na contabilidade, apenas o julgamento formal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002- RITCE/AM",
+              "artigo": "188, §1º, I",
+              "descricao": "Julgamento das contas como regulares."
+            },
+            {
+              "norma": "Lei nº 2423/96-LOTCE/AM",
+              "artigo": "22, I",
+              "descricao": "Lei Orgânica do TCE/AM que estabelece os critérios para o julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar  quitação ao Sr.  Aly  Nasser  Abrahim  Ballut ,  de  conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr.  Aly  Nasser  Abrahim  Ballut ,  de  conformidade com os arts. 23 e 72, I, ambos da Lei nº 2.423/1996, c/c art. 189, I, da Resolução nº 02/2002 TCE-AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica a ação de dar quitação ao responsável, não apontando irregularidades mas sim o resultado formal do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "23",
+              "descricao": "Lei Orgânica do TCE/AM que estabelece a quitação como consequência do julgamento regular das contas."
+            },
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "72, I",
+              "descricao": "Lei Orgânica do TCE/AM que estabelece a quitação como consequência do julgamento regular das contas."
+            },
+            {
+              "norma": "Resolução nº 02/2002 TCE-AM",
+              "artigo": "189, I",
+              "descricao": "Regulamento Interno do TCE-AM que trata da quitação em prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Adotar as medidas necessárias para evitar a inobservância dos arts. 92 e 94 da Lei nº 4.320/64 nos ajustes vindouros",
+      "trechos_identificados": [
+        {
+          "trecho": "Adotar as medidas necessárias para evitar a inobservância dos arts. 92 e 94 da Lei nº 4.320/64 nos ajustes vindouros",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A determinação indica uma deficiência na observância de normas contábeis, relacionada ao registro e controle patrimonial, justificando a classificação no tema de Contabilidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "92",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observar  e  cumprir  as  exigências  de  processo  licitatório,  nos termos dos arts. 2º, 24, 25 e 26, da Lei Federal nº 8.666/93, adotando um planejamento de suas necessidades, a fim de evitar o fracionamento  de  despesa,  sob  pena  de  multa  por  reincidência  nos termos do art. 308, IV, alínea 'b', do RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Observar  e  cumprir  as  exigências  de  processo  licitatório,  nos termos dos arts. 2º, 24, 25 e 26, da Lei Federal nº 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "A determinação para observar os requisitos do processo licitatório, conforme os artigos da Lei nº 8.666/93, está diretamente relacionada ao tema de Licitações e Contratos, pois visa garantir a legalidade e transparência nas contratações públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "2º",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos administrativos."
+            },
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "24",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos administrativos."
+            },
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "25",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos administrativos."
+            },
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "26",
+              "descricao": "Dispõe sobre normas gerais para licitações e contratos administrativos."
+            }
+          ]
+        },
+        {
+          "trecho": "Adotando um planejamento de suas necessidades, a fim de evitar o fracionamento  de  despesa,  sob  pena  de  multa  por  reincidência  nos termos do art. 308, IV, alínea 'b', do RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A determinação para evitar o fracionamento de despesas está diretamente relacionada ao tema de Licitações e Contratos, pois visa garantir a legalidade e transparência nas contratações públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE/AM",
+              "artigo": "308, IV, alínea 'b'",
+              "descricao": "Regimento Interno do TCE/AM que trata da multa por reincidência em irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Aly  Nasser  Abrahim  Ballut ,  sobre  o  teor  desta Decisão, com cópia do Relatório-Voto e do respectivo Acórdão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Aly  Nasser  Abrahim  Ballut ,  sobre  o  teor  desta Decisão, com cópia do Relatório-Voto e do respectivo Acórdão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica a ciência do responsável sobre a decisão, sendo um procedimento formal sem indicação de irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  presente  processo,  após  cumpridas  as  determinações acima.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  presente  processo,  após  cumpridas  as  determinações acima.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica a ação de arquivar o processo após o cumprimento das determinações, sendo um procedimento formal sem indicação de irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

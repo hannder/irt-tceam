@@ -1,0 +1,97 @@
+{
+  "acordao": "078/2013",
+  "processo": "2305/2013",
+  "data_sessao": "30 de outubro de 2013",
+  "orgao": "Secretaria Municipal de Administração e Coordenação dos Bairros-SEMAC-PMM",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Carlos Antônio de´ Carli Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "JULGAR REGULAR, COM RESSALVAS",
+      "descricao": "JULGAR REGULAR, COM RESSALVAS ,  com arrimo nos artigos 1º,  II, 22, II da Lei 2423/1996 (LOTCE) e artigos 188, § 1º, II, da Resolução 04/2002 (RITCE), a Prestação  de  Contas,  referente  ao  exercício  de  2012,  da  Secretaria Municipal  de Administração  e  Coordenação  dos  Bairros  -  SEMAC  -  de  responsabilidade  do  Senhor Carlos Antonio de´Carli Filho, Secretário Municipal e Ordenador de Despesas à época",
+      "trechos_identificados": [
+        {
+          "trecho": "JULGAR REGULAR, COM RESSALVAS ,  com arrimo nos artigos 1º,  II, 22, II da Lei 2423/1996 (LOTCE) e artigos 188, § 1º, II, da Resolução 04/2002 (RITCE), a Prestação  de  Contas,  referente  ao  exercício  de  2012,  da  Secretaria Municipal  de Administração  e  Coordenação  dos  Bairros  -  SEMAC  -  de  responsabilidade  do  Senhor Carlos Antonio de´Carli Filho, Secretário Municipal e Ordenador de Despesas à época",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A tipologia é adequada porque, apesar do julgamento regular com ressalvas, a ausência de informações detalhadas nas notas explicativas é uma deficiência contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "1º, II, 22, II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução 04/2002",
+              "artigo": "188, § 1º, II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DAR QUITAÇÃO",
+      "descricao": "DAR  QUITAÇÃO ao  Responsável,  Senhor Carlos  Antonio  de´Carli Filho, nos  termos  do  art.  24  e  art.  72,  inciso  II,  da  Lei  2423/1996  e  Art.  189,  II,  da Resolução nº 04, de 23 de maio de 2002)",
+      "trechos_identificados": [
+        {
+          "trecho": "DAR  QUITAÇÃO ao  Responsável,  Senhor Carlos  Antonio  de´Carli Filho, nos  termos  do  art.  24  e  art.  72,  inciso  II,  da  Lei  2423/1996  e  Art.  189,  II,  da Resolução nº 04, de 23 de maio de 2002)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Ainda que o responsável receba quitação, a necessidade de notas explicativas claras é fundamental para a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº 04",
+              "artigo": "189, II",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "DETERMINAR à Secretaria do Tribunal Pleno que dê cumprimento ao art. 162, § 1º, da Resolução nº 04, de 23 de maio de 2002, inclusive remetendo ao Chefe do Poder  Executivo  do  Município  de  Manaus,  ao  Secretário  Municipal  de  Economia  e Finanças e à atual Secretária de Assistência Social e Direitos Humanos, cópias autênticas do Relatório Conclusivo da Comissão de Inspeção (fls. 179/205), do Parecer  Ministerial (fls.  207/213) para  que  tomem  conhecimento  das  impropriedades  detectadas  naqueles documentos e possam determinar aos demais órgãos da administração do Município de Manaus, que evitem incidir nas mesmas falhas em suas prestações de contas futuras.",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR à Secretaria do Tribunal Pleno que dê cumprimento ao art. 162, § 1º, da Resolução nº 04, de 23 de maio de 2002, inclusive remetendo ao Chefe do Poder  Executivo  do  Município  de  Manaus,  ao  Secretário  Municipal  de  Economia  e Finanças e à atual Secretária de Assistência Social e Direitos Humanos, cópias autênticas do Relatório Conclusivo da Comissão de Inspeção (fls. 179/205), do Parecer  Ministerial (fls.  207/213) para  que  tomem  conhecimento  das  impropriedades  detectadas  naqueles documentos e possam determinar aos demais órgãos da administração do Município de Manaus, que evitem incidir nas mesmas falhas em suas prestações de contas futuras.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "A determinação indica a necessidade de fortalecer o controle interno para evitar futuras falhas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04",
+              "artigo": "162, § 1º",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

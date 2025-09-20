@@ -1,0 +1,99 @@
+{
+    "acordao": "2056/2023",
+    "processo": "11617/2023",
+    "data_sessao": "03 de Outubro de 2023",
+    "orgao": "INSTITUTO DE DEFESA DO CONSUMIDOR-PROCON/AM",
+    "municipio": "Manaus",
+    "exercicio": "2022",
+    "responsavel": [
+        "Jalil Fraxe Campos"
+    ],
+    "itens": [
+        {
+            "tipo": "irregularidade",
+            "descricao": "cuja composição atual é inteiramente constituída de ocupantes de cargo comissionado",
+            "trechos_identificados": [
+                {
+                    "trecho": "cuja composição atual é inteiramente constituída de ocupantes de cargo comissionado",
+                    "tema_irregularidade": "CONTROLE INTERNO",
+                    "codigo_irregularidade": "T1A12B",
+                    "tipologia_irregularidade": "Não encaminhamento do Plano de Providências ao Órgão de Controle Interno",
+                    "descricao": "Excesso de cargos comissionados",
+                    "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O trecho explicita o excesso de cargos comissionados, o que dificulta o controle interno e o cumprimento do plano de providências.\"",
+                    "fundamentacao_legal": []
+                }
+            ]
+        },
+        {
+            "tipo": "determinacao",
+            "descricao": "Determinar ao PROCON/AM que adote as medidas necessárias para atualizar o Portal da Instituição com todas as informações acerca dos pagamentos  de  despesas,  das  licitações  realizadas  e  dos  contratos celebrados",
+            "trechos_identificados": [
+                {
+                    "trecho": "Determinar ao PROCON/AM que adote as medidas necessárias para atualizar o Portal da Instituição com todas as informações acerca dos pagamentos  de  despesas,  das  licitações  realizadas  e  dos  contratos celebrados",
+                    "tema_irregularidade": "TRANSPARÊNCIA",
+                    "codigo_irregularidade": "T14A1B",
+                    "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+                    "descricao": "Ausência de divulgação de publicações no site Transparência",
+                    "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação explicita a necessidade de melhorar a transparência das informações no portal da instituição.\"",
+                    "fundamentacao_legal": []
+                }
+            ]
+        },
+        {
+            "tipo": "determinacao",
+            "descricao": "Determinar ao PROCON/AM que  realize  a  revisão  do  quadro  de  pessoal  do PROCON/AM,  cuja  composição  atual  é  inteiramente  constituída  de ocupantes de cargo comissionado",
+            "trechos_identificados": [
+                {
+                    "trecho": "realize  a  revisão  do  quadro  de  pessoal  do PROCON/AM,  cuja  composição  atual  é  inteiramente  constituída  de ocupantes de cargo comissionado",
+                    "tema_irregularidade": "CONTROLE INTERNO",
+                    "codigo_irregularidade": "T1A12B",
+                    "tipologia_irregularidade": "Não encaminhamento do Plano de Providências ao Órgão de Controle Interno",
+                    "descricao": "Excesso de cargos comissionados",
+                    "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação explicita a necessidade de revisar o quadro de pessoal com excesso de cargos comissionados para melhorar o controle interno.\"",
+                    "fundamentacao_legal": []
+                }
+            ]
+        },
+        {
+            "tipo": "determinacao",
+            "descricao": "Determinar ao PROCON/AM que  verifique os trâmites legais para a realização de Concurso Público (art. 37, II, da CF/88), para contratação de  servidores,  sob  pena  das  contas  de  o  próximo  exercício  serem julgadas irregulares, nos termos do artigo 188, §1º, inciso III, alínea 'e', da Resolução nº 04/2002-RITCE/AM",
+            "trechos_identificados": [
+                {
+                    "trecho": "verifique os trâmites legais para a realização de Concurso Público (art. 37, II, da CF/88), para contratação de  servidores,  sob  pena  das  contas  de  o  próximo  exercício  serem julgadas irregulares, nos termos do artigo 188, §1º, inciso III, alínea 'e', da Resolução nº 04/2002-RITCE/AM",
+                    "tema_irregularidade": "PESSOAL",
+                    "codigo_irregularidade": "T11A3A",
+                    "tipologia_irregularidade": "Ausência de Concurso público",
+                    "descricao": "Ausência de Concurso público",
+                    "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação explicita a necessidade de realizar concurso público, o que demonstra a ausência de concurso anterior.\"",
+                    "fundamentacao_legal": [
+                        {
+                            "norma": "Constituição Federal",
+                            "artigo": "37, II",
+                            "descricao": "Necessidade de concurso público para investidura em cargo ou emprego público"
+                        },
+                        {
+                            "norma": "Resolução nº 04/2002-RITCE/AM",
+                            "artigo": "188, §1º, inciso III, alínea 'e'",
+                            "descricao": "Possibilidade de julgamento irregular das contas em caso de descumprimento da determinação"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "determinacao",
+            "descricao": "Determinar à Unidade  Técnica que  verifique  a  correção  das  falhas apontadas na próxima inspeção in loco",
+            "trechos_identificados": [
+                {
+                    "trecho": "Determinar à Unidade  Técnica que  verifique  a  correção  das  falhas apontadas na próxima inspeção in loco",
+                    "tema_irregularidade": "CONTROLE INTERNO",
+                    "codigo_irregularidade": "T1A1C",
+                    "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+                    "descricao": "Ausência de Normatização das rotinas internas",
+                    "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A determinação à Unidade Técnica para verificar a correção das falhas aponta para a existência de não conformidades nas rotinas internas que precisam ser verificadas e corrigidas.\"",
+                    "fundamentacao_legal": []
+                }
+            ]
+        }
+    ]
+}

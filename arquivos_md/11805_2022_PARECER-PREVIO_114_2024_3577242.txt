@@ -1,0 +1,190 @@
+{
+  "acordao": "114/2024",
+  "processo": "11805/2022",
+  "data_sessao": "03 de dezembro de 2024",
+  "orgao": "Prefeitura Municipal de São Gabriel da Cachoeira",
+  "municipio": "São Gabriel da Cachoeira",
+  "exercicio": "2021",
+  "responsavel": [
+    "Clovis Moreira Saldanha"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Prefeitura  Municipal  de  São  Gabriel  da  Cachoeira, que  cumpra  com  rigor  os  prazos  de envio ao TCE/AM  e  de publicação, inclusive no Portal da Transparência do RREO (bimestral) e do RGF (semestral ou quadrimestral);",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  Prefeitura  Municipal  de  São  Gabriel  da  Cachoeira, que  cumpra  com  rigor  os  prazos  de envio ao TCE/AM  e  de publicação, inclusive no Portal da Transparência do RREO (bimestral) e do RGF (semestral ou quadrimestral).",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação detalha o cumprimento rigoroso dos prazos de envio ao TCE/AM e publicação, incluindo no Portal da Transparência do RREO e do RGF.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Prefeitura  Municipal  de  São  Gabriel  da  Cachoeira, que cumpra com rigor o prazo de envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  Prefeitura  Municipal  de  São  Gabriel  da  Cachoeira, que cumpra com rigor o prazo de envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais, conforme normativos desta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação detalha o cumprimento rigoroso do prazo de envio (mensal e anual) de todos os documentos requeridos nas Prestações de Contas Mensais e Anuais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que atente  ao  disposto  no  art.  20,  III,  'b',  da  Lei  de  Responsabilidade Fiscal, no sentido de cumprir com o limite de gastos com Pessoal;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que atente  ao  disposto  no  art.  20,  III, 'b', da Lei de Responsabilidade Fiscal, no sentido de cumprir com o limite de gastos com Pessoal.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "A recomendação detalha o cumprimento do limite de gastos com pessoal, conforme disposto no art. 20, III, 'b', da Lei de Responsabilidade Fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "20, III, 'b'",
+              "descricao": "A Lei de Responsabilidade Fiscal estabelece limites para os gastos com pessoal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que mantenha as fichas funcionais de todos os seus respectivos servidores devidamente atualizadas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que mantenha as fichas funcionais de todos os seus respectivos servidores devidamente atualizadas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles.",
+          "justificativa_tipologia": "A recomendação detalha a atualização das fichas funcionais de todos os seus respectivos servidores.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que proceda a implantação do sistema de controle de almoxarifado eficaz, com registro contínuo e permanente de entrada e saída dos objetos adquiridos, nos termos exigidos pelo art. 244, inciso III, da Resolução TCE nº 04/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que proceda a implantação do sistema de controle de almoxarifado eficaz, com registro contínuo e permanente de entrada e saída dos objetos adquiridos, nos termos exigidos pelo art. 244, inciso III, da Resolução TCE nº 04/2002.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos.",
+          "justificativa_tipologia": "A recomendação detalha a implantação do sistema de controle de almoxarifado eficaz, com registro contínuo e permanente de entrada e saída dos objetos adquiridos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE",
+              "artigo": "244, inciso III",
+              "descricao": "O artigo 244, inciso III, da Resolução TCE nº 04/2002 exige a implantação do sistema de controle de almoxarifado eficaz, com registro contínuo e permanente de entrada e saída dos objetos adquiridos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que adote as devidas providências no sentido de que a autorização para a concessão de diárias deve pressupor, obrigatoriamente a compatibilidade dos motivos do deslocamento com o interesse público e  a  correlação  entre  o  motivo  do  deslocamento  e  as  atribuições  do cargo;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que adote as devidas providências no sentido de que a autorização para a concessão de diárias deve pressupor, obrigatoriamente a compatibilidade dos motivos do deslocamento com o interesse público e a correlação entre o motivo do deslocamento e as atribuições do cargo.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A20B",
+          "tipologia_irregularidade": "Concessão de diárias e ajudas de custo irregulares",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A recomendação detalha que a autorização para a concessão de diárias deve pressupor, obrigatoriamente a compatibilidade dos motivos do deslocamento com o interesse público.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que atente ao disposto no art. 48, caput ,  da Lei Complementar 101/2000 com redação a Lei Complementar nº 131/2009, disponibilizando, em tempo  real  de  forma  organizada,  a  integralidade  dos  processos licitatórios e demais atos relativos à realização de despesas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que atente ao disposto no art. 48, caput , da Lei Complementar 101/2000 com redação a Lei Complementar nº 131/2009, disponibilizando, em tempo real de forma organizada, a integralidade dos processos licitatórios e demais atos relativos à realização de despesas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação detalha a disponibilização, em tempo real de forma organizada, a integralidade dos processos licitatórios e demais atos relativos à realização de despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar 101/2000",
+              "artigo": "48, caput",
+              "descricao": "Art. 48, caput, da Lei Complementar 101/2000 com redação a Lei Complementar nº 131/2009, estabelece a transparência na gestão fiscal, mediante incentivo à participação popular e realização de audiências públicas, durante os processos de elaboração e discussão dos planos, orçamentos e leis de diretrizes orçamentárias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que atente a correta instrução dos processos administrativos de licitação, observando os comandos previstos na Lei nº 14.133/2021;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Prefeitura Municipal de São Gabriel da Cachoeira que atente a correta instrução dos processos administrativos de licitação, observando os comandos previstos na Lei nº 14.133/2021.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio.",
+          "justificativa_tipologia": "A recomendação detalha a correta instrução dos processos administrativos de licitação, observando os comandos previstos na Lei nº 14.133/2021.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 14.133/2021",
+              "artigo": "Não consta",
+              "descricao": "Nova Lei de Licitações e Contratos Administrativos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Clovis Moreira Saldanha e aos demais interessados;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Clovis Moreira Saldanha e aos demais interessados.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A parte não implica em auditoria interna ou deficiência de controle, mas apenas uma formalização do ato para os responsáveis tomarem ciência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

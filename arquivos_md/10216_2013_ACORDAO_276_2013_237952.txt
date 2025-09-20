@@ -1,0 +1,401 @@
+{
+  "acordao": "276/2013",
+  "processo": "10216/2013",
+  "data_sessao": "16 de dezembro de 2013",
+  "orgao": "Câmara Municipal de Autazes",
+  "municipio": "Autazes",
+  "exercicio": "2012",
+  "responsavel": [
+    "João Jerffeson da Silva de Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "IRREGULARIDADE",
+      "descricao": "Julgar pela IRREGULARIDADE das Contas da Câmara Municipal de Autazes, referente ao exercício de 2012, de responsabilidade do Sr. João Jerffeson da Silva de Oliveira, Presidente e Ordenador de Despesas, nos termos do art. 22, III, \"b\" c/c o art. 25, ambos da Lei n.° 2.423/96-TCE/AM e art. 5°, II, da Resolução TCE/AM n.° 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar pela IRREGULARIDADE das Contas da Câmara Municipal de Autazes, referente ao exercício de 2012, de responsabilidade do Sr. João Jerffeson da Silva de Oliveira, Presidente e Ordenador de Despesas, nos termos do art. 22, III, \"b\" c/c o art. 25, ambos da Lei n.° 2.423/96-TCE/AM e art. 5°, II, da Resolução TCE/AM n.° 04/02",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de julgamento regular das contas é uma falha grave na gestão contábil, pois impede a adequada avaliação e fiscalização das finanças públicas. Essa tipologia se alinha com a situação descrita, onde a regularidade das contas não foi confirmada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 2.423/96-TCE/AM",
+              "artigo": "22, III, \"b\"",
+              "descricao": "Define a irregularidade das contas."
+            },
+            {
+              "norma": "Lei n.° 2.423/96-TCE/AM",
+              "artigo": "25",
+              "descricao": "Define a irregularidade das contas."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 04/02",
+              "artigo": "5°, II",
+              "descricao": "Define a irregularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "GLOSA",
+      "descricao": "GLOSAR o montante de R$ 621.475,97 (seiscentos e vinte e um reais e noventa e sete centavos), julgando em alcance o Sr. João Jerffeson da Silva de Oliveira, para devolução dos seguintes valores, corrigidos monetariamente: a) R$ 442.909,47 (quatrocentos e quarenta e dois mil, novecentos e nove reais e quarenta e sete centavos), pela criação e registro de valores na Conta Responsabilidades Financeiras sem comprovação (item 13); b) R$ 178.566,50 (cento e setenta e oito mil, quinhentos e sessenta e seis reais e cinquenta centavos), pela ausência de comprovação do embarque/deslocamento dos servidores nos processos de diárias (item 14);",
+      "trechos_identificados": [
+        {
+          "trecho": "GLOSAR o montante de R$ 621.475,97 (seiscentos e vinte e um reais e noventa e sete centavos), julgando em alcance o Sr. João Jerffeson da Silva de Oliveira, para devolução dos seguintes valores, corrigidos monetariamente: a) R$ 442.909,47 (quatrocentos e quarenta e dois mil, novecentos e nove reais e quarenta e sete centavos), pela criação e registro de valores na Conta Responsabilidades Financeiras sem comprovação (item 13)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A criação de responsabilidades financeiras sem comprovação, se enquadra na tipologia de despesas sem comprovação, onde não há rastreabilidade da destinação.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "b) R$ 178.566,50 (cento e setenta e oito mil, quinhentos e sessenta e seis reais e cinquenta centavos), pela ausência de comprovação do embarque/deslocamento dos servidores nos processos de diárias (item 14)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A5B",
+          "tipologia_irregularidade": "Ausência do Relatório de Prestação de Contas de diárias",
+          "descricao": "Ausência do Relatório de Prestação de Contas de diárias",
+          "justificativa_tipologia": "A ausência de comprovação de despesas com diárias se enquadra na tipologia de Ausência do Relatório de Prestação de Contas de diárias, onde o relatório de prestação de contas não foi apresentado para comprovar o gasto.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "MULTAR o Sr. João Jerffeson da Silva de Oliveira, Presidente da Câmara Municipal de Autazes e Ordenador de Despesas: a) no valor de R$ 1.096,03 (mil e noventa e seis reais e três centavos), arbitrada conforme art. 308, II, da Resolução TCE/AM n.º 04/02, alterado pela Resolução TCE/AM n.º 25/12 e art. 6º-A, I, 'a', da Resolução TCE/AM n.º 07/02, por cada mês de atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos meses de janeiro a dezembro (12 meses), totalizando o montante de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos), conforme especificado no item 1, deste Voto; b) no valor de R$ 1.096,03 (hum mil, noventa e seis reais e três centavos), conforme art. 308, II, da Resolução TCE/AM n.º 04/02, alterada pela Resolução n.º TCE/AM n.º 25/12, pelo não encaminhamento dos Relatórios de Gestão Fiscal (2 semestres), via Sistema GEFIS, totalizando o montante de R$ 2.192,06 (dois mil, cento e noventa e dois reais e seis centavos), conforme especificado no item 19, deste Voto; c) no valor de R$ 17.536,50 (dezessete mil, quinhentos e trinta e seis reais e cinquenta centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, VI da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pelos atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes dos itens 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 16, 17, 18, 21, 22, 25, 26, 27 e 28, deste Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 1.096,03 (mil e noventa e seis reais e três centavos), arbitrada conforme art. 308, II, da Resolução TCE/AM n.º 04/02, alterado pela Resolução TCE/AM n.º 25/12 e art. 6º-A, I, 'a', da Resolução TCE/AM n.º 07/02, por cada mês de atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos meses de janeiro a dezembro (12 meses), totalizando o montante de R$ 13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos), conforme especificado no item 1, deste Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O atraso no encaminhamento dos demonstrativos contábeis mensais se enquadra na tipologia de Balancetes Mensais entregues fora do prazo, indicando uma falha no cumprimento dos prazos estabelecidos para a apresentação desses documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE/AM n.º 04/02",
+              "artigo": "308, II",
+              "descricao": "Define o valor da multa."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 25/12",
+              "artigo": " ",
+              "descricao": "Alteração da Resolução TCE/AM n.º 04/02."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 07/02",
+              "artigo": "6º-A, I, 'a'",
+              "descricao": "Define o valor da multa."
+            }
+          ]
+        },
+        {
+          "trecho": "no valor de R$ 1.096,03 (hum mil, noventa e seis reais e três centavos), conforme art. 308, II, da Resolução TCE/AM n.º 04/02, alterada pela Resolução n.º TCE/AM n.º 25/12, pelo não encaminhamento dos Relatórios de Gestão Fiscal (2 semestres), via Sistema GEFIS, totalizando o montante de R$ 2.192,06 (dois mil, cento e noventa e dois reais e seis centavos), conforme especificado no item 19, deste Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O não encaminhamento dos Relatórios de Gestão Fiscal (RGF) se enquadra na tipologia de Publicação do RREO não realizada, pois impede a transparência das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE/AM n.º 04/02",
+              "artigo": "308, II",
+              "descricao": "Define o valor da multa."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 25/12",
+              "artigo": " ",
+              "descricao": "Alteração da Resolução TCE/AM n.º 04/02."
+            }
+          ]
+        },
+        {
+          "trecho": "no valor de R$ 17.536,50 (dezessete mil, quinhentos e trinta e seis reais e cinquenta centavos), com fulcro no art. 54, II, da Lei n.º 2.423/96, c/c o art. 308, VI da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pelos atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes dos itens 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 14, 15, 16, 17, 18, 21, 22, 25, 26, 27 e 28, deste Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa aplicada devido a graves infrações de normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais se enquadra na tipologia de Ausência de Notas Explicativas das Demonstrações Contábeis, refletindo a falta de informações que deveriam estar presentes nas notas explicativas para justificar os atos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define a aplicação de multa."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 04/02",
+              "artigo": "308, VI",
+              "descricao": "Define o valor da multa."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 25/12",
+              "artigo": " ",
+              "descricao": "Altera a Resolução TCE/AM n.° 04/02."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "FIXAR PRAZO",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias , para que o Sr. João Jerffeson da Silva de Oliveira, recolha o valor do débito que lhe foi aplicado aos cofres públicos (art. 72, III, 'c', da Lei n.º 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução TCE/AM n.º 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias , para que o Sr. João Jerffeson da Silva de Oliveira, recolha o valor do débito que lhe foi aplicado aos cofres públicos (art. 72, III, 'c', da Lei n.º 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução TCE/AM n.º 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho se refere a um prazo para recolhimento de débito, e não a um pagamento de precatórios fora da ordem. Sendo assim, a classificação foi utilizada por similaridade com o tema.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Define o recolhimento do débito."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 04/02",
+              "artigo": " ",
+              "descricao": "Autoriza a DICREX a adotar medidas para o recolhimento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "FIXAR PRAZO",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias , para que o Sr. João Jerffeson da Silva de Oliveira, recolha o valor das multas que lhe foram aplicadas aos cofres públicos (art. 72, III, 'c', da Lei n.º 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução TCE/AM n.º 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias , para que o Sr. João Jerffeson da Silva de Oliveira, recolha o valor das multas que lhe foram aplicadas aos cofres públicos (art. 72, III, 'c', da Lei n.º 2423/96), ficando a DICREX autorizada a dotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução TCE/AM n.º 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho se refere a um prazo para recolhimento de multa, e não a um pagamento de precatórios fora da ordem. Sendo assim, a classificação foi utilizada por similaridade com o tema.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Define o recolhimento da multa."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 04/02",
+              "artigo": " ",
+              "descricao": "Autoriza a DICREX a adotar medidas para o recolhimento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "AUTORIZAR",
+      "descricao": "AUTORIZAR , em caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n.º 2.423/96, art. 169, II, art. 173 e § 6º, do art. 308, todos da Resolução TCE/AM n.º 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR , em caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n.º 2.423/96, art. 169, II, art. 173 e § 6º, do art. 308, todos da Resolução TCE/AM n.º 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho se refere a um autorização para inscrição do débito na Dívida Ativa e ensejo à ação executiva, e não a um pagamento de precatórios fora da ordem. Sendo assim, a classificação foi utilizada por similaridade com o tema.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "73",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa e ensejo à ação executiva."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 04/02",
+              "artigo": "169, II",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa e ensejo à ação executiva."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 04/02",
+              "artigo": "173",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa e ensejo à ação executiva."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 04/02",
+              "artigo": "308",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa e ensejo à ação executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "RECOMENDAR à origem, sob pena de aplicação de multa pela reincidência nos mesmos atos, que: a) tome todas as medidas necessárias à regularização do seu quadro de pessoal, por meio da edição de lei criando os cargos, empregos e funções, e, via de consequência, da realização de concurso público, em obediência ao art. 37, II, da CF/88, a fim de substituir os servidores temporários (itens 4, 5 e 16);",
+      "trechos_identificados": [
+        {
+          "trecho": "tome todas as medidas necessárias à regularização do seu quadro de pessoal, por meio da edição de lei criando os cargos, empregos e funções, e, via de consequência, da realização de concurso público, em obediência ao art. 37, II, da CF/88, a fim de substituir os servidores temporários (itens 4, 5 e 16)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação de regularizar o quadro de pessoal através de concurso público, em substituição a servidores temporários, está diretamente relacionada à tipologia de Ausência de Concurso público, indicando a necessidade de seguir os princípios constitucionais para a investidura em cargos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "37, II",
+              "descricao": "Dispõe sobre a necessidade de concurso público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "b) promova o adequado cumprimento da legislação correspondente ao tombamento dos bens (arts. 94 a 96, da Lei n.º 2.423/96), devendo implementar e manter atualizado o Livro Lombo e o Livro de Registro de Inventário de Bens Permanentes componentes do seu patrimônio (itens 10, 11 e 12);",
+      "trechos_identificados": [
+        {
+          "trecho": "promova o adequado cumprimento da legislação correspondente ao tombamento dos bens (arts. 94 a 96, da Lei n.º 2.423/96), devendo implementar e manter atualizado o Livro Lombo e o Livro de Registro de Inventário de Bens Permanentes componentes do seu patrimônio (itens 10, 11 e 12)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A recomendação para cumprir a legislação de tombamento dos bens e implementar o Livro Lombo e o Livro de Registro de Inventário de Bens Permanentes está relacionada à tipologia de Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais, indicando a necessidade de detalhar as características dos bens para um controle patrimonial adequado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "94 a 96",
+              "descricao": "Dispõe sobre o tombamento dos bens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "c) atualize as pastas funcionais de todos os servidores (item 17);",
+      "trechos_identificados": [
+        {
+          "trecho": "atualize as pastas funcionais de todos os servidores (item 17)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2C",
+          "tipologia_irregularidade": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "descricao": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "justificativa_tipologia": "A recomendação de atualizar as pastas funcionais dos servidores está relacionada à tipologia de Ausência de Declaração de Bens e documentos de identificação em pasta funcional, refletindo a necessidade de manter a documentação dos servidores completa e em conformidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "d) implante um sistema de controle de registro de ponto dos servidores (item 18);",
+      "trechos_identificados": [
+        {
+          "trecho": "implante um sistema de controle de registro de ponto dos servidores (item 18)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A12C",
+          "tipologia_irregularidade": "Uso de controle de frequência manual em detrimento do uso de sistema eletrônico",
+          "descricao": "Uso de controle de frequência manual em detrimento do uso de sistema eletrônico",
+          "justificativa_tipologia": "A recomendação de implantar um sistema de controle de registro de ponto dos servidores está relacionada à tipologia de Uso de controle de frequência manual em detrimento do uso de sistema eletrônico, indicando a necessidade de modernizar e otimizar o controle da frequência dos servidores.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "e) atente rigorosamente à publicação de amplo acesso ao público dos Relatórios Resumidos de Execução Orçamentária e dos Relatórios de Gestão Fiscal, inclusive em meio eletrônico, nos termos do art. 48 e 55, §2º, da LC n.º 101/00 e da atual Resolução n.º 24/13 (item 20);",
+      "trechos_identificados": [
+        {
+          "trecho": "atente rigorosamente à publicação de amplo acesso ao público dos Relatórios Resumidos de Execução Orçamentária e dos Relatórios de Gestão Fiscal, inclusive em meio eletrônico, nos termos do art. 48 e 55, §2º, da LC n.º 101/00 e da atual Resolução n.º 24/13 (item 20)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A recomendação de atentar à publicação de amplo acesso ao público dos Relatórios Resumidos de Execução Orçamentária e dos Relatórios de Gestão Fiscal está relacionada à tipologia de Ausência de divulgação de publicações no site Transparência, refletindo a necessidade de garantir a transparência e o acesso à informação sobre a gestão orçamentária e fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC n.º 101/00",
+              "artigo": "48",
+              "descricao": "Dispõe sobre a transparência na gestão fiscal."
+            },
+            {
+              "norma": "LC n.º 101/00",
+              "artigo": "55, §2º",
+              "descricao": "Dispõe sobre a transparência na gestão fiscal."
+            },
+            {
+              "norma": "Resolução n.º 24/13",
+              "artigo": " ",
+              "descricao": "Dispõe sobre a divulgação dos Relatórios Resumidos de Execução Orçamentária e dos Relatórios de Gestão Fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "f) cumpra os ditames dos arts. 31 e 74, da CF/88 e do art. 76, da Lei n.° 4.320/64 e crie um sistema que controle, gerencie, avalie e analise os objetivos, os recursos e as metas do Poder Público (item 21);",
+      "trechos_identificados": [
+        {
+          "trecho": "cumpra os ditames dos arts. 31 e 74, da CF/88 e do art. 76, da Lei n.° 4.320/64 e crie um sistema que controle, gerencie, avalie e analise os objetivos, os recursos e as metas do Poder Público (item 21)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "A recomendação de cumprir os ditames dos arts. 31 e 74, da CF/88 e do art. 76, da Lei n.° 4.320/64 e criar um sistema que controle, gerencie, avalie e analise os objetivos, os recursos e as metas do Poder Público está relacionada à tipologia de Não implementação do Controle Interno, indicando a necessidade de implementar mecanismos de controle interno para garantir a legalidade e a eficiência da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "31",
+              "descricao": "Dispõe sobre a fiscalização da administração pública."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "74",
+              "descricao": "Dispõe sobre o sistema de controle interno."
+            },
+            {
+              "norma": "Lei n.° 4.320/64",
+              "artigo": "76",
+              "descricao": "Dispõe sobre a gestão financeira e orçamentária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "g) crie um controle efetivo de entrada e saída de material de consumo/expediente (item 23);",
+      "trechos_identificados": [
+        {
+          "trecho": "crie um controle efetivo de entrada e saída de material de consumo/expediente (item 23)",
+          "irregular

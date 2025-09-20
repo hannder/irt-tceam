@@ -1,0 +1,177 @@
+{
+  "acordao": "880/2020",
+  "processo": "11186/2017",
+  "data_sessao": "03 de Setembro de 2020",
+  "orgao": "Maternidade Balbina Mestrinho",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Marco Lourenço Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Maternidade Balbina Mestrinho, exercício de 2016, de responsabilidade do Sr. Marco Lourenço Silva - ex-Diretor-Geral da Unidade, nos termos do art. 22, II, da Lei Orgânica desta Corte (Lei nº 2.423/1996)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Maternidade Balbina Mestrinho, exercício de 2016, de responsabilidade do Sr. Marco Lourenço Silva - ex-Diretor-Geral da Unidade, nos termos do art. 22, II, da Lei Orgânica desta Corte (Lei nº 2.423/1996)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A regularidade com ressalvas não indica necessariamente uma irregularidade mas essa tipologia cabe melhor ao caso",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "22, II",
+              "descricao": "Lei Orgânica desta Corte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr.  Marco Lourenço Silva ,  no  valor  de R$ 2.000,00 (dois mil reais), com fundamento no art. 308, VII, da Resolução TCE/AM n°  04/2002,  em  razão  da  permanência  das  impropriedades  7.4  e  7.9, ambas descritas no Relatório-Voto, devendo o montante da penalidade ser  recolhido no  prazo  de  30  dias  para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr.  Marco Lourenço Silva ,  no  valor  de R$ 2.000,00 (dois mil reais), com fundamento no art. 308, VII, da Resolução TCE/AM n°  04/2002,  em  razão  da  permanência  das  impropriedades  7.4  e  7.9, ambas descritas no Relatório-Voto, devendo o montante da penalidade ser  recolhido no  prazo  de  30  dias  para  o  Cofre  Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A30B",
+          "tipologia_irregularidade": "Não conformidade com leis e regulamentos",
+          "descricao": "Não conformidade com leis e regulamentos",
+          "justificativa_tipologia": "O descumprimento das normas estabelecidas pela Resolução TCE/AM nº 04/2002 configura uma não conformidade com as leis e regulamentos aplicáveis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE/AM n° 04/2002",
+              "artigo": "308, VII",
+              "descricao": "A multa é aplicada com fundamento neste artigo, devido à persistência das impropriedades 7.4 e 7.9 descritas no relatório."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual gestão da Maternidade Balbina Mestrinho que:\n- 10.3.1. Quanto à ausência de registro de entrada/saída dos funcionários, deve  ser  implementado  um  controle  eletrônico  efetivo  com  vistas  a descontar do pagamento os dias em que houver falta de registro;\n- 10.3.2. Quanto à insuficiência na memória de registros biométricos, devese ampliar a capacidade destes apara atender toda a demanda da unidade gestora;\n- 10.3.3. Faça o devido planejamento na aquisição de bens e serviços, não contrariando as disposições da Lei 8666/93;\n- 10.3.4. Que haja um controle mais rigoroso dos medicamentos de maior valor financeiro. Graças ao grande volume de solicitações, é compreensível que se torna impossível o controle tempestivo de todos os medicamentos. No entanto, levando-se em  conta a materialidade envolvida,  é  imprescindível  que  seja  dada  uma  maior  atenção  aos medicamentos mais caros;\n- 10.3.5. Que haja o uso correto da natureza de despesa 'Indenizações'; 10.3.6. Que  o  Balanço  Patrimonial  reconheça  o  valor  dos  estoques Material de Consumo, conforme orienta o art. 8° do Decreto Lei 200/67",
+      "trechos_identificados": [
+        {
+          "trecho": "Quanto à ausência de registro de entrada/saída dos funcionários, deve  ser  implementado  um  controle  eletrônico  efetivo  com  vistas  a descontar do pagamento os dias em que houver falta de registro",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A17B",
+          "tipologia_irregularidade": "Ausência de um plano de controle interno formalizado",
+          "descricao": "Uso de controle de frequência manual em detrimento do uso de sistema eletrônico",
+          "justificativa_tipologia": "A determinação para implementar um controle eletrônico efetivo indica uma deficiência no sistema de controle interno relacionado ao registro de frequência dos funcionários.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Quanto à insuficiência na memória de registros biométricos, devese ampliar a capacidade destes apara atender toda a demanda da unidade gestora",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para ampliar a capacidade dos registros biométricos indica uma deficiência na implementação e estruturação do controle interno.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Faça o devido planejamento na aquisição de bens e serviços, não contrariando as disposições da Lei 8666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A determinação para fazer o devido planejamento na aquisição de bens e serviços, não contrariando as disposições da Lei 8666/93, indica que há falhas no planejamento e na conformidade com os requisitos legais nas aquisições, o que pode levar a problemas como falta de licitação em casos obrigatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8666/93",
+              "artigo": "null",
+              "descricao": "Lei de Licitações e Contratos"
+            }
+          ]
+        },
+        {
+          "trecho": "Que haja um controle mais rigoroso dos medicamentos de maior valor financeiro. Graças ao grande volume de solicitações, é compreensível que se torna impossível o controle tempestivo de todos os medicamentos. No entanto, levando-se em  conta a materialidade envolvida,  é  imprescindível  que  seja  dada  uma  maior  atenção  aos medicamentos mais caros",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para haver um controle mais rigoroso dos medicamentos de maior valor financeiro indica que o controle interno não está sendo adequadamente implementado ou estruturado.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Que haja o uso correto da natureza de despesa 'Indenizações'",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação para haver o uso correto da natureza de despesa 'Indenizações' indica que há irregularidades ou inconsistências na forma como as despesas estão sendo classificadas e pagas.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Que  o  Balanço  Patrimonial  reconheça  o  valor  dos  estoques Material de Consumo, conforme orienta o art. 8° do Decreto Lei 200/67",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "justificativa_tipologia": "A determinação para que o Balanço Patrimonial reconheça o valor dos estoques de Material de Consumo indica que há uma ausência de comprovação ou reconhecimento contábil dos valores dos estoques no balanço patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Lei 200/67",
+              "artigo": "8°",
+              "descricao": "Lei sobre a organização da Administração Federal, estabelecendo normas gerais de administração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção a ser designada para que verifique  o  cumprimento  das  determinações  sobreditas,  quando  da inspeção in loco",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção a ser designada para que verifique  o  cumprimento  das  determinações  sobreditas,  quando  da inspeção in loco",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A própria determinação já pressupõe a necessidade de acompanhamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Marco Lourenço Silva, ora Responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Marco Lourenço Silva, ora Responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Apenas informar o responsavel",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "acordao": "118/2015",
+  "processo": "10920/2014",
+  "data_sessao": "04 de março de 2015",
+  "orgao": "Companhia de Água, Esgoto e Saneamento de Coari",
+  "municipio": "Coari",
+  "exercicio": "2013",
+  "responsavel": [
+    "Evandro Rodrigues de Moraes"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar IRREGULARES as Contas da COMPANHIA DE ÁGUA, ESGOTO E SANEAMENTO DE COARI, exercício de 2013, de responsabilidade do Senhor EVANDRO RODRIGUES DE MORAES, com fulcro nos artigos 1º, II, 19, II, 22, III, 'b' e 'c', e 25 da Lei Estadual nº 2.423/1996;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  IRREGULARES  as  Contas  da  COMPANHIA  DE  ÁGUA, ESGOTO E SANEAMENTO DE COARI, exercício de 2013, de responsabilidade do Senhor EVANDRO RODRIGUES DE MORAES",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "justificativa_tipologia": "A irregularidade nas contas da companhia indica um problema na gestão patrimonial, com possíveis reflexos na contabilidade e no controle dos ativos da entidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do TCE para julgar as contas dos administradores e responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "19, II",
+              "descricao": "Estabelece a competência do Tribunal de Contas para apreciar as contas dos responsáveis por entidades da administração indireta."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Define como irregularidades a omissão de informações relevantes ou a prática de ato com grave infração à norma legal."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "25",
+              "descricao": "Dispõe sobre as sanções aplicáveis em caso de irregularidades nas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "CONSIDERAR EM ALCANCE o Senhor EVANDRO RODRIGUES DE MORAES no valor de R$132.416.00 (cento e trinta e dois mil, quatrocentos e dezesseis reais) devido às restrições não sanadas abaixo discriminadas:\na)  no  valor  de  R$122.000.00  (cento  e  vinte  e  dois  mil)  referente  a  ato praticado com grave infração à norma insculpida no art.86, da Lei  Municipal nº404/2003PMC-GP (Estatuto dos Servidores Públicos do Município de Coari), no que diz respeito ao controle  de  frequência  de  servidores,  configurando  a inassiduidade  habitual  com  a conivência da gestão da CAESC;\nb) no valor de R$10.416,00 (dez mil reais, quatrocentos e dezesseis reais), referente  a  contratação  indevida  de  uma  'Lan  House'  para  recebimento  das  contas  de água  de  Coari,  o  que  não  parece  ser  adequada,  pois  o  município  conta  com  quatro",
+      "trechos_identificados": [
+        {
+          "trecho": "CONSIDERAR EM  ALCANCE o Senhor EVANDRO RODRIGUES DE MORAES no valor de R$132.416.00 (cento e trinta e dois mil, quatrocentos e dezesseis reais) devido às restrições não sanadas abaixo discriminadas:\na)  no  valor  de  R$122.000.00  (cento  e  vinte  e  dois  mil)  referente  a  ato praticado com grave infração à norma insculpida no art.86, da Lei  Municipal nº404/2003PMC-GP (Estatuto dos Servidores Públicos do Município de Coari), no que diz respeito ao controle  de  frequência  de  servidores,  configurando  a inassiduidade  habitual  com  a conivência da gestão da CAESC",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A72B",
+          "tipologia_irregularidade": "Não cumprimento integral de carga horária",
+          "descricao": "Funcionário que não cumpre integralmente a carga horária contratada.",
+          "justificativa_tipologia": "O descumprimento da carga horária, com a conivência da gestão, sugere deficiências no controle de frequência e na supervisão dos servidores, indicando um problema de gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  Municipal nº404/2003PMC-GP (Estatuto dos Servidores Públicos do Município de Coari)",
+              "artigo": "86",
+              "descricao": "Refere-se ao controle  de  frequência  de  servidores,  configurando  a inassiduidade  habitual"
+            }
+          ]
+        },
+        {
+          "trecho": "b) no valor de R$10.416,00 (dez mil reais, quatrocentos e dezesseis reais), referente  a  contratação  indevida  de  uma  'Lan  House'  para  recebimento  das  contas  de água  de  Coari,  o  que  não  parece  ser  adequada,  pois  o  município  conta  com  quatro",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A32A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com superfaturamento",
+          "descricao": "Ausência de registro de controle de recebimento do objeto.",
+          "justificativa_tipologia": "A contratação inadequada de uma Lan House para recebimento de contas de água, em um município com agências bancárias e outros correspondentes bancários, sugere má gestão de recursos públicos e falta de economicidade na contratação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar MULTA AO RESPONSÁVEL, Senhor EVANDRO RODRIGUES DE MORAES:\na) por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, com base no art. 54, II, da Lei Estadual nº.2.423/96 c/c com artigo 308, VI, do Regimento Interno, das restrições dos itens 7.2, 7.3, 7.4, 7.8, 7.9, 7.10, 7.12, 7.13, 7.14, 7.15, 7.21 (restrições do relatório conclusivo da DICAMI: 24, 'a', 'b', 'f' e 'g'; 25, 'e'; 26, 'b'; 27, 'd' e 'f'; 28, 'f'; 30, 'c'; 31, 'a'; 32, 'a' e 'b'; 33.1, 'd' e 'f') e 7.22 (restrições do relatório conclusivo da DICAMI:  33.2, 'a',  'b',  'c'  33.3,  'a'), no  valor  de  R$43.841,28  (quarenta  e  três  mil,  oitocentos  e quarenta e um reais e vinte e oito centavos);\nb)  por  ato  de  gestão  ilegítimo  ou  antieconômico  de  que  resulte  dano  ao erário, com base no artigo 54, III, da Lei Orgânica c/c artigo 308, V, do Regimento Interno, diante  das  restrições  7.6  e  7.7, no  valor  de  R$10.900,00  (dez  mil  e  novecentos reais);",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar MULTA AO RESPONSÁVEL, Senhor EVANDRO RODRIGUES DE MORAES:a) por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, com base no art. 54, II, da Lei Estadual nº.2.423/96 c/c com artigo 308, VI, do Regimento Interno, das restrições dos itens 7.2, 7.3, 7.4, 7.8, 7.9, 7.10, 7.12, 7.13, 7.14, 7.15, 7.21 (restrições do relatório conclusivo da DICAMI: 24, 'a', 'b', 'f' e 'g'; 25, 'e'; 26, 'b'; 27, 'd' e 'f'; 28, 'f'; 30, 'c'; 31, 'a'; 32, 'a' e 'b'; 33.1, 'd' e 'f') e 7.22 (restrições do relatório conclusivo da DICAMI:  33.2, 'a',  'b',  'c'  33.3,  'a'), no  valor  de  R$43.841,28  (quarenta  e  três  mil,  oitocentos  e quarenta e um reais e vinte e oito centavos)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "As multas aplicadas devido a infrações em normas contábeis, financeiras, orçamentárias e patrimoniais indicam falhas nos controles internos e na gestão dos recursos públicos, o que compromete a transparência e a responsabilização na administração pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº.2.423/96",
+              "artigo": "54, II",
+              "descricao": "Multa por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, VI",
+              "descricao": "Dispõe sobre os procedimentos para aplicação de multas por infração à norma legal ou regulamentar."
+            }
+          ]
+        },
+        {
+          "trecho": "b)  por  ato  de  gestão  ilegítimo  ou  antieconômico  de  que  resulte  dano  ao erário, com base no artigo 54, III, da Lei Orgânica c/c artigo 308, V, do Regimento Interno, diante  das  restrições  7.6  e  7.7, no  valor  de  R$10.900,00  (dez  mil  e  novecentos reais)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A multa aplicada devido a ato de gestão ilegítimo ou antieconômico que resulte em dano ao erário indica má gestão dos recursos públicos, falta de planejamento e controle interno, o que compromete a eficiência e a economicidade na administração pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Multa por ato de gestão ilegítimo ou antieconômico de que resulte dano ao erário."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "308, V",
+              "descricao": "Dispõe sobre os procedimentos para aplicação de multas por ato de gestão ilegítimo ou antieconômico."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o prazo de trinta dias para o recolhimento aos cofres públicos pelo  responsável  no  valor  das  penalidades  impostas,  com  comprovação  perante  este Tribunal, acrescido da atualização monetária e dos juros de mora devidos, nos termos dos arts.73 e 74 da Lei Estadual n.2423/96 e art. 169, I, da Resolução n.04/02-TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de trinta dias para o recolhimento aos cofres públicos pelo  responsável  no  valor  das  penalidades  impostas,  com  comprovação  perante  este Tribunal, acrescido da atualização monetária e dos juros de mora devidos, nos termos dos arts.73 e 74 da Lei Estadual n.2423/96 e art. 169, I, da Resolução n.04/02-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O texto se refere ao cumprimento de prazos para recolhimento de valores, que é uma exigência administrativa e financeira para o responsável, e não uma irregularidade inerente a esse processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2423/96",
+              "artigo": "73",
+              "descricao": "Dispõe sobre a cobrança de juros e atualização monetária sobre os débitos."
+            },
+            {
+              "norma": "Lei Estadual n.2423/96",
+              "artigo": "74",
+              "descricao": "Estabelece o prazo para recolhimento dos débitos."
+            },
+            {
+              "norma": "Resolução n.04/02-TCE",
+              "artigo": "169, I",
+              "descricao": "Regulamenta os procedimentos para cobrança de débitos perante o TCE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já a inscrição do débito na Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento dos valores da condenação, ex vi o art.173 do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação de inscrever o débito na dívida ativa é um procedimento padrão do TCE para garantir a recuperação dos valores devidos aos cofres públicos. Este procedimento, por si só, não indica uma falha estrutural na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Autoriza a inscrição do débito na Dívida Ativa e instauração da cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\na) Ausência  de escrituração contábil e extra contábil,  analítica e sintética, que permita a caracterização dos bens permanentes adquiridos e baixados no exercício de 2013, bem como o saldo remanescente dos exercícios anteriores, inclusive ausência do registro  e  tombamento  dos  bens  permanentes,  assim  como  livro  tombo  e  agentes responsáveis pela sua guarda e administração;\nb) Ausência do levantamento geral dos bens móveis e imóveis, extraído do inventário  analítico  de  cada  unidade  administrativa  e  das  informações  da  escrituração sintética da contabilidade;\nc)  Cumprimento  do  §  1º,  do  art.  27,  da  Lei  Municipal  nº  528/2009,  que dispõe  sobre  o  plano de  Emprego  e  Salários  da  Companhia  de  Água,  Esgoto  e Saneamento Básico de Coari - CAESC, no sentido de providenciar o advento do decreto regulamentador da concessão de diárias;\nd)  Realização  de  concurso  público  visando  prover  os  empregos  públicos vagos;\ne) Regularizar a situação dos servidores acima tratados, no sentido de instálos  a  optar  pelo  cargo/emprego/função  que  mais  lhes  atenda,  sob  pena  de  incorrer  na hipótese do art. 319, do Código Penal;\nf) Caso os servidores se encontrem nos quadros da CAESC, que a Gestão proceda  à  abertura de processo  administrativo disciplinar visando  à apuração  da responsabilidade dos  servidores FRANCINELY  BASTOS  DE  ALENCAR,  Assessora Jurídica e do servidor ELTON MANUEL BARRETO RODRIGUES, Diretor AdministrativoFinanceiro  pelo  acometimento  da  infração  insculpida  no  art.  85,  da  Lei  Municipal  nº 404/2003-PMC - GP (Estatuto dos Servidores Públicos do Município de Coari);\ng) Que proceda à regulamentação da gratificação de atividade com base em critérios objetivos e nos princípios basilares da Administração Pública;\nh)  Que  a  Gestão  da  CAESC  se  abstenha  de  conceder  a  gratificação  de atividade a servidores temporários, a menos que haja expressa previsão legal. Restrição 33.1 - 'e': Que a origem que juntem, no momento adequado, todos os procedimentos nos autos dos processos administrativos de licitações;\ni)  junte,  no  momento  adequado,  todos  os  procedimentos  nos  autos  dos processos administrativos de licitações;\nj) Que  à  origem  cumpra  rigorosamente  e  em  momento  oportuno,  os mandamentos do art. 60, da Lei 4320/64;\nk)  observados  e  cumprido  os  prazos  para  a  remessa  da  movimentação contábil viaACP conforme estabelece o art.4º da Resolução 07/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "RECOMENDAR À ORIGEM o atendimento da legislação pertinente às  restrições  abaixo  relacionadas,  bem  como  à  DICAMI  para  observar  as  providências adotadas nos exercícios seguintes e se ocorreu reincidência das faltas cometidas:\na) Ausência  de escrituração contábil e extra contábil,  analítica e sintética, que permita a caracterização dos bens permanentes adquiridos e baixados no exercício de 2013, bem como o saldo remanescente dos exercícios anteriores, inclusive ausência do registro  e  tombamento  dos  bens  permanentes,  assim  como  livro  tombo  e  agentes responsáveis pela sua guarda e administração",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação de atender à legislação sobre escrituração contábil e caracterização dos bens patrimoniais indica uma deficiência nos controles patrimoniais e contábeis da entidade, o que pode levar a perdas, desvios e irregularidades na gestão dos bens públicos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "b) Ausência do levantamento geral dos bens móveis e imóveis, extraído do inventário  analítico  de  cada  unidade  administrativa  e  das  informações  da  escrituração sintética da contabilidade",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação de realizar o levantamento geral dos bens móveis e imóveis indica uma deficiência nos controles patrimoniais e contábeis da entidade, o que pode levar a perdas, desvios e irregularidades na gestão dos bens públicos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "c)  Cumprimento  do  §  1º,  do  art.  27,  da  Lei  Municipal  nº  528/2009,  que dispõe  sobre  o  plano de  Emprego  e  Salários  da  Companhia  de  Água,  Esgoto  e Saneamento Básico de Coari - CAESC, no sentido de providenciar o advento do decreto regulamentador da concessão de diárias",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial.",
+          "justificativa_tipologia": "A ausência de regulamentação para concessão de diárias pode gerar pagamentos indevidos e falta de transparência nos gastos públicos, e a recomendação visa evitar essas práticas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 528/2009",
+              "artigo": "27, § 1º",
+              "descricao": "Dispõe sobre o plano de Emprego e Salários da Companhia de Água, Esgoto e Saneamento Básico de Coari - CAESC, e regulamenta a concessão de diárias."
+            }
+          ]
+        },
+        {
+          "trecho": "d)  Realização  de  concurso  público  visando  prover  os  empregos  públicos vagos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "A recomendação de realizar concurso público indica a necessidade de garantir o acesso isonômico aos cargos públicos e de profissionalizar a gestão, evitando o uso de contratações precárias e irregulares.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "e) Regularizar a situação dos servidores acima tratados, no sentido de instálos  a  optar  pelo  cargo/emprego/função  que  mais  lhes  atenda,  sob  pena  de  incorrer  na hipótese do art. 319, do Código Penal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A recomendação para que servidores regularizem sua situação, escolhendo o cargo/emprego/função que mais lhes convém, visa evitar o acúmulo ilegal de cargos e funções públicas, garantindo a eficiência e a legalidade na administração pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Código Penal",
+              "artigo": "319",
+              "descricao": "Prevaricação"
+            }
+          ]
+        },
+        {
+          "trecho": "f) Caso os servidores se encontrem nos quadros da CAESC, que a Gestão proceda  à  abertura de processo  administrativo disciplinar visando  à apuração  da responsabilidade dos  servidores FRANCINELY  BASTOS  DE  ALENCAR,  Assessora Jurídica e do servidor ELTON MANUEL BARRETO RODRIGUES, Diretor AdministrativoFinanceiro  pelo  acometimento  da  infração  insculpida  no  art.  85,  da  Lei  Municipal  nº 404/2003-PMC - GP (Estatuto dos Servidores Públicos do Município de Coari)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A3B",
+          "tipologia_irregularidade": "Omissão do responsável pela UCI em notificar gestor acerca de irregularidades",
+          "descricao": "Escopo de auditoria interna insuficiente",
+          "justificativa_tipologia": "A recomendação para abertura de processo administrativo disciplinar indica a necessidade de apurar a responsabilidade de servidores em relação a possíveis irregularidades na gestão, visando garantir a responsabilização e a correção de falhas nos controles internos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 404/2003-PMC - GP (Estatuto dos Servidores Públicos do Município de Coari)",
+              "artigo": "85",
+              "descricao": "Dispõe sobre as infrações e sanções disciplinares aplicáveis aos servidores públicos municipais."
+            }
+          ]
+        },
+        {
+          "trecho": "g) Que proceda à regulamentação da gratificação de atividade com base em critérios objetivos e nos princípios basilares da Administração Pública",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A14B",
+          "tipologia_irregularidade": "Pagamento de Gratificação não regulamentada",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "A recomendação de regulamentar a gratificação de atividade com base em critérios objetivos e nos princípios da Administração Pública visa evitar o pagamento indevido ou discricionário de gratificações, garantindo a legalidade, a impessoalidade e a transparência na gestão de pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "h)  Que  a  Gestão  da  CAESC  se  abstenha  de  conceder  a  gratificação  de atividade a servidores temporários, a menos que haja expressa previsão legal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A81B",
+          "tipologia_irregularidade": "Pagamento de Gratificação não regulamentada",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "A recomendação para que a gestão da CAESC se abstenha de conceder gratificação de atividade a servidores temporários, a menos que haja expressa previsão legal, visa evitar o pagamento indevido de gratificações e garantir o cumprimento do princípio da legalidade na administração pública.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "junte,  no  momento  adequado,  todos  os  procedimentos nos autos dos processos administrativos de licitações",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "Assegurar a transparência e a legalidade dos procedimentos licitatórios é fundamental para garantir a correta aplicação dos recursos públicos e evitar irregularidades.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Que  à  origem  cumpra  rigorosamente  e  em  momento  oportuno,  os mandamentos do art. 60, da Lei 4320/64",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "Esta recomendação diz respeito à necessidade de cumprir os requisitos legais para a realização de despesas públicas e não indica uma falha estrutural na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4320/64",
+              "artigo": "60",
+              "descricao": "Dispõe sobre a obrigatoriedade do empenho prévio para a realização de despesas públicas."
+            }
+          ]
+        },
+        {
+          "trecho": "k)  observados  e  cumprido  os  prazos  

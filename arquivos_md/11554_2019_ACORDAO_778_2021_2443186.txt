@@ -1,0 +1,214 @@
+{
+  "acordao": "778/2021",
+  "processo": "11554/2019",
+  "data_sessao": "4 de Agosto de 2021",
+  "orgao": "Câmara Municipal de São Paulo de Olivença",
+  "municipio": "São Paulo de Olivença",
+  "exercicio": "2018",
+  "responsavel": [
+    "Carlos Marcio Goncalves Galhego"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  do Sr.  Carlos Marcio Goncalves Galhego ,  Presidente  da  Câmara  Municipal  de  São Paulo de Olivença, exercício de 2018, nos termos do art. 22, inciso II, da Lei Estadual nº 2.423/1996 c/c art. 188, inciso II; § 1º, inciso II, estes da Resolução nº 04/2002 -RITCE/AM, em razão das seguintes impropriedades: ausência de documentos  exigidos pela legislação; ausência de Controle Interno; desatualização do Portal de Transparência; ineficiência no controle do Almoxarifado; e envio fora de prazo dos Relatórios de Gestão Fiscal",
+      "trechos_identificados": [
+        {
+          "trecho": "ausência de documentos  exigidos pela legislação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O trecho indica uma falha na apresentação da documentação necessária na prestação de contas anual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -RITCE/AM",
+              "artigo": "188, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            }
+          ]
+        },
+        {
+          "trecho": "ausência de Controle Interno",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve a ausência de implementação do controle interno, o que é uma falha grave na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -RITCE/AM",
+              "artigo": "188, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            }
+          ]
+        },
+        {
+          "trecho": "desatualização do Portal de Transparência",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho descreve a desatualização do Portal de Transparência, o que dificulta o controle social da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -RITCE/AM",
+              "artigo": "188, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            }
+          ]
+        },
+        {
+          "trecho": "ineficiência no controle do Almoxarifado",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "O trecho descreve a ineficiência no controle do almoxarifado, o que pode gerar prejuízos ao patrimônio público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -RITCE/AM",
+              "artigo": "188, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            }
+          ]
+        },
+        {
+          "trecho": "envio fora de prazo dos Relatórios de Gestão Fiscal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho indica que os Relatórios de Gestão Fiscal foram enviados fora do prazo, prejudicando o controle e a fiscalização da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -RITCE/AM",
+              "artigo": "188, inciso II",
+              "descricao": "Define a regularidade com ressalvas em caso de impropriedades na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa ao Sr. Carlos Marcio Goncalves Galhego no valor de R$ 3.600,00 (três mil e seiscentos reais) e fixar prazo de 30 dias para que o responsável  recolha  o  valor  da  multa,  nos  termos  do  art.  22,  II,  da LOTCE-AM c/c art. 308, inciso I e VII, do RITCE/AM, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  '5508  -  Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento  (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade  da  cobrança  administrativa  ou  judicial  do  título  executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III  e  IV  da  Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado  com  o  Instituto  de  Estudos  de  Protesto  de  Títulos  do  Brasil  Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Carlos Marcio Goncalves Galhego no valor de R$ 3.600,00 (três mil e seiscentos reais) e fixar prazo de 30 dias para que o responsável  recolha  o  valor  da  multa,  nos  termos  do  art.  22,  II,  da LOTCE-AM c/c art. 308, inciso I e VII, do RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A11C",
+          "tipologia_irregularidade": "Publicação do RREO até 30 dias após o encerramento do período",
+          "descricao": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona).",
+          "justificativa_tipologia": "O trecho aplica uma sanção pecuniária devido a irregularidades encontradas na gestão fiscal, refletindo uma medida corretiva para garantir a conformidade com as normas financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/1996",
+              "artigo": "22, II",
+              "descricao": "Autoriza a aplicação de multas em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002 -RITCE/AM",
+              "artigo": "308, inciso I e VII",
+              "descricao": "Define os procedimentos para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Recomendar à Câmara  Municipal  de  São  Paulo  de  Olivença que efetue  imediatamente  a  correção  da  Resolução  22/2014,  adequando-a ao inciso III, do parágrafo único, do Art. 9º da Resolução Nº 05/2008 TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara  Municipal  de  São  Paulo  de  Olivença que efetue  imediatamente  a  correção  da  Resolução  22/2014,  adequando-a ao inciso III, do parágrafo único, do Art. 9º da Resolução Nº 05/2008 TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A recomendação é para corrigir uma resolução, indicando a ausência ou inadequação de normas internas, que impacta o controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução Nº 05/2008 TCE/AM",
+              "artigo": "Art. 9º, inciso III",
+              "descricao": "Refere-se a  adequação ao inciso III, do parágrafo único"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar à Câmara  Municipal  de  São  Paulo  de  Olivença que promova a atualização do Portal de Transparência da instituição",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Câmara  Municipal  de  São  Paulo  de  Olivença que promova a atualização do Portal de Transparência da instituição",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação visa garantir a transparência, que é fundamental para o controle social e a boa gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Dar  ciência ao Sr.  Carlos  Marcio  Goncalves  Galhego da  presente decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr.  Carlos  Marcio  Goncalves  Galhego da  presente decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A comunicação é um procedimento administrativo padrão, sem apontar irregularidades ou falhas estruturais, apenas formalizando a notificação ao responsável.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

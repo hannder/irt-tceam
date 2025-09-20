@@ -1,0 +1,399 @@
+{
+  "acordao": "010/2015",
+  "processo": "1665/2010",
+  "data_sessao": "04 de março 2015",
+  "orgao": "Prefeitura Municipal de Urucará",
+  "municipio": "Urucará",
+  "exercicio": "2009",
+  "responsavel": [
+    "Fernando Falabella"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidades",
+      "descricao": "julgar  irregulares  a  Prestação  de  Contas do  Sr.  Fernando Falabella, Prefeito de Urucará e Ordenador de Despesas, referente ao exercício de 2009 , nos termos do inciso II do art . 1º e da alínea 'c' e 'b' do inciso III do art. 22, todos da Lei 2.423/96, em decorrência de graves infrações à norma legal e de dano ao erário, conforme evidenciam os itens 3, 4, 5, 7, 8 e 10 da Proposta de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "julgar  irregulares  a  Prestação  de  Contas do  Sr.  Fernando Falabella, Prefeito de Urucará e Ordenador de Despesas, referente ao exercício de 2009 , nos termos do inciso II do art . 1º e da alínea 'c' e 'b' do inciso III do art. 22, todos da Lei 2.423/96, em decorrência de graves infrações à norma legal e de dano ao erário, conforme evidenciam os itens 3, 4, 5, 7, 8 e 10 da Proposta de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O trecho descreve a irregularidade na gestão de recursos públicos, apontando para a raiz do problema na execucao orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II e art. 22, alínea 'c' e 'b', inciso III",
+              "descricao": "Define as irregularidades na prestação de contas devido a infrações à norma legal e dano ao erário."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "considerar em alcance o Sr. Fernando Falabella, Prefeito de Urucará e Ordenador de Despesas, referente ao exercício de 2009, nos termos da primeira parte do inciso II e do inciso III, todos do art. 304 da Resolução 4/2002 (RI-TCE/AM), no montante de R$ 192.732,50 (cento e noventa e dois mil, setecentos e trinta e dois reais e cinquenta centavos), resultante da soma dos valores narrados nos itens 3, 4, 5, 7 e 8 desta Proposta de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "considerar em alcance o Sr. Fernando Falabella, Prefeito de Urucará e Ordenador de Despesas, referente ao exercício de 2009, nos termos da primeira parte do inciso II e do inciso III, todos do art. 304 da Resolução 4/2002 (RI-TCE/AM), no montante de R$ 192.732,50 (cento e noventa e dois mil, setecentos e trinta e dois reais e cinquenta centavos), resultante da soma dos valores narrados nos itens 3, 4, 5, 7 e 8 desta Proposta de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O trecho identifica o alcance financeiro, confirmando o dano ao erário e a necessidade de restituir os valores devidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RI-TCE/AM)",
+              "artigo": "304, inciso II e III",
+              "descricao": "Estabelece os termos para considerar o responsável em alcance devido a irregularidades e dano ao erário."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "aplicar ao Sr. Fernando Falabella, Prefeito de Urucará e Ordenador de Despesas, referente ao exercício de 2009, a multa prevista no inciso VI do art. 308 da Resolução 4/2002 - RI-TCE/AM, no  valor  de R$ 32.267,08 (trinta e dois mil duzentos e sessenta  e sete  e  oito  centavos),  em  razão  de  grave  infração  a  norma  legal,  conforme evidenciam  as  irregularidades  relacionadas  nos  subitens  10.1  a  10.14  da  Proposta  de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "aplicar ao Sr. Fernando Falabella, Prefeito de Urucará e Ordenador de Despesas, referente ao exercício de 2009, a multa prevista no inciso VI do art. 308 da Resolução 4/2002 - RI-TCE/AM, no  valor  de R$ 32.267,08 (trinta e dois mil duzentos e sessenta  e sete  e  oito  centavos),  em  razão  de  grave  infração  a  norma  legal,  conforme evidenciam  as  irregularidades  relacionadas  nos  subitens  10.1  a  10.14  da  Proposta  de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "A multa é aplicada devido a graves infrações à norma legal, o que pode estar relacionado ao descumprimento de limites de gastos com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 - RI-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Prevê a aplicação de multa em razão de grave infração à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "fixar o prazo de 30 (trinta) dias, a contar do Ofício de comunicação da Decisão, para que o supramencionado Responsável comprove, perante este Tribunal, o recolhimento  aos  cofres  do  Tesouro  do  Município  de  Urucará  do  valor  declarado  em alcance,  em conformidade  com  a  alínea  'a'  do  inciso  III  do  art.  72  da  Lei  n.  2.423/96, corrigidos monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n. 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "fixar o prazo de 30 (trinta) dias, a contar do Ofício de comunicação da Decisão, para que o supramencionado Responsável comprove, perante este Tribunal, o recolhimento  aos  cofres  do  Tesouro  do  Município  de  Urucará  do  valor  declarado  em alcance,  em conformidade  com  a  alínea  'a'  do  inciso  III  do  art.  72  da  Lei  n.  2.423/96, corrigidos monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n. 2.423/96)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho estabelece o prazo para o responsável comprovar o recolhimento do valor alcançado. O não cumprimento dos prazos para ações corretivas, como o recolhimento de valores, pode levar à persistência de irregularidades na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "72, alínea 'a', inciso III",
+              "descricao": "Estabelece a obrigatoriedade de comprovar o recolhimento do valor declarado em alcance."
+            },
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "55",
+              "descricao": "Determina a correção monetária caso o recolhimento ocorra fora do prazo determinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "fixar  o  prazo de 30 (trinta) dias para o recolhimento aos cofres da Fazenda Estadual do valor relativo às multas impostas, com comprovação perante este Tribunal do valor recolhido, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da  Lei  n.  2.423/96,  c/c  o  §4°  do  art.  174  da  Resolução  4/2002  (RI-TCE/AM),  corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n. 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "fixar  o  prazo de 30 (trinta) dias para o recolhimento aos cofres da Fazenda Estadual do valor relativo às multas impostas, com comprovação perante este Tribunal do valor recolhido, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da  Lei  n.  2.423/96,  c/c  o  §4°  do  art.  174  da  Resolução  4/2002  (RI-TCE/AM),  corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n. 2.423/96)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho estabelece o prazo para o responsável comprovar o recolhimento do valor da multa. O não cumprimento dos prazos para ações corretivas, como o recolhimento de valores, pode levar à persistência de irregularidades na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "72, alínea 'a', inciso III",
+              "descricao": "Estabelece a obrigatoriedade de comprovar o recolhimento do valor relativo às multas impostas."
+            },
+            {
+              "norma": "Resolução 4/2002 (RI-TCE/AM)",
+              "artigo": "174, §4º",
+              "descricao": "Complementa as diretrizes para o recolhimento das multas."
+            },
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "55",
+              "descricao": "Determina a correção monetária caso o recolhimento ocorra fora do prazo determinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Remessa",
+      "descricao": "remeter os autos à DICREX para que efetue a cobrança executiva administrativa e, não obtendo êxito, adotar os procedimentos necessários para a cobrança executiva  judicial,  tudo  em  conformidade  com  o  art.  3º  da  Resolução  3/2011-TCE, observado o disposto no art. 5º da mesma Resolução",
+      "trechos_identificados": [
+        {
+          "trecho": "remeter os autos à DICREX para que efetue a cobrança executiva administrativa e, não obtendo êxito, adotar os procedimentos necessários para a cobrança executiva  judicial,  tudo  em  conformidade  com  o  art.  3º  da  Resolução  3/2011-TCE, observado o disposto no art. 5º da mesma Resolução",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Este trecho descreve a ação de remeter os autos para cobrança executiva, o que está diretamente ligado à efetividade na recuperação de ativos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "3º e 5º",
+              "descricao": "Define os procedimentos para a cobrança executiva administrativa e judicial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Remessa",
+      "descricao": "autorizar a imediata remessa de cópia da documentação pertinente às irregularidades narradas nos itens   3, 4,  5, 7  e 8  da Proposta de  Voto  ao  Ministério Público Estadual, para o ajuizamento das ações civis e penais cabíveis, conforme previsto na alínea 'b' do inciso III do art. 190 da Resolução 4/2002 (RITCE/AM)",
+      "trechos_identificados": [
+        {
+          "trecho": "autorizar a imediata remessa de cópia da documentação pertinente às irregularidades narradas nos itens   3, 4,  5, 7  e 8  da Proposta de  Voto  ao  Ministério Público Estadual, para o ajuizamento das ações civis e penais cabíveis, conforme previsto na alínea 'b' do inciso III do art. 190 da Resolução 4/2002 (RITCE/AM)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A remessa de documentação ao Ministério Público visa garantir a responsabilização por irregularidades, refletindo uma medida de controle externo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "190, alínea 'b', inciso III",
+              "descricao": "Prevê a remessa de documentação ao Ministério Público Estadual para o ajuizamento das ações cabíveis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "determinar à origem , nos termos do §2º do art. 188 do Regimento Interno/TCE-AM, o cumprimento das seguintes disposições:",
+      "trechos_identificados": [
+        {
+          "trecho": "determinar à origem , nos termos do §2º do art. 188 do Regimento Interno/TCE-AM, o cumprimento das seguintes disposições:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho em si é uma determinação para que a origem cumpra as disposições, ou seja, implemente o controle interno",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188, §2º",
+              "descricao": "Autoriza a determinação de cumprimento de disposições à origem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "apresentar  conciliação  bancária  dos  extratos  bancários,  bem  como razão contábil da entidade, em plena observância do inciso V do art. 1º da Resolução 5/90-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "apresentar  conciliação  bancária  dos  extratos  bancários,  bem  como razão contábil da entidade, em plena observância do inciso V do art. 1º da Resolução 5/90-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A determinação exige a apresentação de conciliação bancária, o que está diretamente relacionado à correção de divergências contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 5/90-TCE/AM",
+              "artigo": "1º, inciso V",
+              "descricao": "Requer a plena observância na apresentação da conciliação bancária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "regularizar o débito desta  Prefeitura de Urucará/AM inscrito em Dívida Ativa  pelo  Serviço Autônomo  de  Água  e  Esgoto de Urucará/AM, decorrente  do  consumo  de  água,  gerados  nos  exercícios  de  2004  a 2009, conforme  relatório extraído do  Sistema  de  Faturamento e Cobrança  daquela  Autarquia,  a  fim de não  violar o princípio do enriquecimento sem causa por parte do Poder Público Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "regularizar o débito desta  Prefeitura de Urucará/AM inscrito em Dívida Ativa  pelo  Serviço Autônomo  de  Água  e  Esgoto de Urucará/AM, decorrente  do  consumo  de  água,  gerados  nos  exercícios  de  2004  a 2009, conforme  relatório extraído do  Sistema  de  Faturamento e Cobrança  daquela  Autarquia,  a  fim de não  violar o princípio do enriquecimento sem causa por parte do Poder Público Municipal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho descreve a necessidade de regularizar um débito inscrito em dívida ativa, o que impacta diretamente na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta no texto",
+              "artigo": "Não consta no texto",
+              "descricao": "Não consta no texto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "regularizar  a  falta  de  autuação  em  processo  administrativo  dos  atos econômicos como de pagamento de despesas e licitação, a fim de não prejudicar a atuação do Controle Externo",
+      "trechos_identificados": [
+        {
+          "trecho": "regularizar  a  falta  de  autuação  em  processo  administrativo  dos  atos econômicos como de pagamento de despesas e licitação, a fim de não prejudicar a atuação do Controle Externo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A falta de autuação em processo administrativo compromete a transparência e a rastreabilidade dos atos, o que é uma falha de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta no texto",
+              "artigo": "Não consta no texto",
+              "descricao": "Não consta no texto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elaborar  nova  Lei  Municipal    disciplinando  o  quantitativo  do  incentivo variável, observando critérios objetivos de avaliação, ou fixar incentivos fixos, nos moldes da Lei Municipal n. 8/2005",
+      "trechos_identificados": [
+        {
+          "trecho": "elaborar  nova  Lei  Municipal    disciplinando  o  quantitativo  do  incentivo variável, observando critérios objetivos de avaliação, ou fixar incentivos fixos, nos moldes da Lei Municipal n. 8/2005",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A19A",
+          "tipologia_irregularidade": "Falta de segregação de funções",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "Este trecho determina a regulamentação do incentivo variável, o que se relaciona à gestão de gratificações e à necessidade de regulamentação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal n. 8/2005",
+              "artigo": "Não consta no texto",
+              "descricao": "Define os moldes para fixar incentivos fixos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "adotar  medidas  eficazes  quanto  às  denúncias  registradas  em  Ata  de reunião do Conselho do Fundeb",
+      "trechos_identificados": [
+        {
+          "trecho": "adotar  medidas  eficazes  quanto  às  denúncias  registradas  em  Ata  de reunião do Conselho do Fundeb",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A1B",
+          "tipologia_irregularidade": "Ausência de fomento ao controle social",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A adoção de medidas eficazes sobre denúncias do Conselho do Fundeb está relacionada ao controle social e à necessidade de atuação do conselho.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta no texto",
+              "artigo": "Não consta no texto",
+              "descricao": "Não consta no texto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "controlar  todos  os  bens  de  caráter  permanente  e  providenciar  os Termos  de  Responsabilidade  identificando  os  agentes  responsáveis pela guarda e administração dos bens constantes do Ativo Permanente com  adoção  de  registro  de  tombamento  e  identificação  mediante  a utilização de plaquetas em obediência ao artigo 94 da Lei nº 4.320/64 c/c o art. 1º VII da Resolução nº 05/1990, sob pena de possibilidade de aplicação do disposto no § 1º do art. 22 da Lei Estadual nº 2.423/96 (Lei Orgânica do TCE/AM) c/c alínea 'e' do inc.  III do § 1º do art. 188 da Resolução TCE nº 04/2002 (Regimento Interno do TCE/AM)",
+      "trechos_identificados": [
+        {
+          "trecho": "controlar  todos  os  bens  de  caráter  permanente  e  providenciar  os Termos  de  Responsabilidade  identificando  os  agentes  responsáveis pela guarda e administração dos bens constantes do Ativo Permanente com  adoção  de  registro  de  tombamento  e  identificação  mediante  a utilização de plaquetas em obediência ao artigo 94 da Lei nº 4.320/64 c/c o art. 1º VII da Resolução nº 05/1990, sob pena de possibilidade de aplicação do disposto no § 1º do art. 22 da Lei Estadual nº 2.423/96 (Lei Orgânica do TCE/AM) c/c alínea 'e' do inc.  III do § 1º do art. 188 da Resolução TCE nº 04/2002 (Regimento Interno do TCE/AM)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A determinação está relacionada ao controle de bens patrimoniais e à correta identificação dos responsáveis, o que impacta diretamente no patrimônio público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Dispõe sobre a obrigatoriedade de controle dos bens patrimoniais."
+            },
+            {
+              "norma": "Resolução nº 05/1990",
+              "artigo": "1º, VII",
+              "descricao": "Complementa as diretrizes para a identificação e controle dos bens."
+            },
+            {
+              "norma": "Lei Estadual nº 2.423/96 (Lei Orgânica do TCE/AM)",
+              "artigo": "22, § 1º",
+              "descricao": "Estabelece as penalidades por descumprimento das determinações."
+            },
+            {
+              "norma": "Resolução TCE nº 04/2002 (Regimento Interno do TCE/AM)",
+              "artigo": "188, § 1º, alínea 'e', inciso III",
+              "descricao": "Regulamenta as sanções aplicáveis em caso de descumprimento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "realizar  controle  de  pessoal  e  de  pagamentos  dos  servidores,  em observância dos Princípios Constitucionais da Moralidade e da Eficiência, explicitados no art. 37 da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "realizar  controle  de  pessoal  e  de  pagamentos  dos  servidores,  em observância dos Princípios Constitucionais da Moralidade e da Eficiência, explicitados no art. 37 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2B",
+          "tipologia_irregularidade": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "descricao": "Ausência de Parecer Jurídico ao Aditivo",
+          "justificativa_tipologia": "A determinação exige o controle de pessoal e de pagamentos, o que está relacionado à observância dos princípios da moralidade e da eficiência na gestão de recursos humanos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "37",
+              "descricao": "Estabelece os princípios da Moralidade e da Eficiência na administração pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "implantar  folha de registro de ponto eficaz para os funcionários, a fim de  evitar  o  pagamento  indevido  a  servidores  faltosos  ou  até  mesmo inexistentes  fisicamente  e  conseqüente  dano  ao  erário,  sob  pena  de sob pena de possibilidade de aplicação do disposto no § 1º do art. 22 da Lei Estadual nº 2.423/96 (Lei Orgânica do TCE/AM) c/c alínea 'e' do inc.  III  do  §  1º  do  art.  188  da  Resolução  TCE nº 04/2002 (Regimento Interno do TCE/AM)",
+          "trechos_identificados": [
+        {
+          "trecho": "implantar  folha de registro de ponto eficaz para os funcionários, a fim de  evitar  o  pagamento  indevido  a  servidores  faltosos  ou  até  mesmo inexistentes  fisicamente  e  conseqüente  dano  ao  erário,  sob  pena  de sob pena de possibilidade de aplicação do disposto no § 1º do art. 22 da Lei Estadual nº 2.423/96 (Lei Orgânica do TCE/AM) c/c alínea 'e' do inc.  III  do  §  1º  do  art.  188  da  Resolução  TCE nº 04/2002 (Regimento Interno do TCE/AM)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A17B",
+          "tipologia_irregularidade": "Não disponibilização de postos físicos de inscrição",
+          "descricao": "Não disponibilização de postos físicos de inscrição",
+          "justificativa_tipologia": "Este trecho se relaciona à folha de registro de ponto que

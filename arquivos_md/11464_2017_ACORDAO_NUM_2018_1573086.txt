@@ -1,0 +1,58 @@
+{
+  "acordao": "519/2018",
+  "processo": "11464/2017",
+  "data_sessao": "07 de Agosto de 2018",
+  "orgao": "Câmara Municipal de Autazes",
+  "municipio": "Autazes",
+  "exercicio": "2016",
+  "responsavel": [
+    "Heverton Marcelo Araújo dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  da  Câmara Municipal de Autazes, exercício de 2016, sob a responsabilidade do Sr. Heverton Marcelo  Araújo  dos  Santos ,  na  condição  de Ordenador  de Despesa, nos termos do art. 22, II, da Lei 2.423/96 c/c o art. 188, §1º, II, da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Heverton Marcelo Araújo dos Santos no valor de R$ 7.000,00 (sete  mil  reais),  em  razão das restrições 2, 3, 4, 7, 8  e 9 constantes  no  Relatório  Conclusivo  nº  28/2018-DICAMI,  nos  termos  do parágrafo único do art. 53 da Lei Estadual 2.423/96, valor atualizado pela Resolução nº 25 de 30/08/2012, que deverá ser recolhida no prazo de 30 dias para  o  Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Conceder Prazo",
+      "descricao": "Conceder Prazo ao Sr. Heverton Marcelo Araújo dos Santos de 30 dias para recolher o valor constante no item 2, com comprovação perante a este Tribunal, nos termos dos arts. 73 e 74 da Lei nº 2.423/1996 c/c art. 169, I, do RI/TCE, autorizando a instauração de inscrição dos débitos na dívida  ativa  e  a  instauração  da  cobrança  executiva,  no  caso  de  não recolhimento, ex vi do art. 173 do RI/TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à Câmara Municipal de Autazes que: a) Observe os prazos estabelecidos pela Lei Complementar nº 06/1991, art.  15,  c/c  o  art.  20,  inciso  II,  com  nova  redação  dada  pela  Lei Complementar n° 24/2000 e Resolução TCE n° 13/2015, no que tange ao envio tempestivo, via sistema e-Contas, dos balancetes mensais e dos Relatórios de Gestão Fiscal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à Câmara Municipal de Autazes que: b) Observe o que preceitua a Lei 4.320/64, notadamente no que tange ao planejamento  das  aquisições  e  do  controle  de  bens  de  consumo  e materiais permanentes",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à Câmara Municipal de Autazes que: c) Encaminhe no bojo das futuras prestações de contas anuais todos os documentos necessários, em observância ao art. 1° da Resolução nº 06/2009- TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à Câmara Municipal de Autazes que: d) Envide esforços no sentido de implementar um sistema de Controle Interno, considerando as exigências contidas nos arts. 31, caput, 70 e 74, caput, incisos e §1º, da Constituição da República; arts. 39 e 45 da Constituição  Estadual;  art.  76  da  Lei  nº  4.320/64;  art.  59  da  LC 101/2000;  arts.  43  a  47  da  Lei  nº  2.423/96  e  Resolução  TCE  nº 09/2016",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à Câmara Municipal de Autazes que: e) Atualize o portal da transparência, visto que, conforme preceitua a Lei 12.527/11, é dever  dos  órgãos  e  entidades  públicas promover, independentemente de requerimentos, a divulgação em tempo real de informações de interesse coletivo ou geral por eles produzidas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno  que  adote  as  providências previstas no art. 161 da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "acordao": "280/2014",
+  "processo": "2134/2013",
+  "data_sessao": "20 de maio de 2014",
+  "orgao": "Secretaria de Estado da Fazenda - SEFAZ",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Afonso Lobo Moraes",
+    "Francisco de Araújo Ferreira Júnior"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR , nos termos do artigo 1º, II, e artigo 22, I, da Lei n. 2423/1996 c.c o artigo 188, § 1º, inciso I, da Resolução TC n. 4/2002 (Regimento Interno), a  Prestação  de  Contas,  referente  ao  exercício  de  2012,  da  Secretaria  de  Estado  da Fazenda (U.G. 14101), de responsabilidade do Senhor Afonso Lobo Moraes, Secretário de Estado da Fazenda, ordenador de despesa delegante, e do Senhor Francisco de Araújo Ferreira Júnior, Secretário  Executivo de Assuntos Administrativos, ordenador de despesa delegado;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR , nos termos do artigo 1º, II, e artigo 22, I, da Lei n. 2423/1996 c.c o artigo 188, § 1º, inciso I, da Resolução TC n. 4/2002 (Regimento Interno), a  Prestação  de  Contas,  referente  ao  exercício  de  2012,  da  Secretaria  de  Estado  da Fazenda (U.G. 14101), de responsabilidade do Senhor Afonso Lobo Moraes, Secretário de Estado da Fazenda, ordenador de despesa delegante, e do Senhor Francisco de Araújo Ferreira Júnior, Secretário  Executivo de Assuntos Administrativos, ordenador de despesa delegado;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação em si não indica uma irregularidade, mas o julgamento formal da prestação de contas como regular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução TC n. 4/2002",
+              "artigo": "188, § 1º, inciso I",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar quitação aos Senhores Afonso Lobo Moraes e Francisco de Araújo Ferreira Júnior, nos termos do artigo 23 e 72, I, da Lei n. 2423, de 10.12.1996, c/c o artigo 189, I, da Resolução n. 4, de 23.5.2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação aos Senhores Afonso Lobo Moraes e Francisco de Araújo Ferreira Júnior, nos termos do artigo 23 e 72, I, da Lei n. 2423, de 10.12.1996, c/c o artigo 189, I, da Resolução n. 4, de 23.5.2002;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "A quitação formal não indica uma irregularidade, mas sim um julgamento administrativo do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423, de 10.12.1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Lei n. 2423, de 10.12.1996",
+              "artigo": "72, I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução n. 4, de 23.5.2002",
+              "artigo": "189, I",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Determinar à  Secretaria do Tribunal Pleno que adote as providências previstas no artigo 162, caput, do Regimento Interno;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria do Tribunal Pleno que adote as providências previstas no artigo 162, caput, do Regimento Interno;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "A determinação de providências internas do Tribunal não indica uma irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "162, caput",
+              "descricao": "Aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

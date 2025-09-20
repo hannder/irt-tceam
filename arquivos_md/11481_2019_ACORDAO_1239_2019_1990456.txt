@@ -1,0 +1,125 @@
+{
+  "acordao": "1239/2019",
+  "processo": "11481/2019",
+  "data_sessao": "03 de Dezembro de 2019",
+  "orgao": "Instituto de Proteção Ambiental do Amazonas - IPAAM",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Marcelo Jose de Lima Dutra"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas as  Contas  do  Sr. Marcelo  Jose  de Lima  Dutra ,  Gestor  do  IPAAM,  referente  ao  exercício  de  2018,  nos termos do art. 22, inciso II,  da  Lei  nº  2.423/1996-LOTCE/AM,  c/c  art. 188, inciso II,  da  Resolução nº 04/2002 - RITCE/AM pelas seguintes impropriedades:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Marcelo  Jose  de  Lima  Dutra no  valor  de R$ 15.000,00 (quinze mil reais), que deverá ser recolhida no prazo de 30 dias  para  o  Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, em razão das seguintes impropriedades:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Ausência de justificativa para contratação por inexigibilidade de licitação",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativa para contratação por inexigibilidade de licitação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "O trecho indica uma falha na justificativa para a contratação por inexigibilidade de licitação, o que pode comprometer a transparência e a legalidade do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Ausência de controle interno",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de setor de controle interno",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve a ausência de implementação do Controle Interno no órgão, o que indica uma deficiência estrutural grave na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Ausência  aprovação  da  minuta  de  edital  e  seus  anexos  pela assessoria jurídica do órgão",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  aprovação  da  minuta  de  edital  e  seus  anexos  pela assessoria jurídica do órgão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado",
+          "justificativa_tipologia": "A ausência de aprovação da minuta do edital pela assessoria jurídica compromete a legalidade e a segurança jurídica do processo licitatório.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Ausência do valor global do ajuste na publicação de extrato da contratação no DOE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do valor global do ajuste na publicação de extrato da contratação no DOE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A ausência do valor global do ajuste na publicação do extrato da contratação no DOE/AM compromete a transparência e a publicidade do processo licitatório.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que inclua no escopo de auditoria o eventual pagamento de multas e juros decorrente do atraso no pagamento de precatórios por parte da Autarquia",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que inclua no escopo de auditoria o eventual pagamento de multas e juros decorrente do atraso no pagamento de precatórios por parte da Autarquia",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação para incluir o pagamento de multas e juros no escopo da auditoria indica a necessidade de verificar a regularidade dos pagamentos de precatórios, o que pode ter impacto financeiro significativo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Marcelo Jose de Lima Dutra e  ao IPAAM deste Acórdão, encaminhando-lhes cópia do Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Marcelo Jose de Lima Dutra e  ao IPAAM deste Acórdão, encaminhando-lhes cópia do Relatório-Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ciência do acórdão e o encaminhamento do relatório não indicam diretamente um problema estrutural ou recorrente na gestão, mas sim uma formalidade processual.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

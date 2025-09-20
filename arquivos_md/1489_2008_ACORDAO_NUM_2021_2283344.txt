@@ -1,0 +1,53 @@
+{
+  "acordao": "250/2020",
+  "processo": "1757/2018",
+  "data_sessao": "10 de Março de 2020",
+  "orgao": "TRIBUNAL PLENO",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Manoel Adail Amaral Pinheiro"
+  ],
+  "itens": [
+    {
+      "tipo": "Não conhecimento",
+      "descricao": "Não conhecer do presente Recurso de Reconsideração interposto pelo Sr. Manoel Adail Amaral Pinheiro , tendo em vista que o recurso apresenta tese jurídica padrão e genérica, adaptável a qualquer processo, não guardando relação fático-jurídica com o Decisum vergastado",
+      "trechos_identificados": [
+        {
+          "trecho": "Não conhecer do presente Recurso de Reconsideração interposto pelo Sr. Manoel Adail Amaral Pinheiro , tendo em vista que o recurso apresenta tese jurídica padrão e genérica, adaptável a qualquer processo, não guardando relação fático-jurídica com o Decisum vergastado",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho descreve o não conhecimento de um recurso devido a sua natureza genérica e falta de conexão com o caso específico, o que dificulta a análise e o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11, inciso III, alínea'f', item 2",
+              "descricao": "Competência do Tribunal Pleno para julgar o recurso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste julgado ao Sr. Manoel Adail Amaral Pinheiro , por intermédio de seus patronos legalmente constituídos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência deste julgado ao Sr. Manoel Adail Amaral Pinheiro , por intermédio de seus patronos legalmente constituídos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho se refere a um ato de comunicação formal, não envolvendo irregularidades ou impactos significativos na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "acordao": "2116/2023",
+  "processo": "12882/2021",
+  "data_sessao": "10 de Outubro de 2023",
+  "orgao": "Tribunal de Contas do Estado do Amazonas",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "José Bezerra Guedes"
+  ],
+  "itens": [
+    {
+      "tipo": "Embargos de Declaração",
+      "descricao": "Conhecer dos  Embargos  de  Declaração  interpostos  pelo Sr.  José Bezerra Guedes , tendo em vista o atendimento aos requisitos do art. 145 da Resolução n. 04/2002-TCEAM",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer dos  Embargos  de  Declaração  interpostos  pelo Sr.  José Bezerra Guedes , tendo em vista o atendimento aos requisitos do art. 145 da Resolução n. 04/2002-TCEAM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve o conhecimento dos embargos de declaração, com base no atendimento aos requisitos do art. 145 da Resolução n. 04/2002-TCEAM.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002-TCEAM",
+              "artigo": "145",
+              "descricao": "Requisitos para o conhecimento dos embargos de declaração"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Decisão",
+      "descricao": "Negar Provimento ao  Recurso do Sr.  José  Bezerra Guedes ,  tendo em vista a inexistência de argumentos compatíveis às hipóteses do art. 63 da Lei Orgânica deste TCE/AM, mantendo-se na íntegra o teor do Acórdão nº 109/2023-TCE-Tribunal Pleno",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar Provimento ao  Recurso do Sr.  José  Bezerra Guedes ,  tendo em vista a inexistência de argumentos compatíveis às hipóteses do art. 63 da Lei Orgânica deste TCE/AM, mantendo-se na íntegra o teor do Acórdão nº 109/2023-TCE-Tribunal Pleno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a negar provimento ao recurso, não apresenta irregularidade, apenas o registro do ato administrativo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "63",
+              "descricao": "Hipóteses de cabimento de recurso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr.  José Bezerra Guedes sobre  o  deslinde  do  feito, obedecendo a constituição de seus patronos nos autos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr.  José Bezerra Guedes sobre  o  deslinde  do  feito, obedecendo a constituição de seus patronos nos autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a dar ciencia ao sr José Bezerra Guedes, não apresenta irregularidade, apenas o registro do ato administrativo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

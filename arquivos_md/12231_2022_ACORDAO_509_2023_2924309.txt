@@ -1,0 +1,98 @@
+{
+  "acordao": "509/2023",
+  "processo": "12231/2022",
+  "data_sessao": "21 de Março de 2023",
+  "orgao": "Fundo Municipal de Saúde de Pauini",
+  "municipio": "Pauini",
+  "exercicio": "2021",
+  "responsavel": [
+    "Dawehalleson Macena Pereira",
+    "Raimundo Renato Rodrigues Afonso",
+    "Francisco Bezerra dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual do Fundo Municipal de Saúde de Pauini, exercício 2021, sob responsabilidade do Sr. Dawehalleson Macena Pereira , Secretário de Saúde, nos termos do art. 22, II, c/c art. 24, da Lei 2423/96, haja vista Restrição nº 05 da Notificação nº 004/2022-CI/DICAMI (equivalente à Restrição nº 06 da Notificação nº 003/2022-CI/DICAMI )",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas Anual do Fundo Municipal de Saúde de Pauini, exercício 2021, sob responsabilidade do Sr. Dawehalleson Macena Pereira , Secretário de Saúde, nos termos do art. 22, II, c/c art. 24, da Lei 2423/96, haja vista Restrição nº 05 da Notificação nº 004/2022-CI/DICAMI (equivalente à Restrição nº 06 da Notificação nº 003/2022-CI/DICAMI )",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O julgamento com ressalva foi devido a restrições de ordem contábil encontradas nas contas do Fundo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22, II, c/c art. 24",
+              "descricao": "Define os critérios para julgamento das contas, incluindo a possibilidade de julgamento regular com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao Fundo Municipal de Saúde de Pauini que: a) envie os balancetes mensais do Fundo Municipal de Saúde de Pauini, a Corte de Contas, via sistema e-Contas, dentro do prazo estabelecido pela Lei Complementar nº  06/1991,  art.  15,  c/c  o  art.  20,  inciso  II,  com  nova redação dada pela Lei Complementar nº 24/2000 e Resolução TCE nº 13/2015 e b) encaminhe ao Tribunal e publique no Portal da Transparência todos os ato licitatórios e ajustes contratuais, conforme art. 5º, XXXIII e caput do art. 37, da Constituição de 1988 c/c o art. 8º, caput,  §  2º  e  §  3º,  I  da  Lei  n.º  12.527/2011  e  art.  48,  da  Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "envie os balancetes mensais do Fundo Municipal de Saúde de Pauini, a Corte de Contas, via sistema e-Contas, dentro do prazo estabelecido pela Lei Complementar nº  06/1991,  art.  15,  c/c  o  art.  20,  inciso  II,  com  nova redação dada pela Lei Complementar nº 24/2000 e Resolução TCE nº 13/2015",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação para envio dos balancetes visa corrigir a falha na entrega dos documentos dentro do prazo estipulado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15, c/c o art. 20, inciso II",
+              "descricao": "Estabelece os prazos e as formas para o envio dos balancetes mensais."
+            },
+            {
+              "norma": "Lei Complementar nº 24/2000",
+              "artigo": "Não especificado",
+              "descricao": "Altera a redação da Lei Complementar nº 06/1991, relacionada ao envio de documentos."
+            },
+            {
+              "norma": "Resolução TCE nº 13/2015",
+              "artigo": "Não especificado",
+              "descricao": "Define as normas para o envio de informações e documentos ao TCE."
+            }
+          ]
+        },
+        {
+          "trecho": "encaminhe ao Tribunal e publique no Portal da Transparência todos os ato licitatórios e ajustes contratuais, conforme art. 5º, XXXIII e caput do art. 37, da Constituição de 1988 c/c o art. 8º, caput,  §  2º  e  §  3º,  I  da  Lei  n.º  12.527/2011  e  art.  48,  da  Lei Complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A determinação para encaminhamento e publicação dos atos licitatórios e contratuais busca garantir a transparência na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição de 1988",
+              "artigo": "5º, XXXIII e caput do art. 37",
+              "descricao": "Garante o direito à informação e estabelece os princípios da administração pública, incluindo a transparência."
+            },
+            {
+              "norma": "Lei n.º 12.527/2011",
+              "artigo": "8º, caput, § 2º e § 3º, I",
+              "descricao": "Regulamenta o acesso à informação e estabelece as obrigações de divulgação por parte dos órgãos públicos."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "48",
+              "descricao": "Estabelece a transparência como um dos princípios da gestão fiscal responsável."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

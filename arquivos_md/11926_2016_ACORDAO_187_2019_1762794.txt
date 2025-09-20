@@ -1,0 +1,147 @@
+{
+  "acordao": "187/2019",
+  "processo": "11926/2016",
+  "data_sessao": "11 de Março de 2019",
+  "orgao": "Superintendência Estadual de Navegação, Portos e Hidrovias - SNPH",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Luiz Gonzaga da Silva Junior",
+    "Walfrido de Oliveira Silva Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Regular com Ressalvas",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Luiz Gonzaga da Silva Junior, referente ao período de 01/01 à 19/04/2015 , nos termos do art. 22, II c/c o art. 24 da Lei 2.423/96 e art. 188, §1º, II c/c o art. 189, II da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Luiz Gonzaga da Silva Junior, referente ao período de 01/01 à 19/04/2015 , nos termos do art. 22, II c/c o art. 24 da Lei 2.423/96 e art. 188, §1º, II c/c o art. 189, II da Resolução 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A aprovação com ressalvas sem apontar nenhuma tipologia especifica se encaixa na tipologia mais generica de Contabilidade, Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, II",
+              "descricao": "Disposições sobre a prestação de contas anual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "24",
+              "descricao": "Critérios para julgamento das contas."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Procedimentos para análise e julgamento das contas."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Critérios para aplicação de ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgar Regular com Ressalvas",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Walfrido de Oliveira Silva Neto, referente ao período de 20/04 à 31/12/2015 , nos termos do art. 22, II c/c o art. 24 da Lei 2.423/96 e art. 188, §1º, II c/c o art. 189, II da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Walfrido de Oliveira Silva Neto, referente ao período de 20/04 à 31/12/2015 , nos termos do art. 22, II c/c o art. 24 da Lei 2.423/96 e art. 188, §1º, II c/c o art. 189, II da Resolução 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A aprovação com ressalvas sem apontar nenhuma tipologia especifica se encaixa na tipologia mais generica de Contabilidade, Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, II",
+              "descricao": "Disposições sobre a prestação de contas anual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "24",
+              "descricao": "Critérios para julgamento das contas."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Procedimentos para análise e julgamento das contas."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Critérios para aplicação de ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que oriente as próximas Comissões de Inspeção desta Corte de Contas para que verifiquem a regularização das ressalvas expostas na fundamentação do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que oriente as próximas Comissões de Inspeção desta Corte de Contas para que verifiquem a regularização das ressalvas expostas na fundamentação do Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A Determinação para que a SECEX oriente as próximas Comissões de Inspeção visa garantir a regularização de ressalvas, o que está diretamente relacionado à implementação e estruturação do controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à DERED para que cumpra o estabelecido no art. 162, caput da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à DERED para que cumpra o estabelecido no art. 162, caput da Resolução 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação para que a DERED cumpra o art. 162 está relacionada ao envio de informações e documentos, o que se enquadra no tema de Documentos e Envio de Informações da PCA e Outros.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "162",
+              "descricao": "Obrigações da DERED em relação ao acompanhamento das inspeções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Walfrido de Oliveira Silva Neto no valor de R$ 2.000,00 , conforme voto destaque do Conselheiro Érico Xavier Desterro e Silva, o qual foi acolhido em sessão pelo Relator. que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE .",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Walfrido de Oliveira Silva Neto no valor de R$ 2.000,00 , conforme voto destaque do Conselheiro Érico Xavier Desterro e Silva, o qual foi acolhido em sessão pelo Relator. que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE .",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A28A",
+          "tipologia_irregularidade": "Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "descricao": "O Ente ou órgão está superando e/ou superou o limite máximo de despesa com pessoal.",
+          "justificativa_tipologia": "A multa aplicada pode estar relacionada a descumprimentos na gestão fiscal, como gastos excessivos com pessoal. O tema da multa não é especificado no texto, razão pela qual a escolha foi a tipologia mais generica, Gasto total com pessoal do Ente Municipal: Limite máximo = 60% Limite prudencial = 57% Limite de alerta = 54%",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "acordao": "147/2023",
+  "processo": "11416/2017",
+  "data_sessao": "26 de Setembro de 2023",
+  "orgao": "Prefeitura Municipal de Coari",
+  "municipio": "Coari",
+  "exercicio": "2016",
+  "responsavel": [
+    "Raimundo Nonato de Araujo Magalhães",
+    "Alvimar da Costa Monteiro Junior",
+    "Monalisa Gadelha Cordovil"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Considerar  revel o Sr.  Alvimar  da  Costa  Monteiro  Junior , exControlador-Geral, e a Sra. Monalisa Gadelha Cordovil, exControladora-Geral, nos termos do art. 20, §4º, da Lei n.º 2.423/1996, em  virtude  da  não  apresentação  de  defesa,  apesar  de  devidamente notificados",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  revel o Sr.  Alvimar  da  Costa  Monteiro  Junior , exControlador-Geral, e a Sra. Monalisa Gadelha Cordovil, exControladora-Geral, nos termos do art. 20, §4º, da Lei n.º 2.423/1996, em  virtude  da  não  apresentação  de  defesa,  apesar  de  devidamente notificados",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A9B",
+          "tipologia_irregularidade": "Omissão do Responsável pela Unidade de Controle Interno",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "Apesar de o texto não explicitar a tipologia, o controle interno é responsável por zelar pelo patrimônio público. A ausência de informações sobre a defesa de Alvimar e Monalisa dificulta a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "20, §4º",
+              "descricao": "Define a revelia em processos do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Encaminhar , após a sua devida publicação, este PARECER PRÉVIO , acompanhado deste Voto e de cópia integral deste processo à Câmara Municipal  de  Coari,  a  fim  de  que  o  referido  Órgão,  exercendo  a competência que lhe é fixada pelo art. 127 e parágrafos, da Constituição do  Estado  do  Amazonas,  realize  o  julgamento  das referidas contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar , após a sua devida publicação, este PARECER PRÉVIO , acompanhado deste Voto e de cópia integral deste processo à Câmara Municipal  de  Coari,  a  fim  de  que  o  referido  Órgão,  exercendo  a competência que lhe é fixada pelo art. 127 e parágrafos, da Constituição do  Estado  do  Amazonas,  realize  o  julgamento  das referidas contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar de o texto não explicitar a tipologia, o texto trata do encaminhamento da decisão para a Câmara Municipal de Coari.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "127",
+              "descricao": "Estabelece as competências do Tribunal de Contas do Estado do Amazonas em relação ao julgamento das contas dos municípios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria de Controle Externo - SECEX que adote as medidas  necessárias  para a autuação  de  apenas  um  processo autônomo, a fim de apurar a responsabilidade pelas restrições remanescentes  relacionadas  aos  atos  de  gestão  levantados  pela DICAMI,  DICREA  e  DICOP  e  devidamente  elencadas  no  presente Relatório/Voto, com o carreamento ao novo processo dos documentos e  relatórios  que  se  encontram  presentes  no  caderno  processual  em questão, além de cópia do 'Relatório Final de Transição de Governo Municipal' de fls. 856/874",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria de Controle Externo - SECEX que adote as medidas  necessárias  para a autuação  de  apenas  um  processo autônomo, a fim de apurar a responsabilidade pelas restrições remanescentes  relacionadas  aos  atos  de  gestão  levantados  pela DICAMI,  DICREA  e  DICOP  e  devidamente  elencadas  no  presente Relatório/Voto, com o carreamento ao novo processo dos documentos e  relatórios  que  se  encontram  presentes  no  caderno  processual  em questão, além de cópia do 'Relatório Final de Transição de Governo Municipal' de fls. 856/874",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa apurar responsabilidades por atos de gestão, indicando falhas no controle interno que precisam ser corrigidas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Sepleno - Secretaria do Tribunal Pleno que, através do Setor competente, vinculado à referida Secretaria, cientifique o interessado, por meio de seus patronos, sobre o teor do Acórdão, nos termos do art. 161, caput ,  do Regimento Interno da Corte de Contas, encaminhando-lhe cópia deste Relatório/Voto e do sequente decisum",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Sepleno - Secretaria do Tribunal Pleno que, através do Setor competente, vinculado à referida Secretaria, cientifique o interessado, por meio de seus patronos, sobre o teor do Acórdão, nos termos do art. 161, caput ,  do Regimento Interno da Corte de Contas, encaminhando-lhe cópia deste Relatório/Voto e do sequente decisum",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Apesar de o texto não explicitar a tipologia, a determinação para que a Sepleno cientifique o interessado visa garantir a transparência e o devido processo legal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno da Corte de Contas",
+              "artigo": "161, caput",
+              "descricao": "Estabelece os procedimentos para notificação das partes sobre as decisões do Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Arquivar o feito, nos termos regimentais, após o cumprimento integral do decisório.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o feito, nos termos regimentais, após o cumprimento integral do decisório.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Apesar de o texto não explicitar a tipologia, o arquivamento do processo após o cumprimento integral do decisório demonstra que o processo está em conformidade com a legislação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

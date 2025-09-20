@@ -1,0 +1,115 @@
+{
+  "acordao": "1742/2023",
+  "processo": "11595/2018",
+  "data_sessao": "22 de agosto de 2023",
+  "orgao": "Unidade Executora de Projetos/SEMINF",
+  "municipio": "Manaus",
+  "exercicio": "2017",
+  "responsavel": [
+    "Antonio Almeida Peixoto Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas do Sr.  Antonio Almeida Peixoto Filho, responsável pela Unidade Executora de Projetos/SEMINF, relativo ao exercício de 2017, nos termos do art. 22, inciso II e 24 da Lei nº 2.423/96-LO/TCE, c/c art. 5°, II e art. 188, § 1° inciso II, da Resolução n° 04/2002-RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação de Contas do Sr.  Antonio Almeida Peixoto Filho, responsável pela Unidade Executora de Projetos/SEMINF, relativo ao exercício de 2017",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A aprovação com ressalvas indica que, apesar de falhas, a prestação de contas foi aceita.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, inciso II e 24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n° 04/2002-RITCE/AM",
+              "artigo": "5°, II e art. 188, § 1° inciso II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Unidade Executora de Projetos:\n- Observe quanto a renovação da Licença Ambiental;\n- Forneça de forma mais detalhada os itens a serem contratados nas  planilhas  necessárias,  de  modo  a  não  fazer  uso  de  expressões genéricas  como 'verba',  'ponto'  ou  'conjunto'  para  a  quantificação  de serviços conforme Súmula nº 258 do TCU.\n- Melhor observância no Projeto Básico quanto aos conceitos e princípios que norteiam a indicação de itens serviços de maior relevância e valor significativo a fim de não restringir o caráter competitivo da Licitação.\n- Que a administração adote melhor gerenciamento de sua pasta de obras e exija a emissão da ART/RRT de fiscalização, execução ou de elaboração do projeto básico para os contratos subsequentes.",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe quanto a renovação da Licença Ambiental",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "MEIO AMBIENTE",
+          "codigo_irregularidade": "T9A1A",
+          "tipologia_irregularidade": "Falta de licença ambiental para destinação de RSS",
+          "descricao": "O serviço gerador de RSS não possui a licença ambiental necessária para a destinação adequada dos resíduos, violando as regulamentações ambientais.",
+          "justificativa_tipologia": "A recomendação para observar a renovação da licença ambiental indica uma preocupação com a possível ausência ou expiração da licença, o que é uma nítida falha de Meio Ambiente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Forneça de forma mais detalhada os itens a serem contratados nas  planilhas  necessárias,  de modo a não fazer uso de expressões genéricas  como 'verba',  'ponto'  ou  'conjunto'  para  a  quantificação  de serviços conforme Súmula nº 258 do TCU.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "A falta de detalhamento nos itens a serem contratados nas planilhas é um indício de irregularidade em licitações e contratos, pois dificulta o controle e a fiscalização dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Súmula nº 258 do TCU",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Melhor observância no Projeto Básico quanto aos conceitos e princípios que norteiam a indicação de itens serviços de maior relevância e valor significativo a fim de não restringir o caráter competitivo da Licitação.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário.",
+          "justificativa_tipologia": "A recomendação para observar o Projeto Básico para não restringir o caráter competitivo da licitação é uma orientação importante para garantir a isonomia e a eficiência nas contratações públicas de obras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        },
+        {
+          "trecho": "Que a administração adote melhor gerenciamento de sua pasta de obras e exija a emissão da ART/RRT de fiscalização, execução ou de elaboração do projeto básico para os contratos subsequentes.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A19B",
+          "tipologia_irregularidade": "Não há emitido tempestivamente anotação ART/RRT de fiscalização da obra ou serviço de engenharia",
+          "descricao": "Lei 8.666/93, art. 58, III, c/c art. 67, caput; Lei 6.496/77, arts. 1º e 2º; Lei 5.194/66, art. 7º, 'e' c/c Res. CONFEA 1.010/05, art. 5º.",
+          "justificativa_tipologia": "A emissão de ART/RRT em obras garante a responsabilização técnica dos profissionais envolvidos e a segurança das construções.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Não consta",
+              "artigo": "Não consta",
+              "descricao": "Não consta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "acordao": "716/2022",
+  "processo": "11398/2021",
+  "data_sessao": "10 de maio de 2022",
+  "orgao": "Regime Próprio de Previdência Social do Município de Urucará - Urucaraprev",
+  "municipio": "Urucará",
+  "exercicio": "2020",
+  "responsavel": [
+    "Romualdo Vicente Alves Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. Romualdo Vicente  Alves  Filho,  responsável  pelo  Regime  Próprio  de  Previdência Social do Município de Urucará - Urucaraprev, exercício de 2020;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Romualdo Vicente Alves Filho, com fulcro no art. 163, da Resolução nº 04/2002-TCE/AM (Regimento Interno desta Corte de Contas);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à atual e futuras gestões do Regime Próprio de Previdência Social do Município de Urucará - Urucaraprev que observe com maior cautela os ditames da Lei nº 9.717/1998, mormente no que se refere ao encaminhamento do Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR à Secretaria de Previdência do Ministério da Economia, sob pena de imposição de multa por afronta ao art. 5º, XVI, 'd' da Portaria MPS nº 204/08; art. 22 da Portaria MPS nº 204/08; e art. 6º, IV, da Lei nº 9.717/98;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à atual e futuras gestões do Regime Próprio de Previdência Social do Município de Urucará - Urucaraprev que observe com maior cautela os ditames da Lei nº 9.717/1998, mormente no que se refere ao encaminhamento do Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR à Secretaria de Previdência do Ministério da Economia, sob pena de imposição de multa por afronta ao art. 5º, XVI, 'd' da Portaria MPS nº 204/08; art. 22 da Portaria MPS nº 204/08; e art. 6º, IV, da Lei nº 9.717/98;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas.",
+          "justificativa_tipologia": "O trecho descreve a necessidade de observar os ditames da Lei nº 9.717/1998, especificamente no que se refere ao envio do DAIR, cuja ausência caracteriza a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 9.717/1998",
+              "artigo": "6º, IV",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal e dá outras providências"
+            },
+            {
+              "norma": "Portaria MPS nº 204/08",
+              "artigo": "5º, XVI, 'd'",
+              "descricao": "Normas para organização e funcionamento dos RPPS. Estabelece a necessidade de encaminhamento do DAIR à Secretaria de Previdência do Ministério da Economia."
+            },
+            {
+              "norma": "Portaria MPS nº 204/08",
+              "artigo": "22",
+              "descricao": "Normas para organização e funcionamento dos RPPS. Dispõe sobre o encaminhamento do DAIR à Secretaria de Previdência do Ministério da Economia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão a ser designada para realizar inspeção no  Regime  Próprio  de  Previdência  Social  do  Município  de  Urucará  - Urucaraprev que apure a existência dos documentos que comprovem o encaminhamento do Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR à Secretaria de Previdência do Ministério da Economia;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão a ser designada para realizar inspeção no  Regime  Próprio  de  Previdência  Social  do  Município  de  Urucará  - Urucaraprev que apure a existência dos documentos que comprovem o encaminhamento do Demonstrativo das Aplicações e Investimentos dos Recursos - DAIR à Secretaria de Previdência do Ministério da Economia",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A75B",
+          "tipologia_irregularidade": "Ausência de atos de gestão",
+          "descricao": "Foi identificado que o RPPS não submeteu os atos de gestão ao Sistema de Controle Interno.",
+          "justificativa_tipologia": "O trecho determina a apuração da existência de documentos, o que está relacionado à necessidade de submeter os atos de gestão ao Sistema de Controle Interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74°",
+              "descricao": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação de subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Romualdo Vicente Alves Filho , bem como aos seus patronos, sobre o deslinde do feito.",
+      "trechos_identificados": []
+    }
+  ]
+}

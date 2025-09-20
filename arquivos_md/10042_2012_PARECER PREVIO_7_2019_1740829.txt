@@ -1,0 +1,402 @@
+{
+  "acordao": "7/2019",
+  "processo": "10042/2012",
+  "data_sessao": "27 de Fevereiro de 2019",
+  "orgao": "Prefeitura Municipal de Urucará",
+  "municipio": "Urucará",
+  "exercicio": "2011",
+  "responsavel": [
+    "Fernando Falabella"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  Irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Urucará, exercício de 2011, sob a responsabilidade do Senhor Fernando Falabella, nos termos dos arts. 22, III, 'b' e art. 25, da Lei n. 2.423/96, c/c o art. 188, II e § 1º, III, 'b', da Resolução 04/02-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Urucará, exercício de 2011, sob a responsabilidade do Senhor Fernando Falabella, nos termos dos arts. 22, III, 'b' e art. 25, da Lei n. 2.423/96, c/c o art. 188, II e § 1º, III, 'b', da Resolução 04/02-TCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A deliberação indica que a prestação de contas foi julgada irregular, o que implica falhas que prejudicam o controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "22, III, 'b' e art. 25",
+              "descricao": "Base legal para o julgamento da irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188, II e § 1º, III, 'b'",
+              "descricao": "Base legal para o julgamento da irregularidade na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Fernando  Falabella no  valor  de R$  13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos), sendo o  valor  de R$  1.096,03 por  cada  mês  de  atraso  uma  vez  que  a impropriedade foi constatada nos 12 (doze) meses do exercício de 2011, com fulcro no artigo 308, inciso II, da Resolução nº 04/2002, alterada pela Resolução  n°. 25, de 30 de agosto de 2012, pela inobservância dos prazos regulamentares para remessa ao Tribunal, por meio informatizado dos registros analíticos, nos meses de janeiro a dezembro/2011.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Fernando  Falabella no  valor  de R$  13.152,36 (treze mil, cento e cinquenta e dois reais e trinta e seis centavos), sendo o  valor  de R$  1.096,03 por  cada  mês  de  atraso  uma  vez  que  a impropriedade foi constatada nos 12 (doze) meses do exercício de 2011, com fulcro no artigo 308, inciso II, da Resolução nº 04/2002, alterada pela Resolução  n°. 25, de 30 de agosto de 2012, pela inobservância dos prazos regulamentares para remessa ao Tribunal, por meio informatizado dos registros analíticos, nos meses de janeiro a dezembro/2011.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa foi aplicada devido ao não cumprimento dos prazos para remessa de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, inciso II",
+              "descricao": "Base legal para a aplicação de multa por inobservância dos prazos de remessa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr.  Fernando Falabella ,  responsável  pela  Prefeitura Municipal de Urucará, exercício de 2011, no valor de R$ 20.000,00 (Vinte Mil reais), com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, alterada pela Resolução n°. 25, de 30 de agosto de 2012, por todas as infrações às normas legais e/ ou regulamentares identificados pela DICAMI e pela DICOP e apontadas no bojo da presente Proposta de Voto, quais sejam:",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr.  Fernando Falabella ,  responsável  pela  Prefeitura Municipal de Urucará, exercício de 2011, no valor de R$ 20.000,00 (Vinte Mil reais), com fulcro no art. 54, II, da Lei n.º 2.423/96 c/c o art. 308, VI, da Resolução nº 04/2002, alterada pela Resolução n°. 25, de 30 de agosto de 2012, por todas as infrações às normas legais e/ ou regulamentares identificados pela DICAMI e pela DICOP e apontadas no bojo da presente Proposta de Voto, quais sejam:",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A multa é aplicada devido a infrações de normas legais e regulamentares, incluindo burla ao processo de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Base legal para a aplicação da multa devido a infrações."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Base legal para a aplicação da multa devido a infrações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Fernando Falabella no valor de R$ 6.827,19 (Seis mil, oitocentos e vinte e sete reais e dezenove centavos), com fulcro no art. 54, III, da Lei n.º 2.423/96 c/c o art. 308, V, da Resolução nº 04/2002, alterada pela Resolução n°. 25, de 30 de agosto de 2012, pela prática de ato  de  gestão  ilegítimo  ou  antieconômico  de  que  resultou  injustificado dano ao erário, em todas as impropriedades fartamente detalhadas nos Itens I e II desta Proposta de Voto e que ensejaram a determinação de devolução ao erário.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Fernando Falabella no valor de R$ 6.827,19 (Seis mil, oitocentos e vinte e sete reais e dezenove centavos), com fulcro no art. 54, III, da Lei n.º 2.423/96 c/c o art. 308, V, da Resolução nº 04/2002, alterada pela Resolução n°. 25, de 30 de agosto de 2012, pela prática de ato  de  gestão  ilegítimo  ou  antieconômico  de  que  resultou  injustificado dano ao erário, em todas as impropriedades fartamente detalhadas nos Itens I e II desta Proposta de Voto e que ensejaram a determinação de devolução ao erário.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "A multa é aplicada devido a ato de gestão ilegítimo que resultou em dano ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Base legal para a aplicação da multa devido a dano ao erário."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "308, V",
+              "descricao": "Base legal para a aplicação da multa devido a dano ao erário."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o Senhor  Fernando  Falabella ,  responsável pela  Prefeitura  Municipal  de  Urucará,  no  exercício  de  2011,  para  que devolva aos cofres públicos o montante de R$ 1.962.684,41 (Um milhão, Novecentos e Sessenta e Dois mil, Seiscentos e Oitenta e Quatro reais e Quarenta e um centavo), nos termos do art. 304 c/c art. 305 da Resolução 4/2002  -  TCE/AM,  pela  prática  dos  seguintes  atos  identificados  pela DICAMI:",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Senhor  Fernando  Falabella ,  responsável pela  Prefeitura  Municipal  de  Urucará,  no  exercício  de  2011,  para  que devolva aos cofres públicos o montante de R$ 1.962.684,41 (Um milhão, Novecentos e Sessenta e Dois mil, Seiscentos e Oitenta e Quatro reais e Quarenta e um centavo), nos termos do art. 304 c/c art. 305 da Resolução 4/2002  -  TCE/AM,  pela  prática  dos  seguintes  atos  identificados  pela DICAMI:",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "O alcance é determinado devido a atos que indicam possível desvio de recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 - TCE/AM",
+              "artigo": "304",
+              "descricao": "Base legal para a determinação de alcance."
+            },
+            {
+              "norma": "Resolução 4/2002 - TCE/AM",
+              "artigo": "305",
+              "descricao": "Base legal para a determinação de alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  Alcance o Senhor  Fernando  Falabella ,  responsável pela  Prefeitura  Municipal  de  Urucará,  no  exercício  de  2011,  para  que devolva aos cofres públicos o montante de R$ 91.873,43 (Noventa e Um mil, Oitocentos e Setenta e Três reais e Quarenta e Três centavos), nos termos  do  art.  304  c/c  art.  305  da  Resolução  4/2002  -  TCE/AM,  pela prática dos seguintes atos identificados pela DICOP:",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Senhor  Fernando  Falabella ,  responsável pela  Prefeitura  Municipal  de  Urucará,  no  exercício  de  2011,  para  que devolva aos cofres públicos o montante de R$ 91.873,43 (Noventa e Um mil, Oitocentos e Setenta e Três reais e Quarenta e Três centavos), nos termos  do  art.  304  c/c  art.  305  da  Resolução 4/2002  -  TCE/AM,  pela prática dos seguintes atos identificados pela DICOP:",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "O alcance é determinado devido a indícios de superfaturamento e ausência de comprovação de despesas em obras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 - TCE/AM",
+              "artigo": "304",
+              "descricao": "Base legal para a determinação de alcance."
+            },
+            {
+              "norma": "Resolução 4/2002 - TCE/AM",
+              "artigo": "305",
+              "descricao": "Base legal para a determinação de alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao  atual  Prefeito  do  Município  de  Urucará  a  adoção  das seguintes medidas:\nObservância das disposições contidas no artigo 70, da Constituição Federal/88, adotando ações que objetivem a implantação do Sistema de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "Observância das disposições contidas no artigo 70, da Constituição Federal/88, adotando ações que objetivem a implantação do Sistema de Controle Interno, nos termos dos arts. 31 e 74 da Constituição Federal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa a correta implementação do controle interno, o que demonstra uma falha pré existente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "70",
+              "descricao": "Obrigatoriedade de implantação do Sistema de Controle Interno."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "31",
+              "descricao": "Base legal para a determinação de ações para implantação do controle interno."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Base legal para a determinação de ações para implantação do controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Apresente  comprovações  de  que  os  valores  descontados  dos servidores  foram  efetivamente  recolhidos  para  o  Imposto  de  Renda Pessoa  Física,  bem  como,  para  que  regularize  essa  situação  junto  à Receita do Brasil, caso ainda não esteja regularizada",
+      "trechos_identificados": [
+        {
+          "trecho": "Apresente  comprovações  de  que  os  valores  descontados  dos servidores  foram  efetivamente  recolhidos  para  o  Imposto  de  Renda Pessoa  Física,  bem  como,  para  que  regularize  essa  situação  junto  à Receita do Brasil, caso ainda não esteja regularizada",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A determinação expressa a necessidade de comprovar o recolhimento de tributos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Observância  do  encaminhamento  tempestivo  das  informações contábeis do sistema ACP, conforme o disposto no art. 4° da Resolução 07/2002 - TCE/AM c/c o § 1°, art. 15, da Lei Complementar n° 06/1991, com nova redação dada pela Lei Complementar n° 24/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Observância  do  encaminhamento  tempestivo  das  informações contábeis do sistema ACP, conforme o disposto no art. 4° da Resolução 07/2002 - TCE/AM c/c o § 1°, art. 15, da Lei Complementar n° 06/1991, com nova redação dada pela Lei Complementar n° 24/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação é relativa à entrega tempestiva de informações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 07/2002 - TCE/AM",
+              "artigo": "4°",
+              "descricao": "Obrigatoriedade de envio tempestivo das informações contábeis."
+            },
+            {
+              "norma": "Lei Complementar n° 06/1991",
+              "artigo": "15",
+              "descricao": "Obrigatoriedade de envio tempestivo das informações contábeis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que seja observado o disposto na Lei n° 8.666/93, principalmente em relação a instrução processual (art.38)",
+      "trechos_identificados": [
+        {
+          "trecho": "Que seja observado o disposto na Lei n° 8.666/93, principalmente em relação a instrução processual (art.38)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A determinaçao visa o cumprimento das normas licitatórias em relação a instrução processual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "38",
+              "descricao": "Obrigatoriedade de observar a lei de licitações em relação à instrução processual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar  à  Prefeitura  Municipal  de  Urucará  para  que  torne  o controle da folha de frequência dos servidores mais eficiente, a fim de que o relevante serviço público prestado por este órgão não sofra interrupção ou descontinuidade, em homenagem ao princípio da continuidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar  à  Prefeitura  Municipal  de  Urucará  para  que  torne  o controle da folha de frequência dos servidores mais eficiente, a fim de que o relevante serviço público prestado por este órgão não sofra interrupção ou descontinuidade, em homenagem ao princípio da continuidade",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A1B",
+          "tipologia_irregularidade": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "descricao": "Relação de bens Móveis e Imóveis inadequada, sem a sua perfeita Caracterização, assim como a não identificação pela guarda de cada um deles.",
+          "justificativa_tipologia": "A determinaçao de controle da folha de frequencia visa a melhor gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que seja observado o prazo regulamentar estabelecido pelo o art. 9° da Lei Complementar n° 06/91, em relação a publicação dos balanços (orçamentário, financeiro e patrimonial) no Diário Oficial do Estado",
+      "trechos_identificados": [
+        {
+          "trecho": "Que seja observado o prazo regulamentar estabelecido pelo o art. 9° da Lei Complementar n° 06/91, em relação a publicação dos balanços (orçamentário, financeiro e patrimonial) no Diário Oficial do Estado",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinaçao visa o cumprimento dos prazos e a publicação dos documentos necessários.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n° 06/91",
+              "artigo": "9°",
+              "descricao": "Obrigatoriedade de publicar os balanços no Diário Oficial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Que seja observada todas as recomendações relativas às obras e serviços de engenharia, elencadas na conclusão do Relatório Conclusivo n. 230/2018 - DICOP - Itens 9.1 a 9.14",
+      "trechos_identificados": [
+        {
+          "trecho": "Que seja observada todas as recomendações relativas às obras e serviços de engenharia, elencadas na conclusão do Relatório Conclusivo n. 230/2018 - DICOP - Itens 9.1 a 9.14",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A11B",
+          "tipologia_irregularidade": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "descricao": "O Projeto Básico não apresenta Especificação Técnica com as normas e condições para execução do objeto, com caracterização de materiais, equipamentos e critérios de medição",
+          "justificativa_tipologia": "A determinaçao visa o cumprimento das normas relativas a obras e serviços de engenharia.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção do Município de Urucará, verifique se foram adotadas as medidas saneadoras para a implantação do Sistema de Controle Interno naquela Municipalidade, nos termos dos arts. 31 e 74 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção do Município de Urucará, verifique se foram adotadas as medidas saneadoras para a implantação do Sistema de Controle Interno naquela Municipalidade, nos termos dos arts. 31 e 74 da Constituição Federal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação visa a implantação de um sistema de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "31",
+              "descricao": "Base legal para a verificação das medidas de implantação do controle interno."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Base legal para a verificação das medidas de implantação do controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que seja realizada uma Representação junto ao Ministério Público Estadual do Amazonas, na forma do artigo 114, inciso III, da Lei n.  2423/96,  em  razão  da  possível  prática  de  atos  de  improbidade administrativa durante a gestão do Senhor Fernando Falabella, em vista de todas as impropriedades descritas no corpo da Proposta de Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que seja realizada uma Representação junto ao Ministério Público Estadual do Amazonas, na forma do artigo 114, inciso III, da Lei n.  2423/96,  em  razão  da  possível  prática  de  atos  de  improbidade administrativa durante a gestão do Senhor Fernando Falabella, em vista de todas as impropriedades descritas no corpo da Proposta de Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A58B",
+          "tipologia_irregularidade": "Não adoção de medidas para o retorno da despesa total com pessoal ao respectivo limite",
+          "descricao": "Ente não adotou medidas para o retorno da despesa com pessoal ao respectivo limite.",
+          "justificativa_tipologia": "A representação é necessária por possíveis atos de improbidade administrativa, o que demonstra uma falha na gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "114, inciso III",
+              "descricao": "Base legal para a representação ao Ministério Público devido a possíveis atos de improbidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência da presente decisão a todos os responsáveis, sobretudo ao Senhor Fernando Falabella.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência da presente decisão a todos os responsáveis, sobretudo ao Senhor Fernando Falabella.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A ação de dar ciência não indica, por si só, um problema estrutural, apenas informa a decisão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

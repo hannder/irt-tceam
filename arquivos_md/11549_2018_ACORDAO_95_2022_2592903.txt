@@ -1,0 +1,240 @@
+{
+  "acordao": "95/2022",
+  "processo": "11.549/2018",
+  "data_sessao": "15 de fevereiro de 2022",
+  "orgao": "Câmara Municipal de Uarini",
+  "municipio": "Uarini",
+  "exercicio": "2017",
+  "responsavel": [
+    "Edvilson Lopes de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "revelia",
+      "descricao": "Considerar revel o senhor Edvilson Lopes de Souza ,  Presidente da Câmara Municipal de Uarini e Ordenador de Despesas, nos termos do art. 20, §4º, da Lei nº 2.423/96, c/c o art. 88, da Resolução TCE/AM nº 04/2002,  por  não  apresentar  razões  de  defesa  no  prazo  regimental, deixando de atender às notificações desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel o senhor Edvilson Lopes de Souza ,  Presidente da Câmara Municipal de Uarini e Ordenador de Despesas, nos termos do art. 20, §4º, da Lei nº 2.423/96, c/c o art. 88, da Resolução TCE/AM nº 04/2002,  por  não  apresentar  razões  de  defesa  no  prazo  regimental, deixando de atender às notificações desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Omissão em atender as notificações do TCE e apresentar defesa, indicando falha no envio de informações obrigatórias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "20, §4º",
+              "descricao": "Regulamenta o processo administrativo no âmbito do TCE/AM"
+            },
+            {
+              "norma": "Resolução TCE/AM nº 04/2002",
+              "artigo": "88",
+              "descricao": "Estabelece normas sobre citação e intimação nos processos do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Uarini,  referente  ao  exercício  de  2017,  sob  a  responsabilidade do senhor Edvilson Lopes de Souza , Presidente daquela Casa e Ordenador de Despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em  razão das falhas indicadas na fundamentação  do Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Uarini,  referente  ao  exercício  de  2017,  sob  a  responsabilidade do senhor Edvilson Lopes de Souza , Presidente daquela Casa e Ordenador de Despesas, nos termos do art. 19, inciso II c/c o art. 22, inciso III, alíneas 'b' e 'c', da Lei Orgânica deste Tribunal de Contas n° 2.423/96, em  razão das falhas indicadas na fundamentação  do Relatório-Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A prestação de contas foi julgada irregular devido a falhas não especificadas na descrição, indicando uma falta de transparência na gestão dos recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "19, inciso II",
+              "descricao": "Define a competência do TCE para julgar as contas dos responsáveis por bens e valores públicos."
+            },
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n° 2.423/96",
+              "artigo": "22, inciso III, alíneas 'b' e 'c'",
+              "descricao": "Estabelece os requisitos para a regularidade das contas, incluindo a demonstração da correta aplicação dos recursos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "alcance",
+      "descricao": "Considerar em Alcance o senhor Edvilson Lopes de Souza , Presidente  da  Câmara  Municipal  de  Uarini  e  Ordenador  de Despesas, no valor de R$9.000,00 (nove mil reais), nos termos do art. 304, inciso I, da Resolução nº 04/2002-TCE/AM,  em  razão  do descumprimento dos dispositivos da Lei de Licitações n° 8.666/93, bem como  da  não  comprovação  de  quais  serviços  foram  realizados  nas despesas  com  propaganda  e  publicidade, promoção  de  vendas, planejamento de campanhas de publicidade, elaboração de desenhos, textos e demais  materiais  publicitários, caracterizando  gastos  em desfavor da Administração Pública, conforme o item 14 da fundamentação  do  Relatório-Voto,  e  fixar prazo  de  30  (trinta)  dias para  que  o  responsável  recolha  o  valor  do  alcance/glosa,  na  esfera Municipal para o órgão Câmara Municipal de Uarini",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o senhor Edvilson Lopes de Souza , Presidente  da  Câmara  Municipal  de  Uarini  e  Ordenador  de Despesas, no valor de R$9.000,00 (nove mil reais), nos termos do art. 304, inciso I, da Resolução nº 04/2002-TCE/AM,  em  razão  do descumprimento dos dispositivos da Lei de Licitações n° 8.666/93, bem como  da  não  comprovação  de  quais  serviços  foram  realizados  nas despesas  com  propaganda  e  publicidade, promoção  de  vendas, planejamento de campanhas de publicidade, elaboração de desenhos, textos e demais  materiais  publicitários, caracterizando  gastos  em desfavor da Administração Pública, conforme o item 14 da fundamentação  do  Relatório-Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "justificativa_tipologia": "A não comprovação dos serviços realizados e o descumprimento da Lei de Licitações indicam possíveis irregularidades na contratação de serviços e superfaturamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Define as condições para a responsabilização por alcance, referente a dano ao erário decorrente de irregularidades em despesas."
+            },
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "Não especificado",
+              "descricao": "Normas gerais sobre licitações e contratos administrativos."
+            }
+          ]
+        },
+        {
+          "trecho": "fixar prazo  de  30  (trinta)  dias para  que  o  responsável  recolha  o  valor  do  alcance/glosa,  na  esfera Municipal para o órgão Câmara Municipal de Uarini",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "justificativa_tipologia": "A não comprovação dos serviços realizados e o descumprimento da Lei de Licitações indicam possíveis irregularidades na contratação de serviços e superfaturamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar  multa ao  senhor Edvilson  Lopes  de  Souza , presidente  da Câmara  Municipal  de  Uarini  e  Ordenador  de  Despesas,  no  valor  de R$1.706,80 (um  mil,  setecentos  e  seis  reais  e  oitenta  centavos), conforme art. 54, I, 'c', da Lei n° 2.423/96-TCE/AM, alterada pela Lei Complementar  n°  204/2020-  TCE/AM  c/c  art.  308,  inciso  I,  'c',  da Resolução nº. 04/2002-TCE/AM, pelo não envio do Relatório de Gestão Fiscal  (1°  e  2°  semestres/2017),  ao  sistema  Gefis",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  senhor Edvilson  Lopes  de  Souza , presidente  da Câmara  Municipal  de  Uarini  e  Ordenador  de  Despesas,  no  valor  de R$1.706,80 (um  mil,  setecentos  e  seis  reais  e  oitenta  centavos), conforme art. 54, I, 'c', da Lei n° 2.423/96-TCE/AM, alterada pela Lei Complementar  n°  204/2020-  TCE/AM  c/c  art.  308,  inciso  I,  'c',  da Resolução nº. 04/2002-TCE/AM, pelo não envio do Relatório de Gestão Fiscal  (1°  e  2°  semestres/2017),  ao  sistema  Gefis",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao não envio do Relatório de Gestão Fiscal, indicando falha na transparência fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96-TCE/AM",
+              "artigo": "54, I, 'c'",
+              "descricao": "Define as sanções aplicáveis por irregularidades na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar  n°  204/2020-  TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Altera a Lei n° 2.423/96-TCE/AM, referente às sanções."
+            },
+            {
+              "norma": "Resolução nº. 04/2002-TCE/AM",
+              "artigo": "308, inciso I, 'c'",
+              "descricao": "Regulamenta o processo de aplicação de multas no âmbito do TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "perfazendo  o montante  de R$3.413,60 (três mil, quatrocentos  e treze reais e sessenta centavos), conforme o item 1, da fundamentação do Relatório-Voto e fixar prazo de 30 (trinta) dias para que o responsável recolha  o  valor  da  multa,  na  esfera  estadual para  o  órgão  Fundo  de Apoio  ao  Exercício  do  Controle  Externo  -  FAECE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao não envio do Relatório de Gestão Fiscal, indicando falha na transparência fiscal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar  Multa ao  senhor Edvilson  Lopes  de  Souza , Presidente  da Câmara  Municipal  de  Uarini  e  Ordenador  de  Despesas,  no  valor  de R$68.271,96 (sessenta  e  oito  mil,  duzentos  e  setenta  e  um  reais  e noventa e seis centavos), nos casos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, conforme os termos do art. 54, VI,  da  Lei  n°  2.423/96,  alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM, alterada  pela  Resolução  nº  04/2018-TCE/AM,  pelas  impropriedades constantes  nos  itens  2,  3,  4, 5, 6, 7, 9, 10, 11, 12  e  13, da fundamentação do Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  senhor Edvilson  Lopes  de  Souza , Presidente  da Câmara  Municipal  de  Uarini  e  Ordenador  de  Despesas,  no  valor  de R$68.271,96 (sessenta  e  oito  mil,  duzentos  e  setenta  e  um  reais  e noventa e seis centavos), nos casos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, conforme os termos do art. 54, VI,  da  Lei  n°  2.423/96,  alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM, alterada  pela  Resolução  nº  04/2018-TCE/AM,  pelas  impropriedades constantes  nos  itens  2,  3,  4, 5, 6, 7, 9, 10, 11, 12  e  13, da fundamentação do Relatório-Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A aplicação de multa decorre de graves infrações a normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais. A falta de licitação em casos obrigatórios é uma irregularidade grave que compromete a transparência e a legalidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, VI",
+              "descricao": "Estabelece a multa por grave infração à norma legal ou regulamentar."
+            },
+            {
+              "norma": "Lei Complementar  n°  204/2020-TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Altera a Lei n° 2.423/96-TCE/AM, referente às sanções."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Regulamenta o processo de aplicação de multas no âmbito do TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da multa, na esfera estadual para o órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Inventário de bens patrimoniais sem indicação do valor total dos bens",
+          "justificativa_tipologia": "A aplicação de multa decorre de graves infrações a normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais. A falta de licitação em casos obrigatórios é uma irregularidade grave que compromete a transparência e a legalidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar  Multa ao  senhor Edvilson  Lopes  de  Souza , Presidente  da Câmara  Municipal  de  Uarini  e  Ordenador  de  Despesas,  no  valor  de R$34.135,98 (trinta e quatro mil, cento e trinta e cinco reais e noventa e oito  centavos),  conforme os termos do art. 54, V, da Lei n° 2.423/96, alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c  art.  308, inciso  V,  da  Resolução n°  04/2002-TCE/AM, alterada pela Resolução n.º 04/2018-TCE/AM, por atos de gestão ilegítimo e antieconômico de que resulte injustificado dano ao erário, pela impropriedade constante no item  14 ,  da  fundamentação  do  Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao  senhor Edvilson  Lopes  de  Souza , Presidente  da Câmara  Municipal  de  Uarini  e  Ordenador  de  Despesas,  no  valor  de R$34.135,98 (trinta e quatro mil, cento e trinta e cinco reais e noventa e oito  centavos),  conforme os termos do art. 54, V, da Lei n° 2.423/96, alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c  art.  308, inciso  V,  da  Resolução n°  04/2002-TCE/AM, alterada pela Resolução n.º 04/2018-TCE/AM, por atos de gestão ilegítimo e antieconômico de que resulte injustificado dano ao erário, pela impropriedade constante no item  14 ,  da  fundamentação  do  Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A multa é aplicada devido a atos de gestão ilegítimos e antieconômicos, que resultaram em dano ao erário público, como despesas sem prévio empenho.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, V",
+              "descricao": "Estabelece multa por atos de gestão ilegítimos e antieconômicos."
+            },
+            {
+              "norma": "Lei Complementar  n°  204/2020-TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Altera a Lei n° 2.423/96-TCE/AM, referente às sanções."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso V",
+              "descricao": "Regulamenta o processo de aplicação de multas no âmbito do TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "fixar prazo de 30 (trinta) dias para que o responsável recolha o valor da multa, na esfera Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A multa é aplicada devido a atos de gestão ilegítimos e antieconômicos, que resultaram em dano ao erário público, como despesas sem prévio empenho.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

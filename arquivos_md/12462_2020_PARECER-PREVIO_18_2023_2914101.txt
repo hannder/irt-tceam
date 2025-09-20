@@ -1,0 +1,12 @@
+{
+  "acordao": "18/2023",
+  "processo": "12462/2020",
+  "data_sessao": "14 de Março de 2023",
+  "orgao": "Prefeitura Municipal de Urucurituba",
+  "municipio": "Urucurituba",
+  "exercicio": "2019",
+  "responsavel": [
+    "José Claudenor de Castro Pontes"
+  ],
+  "itens": []
+}

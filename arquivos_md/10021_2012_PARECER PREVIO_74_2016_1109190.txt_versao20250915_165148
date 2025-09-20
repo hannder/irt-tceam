@@ -1,0 +1,287 @@
+{
+  "acordao": "74/2016",
+  "processo": "10021/2012",
+  "data_sessao": "13 de Dezembro de 2016",
+  "orgao": "Prefeitura Municipal de Urucurituba",
+  "municipio": "Urucurituba",
+  "exercicio": "2011",
+  "responsavel": [
+    "Edivaldo Silva Araújo"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do  exercício  de  2011  do Sr.Edivaldo Silva Araújo - Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do  exercício  de  2011  do Sr.Edivaldo Silva Araújo - Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96.",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Prestação de contas julgada irregular devido a falhas na sua apresentação e avaliação, com consequente distorção na sua classificação contábil.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A deliberação explicita o julgamento de irregularidade nas contas, enquadrando-se como Distorção na apresentação, avaliação e classificação contábil.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "A Constituição Federal, em seu art. 71, II, estabelece a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da Administração direta e indireta."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "A Constituição Estadual, em seu art. 40, II, estabelece a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da Administração direta e indireta."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "A Lei 2.423/96, em seu art. 1º, II, estabelece a competência do Tribunal de Contas para fiscalizar a aplicação de recursos públicos."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "A Lei 2.423/96, em seu art. 2º, define os responsáveis pela prestação de contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "A Lei 2.423/96, em seu art. 5º, detalha os documentos que devem ser apresentados na prestação de contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, III",
+              "descricao": "A Lei 2.423/96, em seu art. 22, III, prevê a irregularidade das contas em caso de descumprimento das normas legais."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "25",
+              "descricao": "A Lei 2.423/96, em seu art. 25, estabelece as sanções aplicáveis em caso de irregularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$ 2.192,06 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308, I, 'b' da Resolução n. 04/2002  pelo  item  39  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$ 2.192,06 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308, I, 'b' da Resolução n. 04/2002  pelo  item  39  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Aplicação de multa por falta de licitação em casos obrigatórios, conforme identificado no relatório conclusivo.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo n. 48 - Dicami/CI\"; justificativa=\"A multa aplicada decorre de irregularidades identificadas na falta de licitação.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, I, 'b'",
+              "descricao": "A Resolução n. 04/2002 estabelece as normas para aplicação de multas por irregularidades identificadas pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$13.152,36 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado  -  SEFAZ  com  fundamento  no  art.  308,  II do Regimento  Interno  do  TCE/AM,  pelos  itens  1  e  2  do  Relatório Conclusivo n. 48 - Dicami/CI.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$13.152,36 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado  -  SEFAZ  com  fundamento  no  art.  308,  II do Regimento  Interno  do  TCE/AM,  pelos  itens  1  e  2  do  Relatório Conclusivo n. 48 - Dicami/CI.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "A multa aplicada decorre de irregularidades apontadas no relatório conclusivo, relacionadas a superfaturamento de preços.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo n. 48 - Dicami/CI\"; justificativa=\"A aplicação de multa indica a ocorrência de superfaturamento.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "308, II",
+              "descricao": "O Regimento Interno do TCE/AM estabelece as normas para aplicação de multas por irregularidades identificadas pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308,  VI da Resolução n. 04/2002 pelos itens 12, 13, 14, 16, 23, 26, 36, 37, 38, 40, 41, 42, 45, 46, 48,  53,  54,  55,  56,  57,  58  e  60  39 do  Relatório  Conclusivo  n.  48  Dicami/CI.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do Estado - SEFAZ com fundamento no art. 308,  VI da Resolução n. 04/2002 pelos itens 12, 13, 14, 16, 23, 26, 36, 37, 38, 40, 41, 42, 45, 46, 48,  53,  54,  55,  56,  57,  58  e  60  39 do  Relatório  Conclusivo  n.  48  Dicami/CI.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Aplicação de multa devido a deficiências no controle interno, indicando uma implementação ou estruturação insuficiente.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo n. 48 - Dicami/CI\"; justificativa=\"A multa aplicada decorre de deficiências no controle interno, apontando para problemas na implementação ou estruturação do sistema.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, VI",
+              "descricao": "A Resolução n. 04/2002 estabelece as normas para aplicação de multas por irregularidades identificadas pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do  Estado  -  SEFAZcom  fundamento  no  art.  308,  V  da  Resolução  n. 04/2002  pelos  item  17  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edivaldo Silva Araújo no valor de R$8.768,25 que devem ser recolhidos na esfera Estadual para o órgão Encargos Gerais do  Estado  -  SEFAZcom  fundamento  no  art.  308,  V  da  Resolução  n. 04/2002  pelos  item  17  do  Relatório  Conclusivo  n.  48  -  Dicami/CI.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A17B",
+          "tipologia_irregularidade": "Ausência de um plano de controle interno formalizado",
+          "descricao": "A multa é aplicada por ausência de um plano de controle interno formalizado, conforme apontado no relatório conclusivo.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo n. 48 - Dicami/CI\"; justificativa=\"A aplicação de multa indica a ausência de um plano de controle interno formalizado, um elemento essencial para a gestão e fiscalização adequadas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002",
+              "artigo": "308, V",
+              "descricao": "A Resolução n. 04/2002 estabelece as normas para aplicação de multas por irregularidades identificadas pelo Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Considerar  em  Alcance o  Sr.  Edivaldo  Silva  Araújo  no  valor  de R$4.819.186,85  que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Urucurituba com fundamento no art. 190, I  e  arts.  304  e  305  do  Regimento  Interno pelos  itens  13,  17  e  23  do Relatório Conclusivo n. 48 - Dicami/CI.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o  Sr.  Edivaldo  Silva  Araújo  no  valor  de R$4.819.186,85  que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Urucurituba com fundamento no art. 190, I  e  arts.  304  e  305  do  Regimento  Interno pelos  itens  13,  17  e  23  do Relatório Conclusivo n. 48 - Dicami/CI.",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "O responsável é considerado em alcance devido a pagamentos irregulares, possivelmente burlando o processo legal de pagamento.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo n. 48 - Dicami/CI\"; justificativa=\"A consideração em alcance sugere a necessidade de restituição de valores devido a irregularidades nos pagamentos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "190, I",
+              "descricao": "O Regimento Interno estabelece as normas para responsabilização e alcance em casos de irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "304",
+              "descricao": "O Regimento Interno estabelece as normas para responsabilização e alcance em casos de irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "305",
+              "descricao": "O Regimento Interno estabelece as normas para responsabilização e alcance em casos de irregularidades na gestão de recursos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- a) Cumpra os prazos para remessa de dados eletronicamente quanto ao Sistema e-contas e Gefis;\n- b)  Observe  o  correto  e  completo  preenchimento  das  informações  nos Sistemas deste TCE/AM;\n- c) Observe com mais zelo a Lei de Licitações e Contratos.\n- d) Evite a movimentação de grande volume de recursos financeiros em espécie;\n- e) Observe com mais rigor as normas brasileiras de contabilidade quanto à correta escrituração e elaboração das demonstrações contábeis.\n- f) Observe com maior rigor o que determina o art. 12 da Lei n. 4320/64;\n- g) Zele pelo fiel registro das receitas tributárias municipais;\n- h) Evite o registro patrimonial  de ativos em nome da própria prefeitura nas demonstrações contábeis.\n- i) Proceda  a  instalação,  alimentação  e  manutenção  de  sistema  de controle de bens em estoque;\n- j) Proceda  aos  repasses  das  retenções  previdenciárias  dentro  dos prazos definidos pela Secretaria da Receita Federal do Brasil.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- a) Cumpra os prazos para remessa de dados eletronicamente quanto ao Sistema e-contas e Gefis",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Recomendação para cumprir os prazos de remessa de dados eletronicamente, especialmente para o Sistema e-contas e Gefis, devido ao não envio.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para cumprir os prazos de remessa de dados sugere um histórico de não cumprimento.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 13/2015",
+              "artigo": "1º",
+              "descricao": "A Resolução nº 13/2015 estabelece as normas para o envio de dados eletronicamente ao TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- b)  Observe  o  correto  e  completo  preenchimento  das  informações  nos Sistemas deste TCE/AM",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Recomendação para observar o correto e completo preenchimento das informações nos sistemas do TCE/AM, devido a falta de documentação.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para preencher corretamente as informações sugere problemas na documentação dos controles internos.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- c) Observe com mais zelo a Lei de Licitações e Contratos.",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Recomendação para observar com mais atenção a Lei de Licitações e Contratos, devido a justificativas inadequadas para dispensa de licitação.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para observar a lei de licitações indica problemas na aplicação da legislação.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- d) Evite a movimentação de grande volume de recursos financeiros em espécie",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Recomendação para evitar a movimentação de grande volume de recursos financeiros em espécie, devido a falta de atividades de controle interno.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para evitar movimentação em espécie sugere fragilidade nos controles internos.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- e) Observe com mais rigor as normas brasileiras de contabilidade quanto à correta escrituração e elaboração das demonstrações contábeis.",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Recomendação para observar com mais rigor as normas brasileiras de contabilidade, principalmente na correta escrituração e elaboração das demonstrações contábeis, devido a sua ausência.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para observar as normas contábeis sugere deficiências na escrituração e elaboração das demonstrações.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- f) Observe com maior rigor o que determina o art. 12 da Lei n. 4320/64",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Recomendação para observar com maior rigor o art. 12 da Lei n. 4320/64, relativo às despesas sem prévio empenho.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para observar o art. 12 da Lei n. 4320/64 sugere a ocorrência de despesas sem empenho.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4320/64",
+              "artigo": "12",
+              "descricao": "O artigo 12 da Lei nº 4.320/64 trata da obrigatoriedade de emissão de empenho para despesas."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- g) Zele pelo fiel registro das receitas tributárias municipais",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Recomendação para zelar pelo fiel registro das receitas tributárias municipais, devido a não adoção de providências para cobrança.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para zelar pelo registro das receitas tributárias sugere falhas na gestão e cobrança.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- h) Evite o registro patrimonial  de ativos em nome da própria prefeitura nas demonstrações contábeis.",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Recomendação para evitar o registro patrimonial de ativos em nome da própria prefeitura nas demonstrações contábeis, em razão da não atualização dos valores.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para evitar o registro patrimonial inadequado sugere problemas na gestão patrimonial e na aplicação das normas contábeis.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- i) Proceda  a  instalação,  alimentação  e  manutenção  de  sistema  de controle de bens em estoque",
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Recomendação para proceder à instalação, alimentação e manutenção de sistema de controle de bens em estoque, devido a ausência de registro contínuo.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para instalar sistema de controle de estoque sugere deficiências no controle patrimonial e de estoque.\"",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar ao Sr. Edivaldo Silva Araújo e ao atual Prefeito Municipal de Urucurituba que:\n- j) Proceda  aos  repasses  das  retenções  previdenciárias  dentro  dos prazos definidos pela Secretaria da Receita Federal do Brasil.",
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Recomendação para proceder aos repasses das retenções previdenciárias dentro dos prazos definidos pela Secretaria da Receita Federal do Brasil, devido ao não recolhimento.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação para repassar as retenções previdenciárias sugere atrasos ou omissões nos recolhimentos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

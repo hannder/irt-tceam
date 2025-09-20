@@ -1,0 +1,340 @@
+{
+  "acordao": "Acórdão",
+  "processo": "2281/2007",
+  "data_sessao": "XX de XXXXXXXX de XXXX",
+  "orgao": "Prefeitura Municipal de Urucurituba",
+  "municipio": "Urucurituba",
+  "exercicio": "2006",
+  "responsavel": [
+    "Sr. XXXXXXXXXXXXXX"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "julgar XXXXXXXX a Prestação de Contas da Prefeitura Municipal de Urucurituba, exercício de 2006, de responsabilidade do Sr. XXXXXXXXXXXXX, Prefeito e ordenador de despesa, nos termos do art. 1.º, II c/c art. 22, III, alíneas 'a', 'b' e 'c', da Lei n.º 2.423/96 e art. 5.º, II, c/c o art. 188, II, §1.º, III, \"a\", \"b\" e \"c\", da Resolução n.° 4/02-TCE, para:",
+      "trechos_identificados": [
+        {
+          "trecho": "julgar XXXXXXXX a Prestação de Contas da Prefeitura Municipal de Urucurituba, exercício de 2006, de responsabilidade do Sr. XXXXXXXXXXXXX, Prefeito e ordenador de despesa, nos termos do art. 1.º, II c/c art. 22, III, alíneas 'a', 'b' e 'c', da Lei n.º 2.423/96 e art. 5.º, II, c/c o art. 188, II, §1.º, III, \"a\", \"b\" e \"c\", da Resolução n.° 4/02-TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas e determinações de cumprimento da Lei 2423/96 e Resolução 4/02-TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "1.º, II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, III, alíneas 'a', 'b' e 'c'",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.° 4/02-TCE",
+              "artigo": "5.º, II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.° 4/02-TCE",
+              "artigo": "art. 188, II, §1.º, III, \"a\", \"b\" e \"c\"",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "GLOSAR o valor de R$ XX.XXX,XX (XXXX e XXX reais e XXXX centavos) ao Sr. XXXXXXXXXXXXXXXX, corrigido monetariamente, pelas impropriedades discriminadas no relatório conclusivo do DCOP, fls. XX/XX e item X do relatório/voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "GLOSAR o valor de R$ XX.XXX,XX (XXXX e XXX reais e XXXX centavos) ao Sr. XXXXXXXXXXXXXXXX, corrigido monetariamente, pelas impropriedades discriminadas no relatório conclusivo do DCOP, fls. XX/XX e item X do relatório/voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho indica uma determinação de glosa de valores devido a impropriedades não detalhadas, sugerindo pagamentos irregulares.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "MULTAR o Sr. XXXXXXXXXXXXXXX, Prefeito Municipal e Ordenador de Despesa de XXXXXXXXX:\n- a)  No  valor  de  R$  XXX,XX  (XXXXX  e  XXXX  reais  e  XXXX  e  XXX centavos), com fulcro no art. 1º, XI e XXVI c/c o art. 54, IV, da Lei n° 2.423/96 c/c o art. 308, I, alínea 'a', da Resolução n.° 4/02, alterada pela Resolução n.° 1/09, pelo não atendimento a diligência referente aos questionamentos do Ministério Público, itens 6 a 33 do relatório/voto;\n- b) No valor de R$ XXX,XX (XXXXXXXXXXXXXXXXXXXXXXXX), arbitrada conforme art. 308, inciso I, alínea 'c', da Resolução n.º 4/02-TCE/AM,  alterado  pela Resolução  nº.  1/09-TCE/AM  e  art.  6.º-A,  inciso  I,  alínea  'a'  da  Resolução  n.º  7/02TCE/AM,  alterada  pela  Resolução  n.º  2/07,  também  do  TCE/AM,  por  cada  mês  de atraso no encaminhamento, por meio magnético (ACP), dos registros de movimentação  contábil  referente  aos  meses  de  Janeiro  a  Dezembro  (12  meses), totalizando  o  montante  de  R$  X.XXX,XX  (XXX  XXX  XXX  e  XXX  reais  e  XXXX centavos), item 3 do relatório/voto.\n- c)  No  valor  de  R$  X.XXX,XX  (XXXXXXXXXXXXXXXXXXXXXXXX)  com base, no art. 54, II, da Lei n.° 2.423/96 c/c o art. 308, inciso V, alínea 'a', da Resolução n.° 4/02, alterada pela Resolução n.° 1/09, pelos atos cometidos contra a norma legal de natureza contábil, financeira, orçamentária, operacional e patrimonial, referente aos itens 1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 e 33 do relatório/voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "MULTAR o Sr. XXXXXXXXXXXXXXX, Prefeito Municipal e Ordenador de Despesa de XXXXXXXXX: - a)  No  valor  de  R$  XXX,XX  (XXXXX  e  XXXX  reais  e  XXXX  e  XXX centavos), com fulcro no art. 1º, XI e XXVI c/c o art. 54, IV, da Lei n° 2.423/96 c/c o art. 308, I, alínea 'a', da Resolução n.° 4/02, alterada pela Resolução n.° 1/09, pelo não atendimento a diligência referente aos questionamentos do Ministério Público, itens 6 a 33 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A multa é aplicada pelo não atendimento a diligências, indicando falhas na prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1º, XI e XXVI",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.° 4/02",
+              "artigo": "308, I, alínea 'a'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.° 1/09",
+              "artigo": "1",
+              "descricao": "Altera a Resolução n.° 4/02"
+            }
+          ]
+        },
+        {
+          "trecho": "b) No valor de R$ XXX,XX (XXXXXXXXXXXXXXXXXXXXXXXX), arbitrada conforme art. 308, inciso I, alínea 'c', da Resolução n.º 4/02-TCE/AM,  alterado  pela Resolução  nº.  1/09-TCE/AM  e  art.  6.º-A,  inciso  I,  alínea  'a'  da  Resolução  n.º  7/02TCE/AM,  alterada  pela  Resolução  n.º  2/07,  também  do  TCE/AM,  por  cada  mês  de atraso no encaminhamento, por meio magnético (ACP), dos registros de movimentação  contábil  referente  aos  meses  de  Janeiro  a  Dezembro  (12  meses), totalizando  o  montante  de  R$  X.XXX,XX  (XXX  XXX  XXX  e  XXX  reais  e  XXXX centavos), item 3 do relatório/voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Multa aplicada devido ao atraso no envio de registros contábeis, indicando falhas no cumprimento de prazos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 4/02-TCE/AM",
+              "artigo": "308, inciso I, alínea 'c'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 1/09-TCE/AM",
+              "artigo": "1",
+              "descricao": "Altera a Resolução n.º 4/02"
+            },
+            {
+              "norma": "Resolução n.º 7/02-TCE/AM",
+              "artigo": "6.º-A, inciso I, alínea 'a'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução nº. 2/07",
+              "artigo": "2",
+              "descricao": "Altera a Resolução n.º 7/02"
+            }
+          ]
+        },
+        {
+          "trecho": "c)  No  valor  de  R$  X.XXX,XX  (XXXXXXXXXXXXXXXXXXXXXXXX)  com base, no art. 54, II, da Lei n.° 2.423/96 c/c o art. 308, inciso V, alínea 'a', da Resolução n.° 4/02, alterada pela Resolução n.° 1/09, pelos atos cometidos contra a norma legal de natureza contábil, financeira, orçamentária, operacional e patrimonial, referente aos itens 1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 e 33 do relatório/voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada devido a atos contra normas contábeis, financeiras, orçamentárias, operacionais e patrimoniais, o que pode impactar na qualidade da informação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.° 4/02",
+              "artigo": "308, inciso V, alínea 'a'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.° 1/09",
+              "artigo": "1",
+              "descricao": "Altera a Resolução n.° 4/02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. XXXXXXXXXXXXXXXXXXXXXXXXX, recolha o valor  do  débito  que  lhe  foi  aplicado aos cofres públicos (art. 72, III, 'a', da Lei nº 2423/96), ficando a DICREX autorizada a adotar as medidas previstas nas subseções III  e  IV da Seção  III, do Capítulo  X, da Resolução n.º 4/02-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. XXXXXXXXXXXXXXXXXXXXXXXXX, recolha o valor  do  débito  que  lhe  foi  aplicado aos cofres públicos (art. 72, III, 'a', da Lei nº 2423/96), ficando a DICREX autorizada a adotar as medidas previstas nas subseções III  e  IV da Seção  III, do Capítulo  X, da Resolução n.º 4/02-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho determina o recolhimento do débito, mas não descreve a irregularidade em si, apenas o processo de cobrança.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'a'",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 4/02-TCE/AM",
+              "artigo": "Não Especificado",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. XXXXXXXXXXXXXXXXXXXXXXXXXXXX recolha os valores das multas que lhe foram aplicadas aos cofres públicos (art. 72, III, 'a', da Lei nº 2423/96), ficando a DICREX autorizada  a  adotar  as  medidas  previstas  nas  subseções  III  e  IV  da  Seção  III,  do Capítulo X, da Resolução n.º 04/02-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. XXXXXXXXXXXXXXXXXXXXXXXXXXXX recolha os valores das multas que lhe foram aplicadas aos cofres públicos (art. 72, III, 'a', da Lei nº 2423/96), ficando a DICREX autorizada  a  adotar  as  medidas  previstas  nas  subseções  III  e  IV  da  Seção  III,  do Capítulo X, da Resolução n.º 04/02-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Este trecho detalha a determinação de recolhimento de multas, focando na necessidade de ação para a cobrança de dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'a'",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 04/02-TCE/AM",
+              "artigo": "Não Especificado",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "AUTORIZAR, em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n.º 2.423/96, art. 169, II, art. 173, e § 6.º do art. 308, todos da Resolução n.º 04/02- TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR, em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n.º 2.423/96, art. 169, II, art. 173, e § 6.º do art. 308, todos da Resolução n.º 04/02- TCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "Este trecho autoriza a inscrição em dívida ativa em caso de não pagamento, focando na necessidade de ação para cobrança de dívida ativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "73",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n.º 04/02- TCE",
+              "artigo": "169, II, art. 173, e § 6.º do art. 308",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "RECOMENDAR ao atual Gestor Municipal que:\na) Observe os prazos previstos nas normas legais desta Corte de Contas, bem como os dispositivos da Resolução n.º 7/02, referente ao ACP;\nb)  Cumpra  o  disposto  na  LRF  (Lei  Responsabilidade  Fiscal)  acerca  da apresentação  dentro  do  prazo  legal  dos  relatórios  de  execução  orçamentária  e  de gestão fiscal;\nc) Organize, na forma da legislação de regência, a gestão patrimonial e o controle dos bens do município;",
+      "trechos_identificados": [
+        {
+          "trecho": "RECOMENDAR ao atual Gestor Municipal que: a) Observe os prazos previstos nas normas legais desta Corte de Contas, bem como os dispositivos da Resolução n.º 7/02, referente ao ACP",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação de observar os prazos nas normas legais sugere um histórico de atrasos na entrega de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 7/02",
+              "artigo": "Não Especificado",
+              "descricao": "Regulamenta o Acompanhamento da Contratação Pública – ACP, no âmbito do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        },
+        {
+          "trecho": "b)  Cumpra  o  disposto  na  LRF  (Lei  Responsabilidade  Fiscal)  acerca  da apresentação  dentro  do  prazo  legal  dos  relatórios  de  execução  orçamentária  e  de gestão fiscal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A recomendação de cumprir a LRF sugere um histórico de não cumprimento dos prazos de entrega dos relatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Responsabilidade Fiscal",
+              "artigo": "Não Especificado",
+              "descricao": "Lei Complementar nº 101/2000."
+            }
+          ]
+        },
+        {
+          "trecho": "c) Organize, na forma da legislação de regência, a gestão patrimonial e o controle dos bens do município",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A recomendação de organizar a gestão patrimonial indica um histórico de desorganização e falta de controle.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "ciência",
+      "descricao": "Comunicar  o  fato  ao  Ministério  Público  Estadual  para  adoção  das providências pertinentes, em decorrência dos indícios de improbidade administrativa (Lei n.º 8.429/92), colocando-se os autos à sua disposição.",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar  o  fato  ao  Ministério  Público  Estadual  para  adoção  das providências pertinentes, em decorrência dos indícios de improbidade administrativa (Lei n.º 8.429/92), colocando-se os autos à sua disposição.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "Não Aplicável",
+          "tipologia_irregularidade": "Não Aplicável",
+          "descricao": "Não Aplicável",
+          "justificativa_tipologia": "A comunicação ao Ministério Público por indícios de improbidade não configura uma irregularidade em si, mas sim um encaminhamento para investigação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 8.429/92",
+              "artigo": "Não Especificado",
+              "descricao": "Lei de Improbidade Administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar o arquivamento do Processo XXXX/XXXX, sem resolução de mérito, apenso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o arquivamento do Processo XXXX/XXXX, sem resolução de mérito, apenso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "Não Aplicável",
+          "tipologia_irregularidade": "Não Aplicável",
+          "descricao": "Não Aplicável",
+          "justificativa_tipologia": "O arquivamento de um processo sem resolução de mérito é um procedimento administrativo e não indica, por si só, uma irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

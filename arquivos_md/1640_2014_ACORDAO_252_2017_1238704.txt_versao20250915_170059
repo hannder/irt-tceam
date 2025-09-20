@@ -1,0 +1,192 @@
+{
+  "acordao": "252/2017",
+  "processo": "1640/2014",
+  "data_sessao": "21 de Março de 2017",
+  "orgao": "Secretaria Municipal de Finanças, Tecnologia da Informação e Controle Interno - SEMEF",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Ulisses Tapajós Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à  atual  administração, de  responsabilidade do Sr. Ulisses Tapajós  Neto , sob pena  das  contas  do  próximo  exercício serem julgadas  irregulares,  nos  termos  do  artigo  22,  III,  'b'  e  'c',  da  Lei Estadual n.º 2.423/96, que:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Adote  medida  de  controles  quanto  às  informações  a serem  prestadas  a  esta  Corte  de  Contas  por  meio  do sistema E-contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote  medida  de  controles  quanto  às  informações  a serem  prestadas  a  esta  Corte  de  Contas  por  meio  do sistema E-contas",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa instituir controles para garantir a correta prestação de informações ao TCE por meio do sistema E-contas, evitando o descumprimento de obrigações e a falta de documentação dos controles internos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Reveja os procedimentos de parametrização e conciliação entre as entradas e saídas dos materiais de estoques e incorporação e desincorporação de bens com o sistema de registro contábil, a fim de atender o disposto nos art. 63 e 104 da Lei n° 4320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Reveja os procedimentos de parametrização e conciliação entre as entradas e saídas dos materiais de estoques e incorporação e desincorporação de bens com o sistema de registro contábil, a fim de atender o disposto nos art. 63 e 104 da Lei n° 4320/64",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques)",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa garantir a correta conciliação entre os registros contábeis e os dados físicos dos estoques e bens, evitando divergências e ausência de comprovação dos valores registrados no balanço patrimonial.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "63",
+              "descricao": "Dispõe sobre o regime de empenho da despesa."
+            },
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "104",
+              "descricao": "Estabelece normas gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Realize ações no sentido de que as operações de crédito e  alienações  de  bens  sejam  contabilizadas  na  mesma unidade gestora que se realizou o fato gerador, a fim de atender  o  disposto  nos  art.  89,  104  e  105  da  Lei  n° 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize ações no sentido de que as operações de crédito e  alienações  de  bens  sejam  contabilizadas  na  mesma unidade gestora que se realizou o fato gerador, a fim de atender  o  disposto  nos  art.  89,  104  e  105  da  Lei  n° 4.320/64",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa garantir a correta contabilização das operações de crédito e alienações de bens na mesma unidade gestora, evitando pendências de regularização e inconsistências nos registros contábeis.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "89",
+              "descricao": "Dispõe sobre a forma de escrituração das operações financeiras."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "104",
+              "descricao": "Estabelece normas gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "105",
+              "descricao": "Estabelece normas gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Agilizar e  efetuar  seus  pagamentos  dentro  do  prazo contratual, evitando assim juros e multas",
+      "trechos_identificados": [
+        {
+          "trecho": "Agilizar e  efetuar  seus  pagamentos  dentro  do  prazo contratual, evitando assim juros e multas",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa garantir a agilidade e o cumprimento dos prazos de pagamento, evitando o acúmulo de juros e multas que podem comprometer a execução orçamentária do exercício.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Adeque o quantitativo de servidores ocupantes de cargo em  comissão  ao  número  de  vagas  disponível  na  Lei Delegada nº 10 de 2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Adeque o quantitativo de servidores ocupantes de cargo em  comissão  ao  número  de  vagas  disponível  na  Lei Delegada nº 10 de 2013",
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A7B",
+          "tipologia_irregularidade": "Excesso de cargos comissionados",
+          "descricao": "Excesso de cargos comissionados",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa adequar o número de servidores comissionados ao limite estabelecido na legislação, evitando o excesso de cargos e o comprometimento da gestão de pessoal.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Realize  um  estudo  de  economicidade  quanto  à  locação dos  veículos para realização de suas  atividades da Secretaria e que seja demonstrado nas futuras Prestações de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize  um  estudo  de  economicidade  quanto  à  locação dos  veículos para realização de suas  atividades da Secretaria e que seja demonstrado nas futuras Prestações de Contas",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa realizar um estudo de economicidade para avaliar a relação custo-benefício da locação de veículos, buscando a utilização eficiente dos recursos públicos e a demonstração da economicidade nas prestações de contas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Desvincule a Subsecretaria de Controle Interno da SEMEF,  elevando-a  ao  Status  de  Secretaria,  tudo  em conformidade  com  o  Termo  de  Ajustamento  de  Gestão (TAG) firmado por este Tribunal com a SEMEF (Processo n°  14447/2016,  homologado  na  4º  Sessão  Ordinária  do Tribunal Pleno, em 14/02/2017)",
+      "trechos_identificados": [
+        {
+          "trecho": "Desvincule a Subsecretaria de Controle Interno da SEMEF,  elevando-a  ao  Status  de  Secretaria,  tudo  em conformidade  com  o  Termo  de  Ajustamento  de  Gestão (TAG) firmado por este Tribunal com a SEMEF (Processo n°  14447/2016,  homologado  na  4º  Sessão  Ordinária  do Tribunal Pleno, em 14/02/2017)",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A22B",
+          "tipologia_irregularidade": "Falha na criação do Sistema de Controle Interno (SCI)**",
+          "descricao": "Não envio de Balancetes Mensais",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Processo n°  14447/2016\"; justificativa=\"A determinação visa desvincular a Subsecretaria de Controle Interno da SEMEF, elevando-a ao status de Secretaria, em conformidade com o TAG firmado, visando fortalecer a autonomia e a eficácia do controle interno.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Reveja o procedimento quanto  à execução orçamentária dos  processos  que  exigem  empenhos  globais,  a  fim  de atender o parágrafo 3º do art. 60 da Lei n° 4.320",
+      "trechos_identificados": [
+        {
+          "trecho": "Reveja o procedimento quanto  à execução orçamentária dos  processos  que  exigem  empenhos  globais,  a  fim  de atender o parágrafo 3º do art. 60 da Lei n° 4.320",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa revisar os procedimentos de execução orçamentária dos processos que exigem empenhos globais, a fim de atender ao disposto no parágrafo 3º do art. 60 da Lei n° 4.320, garantindo o correto detalhamento e controle dos gastos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320",
+              "artigo": "60",
+              "descricao": "Dispõe sobre o regime de empenho da despesa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Proceda a adoção do sistema integrado de administração e controle previsto no inciso  III, parágrafo único, art. 48, da Lei Complementar n° 131/2009 cujo prazo para implantação  expirou  desde  31/05/2010,  tendo  em  vista que esta ferramenta solucionará de vez os problemas de natureza contábil.",
+      "trechos_identificados": [
+        {
+          "trecho": "Proceda a adoção do sistema integrado de administração e controle previsto no inciso  III, parágrafo único, art. 48, da Lei Complementar n° 131/2009 cujo prazo para implantação  expirou  desde  31/05/2010,  tendo  em  vista que esta ferramenta solucionará de vez os problemas de natureza contábil.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa implementar um sistema integrado de administração e controle, conforme previsto na Lei Complementar n° 131/2009, visando solucionar problemas de natureza contábil e fortalecer o controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n° 131/2009",
+              "artigo": "48",
+              "descricao": "Dispõe sobre a obrigatoriedade de divulgação de informações relativas à gestão fiscal nos meios eletrônicos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

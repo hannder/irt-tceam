@@ -1,0 +1,463 @@
+{
+  "acordao": "191/2021",
+  "processo": "11725/2019",
+  "data_sessao": "9 de Março de 2021",
+  "orgao": "Polícia Militar do Estado do Amazonas - PMAM",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "David de Souza Brandão",
+    "José Cláudio Nonato da Silva",
+    "Jose Carlos Lopes de Souza",
+    "Julio Sergio Costa do Nascimento"
+  ],
+  "itens": [
+    {
+      "tipo": "regular",
+      "descricao": "Julgar regular com ressalvas a  Prestação  de  Contas Anual  da  Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. David de Souza Brandão , Comandante Geral da PMAM, no período de 01.01.2018 a 12.09.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação  de  Contas Anual  da  Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. David de Souza Brandão , Comandante Geral da PMAM, no período de 01.01.2018 a 12.09.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "justificativa=\"Prestação de contas com ressalvas\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II, e artigo 22, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas Anual da Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. José  Cláudio  Nonato  da  Silva , Comandante Geral da PMAM, no período de 12.09.2018 a 31.12.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação de Contas Anual da Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. José  Cláudio  Nonato  da  Silva , Comandante Geral da PMAM, no período de 12.09.2018 a 31.12.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "justificativa=\"Prestação de contas com ressalvas\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II, e artigo 22, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas Anual da Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. Júlio Sérgio Costa do Nascimento , Ordenador de Despesas, no período de 01.01.2018 a 19.09.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação de Contas Anual da Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. Júlio Sérgio Costa do Nascimento , Ordenador de Despesas, no período de 01.01.2018 a 19.09.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "justificativa=\"Prestação de contas com ressalvas\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II, e artigo 22, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "regular",
+      "descricao": "Julgar regular com ressalvas a  Prestação de Contas Anual da Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. José  Carlos  Lopes  de  Souza , Ordenador  de Despesas, no período de 19.09.2018 a 28.12.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação de Contas Anual da Polícia Militar do Estado do Amazonas - PMAM, referente ao exercício de 2018, de responsabilidade do Sr. José  Carlos  Lopes  de  Souza , Ordenador  de Despesas, no período de 19.09.2018 a 28.12.2018, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "justificativa=\"Prestação de contas com ressalvas\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE/AM",
+              "artigo": "1º, inciso II, e artigo 22, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Dar  quitação ao Sr. David  de  Souza  Brandão, Comandante  Geral  da PMAM, no período de 01.01.2018 a 12.09.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação ao Sr. David  de  Souza  Brandão, Comandante  Geral  da PMAM, no período de 01.01.2018 a 12.09.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Quitação dada\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "24 e 72, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Dar quitação ao Sr. José Cláudio Nonato da Silva , Comandante Geral da PMAM, no período de 12.09.2018 a 31.12.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. José Cláudio Nonato da Silva , Comandante Geral da PMAM, no período de 12.09.2018 a 31.12.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Quitação dada\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "24 e 72, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Dar quitação ao Sr. Júlio Sérgio Costa do Nascimento, Ordenador de Despesas, no período de 01.01.2018 a 19.09.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Júlio Sérgio Costa do Nascimento, Ordenador de Despesas, no período de 01.01.2018 a 19.09.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Quitação dada\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "24 e 72, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Dar quitação ao Sr. José  Carlos  Lopes  de  Souza, Ordenador  de Despesas, no período de 19.09.2018 a 28.12.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. José  Carlos  Lopes  de  Souza, Ordenador  de Despesas, no período de 19.09.2018 a 28.12.2018, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Quitação dada\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996 - LOTCE",
+              "artigo": "24 e 72, inciso II",
+              "descricao": "Lei Orgânica do TCE-AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "189, inciso II",
+              "descricao": "Regimento Interno do TCE-AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno,  evite  a  ocorrência  das  seguintes  impropriedades,  em  futuras prestações de contas:",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno,  evite  a  ocorrência  das  seguintes  impropriedades,  em  futuras prestações de contas:",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Determinação genérica para evitar impropriedades futuras\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "188",
+              "descricao": "Refere-se aos procedimentos para regularizar as contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência  de  esclarecimentos  quanto  ao  que  ocasionou saldo elevado vindo de exercício anterior",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  esclarecimentos  quanto  ao  que  ocasionou saldo elevado vindo de exercício anterior",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "justificativa=\"Não houve comprovação do saldo elevado, dificultando a auditabilidade das contas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência de esclarecimentos quanto ao que motivou a não realização total das despesas que deveriam ser repassadas aos entes por direito",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de esclarecimentos quanto ao que motivou a não realização total das despesas que deveriam ser repassadas aos entes por direito",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "justificativa=\"Ausência de execução orçamentária.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Valores divergentes apresentados no Balanço Financeiro anexo 13 em comparação com os valores do Demonstrativo da Dívida Flutuante - anexo 17",
+      "trechos_identificados": [
+        {
+          "trecho": "Valores divergentes apresentados no Balanço Financeiro anexo 13 em comparação com os valores do Demonstrativo da Dívida Flutuante - anexo 17",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques)",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques)",
+          "justificativa_tipologia": "justificativa=\"Divergência contábil entre balanços.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência  do  Parecer  Jurídico  do  contrato  relacionado, conforme o artigo 57, inciso V, da Lei 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  do  Parecer  Jurídico  do  contrato  relacionado, conforme o artigo 57, inciso V, da Lei 8.666/1993",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A7B",
+          "tipologia_irregularidade": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "descricao": "Ausência de Parecer Jurídico ao Aditivo",
+          "justificativa_tipologia": "justificativa=\"Ausência de parecer jurídico em contrato\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/1993",
+              "artigo": "57, inciso V",
+              "descricao": "Exigência de parecer jurídico para aditivos contratuais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência  da  Publicação  Resumida  do  Termo  Contratual, conforme artigo 61 da Lei 8.666/1993",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  da  Publicação  Resumida  do  Termo  Contratual, conforme artigo 61 da Lei 8.666/1993",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "justificativa=\"Ausência de publicação resumida do termo contratual.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/1993",
+              "artigo": "61",
+              "descricao": "Exigência de publicação resumida do termo contratual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência de justificativas quanto as inscrições de Restos a Pagar,  tendo  em  vista  o  saldo  em  caixa  sem  lastro  para honrar os valores inscritos, conforme demonstrado no Balanço Financeiro - anexo 13 - Saldo em Espécie para o exercício seguinte",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativas quanto as inscrições de Restos a Pagar,  tendo  em  vista  o  saldo  em  caixa  sem  lastro  para honrar os valores inscritos, conforme demonstrado no Balanço Financeiro - anexo 13 - Saldo em Espécie para o exercício seguinte",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "justificativa=\"Inconsistência entre as contas de restos a pagar e o saldo financeiro.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência da Relação das Provisões recebidas, especificando a data, o número e valores, conforme artigo 2º, inciso VI, da Resolução nº 05∕1990",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência da Relação das Provisões recebidas, especificando a data, o número e valores, conforme artigo 2º, inciso VI, da Resolução nº 05∕1990",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A10B",
+          "tipologia_irregularidade": "Prestação de Contas Incompleta",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução 12/2012-TCE/AM.",
+          "justificativa_tipologia": "justificativa=\"Não apresentação de relação de provisões recebidas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 05∕1990",
+              "artigo": "2º, inciso VI",
+              "descricao": "Norma que estabelece a necessidade de relação de provisões recebidas na prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Ausência de esclarecimentos sobre as medidas administrativas  tomadas  com  a  finalidade  de  sanear  as pendências bancárias existentes no exercício em questão",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de esclarecimentos sobre as medidas administrativas  tomadas  com  a  finalidade  de  sanear  as pendências bancárias existentes no exercício em questão",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "justificativa=\"Ausência de esclarecimentos sobre medidas administrativas para sanear pendências bancárias, indicando falhas no controle interno.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que, após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 RITCE/AM, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno que, após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 RITCE/AM, adote as providências do artigo 162, §1º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "Acórdão",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Determinação para a Secretaria do Tribunal Pleno adotar providências regimentais padrão.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 RITCE/AM",
+              "artigo": "159 e 160",
+              "descricao": "Disposições sobre a ocorrência da coisa julgada"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 RITCE/AM",
+              "artigo": "162, §1º",
+              "descricao": "Disposições sobre as providências a serem adotadas após a coisa julgada"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

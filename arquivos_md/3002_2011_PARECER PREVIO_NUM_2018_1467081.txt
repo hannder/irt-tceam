@@ -1,0 +1,145 @@
+{
+  "acordao": "23/2018",
+  "processo": "3002/2011",
+  "data_sessao": "03 de Maio de 2018",
+  "orgao": "Prefeitura Municipal de Boca do Acre",
+  "municipio": "Boca do Acre",
+  "exercicio": "2010",
+  "responsavel": [
+    "Maria das Dores Oliveira Munhoz"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  Anual  da Prefeitura  Municipal  de  Boca  do  Acre,  relativas  ao  exercício  de  2010, sob a responsabilidade da Sra. Maria das Dores Oliveira Munhoz",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Regular  com  Ressalvas a  Prestação  de  Contas  Anual  da Prefeitura  Municipal  de  Boca  do  Acre,  relativas  ao  exercício  de  2010, sob a responsabilidade da Sra. Maria das Dores Oliveira Munhoz",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento regular com ressalvas, a ausência de notas explicativas é uma deficiência contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Aprovação com ressalvas com base no artigo 71, II da Constituição Federal."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Aprovação com ressalvas com base no artigo 75 da Constituição Federal."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Aprovação com ressalvas com base no artigo 1º, II, da Lei Estadual nº 2423/96."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, II",
+              "descricao": "Aprovação com ressalvas com base no artigo 22, II, da Lei Estadual nº 2423/96."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "24",
+              "descricao": "Aprovação com ressalvas com base no artigo 24, da Lei Estadual nº 2423/96"
+            },
+            {
+              "norma": "Resolução nº 04/02- TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Aprovação com ressalvas com base no artigo 188, §1º, II, da Resolução nº 04/02- TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Maria das Dores Oliveira Munhoz no  valor  de R$ 6.000,00 (seis mil reais), em concordância com a proposição do Conselheiro Josué Cláudio de Souza Filho, que deve ser recolhida na esfera Estadual para o órgão da Secretaria de Estado da Fazenda SEFAZ,  em  razão  das  impropriedades  formais  não  justificadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Maria das Dores Oliveira Munhoz no  valor  de R$ 6.000,00 (seis mil reais), em concordância com a proposição do Conselheiro Josué Cláudio de Souza Filho, que deve ser recolhida na esfera Estadual para o órgão da Secretaria de Estado da Fazenda SEFAZ,  em  razão  das  impropriedades  formais  não  justificadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa decorre de impropriedades formais não justificadas, indicando falhas na gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1°",
+              "descricao": "Aplicação de multa devido a impropriedades formais não justificadas, conforme a Lei Estadual nº 2423/96."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "XXVI",
+              "descricao": "Aplicação de multa devido a impropriedades formais não justificadas, conforme a Lei Estadual nº 2423/96."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "52",
+              "descricao": "Aplicação de multa devido a impropriedades formais não justificadas, conforme a Lei Estadual nº 2423/96."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "53",
+              "descricao": "Aplicação de multa devido a impropriedades formais não justificadas, conforme a Lei Estadual nº 2423/96."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Sepleno  que,  após  o  prazo  fixado,  em  caso  de  não recolhimento  do  valor  das  penas  pecuniárias  impostas,  proceda  à instauração da cobrança  executiva, nos  termos  do  art. 173, do Regimento Interno do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Sepleno  que,  após  o  prazo  fixado,  em  caso  de  não recolhimento  do  valor  das  penas  pecuniárias  impostas,  proceda  à instauração da cobrança  executiva, nos  termos  do  art. 173, do Regimento Interno do TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação visa garantir a cobrança de dívida ativa, o que está relacionado à gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do TCE/AM",
+              "artigo": "173",
+              "descricao": "Determinação para instauração de cobrança executiva com base no art. 173 do Regimento Interno do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Prefeitura  Municipal  de  Boca  do  Acre,  que  sejam observados e cumpridos os prazos legais e regimentais, em especial à Lei  de  Responsabilidade  Fiscal,  a  fim  de  evitar  a  reincidência  que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1°,  da Lei n° 2423/96, assim como mantenha os documentos  relativos  a  obras  e  serviços  de  engenharia  em  sua Secretaria de Obras.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à  Prefeitura  Municipal  de  Boca  do  Acre,  que  sejam observados e cumpridos os prazos legais e regimentais, em especial à Lei  de  Responsabilidade  Fiscal,  a  fim  de  evitar  a  reincidência  que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1°,  da Lei n° 2423/96, assim como mantenha os documentos  relativos  a  obras  e  serviços  de  engenharia  em  sua Secretaria de Obras.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A recomendação para observar e cumprir os prazos legais e regimentais, em especial à LRF, e para manter os documentos relativos a obras e serviços de engenharia em sua Secretaria de Obras visa evitar a ausência de documentação na prestação de contas anuais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2423/96",
+              "artigo": "22, §1°",
+              "descricao": "Recomendação para evitar reincidência que pode ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1°,  da Lei n° 2423/96."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

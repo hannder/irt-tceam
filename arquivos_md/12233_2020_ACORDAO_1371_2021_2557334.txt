@@ -1,0 +1,291 @@
+{
+  "acordao": "1371/2021",
+  "processo": "12233/2020",
+  "data_sessao": "16 de Dezembro de 2021",
+  "orgao": "Secretaria Municipal de Administração, Planejamento e Gestão  - SEMAD",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Lucas Cezar Jose Figueiredo Bandiera"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentações constantes na Resolução n.º 5/90TCE, em seu art. 2.º e incisos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A ausência de documentação impede a verificação da regularidade das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 5/90TCE",
+              "artigo": "2.º",
+              "descricao": "O artigo 2º da Resolução nº 5/90-TCE estabelece a documentação necessária para a Prestação de Contas."
+            }
+          ]
+        },
+        {
+          "trecho": "Ao  analisar  dados  do  Relatório  de  Execução  de  Despesa  por Natureza,  extraído  do  sistema  AFIM/2019,  foi  constatado  valor  pago decorrentes de multas, juros e encargos ao INSS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "Pagamentos de multas e juros são decorrentes de descumprimento de obrigação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 3º, inciso VI da IN CGE/AM 001/2022",
+              "artigo": "3",
+              "descricao": "Veda o pagamento de despesas a título de indenização sem o devido processo legal."
+            }
+          ]
+        },
+        {
+          "trecho": "Considerando que houve inscrição de Relação de Restos no total de  muito  superior  ao  Saldo  Financeiro  em  banco/caixa,  informar  como será quitada tais despesas, considerando que não existe lastro financeiro para cobri-la sem que prejudique o orçamento",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "Restos a Pagar de valor superior ao saldo em banco/caixa indica insuficiência de recursos para honrar os compromissos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 36 da Lei nº 4.320/64",
+              "artigo": "36",
+              "descricao": "Dispõe sobre a inscrição de restos a pagar e a necessidade de recursos disponíveis."
+            }
+          ]
+        },
+        {
+          "trecho": "Dada a concessão de adiantamentos pela SEMAD no exercício, encaminhe os Relatórios do Órgão responsável que aprecia as concessões de Adiantamentos da SEMAD, para constatar a quitação dos referidos Adiantamentos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A8C",
+          "tipologia_irregularidade": "Escopo de auditoria interna insuficiente",
+          "descricao": "Adiantamento com saldo acumulado pendente de prestação de Contas",
+          "justificativa_tipologia": "A solicitação dos relatórios visa verificar se houve irregularidades na concessão dos adiantamentos e se os mesmos foram devidamente quitados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Arts. 70 e 74 da CF/88",
+              "artigo": "70 e 74",
+              "descricao": "Referem-se ao controle externo e interno da administração pública."
+            }
+          ]
+        },
+        {
+          "trecho": "Esclarecer o critério para contratação por dispensa de licitação, encaminhando Laudo do Órgão Responsável avaliando  o benefício  do preço,  se  está  dentro  dos  valores  de  mercado;  encaminhando  ainda  a designação de Fiscal do Contrato, bem como sua atuação de acompanhamento dos Serviços além do Parecer da Assessoria Jurídica para a referida Dispensa",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "O texto aponta para a necessidade de esclarecer os critérios para a realização de dispensa de licitação, que pode indicar uma irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art.75, inciso VIII da Lei nº 14.133/2021",
+              "artigo": "75",
+              "descricao": "Dispõe sobre a possibilidade de dispensa de licitação em casos de emergência ou calamidade pública."
+            }
+          ]
+        },
+        {
+          "trecho": "Esclarecer se há justificativa de preço, justificativa técnica de razão da escolha do fornecedor; comprovação da aptidão para desempenho de atividade pertinente e compatível com as características do objeto, nas inexigibilidades de licitação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A ausência de justificativa para a escolha do fornecedor é uma irregularidade, pois não garante a seleção da proposta mais vantajosa para a Administração Pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 25, inciso IV e art. 26 da Lei nº 8.666/93",
+              "artigo": "25 e 26",
+              "descricao": "Exigência de justificativa nos processos de inexigibilidade de licitação."
+            }
+          ]
+        },
+        {
+          "trecho": "Esclarecer como se deu a vantagem para aderir à Ata de Preço; se participou da Ata ou apenas solicitou adesão, encaminhando documentos que comprove tais solicitações",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A24B",
+          "tipologia_irregularidade": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona)",
+          "descricao": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona).",
+          "justificativa_tipologia": "A ausência de justificativa para adesão à ata de preço, na condição de órgão não participante, pode indicar uma irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Rt. 37, XI da CF/88",
+              "artigo": "37",
+              "descricao": "O artigo 37 da CF/88 trata dos princípios da administração pública."
+            }
+          ]
+        },
+        {
+          "trecho": "Considerando os Contratos/Aditivos, esclarecer a necessidade da Despesa, além de encaminhar documentos que comprovem sua realização incluindo os documentos de acompanhamento do Responsável pelo  contrato  (Fiscal  do  Contrato). Encaminhar  ainda  o  Termo  de Referência/Projeto Básico do referido Contrato original, caso Aditivo",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Deficiências no controle e fiscalização da execução contratual.",
+          "justificativa_tipologia": "A necessidade de comprovar a realização da despesa e encaminhar documentos de acompanhamento do contrato visa garantir a regularidade da execução contratual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Violação do princípio da legalidade e eficiência.",
+              "artigo": "67",
+              "descricao": "Refere-se à fiscalização da execução contratual."
+            }
+          ]
+        },
+        {
+          "trecho": "Considerando os dispêndios, informar o porquê dessas Despesas de Exercícios Anteriores terem sido reconhecida pela Administração e não pagas em época certa, informando ainda se as mesmas estavam previstas em Orçamento, visto que, se trata de recurso que não estavam registrados em Restos a Pagar, portanto não havia valores deixados em conta caixa para suprir tais despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "Não pagamento de despesas em época certa e falta de previsão em orçamento são indícios de irregularidades na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 56. da Lei 4320/64",
+              "artigo": "56",
+              "descricao": "O recolhimento de todas as receitas far-se-á em estrita observância ao princípio de unidade de tesouraria"
+            }
+          ]
+        },
+        {
+          "trecho": "Considerando  que  ficou  dispêndios  a  quitar  a  determinados Órgãos,  encaminhar  documentos  que  comprovem  sua  quitação  no exercício seguinte",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "A solicitação de documentos que comprovam a quitação dos órgãos visa verificar se houve regularidade no pagamento de despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 36 da Lei nº 4.320/64",
+              "artigo": "36",
+              "descricao": "Dispõe sobre a inscrição de restos a pagar e a necessidade de recursos disponíveis."
+            }
+          ]
+        },
+        {
+          "trecho": "Após análise do Balanço financeiro, constatou-se um ingresso lançado  em  Transferências  Financeiras  Concedidas  (independente  da Execução  orçamentária),  informar  do  que  se  trata  e  a  origem  desses valores",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A falta de clareza sobre a origem e natureza dos valores lançados em Transferências Financeiras Concedidas, independente da Execução Orçamentária, representa uma irregularidade, pois dificulta o controle e a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 56. da Lei 4320/64",
+              "artigo": "56",
+              "descricao": "O recolhimento de todas as receitas far-se-á em estrita observância ao princípio de unidade de tesouraria"
+            }
+          ]
+        },
+        {
+          "trecho": "Informar  do  que  se  trata  os  Depósitos  Restituíveis  e  Valores Vinculados (INGRESSOS), encaminhando documentos que demonstre a origem desses recursos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A falta de clareza sobre a origem e natureza dos Depósitos Restituíveis e Valores Vinculados (INGRESSOS) dificulta o controle e a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 62, da Lei n° 4.320/64",
+              "artigo": "62",
+              "descricao": "que a comprovação da despesa deve ser realizada mediante documentos hábeis."
+            }
+          ]
+        },
+        {
+          "trecho": "Informar  do  que  se  trata  os  Depósitos  Restituíveis  e  Valores Vinculados (DISPÊNDIOS), encaminhando documentos que demonstre a origem desses recursos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A falta de clareza sobre a origem e natureza dos Depósitos Restituíveis e Valores Vinculados (DISPÊNDIOS) dificulta o controle e a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 62, da Lei n° 4.320/64",
+              "artigo": "62",
+              "descricao": "que a comprovação da despesa deve ser realizada mediante documentos hábeis."
+            }
+          ]
+        },
+        {
+          "trecho": "Verificou-se a existência de pagamentos pendentes em Consignações,  informar  se  os  mesmos  foram  quitados  no  exercício, encaminhando  documentos  que  comprovem  a  quitação  das  referidas contas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "descricao": "Conciliação Bancária. Contas com Pendências de Regularização",
+          "justificativa_tipologia": "A existência de pagamentos pendentes em consignações e a necessidade de comprovação da quitação das referidas contas indica potenciais irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Arts. 83, 85 e 89 da Lei nº 4.320/1964",
+              "artigo": "83, 85 e 89",
+              "descricao": "Normas sobre a escrituração contábil da receita e da despesa."
+            }
+          ]
+        },
+        {
+          "trecho": "Em  verificação  do  Balanço  Patrimonial,  constatou-se  duas obrigações (Obrigações Trabalhista, Previdenciárias e Assistência a pagar a curto prazo e demais obrigações a Curto Prazo, entretanto não existe recurso na conta caixa para quitação dessas despesas, informar do que se trata  tais  obrigações  e  como  a  SEMAD  irá  quitar  tais  despesas  em virtude de não haver suporte financeiro para tal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo da Relação de Bens Móveis e Imóveis (imobilizado)",
+          "justificativa_tipologia": "A ausência de suporte financeiro para quitar as obrigações e a divergência entre o Balanço Financeiro e o Relatório Analítico é uma irregularidade, pois indica falta de planejamento financeiro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Artigo 94, 95 e 96 da Lei nº 4.320/64",
+              "artigo": "94, 95 e 96",
+              "descricao": "da Lei nº 4.320/64, que tratam da avaliação dos elementos patrimoniais e do controle dos bens públicos."
+            }
+          ]
+        },
+        {
+          "trecho": "Em  verificação  do  Balanço  Financeiro  e  o  Relatório  Analítico, verificou-se  divergência  nos  valores  registrados  na  Conta  Caixa  do Balanço Financeiro, com o do Relatório Analítico",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "Divergências entre o Balanço Financeiro e o Relatório Analítico indicam problemas na conciliação bancária ou na gestão de recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Arts. 83, 85 e 89 da Lei nº 4.320/1964",
+              "artigo": "83, 85 e 89",
+              "descricao": "Estabelecem as normas gerais de contabilidade pública, incluindo a escrituração das operações financeiras e patrimoniais."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

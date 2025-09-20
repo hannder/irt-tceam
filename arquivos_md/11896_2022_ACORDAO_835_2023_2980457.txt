@@ -1,0 +1,144 @@
+{
+  "acordao": "835/2023",
+  "processo": "11896/2022",
+  "data_sessao": "9 de Maio de 2023",
+  "orgao": "Câmara Municipal de Itapiranga",
+  "municipio": "Itapiranga",
+  "exercicio": "2021",
+  "responsavel": [
+    "Francisco de Assis Menezes da Mata"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Câmara Municipal  de  Itapiranga,  sob  a  responsabilidade  do  Sr. Francisco de Assis Menezes da Mata , Presidente no exercício de 2021, nos termos do art. 22, inciso II da Lei n. 2423/1996",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Câmara Municipal  de  Itapiranga,  sob  a  responsabilidade  do  Sr. Francisco de Assis Menezes da Mata , Presidente no exercício de 2021, nos termos do art. 22, inciso II da Lei n. 2423/1996",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O julgamento da regularidade com ressalvas indica que, apesar de aprovada, a prestação de contas continha impropriedades que justificam a necessidade de registro para fins de monitoramento futuro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "Define as condições para julgamento regular com ressalvas das prestações de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Francisco de Assis Menezes da Mata , Presidente da Câmara Municipal de Itapiranga no exercício de 2021, no valor  total  de R$  1.706,80  ( um  mil,  setecentos  e  seis  reais  e  oitenta centavos),  pelo  Achado  n.  08  'b'  e  'c'  do  Relatório  Conclusivo  n. 49/2023-DICAMI  (fls.  362/384),  por  impropriedades  não  sanadas,  de acordo com o art. 308, VII da Resolução n. 04/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Francisco de Assis Menezes da Mata , Presidente da Câmara Municipal de Itapiranga no exercício de 2021, no valor  total  de R$  1.706,80  ( um  mil,  setecentos  e  seis  reais  e  oitenta centavos),  pelo  Achado  n.  08  'b'  e  'c'  do  Relatório  Conclusivo  n. 49/2023-DICAMI  (fls.  362/384),  por  impropriedades  não  sanadas,  de acordo com o art. 308, VII da Resolução n. 04/2002 - TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa devido a achados não sanados indica deficiências nos controles internos, sinalizando um risco contínuo para a gestão de recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/2002 - TCE/AM",
+              "artigo": "308, VII",
+              "descricao": "Define as condições para aplicação de multa por impropriedades não sanadas em processos de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar prazo de 30 dias para que o responsável recolha o valor da  multa,  mencionado  no  item  acima,  na  esfera Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE, através de DAR avulso extraído do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  '5508",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar prazo de 30 dias para que o responsável recolha o valor da  multa,  mencionado  no  item  acima,  na  esfera Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE, através de DAR avulso extraído do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  '5508",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento da multa, embora um procedimento padrão, garante a regularização da situação financeira da Câmara Municipal",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Obrigatoriedade",
+      "descricao": "Dentro  do  prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação",
+      "trechos_identificados": [
+        {
+          "trecho": "Dentro  do  prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A obrigatoriedade de encaminhar o comprovante de pagamento, embora parte do procedimento padrão, é crucial para garantir a transparência e a rastreabilidade dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Estabelece a obrigatoriedade de encaminhar o comprovante de pagamento para emissão do Termo de Quitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Advertência",
+      "descricao": "O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo  (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem  como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo  (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem  como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A advertência sobre as consequências do não pagamento da multa, embora um lembrete de procedimento, reforça a importância do cumprimento das normas legais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Define os procedimentos para cobrança administrativa ou judicial de títulos executivos."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "Subseções III e IV da Seção III, do Capítulo X",
+              "descricao": "Estabelece as medidas a serem adotadas em caso de não adimplemento da obrigação pecuniária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência do  decisório prolatado  nos  autos  ao  Sr. Francisco  de Assis Menezes da Mata , Presidente da Câmara Municipal de Itapiranga no exercício de 2021, por intermédio de seu advogado.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência do  decisório prolatado  nos  autos  ao  Sr. Francisco  de Assis Menezes da Mata , Presidente da Câmara Municipal de Itapiranga no exercício de 2021, por intermédio de seu advogado.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A comunicação da decisão, embora um procedimento padrão, assegura que o responsável esteja ciente das determinações do Tribunal, reforçando a transparência do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

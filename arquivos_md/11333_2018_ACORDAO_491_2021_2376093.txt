@@ -1,0 +1,48 @@
+{
+  "acordao": "491/2021",
+  "processo": "11333/2018",
+  "data_sessao": "26 de Maio de 2021",
+  "orgao": "Câmara Municipal de Barcelos",
+  "municipio": "Barcelos",
+  "exercicio": "2017",
+  "responsavel": [
+    "Arlindo Soares Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas Anual  da  Câmara  Municipal  de Barcelos, de  responsabilidade do  Sr.  Arlindo  Soares  Filho,  Presidente  e Ordenador de Despesas, no exercício de 2017",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance ao Sr. Arlindo Soares Filho no valor de R$ 41.900,78 e  fixar  prazo  de  30  (trinta)  dias  para  que  o  responsável  recolha  o  valor  do Alcance/Glosa, mencionado no item I, da Conclusão do Relatório Conclusivo nº 100/2018-DICAMI, na esfera Municipal para o órgão Câmara Municipal de Barcelos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Arlindo Soares Filho no valor de R$1.706,80 e fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, mencionado no item II, da Conclusão do Relatório Conclusivo nº 100/2018-DICAMI, na esfera Estadual  para  o  órgão  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório  o  encaminhamento  do  comprovante  de  pagamento  (autenticado pelo  Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  LeiOrgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação.  O  não  adimplemento  dessa  obrigação  pecuniária  no  prazo  legal importará  na  continuidade  da  cobrança  administrativa  ou  judicial  do  título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à  Câmara Municipal de Barcelos, órgão gerido no exercício de 2017 pelo Sr. Arlindo Soares Filho, que justifique a desatualização das fichas funcionais e lançamentos dos dados dos Servidores da Câmara Municipal de Barcelos, como: (atestados, cursos, licenças médicas, dentre outros)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à próxima  Comissão  de  Inspeção  que  irá  fiscalizar  a  Câmara Municipal  de  Barcelos,  que  seja  rigorosa  quando  da  apreciação  das  fichas funcionais atualizadas de seus Servidores, caso haja as mesmas restrições",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Arlindo Soares Filho e demais interessados.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os  presentes autos,  nos  termos  regimentais,  após  realizadas  as providências acima.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "acordao": "1081/2024",
+  "processo": "10827/2023",
+  "data_sessao": "2 de Julho de 2024",
+  "orgao": "Câmara Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2022",
+  "responsavel": [
+    "Larissa Rufino Gomes"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Câmara Municipal de Iranduba, sob a responsabilidade da Sra. Larissa Rufino Gomes , Presidente no exercício de 2022, nos termos do art. 22, inciso III da Lei n. 2423/1996;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "que sejam envidados esforços mais incisivos no controle do consumo de combustíveis utilizados pelo órgão;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "que  implemente  melhorias  no  controle  dos  estoques  de alimentos disponíveis, bem como que observe a proporcionalidade entre a quantidade contratada e a capacidade de armazenamento físico;",
+      "trechos_identificados": [
+        {
+          "trecho": "que  implemente  melhorias  no  controle  dos  estoques  de alimentos disponíveis, bem como que observe a proporcionalidade entre a quantidade contratada e a capacidade de armazenamento físico",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A deliberação indica uma deficiência no controle interno relacionada ao controle de estoques e capacidade de armazenamento, o que pode levar a má gestão e desperdício de recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "39 e 45",
+              "descricao": "Controle interno e normas de gestão."
+            },
+            {
+              "norma": "Lei 4.455",
+              "artigo": "N/A",
+              "descricao": "Lei de diretrizes para a administração pública."
+            },
+            {
+              "norma": "Decreto 40.824",
+              "artigo": "N/A",
+              "descricao": "Regulamenta o controle interno."
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "75",
+              "descricao": "Normas gerais de direito financeiro."
+            },
+            {
+              "norma": "Instrução Normativa n° 03/2020 CGE/AM",
+              "artigo": "5 §3° e §4°",
+              "descricao": "Procedimentos para o controle interno."
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "43",
+              "descricao": "Atribuições do Tribunal de Contas."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Controle interno na administração pública."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "70",
+              "descricao": "Fiscalização financeira e orçamentária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "que o controle sobre as folhas de frequência manual seja aprimorado, evitando possíveis burlas referentes à assiduidade dos servidores do legislativo municipal;",
+      "trechos_identificados": [
+        {
+          "trecho": "que o controle sobre as folhas de frequência manual seja aprimorado, evitando possíveis burlas referentes à assiduidade dos servidores do legislativo municipal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O texto menciona a necessidade de aprimorar o controle sobre as folhas de frequência manual para evitar possíveis fraudes, o que indica uma fragilidade no sistema de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "39 e 45",
+              "descricao": "Define as responsabilidades do controle interno e da administração pública no estado do Amazonas."
+            },
+            {
+              "norma": "Lei 4.455",
+              "artigo": "N/A",
+              "descricao": "Estabelece normas para a administração pública do estado do Amazonas."
+            },
+            {
+              "norma": "Decreto 40.824",
+              "artigo": "N/A",
+              "descricao": "Regulamenta a estrutura do controle interno no estado do Amazonas."
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "75",
+              "descricao": "Regula a administração orçamentária e financeira, estabelecendo normas para o controle interno."
+            },
+            {
+              "norma": "Instrução Normativa n° 03/2020 CGE/AM",
+              "artigo": "5 §3° e §4°",
+              "descricao": "Define os procedimentos de controle interno no âmbito do estado do Amazonas."
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "43",
+              "descricao": "Estabelece as competências do Tribunal de Contas do Amazonas na fiscalização dos recursos públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Define o controle interno como um dos pilares da administração pública brasileira."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "70",
+              "descricao": "Estabelece a necessidade de controle financeiro e orçamentário para garantir a legalidade e eficiência dos gastos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "que nos casos de remessa de processos de aposentadoria, sejam observados, com a deferência necessária, os termos da Portaria nº 939/2022-GPDRH, que institui  o  Domicílio  Eletrônico  de  Contas,  meio  adequado para remessa de documentos a esta Corte de Contas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "que  cumpra  as  determinações  desta  Corte  de  Contas,sob pena de aplicação das penalidades cabíveis e reprovação das contas prestadas;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "que obedeça aos prazos de disponibilização e publicação dos relatórios  de gestão fiscal,  sob  pena  de  aplicação  das penalidades cabíveis e reprovação das contas prestadas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar à Sra. Larissa Rufino Gomes , gestora do órgão, que, no que diz respeito aos gastos com abastecimento de veículos a serviço da Câmara Municipal de Iranduba, seja adotado o sistema de empenho por estimativa, evitando incongruências entre as datas de efetivação de despesa e do respectivo empenho;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à SEPLENO  que  remeta  à  DICAPE  os  documentos nos autos  referentes  ao Sr.  Disney  Nascimento  da  Cunha , para adoção das medidas regimentais cabíveis aos casos de acúmulos de cargos;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar a ciência do decisório prolatado nos autos à Sra. Larissa Rufino Gomes , Presidente da Câmara Municipal de Iranduba.",
+      "trechos_identificados": []
+    }
+  ]
+}

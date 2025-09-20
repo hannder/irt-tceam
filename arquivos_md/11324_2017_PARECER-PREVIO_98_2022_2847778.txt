@@ -1,0 +1,142 @@
+{
+  "acordao": "98/2022",
+  "processo": "11324/2017",
+  "data_sessao": "13 de dezembro de 2022",
+  "orgao": "Prefeitura Municipal de Beruri",
+  "municipio": "Beruri",
+  "exercicio": "2016",
+  "responsavel": [
+    "Odemilson Lima Magalhães"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que, nos termos do §2º, do artigo 188, do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas anuais:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência do envio de remessa ao Sistema GEFIS do 2º a 6º bimestres  do  RREO,  em  descumprimento  ao  prazo  estabelecido  na Resolução n. 24/2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do envio de remessa ao Sistema GEFIS do 2º a 6º bimestres  do  RREO,  em  descumprimento  ao  prazo  estabelecido  na Resolução n. 24/2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho descreve a não remessa de informações requeridas pelo Tribunal de Contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 24/2013",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece prazos para o envio de informações ao GEFIS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de informes no Sistema GEFIS sobre a publicação do 2º  ao  6º  bimestre  do  Relatório  Resumido  da  Execução  Orçamentária em  descumprimento  ao  prazo  estabelecido  no  artigo  165  §3,  da Constituição Federal c/c o artigo 52 da Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de informes no Sistema GEFIS sobre a publicação do 2º  ao  6º  bimestre  do  Relatório  Resumido  da  Execução  Orçamentária em  descumprimento  ao  prazo  estabelecido  no  artigo  165  §3,  da Constituição Federal c/c o artigo 52 da Lei Complementar nº 101/2000",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho descreve a não remessa de informações requeridas pelo Tribunal de Contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Artigo 165 §3 da Constituição Federal",
+              "artigo": "165",
+              "descricao": "Trata sobre a elaboração e apresentação dos orçamentos públicos, incluindo o RREO."
+            },
+            {
+              "norma": "Artigo 52 da Lei Complementar nº 101/2000",
+              "artigo": "52",
+              "descricao": "Define a periodicidade e os prazos para a publicação do RREO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência do envio de remessa ao Sistema GEFIS referente os semestres do Relatório de Gestão Fiscal, em descumprimento ao prazo de  60  dias  estabelecido  no  artigo  32,  inciso  II,  alínea 'h',  da  Lei  nº. 2.423/1996 (redação dada pela Lei Complementar Estadual 120/2013) c/c a Resolução nº 24/2013",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do envio de remessa ao Sistema GEFIS referente os semestres do Relatório de Gestão Fiscal, em descumprimento ao prazo de  60  dias  estabelecido  no  artigo  32,  inciso  II,  alínea 'h',  da  Lei  nº. 2.423/1996 (redação dada pela Lei Complementar Estadual 120/2013) c/c a Resolução nº 24/2013",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho descreve a não remessa de informações requeridas pelo Tribunal de Contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Artigo 32, inciso II, alínea 'h', da Lei nº. 2.423/1996",
+              "artigo": "32",
+              "descricao": "Estabelece prazo para envio de informações ao GEFIS"
+            },
+            {
+              "norma": "Lei Complementar Estadual 120/2013",
+              "artigo": "Não especificado",
+              "descricao": "Modifica a redação da Lei 2.423/1996"
+            },
+            {
+              "norma": "Resolução nº 24/2013",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece prazos para o envio de informações ao GEFIS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência  de  informes  no  sistema  GEFIS  sobra  a  publicação referente a todos os semestres do Relatório de Gestão Fiscal - RGF, em descumprimento ao prazo estabelecido no  artigo 5º, § 2º,  da  Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  informes  no  sistema  GEFIS  sobra  a  publicação referente a todos os semestres do Relatório de Gestão Fiscal - RGF, em descumprimento ao prazo estabelecido no  artigo 5º, § 2º,  da  Lei Complementar nº 101/2000",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho descreve a não remessa de informações requeridas pelo Tribunal de Contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "artigo 5º, § 2º, da Lei Complementar nº 101/2000",
+              "artigo": "5",
+              "descricao": "Lei de Responsabilidade Fiscal - LRF que define normas para a elaboração, controle e execução dos orçamentos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência  de  dados  no  Portal  de  Transparência  referente  ao balanço orçamentário.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  dados  no  Portal  de  Transparência  referente  ao balanço orçamentário.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "Não aplicável",
+          "tipologia_irregularidade": "Não aplicável",
+          "descricao": "Não aplicável",
+          "justificativa_tipologia": "A ausência de dados no Portal de Transparência impede o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

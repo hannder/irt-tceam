@@ -1,0 +1,116 @@
+{
+  "acordao": "216/2016",
+  "processo": "1600/2015",
+  "data_sessao": "02 de março de 2016",
+  "orgao": "Secretaria de Estado da Casa Militar - SECM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Wilson Martins de Araújo"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem, nos termos do art. 188, § 2º, I, da Resolução TCE nº 04/2002, que: institua no âmbito de sua estrutura organizacional setor competente para a realização do controle interno da unidade.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao órgão de origem, nos termos do art. 188, § 2º, I, da Resolução TCE nº 04/2002, que: institua no âmbito de sua estrutura organizacional setor competente para a realização do controle interno da unidade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho recomenda a instituição de um setor de controle interno, o que indica uma deficiência na implementação do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "188, § 2º, I",
+              "descricao": "Dispõe sobre as Recomendações do TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem, nos termos do art. 188, § 2º, I, da Resolução TCE nº 04/2002, que: adote as providências cabíveis no sentido de comprovar e proceder à efetivação do estorno dos valores ao Erário Público e, posterior, encerramento da conta em questão, sob pena de responsabilização, nos termos regimentais;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao órgão de origem, nos termos do art. 188, § 2º, I, da Resolução TCE nº 04/2002, que: adote as providências cabíveis no sentido de comprovar e proceder à efetivação do estorno dos valores ao Erário Público e, posterior, encerramento da conta em questão, sob pena de responsabilização, nos termos regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho recomenda a comprovação e estorno de valores ao erário, o que sugere pagamentos irregulares.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "188, § 2º, I",
+              "descricao": "Dispõe sobre as Recomendações do TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem, nos termos do art. 188, § 2º, I, da Resolução TCE nº 04/2002, que: atente com melhor afinco aos ditames previstos na Lei de Licitações e Contratos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao órgão de origem, nos termos do art. 188, § 2º, I, da Resolução TCE nº 04/2002, que: atente com melhor afinco aos ditames previstos na Lei de Licitações e Contratos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A recomendação para atentar aos ditames da Lei de Licitações e Contratos indica falhas nos processos licitatórios.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "188, § 2º, I",
+              "descricao": "Dispõe sobre as Recomendações do TCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à comissão de inspeção do exercício vindouro que verifique o cumprimento destas recomendações;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à comissão de inspeção do exercício vindouro que verifique o cumprimento destas recomendações",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para verificar o cumprimento das recomendações indica a necessidade de monitoramento das ações de controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste Acordão ao Sr. Wilson Martins de Araújo, Ordenador de Despesas e Secretário Chefe da Casa Militar do Governo do Estado do Amazonas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência deste Acordão ao Sr. Wilson Martins de Araújo, Ordenador de Despesas e Secretário Chefe da Casa Militar do Governo do Estado do Amazonas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Dar ciência do acórdão aos responsáveis é um procedimento padrão e não indica diretamente uma irregularidade ou problema estrutural.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

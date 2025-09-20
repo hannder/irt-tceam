@@ -1,0 +1,511 @@
+{
+  "acordao": "583/2020",
+  "processo": "11747/2018",
+  "data_sessao": "10 de Junho de 2020",
+  "orgao": "Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB",
+  "municipio": "Beruri",
+  "exercicio": "2017",
+  "responsavel": [
+    "Francisco Oliveira Videira"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual do Fundo Municipal  de  Previdência  Social  do  Município  de  Beruri,  referente  ao exercício  de  2017  (U.G:  4261),  de  responsabilidade  do  Sr. Francisco Oliveira  Videira , Diretor  do  Fundo  Municipal  de  Previdência  Social  do Município de Beruri e Ordenadora de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao  Sr. Francisco  Oliveira  Videira , Diretor  do  Fundo Municipal de Previdência Social do Município de Beruri e Ordenadora de Despesas, à época, no valor de R$ 3.000,00 (três  mil  reais)  na  forma , prevista no artigo 1º, inciso XXVI e 52 da Lei nº. 2423/1996 - LOTCE, c/c o artigo 308, inciso VII, da Resolução nº. 04/2002 - RITCE/AM, atualizada em  09.11.2018, tendo  em  vista  as  impropriedades  não  saneadas  na Fundamentação deste Voto, que deverá ser recolhida no prazo de 30 dias para  o  Cofre  Estadual através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  ORIGEM que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "o § 6º do artigo 27, da Lei Municipal 204/2011, não está em consonância com que dispõe o § 8º do artigo 37, da Constituição Federal.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "o quadro de pessoal do Funpreb, constituído pela Lei Municipal 205/2011, posteriormente alterada pela Lei 259/2017, contempla apenas servidores de cargos comissionados  (direção  e  assessoramento).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "há cargos  de  assessores  que  são  exercidos  por  servidores com  escolaridade  de  nível médio. As  leis municipais 205/2011 e 259/2017 não contemplam as previsões do art. 37, incisos I e II, bem como dos incisos I, II, III, do § 1º do art. 39, da Constituição Federal, no que concerne a regra constitucional do concurso público, requisitos e peculiaridade dos cargos.",
+      "trechos_identificados": [
+        {
+          "trecho": "há cargos  de  assessores  que  são  exercidos  por  servidores com  escolaridade  de  nível médio.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "Identificado que há cargos de assessores que são exercidos por servidores com escolaridade de nível médio, sem o devido concurso público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, incisos I e II",
+              "descricao": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, de acordo com a natureza e a complexidade do cargo ou emprego, na forma prevista em lei."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "39, § 1º",
+              "descricao": "A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará: I - a natureza, o grau de responsabilidade e a complexidade dos cargos componentes de cada carreira; II - os requisitos para a investidura; III - as peculiaridades dos cargos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "as prestações de contas das viagens designadas não foram adequadamente apresentadas, além de não observarem ao interesse público.",
+      "trechos_identificados": [
+        {
+          "trecho": "as prestações de contas das viagens designadas não foram adequadamente apresentadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "Identificado que as prestações de contas das viagens designadas não foram adequadamente apresentadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 10",
+              "artigo": "Ato PGJ nº 002/2011",
+              "descricao": "Dispõe sobre a concessão de diárias no âmbito do Ministério Público do Estado do Amazonas e dá outras providências."
+            }
+          ]
+        },
+        {
+          "trecho": "não observarem ao interesse público.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "Identificado que as prestações de contas das viagens designadas não observarem ao interesse público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 10",
+              "artigo": "Ato PGJ nº 002/2011",
+              "descricao": "Dispõe sobre a concessão de diárias no âmbito do Ministério Público do Estado do Amazonas e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "divergência de R$ 1.558,61, entre a soma dos extratos bancários  e  o  valor  do  saldo  para  o  exercício  seguinte constante no balanço financeiro, em 31.12.2017.",
+      "trechos_identificados": [
+        {
+          "trecho": "divergência de R$ 1.558,61, entre a soma dos extratos bancários  e  o  valor  do  saldo  para  o  exercício  seguinte constante no balanço financeiro, em 31.12.2017.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A deliberação descreve uma divergência entre a soma dos extratos bancários e o saldo no balanço financeiro, caracterizando uma falha na conciliação bancária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "Arts. 83, 85 e 89",
+              "descricao": "Estabelecem normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "a  aplicação  em  fundo  de  investimento  do  Funpreb rendeu inferior à média do mercado.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "no processo 498/2017, concernente a carta convite nº 001/2017, constam despachos sem assinaturas",
+      "trechos_identificados": [
+        {
+          "trecho": "constam despachos sem assinaturas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "A ausência de assinaturas nos despachos compromete a transparência e a rastreabilidade das decisões tomadas no processo licitatório.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "e parecerjurídico, referente ao  edital, sem  identificação e sem assinatura do parecerista.",
+      "trechos_identificados": [
+        {
+          "trecho": "e parecerjurídico, referente ao  edital, sem  identificação e sem assinatura do parecerista.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A ausência de identificação e assinatura do parecerista jurídico impede a verificação da responsabilidade e da qualificação de quem emitiu o parecer, comprometendo a segurança jurídica do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "no processo 498/2017, concernente a Carta Convite nº 001/2017, não consta prova adequada de sua publicação.",
+      "trechos_identificados": [
+        {
+          "trecho": "não consta prova adequada de sua publicação.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A10B",
+          "tipologia_irregularidade": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "descricao": "Ausência de Publicação de atos obrigatórios da Licitação",
+          "justificativa_tipologia": "A ausência de comprovação da publicação impede verificar o cumprimento do requisito essencial de publicidade dos atos licitatórios.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "contratação de assessoria jurídica pelo R$ 72.000,00, por meio da Carta Convite 002/2017.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "pagamento  de  R$  12.000,00  por conta da Carta Contrato 002/2017, sem a devida observação da clausula décima e do item 5 da proposta da contratada.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "despesas  de  R$  7.980,00  com  a  contratação  de serviços de processamento e transmissão de dados - folha de  pagamento,  sem  autuação  do  devido  processo  de dispensa  que  demonstrasse  a  viabilidade  da  contratação pelo referido valor.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "o certificado de regularidade previdenciária - CRP do município de Beruri se encontra cancelado junto ao ministério da previdência social.",
+      "trechos_identificados": [
+        {
+          "trecho": "o certificado de regularidade previdenciária - CRP do município de Beruri se encontra cancelado junto ao ministério da previdência social.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A7B",
+          "tipologia_irregularidade": "Ausência de Certificado de Regularidade Previdenciária - CRP, emitido pelo MPS, ou com a falta de esclarecimentos sobre o motivo da suspensão",
+          "descricao": "Ausência de Certificado de Regularidade Previdenciária - CRP, emitido pelo MPS, ou com a falta de esclarecimentos sobre o motivo da suspensão",
+          "justificativa_tipologia": "A ausência do CRP indica que o município não está cumprindo as exigências para garantir a regularidade do seu regime previdenciário, o que pode comprometer o pagamento de benefícios futuros.",
+          "fundamentacao_legal": [
+            {
+              "norma": "ON MPS/SPS nº 02/2009",
+              "artigo": "Art. 8º",
+              "descricao": "Dispõe sobre os procedimentos relativos à emissão de Certidão de Regularidade Previdenciária (CRP) e dá outras providências."
+            },
+            {
+              "norma": "Portaria MPS 204/2008",
+              "artigo": " ",
+              "descricao": "Estabelece parâmetros para a organização e o funcionamento dos Regimes Próprios de Previdência Social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "os  segurados  não  têm  acesso  às  informações  da gestão do Funpreb - Beruri. A comissão de inspeção não encontrou qualquer mecanismo de informação aos segurados sobre a gestão do Funpreb.",
+      "trechos_identificados": [
+        {
+          "trecho": "os  segurados  não  têm  acesso  às  informações  da gestão do Funpreb - Beruri.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A falta de acesso dos segurados às informações da gestão do Funpreb viola o princípio da transparência e dificulta o controle social.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "os membros do conselho de administração do Funpreb não foram nomeados.",
+      "trechos_identificados": [
+        {
+          "trecho": "os membros do conselho de administração do Funpreb não foram nomeados.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A24B",
+          "tipologia_irregularidade": "Ausência de atos de gestão",
+          "descricao": "Ausência de atos de gestão",
+          "justificativa_tipologia": "A ausência de nomeação dos membros do conselho de administração impede o funcionamento adequado do órgão e a tomada de decisões estratégicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "Art. 74°",
+              "descricao": "O controle interno, a gestão e fiscalização das atividades não foram implementadas corretamente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "os membros do conselho fiscal do Funpreb não foram nomeados.",
+      "trechos_identificados": [
+        {
+          "trecho": "os membros do conselho fiscal do Funpreb não foram nomeados.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A24B",
+          "tipologia_irregularidade": "Ausência de atos de gestão",
+          "descricao": "Ausência de atos de gestão",
+          "justificativa_tipologia": "A ausência de nomeação dos membros do conselho fiscal impede a fiscalização adequada da gestão dos recursos previdenciários.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "Art. 74°",
+              "descricao": "O controle interno, a gestão e fiscalização das atividades não foram implementadas corretamente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "diferença a recolher das contribuições patronal e dos servidores,  das  competências  janeiro  a  dezembro/2017, inclusive 13º salário, no valor total de R$ 481.301,99.",
+      "trechos_identificados": [
+        {
+          "trecho": "diferença a recolher das contribuições patronal e dos servidores,  das  competências  janeiro  a  dezembro/2017, inclusive 13º salário, no valor total de R$ 481.301,99.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "justificativa_tipologia": "A ausência de recolhimento das contribuições previdenciárias compromete o equilíbrio financeiro do sistema previdenciário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "Arts. 40 e 195, I",
+              "descricao": "Tratam da seguridade social e das fontes de custeio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "recolhimentos em atraso das contribuições patronal e dos  servidores  sem  a  devida  cobrança  de  juros  das competências janeiro, março, agosto, setembro e novembro/2017.",
+      "trechos_identificados": [
+        {
+          "trecho": "recolhimentos em atraso das contribuições patronal e dos  servidores  sem  a  devida  cobrança  de  juros  das competências janeiro, março, agosto, setembro e novembro/2017.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "justificativa_tipologia": "A ausência de cobrança de juros sobre as contribuições previdenciárias recolhidas em atraso causa prejuízo ao sistema previdenciário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "40, caput",
+              "descricao": "Assegura aos servidores públicos regime de previdência de caráter contributivo e solidário."
+            },
+            {
+              "norma": "Lei nº 9.717/98",
+              "artigo": "art. 1º, inciso II",
+              "descricao": "Dispõe sobre regras gerais para a organização e o funcionamento dos regimes próprios de previdência social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios."
+            },
+            {
+              "norma": "Portaria MTP nº 1.467/2022",
+              "artigo": "arts. 7º, inciso II, alínea \"a\", art. 247, caput, inciso I e art. 250, caput, inciso III",
+              "descricao": "Dispõe sobre os parâmetros para apuração da base de cálculo e da alíquota de contribuição para os regimes próprios de previdência social (RPPS) da União, dos Estados, do Distrito Federal e dos Municípios, bem como sobre as aplicações dos recursos existentes nesses regimes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "a não realização da política anual de investimentos pelo Funpreb - Beruri no exercício 2017.",
+      "trechos_identificados": [
+        {
+          "trecho": "a não realização da política anual de investimentos pelo Funpreb - Beruri no exercício 2017.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A6B",
+          "tipologia_irregularidade": "Não aplicação de recursos em investimentos",
+          "descricao": "Não aplicação de recursos em investimentos",
+          "justificativa_tipologia": "A ausência de uma política anual de investimentos dificulta a gestão adequada dos recursos previdenciários.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "não  foi  criado  o  comitê  de  investimento,  conforme previsão legal.",
+      "trechos_identificados": [
+        {
+          "trecho": "não  foi  criado  o  comitê  de  investimento,  conforme previsão legal.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "Ausência de previsão legal para a criação do comitê",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "Art. 37, XVI",
+              "descricao": "Proíbe a acumulação remunerada de cargos públicos, salvo as exceções expressamente previstas na Constituição."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "não comprovação de que o gestor do Funpreb - Beruri tenha sido capacitado em finanças e mercado financeiro.",
+      "trechos_identificados": [
+        {
+          "trecho": "não comprovação de que o gestor do Funpreb - Beruri tenha sido capacitado em finanças e mercado financeiro.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A12B",
+          "tipologia_irregularidade": "Ausência de recolhimentos previdenciários da folha do FUNDEB - parte patronal - INSS",
+          "descricao": "Ausência de recolhimentos previdenciários da folha do FUNDEB - parte patronal - INSS",
+          "justificativa_tipologia": "A falta de comprovação da capacitação do gestor em finanças e mercado financeiro indica que ele pode não ter o conhecimento necessário para gerir adequadamente os recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 22",
+              "artigo": "Lei 8.212/91",
+              "descricao": "A contribuição a cargo da empresa, destinada à Seguridade Social, além do disposto no art. 23, é também de"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "não comprovação do encaminhamento pelo ente federativo dos demonstrativos previdenciários ao Ministério da Previdência.",
+      "trechos_identificados": [
+        {
+          "trecho": "não comprovação do encaminhamento pelo ente federativo dos demonstrativos previdenciários ao Ministério da Previdência.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A33B",
+          "tipologia_irregularidade": "Ausência da publicação dos balanços no Diário Oficial do Estado",
+          "descricao": "Ausência da publicação dos balanços no Diário Oficial do Estado",
+          "justificativa_tipologia": "A falta de comprovação do encaminhamento dos demonstrativos previdenciários impede o acompanhamento e a fiscalização por parte do órgão responsável.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 9°",
+              "artigo": "Lei Complementar 06/91",
+              "descricao": "Dispõe sobre a administração financeira do Estado, e dá outras providências"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "ausência de previsão legal para a cobrança de alíquota suplementar a fim de cobrir o déficit atuarial do Funbreb Beruri no valor de R$ 49.894.100,76, exercício 2017.",
+      "trechos_identificados": [
+        {
+          "trecho": "ausência de previsão legal para a cobrança de alíquota suplementar a fim de cobrir o déficit atuarial do Funbreb Beruri no valor de R$ 49.894.100,76, exercício 2017.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A31B",
+          "tipologia_irregularidade": "Ausência de DRRA",
+          "descricao": "Ausência de DRRA",
+          "justificativa_tipologia": "A cobrança de alíquota suplementar sem previsão legal viola o princípio da legalidade e pode prejudicar os segurados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 5",
+              "artigo": "6°, inciso I, da Portaria MPS n°208/2008",
+              "descricao": "Dispõe sobre os parâmetros para a organização e o funcionamento dos Regimes Próprios de Previdência Social dos servidores públicos da União, dos Estados, do Distrito Federal e dos Municípios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "base  de  cálculo  das  contribuições  previdenciárias  de servidores  efetivos  em  exercício  de  cargo  comissionado contraria a legislação.",
+      "trechos_identificados": [
+        {
+          "trecho": "base  de  cálculo  das  contribuições  previdenciárias  de servidores  efetivos  em  exercício  de  cargo  comissionado contraria a legislação.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A4B",
+          "tipologia_irregularidade": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "descricao": "Ausência de controle sistemático do cálculo das contribuições e fragilidade na conferência dos repasses e pagamentos de parcelamentos",
+          "justificativa_tipologia": "A utilização de base de cálculo incorreta para as contribuições previdenciárias causa prejuízo ao sistema previdenciário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "40, caput",
+              "descricao": "Assegura aos servidores públicos regime de previdência de caráter contributivo e solidário."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "não consta recolhimento da contribuição patronal e do servidor  do  segurado  João  Batista  Lima  de  Oliveira,  nas competências novembro, dezembro e 13º salário de 2017.",
+      "trechos_identificados": [
+        {
+          "trecho": "não consta recolhimento da contribuição patronal e do servidor  do  segurado  João  Batista  Lima  de  Oliveira,  nas competências novembro, dezembro e 13º salário de 2017.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "descricao": "Não recolhimento de contribuições previdenciária do empregador à instituição de previdência",
+          "justificativa_tipologia": "A ausência de recolhimento das contribuições previdenciárias compromete o equilíbrio financeiro do sistema previdenciário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "Arts. 40 e 195, I",
+              "descricao": "Tratam da seguridade social e das fontes de custeio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Deliberação",
+      "descricao": "diferença a recolher das contribuições patronal e dos servidores, das competências janeiro, março, julho, agosto, setembro e 13º salário/2017, no valor total de R$ 4.898,58.",
+      "trechos_identificados": [
+        {
+          "trecho": "diferença a recolher das contribuições patronal e dos servidores, das competências janeiro, março, julho, agosto, setembro e 13º salário/2017, no valor total de R$ 4.898,58.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A8B",
+          "tipologia_irregularidade": "Não recolhimento de contribuições

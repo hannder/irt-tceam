@@ -1,0 +1,46 @@
+{
+  "acordao": "97/2023",
+  "processo": "11926/2022",
+  "data_sessao": "31 de janeiro de 2023",
+  "orgao": "Secretaria de Estado das Cidades e Territórios - SECT (Antiga SPF)",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Lucio Meirelles da Silva Bezerra de Menezes",
+    "Ismael da Costa Silva",
+    "Ricardo Luiz Monteiro Francisco",
+    "João Coelho Braga"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular as Contas do Sr. Ricardo Luiz Monteiro Francisco , Secretário de Estado da SECT (período de 01/01/2021 A 08/11/2021); com fundamento no art. 22, inciso I, da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular as Contas do Sr. João Coelho Braga ,  Secretário da SECT (período de 08/11/2021 A 31/12/2021); com fundamento no art. 22, inciso I, da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular as Contas do Sr. Ismael da Costa Silva ,  Ordenador da SECT (período de 01/01/2021 A 16/11/2021), com fundamento no art. 22, inciso I, da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular as  Contas  do Sr.  Lucio Meirelles da Silva Bezerra de Menezes , Ordenador da SECT  (período de 16/11/2021 A 31/12/2021) ; com fundamento no art. 22, inciso I, da Lei nº 2.423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Lucio Meirelles da Silva Bezerra de Menezes e os outros ex-gestores, sobre a decisão desta Corte de Contas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos.",
+      "trechos_identificados": []
+    }
+  ]
+}

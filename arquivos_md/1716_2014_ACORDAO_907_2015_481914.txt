@@ -1,0 +1,228 @@
+{
+  "acordao": "907/2015",
+  "processo": "1716/2014",
+  "data_sessao": "28 de outubro de 2015",
+  "orgao": "Agência  Reguladora  dos  Serviços  Públicos  Concedidos  do  Estado  do Amazonas- ARSAM",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Fábio  Augusto  Alho  da  Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "Glosar",
+      "descricao": "Glosar o  montante  de R$  135.281,86 (cento  e  trinta  e  cinco  mil, duzentos e oitenta e um reais e oitenta e seis centavos), referente às impropriedades '2' e '3' do relatório/voto, considerando o Sr. Fábio  Augusto  Alho da Costa ,  Diretor  da ARSAM e Ordenador de Despesas, à época, em alcance , nos termos do art. 304, I, da Res.  n.  4/2002 , fixando-lhe  o prazo  de  30  (trinta)  dias ,  para  que  recolha  o  valor  do débito aos cofres da Fazenda Municipal, com a devida comprovação nestes autos (art. 72,  III,  'a'  da  Lei  n.  2423/1996  e  art.  308,  §3°,  da  Res.  nº.  4/2002).  Expirado  o prazo estabelecido,  o  valor  deverá  ser  inscrito  na  Dívida  Ativa  do  Município,  com  imediata cobrança judicial cientificando o Tribunal de todas as medidas adotadas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Glosar o  montante  de R$  135.281,86 (cento  e  trinta  e  cinco  mil, duzentos e oitenta e um reais e oitenta e seis centavos), referente às impropriedades '2' e '3' do relatório/voto, considerando o Sr. Fábio  Augusto  Alho da Costa ,  Diretor  da ARSAM e Ordenador de Despesas, à época, em alcance , nos termos do art. 304, I, da Res.  n.  4/2002 , fixando-lhe  o prazo  de  30  (trinta)  dias ,  para  que  recolha  o  valor  do débito aos cofres da Fazenda Municipal, com a devida comprovação nestes autos (art. 72,  III,  'a'  da  Lei  n.  2423/1996  e  art.  308,  §3°,  da  Res.  nº.  4/2002).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "O trecho indica um possível desvio de recursos públicos devido a impropriedades identificadas no relatório/voto, o que justifica a classificação como 'Suposto Desvio de recursos públicos'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res.  n.  4/2002",
+              "artigo": "304, I",
+              "descricao": "Determina o alcance do responsável."
+            },
+            {
+              "norma": "Lei  n.  2423/1996",
+              "artigo": "72, III, 'a'",
+              "descricao": "Define a responsabilidade pela comprovação do recolhimento do débito."
+            },
+            {
+              "norma": "Res.  nº.  4/2002",
+              "artigo": "308, §3°",
+              "descricao": "Estabelece o prazo e as condições para o recolhimento do débito."
+            }
+          ]
+        },
+        {
+          "trecho": "Expirado  o prazo estabelecido,  o  valor  deverá  ser  inscrito  na  Dívida  Ativa  do  Município,  com  imediata cobrança judicial cientificando o Tribunal de todas as medidas adotadas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "O trecho descreve o procedimento padrão a ser adotado caso o débito não seja pago no prazo, que é a inscrição na Dívida Ativa e cobrança judicial, sendo assim não é um desvio de recurso.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular, com fulcro no art. 1º, III, 22, 'b', da Lei n. 2.423/1996; e art. 188, §1º, III, 'b', da Res. nº. 04/2002, a Prestação de Contas, referente ao exercício de  2013,  da  Agência  Reguladora  dos  Serviços  Públicos  Concedidos  do  Estado  do Amazonas - ARSAM, de responsabilidade do Sr. Fábio Augusto Alho da Costa , Diretor - Presidente da ARSAM e Ordenador de Despesas, à época;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular, com fulcro no art. 1º, III, 22, 'b', da Lei n. 2.423/1996; e art. 188, §1º, III, 'b', da Res. nº. 04/2002, a Prestação de Contas, referente ao exercício de  2013,  da  Agência  Reguladora  dos  Serviços  Públicos  Concedidos  do  Estado  do Amazonas - ARSAM, de responsabilidade do Sr. Fábio Augusto Alho da Costa , Diretor - Presidente da ARSAM e Ordenador de Despesas, à época",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho indica que a prestação de contas foi julgada irregular devido a falhas que dificultam o acompanhamento e controle, o que se encaixa na tipologia de 'Falhas na prestação de contas'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/1996",
+              "artigo": "1º, III, 22, 'b'",
+              "descricao": "Fundamentação legal para o julgamento irregular da prestação de contas."
+            },
+            {
+              "norma": "Res. nº. 04/2002",
+              "artigo": "188, §1º, III, 'b'",
+              "descricao": "Base normativa para a decisão de irregularidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Na forma prevista no art. 1º, XXVI e art. 52 da Lei nº. 2423/1996, aplicar ao Sr. Fábio Augusto Alho da Costa , Diretor da ARSAM e Ordenador de Despesas, à época, multa no montante de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), de acordo com o art. 308, VI, da Res. nº. 4/2002, alterado pela Res.  n.  25/2012,  referente  aos  atos  praticados  com  grave  infração  à  norma  legal  ou regulamentar  de  natureza  contábil,  financeira,  orçamentária,  operacional  e  patrimonial constantes nos itens 2, 3, 4, 5, 6, 7, 8, 9 e 10 do relatório/voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "Na forma prevista no art. 1º, XXVI e art. 52 da Lei nº. 2423/1996, aplicar ao Sr. Fábio Augusto Alho da Costa , Diretor da ARSAM e Ordenador de Despesas, à época, multa no montante de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), de acordo com o art. 308, VI, da Res. nº. 4/2002, alterado pela Res.  n.  25/2012,  referente  aos  atos  praticados  com  grave  infração  à  norma  legal  ou regulamentar  de  natureza  contábil,  financeira,  orçamentária,  operacional  e  patrimonial constantes nos itens 2, 3, 4, 5, 6, 7, 8, 9 e 10 do relatório/voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A aplicação de multa devido a infrações de natureza contábil, financeira, orçamentária, operacional e patrimonial se relaciona diretamente à ausência de notas explicativas nas demonstrações contábeis, pois estas são essenciais para a clareza e transparência das informações contábeis, permitindo a correta interpretação dos dados e a identificação de possíveis irregularidades.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, XXVI",
+              "descricao": "Base legal para a aplicação de multas por irregularidades."
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "52",
+              "descricao": "Define as condições para aplicação de multa."
+            },
+            {
+              "norma": "Res. nº. 4/2002",
+              "artigo": "308, VI",
+              "descricao": "Especifica o valor da multa e os critérios para sua aplicação."
+            },
+            {
+              "norma": "Res. n. 25/2012",
+              "artigo": "null",
+              "descricao": "Altera a Resolução nº. 4/2002 referente aos atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar prazo de 30 (trinta) dias (art. 174 do RITCE), para que o Sr. Fábio Augusto Alho da Costa , Diretor da ARSAM e Ordenador de Despesas, à época, recolha aos  cofres da Fazenda  Estadual  o  valor da multa ora aplicada, com  a  devida comprovação nos autos, o qual deverá ser atualizado monetariamente,  na hipótese de expirar o prazo concedido (art. 55, da Lei n. 2423/96), ficando  a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Res. n. 4/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar prazo de 30 (trinta) dias (art. 174 do RITCE), para que o Sr. Fábio Augusto Alho da Costa , Diretor da ARSAM e Ordenador de Despesas, à época, recolha aos  cofres da Fazenda  Estadual  o  valor da multa ora aplicada, com  a  devida comprovação nos autos, o qual deverá ser atualizado monetariamente,  na hipótese de expirar o prazo concedido (art. 55, da Lei n. 2423/96), ficando  a DICREX autorizada a adotar as medidas previstas nas Subseções III e IV da Secção III, do Capítulo X, da Res. n. 4/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Este item estabelece um procedimento administrativo (prazo para recolhimento de multa) e, por si só, não indica um problema estrutural na gestão pública. Por isso, foi definido como  relevante_para_indice == False.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE",
+              "artigo": "174",
+              "descricao": "Fixa o prazo para recolhimento da multa."
+            },
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "55",
+              "descricao": "Define a atualização monetária em caso de expiração do prazo."
+            },
+            {
+              "norma": "Res. n. 4/2002",
+              "artigo": "null",
+              "descricao": "Autoriza a DICREX a adotar medidas específicas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Remeter",
+      "descricao": "Remeta  à  atual Administração  da  Agência  Reguladora  dos Serviços  Públicos  Concedidos  do  Estado  do  Amazonas,  cópias  autênticas  das  peças emitidas pela Comissão de Inspeção e pelo Representante  Ministerial,  visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras;",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeta  à  atual Administração  da  Agência  Reguladora  dos Serviços  Públicos  Concedidos  do  Estado  do  Amazonas,  cópias  autênticas  das  peças emitidas pela Comissão de Inspeção e pelo Representante  Ministerial,  visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho descreve uma ação administrativa para evitar futuras irregularidades, mas não indica uma falha concreta ou deficiência estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificar",
+      "descricao": "Notifique o Sr. Fábio Augusto A. da Costa , Diretor da ARSAM e Ordenador de Despesas, à época, cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso;",
+      "trechos_identificados": [
+        {
+          "trecho": "Notifique o Sr. Fábio Augusto A. da Costa , Diretor da ARSAM e Ordenador de Despesas, à época, cópia do Relatório/Voto e Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho descreve um procedimento padrão para garantir o direito ao contraditório e à ampla defesa, mas não indica uma falha concreta ou deficiência estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Após a ocorrência da coisa julgada",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002, adote as providências do artigo 162, §2º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002, adote as providências do artigo 162, §2º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "null",
+          "codigo_irregularidade": "null",
+          "tipologia_irregularidade": "null",
+          "descricao": "null",
+          "justificativa_tipologia": "O trecho descreve um procedimento padrão a ser seguido após o trânsito em julgado da decisão, sem indicar uma falha concreta ou deficiência estrutural na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "159",
+              "descricao": "Regulamenta o processo de trânsito em julgado."
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "160",
+              "descricao": "Regulamenta o processo de trânsito em julgado."
+            },
+            {
+              "norma": "RITCE",
+              "artigo": "162, §2º",
+              "descricao": "Define as providências a serem adotadas após a coisa julgada."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

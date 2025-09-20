@@ -1,0 +1,229 @@
+{
+  "acordao": "935/2021",
+  "processo": "11161/2019",
+  "data_sessao": "01 de Setembro de 2021",
+  "orgao": "Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB",
+  "municipio": "Beruri",
+  "exercicio": "2018",
+  "responsavel": [
+    "Francisco Oliveira Videira"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  do  Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB, sob a responsabilidade do Sr. Francisco Oliveira Videira , gestor do FUNPREB, exercício de 2018, nos termos do art. 22, inciso II, da Lei nº 2423/96.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr.  Francisco Oliveira Videira ,  gestor  do  FUNPREB, exercício  de  2018,  no  valor  de R$ 4.000,00 (Quatro  mil  reais)  pelas restrições remanescentes 3'b', 3'c', 3'd' e 3'f' do Relatório Conclusivo nº 46/2019-DICERP (fls. 947/960) e do Relatório/Voto, com base no art. 308, VII da  Resolução  nº  04/2002  -  TCE/AM,  com  redação  dada  pela Resolução n. 04/2018 - TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Fixação de prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para que o responsável recolha o valor da  multa,  acima  registrado,  aos  Cofres  da  Fazenda  Pública Estadual, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código  '5508  -  Multas  aplicadas  pelo  TCE/AM  - Fundo  de  Apoio  ao Exercício do Controle Externo - FAECE'.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Obrigação",
+      "descricao": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento  (autenticado  pelo  Banco)  a  esta  Corte  de  Contas  (art.  72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aviso",
+      "descricao": "O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança  administrativa  ou  judicial  do  título  executivo  (art.  73  da  Lei Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado,  caso  expirado  o referido  prazo,  a  adotar  as  medidas  previstas  nas subseções III e IV da Seção III,  do  Capítulo  X,  da  Resolução  nº  04/2002-TCE/AM,  bem  como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas -  IEPTB/AM,  ao  encaminhamento  do  título  executivo  para  protesto  em nome do responsável",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Promova a adequação do art. 27, §6º, da Lei Municipal n. 204/2011 para que esteja de acordo com o previsto no art. 37, §8º da Constituição Federal, restrição 1",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Promova a adequação do art. 27, §6º, da Lei Municipal n. 204/2011 para que esteja de acordo com o previsto no art. 37, §8º da Constituição Federal, restrição 1",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A76B",
+          "tipologia_irregularidade": "Não adoção de medidas para o retorno da despesa total com pessoal ao respectivo limite",
+          "descricao": "Ente não adotou medidas para o retorno da despesa com pessoal ao respectivo limite.",
+          "justificativa_tipologia": "A recomendação indica uma falha na adequação das normas municipais às disposições constitucionais relativas ao limite de despesas com pessoal, o que pode impactar a gestão fiscal do município e o equilíbrio financeiro do RPPS.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, §8º",
+              "descricao": "Necessidade de adequação da lei municipal à Constituição Federal em relação aos limites de despesas com pessoal."
+            },
+            {
+              "norma": "Lei Municipal n. 204/2011",
+              "artigo": "27, §6º",
+              "descricao": "Necessidade de adequação do artigo da Lei Municipal às disposições constitucionais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Promova  a  adequação  das  Leis  Municipais  n.  205/2011  e 259/2017 ao previsto no art. 37, I e II, bem como no art. 39, §1º, I, II e III da Constituição Federal, restrição 2",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Promova  a  adequação  das  Leis  Municipais  n.  205/2011  e 259/2017 ao previsto no art. 37, I e II, bem como no art. 39, §1º, I, II e III da Constituição Federal, restrição 2",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A6B",
+          "tipologia_irregularidade": "Inobservância do tratamento diferenciado garantido às ME/EPP",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital.",
+          "justificativa_tipologia": "A recomendação indica uma necessidade de adequação das leis municipais aos princípios constitucionais referentes à investidura em cargo público e à organização da administração pública, o que é relevante para a gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, I e II",
+              "descricao": "Princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência na administração pública."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "39, §1º, I, II e III",
+              "descricao": "Disposições sobre a remuneração dos servidores públicos."
+            },
+            {
+              "norma": "Leis Municipais n. 205/2011 e 259/2017",
+              "artigo": "N/A",
+              "descricao": "Necessidade de adequação das leis municipais às disposições constitucionais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Promova a adequação da Lei Municipal n. 204/2011 quanto à natureza jurídica de autarquia do FUNPREB, restrição 4",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Promova a adequação da Lei Municipal n. 204/2011 quanto à natureza jurídica de autarquia do FUNPREB, restrição 4",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A22B",
+          "tipologia_irregularidade": "Falha na criação do Sistema de Controle Interno (SCI)**",
+          "descricao": "Não envio de Balancetes Mensais",
+          "justificativa_tipologia": "Esta recomendação, embora direcionada à adequação da natureza jurídica do FUNPREB, tem impacto direto no controle interno e na gestão contábil da entidade, refletindo a necessidade de conformidade com as normas legais para a adequada supervisão das finanças e operações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal n. 204/2011",
+              "artigo": "N/A",
+              "descricao": "Necessidade de adequação da Lei Municipal à legislação vigente sobre a natureza jurídica das autarquias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie  ferramentas  que  possibilitem  aos  segurados terem  pleno  acesso  às  informações  relativas  à  gestão  do FUNPREB, restrição 5'a'",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie  ferramentas  que  possibilitem  aos  segurados terem  pleno  acesso  às  informações  relativas  à  gestão  do FUNPREB, restrição 5'a'",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação enfatiza a necessidade de garantir o acesso dos segurados às informações sobre a gestão do FUNPREB, o que está diretamente relacionado à transparência na administração pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie de forma imediata o Certificado de Regularidade Previdenciária, restrição 5'b'",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie de forma imediata o Certificado de Regularidade Previdenciária, restrição 5'b'",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A recomendação para providenciar o Certificado de Regularidade Previdenciária (CRP) está ligada à necessidade de cumprir as exigências legais e fiscais para a gestão do RPPS, impactando diretamente a gestão fiscal do município.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Submeta  seus  atos  de  gestão ao controle interno do executivo  municipal,  caso  não  possua  setor  de  controle interno, restrição 5'c'",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Submeta  seus  atos  de  gestão ao controle interno do executivo  municipal,  caso  não  possua  setor  de  controle interno, restrição 5'c'",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação visa garantir que os atos de gestão do FUNPREB sejam devidamente supervisionados pelo controle interno, fortalecendo a governança e a transparência na gestão dos recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie a regularização dos saldos do Demonstrativo da Dívida Flutuante, restrição 6'c'",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie a regularização dos saldos do Demonstrativo da Dívida Flutuante, restrição 6'c'",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A recomendação para regularizar os saldos do Demonstrativo da Dívida Flutuante está diretamente relacionada à necessidade de garantir a exatidão e a confiabilidade das informações contábeis, assegurando uma gestão financeira transparente e responsável.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Remeta a este Tribunal de Contas os processos aposentatórios  e  de  pensão  tão  logo  sejam  finalizados, restrição 9",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Remeta a este Tribunal de Contas os processos aposentatórios  e  de  pensão  tão  logo  sejam  finalizados, restrição 9",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para remeter os processos de aposentadoria e pensão ao TCE/AM está diretamente relacionada à necessidade de garantir a transparência e o controle externo sobre a gestão previdenciária, assegurando a legalidade e a regularidade dos atos administrativos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie a regularização da ferramenta Cadprev a fim de que nenhum demonstrativo deixe de ser expedido, restrição 14.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Sr. Francisco Oliveira Videira , gestor do Fundo Municipal de Previdência Social do Município de Beruri - FUNPREB que: Providencie a regularização da ferramenta Cadprev a fim de que nenhum demonstrativo deixe de ser expedido, restrição 14.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação para regularizar a ferramenta Cadprev visa garantir a correta emissão dos demonstrativos previdenciários, o que é essencial para a supervisão e a conformidade com as normas legais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno  -  SEPLENO que  extraia cópia  do Relatório/Voto  e  encaminhe  ao  Sr.  Francisco  Oliveira  Videira, gestor do FUNPREB, juntamente com a decisão originada a fim de que o gestor tenha ciência do teor das restrições que foram alvo de recomendação.",
+      "trechos_identificados": []
+    }
+  ]
+}

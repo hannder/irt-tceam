@@ -1,0 +1,104 @@
+{
+  "acordao": "222/2019",
+  "processo": "10829/2015",
+  "data_sessao": "02 de Abril de 2019",
+  "orgao": "Câmara Municipal de São Sebastião do Uatumã",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2014",
+  "responsavel": [
+    "Guimaro Monteiro de Miranda"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Guimaro Monteiro de Miranda , exercício de 2014, nos termos do art. 22, II, da Lei 2.423/96 c/c o art. 188, §1º, II, da Resolução 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Regular com Ressalvas a Prestação de Contas do Sr. Guimaro Monteiro de Miranda , exercício de 2014, nos termos do art. 22, II, da Lei 2.423/96 c/c o art. 188, §1º, II, da Resolução 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O julgamento regular com ressalvas indica que, embora a prestação de contas tenha sido aprovada, foram encontradas impropriedades que não justificam a rejeição das contas, mas que merecem registro e correção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, II",
+              "descricao": "Aprova a prestação de contas com ressalvas devido às impropriedades encontradas."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, §1º, II",
+              "descricao": "Aprova a prestação de contas com ressalvas devido às impropriedades encontradas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Guimaro Monteiro de Miranda no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do art. 53, § único, da Lei nº 2.423/96, em face das impropriedades listadas na fundamentação do Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE .",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Guimaro  Monteiro  de  Miranda no  valor  de R$ 8.768,25 (oito  mil,  setecentos  e  sessenta  e  oito  reais  e  vinte  e  cinco centavos), nos termos do art. 53, § único, da Lei nº 2.423/96, em face das impropriedades listadas na  fundamentação  do  Voto,  que  deverá  ser recolhida  no  prazo  de  30  dias  para  o  Cofre  Estadual através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE .",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A10B",
+          "tipologia_irregularidade": "Descumprimento de medidas para redução de Gasto com pessoal ao limite previsto na LRF",
+          "descricao": "Pagamentos sem processo administrativo contendo justificativa para a dispensa de licitação, razão da escolha do fornecedor, pesquisa de mercado e sem cobertura contratual.",
+          "justificativa_tipologia": "A aplicação de multa decorre de impropriedades na gestão fiscal, indicando descumprimento de normas e procedimentos que afetam o controle das despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "53, § único",
+              "descricao": "A multa é aplicada devido às impropriedades listadas na fundamentação do voto, conforme previsto na lei."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Comunicação",
+      "descricao": "Comunicar à Sec. da Receita Federal do Brasil , com fulcro no art. 2º da Lei  nº  11.457/2007,  sobre  a  divergência  detectada  pela  Comissão  de Inspeção, conforme Restrição n° 14",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar à Sec. da Receita Federal do Brasil , com fulcro no art. 2º da Lei  nº  11.457/2007,  sobre  a  divergência  detectada  pela  Comissão  de Inspeção, conforme Restrição n° 14",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A2B",
+          "tipologia_irregularidade": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "descricao": "Ausência de Parecer Jurídico ao Aditivo",
+          "justificativa_tipologia": "A comunicação à Receita Federal sobre divergências fiscais está relacionada à gestão fiscal e à execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 11.457/2007",
+              "artigo": "2º",
+              "descricao": "A comunicação à Receita Federal é realizada com base nesta lei devido à divergência detectada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem, que cumpra com rigor o estabelecido no Estatuto das Licitações.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à origem, que cumpra com rigor o estabelecido no Estatuto das Licitações.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A40B",
+          "tipologia_irregularidade": "Ausência de divulgação de informações de interesse coletivo ou geral, relativo a procedimentos licitatórios",
+          "descricao": "- Não foi verificada, após a publicação do aviso de licitação, a divulgação tempestiva do Edital (e anexos), em sítios oficiais da rede mundial de computadores (internet), referente à [licitação XX]. - A auditoria verificou também que não houve a publicação dos contratos celebrados (e aditivos), relativo a procedimentos licitatórios/contratações diretas.",
+          "justificativa_tipologia": "A determinação para cumprir o Estatuto das Licitações está diretamente relacionada à área de licitações e contratos, visando garantir a conformidade com as normas e a correta aplicação dos recursos públicos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

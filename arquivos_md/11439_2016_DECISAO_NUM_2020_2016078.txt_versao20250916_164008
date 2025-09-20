@@ -1,0 +1,75 @@
+{
+  "acordao": "142/2017",
+  "processo": "1245/2016",
+  "data_sessao": "16 de Maio de 2017",
+  "orgao": "TCE - Tribunal Pleno",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Ivanhoé Amazonas Mendes Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à Secretaria de Estado de Política Fundiária - SPF, que no prazo de 30 dias, adote as providências necessárias para:\n- a) Instaurar procedimento administrativo para cada uma  das ocupações;\n- b)  Elaborar  diagnóstico  acerca  da  situação  fundiária  global  da Unidade de Conservação RDS-Rio Negro;\n- c)  Elabore  o  Plano  de  Regularização  fundiária  da  Unidade,  que deverá ser integrado por um cronograma executivo com os prazos para a realização, com  detalhamento  de  fontes  de  recursos financeiros  necessários  à  regularização,  definição  de  prioridades entre  as  áreas  a  serem  regularizadas  e  instrumentos  a  serem utilizados, bem como o seu modo de execução;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria de Estado de Política Fundiária - SPF, que no prazo de 30 dias, adote as providências necessárias para:\n- a) Instaurar procedimento administrativo para cada uma  das ocupações;\n- b)  Elaborar  diagnóstico  acerca  da  situação  fundiária  global  da Unidade de Conservação RDS-Rio Negro;\n- c)  Elabore  o  Plano  de  Regularização  fundiária  da  Unidade,  que deverá ser integrado por um cronograma executivo com os prazos para a realização, com  detalhamento  de  fontes  de  recursos financeiros  necessários  à  regularização,  definição  de  prioridades entre  as  áreas  a  serem  regularizadas  e  instrumentos  a  serem utilizados, bem como o seu modo de execução;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "justificativa=A determinação indica a necessidade de regularização fundiária e diagnóstico da situação, o que sugere deficiências no controle interno da Secretaria de Estado de Política Fundiária.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Após o escoamento do prazo supra, que Secretaria de Política Fundiária, encaminhe ao TCE/AM documentos que demonstrem o cumprimento das determinações efetuadas, ou que comprovem as medidas adotadas para o cumprimento; sob pena de multa do art. 54,  IV,  da  Lei  nº  2.423/96  c/c  art.  308,  I,  'a',  da  Resolução  nº 04/2002 TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Após o escoamento do prazo supra, que Secretaria de Política Fundiária, encaminhe ao TCE/AM documentos que demonstrem o cumprimento das determinações efetuadas, ou que comprovem as medidas adotadas para o cumprimento; sob pena de multa do art. 54,  IV,  da  Lei  nº  2.423/96  c/c  art.  308,  I,  'a',  da  Resolução  nº 04/2002 TCE/AM;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "justificativa=A imposição de multa por descumprimento reforça a necessidade de implementação de um sistema de controle interno mais robusto.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Estabelece a aplicação de multa em caso de descumprimento das determinações do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308",
+              "descricao": "Define os procedimentos para aplicação de multas por descumprimento de determinações do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Oficiar ao Ministério Público Estadual, com cópia dos autos, para que tomem  ciência  das  irregularidades  frente  a  atuação  da  Secretaria  de Estado de Política Fundiária -SPF  na região da Reserva de Desenvolvimento  Sustentável  do  Rio  Negro  -  RDS,  em  função  da suposta conduta omissiva quando da titulação de terras nesta unidade de  conservação;  a  fim  de  que  adotem  as  medidas  que  entender cabíveis.",
+      "trechos_identificados": [
+        {
+          "trecho": "Oficiar ao Ministério Público Estadual, com cópia dos autos, para que tomem  ciência  das  irregularidades  frente  a  atuação  da  Secretaria  de Estado de Política Fundiária -SPF  na região da Reserva de Desenvolvimento  Sustentável  do  Rio  Negro  -  RDS,  em  função  da suposta conduta omissiva quando da titulação de terras nesta unidade de  conservação;  a  fim  de  que  adotem  as  medidas  que  entender cabíveis.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A9B",
+          "tipologia_irregularidade": "Omissão do Responsável pela Unidade de Controle Interno",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "justificativa=O envio de cópia dos autos ao MPE para que tome ciência das irregularidades frente à atuação da Secretaria de Estado de Política Fundiária, em função da suposta conduta omissiva quando da titulação de terras, indica falha no controle interno.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

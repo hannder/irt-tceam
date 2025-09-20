@@ -1,0 +1,387 @@
+{
+  "acordao": "824/2020",
+  "processo": "11458/2019",
+  "data_sessao": "19 de Agosto de 2020",
+  "orgao": "Câmara Municipal de Boa Vista do Ramos",
+  "municipio": "Boa Vista do Ramos",
+  "exercicio": "2018",
+  "responsavel": [
+    "Evandro Miranda Cardoso"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual da  Câmara  Municipal  de Boa Vista do Ramos, referente ao exercício de 2018, de responsabilidade do Senhor Evandro Miranda Cardoso, Presidente da Câmara Municipal de Boa Vista do Ramos e Ordenador de Despesas, à época, nos termos dos artigos 18, inciso II, da Lei Complementar nº. 06/1991, c/c o artigo 1º, inciso II,  artigo  22,  inciso  III,  alíneas  'b'  e 'c',  todos  da  Lei  2423/1996  LOTCE/AM e artigo 188, §1º, inciso III, alíneas 'b' e 'c', da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Evandro Miranda Cardoso, Presidente da Câmara Municipal de Boa Vista do Ramos e Ordenador de Despesas, à época, no montante R$ 17.068,00 (dezessete mil e sessenta e oito reais), fundamentada no artigo 308, inciso I, alínea 'a', da Resolução nº 04/2002 (RI/TCE/AM),  por  mês  de  competência,  nos  casos  de  inobservância  de prazos  legais,  para  remessa  ao  Tribunal,  por  meio  informatizado  ou documental,  de  balancetes  mensais  do  exercício,  conforme  disposto  na primeira  impropriedade  do Relatório/Voto,  que  deverá  ser  recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Evandro Miranda Cardoso, Presidente da Câmara Municipal de Boa Vista do Ramos e Ordenador de Despesas, à época, no valor  de R$ 10.000,00 (dez  mil  reais),  por  atos  ilegítimo/  antieconômico que  resultou  em injustificado  dano  ao  erário,  com  fulcro  no  artigo  54, inciso  III  da  Lei  nº  2.423/96  c/c  o  artigo  308,  inciso  V  da  Resolução  nº. 04/2002-TCE/AM,  em  razão  das  impropriedades  discriminadas  no  item referente ao Alcance imputado, que deverá ser recolhida no prazo de 30 dias para  o  Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Evandro Miranda Cardoso , Presidente da Câmara Municipal de Boa Vista do Ramos e Ordenador de Despesas, à época, no valor de R$ 172.234,78, (cento e setenta e dois mil, duzentos e trinta e quatro reais e setenta e oito centavos), nos termos do artigo 304, inciso VI, da Resolução nº. 04/2002 - RITCE, c/c o disposto no artigo 22, inciso III, alíneas 'c' e 'd' e §2º, alíneas 'a' da Lei Orgânica nº. 2423/1996 - LOTCE/AM, em  razão  dos  débitos  demonstrados  na  fundamentação do Relatório/Voto, que devem ser recolhidos na esfera Municipal para o órgão  Câmara  Municipal  de  Boa  Vista  do  Ramos  por  descumprimento de/pelas improbidades apontadas, com a devida comprovação nos autos (artigo 72, III, alínea 'a' da Lei nº. 2423/1996 - LOTCE e artigo 308, §3°, da Resolução nº. 04/2002 - RITCE).",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Atraso no envio dos balancetes mensais da Câmara Municipal,  via  e-Contas  da  Câmara  Municipal  de  Boa  Vista  do Ramos, que foram encaminhados à Corte de Contas fora do prazo estabelecido pela Lei Complementar nº 06/1991",
+      "trechos_identificados": [
+        {
+          "trecho": "Atraso no envio dos balancetes mensais da Câmara Municipal,  via  e-Contas  da  Câmara  Municipal  de  Boa  Vista  do Ramos, que foram encaminhados à Corte de Contas fora do prazo estabelecido pela Lei Complementar nº 06/1991",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve o envio de balancetes mensais fora do prazo, o que configura a tipologia T12A1B, Balancetes Mensais entregues fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/1991",
+              "artigo": "15",
+              "descricao": "O art. 15 da Lei Complementar nº 06/1991 estabelece diretrizes para a gestão financeira e orçamentária, incluindo prazos para envio de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Atraso  nos  repasses  do  duodécimo  devido  ao  legislativo municipal. Ausência de iniciativa do Chefe do Legislativo para exigir os valores devidos e/ou o cumprimento dos prazos. Da verificação dos  documentos  disponibilizados  (extratos  bancários)  a  Comissão constatou, da comparação dos documentos disponibilizados, durante a auditoria, repasses após o dia 20 de cada mês, representado 13,02% do montante repassado",
+      "trechos_identificados": [
+        {
+          "trecho": "Atraso  nos  repasses  do  duodécimo  devido  ao  legislativo municipal.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "O trecho descreve o atraso no repasse do duodécimo, indicando uma execução financeira fora do programado.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Expressivo volume de repasses a menor que o valor fixado na  LOA,  representado  5,21%  do  total  devido  (LOA).  Constatou-se expressivo  volume  de  repasses  a  MENOR  que  o  valor  fixado  na LOA",
+      "trechos_identificados": [
+        {
+          "trecho": "Expressivo volume de repasses a menor que o valor fixado na  LOA,  representado  5,21%  do  total  devido  (LOA).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A9B",
+          "tipologia_irregularidade": "Despesas empenhadas sem comprovação",
+          "descricao": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "justificativa_tipologia": "O repasse a menor do valor fixado na LOA demonstra uma desconformidade com o planejamento orçamentário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Terceirização irregular de serviços de Assessoria Contábil e Assessoria Jurídica para atividades inerentes às atividades finalísticas doo órgão e/ou atinentes às atribuições típicas de cargos permanentes, em preliminar, denotando substituição de servidores. Possibilidade de impacto nos limites de despesas de pessoal",
+      "trechos_identificados": [
+        {
+          "trecho": "Terceirização irregular de serviços de Assessoria Contábil e Assessoria Jurídica para atividades inerentes às atividades finalísticas doo órgão e/ou atinentes às atribuições típicas de cargos permanentes, em preliminar, denotando substituição de servidores.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A111A",
+          "tipologia_irregularidade": "Terceirização de Atividade Fim",
+          "descricao": "A administração pública terceiriza atividades consideradas como atividade-fim, violando a Constituição Federal, a Lei nº 8.112/1990 e os princípios da legalidade, da impessoalidade e da eficiência.",
+          "justificativa_tipologia": "A terceirização de serviços de Assessoria Contábil e Assessoria Jurídica para atividades inerentes às atividades finalísticas do órgão e/ou atinentes às atribuições típicas de cargos permanentes caracteriza a terceirização de atividade fim.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Admissão de servidor exclusivamente comissionado, selecionado por amplo recrutamento, para desempenho das atribuições de 'Controlador Interno' de cujas atividades desempenhadas referem-se às atividades finalísticas do órgão e/ou atinentes às atribuições típicas de cargos permanentes, em preliminar, denotando substituição de servidores, as quais deveriam ter sido efetuadas por meio de concurso público",
+      "trechos_identificados": [
+        {
+          "trecho": "Admissão de servidor exclusivamente comissionado, selecionado por amplo recrutamento, para desempenho das atribuições de 'Controlador Interno' de cujas atividades desempenhadas referem-se às atividades finalísticas do órgão e/ou atinentes às atribuições típicas de cargos permanentes, em preliminar, denotando substituição de servidores, as quais deveriam ter sido efetuadas por meio de concurso público",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O trecho descreve a admissão de servidor comissionado para atividade permanente, sem concurso público, o que configura ausência de concurso público.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Nomeação de servidores para assunção de cargo comissionado e/ou designação para função de confiança de parentes  de  agentes  políticos  e  de  servidores  da  mesma  pessoa jurídica investido no cargo de direção, chefia ou assessoramento",
+      "trechos_identificados": [
+        {
+          "trecho": "Nomeação de servidores para assunção de cargo comissionado e/ou designação para função de confiança de parentes  de  agentes  políticos e de servidores da mesma pessoa jurídica investido no cargo de direção, chefia ou assessoramento",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A117B",
+          "tipologia_irregularidade": "Nepotismo",
+          "descricao": "A administração pública contrata ou promove servidores públicos por nepotismo, violando os princípios da impessoalidade, da moralidade e da probidade administrativa.",
+          "justificativa_tipologia": "O trecho descreve a nomeação de parentes de agentes políticos para cargos comissionados, o que caracteriza nepotismo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de critérios definidos para assunção de Cargos de confiança. Inexistência de atribuições em  lei e/ou atribuições genéricas, de natureza ordinária, em análise preliminar, não relacionados à direção, chefia e assessoramento, bem  como ausência de comprovação dos requisitos de investidura dos ocupantes de cargos em comissão de Assessor Parlamentar",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de critérios definidos para assunção de Cargos de confiança. Inexistência de atribuições em  lei e/ou atribuições genéricas, de natureza ordinária, em análise preliminar, não relacionados à direção, chefia e assessoramento, bem  como ausência de comprovação dos requisitos de investidura dos ocupantes de cargos em comissão de Assessor Parlamentar",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A30A",
+          "tipologia_irregularidade": "Ausência dos requisitos do cargo em lei",
+          "descricao": "Ausência dos requisitos do cargo em lei",
+          "justificativa_tipologia": "O trecho indica a ausência de critérios definidos em lei para a assunção de cargos de confiança e que algumas atribuições são genéricas e não relacionadas à direção, chefia e assessoramento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "A  estrutura  da  Câmara  Municipal  de  Boa  Vista  do  Ramos concentra 55% de todo seu pessoal em servidores Comissionados selecionados por amplo recrutamento. Constata-se, em preliminar, a inobservância  do  Princípio  da  Proporcionalidade,  o  qual  coíbe quaisquer  tentativas  de  burlar  a  regra  geral  de  admissão,  ao  se privilegiar outras formas de ingresso no serviço público se não pela via do instituto constitucional do Concurso Público (art. 37, II) e o da razoabilidade, posto que tais cargos se destinam exclusivamente, à atividades de direção, chefia e assessoramento, as quais, devem se restringir ao quantitativo mínimo  necessário  ao funcionamento vegetativo da Câmara Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "A  estrutura  da  Câmara  Municipal  de  Boa  Vista  do  Ramos concentra 55% de todo seu pessoal em servidores Comissionados selecionados por amplo recrutamento.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A12B",
+          "tipologia_irregularidade": "Não encaminhamento do Plano de Providências ao Órgão de Controle Interno",
+          "descricao": "Excesso de cargos comissionados",
+          "justificativa_tipologia": "O trecho descreve o excesso de cargos comissionados, indicando uma possível falha no controle interno relacionada à gestão de pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de serviços qualificados na Comissão de licitação. Compulsando  o  ato  de  nomeação  da  Comissão  de  Licitação  da Câmara de Boa Vista do Ramos, exercício 2018, e comparando com a Relação de Servidores Efetivos e de Comissionados, verificamos que  não  há  pelo  menos  dois  servidores  qualificados  do  quadro permanente na Comissão de Licitação. Verificou-se que os servidores  Raimunda  Georgina  da  Silva  Costa,  Paulo  Afonso  da Silva e Silva e Marai Renilde Batany Dias, são efetivos e a servidora Gilmara  Pimentel  Koide  possui  vínculo  comissionado,  sendo  que destes,  não  ficou  demonstrado  possuírem  nível  de  escolaridade compatível com as tarefas da CML",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de serviços qualificados na Comissão de licitação.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "justificativa_tipologia": "Ausência de servidor qualificado em comissão de licitação configura inaptidão de agente público para promover o processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Recebimento de diárias concomitantemente a outra diária e ao recebimento por substituição do Chefe  do Executivo pelo Vereador-Presidente, caracterizando ganho indevido de diárias",
+      "trechos_identificados": [
+        {
+          "trecho": "Recebimento de diárias concomitantemente a outra diária e ao recebimento por substituição do Chefe  do Executivo pelo Vereador-Presidente, caracterizando ganho indevido de diárias",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "O recebimento de diárias concomitantemente a outra diária e ao recebimento por substituição do Chefe do Executivo pelo Vereador-Presidente, caracterizando ganho indevido de diárias, é uma falha nas contas de diárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Pagamento de Diárias a vereadores presente em Sessão Legislativa Ordinária. Ausência de afastamento da sede. Complementação de salário",
+      "trechos_identificados": [
+        {
+          "trecho": "Pagamento de Diárias a vereadores presente em Sessão Legislativa Ordinária. Ausência de afastamento da sede. Complementação de salário",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "Pagamento de diárias sem comprovação de despesas, o que configura uma ausência ou falha na prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Pagamento de Diárias de forma mensal e ordinária. Valor médio  mensal  expressivo.  Ausência  de  comprovação  de  interesse público  nos  deslocamentos.  Valor  recebido  equivalente  ao  valor anual recebido a título de vencimentos (servidor). Complementação de salário",
+      "trechos_identificados": [
+        {
+          "trecho": "Pagamento de Diárias de forma mensal e ordinária. Valor médio  mensal  expressivo.  Ausência  de  comprovação  de  interesse público  nos  deslocamentos.  Valor  recebido  equivalente  ao  valor anual recebido a título de vencimentos (servidor). Complementação de salário",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "O pagamento de diárias de forma mensal e ordinária, com ausência de comprovação do interesse público nos deslocamentos e valor recebido equivalente ao valor anual recebido a título de vencimentos, indica uma possível falha na prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de livro tombo atualizado. Ausência de criação de um setor e/ou designação de um servidor responsável pela guarda patrimonial  devidamente  criado/designado.  Não  foi  apresentada, durante os trabalhos de campo, portaria e/ou ato de designação do servidor responsável pela guarda e conservação dos bens patrimoniais",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de livro tombo atualizado.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de um livro tombo atualizado impede o controle adequado dos bens patrimoniais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de registro dos bens móveis",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de registro dos bens móveis",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "justificativa_tipologia": "A ausência de registro dos bens móveis caracteriza deficiência nos registros analíticos de bens permanentes.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Locação  de  imóvel.  Finalidade  Pública  não  demonstrada. Ausência de comprovação de pesquisa de mercado",
+      "trechos_identificados": [
+        {
+          "trecho": "Locação  de  imóvel.  Finalidade  Pública  não  demonstrada.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "O trecho descreve a ausência de justificativa para a locação de um imóvel, que corresponde a justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de comprovação de pesquisa de mercado",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "justificativa_tipologia": "A ausência de pesquisa de mercado na contratação de serviços pode indicar sobrepreço.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Pagamento  de  Gratificações/Adicionais  sem  previsão  em lei. Ausência de regulamentação de adicional/gratificação mediante normativo  (lei). Ausência  de  critérios objetivos necessários  ao pagamento (destinatário; base cálculo de incidência; valor máximoe, mínimo; requisitos de identificação do valor a ser pago; metas de referência; aferição; Subjetividade do pagamento",
+      "trechos_identificados": [
+        {
+          "trecho": "Pagamento  de  Gratificações/Adicionais  sem  previsão  em lei.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A14B",
+          "tipologia_irregularidade": "Pagamento de Gratificação não regulamentada",
+          "descricao": "Pagamento de Gratificação não regulamentada",
+          "justificativa_tipologia": "Pagamento de gratificações sem previsão em lei.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Pastas funcionais desatualizadas. Ausência de documentos (Declaração  de  bens. Declaração  de  parentesco. Declaração  de Acumulação. Registros de férias). Da análise das fichas funcionais constatou-se  que  determinadas  pastas  faltavam  documentos  de identificação, declarações  de  parentesco  e  de  acumulação  de cargos públicos e declaração de bens desatualizadas e/ou inexistentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Pastas funcionais desatualizadas. Ausência de documentos (Declaração  de  bens.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A2C",
+          "tipologia_irregularidade": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "descricao": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "justificativa_tipologia": "Ausência de Declaração de Bens e documentos de identificação em pasta funcional",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Da  verificação dos demonstrativos contábeis constatou-se a inobservância da Resolução do Conselho Federal de Contabilidade  -  CFC  que  trata  do  percentual  máximo  de  10%  do valor  do  Grupo  de  Contas  para contas genéricas  (Resolução CFC N.º 1.133/08 - Aprova a NBC T 16.6 - Demonstrações Contábeis)",
+      "trechos_identificados": [
+        {
+          "trecho": "Da  verificação dos demonstrativos contábeis constatou-se a inobservância da Resolução do Conselho Federal de Contabilidade  -  CFC  que  trata  do  percentual  máximo  de  10%  do valor  do  Grupo  de  Contas  para contas genéricas  (Resolução CFC N.º 1.133/08 - Aprova a NBC T 16.6 - Demonstrações Contábeis)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A inobservância da Resolução do Conselho Federal de Contabilidade  -  CFC  que  trata  do  percentual  máximo  de  10%  do valor  do  Grupo  de  Contas  para contas genéricas é uma ausencia das notas explicativas das demonstrações contabil",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução CFC N.º 1.133/08",
+              "artigo": "Não consta",
+              "descricao": "Aprova a NBC T 16.6 - Demonstrações Contábeis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Da  verificação dos demonstrativos contábeis constatou-se a inexistência da rubrica referente a depreciação acumulada existente  no  Balanço  Patrimonial (Anexo 14).  De  acordo  com  a Norma Brasileira de Contabilidade Aplicada ao Setor Público - NBC T  16.9,  a  'Depreciação'  reduz  o  valor  dos  bens  tangíveis  pelo desgaste  ou  perda  de  utilidade  por  uso,  ação  da  natureza  ou obsolescência. Conforme  Balanço  Patrimonial  do  exercício  sob exame,  verifica-se  que  a  entidade  não  procedeu  ao  registro  da depreciação dos bens móveis e imóveis pertencentes à Entidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Da  verificação dos demonstrativos contábeis constatou-se a inexistência da rubrica referente a depreciação acumulada existente  no  Balanço  Patrimonial (Anexo 14).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A55C",
+          "tipologia_irregularidade": "Ausência da conta Depreciação/Amortização/Exaustão acumulada no Balanço Patrimonial",
+          "descricao": "Ausência da conta Depreciação/Amortização/Exaustão acumulada no Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho descreve a inexistência da rubrica referente a depreciação acumulada existente  no  Balanço  Patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência  de  apresentação  da  documentação  referente  à aquisição de combustível. Não foram disponibilizados para análise e consulta, durante os trabalhos de campo, os processos licitatórios; os processos de pagamento; e os controles de gastos de combustível (conforme Termo  de Inexistência de Documentos lavrado)",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  apresentação  da  documentação  referente  à aquisição de combustível.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",

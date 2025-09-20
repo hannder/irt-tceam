@@ -1,0 +1,75 @@
+{
+  "acordao": "52/2021",
+  "processo": "12340/2020",
+  "data_sessao": "02 de Fevereiro de 2021",
+  "orgao": "Secretaria de Estado de Desenvolvimento da Região Metropolitana de Manaus",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Carlos Henrique dos Reis Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Secretaria de Estado de Desenvolvimento da Região Metropolitana de Manaus - SRMM, referente ao exercício de 2019, sob responsabilidade do Sr. Carlos Henrique dos Reis Lima, Secretário de Estado e Ordenador de Despesas, dando plena quitação ao responsável, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002-TCE/AM - RITCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual da Secretaria de Estado de Desenvolvimento da Região Metropolitana de Manaus - SRMM, referente ao  exercício  de  2019,  sob  responsabilidade  do Sr.  Carlos  Henrique  dos Reis Lima, Secretário de Estado e Ordenador de Despesas, dando plena quitação ao responsável, nos termos dos artigos 1°, inciso II, 'a', 22, I, e 23, da Lei nº 2.423/96 c/c o artigo 11, inciso III, alínea 'a', item 3 e art. 189, I, Resolução nº 04/2002-TCE/AM - RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho do acórdão indica um julgamento de regularidade das contas, sem apontar para problemas estruturais ou falhas na gestão que possam persistir no tempo. A tipologia reflete a natureza da informação contábil, que é o Balanço Patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1",
+              "descricao": "Lei nº 2.423/96, artigos 1°, inciso II, 'a', 22, I, e 23"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11",
+              "descricao": "Resolução nº 04/2002-TCE/AM, artigo 11, inciso III, alínea 'a', item 3 e art. 189, I"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Carlos Henrique dos Reis Lima da respectiva decisão;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Sr. Carlos Henrique dos Reis Lima da respectiva decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho apenas informa sobre a comunicação da decisão, sem indicar irregularidades ou potenciais problemas na gestão. A tipologia reflete a formalidade do processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos, após expirados os prazos legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos, após expirados os prazos legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho descreve o arquivamento do processo, sem indicar irregularidades ou problemas de gestão. A tipologia reflete a formalidade do encerramento processual.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

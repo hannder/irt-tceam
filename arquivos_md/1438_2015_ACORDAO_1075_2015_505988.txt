@@ -1,0 +1,87 @@
+{
+  "acordao": "1075/2015",
+  "processo": "1438/2015",
+  "data_sessao": "16 de dezembro de 2015",
+  "orgao": "Procuradoria Geral do Município de Manaus - PGM",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Marcos Ricardo Herszon Cavalcanti"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regular com ressalvas as Contas Anuais da Procuradoria Geral do Município de Manaus, referentes ao exercício financeiro de 2014, de responsabilidade do Sr.  Marcos  Ricardo Herszon Cavalcanti ,  conforme  o  art.  22,  inciso  II,  da  Lei  n.º 2.423/96-LO/TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas as Contas Anuais da Procuradoria Geral do Município de Manaus, referentes ao exercício financeiro de 2014, de responsabilidade do Sr.  Marcos  Ricardo Herszon Cavalcanti ,  conforme  o  art.  22,  inciso  II,  da  Lei  n.º 2.423/96-LO/TCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica um julgamento formal das contas, mas não aponta falhas específicas na gestão que justifiquem marcá-la como relevante para o índice. Ocorre avaliação da forma de apresentação das contas, sem entrar no mérito da aplicação dos recursos, demonstração de atos de gestão irregulares, ou falhas de controle. A tipologia foi selecionada por ser um texto geral.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, inciso II",
+              "descricao": "Dispõe sobre julgamento das contas pelo Tribunal de Contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar  à  origem a  rescisão  do  Termo  de  Convênio  001/2014, celebrado entre o Instituto de Estudos de Protesto de Títulos do Brasil  - IEPTB-AM e a adoção de Termo de Contrato com o mencionado ente, na forma da Lei n° 8.666/93, bem como melhor controle na sequência cronológica dos atos administrativos decorrentes de dispensa de licitação.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar  à  origem a  rescisão  do  Termo  de  Convênio  001/2014, celebrado entre o Instituto de Estudos de Protesto de Títulos do Brasil  - IEPTB-AM e a adoção de Termo de Contrato com o mencionado ente, na forma da Lei n° 8.666/93.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "A recomendação para rescindir o termo de convênio e celebrar contrato sob a Lei nº 8.666/93 indica uma irregularidade na forma de contratação original, pois sugere que o convênio não era o instrumento adequado para o serviço. A tipologia foi selecionada pois explicita a ausência de licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Refere-se a forma de contratação para substituição do Termo de Convênio"
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar  à  origem [...] bem como melhor controle na sequência cronológica dos atos administrativos decorrentes de dispensa de licitação.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Violação do princípio da legalidade e eficiência.",
+          "justificativa_tipologia": "A recomendação indica uma deficiência no controle dos processos de dispensa de licitação. A tipologia foi selecionada pois explicita deficiência no controle interno",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o interessado com cópia do Relatório/Voto, e deste  Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o interessado com cópia do Relatório/Voto, e deste  Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A notificação é um procedimento padrão do TCE para informar o responsável sobre a decisão e garantir o direito ao recurso. Não indica irregularidade, apenas formaliza a comunicação. A tipologia foi utilizada por ser um texto geral.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

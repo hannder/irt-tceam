@@ -1,0 +1,226 @@
+{
+  "acordao": "1261/2024",
+  "processo": "11815/2023",
+  "data_sessao": "30 de julho de 2024",
+  "orgao": "Fundo Municipal de Educação de Manacapuru",
+  "municipio": "Manacapuru",
+  "exercicio": "2022",
+  "responsavel": [
+    "Raimundo Ferreira Conde"
+  ],
+  "itens": [
+    {
+      "tipo": "Deliberação",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual do Fundo Municipal de Educação de Manacapuru, exercício de 2022, de responsabilidade do Sr. Raimundo Ferreira Conde , à época Secretário Municipal de Educação e Ordenador de Despesas, nos termos dos arts. 22, inciso II, e 24, ambos da Lei n° 2.423/1996-TCE/AM, e art. 188, §1º, inciso II, da Resolução n° 04/2002- TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação de Contas Anual do Fundo Municipal de Educação de Manacapuru, exercício de 2022, de responsabilidade do Sr. Raimundo Ferreira Conde , à época Secretário Municipal de Educação e Ordenador de Despesas, nos termos dos arts. 22, inciso II, e 24, ambos da Lei n° 2.423/1996-TCE/AM, e art. 188, §1º, inciso II, da Resolução n° 04/2002- TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Este trecho é um julgamento formal da prestação de contas, indicando que, apesar das ressalvas, a contabilidade foi aceita. Este julgamento em si não indica um problema concreto ou estrutural na gestão, por isso relevante_para_indice é False. A tipologia mais adequada reflete a necessidade de melhor detalhamento nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/1996-TCE/AM",
+              "artigo": "22, inciso II",
+              "descricao": "Julgamento das contas como regulares com ressalvas"
+            },
+            {
+              "norma": "Lei n° 2.423/1996-TCE/AM",
+              "artigo": "24",
+              "descricao": "Disposições sobre as consequências do julgamento com ressalvas"
+            },
+            {
+              "norma": "Resolução n° 04/2002- TCE/AM",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "Regulamentação do julgamento de contas com ressalvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Raimundo Ferreira Conde , à época Secretário Municipal de Educação e Ordenador de Despesas, no valor de R$2.000,00 (dois mil reais) , com base no art. 308, inciso VII, da Resolução nº 04/2002-TCE/AM, c/c o art. 54, inciso VII, da Lei nº 2.423/1996-TCE/AM, em decorrência da permanência das restrições de nº 02, 03, 06, 07 e 10 do Relatório Conclusivo nº 326/2023-DICAMI. A multa deverá ser recolhida no prazo de 30 (trinta) dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas (art. 72, inciso III, alínea a', da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Raimundo  Ferreira  Conde ,  à  época Secretário  Municipal  de Educação e Ordenador de Despesas, no valor de R$2.000,00  (dois  mil  reais) ,  com  base  no  art.  308,  inciso  VII,  da Resolução  nº  04/2002-TCE/AM,  c/c  o  art.  54,  inciso  VII,  da  Lei  nº 2.423/1996-TCE/AM, em decorrência da permanência das restrições de nº 02, 03, 06, 07 e 10 do Relatório Conclusivo nº 326/2023-DICAMI.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa decorre da persistência de irregularidades apontadas no Relatório Conclusivo, indicando falhas no controle interno. As restrições mencionadas indicam um problema concreto na gestão, justificando a sinalização como relevante_para_indice e classificando-o em 'Controle Interno'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308, inciso VII",
+              "descricao": "Base para a aplicação de multa"
+            },
+            {
+              "norma": "Lei nº 2.423/1996-TCE/AM",
+              "artigo": "54, inciso VII",
+              "descricao": "Base legal para a aplicação de multa"
+            }
+          ]
+        },
+        {
+          "trecho": "A multa deverá ser recolhida no prazo de 30 (trinta) dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas (art. 72, inciso III, alínea a', da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este trecho detalha os procedimentos para o recolhimento da multa, não indicando uma irregularidade em si, mas sim um procedimento administrativo. Portanto, relevante_para_indice é False. A persistência das restrições indicam a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea a",
+              "descricao": "Obrigação de encaminhar o comprovante de pagamento"
+            }
+          ]
+        },
+        {
+          "trecho": "O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este trecho especifica as consequências do não pagamento da multa, sendo um procedimento administrativo padrão. A tipologia refere-se a permanência de falhas de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "73",
+              "descricao": "Continuidade da cobrança em caso de não pagamento"
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Medidas a serem adotadas pelo DERED em caso de não pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à atual gestão do Fundo Municipal de Educação de Manacapuru que observe, criteriosamente, o envio a este Tribunal dos documentos exigidos pela Resolução nº 04/2016-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à atual gestão do Fundo Municipal de Educação de Manacapuru que observe, criteriosamente, o envio a este Tribunal dos documentos exigidos pela Resolução nº 04/2016-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação indica uma deficiência no envio de documentos, o que sugere um problema recorrente na gestão. A emissão da recomendação sinaliza que há necessidade de melhoria nos procedimentos de envio, indicando que a situação é relevante para o índice. ",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2016-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Obrigatoriedade de envio de documentos ao TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à próxima Comissão de Inspeção que: a) avalie o efetivo cumprimento da implementação de um sistema de controle de almoxarifado eficaz, com registro contínuo e permanente, nos termos do art. 244, inciso III, da Resolução nº 04/2002-TCE/AM; e b) ateste a implementação do sistema de controle interno, nos termos dos arts. 31 e 74 da CFRB/88 e do art. 76 da Lei nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção que: a) avalie o efetivo cumprimento da implementação de um sistema de controle de almoxarifado eficaz, com registro contínuo e permanente, nos termos do art. 244, inciso III, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A determinação para avaliar a implementação de um sistema de controle de almoxarifado eficaz indica uma preocupação com a gestão patrimonial. Sendo assim, relevante_para_indice é True.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "244, inciso III",
+              "descricao": "Eficácia do controle de almoxarifado"
+            }
+          ]
+        },
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção que: b) ateste a implementação do sistema de controle interno, nos termos dos arts. 31 e 74 da CFRB/88 e do art. 76 da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para atestar a implementação do sistema de controle interno indica uma preocupação com a gestão e a necessidade de melhorias. Sendo assim, relevante_para_indice é True.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CFRB/88",
+              "artigo": "31",
+              "descricao": "Responsabilidades sobre o controle interno"
+            },
+            {
+              "norma": "CFRB/88",
+              "artigo": "74",
+              "descricao": "Responsabilidades sobre o controle interno"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "76",
+              "descricao": "Disposições sobre o controle interno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SEPLENO - Secretaria Do Tribunal Pleno que, através do competente setor, vinculado à referida Secretaria, cientifique o interessado, por meio de seu patrono, sobre o teor deste Acórdão, nos termos do art. 161, caput , do Regimento Interno desta Corte de Contas, encaminhando-lhe cópia deste Relatório/Voto e do sequente decisum",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SEPLENO - Secretaria Do Tribunal Pleno que, através do competente setor, vinculado à referida Secretaria, cientifique o interessado, por meio de seu patrono, sobre o teor deste Acórdão, nos termos do art. 161, caput , do Regimento Interno desta Corte de Contas, encaminhando-lhe cópia deste Relatório/Voto e do sequente decisum",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Esta determinação se refere a um procedimento interno do TCE para comunicar a decisão ao interessado, sem indicar uma irregularidade em si ou um problema estrutural. A relevância é nula, visto que se trata de uma formalidade processual. No entanto, a persistência das restrições impõe a tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno desta Corte de Contas",
+              "artigo": "161, caput",
+              "descricao": "Cientificação do interessado sobre o teor do Acórdão"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os presentes autos, nos termos regimentais, após o cumprimento integral do decisum",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os presentes autos, nos termos regimentais, após o cumprimento integral do decisum",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O arquivamento dos autos é uma determinação processual que encerra o caso após o cumprimento das deliberações, não indicando um problema de gestão. A persistência das restrições indicam a tipologia.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

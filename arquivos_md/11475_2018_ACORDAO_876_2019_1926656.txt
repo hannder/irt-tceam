@@ -1,0 +1,71 @@
+{
+  "acordao": "876/2019",
+  "processo": "11475/2018",
+  "data_sessao": "03 de Setembro de 2019",
+  "orgao": "Câmara Municipal de Amaturá",
+  "municipio": "Amaturá",
+  "exercicio": "2017",
+  "responsavel": [
+    "Jesus de Nazareno Tananta Carvalho"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Jesus de Nazareno Tananta Carvalho , responsável pela Câmara Municipal de Amaturá, no curso do exercício de 2017, nos termos do art. 71, II, da CF/1988, art. 40, II, da CE/1989, art. 1°, II, 2°, 4°, 5°, I, art. 22, III, 'b', 'c' e 'd' e art. 25 da Lei n° 2.423/1996 c/c art. 11, III, 'a', '3' e art. 188, § 1°, III, 'b' e 'c' da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Jesus de Nazareno Tananta Carvalho no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo FAECE, nos termos dos art. 1°, XXVI, 52 e 54, II, da Lei 2423/1996 (Lei Orgânica do TCE/AM) c/c art. 308, VI da Resolução n° 04/2002 (Regimento Interno do TCE/AM), relativa às restrições remanescentes, constantes no relatório conclusivo da DICAMI às fls. 894/934 e neste relatório e voto, por atos praticados com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Considerar em Alcance",
+      "descricao": "Considerar em Alcance o Sr. Jesus de Nazareno Tananta Carvalho no valor de R$ 332.970,51 (trezentos e trinta e dois mil, novecentos e setenta reais e cinquenta e um centavos), que devem ser recolhidos na esfera Municipal para o órgão Câmara Municipal de Amaturá, em função da glosa especificada na conclusão do Parecer Ministerial (fls. 935/941), com devolução aos cofres públicos corrigida nos moldes do art. 304, VI, da Resolução nº 04/2002-RI/TCE-AM. O recolhimento deve ser feito no prazo de 30 dias, ficando a DERED autorizada, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n° 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Amaturá que: Que em pagamentos futuros oriundos de contratos, constem com clareza documentos de pedidos para a realização dos serviços, documentos que comprovem onde e como eram prestados os referidos serviços, e suas comprovações da realização dos serviços",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Amaturá que: Que a Câmara Municipal procure os meios legais disponíveis para rever os valores da Conta Demais Valores em Trânsito Realizáveis a Curto Prazo no valor de R$ 1.200.899,62",
+      "trechos_identificados": [
+        {
+          "trecho": "Que a Câmara Municipal procure os meios legais disponíveis para rever os valores da Conta Demais Valores em Trânsito Realizáveis a Curto Prazo no valor de R$ 1.200.899,62",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho indica falta de comprovação de saldo contábil, o que leva a essa tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Art. 62, da Lei n° 4.320/64",
+              "artigo": "62",
+              "descricao": "O artigo 62 da Lei nº 4.320/64 dispõe sobre a necessidade de comprovação das despesas públicas, o que está relacionado à ausência de comprovação do valor registrado na conta 'VPD Pagas Antecipadamente' do Balanço Patrimonial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Amaturá que: Designação de um outro servidor para o Controle interno, para não haver duplicidade de serviços realizados",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivar",
+      "descricao": "Arquivar o presente processo, após cumpridas as providências supracitadas",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Oficiar",
+      "descricao": "Oficiar, ao Ministério Público do Estado do Amazonas, com cópia das peças processuais necessárias à demonstração da necessidade de investigação e apuração de ato de improbidade administrativa, nos termos do art. 22, da Lei nº 8.429/92, devendo esta providência ser adotada pela Secretaria do Tribunal Pleno, imediatamente após a publicação da Decisão que resultar deste processo, tendo em vista os prazos prescricionais previstos no art. 25, da referida Lei.",
+      "trechos_identificados": []
+    }
+  ]
+}

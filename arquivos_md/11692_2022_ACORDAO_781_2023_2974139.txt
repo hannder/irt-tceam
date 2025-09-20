@@ -1,0 +1,63 @@
+{
+  "acordao": "781/2023",
+  "processo": "11692/2022",
+  "data_sessao": "2 de maio de 2023",
+  "orgao": "Câmara Municipal de Novo Aripuanã",
+  "municipio": "Novo Aripuanã",
+  "exercicio": "2021",
+  "responsavel": [
+    "Neumice Reges Pinto"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Novo Aripuanã, referente ao exercício de 2021, tendo como responsável a Sra. Neumice Reges Pinto , Presidente daquela Casa e Ordenadora de Despesas, nos termos do art. 19, inciso, II c/c o art. 22, inciso III, alínea 'b', da Lei Orgânica deste Tribunal de Contas n° 2.423/96 c/c o art. 11, inciso III, alínea 'a', item 2, da Resolução n° 04/2002-TCE/AM, em razão das falhas indicadas na fundamentação do Voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar multa à Sra. Neumice Reges Pinto ,  Presidente da Câmara Municipal de Novo Aripuanã e Ordenadora de Despesas, no valor de R$ 13.654,39 (treze  mil,  seiscentos  e  cinquenta  e  quatro  reais e trinta e nove centavos) , conforme os termos do art. 54, VI, da Lei n° 2.423/96,  alterada  pela  Lei  Complementar  n°  204/2020-TCE/AM  c/c art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM,  alterada  pela Resolução  n.º  04/2018-TCE/AM,  por  atos  praticados  com  grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, pelas falhas indicadas nos  itens  3,  4,  5,  6,  7,  8,  9,  10,  11.2,  11.4  e  12, da fundamentação  do  Voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "tome as providências cabíveis, visando a imediata regularização da situação com a inscrição em Dívida Ativa e posterior baixa do respectivo valor, constante no item 3, da fundamentação do Voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "mantenha o Portal da Transparência devidamente atualizado, com divulgação em tempo real das informações de interesse coletivo ou geral, conforme dispõe o art. 8°, §§ 2° e 4° da Lei nº 12.527/2012",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "em  prestações  de  contas  futuras  as  informações  relativas  às licitações sejam encaminhadas dentro do prazo estipulado pela resolução vigente",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "tome as providências cabíveis para a implementação  do Serviço de Informação ao Cidadão de forma efetiva, com instalações físicas na realização dos atendimentos, em obediência ao art. 9°, I, da Lei n° 12.527/2011",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "tome as providências cabíveis para a implantação de um controle de almoxarifado efetivo que contenha os dados de entrada e saída  e  material  em  quantidades,  bem  como  o  remanescente  em estoque,  em  obediência  ao  art.  96,  da  Lei  n°  4.230/64",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "seja  efetuada alteração na relação de bens patrimoniais/inventário, acrescentando a informação quanto à localidade do bem, buscando dar cumprimento aos arts. 94 a 96, da Lei federal nº 4320/64",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à Sra. Neumice  Reges  Pinto , Presidente  da  Câmara Municipal de Novo Aripuanã e Ordenadora de Despesas, do Voto e do decisório",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos após os prazos legais",
+      "trechos_identificados": []
+    }
+  ]
+}

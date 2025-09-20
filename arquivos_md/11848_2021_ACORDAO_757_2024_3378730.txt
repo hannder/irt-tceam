@@ -1,0 +1,227 @@
+{
+  "acordao": "757/2024",
+  "processo": "11848/2021",
+  "data_sessao": "20 de maio de 2024",
+  "orgao": "Fundo de Apoio aos Pequenos Negocios Produtivos do Município de Maués FUNPEQ",
+  "municipio": "Maués",
+  "exercicio": "2020",
+  "responsavel": [
+    "Jose Luiz da Costa Virgolino"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual  do  Prestação  de Contas Anual do Fundo de Apoio aos Pequenos Negócios Produtivos de Maués  FUNPEQ,  exercício de 2020, sob a responsabilidade do Sr. Jose Luiz da Costa Virgolino , nos termos do art. 71, II, e do art. 75 da Constituição Federal, c/c o art. 1º, II, e com o art. 22, III, 'b', da Lei Estadual nº 2423/96, c/c o art. 11, III, 'a',  3,  e  com  o  art.  188,  §  1º,  III,  'b',  da  Resolução  nº  04/2002TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Anual  do  Prestação  de Contas Anual do Fundo de Apoio aos Pequenos Negócios Produtivos de Maués  FUNPEQ,  exercício de 2020, sob a responsabilidade do Sr. Jose Luiz da Costa Virgolino , nos termos do art. 71, II, e do art. 75 da Constituição Federal, c/c o art. 1º, II, e com o art. 22, III, 'b', da Lei Estadual nº 2423/96, c/c o art. 11, III, 'a',  3,  e  com  o  art.  188,  §  1º,  III,  'b',  da  Resolução  nº  04/2002TCE/AM;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação indica uma irregularidade na prestação de contas anual do FUNPEQ, Maués, especificamente relacionada à falta de comprovação de documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "Dispõe sobre as normas estaduais relativas ao Tribunal de Contas Estadual."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades nas contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11, III, 'a', 3",
+              "descricao": "Estabelece normas sobre o processo de tomada de contas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, § 1º, III, 'b'",
+              "descricao": "Define os procedimentos para julgamento das contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  multa ao  Sr.Jose  Luiz  da  Costa  Virgolino - Diretor-Presidente do Fundo de Apoio aos Pequenos Negócios Produtivos de  Maués  FUNPEQ,  exercício  de  2020,  no  valor  de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), com fulcro no art. 1°, XI, XII e XXVI, no art. 52 e no art.  54,  incisos,  II,  alinea,  'b',  III  e  VI,  todos  da  Lei  Estadual  n. 2.423/1996 (Lei Orgânica do TCE/AM) c/c art. 308, incisos II, 'b', III e VI, todos da Resolução  n. 04/2002  (Regimento  Interno  do TCE/AM), em razão do conjunto de impropriedades identificadas e não sanadas de responsabilidade do gestor, descritas na Informação Conclusiva  Nº  01/2024-DICAMI/CI  e  no  Parecer  de  Ratificação  N. 940/2024-MP-RMAM, respectivamente, às fls. 1258/1269 e fls. 1270 ( ACHADO  01:  Ausência  de  Controle  Interno;  ACHADO  Nº  02: Descumprimento pelo ente da Lei de acesso a informação; ACHADO Nº  04:  Ausência  de  comprovação  das  despesas  contratuais  pagas e/ou realizadas em 2020 e ACHADO Nº 05: Divergência entre saldos contábeis e o extrato bancário em conta de aplicação financeira ) que configuram, sucessivamente, hipótese de contas julgadas irregulares de que não resulte débito ao erário; ato praticado com grave infração à  norma  legal  ou  regulamentar  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa ao  Sr.Jose  Luiz  da  Costa  Virgolino - Diretor-Presidente do Fundo de Apoio aos Pequenos Negócios Produtivos de  Maués  FUNPEQ,  exercício  de  2020,  no  valor  de R$13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), com fulcro no art. 1°, XI, XII e XXVI, no art. 52 e no art.  54,  incisos,  II,  alinea,  'b',  III  e  VI,  todos  da  Lei  Estadual  n. 2.423/1996 (Lei Orgânica do TCE/AM) c/c art. 308, incisos II, 'b', III e VI, todos da Resolução  n. 04/2002  (Regimento  Interno  do TCE/AM), em razão do conjunto de impropriedades identificadas e não sanadas de responsabilidade do gestor, descritas na Informação Conclusiva  Nº  01/2024-DICAMI/CI  e  no  Parecer  de  Ratificação  N. 940/2024-MP-RMAM, respectivamente, às fls. 1258/1269 e fls. 1270 ( ACHADO  01:  Ausência  de  Controle  Interno;  ACHADO  Nº  02: Descumprimento pelo ente da Lei de acesso a informação; ACHADO Nº  04:  Ausência  de  comprovação  das  despesas  contratuais  pagas e/ou realizadas em 2020 e ACHADO Nº 05: Divergência entre saldos contábeis e o extrato bancário em conta de aplicação financeira ) que configuram, sucessivamente, hipótese de contas julgadas irregulares de que não resulte débito ao erário; ato praticado com grave infração à  norma  legal  ou  regulamentar  de  natureza  contábil,  financeira, orçamentária, operacional e patrimonial",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A multa é aplicada devido a impropriedades não sanadas na gestão, incluindo ausência de controle interno, o que afeta a implementação e estruturação adequadas do sistema.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "1°, XI",
+              "descricao": "Define as sanções aplicáveis por irregularidades nas contas."
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "1°, XII",
+              "descricao": "Define as sanções aplicáveis por outras irregularidades."
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "1°, XXVI",
+              "descricao": "Define as sanções aplicáveis por infração a normas de controle."
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "52",
+              "descricao": "Define os critérios para aplicação de multas."
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996 (Lei Orgânica do TCE/AM)",
+              "artigo": "54, incisos, II, alinea, 'b', III e VI",
+              "descricao": "Detalha as hipóteses de irregularidades que acarretam multa."
+            },
+            {
+              "norma": "Resolução n. 04/2002 (Regimento Interno do TCE/AM)",
+              "artigo": "308, incisos II, 'b', III e VI",
+              "descricao": "Define os procedimentos para aplicação de sanções administrativas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao órgão de origem - Fundo de Apoio aos Pequenos Negócios Produtivos de Maués Funpeq, na pessoa do Sr. Jose Luiz da Costa Virgolino Diretor do Presidente do FUNPEQ - exercício de 2020 e/ou na pessoa de seu atual gestor que atente, com rigor, ao disposto no art. 48, caput ,  da  Lei  Complementar 101/2000 com redação  a  Lei  Complementar  nº  131/2009,  disponibilizando,  em tempo real de forma organizada no Portal da Transparência Municipal do Banco do Povo de Maués - FUNPEQ, a integralidade dos  processos  licitatórios,  contratações,  e/ou  outros  instrumentos obrigacionais,  conforme  determina  a  Lei  12.527/2011,  além  dos relatórios de inventário geral do FUNPEQ  dos  bens  de  sua responsabilidade, e que seja criado mecanismo de controle para o atendimento dos artigos  94  e  96  da  Lei  4.320/64  e  procedimentos apontados pelo MCASP, bem como adote-se critérios mais fidedignos  na  apresentar  documentos geradores de despesas, que devem vir assinados pelo ordenador de despesas, contador, gestor financeiro  etc., de  modo  a  atestar  a  veracidade  e  a  fé  pública  das contas realizadas no exercício fiscalizado, passando, assim a devida confiabilidade nos mecanismo de controle dos recursos sob gestão do fundo;",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao órgão de origem - Fundo de Apoio aos Pequenos Negócios Produtivos de Maués Funpeq, na pessoa do Sr. Jose Luiz da Costa Virgolino Diretor do Presidente do FUNPEQ - exercício de 2020 e/ou na pessoa de seu atual gestor que atente, com rigor, ao disposto no art. 48, caput ,  da  Lei  Complementar 101/2000 com redação  a  Lei  Complementar  nº  131/2009,  disponibilizando,  em tempo real de forma organizada no Portal da Transparência Municipal do Banco do Povo de Maués - FUNPEQ, a integralidade dos  processos  licitatórios,  contratações,  e/ou  outros  instrumentos obrigacionais,  conforme  determina  a  Lei  12.527/2011",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação visa garantir a transparência na gestão do FUNPEQ, requerendo a disponibilização de informações relevantes no Portal da Transparência, em tempo real, conforme previsto na LRF e na Lei de Acesso à Informação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar 101/2000",
+              "artigo": "48, caput",
+              "descricao": "Estabelece a obrigatoriedade da transparência na gestão fiscal."
+            },
+             {
+              "norma": "Lei  Complementar  nº  131/2009",
+              "artigo": "s/n",
+              "descricao": "Dispõe sobre a obrigatoriedade da disponibilização, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira da União, dos Estados, do Distrito Federal e dos Municípios."
+            },
+            {
+              "norma": "Lei 12.527/2011",
+              "artigo": "s/n",
+              "descricao": "Regula o acesso à informação previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar ao órgão de origem - Fundo de Apoio aos Pequenos Negócios Produtivos de Maués Funpeq, na pessoa do Sr. Jose Luiz da Costa Virgolino Diretor do Presidente do FUNPEQ - exercício de 2020 e/ou na pessoa de seu atual gestor que atente, com rigor, e que seja criado mecanismo de controle para o atendimento dos artigos  94  e  96  da  Lei  4.320/64  e  procedimentos apontados pelo MCASP",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A recomendação visa garantir a regularidade na gestão e controle patrimonial do FUNPEQ, Maués.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "94",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            },
+            {
+              "norma": "Lei 4.320/64",
+              "artigo": "96",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar ao órgão de origem - Fundo de Apoio aos Pequenos Negócios Produtivos de Maués Funpeq, na pessoa do Sr. Jose Luiz da Costa Virgolino Diretor do Presidente do FUNPEQ - exercício de 2020 e/ou na pessoa de seu atual gestor que adote-se critérios mais fidedignos  na  apresentar  documentos geradores de despesas, que devem vir assinados pelo ordenador de despesas, contador, gestor financeiro  etc., de  modo  a  atestar  a  veracidade  e  a  fé  pública  das contas realizadas no exercício fiscalizado, passando, assim a devida confiabilidade nos mecanismo de controle dos recursos sob gestão do fundo",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A recomendação visa garantir a confiabilidade dos documentos e a veracidade das informações contábeis apresentadas pelo FUNPEQ.",
+          "fundamentacao_legal": [
+            {
+              "norma": "s/n",
+              "artigo": "s/n",
+              "descricao": "Legislação Aplicável"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno - SEPLENO que oficie ao Responsável via DEC, inclusive, aos advogados do responsável, se houver, comunicando-lhes acerca do teor da decisão que vier a ser proferida nestes autos, acompanhando cópia do Relatório-voto para conhecimento;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno - SEPLENO que oficie ao Responsável via DEC, inclusive, aos advogados do responsável, se houver, comunicando-lhes acerca do teor da decisão que vier a ser proferida nestes autos, acompanhando cópia do Relatório-voto para conhecimento;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação visa garantir a comunicação eficaz da decisão do Tribunal de Contas ao responsável e seus advogados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "s/n",
+              "artigo": "s/n",
+              "descricao": "Não há fundamentação Legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o  presente  processo,  após  cumpridas  as  formalidades legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  presente  processo,  após  cumpridas  as  formalidades legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação de arquivamento do processo após o cumprimento das formalidades legais não indica diretamente um problema concreto, estrutural ou recorrente na gestão pública. Trata-se de uma ação de procedimento interno do TCE para concluir o processo após o cumprimento de todas as exigências e formalidades legais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "s/n",
+              "artigo": "s/n",
+              "descricao": "Não há fundamentação Legal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

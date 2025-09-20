@@ -1,0 +1,85 @@
+{
+  "acordao": "462/2019",
+  "processo": "1703/2018",
+  "data_sessao": "20 de Agosto de 2019",
+  "orgao": "Fundação de Medicina Tropical Dr. Heitor Vieira Dourado - FMT/HVD",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [],
+  "itens": [
+    {
+      "tipo": "Decisão",
+      "descricao": "Julgar  Improcedente a Representação  oposta  por Serviços  de Enfermagem  Geral  e  Especializado  do  Amazonas  Ltda  -  ME SEGEAM ,  em  face  da Fundação de Medicina Tropical Dr. Heitor Vieira Dourado - FMT/HVD ,  visto  que as irregularidades apontadas contra o Pregão Eletrônico n.º 825/2017-CGL não são procedentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  Improcedente a Representação  oposta  por Serviços  de Enfermagem  Geral  e  Especializado  do  Amazonas  Ltda  -  ME SEGEAM ,  em  face  da Fundação de Medicina Tropical Dr. Heitor Vieira Dourado - FMT/HVD ,  visto  que as irregularidades apontadas contra o Pregão Eletrônico n.º 825/2017-CGL não são procedentes",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "O trecho relata o julgamento improcedente de uma representação contra um pregão eletrônico, indicando que as irregularidades não foram comprovadas, o que não configura uma irregularidade em si.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que,  na  inspeção in loco nas  Contas  da Fundação  de  Medicina  Tropical  Dr.  Heitor  Veira  Dourado,  exercício 2018, seja apurado eventual descumprimento do art. 37, II, da CF/88, em razão de contratação de pessoas jurídicas para prestar serviçoes inerentes à atividade-fim da unidade hospitalar, com o fito de instruir a prestação de contas inerentes ao exercício 2018",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que,  na  inspeção in loco nas  Contas  da Fundação  de  Medicina  Tropical  Dr.  Heitor  Veira  Dourado,  exercício 2018, seja apurado eventual descumprimento do art. 37, II, da CF/88, em razão de contratação de pessoas jurídicas para prestar serviçoes inerentes à atividade-fim da unidade hospitalar, com o fito de instruir a prestação de contas inerentes ao exercício 2018",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A111A",
+          "tipologia_irregularidade": "Terceirização de Atividade Fim",
+          "descricao": "Terceirização de Atividade Fim",
+          "justificativa_tipologia": "O trecho determina a apuração de possível terceirização irregular da atividade fim, que, se confirmada, é uma irregularidade grave",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, II",
+              "descricao": "Princípio da obrigatoriedade de concurso público para investidura em cargo ou emprego público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência à Comissão Geral de Licitação - CGL/AM , à Fundação de  Medicina  Tropical  Dr.  Heitor  Vieira  Dourado  -  FMT/HVD ,  à Cooperativa  de  Enfermeiros  do  Amazonas  -  COOPEAM e a Serviços  de  Enfermagem  Geral  e  Especializado  do  Amazonas Ltda - ME - SEGEAM sobre o desfecho atribuído a estes autos",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência à Comissão Geral de Licitação - CGL/AM , à Fundação de  Medicina  Tropical  Dr.  Heitor  Vieira  Dourado  -  FMT/HVD ,  à Cooperativa  de  Enfermeiros  do  Amazonas  -  COOPEAM e a Serviços  de  Enfermagem  Geral  e  Especializado  do  Amazonas Ltda - ME - SEGEAM sobre o desfecho atribuído a estes autos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "A comunicação do desfecho do processo não configura, por si só, uma irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ofício",
+      "descricao": "Oficiar o douto Ministério Público  do  Estado  do  Amazonas encaminhando-lhe cópia da Representação oposta em face da Fundação  de  Medicina  Tropical  Dr.  Heitor  Vieira  Dourado -FMT/HVD, a fim de que, se assim entender, apure os fatos narrados no item B do desfecho atribuído ao Parecer n.º 1171/2019-DMP-MPC- FCVM",
+      "trechos_identificados": [
+        {
+          "trecho": "Oficiar o douto Ministério Público  do  Estado  do  Amazonas encaminhando-lhe cópia da Representação oposta em face da Fundação  de  Medicina  Tropical  Dr.  Heitor  Vieira  Dourado -FMT/HVD, a fim de que, se assim entender, apure os fatos narrados no item B do desfecho atribuído ao Parecer n.º 1171/2019-DMP-MPC- FCVM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "O envio de informações ao Ministério Público para apuração não configura, por si só, uma irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

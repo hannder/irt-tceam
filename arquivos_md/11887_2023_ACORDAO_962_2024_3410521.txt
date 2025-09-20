@@ -1,0 +1,250 @@
+{
+  "acordao": "962/2024- TCE-TRIBUNAL PLENO",
+  "processo": "11887/2023",
+  "data_sessao": "18 de Junho de 2024",
+  "orgao": "Policlínica Governador Gilberto Mestrinho",
+  "municipio": "Manaus",
+  "exercicio": "2022",
+  "responsavel": [
+    "Alan  Barreiros  de  Andrade",
+    "Cristiano  Braz Ferreira",
+    "Jânderson Lourenço Lopes"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular a Prestação  de  Contas da  Policlínica  Governador Gilberto Mestrinho, sob responsabilidade do Sr. Jânderson Lourenço Lopes , Ordenador  das  Despesas  da  Policlínica  Governador  Gilberto Mestrinho, no período de 01/01/2022 a 01/02/2022, com fundamento no art. 22, inciso I, da Lei nº 2.423/96, c/c o art. 188, inciso I da Resolução nº 04/2002-RI/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a Prestação  de  Contas da  Policlínica  Governador Gilberto Mestrinho, sob responsabilidade do Sr. Jânderson Lourenço Lopes , Ordenador  das  Despesas  da  Policlínica  Governador  Gilberto Mestrinho, no período de 01/01/2022 a 01/02/2022, com fundamento no art. 22, inciso I, da Lei nº 2.423/96, c/c o art. 188, inciso I da Resolução nº 04/2002-RI/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "É o julgamento das contas como regulares",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Julgamento das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RI/TCE",
+              "artigo": "188",
+              "descricao": "Regularidade nas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Policlínica Governador Gilberto Mestrinho, sob responsabilidade do Sr. Cristiano Braz  Ferreira , Ordenador  das  Despesas  da  Policlínica  Governador Gilberto  Mestrinho,  no  período  de  02/02/2022  a  19/10/2022,  com fundamento no art. 22, inciso II, da Lei nº 2.423/96 c/c o art. 188, inciso II da Resolução nº 04/2002-RI/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Policlínica Governador Gilberto Mestrinho, sob responsabilidade do Sr. Cristiano Braz  Ferreira , Ordenador  das  Despesas  da  Policlínica  Governador Gilberto  Mestrinho,  no  período  de  02/02/2022  a  19/10/2022,  com fundamento no art. 22, inciso II, da Lei nº 2.423/96 c/c o art. 188, inciso II da Resolução nº 04/2002-RI/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "É o julgamento das contas como regulares com ressalvas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22",
+              "descricao": "Julgamento das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-RI/TCE",
+              "artigo": "188",
+              "descricao": "Regularidade com ressalva nas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Policlínica Governador  Gilberto Mestrinho, sob  responsabilidade do Sr. Alan Barreiros de Andrade , Ordenador das Despesas da Policlínica",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Policlínica Governador  Gilberto Mestrinho, sob  responsabilidade do Sr. Alan Barreiros de Andrade , Ordenador das Despesas da Policlínica",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "É o julgamento das contas como regulares com ressalvas",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Jânderson  Lourenço  Lopes , sobre  a  decisão  desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a primeira seja frustrada. Ato contínuo, se, porventura, persistir a problemática,  para  não  restarem  dúvidas  quanto  a  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Jânderson  Lourenço  Lopes , sobre  a  decisão  desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a primeira seja frustrada. Ato contínuo, se, porventura, persistir a problemática,  para  não  restarem  dúvidas  quanto  a  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "É a ciência sobre a decisão da corte",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Comunicação via edital."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Alan  Barreiros  de  Andrade , sobre  a  decisão  desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a primeira seja frustrada. Ato contínuo, se, porventura, persistir a problemática,  para  não  restarem  dúvidas  quanto  a  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Alan  Barreiros  de  Andrade , sobre  a  decisão  desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a primeira seja frustrada. Ato contínuo, se, porventura, persistir a problemática,  para  não  restarem  dúvidas  quanto  a  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "É a ciência sobre a decisão da corte",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Comunicação via edital."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Cristiano Braz Ferreira , sobre a decisão desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a  primeira  seja  frustrada.  Ato  contínuo,  se,  porventura,  persistir  a problemática,  para  não  restarem  dúvidas  quanto  a  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência ao Cristiano Braz Ferreira , sobre a decisão desta Corte, ficando autorizada a emissão de nova notificação ao interessado, caso a  primeira  seja  frustrada.  Ato  contínuo,  se,  porventura,  persistir  a problemática,  para  não  restarem  dúvidas  quanto  a  sua  validade  e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97, da Resolução nº 04/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "É a ciência sobre a decisão da corte",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "97",
+              "descricao": "Comunicação via edital."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar a Origem que observe, sob pena nos termos art. 54, IV, 'b', da  Lei  nº  2.423/96  c/c  o  art.  308,  IV,  'b',  da  Resolução  n°  04/2022RITCE/AM ,  nos exercícios financeiros seguintes:\n- I Publicação da Declaração logo após a posse do responsável;\n- II Abrangência do conteúdo declarado;\n- III Detalhar com mais fartura o conteúdo dos bens declarados;\n- IV Atualização nas fichas funcionais dos agentes públicos em Cargos Comissionados  de  direção  na  Unidade  Gestora  nº  017.103,  em  suas respectivas  pastas,  conforme  o  disposto  no  artigo  266  da  Constituição Estadual c/c art. 13 §§1º e 2º da Lei nº 8.429/1992, § 1º do art. 289 da Resolução TCE nº 4/2002 e art. 1º da Resolução nº 8/1999 TCE;\n\nVapresente as conciliações bancárias",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a Origem que observe, sob pena nos termos art. 54, IV, 'b', da  Lei  nº  2.423/96  c/c  o  art.  308,  IV,  'b',  da  Resolução  n°  04/2022RITCE/AM ,  nos exercícios financeiros seguintes: - I Publicação da Declaração logo após a posse do responsável",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A Origem deve observar e publicar a declaração logo após a posse.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54",
+              "descricao": "Sanções em caso de descumprimento."
+            },
+            {
+              "norma": "Resolução  n°  04/2022RITCE/AM",
+              "artigo": "308",
+              "descricao": "Sanções em caso de descumprimento."
+            }
+          ]
+        },
+        {
+          "trecho": "II Abrangência do conteúdo declarado",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A Origem deve observar o conteúdo declarado.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "III Detalhar com mais fartura o conteúdo dos bens declarados",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A Origem deve observar detalhamento do conteúdo dos bens declarados.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "IV Atualização nas fichas funcionais dos agentes públicos em Cargos Comissionados  de  direção  na  Unidade  Gestora  nº  017.103,  em  suas respectivas  pastas,  conforme  o  disposto  no  artigo  266  da  Constituição Estadual c/c art. 13 §§1º e 2º da Lei nº 8.429/1992, § 1º do art. 289 da Resolução TCE nº 4/2002 e art. 1º da Resolução nº 8/1999 TCE",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A Origem deve observar a atualização nas fichas funcionais dos agentes públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "266",
+              "descricao": "Informações sobre os agentes públicos."
+            },
+            {
+              "norma": "Lei nº 8.429/1992",
+              "artigo": "13",
+              "descricao": "Sanções por improbidade administrativa."
+            },
+            {
+              "norma": "Resolução TCE nº 4/2002",
+              "artigo": "289",
+              "descricao": "Disposições sobre documentos em processos."
+            },
+            {
+              "norma": "Resolução nº 8/1999 TCE",
+              "artigo": "1",
+              "descricao": "Disposições sobre agentes públicos."
+            }
+          ]
+        },
+        {
+          "trecho": "Vapresente as conciliações bancárias",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A Origem deve apresentar as conciliações bancarias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

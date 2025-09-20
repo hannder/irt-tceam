@@ -1,0 +1,158 @@
+{
+  "acordao": "505/2019",
+  "processo": "11530/2016",
+  "data_sessao": "18 de Junho de 2019",
+  "orgao": "Secretaria de Estado de Planejamento, Desenvolvimento, Ciência, Tecnologia e Inovação - SEPLANCTI",
+  "municipio": "Manaus",
+  "exercicio": "2015",
+  "responsavel": [
+    "Ronney César Campos Peixoto",
+    "Airton Ângelo Claudino",
+    "Thomaz Afonso Queiroz Nogueira",
+    "Antônio Gilson Nogueira de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar  regular  com ressalvas as  Contas  da Secretaria de Estado de Planejamento,  Desenvolvimento,  Ciência,  Tecnologia  e  Inovação  SEPLANCTI, referentes ao exercício financeiro de 2015 , de responsabilidade dos Srs. Ronney César Campos Peixoto (período de 01/01/2015 a 31/03/2015), Airton Ângelo Claudino (período de 01/01/2015 a 31/03/2015), Antônio Gílson Nogueira de Souza (período de  01/04/2015  a  31/12/2015)  e Thomaz  Afonso  Queiroz  Nogueira (período de 01/04/2015 a 31/12/2015), nos termos do art. 1º, II, 22, II, e 24 da  Lei  2423/1996  e  art.  188,  §  1º,  II,  e  189,  II,  da  Resolução  4/2002TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "A emissão de  Relatório e Certificado de Auditoria Interna, com parecer  de  dirigentes  do  Órgão  de  Controle  Interno,  dispondo  sobre  a regularidade  ou  não  das  Contas  Anuais  quanto  aos  aspectos  contábil, orçamentário, financeiro, operacional e patrimonial, e também,  no tocante à legalidade, legitimidade, economicidade, impessoalidade, moralidade, publicidade e da eficiência (arts. 70 e 37 da CF/88 c/c art. 39 da CE/89)",
+      "trechos_identificados": [
+        {
+          "trecho": "A emissão de  Relatório e Certificado de Auditoria Interna, com parecer  de  dirigentes  do  Órgão  de  Controle  Interno,  dispondo  sobre  a regularidade  ou  não  das  Contas  Anuais  quanto  aos  aspectos  contábil, orçamentário, financeiro, operacional e patrimonial, e também,  no tocante à legalidade, legitimidade, economicidade, impessoalidade, moralidade, publicidade e da eficiência (arts. 70 e 37 da CF/88 c/c art. 39 da CE/89)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho demonstra a necessidade de implementação e estruturação do controle interno para garantir a regularidade das contas e o cumprimento dos princípios constitucionais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "70",
+              "descricao": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação de subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder."
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37",
+              "descricao": "A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência"
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "39",
+              "descricao": "similar ao Art. 70 da constituição federal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "A elaboração de estudo de viabilidade em contratos de locação",
+      "trechos_identificados": [
+        {
+          "trecho": "A elaboração de estudo de viabilidade em contratos de locação",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A9A",
+          "tipologia_irregularidade": "Ausência de Processo Licitatório / Dispensa ou Inexigibilidade de Licitação sem amparo legal",
+          "descricao": "Ausência de designação do pregoeiro e equipe de apoio",
+          "justificativa_tipologia": "A elaboração de estudo de viabilidade em contratos de locação é crucial para garantir que a contratação seja vantajosa para a administração pública, evitando gastos desnecessários e garantindo a economicidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "25",
+              "descricao": "Inexigibilidade de licitação"
+            },
+             {
+              "norma": "Lei nº 14.133/2021",
+              "artigo": "74",
+              "descricao": "Inexigibilidade de licitação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Proceder ao controle sobre o uso dos veículos, identificando os motivos do deslocamento, a autoridade competente para autorizar o uso, o motorista, o trajeto e a quilometragem; elaborando mapas de controle; limitando o uso somente em dias úteis e horários previamente fixados; e especificando as medidas adotadas para preservar os instrumentos de medição, tais como velocímetro, hodômetro ou celerímetro e medidor do nível de combustível",
+      "trechos_identificados": [
+        {
+          "trecho": "Proceder ao controle sobre o uso dos veículos, identificando os motivos do deslocamento, a autoridade competente para autorizar o uso, o motorista, o trajeto e a quilometragem; elaborando mapas de controle; limitando o uso somente em dias úteis e horários previamente fixados; e especificando as medidas adotadas para preservar os instrumentos de medição, tais como velocímetro, hodômetro ou celerímetro e medidor do nível de combustível",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "A falta de controle sobre o uso de veículos e ausência de registro analítico dos mesmos dificultam a gestão do patrimônio público e o acompanhamento da utilização dos recursos.",
+          "fundamentacao_legal": [
+             {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "O controle dos bens patrimoniais deverá ser feito de forma analítica, com identificação dos elementos necessários para a perfeita caracterização de cada um deles e dos agentes responsáveis pela sua guarda e administração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "A adoção de providências no  sentido de evitar a manutenção de contratos com empresas com restrições fiscais, de modo a  evitar o pagamento de despesas com multas ao INSS",
+      "trechos_identificados": [
+        {
+          "trecho": "A adoção de providências no  sentido de evitar a manutenção de contratos com empresas com restrições fiscais, de modo a  evitar o pagamento de despesas com multas ao INSS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A3B",
+          "tipologia_irregularidade": "Ausência da razão da escolha do fornecedor",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "A manutenção de contratos com empresas com restrições fiscais e trabalhistas compromete a regularidade da contratação e a gestão dos recursos públicos, além de gerar o pagamento de multas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "27",
+              "descricao": "Habilitação jurídica"
+            },
+             {
+              "norma": "Lei nº 14.133/2021",
+              "artigo": "62",
+              "descricao": "Habilitação jurídica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "QUITAÇÃO",
+      "descricao": "Ao Sr. Ronney César Campos Peixoto , nos termos dos arts. 24 e  72,  II,  ambos  da  Lei  n.  2423/1996,  c/c  o  art.  189,  II,  da  Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "QUITAÇÃO",
+      "descricao": "Ao Sr. Airton Ângelo Claudino , nos termos dos arts. 24 e 72, II, ambos da Lei n. 2423/1996, c/c o art. 189, II, da Resolução 04/2002 TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "QUITAÇÃO",
+      "descricao": "Ao Sr. Antônio  Gilson  Nogueira  de  Souza ,  nos  termos  dos arts.  24  e  72,  II,  ambos  da  Lei  n.  2423/1996,  c/c  o  art.  189,  II,  da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "QUITAÇÃO",
+      "descricao": "Ao Sr. Thomaz Afonso Queiroz Nogueira , nos termos dos arts. 24 e 72, II, ambos da Lei n. 2423/1996, c/c o art. 189, II, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno a  adoção  das  providências previstas no art. 161 da Resolução 4/2002 - TCE/AM",
+      "trechos_identificados": []
+    }
+  ]
+}

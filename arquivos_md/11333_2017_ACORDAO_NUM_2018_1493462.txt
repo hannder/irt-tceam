@@ -1,0 +1,48 @@
+{
+  "acordao": "349/2018",
+  "processo": "11333/2017",
+  "data_sessao": "30 de Maio de 2018",
+  "orgao": "Serviço de Pronto Atendimento e Hospital Dr. Aristóteles Platão Bezerra de Araújo - SPA Platão de Araújo",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "José Diniz Filho"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar  Regular  com  ressalvas a  Prestação  de  Contas  do Sr. Jose Diniz Filho, responsável pelo Serviço de Pronto Atendimento  e  Hospital  Dr.  Aristóteles  Platão  Bezerra  de Araújo,  no  curso do exercício 2016, nos termos do artigo 1º, II, 22, II, e 24 da Lei n. 2423/1996; e artigos 188, § 1º, II, e 189, II, da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Recomendar ao  Serviço  de  Pronto  Atendimento  e  Hospital  Dr. Aristóteles Platão Bezerra de Araújo - SPA Platão de Araújo que observe com rigor o cumprimento das normas legais, principalmente no que diz respeito:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Obrigatoriedade  de  fazer  constar  em  todas  as  pastas funcionais  as  declarações  do  Diretor,  Vice  Diretor  e  de todos os servidores com cargos comissionados",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Maior  controle  patrimonial,  incluso  a  elaboração  de Inventário de bens patrimoniais contendo todos os dados inerentes",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "Observância do contido nos artigos 2º, 24, 25 e 26 da Lei N°8.666/1993,  com  o  fito  de  evitar  o  fracionamento  de despesas quando da contratação de compras e/ou serviços que possam ser realizadas de forma planejada e dentro do exercício fiscal em tela",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar a Secex - Secretaria Geral do Controle Externo que a próxima  Comissão  de  Inspeção  verifique  o  cumprimento  das recomendações  expostas  no  item  anterior,  bem  como se  ainda persiste a ausência de fotos dos servidores nas fichas funcionais",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "NOTIFICAÇÃO",
+      "descricao": "Notificar o Sr. Jose Diniz Filho com cópia do Relatório/Voto e deste Acórdão para ciência do decisório",
+      "trechos_identificados": []
+    }
+  ]
+}

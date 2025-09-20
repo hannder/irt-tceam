@@ -1,0 +1,53 @@
+{
+  "acordao": "719/2020",
+  "processo": "12239/2020",
+  "data_sessao": "15 de Julho de 2020",
+  "orgao": "Fundo de Fomento à Atividade Legislativa",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Josué Cláudio de Souza Neto"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas do Fundo de Fomento à Atividade Legislativa, exercício 2019, sob a responsabilidade do Sr. Josué Cláudio de Souza Neto ,  Presidente do Fundo, nos termos do art. 188, §1º, I, do Regimento Interno deste Tribunal.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Fundo de Fomento à Atividade Legislativa, exercício 2019, sob a responsabilidade do Sr. Josué Cláudio de Souza Neto ,  Presidente do Fundo, nos termos do art. 188, §1º, I, do Regimento Interno deste Tribunal.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A descrição menciona a regularidade das contas, o que se relaciona com a verificação dos saldos contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno do Tribunal de Contas do Estado do Amazonas",
+              "artigo": "188, §1º, I",
+              "descricao": "O artigo define os termos para o julgamento da regularidade das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Comunicação",
+      "descricao": "Comunicar o Sr. Josué Cláudio de Souza Neto ,  Presidente do Fundo, sobre a decisão do Tribunal Pleno.",
+      "trechos_identificados": [
+        {
+          "trecho": "Comunicar o Sr. Josué Cláudio de Souza Neto ,  Presidente do Fundo, sobre a decisão do Tribunal Pleno.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O trecho se refere a uma comunicação formal, o que se alinha com a categoria de envio de informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

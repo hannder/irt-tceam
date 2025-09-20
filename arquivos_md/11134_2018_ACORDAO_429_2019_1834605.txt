@@ -1,0 +1,331 @@
+{
+  "acordao": "429/2019",
+  "processo": "11134/2018",
+  "data_sessao": "28 de Maio de 2019",
+  "orgao": "Câmara Municipal de Eirunepé",
+  "municipio": "Eirunepé",
+  "exercicio": "2017",
+  "responsavel": [
+    "Walter Alexandre Menezes Bezerra"
+  ],
+  "itens": [
+    {
+      "tipo": "irregular",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Eirunepé, referente ao exercício financeiro de 2017, de responsabilidade do Gestor, ordenador de despesa, Sr. Walter Alexandre Menezes Bezerra , conforme o art. 22, inciso III, 'b' e 'c' c/c art.  25,  da  Lei  n.º  2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Eirunepé, referente ao exercício financeiro de 2017, de responsabilidade do Gestor, ordenador de despesa, Sr. Walter Alexandre Menezes Bezerra , conforme o art. 22, inciso III, 'b' e 'c' c/c art.  25,  da  Lei  n.º  2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação julga irregular a prestação de contas devido a restrições não sanadas, indicando uma falha na comprovação de valores no balanço patrimonial",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96-LO/TCE",
+              "artigo": "22, inciso III, 'b' e 'c' c/c art. 25",
+              "descricao": "Base legal para julgamento irregular da prestação de contas devido a restrições não sanadas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "alcance",
+      "descricao": "Considerar  em  Alcance o Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente  da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no valor  de R$  58.200,00 (cinquenta  e  oito  mil  e  duzentos  reais),  que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Câmara Municipal  de  Eirunepé  com  fulcro  no  artigo  304,  I,  da  Resolução  nº 04/2002 - Regimento Interno do TCE, pela concessão de diárias sem a devida comprovação da finalidade pública das despesas, visto não ter apresentado quaisquer documentos (Certidões, Declarações de Comparecimento) que demonstrassem o nexo causal entre as viagens e finalidade pública",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente  da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no valor  de R$  58.200,00 (cinquenta  e  oito  mil  e  duzentos  reais),  que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Câmara Municipal  de  Eirunepé  com  fulcro  no  artigo  304,  I,  da  Resolução  nº 04/2002 - Regimento Interno do TCE, pela concessão de diárias sem a devida comprovação da finalidade pública das despesas, visto não ter apresentado quaisquer documentos (Certidões, Declarações de Comparecimento) que demonstrassem o nexo causal entre as viagens e finalidade pública",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "O trecho descreve alcance devido à concessão de diárias sem comprovação da finalidade pública, configurando despesa sem o devido processo administrativo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  nº 04/2002 - Regimento Interno do TCE",
+              "artigo": "304, I",
+              "descricao": "Base legal para considerar o responsável em alcance devido à concessão de diárias sem comprovação da finalidade pública"
+            },
+              {
+              "norma": "CF/88",
+              "artigo": "70",
+              "descricao": "Menção ao art. 70, parágrafo único, da CF/88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar Multa ao Sr.  Walter  Alexandre Menezes Bezerra ,  Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 15.000,00 (quinze mil reais), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, VI, da Resolução nº 04/2002 TCE/AM, em face do disposto nos itens 19-22, 34-39, 40-47, 48-51, do Voto; que deverá ser recolhida no  prazo  de  30  dias  para  o  Cofre  Estadual através de DAR  avulso extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr.  Walter  Alexandre Menezes Bezerra ,  Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 15.000,00 (quinze mil reais), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, VI, da Resolução nº 04/2002 TCE/AM, em face do disposto nos itens 19-22, 34-39, 40-47, 48-51, do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A multa é aplicada devido a falhas nos itens mencionados do voto, indicando deficiências no controle interno da gestão da câmara.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Base legal para aplicação de multa ao responsável"
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Base legal para aplicação de multa ao responsável"
+            }
+          ]
+        },
+        {
+          "trecho": "que deverá ser recolhida no  prazo  de  30  dias  para  o  Cofre  Estadual através de DAR  avulso extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código  5508  -  Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este trecho é um detalhamento procedimental para o recolhimento da multa. Não representa uma irregularidade por si só, mas sim o procedimento para regularizar a situação após a aplicação da sanção. Está relacionado ao controle interno no sentido de que garante o cumprimento da decisão do TCE.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este trecho é um detalhamento procedimental para o encaminhamento do comprovante de pagamento da multa. Não representa uma irregularidade por si só, mas sim o procedimento para regularizar a situação após a aplicação da sanção. Está relacionado ao controle interno no sentido de que garante o cumprimento da decisão do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea 'a'",
+              "descricao": "Obrigação de encaminhamento do comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "Aplicar  Multa ao Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, I, 'b' da Resolução nº  04/2002  TCE/AM, por  atraso  na  remessa  dos  Relatórios  de  Gestão Fiscal do 1º e 2º semestres de 2017, conforme disposto nos itens 52-55, do  Voto, que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, I, 'b' da Resolução nº  04/2002  TCE/AM, por  atraso  na  remessa  dos  Relatórios  de  Gestão Fiscal do 1º e 2º semestres de 2017, conforme disposto nos itens 52-55, do  Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na remessa dos Relatórios de Gestão Fiscal, indicando falha na publicação e envio de informações essenciais para o controle fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Base legal para aplicação de multa ao responsável"
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308, I, 'b'",
+              "descricao": "Base legal para aplicação de multa devido ao atraso na remessa dos relatórios"
+            }
+          ]
+        },
+        {
+          "trecho": "que  deverá  ser  recolhida  no  prazo  de  30  dias  para  o  Cofre Estadual através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este trecho é um detalhamento procedimental para o recolhimento da multa. Não representa uma irregularidade por si só, mas sim o procedimento para regularizar a situação após a aplicação da sanção. Está relacionado ao controle interno no sentido de que garante o cumprimento da decisão do TCE.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Este trecho é um detalhamento procedimental para o encaminhamento do comprovante de pagamento da multa. Não representa uma irregularidade por si só, mas sim o procedimento para regularizar a situação após a aplicação da sanção. Está relacionado ao controle interno no sentido de que garante o cumprimento da decisão do TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea 'a'",
+              "descricao": "Obrigação de encaminhamento do comprovante de pagamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Que  cumpra  o  disposto  artigos  48,  II  e  48-A  da  Lei  de Responsabilidade Fiscal, assim como art. 8º, §§ 1º e 2, da Lei 12.527/11",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  artigos  48,  II  e  48-A  da  Lei  de Responsabilidade Fiscal, assim como art. 8º, §§ 1º e 2, da Lei 12.527/11",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação explicita a necessidade de cumprir as exigências de transparência estabelecidas na Lei de Responsabilidade Fiscal e na Lei de Acesso à Informação, o que implica divulgar informações financeiras e administrativas relevantes.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "48, II",
+              "descricao": "Obrigatoriedade de divulgação de informações sobre a gestão fiscal"
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "48-A",
+              "descricao": "Obrigatoriedade de divulgação de informações sobre a gestão fiscal"
+            },
+            {
+              "norma": "Lei 12.527/11",
+              "artigo": "8º, §§ 1º e 2",
+              "descricao": "Obrigatoriedade de divulgação de informações de interesse coletivo ou geral"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Que  cumpra  o  disposto  na  Lei  Municipal  nº  004/1999  e que apresente certidões emitidas pelas entidades e órgãos que motivaram a viagem e o recebimento das diárias, dando cumprimento ao art. 70, parágrafo único, da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  na  Lei  Municipal  nº  004/1999  e que apresente certidões emitidas pelas entidades e órgãos que motivaram a viagem e o recebimento das diárias, dando cumprimento ao art. 70, parágrafo único, da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A determinação visa assegurar a correta prestação de contas das diárias, exigindo a apresentação de documentos que justifiquem o uso dos recursos públicos, evitando o seu uso irregular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 004/1999",
+              "artigo": "Não consta",
+              "descricao": "Obrigatoriedade de cumprir a Lei Municipal nº 004/1999"
+            },
+             {
+              "norma": "CF/88",
+              "artigo": "70",
+              "descricao": "Obrigatoriedade de apresentar certidões que comprovem o uso das diárias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Que  cumpra  o  disposto  no  art.  37,  XXI,  da  CF,  assim como na Lei nº 8.666/1993, em especial, art.  3º  e  art.  23, §5º, que trata do fracionamento de despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  no  art.  37,  XXI,  da  CF,  assim como na Lei nº 8.666/1993, em especial, art.  3º  e  art.  23, §5º, que trata do fracionamento de despesas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A determinação visa garantir que as contratações sigam os princípios da licitação e evitar o fracionamento indevido de despesas, que pode configurar fuga ao processo licitatório.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF",
+              "artigo": "37, XXI",
+              "descricao": "Obrigatoriedade de licitação"
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "3º",
+              "descricao": "Princípios básicos da licitação"
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "23, §5º",
+              "descricao": "Proibição de fracionamento de despesas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Que cumpra o disposto no art. 29-A, I, da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Que cumpra o disposto no art. 29-A, I, da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação visa assegurar a aplicação de recursos na saúde, em nível adequado, e que seja implementado o sistema de controle e avaliação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "29-A, I",
+              "descricao": "Aplicação de recursos na saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Que  cumpra  o  disposto  no  art.  5º,  da  Resolução  nº 24/2013  TCE/AM,  assim  como  aos  artigos  48,  48-A  e  55, §1º, da Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  no  art.  5º,  da  Resolução  nº 24/2013  TCE/AM,  assim  como  aos  artigos  48,  48-A  e  55, §1º, da Lei Complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A determinação visa assegurar a aplicação de recursos na saúde, em nível adequado, e que seja implementado o sistema de controle e avaliação. É necessário o cumprimento das exigências da Resolução nº 24/2013 do TCE/AM e da Lei de Responsabilidade Fiscal (artigos 48, 48-A e 55, §1º), relacionados à transparência e controle fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 24/2013 TCE/AM",
+              "artigo": "5º",
+              "descricao": "Obrigações relativas à gestão fiscal"
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "48",
+              "descricao": "Transparência na gestão fiscal"
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "48-A",
+              "descricao": "Transparência na gestão fiscal"
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "55, §1º",
+              "descricao": "Limites de despesas com pessoal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

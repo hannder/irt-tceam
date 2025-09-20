@@ -1,0 +1,195 @@
+{
+  "acordao": "165/2023",
+  "processo": "12274/2020",
+  "data_sessao": "10 de Outubro de 2023",
+  "orgao": "Prefeitura Municipal de Ipixuna",
+  "municipio": "Ipixuna",
+  "exercicio": "2019",
+  "responsavel": [
+    "Maria do Socorro de Paula Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar que as impropriedades consideradas não sanadas pela DICAMI, pela DICOP e pelo Ministério Público de Contas sejam apreciadas nos autos do Processo n. 10.146/2023, relativas às contas de gestão da Responsável, em atenção às orientações exaradas na Portaria nº 152/2021-GP e pela Resolução ATRICON nº 02/2020",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que as impropriedades consideradas não sanadas pela DICAMI, pela DICOP e pelo Ministério Público de Contas sejam apreciadas nos autos do Processo n. 10.146/2023, relativas às contas de gestão da Responsável, em atenção às orientações exaradas na Portaria nº 152/2021-GP e pela Resolução ATRICON nº 02/2020",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho determina que as impropriedades sejam apreciadas em outro processo, indicando uma necessidade de avaliação do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria nº 152/2021-GP",
+              "artigo": "Não especificado",
+              "descricao": "Orientações sobre a apreciação de impropriedades."
+            },
+            {
+              "norma": "Resolução ATRICON nº 02/2020",
+              "artigo": "Não especificado",
+              "descricao": "Orientações sobre a apreciação de impropriedades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Ipixuna que: adote medidas concretas a fim de observar os comandos constitucionais e legais contidos na Lei n. 4320/64, relativos às demonstrações contábeis e financeiras",
+      "trechos_identificados": [
+        {
+          "trecho": "adote medidas concretas a fim de observar os comandos constitucionais e legais contidos na Lei n. 4320/64, relativos às demonstrações contábeis e financeiras",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação busca corrigir a ausência de informações essenciais nas demonstrações contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4320/64",
+              "artigo": "Não especificado",
+              "descricao": "Comandos constitucionais e legais relativos às demonstrações contábeis e financeiras."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Ipixuna que: adote medidas concretas a fim de comprovar as medidas administrativas e/ou judiciais adotadas pela Prefeitura Municipal de Ipixuna para sanear o Ativo Circulante, a fim de trazer maior clareza com relação aos benefícios econômicos futuros provenientes daquela Prefeitura Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "adote medidas concretas a fim de comprovar as medidas administrativas e/ou judiciais adotadas pela Prefeitura Municipal de Ipixuna para sanear o Ativo Circulante, a fim de trazer maior clareza com relação aos benefícios econômicos futuros provenientes daquela Prefeitura Municipal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação exige a comprovação das medidas adotadas para sanear o Ativo Circulante, indicando uma possível falta de clareza nos registros contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Ipixuna que: adote medidas concretas a fim de comprovar as medidas administrativas com relação à execução fiscal da Dívida Ativa Tributária do Município",
+      "trechos_identificados": [
+        {
+          "trecho": "adote medidas concretas a fim de comprovar as medidas administrativas com relação à execução fiscal da Dívida Ativa Tributária do Município",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação refere-se à necessidade de comprovar medidas para a execução fiscal da Dívida Ativa Tributária, indicando uma possível falha na cobrança de dívidas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Ipixuna que: aprimore seu controle de bens patrimoniais, para que não permaneça dúvidas quanto aos mesmos",
+      "trechos_identificados": [
+        {
+          "trecho": "aprimore seu controle de bens patrimoniais, para que não permaneça dúvidas quanto aos mesmos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "O trecho indica uma necessidade de melhoria no controle de bens patrimoniais, sugerindo deficiências nos registros e na gestão do patrimônio.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Ipixuna que: evite o atraso e o repasse parcelados do repasse constitucional devido em sua integralidade",
+      "trechos_identificados": [
+        {
+          "trecho": "evite o atraso e o repasse parcelados do repasse constitucional devido em sua integralidade",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A9B",
+          "tipologia_irregularidade": "Despesas empenhadas sem comprovação",
+          "descricao": "Repasses foram enviados fora da proporção fixada na lei orçamentária",
+          "justificativa_tipologia": "O trecho explicita a ocorrência de repasses financeiros realizados fora dos prazos e de forma parcelada, em desrespeito ao processo orçamentário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Ipixuna que: observe com mais rigor o preenchimento adequado do Portal da Transparência, prezando pela sua atualização constante nos termos das disposições contidas na Lei 12.527/2011 (Lei de Acesso à Informação)",
+      "trechos_identificados": [
+        {
+          "trecho": "observe com mais rigor o preenchimento adequado do Portal da Transparência, prezando pela sua atualização constante nos termos das disposições contidas na Lei 12.527/2011 (Lei de Acesso à Informação)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho determina a necessidade de melhoria no preenchimento do Portal da Transparência, indicando uma possível falta de informações e atualização inadequada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 12.527/2011",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Acesso à Informação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Prefeitura Municipal de Ipixuna que: observe com mais rigor o cumprimento das metas estabelecidas na Resolução n. 24/2013 - Sistema e-Contas - GEFIS",
+      "trechos_identificados": [
+        {
+          "trecho": "observe com mais rigor o cumprimento das metas estabelecidas na Resolução n. 24/2013 - Sistema e-Contas - GEFIS",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A deliberação busca garantir o cumprimento das metas estabelecidas no Sistema e-Contas, indicando um possível descumprimento anterior.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 24/2013",
+              "artigo": "Não especificado",
+              "descricao": "Sistema e-Contas - GEFIS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência a Senhora Maria do Socorro de Paula Oliveira sobre o deslinde do feito",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência a Senhora Maria do Socorro de Paula Oliveira sobre o deslinde do feito",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho apenas informa sobre a ciência da responsável sobre o deslinde do caso, não apresentando nenhum indício de irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

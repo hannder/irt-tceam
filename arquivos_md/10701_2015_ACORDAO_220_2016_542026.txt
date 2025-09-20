@@ -1,0 +1,373 @@
+{
+  "acordao": "220/2016",
+  "processo": "10701/2015",
+  "data_sessao": "09 de março de 2016",
+  "orgao": "Serviço Autônomo de Água e Esgoto São Sebastião do Uatumã - SAAE",
+  "municipio": "São Sebastião do Uatumã",
+  "exercicio": "2014",
+  "responsavel": [
+    "Pedro Furtado Terço"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregulares a Prestação de Contas Anuais do Serviço Autônomo  de  Água  e  Esgoto  do  Município  de  São  Sebastião  do  Uatumã/AM, referentes  ao exercício de 2014 , de responsabilidade do Sr. Pedro Furtado Terço , Diretor-Presidente do SAAE, nos termos do art. 71, II da CF/88 c/c art. 40, II da CE/89; art. 22, em conjunto com  o  art.  22,  inciso  III,  c/c  art.  25,  da  Lei  n.º  2.423/96-LO/TCE,  considerando  as ocorrências das restrições não sanadas desta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregulares a Prestação de Contas Anuais do Serviço Autônomo  de  Água  e  Esgoto  do  Município  de  São  Sebastião  do  Uatumã/AM, referentes  ao exercício de 2014 , de responsabilidade do Sr. Pedro Furtado Terço , Diretor-Presidente do SAAE, nos termos do art. 71, II da CF/88 c/c art. 40, II da CE/89; art. 22, em conjunto com  o  art.  22,  inciso  III,  c/c  art.  25,  da  Lei  n.º  2.423/96-LO/TCE,  considerando  as ocorrências das restrições não sanadas desta instrução",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A irregularidade está relacionada à ausência de informações essenciais nas demonstrações contábeis, dificultando o entendimento e a transparência da gestão financeira, o que impacta a qualidade da informação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Competência do Tribunal de Contas do Estado para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração estadual."
+            },
+            {
+              "norma": "Lei nº 2.423/96-LO/TCE",
+              "artigo": "22",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas, estabelecendo suas competências e jurisdição."
+            },
+            {
+              "norma": "Lei nº 2.423/96-LO/TCE",
+              "artigo": "22, inciso III",
+              "descricao": "Competência do Tribunal de Contas do Estado do Amazonas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração estadual."
+            },
+            {
+              "norma": "Lei nº 2.423/96-LO/TCE",
+              "artigo": "25",
+              "descricao": "Define as responsabilidades dos gestores de recursos públicos perante o Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Gestor e Ordenador de Despesas, Sr. Pedro Furtado Terço , Diretor-Presidente do SAAE de São Sebastião do Uatumã, no exercício de 2014, no  valor  de R$  8.768,25 (oito  mil,  setecentos  e  sessenta  e  oito  reais  e  vinte  cinco centavos), nos termos do inciso VI, do art. 308, da Resolução TCE nº04/2002 c/c inciso II, do art. 54, da Lei nº 2.423/96, em razão das restrições 01, 02, 03, 07, 08, 11, 15, 16, 20, 23 e 26, já descritas no Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Gestor e Ordenador de Despesas, Sr. Pedro Furtado Terço , Diretor-Presidente do SAAE de São Sebastião do Uatumã, no exercício de 2014, no  valor  de R$  8.768,25 (oito  mil,  setecentos  e  sessenta  e  oito  reais  e  vinte  cinco centavos), nos termos do inciso VI, do art. 308, da Resolução TCE nº04/2002 c/c inciso II, do art. 54, da Lei nº 2.423/96, em razão das restrições 01, 02, 03, 07, 08, 11, 15, 16, 20, 23 e 26, já descritas no Relatório/Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A28B",
+          "tipologia_irregularidade": "Falha no monitoramento de contratos",
+          "descricao": "Pagamento de Multas em recolhimentos previdenciários",
+          "justificativa_tipologia": "A multa aplicada ao gestor é uma consequência direta das irregularidades identificadas, refletindo a responsabilidade pela gestão inadequada dos recursos públicos. Está relacionada a falhas de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº04/2002",
+              "artigo": "308, VI",
+              "descricao": "Estabelece as sanções aplicáveis pelo Tribunal de Contas do Estado do Amazonas em caso de irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define as multas aplicáveis aos responsáveis por irregularidades na gestão de recursos públicos no âmbito do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "observe  com maior  rigor  a  legislação  orçamentária,  que  aperfeiçoe  a elaboração das suas propostas orçamentárias encaminhadas ao governo municipal, de modo  a  aumentar  o  grau  de  adequação  entre  previsão  e  execução  das  receitas  e despesas do SAAE",
+      "trechos_identificados": [
+        {
+          "trecho": "observe  com maior  rigor  a  legislação  orçamentária,  que  aperfeiçoe  a elaboração das suas propostas orçamentárias encaminhadas ao governo municipal, de modo  a  aumentar  o  grau  de  adequação  entre  previsão  e  execução  das  receitas  e despesas do SAAE",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "A Determinação para observar com maior rigor a legislação orçamentária visa aperfeiçoar a elaboração das propostas orçamentárias e aumentar o grau de adequação entre previsão e execução das receitas e despesas, buscando mitigar os Atrasos na execução física e financeira",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "observe com maior rigor o prazo de recolhimento de todos os tributos de modo a evitar incidência de encargos moratórios",
+      "trechos_identificados": [
+        {
+          "trecho": "observe com maior rigor o prazo de recolhimento de todos os tributos de modo a evitar incidência de encargos moratórios",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "A determinação para observar com maior rigor o prazo de recolhimento de todos os tributos de modo a evitar a incidência de encargos moratórios se relaciona com a gestão orçamentária e financeira, visando evitar despesas não planejadas e garantir o cumprimento das obrigações fiscais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "para  que  tão  logo  disponha  da  composição  da  dívida  que  proceda  à contabilização da mesma observando às normas contábeis aplicadas ao caso",
+      "trechos_identificados": [
+        {
+          "trecho": "para  que  tão  logo  disponha  da  composição  da  dívida  que  proceda  à contabilização da mesma observando às normas contábeis aplicadas ao caso",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A determinação para que se proceda à contabilização da dívida observando as normas contábeis visa garantir a correta representação da situação financeira da entidade, promovendo a transparência e a confiabilidade das informações contábeis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "para que em hipótese alguma realize despesas sem cumprimento das formalidades  prescritas  na  Lei  n.  8666/93  quanto  à  fase de  licitação  e  Lei  n.  4320/64 quanto à fase de execução",
+      "trechos_identificados": [
+        {
+          "trecho": "para que em hipótese alguma realize despesas sem cumprimento das formalidades  prescritas  na  Lei  n.  8666/93  quanto  à  fase de  licitação  e  Lei  n.  4320/64 quanto à fase de execução",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Lei nº 4.320/64: Art. 63 (Empenho da despesa). Violação do princípio da legalidade e transparência.",
+          "justificativa_tipologia": "A Determinação para que em hipótese alguma realize despesas sem cumprimento das formalidades prescritas visa evitar pagamentos por bens e serviços sem a devida cobertura contratual, mediante a verificação da Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 8666/93",
+              "artigo": "s/a",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública."
+            },
+            {
+              "norma": "Lei n. 4320/64",
+              "artigo": "s/a",
+              "descricao": "Estatui Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "elabore  controles  administrativos  para  conciliação  das  tarifas  pagas sobre os contratos de arrecadação de faturas do órgão",
+      "trechos_identificados": [
+        {
+          "trecho": "elabore  controles  administrativos  para  conciliação  das  tarifas  pagas sobre os contratos de arrecadação de faturas do órgão",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A27B",
+          "tipologia_irregularidade": "Gestão inadequada de estoque",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais",
+          "justificativa_tipologia": "A determinação para elaborar controles administrativos para conciliação das tarifas pagas sobre os contratos de arrecadação de faturas do órgão tem como objetivo garantir a adequada Gestão de estoque, bem como da regularidade da documentação apresentada na Prestação de Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "observe  com  maior  rigor  as  exigências  da  legislação  de  licitações  e contratos,  que  formalize  os  processos  de  dispensa  de  licitação,  que  preceda  todas  as contratações  de  compras,  obras  e/ou  serviços  de  ampla  pesquisa  de  mercado,  como condição básica para seleção da melhor proposta à Administração",
+      "trechos_identificados": [
+        {
+          "trecho": "observe  com  maior  rigor  as  exigências  da  legislação  de  licitações  e contratos,  que  formalize  os  processos  de  dispensa  de  licitação,  que  preceda  todas  as contratações  de  compras, obras  e/ou  serviços  de  ampla  pesquisa  de  mercado,  como condição básica para seleção da melhor proposta à Administração",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "A Determinação para observar com maior rigor as exigências da legislação de licitações e contratos, que preceda todas as contratações de compras, obras e/ou serviços de ampla pesquisa de mercado, como condição básica para seleção da melhor proposta à Administração visa garantir a devida instrução dos processos fiscalizatórios e a transparência nos processos de contratação",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "nos processos de dispensa e inexigibilidade de licitação não deixe de autuar  processo  administrativo  formal,  anexar  pesquisa  de  preço  de  mercado,  parecer jurídico, nota de empenho, e observar demais exigências da Lei n. 8666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "nos processos de dispensa e inexigibilidade de licitação não deixe de autuar  processo  administrativo  formal,  anexar  pesquisa  de  preço  de  mercado,  parecer jurídico, nota de empenho, e observar demais exigências da Lei n. 8666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "A Determinação para que nos processos de dispensa e inexigibilidade de licitação não deixe de autuar processo administrativo formal, anexar pesquisa de preço de mercado, parecer jurídico, nota de empenho, e observar demais exigências da Lei n. 8666/93 visa a correta instrução dos processos e comprovação da adequação dos processos de dispensa e inexigibilidade",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 8666/93",
+              "artigo": "s/a",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "maior  rigor  na  observação  da  Lei  n.  4320/64,  inciso  III  do  art.  106, quanto ao estoque de materiais devido a atipicidade do órgão em tela",
+      "trechos_identificados": [
+        {
+          "trecho": "maior  rigor  na  observação  da  Lei  n.  4320/64,  inciso  III  do  art.  106, quanto ao estoque de materiais devido a atipicidade do órgão em tela",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A Determinação para que seja dado maior rigor na observação da Lei n. 4320/64, inciso III do art. 106, quanto ao estoque de materiais devido a atipicidade do órgão em tela visa garantir a devida fiscalização, bem como o devido registro das movimentações de estoque de materiais",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4320/64",
+              "artigo": "106, III",
+              "descricao": "A lei 4.320/64 é a base legal para a administração financeira e orçamentária no Brasil. O artigo 106, III, se refere especificamente à necessidade de controle dos materiais em estoque, o que inclui a verificação de sua existência física e a avaliação de seu valor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "mantenha  arquivo  dos  processos  de  pagamento  de  diárias  instruídos com todos os elementos necessários a perfeita prestação de contas das viagens",
+      "trechos_identificados": [
+        {
+          "trecho": "mantenha  arquivo  dos  processos  de  pagamento  de  diárias  instruídos com todos os elementos necessários a perfeita prestação de contas das viagens",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A10B",
+          "tipologia_irregularidade": "Ausência de Gestão de Riscos",
+          "descricao": "Ausência do Relatório de Prestação de Contas de diárias",
+          "justificativa_tipologia": "A Determinação para que mantenha arquivo dos processos de pagamento de diárias instruídos com todos os elementos necessários a perfeita prestação de contas das viagens visa a devida Gestão de riscos, bem como da regularidade da documentação apresentada na Prestação de Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "verifique  se  o  valor  de  R$  693,40,  referente  à  restrição  nº  07,  foi devolvido pelo gestor",
+      "trechos_identificados": [
+        {
+          "trecho": "verifique  se  o  valor  de  R$  693,40,  referente  à  restrição  nº  07,  foi devolvido pelo gestor",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A2B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "A Determinação para verifique  se  o  valor  de  R$  693,40,  referente  à  restrição  nº  07,  foi devolvido pelo gestor tem como objetivo verificar se houve cumprimento de ressarcimento e a regularização contábil",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "verifique  se  o  valor  de  R$  1.690,50,  referente  à  restrição  nº  08,  foi devolvido pelo gestor",
+      "trechos_identificados": [
+        {
+          "trecho": "verifique  se  o  valor  de  R$  1.690,50,  referente  à  restrição  nº  08,  foi devolvido pelo gestor",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A2B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "A Determinação para verifique  se  o  valor  de  R$  1.690,50,  referente  à  restrição  nº  08,  foi devolvido pelo gestor tem como objetivo verificar se houve cumprimento de ressarcimento e a regularização contábil",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "verifique in  loco a  conformidade  do  relatório  de  Controle  Patrimonial apresentado nesta Prestação de Contas, às folhas 347-348",
+      "trechos_identificados": [
+        {
+          "trecho": "verifique in  loco a  conformidade  do  relatório  de  Controle  Patrimonial apresentado nesta Prestação de Contas, às folhas 347-348",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A27B",
+          "tipologia_irregularidade": "Gestão inadequada de estoque",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais",
+          "justificativa_tipologia": "A determinação para que se verifique in loco a conformidade do relatório de controle patrimonial apresentado tem como objetivo garantir a fidedignidade dos dados, promovendo a adequada Gestão de estoque, bem como da regularidade da documentação apresentada na Prestação de Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "verifique  o  cumprimento da implementação do sistema de controle de materiais",
+      "trechos_identificados": [
+        {
+          "trecho": "verifique  o  cumprimento da implementação do sistema de controle de materiais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos.",
+          "justificativa_tipologia": "A determinação para que seja verificado o cumprimento da implementação do sistema de controle de materiais visa mitigar a Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos, visando a correta identificação e rastreabilidade dos materiais",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "no  exercício  2015,  certifique  o  cumprido nos  prazos  das  publicações dos  balanços  do  SAAE  -  São  Sebastião  do  Uatumã,  estabelecido  no  art.  9.º,  da  Lei Complementar n.º 06/91 c/c o art. 2º, Parágrafo Único, VIII, da Resolução nº 05/90 desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "no  exercício  2015,  certifique  o  cumprido nos  prazos  das  publicações dos  balanços  do  SAAE  -  São  Sebastião  do  Uatumã,  estabelecido  no  art.  9.º,  da  Lei Complementar n.º 06/91 c/c o art. 2º, Parágrafo Único, VIII, da Resolução nº 05/90 desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A11C",
+          "tipologia_irregularidade": "Publicação do RREO até 30 dias após o encerramento do período",
+          "descricao": "Ausência de Justificativa para Adesão à Ata de Registro de Preço na condição de órgão não participante (Carona).",
+          "justificativa_tipologia": "A determinação para que seja certificado o cumprimento dos prazos das publicações dos balanços visa garantir a Transparência e a Publicação do RREO até 30 dias após o encerramento do período",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 06/91",
+              "artigo": "9",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas e o controle externo da administração pública estadual."
+            },
+            {
+              "norma": "Resolução nº 05/90",
+              "artigo": "2º, Parágrafo Único, VIII",
+              "descricao": "Estabelece normas sobre a apresentação das prestações de contas anuais pelos órgãos e entidades da administração pública estadual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "verifique o cumprimento das determinações do item V do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "verifique o cumprimento das determinações do item V do Relatório/Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A verificação do cumprimento das determinações do item V do Relatório/Voto visa garantir a implementação do Controle Interno insuficientemente implementado ou estruturado, bem como a implementação de boas práticas de gestão e execução orçamentária e financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

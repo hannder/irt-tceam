@@ -1,0 +1,108 @@
+{
+  "acordao": "292/2022",
+  "processo": "11319/2019",
+  "data_sessao": "22 de Março de 2022",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Maués - SAAE",
+  "municipio": "Maués",
+  "exercicio": "2018",
+  "responsavel": [
+    "Luiz Carlos Augusto Bentes Dinelli"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas do Sr. Luiz Carlos Augusto Bentes Dinelli , responsável pelo Serviço Autônomo de Água e Esgoto de Maués - SAAE, relativo ao exercício de 2018, nos termos do art. 22, inciso II e 24 da Lei n.º 2.423/96-LO/TCE, c/c art. 5°, II e art. 188, § 1° inciso II, da Resolução n° 04/2002-RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a Prestação de Contas do Sr. Luiz Carlos Augusto Bentes Dinelli , responsável pelo Serviço Autônomo de Água e Esgoto de Maués - SAAE, relativo ao exercício de 2018, nos termos do art. 22, inciso II e 24 da Lei n.º 2.423/96-LO/TCE, c/c art. 5°, II e art. 188, § 1° inciso II, da Resolução n° 04/2002-RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "Este trecho indica um julgamento formal da prestação de contas, sem detalhar irregularidades específicas. Apesar disso, a prestação de contas com ressalva, indica que alguns dados não foram devidamente comprovados, como no caso, VPD Pagas Antecipadamente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, inciso II e 24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "5°, II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "188, § 1° inciso II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao  Serviço  Autônomo  de  Água  e  Esgoto  de  Maués  SAAE, a observância das normas legais que norteiam boa Administração Pública,  devendo  tomar  ciências  das  impropriedades  apontadas  nas peças  técnicas  emitidas  nesta  instrução  processual,  especialmente  no item 4 e subitens, a fim de evitar o cometimento de futuras falhas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao  Serviço  Autônomo  de  Água  e  Esgoto  de  Maués  SAAE, a observância das normas legais que norteiam boa Administração Pública,  devendo  tomar  ciências  das  impropriedades  apontadas  nas peças  técnicas  emitidas  nesta  instrução  processual,  especialmente  no item 4 e subitens, a fim de evitar o cometimento de futuras falhas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de melhorias nos procedimentos internos para evitar futuras falhas, sugerindo deficiências no controle interno. O trecho indica a necessidade de fortalecer os mecanismos de controle interno para garantir a conformidade com as normas legais e evitar a recorrência de falhas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Notifique  o  interessado,  e  seu  patrono  se  houver,   com cópia das peças Técnicas, quais sejam: Relatório Conclusivo  e  Parecer  Ministerial,  Relatório/Voto  e  Acórdão para ter ciência do decisório.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notifique  o  interessado,  e  seu  patrono  se  houver,   com cópia das peças Técnicas, quais sejam: Relatório Conclusivo  e  Parecer  Ministerial,  Relatório/Voto  e  Acórdão para ter ciência do decisório.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Este trecho é uma determinação processual para notificar o responsável sobre a decisão, não indicando diretamente uma irregularidade ou problema estrutural na gestão, apenas que o responsável seja notificado.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após  a  ocorrência  da  coisa  julgada,  nos  termos  dos artigos  159  e  160,  da  Resolução  nº.  04/2002  -  RITCE/AM adote as providências do artigo 162, §1º, do RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Após  a  ocorrência  da  coisa  julgada,  nos  termos  dos artigos  159  e  160,  da  Resolução  nº.  04/2002  -  RITCE/AM adote as providências do artigo 162, §1º, do RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Este trecho é uma determinação processual para dar seguimento aos trâmites legais após o julgamento, não indicando diretamente uma irregularidade ou problema estrutural na gestão, apenas que o responsável siga os procedimentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "159 e 160",
+              "descricao": "Refere-se à Resolução que aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE/AM",
+              "artigo": "162, §1º",
+              "descricao": "Refere-se à Resolução que aprova o Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

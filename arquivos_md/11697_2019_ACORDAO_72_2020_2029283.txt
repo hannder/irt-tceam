@@ -1,0 +1,131 @@
+{
+  "acordao": "72/2020",
+  "processo": "11697/2019",
+  "data_sessao": "4 de Fevereiro de 2020",
+  "orgao": "Serviço  de  Pronto  Atendimento  Eliameme  Rodrigues  Mady  -  SPA  ZONA NORTE",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Karim Mohamed Tarayra"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  Anual  do  Serviço  de  Pronto Atendimento Eliameme Rodrigues Mady - SPA Zona Norte, que tinha como  responsável o Sr.  Karim  Mohamed  Tarayra (Diretor-Geral  à época), nos termos dos arts. 22, III, 'b' da Lei  n.  2.423/96,  c/c  o  art. 188, II e § 1º, III, 'b' da Resolução 04/02-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  Anual  do  Serviço  de  Pronto Atendimento Eliameme Rodrigues Mady - SPA Zona Norte, que tinha como  responsável o Sr.  Karim  Mohamed  Tarayra (Diretor-Geral  à época), nos termos dos arts. 22, III, 'b' da Lei  n.  2.423/96,  c/c  o  art. 188, II e § 1º, III, 'b' da Resolução 04/02-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A deliberação indica que a prestação de contas é irregular, o que sugere problemas na comprovação de despesas ou na gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.  2.423/96",
+              "artigo": "22",
+              "descricao": "Lei  n.  2.423/96,  c/c  o  art. 188, II e § 1º, III, 'b' da Resolução 04/02-TCE/AM"
+            },
+            {
+              "norma": "Resolução 04/02-TCE/AM",
+              "artigo": "188",
+              "descricao": "Lei  n.  2.423/96,  c/c  o  art. 188, II e § 1º, III, 'b' da Resolução 04/02-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Karim Mohamed  Tarayra no valor de R$13.654,39 (Treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco )  a  esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Karim Mohamed  Tarayra no valor de R$13.654,39 (Treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A aplicação de multa é uma sanção por descumprimento de normas, que pode estar relacionada a falhas na gestão fiscal, como o gasto com pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco )  a  esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do  Termo  de  Quitação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A aplicação de multa é uma sanção por descumprimento de normas, que pode estar relacionada a falhas na gestão fiscal, como o gasto com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  Orgânica  do  TCE/AM",
+              "artigo": "72",
+              "descricao": "art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM"
+            }
+          ]
+        },
+        {
+          "trecho": "O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A aplicação de multa é uma sanção por descumprimento de normas, que pode estar relacionada a falhas na gestão fiscal, como o gasto com pessoal.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao setor competente a instauração de Cobrança Executiva no caso de não recolhimento dos valores das condenações, conforme preceituado pelo art. 73, da Lei n. 2.423/96 e arts. 169, II, 173 e 308, § 6º, todos da Resolução 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao setor competente a instauração de Cobrança Executiva no caso de não recolhimento dos valores das condenações, conforme preceituado pelo art. 73, da Lei n. 2.423/96 e arts. 169, II, 173 e 308, § 6º, todos da Resolução 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A determinação para instaurar cobrança executiva está relacionada à gestão fiscal, especificamente à recuperação de dívidas ativas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "73",
+              "descricao": "Conforme preceituado pelo art. 73, da Lei n. 2.423/96"
+            },
+            {
+              "norma": "Resolução 04/02",
+              "artigo": "169",
+              "descricao": "arts. 169, II, 173 e 308, § 6º, todos da Resolução 04/02"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao  responsável  à  época, Sr.  Karim  Mohamed  Tarayra, sobre o desfecho atribuído a estes autos, bem como à atual Gestão do SPA  Zona  Norte  para  tomar  conhecimento  das  impropriedades  aqui identificadas e recomendar que não incorra novamente nos comportamentos  faltosos, em  especial a compra  fracionada e a realização de despesas sem empenho  prévio e sem cobertura contratual.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao  responsável  à  época, Sr.  Karim  Mohamed  Tarayra, sobre o desfecho atribuído a estes autos, bem como à atual Gestão do SPA  Zona  Norte  para  tomar conhecimento  das  impropriedades  aqui identificadas e recomendar que não incorra novamente nos comportamentos  faltosos, em  especial a compra  fracionada e a realização de despesas sem empenho  prévio e sem cobertura contratual.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A ciência se refere a compra fracionada e a realização de despesas sem empenho  prévio e sem cobertura contratual que são temas de Licitações e contratos",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

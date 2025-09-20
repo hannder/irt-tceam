@@ -1,0 +1,135 @@
+{
+  "acordao": "601/2022",
+  "processo": "11675/2021",
+  "data_sessao": "04 de Maio de 2022",
+  "orgao": "Fundo Estadual do Trabalho do Estado do Amazonas - FETAM",
+  "municipio": "Manaus",
+  "exercicio": "2020",
+  "responsavel": [
+    "Neila Maria Dantas Azrak"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual do Fundo Estadual do Trabalho do Estado do Amazonas - FETAM, referente ao exercício de 2020, de responsabilidade da Sra. Neila Maria Dantas Azrak, Diretora - Presidente do Fundo Estadual do Trabalho do Estado do Amazonas - FETAM e Ordenadora de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular com ressalvas a  Prestação  de  Contas  Anual  do  Fundo Estadual  do  Trabalho  do  Estado  do  Amazonas  -  FETAM,  referente  ao exercício  de  2020,  de  responsabilidade  da  Sra. Neila  Maria  Dantas Azrak, Diretora - Presidente do Fundo Estadual do Trabalho do Estado do Amazonas - FETAM e Ordenadora de Despesas, à época, nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da  Lei nº. 2423/1996  LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002  RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A tipologia contábil foi selecionada pois a prestação de contas foi julgada regular com ressalvas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "LOTCE/AM"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "LOTCE/AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "RITCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar quitação à Sra. Neila Maria Dantas Azrak , Diretora - Presidente do Fundo Estadual do Trabalho do Estado do Amazonas - FETAM e Ordenadora de Despesas, à época, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação à Sra. Neila Maria Dantas Azrak , Diretora - Presidente do Fundo  Estadual  do  Trabalho  do  Estado  do  Amazonas  -  FETAM e Ordenadora de Despesas, à época, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A26A",
+          "tipologia_irregularidade": "Falta de atividades de controle interno para transações financeiras",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "O texto se refere ao julgamento das contas, sem apontar irregularidades específicas que justifiquem a reincidência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "24",
+              "descricao": "LOTCE"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "72, inciso II",
+              "descricao": "LOTCE"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "189, inciso II",
+              "descricao": "RITCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "À  ORIGEM que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  em  futuras  prestações  de  contas  deixar  de planejar,  programar,  orçar  e  implementar  serviços  e  ações  mínimos  da política estadual de trabalho, na forma da lei.",
+      "trechos_identificados": [
+        {
+          "trecho": "À  ORIGEM que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  em  futuras  prestações  de  contas  deixar  de planejar,  programar,  orçar  e  implementar  serviços  e  ações  mínimos  da política estadual de trabalho, na forma da lei.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A14B",
+          "tipologia_irregularidade": "Atraso na execução física e financeira",
+          "descricao": "Não incorporação de Ativo ao patrimônio",
+          "justificativa_tipologia": "Foi classificado como Não realização de execução orçamentária no exercício devido a não implementação de serviços da politica estadual, demonstrando falha na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188",
+              "descricao": "Regimento Interno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno  que,  após  a  ocorrência  da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002  -  RITCE/AM,  adote  as  providências  do  artigo  162, §1º, do RITCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  do  Tribunal  Pleno  que,  após  a  ocorrência  da coisa  julgada,  nos  termos  dos  artigos  159  e  160,  da  Resolução  nº. 04/2002  -  RITCE/AM,  adote  as  providências  do  artigo  162, §1º, do RITCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve um procedimento interno do TCE, não indicando problemas de gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "159",
+              "descricao": "RITCE/AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "160",
+              "descricao": "RITCE/AM"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "162",
+              "descricao": "RITCE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

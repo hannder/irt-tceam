@@ -1,0 +1,81 @@
+{
+  "acordao": "27/2023",
+  "processo": "11708/2021",
+  "data_sessao": "28 de Março de 2023",
+  "orgao": "Prefeitura Municipal de Ipixuna",
+  "municipio": "Ipixuna",
+  "exercicio": "2020",
+  "responsavel": [
+    "Maria do Socorro de Paula Oliveira"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Sepleno,  o  encaminhamento,  após  a  publicação,  do Parecer  Prévio,  acompanhado  do  Voto  e  de  cópia  integral  destes autos  à  respectiva  Câmara  Municipal,  para  que,  nos  termos  do  art. 127, §§ 5º, 6º e 7º da Constituição do Estado do Amazonas, proceda ao  julgamento  das  contas  da  Prefeitura  Municipal  no prazo  de  60 (sessenta)  dias após  a  respectiva  publicação  no  Diário  Oficial  do Estado ou equivalente, ou, estando a Câmara Municipal em recesso, até o sexagésimo  dia  do  início  da  sessão  legislativa  seguinte; Decorrido esse prazo, sem deliberação pela Câmara Municipal, que as contas juntamente com o parecer do Tribunal sejam incluídos na ordem  do  dia,  sobrestando-se  a  deliberação  quanto  aos  demais assuntos,  para  que  ultime  a  votação;  O  parecer  prévio,  somente deixará  de  prevalecer  por  decisão  de  dois  terços  dos  membros  da Câmara Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Sepleno,  o  encaminhamento,  após  a  publicação,  do Parecer  Prévio,  acompanhado  do  Voto  e  de  cópia  integral  destes autos  à  respectiva  Câmara  Municipal,  para  que,  nos  termos  do  art. 127, §§ 5º, 6º e 7º da Constituição do Estado do Amazonas, proceda ao  julgamento  das  contas  da  Prefeitura  Municipal  no prazo  de  60 (sessenta)  dias após  a  respectiva  publicação  no  Diário  Oficial  do Estado ou equivalente, ou, estando a Câmara Municipal em recesso, até o sexagésimo  dia  do  início  da  sessão  legislativa  seguinte",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho determina o encaminhamento de documentos à Câmara Municipal, o que não configura uma irregularidade contábil direta, mas sim um procedimento administrativo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição do Estado do Amazonas",
+              "artigo": "127, §§ 5º, 6º e 7º",
+              "descricao": "Dispõe sobre o julgamento das contas da Prefeitura Municipal pela Câmara Municipal."
+            }
+          ]
+        },
+        {
+          "trecho": "Decorrido esse prazo, sem deliberação pela Câmara Municipal, que as contas juntamente com o parecer do Tribunal sejam incluídos na ordem  do  dia,  sobrestando-se  a  deliberação  quanto  aos  demais assuntos,  para  que  ultime  a  votação;  O  parecer  prévio,  somente deixará  de  prevalecer  por  decisão  de  dois  terços  dos  membros  da Câmara Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho especifica os procedimentos a serem seguidos caso a Câmara Municipal não se manifeste dentro do prazo, o que não configura uma irregularidade contábil direta.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  Geral de Controle Externo-SECEX  que extraia cópia dos autos e promova a autuação do processo autônomo fiscalização dos atos de gestão, para apreciação por este Tribunal Pleno",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Secretaria  Geral de Controle Externo-SECEX  que extraia cópia dos autos e promova a autuação do processo autônomo fiscalização dos atos de gestão, para apreciação por este Tribunal Pleno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para que a SECEX extraia cópia dos autos e autue o processo autônomo de fiscalização dos atos de gestão visa fortalecer o controle interno, assegurando que as ações administrativas sejam devidamente avaliadas e monitoradas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à Sra. Maria  do  Socorro  de  Paula  Oliveira, Prefeita Municipal  de  Ipixuna,  e  demais  interessados,  quanto  à  referida decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência à Sra. Maria  do  Socorro  de  Paula  Oliveira, Prefeita Municipal  de  Ipixuna,  e  demais  interessados,  quanto  à  referida decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A comunicação visa garantir a transparência e o conhecimento dos responsáveis sobre as decisões tomadas, permitindo que implementem as medidas corretivas necessárias e aprimorem os controles internos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

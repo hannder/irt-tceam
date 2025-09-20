@@ -1,0 +1,33 @@
+{
+  "acordao": "190/2016",
+  "processo": "10800/2015",
+  "data_sessao": "02 de março de 2016",
+  "orgao": "Fundo de Previdência Social do Município de Manacapuru - FUNPREVIM",
+  "municipio": "Manacapuru",
+  "exercicio": "2014",
+  "responsavel": [
+    "Robson Rogério Teles Bezerra"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular, com ressalvas",
+      "descricao": "Julgar regular, com ressalvas , nos termos do art. 1º, II, e art. 22, II, da Lei  n.  2423/96;  art.  18,  II,  da  LC  n.  6/91;  c/c  art.  188,  §1º,  II,  da  Res.  n.  4/2002,  a Prestação  de  Contas,  exercício  de  2014,  do  FUNPREVIM,  de  responsabilidade  do  Sr . Robson Rogério Teles Bezerra , Diretor-Presidente e Ordenador de Despesas, à época",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Nos termos dos arts. 24 e 72, II, da Lei nº. 2423/96, c/c art. 189,  II, da Res. n. 4/2002, dar quitação ao Sr. Robson Rogério Teles Bezerra, Diretor-Presidente do FUNPREVIM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhe à Administração do FUNPREVIM, cópias das peças emitidas pela Comissão de Inspeção e pela Representante  Ministerial,  visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos arts. 159 e 160, da Res. nº. 04/2002-RITCE, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": []
+    }
+  ]
+}

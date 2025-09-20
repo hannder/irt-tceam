@@ -1,0 +1,193 @@
+{
+  "acordao": "916/2018",
+  "processo": "11351/2017",
+  "data_sessao": "18 de Dezembro de 2018",
+  "orgao": "Câmara Municipal de Novo Airão",
+  "municipio": "Novo Airão",
+  "exercicio": "2016",
+  "responsavel": [
+    "Nerita de Castro Menezes"
+  ],
+  "itens": [
+    {
+      "tipo": "Revelia",
+      "descricao": "Considerar revel a Sra. Nerita de Castro Menezes , dando prosseguimento ao processo, nos termos do art. 20, §4°, da LO/TCE;",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel a Sra. Nerita de Castro Menezes , dando prosseguimento ao processo, nos termos do art. 20, §4°, da LO/TCE;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Este trecho é um procedimento formal do processo, indicando a revelia da Sra. Nerita de Castro Menezes e o prosseguimento do processo. Não indica, por si só, uma irregularidade ou problema de gestão, mas sim um ato processual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "20, §4°",
+              "descricao": "Dispõe sobre a revelia e o prosseguimento do processo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da Sra.Nerita  de  Castro Menezes , Vereadora-Presidente e Ordenadora de Despesa da Câmara Municipal de Novo Airão, exercício de 2016, nos termos do art. 22, III, 'b' e  'c',  da  Lei  2.423/96  c/c  o  art.  188,  §1º,  III,  'b'  e  'c',  da  Resolução 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da Sra.Nerita  de  Castro Menezes , Vereadora-Presidente e Ordenadora de Despesa da Câmara Municipal de Novo Airão, exercício de 2016, nos termos do art. 22, III, 'b' e  'c',  da  Lei  2.423/96 c/c o  art.  188,  §1º,  III,  'b'  e  'c',  da  Resolução 04/2002-TCE/AM;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A prestação de contas foi julgada irregular, indicando problemas na gestão dos recursos. A ausência de comprovação de valores pagos é uma falha grave que afeta a transparência e a legalidade da gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, III, 'b' e 'c'",
+              "descricao": "Dispõe sobre as irregularidades nas prestações de contas."
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188, §1º, III, 'b' e 'c'",
+              "descricao": "Regulamenta os processos de prestação de contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sra. Nerita de Castro Menezes no valor de R$ 286.016,90 (duzentos e oitenta e seis mil, dezesseis reais e noventa centavos), nos moldes do art. 304, inciso VI, da Resolução n° 04/2002RI/TCE,  que  devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão Prefeitura Municipal de Novo Airão, em face das restrições não sanadas transcritas na fundamentação deste Voto (itens 9, 11, 14, 15, 17,21, 23, 24 e 27 da Notificação n. 01/2017 - CI/DICAMI);",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sra. Nerita de Castro Menezes no valor de R$ 286.016,90 (duzentos e oitenta e seis mil, dezesseis reais e noventa centavos), nos moldes do art. 304, inciso VI, da Resolução n° 04/2002RI/TCE,  que  devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão Prefeitura Municipal de Novo Airão, em face das restrições não sanadas transcritas na fundamentação deste Voto (itens 9, 11, 14, 15, 17,21, 23, 24 e 27 da Notificação n. 01/2017 - CI/DICAMI);",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "A determinação de alcance indica que houve um prejuízo financeiro ao erário, o que é um forte indicativo de problemas graves na gestão dos recursos públicos. O desvio de recursos públicos é um tema central para o controle externo e para a garantia da correta aplicação dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002RI/TCE",
+              "artigo": "304, inciso VI",
+              "descricao": "Dispõe sobre o alcance em processos de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa à Sra. Nerita de Castro Menezes no valor de R$ 8.768,25 , (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos  do  art.  54,  II,  da  Lei  2.423/96  c/c  o  art.  308,  VI,  da  Resolução 04/2002, por atos praticados com grave infração à norma legal, referentes aos  itens  1  a  8,  10,  12,  13,  16,  18,  19,  20,  22,  25  e  26 transcritos  na fundamentação deste Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Nerita de Castro Menezes no valor de R$ 8.768,25 , (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos  do  art.  54,  II,  da  Lei  2.423/96  c/c  o  art.  308,  VI,  da  Resolução 04/2002, por atos praticados com grave infração à norma legal, referentes aos  itens  1  a  8,  10,  12,  13,  16,  18,  19,  20,  22,  25  e  26 transcritos  na fundamentação deste Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A aplicação de multa por grave infração à norma legal indica deficiências nos controles internos da gestão. A falta de implementação ou a estruturação inadequada do controle interno é um problema recorrente na gestão pública e é fundamental para a prevenção de irregularidades e para a garantia da legalidade e da eficiência na aplicação dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Dispõe sobre as multas aplicáveis por infração à norma legal."
+            },
+            {
+              "norma": "Resolução 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Regulamenta a aplicação de multas no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Dispõe sobre o encaminhamento do comprovante de pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa à Sra. Nerita de Castro Menezes no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do art. 54, inciso III, da Lei n° 2423/96 c/c o art. 308, V, da Resolução n° 04/2002, por atos de gestão de que resulte injustificado dano ao erário, referentes  aos  itens  9,  11,  14,  15,  17,21,  23,  24  e  27 , transcritos  na fundamentação Do relatório Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a',  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa à Sra. Nerita de Castro Menezes no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), nos termos do art. 54, inciso III, da Lei n° 2423/96 c/c o art. 308, V, da Resolução n° 04/2002, por atos de gestão de que resulte injustificado dano ao erário, referentes  aos  itens  9,  11,  14,  15,  17,21,  23,  24  e  27 , transcritos  na fundamentação Do relatório Voto, que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a',  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A aplicação de multa por dano ao erário reforça a ocorrência de irregularidades na execução orçamentária e financeira. A burla do processo legal de pagamento é um tema crítico que envolve a legalidade e a transparência dos gastos públicos, além de indicar um sério risco de desvio de recursos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2423/96",
+              "artigo": "54, inciso III",
+              "descricao": "Dispõe sobre as multas aplicáveis por dano ao erário."
+            },
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "308, V",
+              "descricao": "Regulamenta a aplicação de multas por dano ao erário no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Dispõe sobre o encaminhamento do comprovante de pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à  Câmara  Municipal  de  Novo  Airão,  das  impropriedades constantes  destes  autos,  remetendo-lhe  cópias  da  manifestação  da Unidade Técnica e Parecer Ministerial, determinando o cumprimento das Recomendações e Determinações listadas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência à  Câmara  Municipal  de  Novo  Airão,  das  impropriedades constantes  destes  autos,  remetendo-lhe  cópias  da  manifestação  da Unidade Técnica e Parecer Ministerial, determinando o cumprimento das Recomendações e Determinações listadas;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Dar ciência e determinar o cumprimento de recomendações são ações que visam a melhoria da gestão, mas não indicam, por si só, uma irregularidade ou problema de gestão, mas sim um ato processual.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o encaminhamento de cópias dos autos ao Ministério Público Estadual, de acordo com o inciso XXIV, artigo 1º, da Lei nº 2423/96, para adoção de medidas que entender necessárias.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o encaminhamento de cópias dos autos ao Ministério Público Estadual, de acordo com o inciso XXIV, artigo 1º, da Lei nº 2423/96, para adoção de medidas que entender necessárias.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Este trecho descreve o encaminhamento de cópias dos autos ao Ministério Público Estadual. Isso pode indicar uma suspeita de irregularidades que merecem investigação, mas a determinação por si só não configura uma irregularidade ou problema de gestão, mas sim um ato processual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "1º, XXIV",
+              "descricao": "Dispõe sobre o encaminhamento de informações ao Ministério Público."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

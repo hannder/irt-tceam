@@ -1,0 +1,109 @@
+{
+  "acordao": "2193/2022",
+  "processo": "11345/2018",
+  "data_sessao": "13 de dezembro de 2022",
+  "orgao": "Câmara Municipal de Presidente Figueiredo",
+  "municipio": "Presidente Figueiredo",
+  "exercicio": "2017",
+  "responsavel": [
+    "Patrícia Lopes Miranda"
+  ],
+  "itens": [
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  multa à  Sra. Patrícia  Lopes  Miranda no  valor  de R$ 1.706,80 (um mil,  setecentos  e  seis  reais  e  oitenta  centavos)  e  fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, com fundamento no art. 54, VII da Lei nº 2.423/1996 c/c art. 308, VII da  Resolução  TCE  nº  04/2002,  pela  restrição  nº  17  da  Informação Conclusiva  nº  28/2020-DICAMI,  na  esfera  Estadual  para  o  órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de  DAR  avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art.  73  da  Lei  Orgânica  do  TCE/AM),  ficando  o  DERED  autorizado, caso  expirado  o  referido  prazo,  a  adotar  as  medidas  previstas  nas subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  nº 04/2002-TCE/AM,  bem  como  proceder,  conforme  estabelecido  no Acordo  de  Cooperação  firmado  com  o  Instituto  de  Estudos  de Protesto  de  Títulos  do  Brasil  -  Seção  Amazonas  -  IEPTB/AM,  ao encaminhamento  do  título  executivo  para  protesto  em  nome  do responsável",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  multa à  Sra. Patrícia  Lopes  Miranda no  valor  de R$ 1.706,80 (um mil,  setecentos  e  seis  reais  e  oitenta  centavos)  e  fixar prazo de 30 dias para que o responsável recolha o valor da MULTA, com fundamento no art. 54, VII da Lei nº 2.423/1996 c/c art. 308, VII da  Resolução  TCE  nº  04/2002,  pela  restrição  nº  17  da  Informação Conclusiva  nº  28/2020-DICAMI,  na  esfera  Estadual  para  o  órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de  DAR  avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A descrição indica imposição de multa por restrição identificada, o que implica descumprimento de normas legais na execução orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/1996",
+              "artigo": "54, VII",
+              "descricao": "Aplica multa por irregularidade na prestação de contas."
+            },
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "308, VII",
+              "descricao": "Regulamenta a aplicação de multas por irregularidades."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Câmara Municipal de Presidente Figueiredo que:\n- Cumpra com o máximo zelo a Lei de Licitações e Contratos;\n- Observe com o máximo zelo as disposições da Lei Complementar nº 131/2009 - Lei da Transparência;\n- Observe com cautela a Lei complementar nº 101/2000;\n- Cumpra com o máximo rigor a Lei nº 4.320/64, bem como, as normas e princípios contábeis aceitos em território nacional.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à Câmara Municipal de Presidente Figueiredo que: - Cumpra com o máximo zelo a Lei de Licitações e Contratos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa.",
+          "justificativa_tipologia": "Recomendação para cumprimento da lei de licitações, essencial para boa gestão.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Recomendar à Câmara Municipal de Presidente Figueiredo que: - Observe com o máximo zelo as disposições da Lei Complementar nº 131/2009 - Lei da Transparência.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de zelo com a Lei da Transparência, relevante para a gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 131/2009",
+              "artigo": "Não aplicável",
+              "descricao": "Lei da Transparência"
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar à Câmara Municipal de Presidente Figueiredo que: - Observe com cautela a Lei complementar nº 101/2000.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "A recomendação indica a necessidade de cautela com a Lei de Responsabilidade Fiscal, essencial para a gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Responsabilidade Fiscal"
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar à Câmara Municipal de Presidente Figueiredo que: - Cumpra com o máximo rigor a Lei nº 4.320/64, bem como, as normas e princípios contábeis aceitos em território nacional.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A recomendação para cumprir a lei 4320/64 está relacionada ao zelo com os princípios contábeis, relevante para a gestão.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "Não aplicável",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "acordao": "492/2018",
+  "processo": "11380/2017",
+  "data_sessao": "31 de Julho de 2018",
+  "orgao": "Fundo de Aposentadoria e Pensões do Município de Canutama - FAPEMUC",
+  "municipio": "Canutama",
+  "exercicio": "2016",
+  "responsavel": [
+    "Barnabé Andrade Leitão"
+  ],
+  "itens": [
+    {
+      "tipo": "Revelia",
+      "descricao": "Considerar revel o Sr. Barnabé Andrade Leitão nos termos do art. 20, § 4º, da Lei nº 2.423/96;",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar revel o Sr. Barnabé Andrade Leitão nos termos do art. 20, § 4º, da Lei nº 2.423/96;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de registro no e-contas;",
+          "descricao": "Inobservancia do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho é meramente informativo e não se relaciona diretamente a nenhum tema das listas fornecidas",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "20, § 4º",
+              "descricao": "Consideração de revelia do Sr. Barnabé Andrade Leitão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Barnabé Andrade Leitão , Diretor-Presidente do Fundo de  Aposentadoria e Pensões do  Município de Canutama - FAPEMUC, exercício de 2016, conforme art. 22, III, da Lei nº 2.423/96 c/c art. 188, § 1º, III, 'b', da Resolução nº 04/02- RI TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr. Barnabé Andrade Leitão , Diretor-Presidente do Fundo de  Aposentadoria e Pensões do  Município de Canutama - FAPEMUC, exercício de 2016, conforme art. 22, III, da Lei nº 2.423/96 c/c art. 188, § 1º, III, 'b', da Resolução nº 04/02- RI TCE/AM;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de registro no e-contas;",
+          "descricao": "Inobservancia do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho descreve o julgamento irregular das contas e a não observância da legislação contábil e previdenciária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Julgamento irregular da Prestação de Contas."
+            },
+            {
+              "norma": "Resolução nº 04/02- RI TCE/AM",
+              "artigo": "188, § 1º, III, 'b'",
+              "descricao": "Julgamento irregular da Prestação de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Barnabé Andrade Leitão no valor de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com  grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto, que devem ser recolhidos na esfera Estadual para o órgão Secretaria de Estado da Fazenda - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias ;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Barnabé Andrade Leitão no valor de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com  grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, devido às restrições elencadas na fundamentação do Voto, que devem ser recolhidos na esfera Estadual para o órgão Secretaria de Estado da Fazenda - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias ;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa por infração grave à norma legal em diversas áreas, incluindo contábil, financeira, orçamentária, operacional e patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Aplicação de multa por ato praticado com grave infração."
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, VI",
+              "descricao": "Aplicação de multa por ato praticado com grave infração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Barnabé Andrade Leitão no valor de R$ 4.384,12 (quatro mil trezentos e oitenta e quatro reais e doze centavos) nos termos do art. 54, VII, da Lei n° 2.423/96 c/c o art. 308,  IV, 'b', da Resolução 4/2002, por reincidência no descumprimento de determinação do Tribunal, devido  às restrições elencadas na fundamentação deste Voto, que devem ser recolhidos na esfera Estadual para o órgão Secretaria de Estado da Fazenda - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias ;",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Barnabé Andrade Leitão no valor de R$ 4.384,12 (quatro mil trezentos e oitenta e quatro reais e doze centavos) nos termos do art. 54, VII, da Lei n° 2.423/96 c/c o art. 308,  IV, 'b', da Resolução 4/2002, por reincidência no descumprimento de determinação do Tribunal, devido  às restrições elencadas na fundamentação deste Voto, que devem ser recolhidos na esfera Estadual para o órgão Secretaria de Estado da Fazenda - SEFAZ. O recolhimento deve ser feito no prazo de 30 dias ;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A17A",
+          "tipologia_irregularidade": "Aplicação de 25% da receita vinculável na Manutenção e Desenvolvimento do Ensino",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa por reincidência no descumprimento de determinação do Tribunal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, VII",
+              "descricao": "Aplicação de multa por reincidência no descumprimento de determinação do Tribunal."
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, IV, 'b'",
+              "descricao": "Aplicação de multa por reincidência no descumprimento de determinação do Tribunal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização  previdenciária,  conforme  itens  de  restrições  elencados  no Relatório da Unidade Técnica;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização  previdenciária,  conforme  itens  de  restrições  elencados  no Relatório da Unidade Técnica;",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A1B",
+          "tipologia_irregularidade": "Estrutura física do Departamento inadequada para o desempenho das funções/atribuídas e delegadas ao RPPS",
+          "descricao": "Espaço inadequado pode ocasionar má gestão de organização documental necessária a gestão pessoal dos segurados, consequentemente perda ou arquivamento equivocado das informações. Informações e execuções das atividades essências por apenas um servidor pode ocasionar a centralização dessas informações com risco da descontinuidade dos serviços rotineiros, caso este servidor venha se afastar por situações adversas. Não dispondo de controle processual e Procedimentos Padrão Operacional da tramitação dos processos, corre-se risco da perda de prazos legais a serem cumpridos ou processos ficarem paralisados sem informações e passadas a parte interessada.",
+          "justificativa_tipologia": "O trecho determina a observância das normas sobre a gestão e organização previdenciária, conforme os itens de restrições elencados no Relatório da Unidade Técnica.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que oriente as próximas Comissões designadas a vistoriar o RPPS  do Município de Canutama que verifiquem o cumprimento das determinações elencadas no Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que oriente as próximas Comissões designadas a vistoriar o RPPS  do Município de Canutama que verifiquem o cumprimento das determinações elencadas no Relatório/Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A1B",
+          "tipologia_irregularidade": "Estrutura física do Departamento inadequada para o desempenho das funções/atribuídas e delegadas ao RPPS",
+          "descricao": "Espaço inadequado pode ocasionar má gestão de organização documental necessária a gestão pessoal dos segurados, consequentemente perda ou arquivamento equivocado das informações. Informações e execuções das atividades essências por apenas um servidor pode ocasionar a centralização dessas informações com risco da descontinuidade dos serviços rotineiros, caso este servidor venha se afastar por situações adversas. Não dispondo de controle processual e Procedimentos Padrão Operacional da tramitação dos processos, corre-se risco da perda de prazos legais a serem cumpridos ou processos ficarem paralisados sem informações e passadas a parte interessada.",
+          "justificativa_tipologia": "O trecho determina que a SECEX oriente as próximas Comissões a verificar o cumprimento das determinações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

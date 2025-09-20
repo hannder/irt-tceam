@@ -1,0 +1,118 @@
+{
+  "acordao": "1034/2019",
+  "processo": "11642/2018",
+  "data_sessao": "08 de Outubro de 2019",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Itacoatiara - SAAE",
+  "municipio": "Itacoatiara",
+  "exercicio": "2017",
+  "responsavel": [
+    "Emerson Carvalho de Franca"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Serviço Autônomo de Água  e  Esgoto  de  Itacoatiara  -  SAAE,  de  responsabilidade  do  Srr. Emerson Carvalho de Franca , Diretor-Presidente do SAAEItacoatiara, referente ao exercício de 2017, nos termos do art. 71, II, c/c o  art.  75  da  Constituição  Federal,  art.  1º,  II,  c/c  art.  22,  I,  da  Lei Estadual  n.  2.423/1996-LOTCE/AM,  e  art.  188,  §  1º,  I,  da  Resolução TCE n. 04/2002-RI/TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Serviço Autônomo de Água  e  Esgoto  de  Itacoatiara  -  SAAE,  de  responsabilidade  do  Srr. Emerson Carvalho de Franca , Diretor-Presidente do SAAEItacoatiara, referente ao exercício de 2017, nos termos do art. 71, II, c/c o  art.  75  da  Constituição  Federal,  art.  1º,  II,  c/c  art.  22,  I,  da  Lei Estadual  n.  2.423/1996-LOTCE/AM,  e  art.  188,  §  1º,  I,  da  Resolução TCE n. 04/2002-RI/TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere ao julgamento formal da prestação de contas, sendo este regular",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos"
+            },
+            {
+              "norma": "Constituição Federal",
+              "artigo": "75",
+              "descricao": "As normas estabelecidas para o Tribunal de Contas da União aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal"
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996-LOTCE/AM",
+              "artigo": "1º, II",
+              "descricao": "Define a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei Estadual n. 2.423/1996-LOTCE/AM",
+              "artigo": "22, I",
+              "descricao": "Processo de julgamento das contas"
+            },
+            {
+              "norma": "Resolução TCE n. 04/2002-RI/TCE/AM",
+              "artigo": "188, § 1º, I",
+              "descricao": "Normas sobre o processo de contas no âmbito do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao Sr. Emerson Carvalho de Franca , Diretor-Presidente do SAAE-Itacoatiara, exercício de 2017, nos termos do art. 23, da Lei Estadual n. 2.423/1996-LOTCE/AM, c/c art. 189, I, da Resolução TCE n. 04/2002-RI/TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao Sr. Emerson Carvalho de Franca , Diretor-Presidente do SAAE-Itacoatiara, exercício de 2017, nos termos do art. 23, da Lei Estadual n. 2.423/1996-LOTCE/AM, c/c art. 189, I, da Resolução TCE n. 04/2002-RI/TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere ao julgamento formal da prestação de contas, sendo este regular",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/1996-LOTCE/AM",
+              "artigo": "23",
+              "descricao": "Define a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução TCE n. 04/2002-RI/TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Normas sobre o processo de contas no âmbito do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno, para que oficie ao Responsável  sobre  o  teor  deste  Acórdão,  acompanhando  cópia  do Relatório-Voto para conhecimento",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Secretaria do Tribunal Pleno, para que oficie ao Responsável  sobre  o  teor  deste  Acórdão,  acompanhando  cópia  do Relatório-Voto para conhecimento",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho apresenta apenas uma determinação sobre o tramite do processo, sem indicação de irregularidade",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o presente processo, após cumpridas as formalidades legais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o presente processo, após cumpridas as formalidades legais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho apresenta apenas uma determinação sobre o tramite do processo, sem indicação de irregularidade",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "acordao": "1188/2020",
+  "processo": "11280/2017",
+  "data_sessao": "16 de Dezembro de 2020",
+  "orgao": "Secretaria Municipal de Educação - SEMED",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Katia Helena Serafina Cruz Schweickardt"
+  ],
+  "itens": [
+    {
+      "tipo": "deliberação",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Secretaria Municipal de Educação - SEMED, exercício de 2016, de responsabilidade da Sra. Katia Helena Serafina Cruz Schweickardt , com fundamento no art. 22, II da Lei Orgânica nº 2423/1996",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Modernize os seus procedimentos internos, tornando-os mais céleres e fortaleça a fiscalização de seus contratos, nos termos da Lei nº 8666/93 e legislação correlata",
+      "trechos_identificados": [
+        {
+          "trecho": "Modernize os seus procedimentos internos, tornando-os mais céleres.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Procedimentos internos precisam ser modernizados para maior eficiência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8666/93",
+              "artigo": "Não consta",
+              "descricao": "Lei de Licitações e Contratos"
+            }
+          ]
+        },
+        {
+          "trecho": "fortaleça a fiscalização de seus contratos, nos termos da Lei nº 8666/93 e legislação correlata",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "Necessidade de fortalecer a fiscalização dos contratos para garantir a regularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8666/93",
+              "artigo": "Não consta",
+              "descricao": "Lei de Licitações e Contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "As compras de alimentos (merenda escolar) realizadas pela Secretaria Municipal de Manaus  partam  dos  cardápios propostos e aprovados por nutricionistas, e que haja fiscalização mais efetiva de tais aquisições",
+      "trechos_identificados": [
+        {
+          "trecho": "As compras de alimentos (merenda escolar) realizadas pela Secretaria Municipal de Manaus  partam  dos  cardápios propostos e aprovados por nutricionistas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A61B",
+          "tipologia_irregularidade": "Análise e verificação do Processo de planejamento, aquisição, recebimento, armazenagem e distribuição da Merenda Escolar",
+          "descricao": "Os cardápios não refletem uma pesquisa ampla e consistente sobre o perfil, necessidades nutricionais e de saúde, quantitativos atualizados dos alunos, carga horária total dos matriculados e grau de aceitabilidade dos produtos?",
+          "justificativa_tipologia": "As compras devem seguir cardápios aprovados para garantir a qualidade nutricional da merenda.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "que haja fiscalização mais efetiva de tais aquisições",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A6B",
+          "tipologia_irregularidade": "Despesas com recursos do FUNDEB estranhas à Manutenção e Desenvolvimento do Ensino - MDE (não de folha)",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "Necessidade de fiscalização para garantir a aplicação correta dos recursos na merenda escolar.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ao realizar a renovação ou na confecção de nova contratação para a continuidade do Programa, a Secretaria justifique  de  forma  clara  e  inequívoca  a  composição  dos custos  da  contratação  e  realize  amplo  planejamento  que contemple a solução dos problemas constatados",
+      "trechos_identificados": [
+        {
+          "trecho": "Ao realizar a renovação ou na confecção de nova contratação para a continuidade do Programa, a Secretaria justifique  de  forma  clara  e  inequívoca  a  composição  dos custos  da  contratação.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "realize  amplo  planejamento  que contemple a solução dos problemas constatados",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Realize  amplo  planejamento  que contemple a solução dos problemas constatados",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Seja feito um plano de ações para o treinamento adequado das merendeiras que atendem ao público da Secretaria ou que,  em  caso  de  serviço  terceirizado,  que  se  exija  tal qualificação das empresas a serem contratadas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Seja feito um plano de ações para o treinamento adequado das merendeiras que atendem ao público da Secretaria ou que,  em  caso  de  serviço  terceirizado,  que  se  exija  tal qualificação das empresas a serem contratadas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A72B",
+          "tipologia_irregularidade": "Análise e verificação do Processo de planejamento, aquisição, recebimento, armazenagem e distribuição da Merenda Escolar",
+          "descricao": "Deficiências no POP e falta de padronização nos documentos de controle do Recebimento no Depósito Central",
+          "justificativa_tipologia": "Treinamento inadequado para as merendeiras é uma deficiência a ser sanada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Providencie  medidas  necessárias  para  acompanhamento dos  dados  inseridos  no  portal  da  transparência  evitando assim  divergências  de  informações,  e  consequentemente facilitando  uma  melhor  analise  e  compreensão  dos  dados disponíveis pela sociedade.",
+      "trechos_identificados": [
+        {
+          "trecho": "Providencie  medidas  necessárias  para  acompanhamento dos  dados  inseridos  no  portal  da  transparência  evitando assim  divergências  de  informações,  e  consequentemente facilitando  uma  melhor  analise  e  compreensão  dos  dados disponíveis pela sociedade.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "Acompanhamento dos dados para evitar divergências e facilitar a análise e compreensão pela sociedade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Realize acompanhamento e controle dos Restos a Pagar junto a SEMEF.",
+      "trechos_identificados": [
+        {
+          "trecho": "Realize acompanhamento e controle dos Restos a Pagar junto a SEMEF.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A4B",
+          "tipologia_irregularidade": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "descricao": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "justificativa_tipologia": "Restos a Pagar de exercícios anteriores pendentes de regularização",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "A redução ao mínimo necessário de materiais impressos e a reversão desses recursos nos programas tecnológicos da Secretaria,  atendendo  às  diretrizes de modernização da própria Administração Municipal",
+      "trechos_identificados": [
+        {
+          "trecho": "A redução ao mínimo necessário de materiais impressos e a reversão desses recursos nos programas tecnológicos da Secretaria,  atendendo  às  diretrizes de modernização da própria Administração Municipal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O uso excessivo de material impresso aponta para deficiências na gestão de recursos e modernização.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "O atendimento das normas legais de elaboração e registro dos demonstrativos contábeis obrigatórios, conforme Lei nº 4.320/1964 e Manuais de Contabilidade Aplicadas ao Setor Público da Secretaria do Tesouro Nacional",
+      "trechos_identificados": [
+        {
+          "trecho": "O atendimento das normas legais de elaboração e registro dos demonstrativos contábeis obrigatórios, conforme Lei nº 4.320/1964 e Manuais de Contabilidade Aplicadas ao Setor Público da Secretaria do Tesouro Nacional",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "É fundamental que os demonstrativos contábeis sejam elaborados e registrados conforme as normas legais para garantir a transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "Não consta",
+              "descricao": "Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Atendimento  as  normas  legais  que  dizem  respeito  ao controle dos bens patrimoniais",
+      "trechos_identificados": [
+        {
+          "trecho": "Atendimento  as  normas  legais  que  dizem  respeito  ao controle dos bens patrimoniais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Deficiência quanto ao registro dos ativos, pois em conferencia da carga patrimonial foi identificado.",
+          "justificativa_tipologia": "Atendimento  as  normas  legais  que  dizem  respeito  ao controle dos bens patrimoniais",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Em Contratos e Obras de Engenharia sob a jurisdição do Tribunal  de  Contas  do  Estado  do  Amazonas  -  TCE/AM, deverão ser  observadas  as  disposições  de  controle  interno contidas na Resolução nº 027/2012 - TCE/AM, especialmente no que tange à manutenção da 'pasta de obra' (art. 1º, IV)",
+      "trechos_identificados": [
+        {
+          "trecho": "Em Contratos e Obras de Engenharia sob a jurisdição do Tribunal  de  Contas  do  Estado  do  Amazonas  -  TCE/AM, deverão ser  observadas  as  disposições  de  controle  interno contidas na Resolução nº 027/2012 - TCE/AM, especialmente no que tange à manutenção da 'pasta de obra' (art. 1º, IV)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A22B",
+          "tipologia_irregularidade": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "descricao": "Ausência do Diário de obras ou documentação equivalente com registros de acompanhamento da fiscalização",
+          "justificativa_tipologia": "A manutenção da 'pasta de obra' é essencial para o controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 027/2012 - TCE/AM",
+              "artigo": "1º, IV",
+              "descricao": "Disposições de controle interno para contratos e obras de engenharia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à Sra. Katia Helena  Serafina  Cruz  Schweickardt , Secretária  Municipal,  e  seus  advogados,  bem  como  todos  os  demais interessados e respectivos Procuradores, caso tenham, com cópia do Relatório/Voto e Acórdão, a fim de que possam cumprir as determinações nele contidas ou interponham o Recurso cabível.",
+      "trechos_identificados": []
+    }
+  ]
+}

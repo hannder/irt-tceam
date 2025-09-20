@@ -1,0 +1,111 @@
+{
+  "acordao": "1815/2024",
+  "processo": "11986/2023",
+  "data_sessao": "5 de Novembro de 2024",
+  "orgao": "Serviço Autônomo de Água e Esgoto de Barcelos - SAAE",
+  "municipio": "Barcelos",
+  "exercicio": "2022",
+  "responsavel": [
+    "Salvador Florencio da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a  Prestação de Contas do Sr.  Salvador Florêncio da Silva ,  responsável pelo Serviço Autônomo de Água e Esgoto de Barcelos, exercício de 2022",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a  Prestação de Contas do Sr.  Salvador Florêncio da Silva ,  responsável pelo Serviço Autônomo de Água e Esgoto de Barcelos, exercício de 2022",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Julgamento irregular das contas devido a ausência de comprovação de valores no balanço patrimonial.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A decisão de julgar irregular a prestação de contas indica que houve problemas na comprovação de valores, especificamente na conta ‘VPD Pagas Antecipadamente’ do Balanço Patrimonial. Essa ausência de comprovação sugere uma falha na gestão contábil e financeira da entidade.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  Multa no  valor  total de R$  38.654,40 (trinta e  oito mil, seiscentos  e  cinquenta  e  quatro  reais  e  quarenta  centavos)  ao Sr. Salvador Florêncio da Silva , conforme descrição abaixo:\n\n10.3.1. no valor de R$ 25.000,00 nos termos do art. 54, VI, da Lei n.º 2.423/96 c/c art. 308, VI, do RI-TCE/AM, em face dos achados nº 02, 03, 04, 05, 09, 11, 12, 13, 14, 15, itens 'a' a 'f', 16, itens 'a' a 'e' e 17, itens 'a' a 'e', da notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97);",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa no  valor  total de R$  38.654,40 (trinta e  oito mil, seiscentos  e  cinquenta  e  quatro  reais  e  quarenta  centavos)  ao Sr. Salvador Florêncio da Silva , conforme descrição abaixo:\n\n10.3.1. no valor de R$ 25.000,00 nos termos do art. 54, VI, da Lei n.º 2.423/96 c/c art. 308, VI, do RI-TCE/AM, em face dos achados nº 02, 03, 04, 05, 09, 11, 12, 13, 14, 15, itens 'a' a 'f', 16, itens 'a' a 'e' e 17, itens 'a' a 'e', da notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97)",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Aplicação de multa devido a não implementação do controle interno, conforme verificado em diversos achados de auditoria.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97)\"; justificativa=\"A multa é aplicada devido a múltiplos achados, indicando falhas generalizadas no controle interno. A não implementação do controle interno é uma irregularidade grave, pois compromete a gestão eficiente e transparente dos recursos públicos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54",
+              "descricao": "Define os critérios para aplicação de multas por irregularidades na gestão pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "10.3.2. no  valor  de R$ 6.827,19 nos  termos  do  art.  54,  V,  da  Lei  n.º 2.423/96 c/c art. 308, V, do RI-TCE/AM, em face dos danos ao erário descritos  nos  achados  nº  06,  item  'a',  07,  item  'a',  08  e  10  da notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97);",
+      "trechos_identificados": [
+        {
+          "trecho": "no  valor  de R$ 6.827,19 nos  termos  do  art.  54,  V,  da  Lei  n.º 2.423/96 c/c art. 308, V, do RI-TCE/AM, em face dos danos ao erário descritos  nos  achados  nº  06,  item  'a',  07,  item  'a',  08  e  10  da notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97)",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Aplicação de multa devido a dano ao erário, possivelmente por burla ao processo legal de pagamento, conforme achados da auditoria.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"notificação n.º 03/2023-CI/DICAMI/SAAE BARCELOS (fls. 93/97)\"; justificativa=\"A multa é aplicada devido a dano ao erário, com indícios de burla ao processo legal de pagamento, conforme apontado nos achados da notificação. A burla ao processo de pagamento é uma irregularidade grave, pois compromete a transparência e legalidade da gestão financeira.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54",
+              "descricao": "Define os critérios para aplicação de multas por irregularidades na gestão pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "10.3.3. no valor de R$ 6.827,20 , nos termos do art. 54, I, 'a', da Lei n.º 2.423/96 c/c art. 308, I, 'a', do RI-TCE/AM, em face do encaminhamento intempestivo de dados pertinentes às competências de janeiro, fevereiro, março e agosto de 2022, em desobediência aos comandos do art. 15 c/c art. 20 da Lei Complementar n.º 06/1991.",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 6.827,20 , nos termos do art. 54, I, 'a', da Lei n.º 2.423/96 c/c art. 308, I, 'a', do RI-TCE/AM, em face do encaminhamento intempestivo de dados pertinentes às competências de janeiro, fevereiro, março e agosto de 2022, em desobediência aos comandos do art. 15 c/c art. 20 da Lei Complementar n.º 06/1991.",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Aplicação de multa devido ao envio intempestivo de dados, em descumprimento aos prazos estabelecidos na legislação.",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A multa é aplicada devido ao envio intempestivo de dados, caracterizando descumprimento de prazos legais. O envio fora do prazo dos balancetes é uma irregularidade que prejudica a transparência e o controle das contas públicas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54",
+              "descricao": "Define os critérios para aplicação de multas por irregularidades na gestão pública."
+            },
+            {
+              "norma": "Lei Complementar n.º 06/1991",
+              "artigo": "15",
+              "descricao": "Define o prazo de envio de balancetes mensais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à atual gestão do SAAE de Barcelos que se abstenha de realizar as irregularidades identificadas pela CI-DICAMI, sob pena de aplicação de sanção pecuniária e desaprovação de vindouras Contas Anuais",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à atual gestão do SAAE de Barcelos que se abstenha de realizar as irregularidades identificadas pela CI-DICAMI, sob pena de aplicação de sanção pecuniária e desaprovação de vindouras Contas Anuais",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Determinação para que a gestão atual se abstenha de praticar as irregularidades identificadas, sob pena de sanção.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"CI-DICAMI\"; justificativa=\"A determinação para que a gestão atual se abstenha de praticar irregularidades, sob pena de sanção, está relacionada à não implementação do controle interno, já que a determinação visa evitar a repetição de falhas identificadas em auditoria. A recorrência de tais falhas impacta diretamente na efetividade da gestão pública.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

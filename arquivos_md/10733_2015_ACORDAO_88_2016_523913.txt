@@ -1,0 +1,143 @@
+{
+  "acordao": "88/2016",
+  "processo": "10733/2015",
+  "data_sessao": "03 de Fevereiro de 2016",
+  "orgao": "Fundo de Previdência Social do Município de Caapiranga - FUNPREVIC",
+  "municipio": "Caapiranga",
+  "exercicio": "2014",
+  "responsavel": [
+    "Francisco Adoniran Macena da Costa"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas do Fundo de Previdência Social do Município de Caapiranga - FUNPREVIC, exercício de 2014, sob a responsabilidade do Sr. Francisco Adoniran Macena da Costa, Diretor-Presidente do FUNPREVIC, com fulcro no Art. 22, III, alínea 'b' da lei 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas do Fundo de Previdência Social do Município de Caapiranga - FUNPREVIC, exercício de 2014, sob a responsabilidade do Sr. Francisco Adoniran Macena da Costa, Diretor-Presidente do FUNPREVIC, com fulcro no Art. 22, III, alínea 'b' da lei 2423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de documentos elencados junto á Prestação de Contas",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução TCE/AM nº 04/2016.",
+          "justificativa_tipologia": "A irregularidade na prestação de contas indica uma falha grave no cumprimento das normas de transparência e responsabilidade na gestão de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "22",
+              "descricao": "Fundamenta a decisão de julgar irregular a prestação de contas devido a irregularidades encontradas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Francisco Adoniran Macena da Costa, DiretorPresidente do FUNPREVIC, no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do artigo 308, VI da Resolução 04/2002TCE por pratica de atos com grave infração as normas legais",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Francisco Adoniran Macena da Costa, DiretorPresidente do FUNPREVIC, no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do artigo 308, VI da Resolução 04/2002TCE por pratica de atos com grave infração as normas legais",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de documentos elencados junto á Prestação de Contas",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução TCE/AM nº 04/2016.",
+          "justificativa_tipologia": "A sanção é aplicada devido a irregularidades na prestação de contas, indicando uma falha no cumprimento das normas de gestão financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002-TCE",
+              "artigo": "308",
+              "descricao": "Artigo que fundamenta a aplicação de multa por atos com grave infração às normas legais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Fixar o Prazo de 30 (trinta) dias para o recolhimento da multa aos cofres da Fazenda Estadual, com a devida comprovação perante  a este Tribunal, nos termos dos arts. 72, III, da Lei nº 2.423/96. Expirado prazo estabelecido, o valor da multa deverá ser  atualizado  monetariamente  (art.  55,  da  Lei  nº  2.423/96  c/c  o  art.  308,  §  3º  da Resolução nº 04/2002-TCE/AM), autorizando desde já a inscrição da penalidade na dívida ativa e a  instauração da cobrança executiva em caso de não-recolhimento  do valor da condenação, ex vi do art. 173, do Regimento Interno deste Tribunal de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o Prazo de 30 (trinta) dias para o recolhimento da multa aos cofres da Fazenda Estadual, com a devida comprovação perante  a este Tribunal, nos termos dos arts. 72, III, da Lei nº 2.423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de documentos elencados junto á Prestação de Contas",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução TCE/AM nº 04/2016.",
+          "justificativa_tipologia": "A determinação de prazo para recolhimento da multa e a forma de cobrança são procedimentos padrão para garantir o cumprimento da decisão do tribunal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "72",
+              "descricao": "Artigo que estabelece as condições para o recolhimento de multas aos cofres da Fazenda Estadual."
+            }
+          ]
+        },
+        {
+          "trecho": "Expirado prazo estabelecido, o valor da multa deverá ser  atualizado  monetariamente  (art.  55,  da  Lei  nº  2.423/96  c/c  o  art.  308,  §  3º  da Resolução nº 04/2002-TCE/AM), autorizando desde já a inscrição da penalidade na dívida ativa e a  instauração da cobrança executiva em caso de não-recolhimento  do valor da condenação, ex vi do art. 173, do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de documentos elencados junto á Prestação de Contas",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução TCE/AM nº 04/2016.",
+          "justificativa_tipologia": "A determinação de atualização monetária da multa e inscrição em dívida ativa são medidas para garantir a efetividade da cobrança.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "55",
+              "descricao": "Artigo que estabelece a atualização monetária da multa."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308",
+              "descricao": "Artigo que autoriza a inscrição da penalidade na dívida ativa."
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Artigo que autoriza a instauração da cobrança executiva em caso de não recolhimento do valor da condenação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Representar contra o Sr. Francisco Adoniran Macena da Costa, DiretorPresidente do FUNPREVIC, ao  Ministério Público Estadual, enviando-lhe cópia  integral dos autos, para que adote as medidas que entender pertinentes",
+      "trechos_identificados": [
+        {
+          "trecho": "Representar contra o Sr. Francisco Adoniran Macena da Costa, DiretorPresidente do FUNPREVIC, ao  Ministério Público Estadual, enviando-lhe cópia  integral dos autos, para que adote as medidas que entender pertinentes",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de documentos elencados junto á Prestação de Contas",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução TCE/AM nº 04/2016.",
+          "justificativa_tipologia": "A representação ao Ministério Público Estadual indica a necessidade de investigação de possíveis irregularidades e responsabilização dos envolvidos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Oficiar ao  Ministério da  Previdência para que  fique ciente das irregularidades na gestão do Fundo de Previdência Social do Município de Caapiranga",
+      "trechos_identificados": [
+        {
+          "trecho": "Oficiar ao  Ministério da  Previdência para que  fique ciente das irregularidades na gestão do Fundo de Previdência Social do Município de Caapiranga.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A44B",
+          "tipologia_irregularidade": "Ausência de documentos elencados junto á Prestação de Contas",
+          "descricao": "Ausência dos documentos abaixo relacionados junto à Prestação de Contas, em descumprimento às exigências do art. 2º, da Resolução TCE/AM nº 04/2016.",
+          "justificativa_tipologia": "O envio de ofício ao Ministério da Previdência visa informar sobre as irregularidades encontradas para que o órgão possa tomar as medidas cabíveis.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

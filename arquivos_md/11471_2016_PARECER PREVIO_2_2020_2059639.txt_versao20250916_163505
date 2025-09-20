@@ -1,0 +1,351 @@
+{
+  "acordao": "2/2020",
+  "processo": "11471/2016",
+  "data_sessao": "10 de Março de 2020",
+  "orgao": "Prefeitura Municipal de Iranduba",
+  "municipio": "Iranduba",
+  "exercicio": "2015",
+  "responsavel": [
+    "Xinaik Silva de Medeiros",
+    "Maria Madalena de Jesus Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Prefeitura Municipal de Iranduba, exercício 2015, sob a responsabilidade do Sr.Xinaik  Silva  de  Medeiros ,  Prefeito  e  Ordenador  de  Despesas, período de  01/01/2015  a  10/11/2015,  em  decorrência  de  atos praticados com grave infração às normas legais em relação à todas as impropriedades não sanadas do relatório conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405) e a Aprovação com Ressalvas Prestação de Contas Anual da Prefeitura Municipal de Iranduba , exercício 2015, sob a responsabilidade do Sra. Maria Madalena de Jesus  Souza , Prefeita  e  Ordenadora  de  Despesas,  período  de 11/11/2015 a 31/12/2015",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual da Prefeitura Municipal de Iranduba, exercício 2015, sob a responsabilidade do Sr.Xinaik  Silva  de  Medeiros ,  Prefeito  e  Ordenador  de  Despesas, período de  01/01/2015  a  10/11/2015,  em  decorrência  de  atos praticados com grave infração às normas legais em relação à todas as impropriedades não sanadas do relatório conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405) e a Aprovação com Ressalvas Prestação de Contas Anual da Prefeitura Municipal de Iranduba , exercício 2015, sob a responsabilidade do Sra. Maria Madalena de Jesus  Souza , Prefeita  e  Ordenadora  de  Despesas,  período  de 11/11/2015 a 31/12/2015",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "relatório conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405)",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"relatório conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405)\"; justificativa=\"A decisão relata que a prestação de contas é julgada irregular devido a atos com grave infração às normas legais e impropriedades não sanadas, indicando distorções na apresentação, avaliação e classificação contábil.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  Multa ao Sr.  Xinaik  Silva  de  Medeiros no  valor  de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta um reais e vinte e oito centavos), nos termos do inciso VI do art. 308 da Resolução nº 4/2002  (RITCE/AM),  com  base  no  valor  disciplinado  à  época,  em decorrência de atos praticados com grave infração às normas legais relação  a  todas  as  impropriedades  não  sanadas evidenciadas  no Relatório Conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405), que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE.Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado  pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Xinaik  Silva  de  Medeiros no  valor  de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta um reais e vinte e oito centavos), nos termos do inciso VI do art. 308 da Resolução nº 4/2002  (RITCE/AM),  com  base  no  valor  disciplinado  à  época,  em decorrência de atos praticados com grave infração às normas legais relação  a  todas  as  impropriedades  não  sanadas evidenciadas  no Relatório Conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "Relatório Conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405)",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"Relatório Conclusivo  DICAMI nº 102/2019 - 01 a 80   (fls. 3417/3502) e do Relatório Conclusivo nº 54/2017 da DICOP (fls. 3.160-3.405)\"; justificativa=\"Aplicação de multa devido a atos praticados com grave infração às normas legais, com base em relatórios que apontam inobservância do regime de conta única.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 4/2002  (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Fundamenta a aplicação de multa por infração às normas legais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Observe atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações  de  conta,  esclarecendo  que  a  inobservância destes prazos compromete o planejamento dos trabalhos de campo,  passível  de  responsabilização  com  a  consequente aplicação de multas por cerceamento do exercício do controle externo",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações  de  conta,  esclarecendo  que  a  inobservância destes prazos compromete o planejamento dos trabalhos de campo,  passível  de  responsabilização  com  a  consequente aplicação de multas por cerceamento do exercício do controle externo",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para observar os prazos de entrega da documentação visa garantir a efetividade do controle externo, cuja ausência caracteriza falta de documentação dos controles internos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Mantenha todos os documentos contábeis, jurídicos, processos licitatórios e os comprovantes de despesas na sede da Prefeitura, sob pena de novamente a despesa executada ser glosada por este TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha todos os documentos contábeis, jurídicos, processos licitatórios e os comprovantes de despesas na sede da Prefeitura, sob pena de novamente a despesa executada ser glosada por este TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para manter os documentos na sede da prefeitura visa garantir a disponibilidade da documentação para auditoria, cuja ausência caracteriza falta de documentação dos controles internos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Mantenha os registros e controles, além de toda documentação referente aos atos e fatos contábeis pertinentes ao Grupo de Contas Genéricas (Resolução CFC N.º  1.133/08  -  Aprova  a  NBC  T  16.6  -  Demonstrações Contábeis)  como  forma  de  atender  às  regras  de  direito financeiro  definidas  pela  Lei  Federal  nº  4.320/64,  de  cuja inobservância  acarretarão  a  não  aceitação  das  justificativas futuras,  com  consequente  responsabilização  e  reflexos  nas prestações de contas respectivas",
+      "trechos_identificados": [
+        {
+          "trecho": "Mantenha os registros e controles, além de toda documentação referente aos atos e fatos contábeis pertinentes ao Grupo de Contas Genéricas (Resolução CFC N.º  1.133/08  -  Aprova  a  NBC  T  16.6  -  Demonstrações Contábeis)  como  forma  de  atender  às  regras  de  direito financeiro  definidas  pela  Lei  Federal  nº  4.320/64,  de  cuja inobservância  acarretarão  a  não  aceitação  das  justificativas futuras,  com  consequente  responsabilização  e  reflexos  nas prestações de contas respectivas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Resolução CFC N.º  1.133/08",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Resolução CFC N.º  1.133/08\"; justificativa=\"A determinação para manter os registros e controles contábeis visa garantir a disponibilidade da documentação para auditoria, cuja ausência caracteriza falta de documentação dos controles internos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 4.320/64",
+              "artigo": "Não especificado",
+              "descricao": "Define regras de direito financeiro que devem ser atendidas na gestão contábil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Apresente perante esta Corte de Contas, quanto ao cumprimento das determinações no sentido de exonerar os servidores  apontados  nesta  impropriedade,  das  medidas adotadas e dos resultados alcançados sob pena de descumprimento  de  determinação",
+      "trechos_identificados": [
+        {
+          "trecho": "Apresente perante esta Corte de Contas, quanto ao cumprimento das determinações no sentido de exonerar os servidores  apontados  nesta  impropriedade,  das  medidas adotadas e dos resultados alcançados sob pena de descumprimento  de  determinação",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para apresentar informações sobre a exoneração de servidores visa garantir o cumprimento das determinações do TCE, cuja ausência caracteriza não cumprimento das responsabilidades do SIC.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Observe  as  normas  pertinentes aos registros contábeis derivados dos atos decorrentes de repasses de indenizações e restituições de forma que o suporte documental necessário esteja intimamente pautado em documentos fidedignos e que afastem quaisquer dúvidas acerca da operação ocorrida não cabendo  como  documentos  probatórios  recibos  sem  estar acompanhados dos respectivos extratos bancários",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe  as  normas  pertinentes aos registros contábeis derivados dos atos decorrentes de repasses de indenizações e restituições de forma que o suporte documental necessário esteja intimamente pautado em documentos fidedignos e que afastem quaisquer dúvidas acerca da operação ocorrida não cabendo  como  documentos  probatórios  recibos  sem  estar acompanhados dos respectivos extratos bancários",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para observar as normas de registro contábil visa garantir a comprovação dos valores registrados no balanço patrimonial.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Encaminhe  pelo  sistema SAP  os  dados  necessários à apreciação da legalidade dos atos de pessoal pelo Tribunal de Contas do Estado do Amazonas, observando o disposto na Resolução TCE/AM nº 16/2009",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe  pelo  sistema SAP  os  dados  necessários à apreciação da legalidade dos atos de pessoal pelo Tribunal de Contas do Estado do Amazonas, observando o disposto na Resolução TCE/AM nº 16/2009",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Resolução TCE/AM nº 16/2009",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Resolução TCE/AM nº 16/2009\"; justificativa=\"A determinação para encaminhar dados pelo sistema SAP visa garantir o controle interno e o envio de dados ao e-Contas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE/AM nº 16/2009",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece normas para o envio de dados ao TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Implemente  rotinas de controle suficientes para manter atualizados os registros funcionais dos servidores",
+      "trechos_identificados": [
+        {
+          "trecho": "Implemente  rotinas de controle suficientes para manter atualizados os registros funcionais dos servidores",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para implementar rotinas de controle visa garantir a atualização dos registros funcionais, cuja ausência caracteriza falta de normatização das rotinas internas.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Observe rigorosamente as regras da Lei municipal nº 106/1993,  art.  1º  e  2º,  inciso  I,  com  as  alterações  da  Lei municipal nº 162/2001, em relação as prestações de contas das diárias do Poder Executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe rigorosamente as regras da Lei municipal nº 106/1993,  art.  1º  e  2º,  inciso  I,  com  as  alterações  da  Lei municipal nº 162/2001, em relação as prestações de contas das diárias do Poder Executivo",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Lei municipal nº 106/1993 e Lei municipal nº 162/2001",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Lei municipal nº 106/1993 e Lei municipal nº 162/2001\"; justificativa=\"A determinação para observar as regras das leis municipais visa garantir a correta prestação de contas das diárias, cuja ausência caracteriza falta de documentação dos controles internos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei municipal nº 106/1993",
+              "artigo": "1º e 2º, inciso I",
+              "descricao": "Estabelece regras para as prestações de contas das diárias do Poder Executivo."
+            },
+            {
+              "norma": "Lei municipal nº 162/2001",
+              "artigo": "Não especificado",
+              "descricao": "Altera a Lei municipal nº 106/1993."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Não atrase o envio das informações ao sistema e-contas, bem como  o seu adequado preenchimento, nos termos da Resolução nº 07/02-TCE, c/c Resolução nº 10/2012-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Não atrase o envio das informações ao sistema e-contas, bem como  o seu adequado preenchimento, nos termos da Resolução nº 07/02-TCE, c/c Resolução nº 10/2012-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Resolução nº 07/02-TCE e Resolução nº 10/2012-TCE/AM",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Resolução nº 07/02-TCE e Resolução nº 10/2012-TCE/AM\"; justificativa=\"A determinação para não atrasar o envio das informações ao sistema e-contas visa garantir o controle interno e o envio de dados ao e-Contas.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 07/02-TCE",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece normas para o envio de informações ao sistema e-contas."
+            },
+            {
+              "norma": "Resolução nº 10/2012-TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece normas para o envio de informações ao sistema e-contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Encaminhe no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei estadual nº 2.423/96 e do §1º da Resolução nº 11/2009 c/c §3º do art. 165 da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhe no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei estadual nº 2.423/96 e do §1º da Resolução nº 11/2009 c/c §3º do art. 165 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Lei estadual nº 2.423/96 e Resolução nº 11/2009",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Lei estadual nº 2.423/96 e Resolução nº 11/2009\"; justificativa=\"A determinação para encaminhar os relatórios em tempo hábil visa garantir a transparência e o controle dos gastos públicos, cuja ausência caracteriza falta de documentação dos controles internos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "32",
+              "descricao": "Estabelece normas para o encaminhamento de documentos."
+            },
+            {
+              "norma": "Resolução nº 11/2009",
+              "artigo": "1",
+              "descricao": "Estabelece normas para o encaminhamento de documentos."
+            },
+            {
+              "norma": "Constituição Federal/88",
+              "artigo": "165",
+              "descricao": "Estabelece normas para o encaminhamento de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Dê  publicidade  aos  Relatórios  de  Gestão  Fiscal  (RGF)  e Resumidos da Execução Orçamentária (RREO), dentro dos prazos estipulados pelo art. 52, c/c o §2º do art. 55, sob pena de multa por prática de infração administrativa (art. 5º da Lei federal nº 10.028/2000), quanto aos RGF",
+      "trechos_identificados": [
+        {
+          "trecho": "Dê  publicidade  aos  Relatórios  de  Gestão  Fiscal  (RGF)  e Resumidos da Execução Orçamentária (RREO), dentro dos prazos estipulados pelo art. 52, c/c o §2º do art. 55, sob pena de multa por prática de infração administrativa (art. 5º da Lei federal nº 10.028/2000), quanto aos RGF",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Lei federal nº 10.028/2000",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Lei federal nº 10.028/2000\"; justificativa=\"A determinação para dar publicidade aos relatórios visa garantir a transparência e o controle dos gastos públicos, cuja ausência caracteriza falta de publicação do RREO.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal nº 10.028/2000",
+              "artigo": "5",
+              "descricao": "Estabelece normas para o RGF."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Adote os procedimentos necessários à identificação e quantificação  dos  valores  individualizada  dos  contribuintes devedores, para cobrança por meio de processos administrativos e/ou judiciais, sob pena da sanções do §1º do art. 22, da Lei estadual n.º 2.423/96 (Lei Orgânica do TCE/AM) c/c a alínea 'e' do inc. III do § 1º do art. 188 da Resolução nº 04/2002 do TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote os procedimentos necessários à identificação e quantificação  dos  valores  individualizada  dos  contribuintes devedores, para cobrança por meio de processos administrativos e/ou judiciais, sob pena da sanções do §1º do art. 22, da Lei estadual n.º 2.423/96 (Lei Orgânica do TCE/AM) c/c a alínea 'e' do inc. III do § 1º do art. 188 da Resolução nº 04/2002 do TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "Lei estadual n.º 2.423/96 e Resolução nº 04/2002 do TCE/AM",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"Lei estadual n.º 2.423/96 e Resolução nº 04/2002 do TCE/AM\"; justificativa=\"A determinação para identificar e quantificar os valores dos contribuintes devedores visa garantir a cobrança da dívida ativa, cuja ausência caracteriza não adoção de providências para cobrança.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei estadual n.º 2.423/96",
+              "artigo": "22",
+              "descricao": "Estabelece sanções para o não cumprimento das determinações."
+            },
+            {
+              "norma": "Resolução nº 04/2002 do TCE/AM",
+              "artigo": "188",
+              "descricao": "Estabelece sanções para o não cumprimento das determinações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Observar atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações  de  conta  pela  Câmara  Municipal  sob  pena  de responsabilização",
+      "trechos_identificados": [
+        {
+          "trecho": "Observar atentamente os prazos fixados para o encaminhamento da documentação exigida para análise das prestações  de  conta  pela  Câmara  Municipal  sob  pena  de responsabilização",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True

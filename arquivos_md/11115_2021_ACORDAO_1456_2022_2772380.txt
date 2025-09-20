@@ -1,0 +1,156 @@
+{
+  "acordao": "1456/2022",
+  "processo": "11115/2021",
+  "data_sessao": "30 de agosto de 2022",
+  "orgao": "Secretaria de Estado de Saúde - SES (antiga SUSAM)",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Wilson Duarte Alecrim",
+    "José Duarte dos Santos Filho",
+    "Allan Almeida dos Reis",
+    "Jailton Lima Freitas",
+    "Hudson Mar Simith de Oliveira",
+    "Jerocilio Roberto Simoes Alves da Silva",
+    "Construtora Alcance Ltda. - EPP",
+    "M C a Construtora Ltda.",
+    "S. H. Engenharia e Construções Ltda.",
+    "Amazônia Construções, Engenharia e Comércio Ltda."
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr. Wilson Duarte Alecrim , Gestor da Secretaria de Estado da Saúde (SUSAM), exercício 2014, nos termos  do  art.  22,  inciso  III  alínea  'b'  e  'c'  da  Lei  nº  2.423/1996LOTCEAM c/c artigo 188,  inciso  II  e  §1º,  inciso  III,  alínea  'b'  e  'c'  da Resolução nº 04/2002-RITCEAM, em razão do dano causado ao erário e das impropriedades que deram causa à aplicação de multa.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária o Sr. Wilson Duarte Alecrim no valor de R$3.945.805,99 (três milhões, novecentos e quarenta  e  cinco  mil,  oitocentos  e  cinco  reais  e  noventa  e  nove centavos)  nos termos do art. 304, inciso I da Resolução nº 04/2002-RI-, TCE-AM,  e fixar  prazo  de  30  (trinta)  dias para  que  o  responsável recolha o valor do ALCANCE,  na  esfera  Estadual  para  o  órgão Secretaria  de  Estado  da  Fazenda  -  SEFAZ,  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações  -  PRINCIPAL  -  alcance  aplicado  pelo  TCE/AM',  órgão Secretaria de Estado da Fazenda - SEFAZ com a devida comprovação perante esta Corte de Contas e a devida atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RI-TCE-AM), de acordo com o Relatório Técnico Conclusivo nº 69/2017-DICOP, considerando o dano ao erário relativo a: I. Inexecução  parcial  do  objeto  identificada  em  inspeção  no  Termo  de Contrato  nº  140/2013-SUSAM  (adequação  e  ampliação  do  Centro  de Reabilitação  de  Dependentes Químicos,  situado  no  KM-53  da  Rodovia AM 010): i. Achado 1.2.6, no valor de R$ 156.728,00; ii. Achado 1.2.7, no valor de R$ 162.370,80; iii. Achado 1.3.1, no valor de R$ 195.636,65; iv. Achado 1.3.2, no valor de R$ 437.279,69; v. Achado 1.3.3, no valor de R$ 81.220,80; vi. Achado 1.3.6, no valor de R$ 194.398,41; vii. Achado 1.3.7, no valor de R$ 295.137,36; II .  Inexecução  parcial  do  objeto  identificada  em  inspeção  no  Termo  de Contrato nº 038/2013-SUSAM (reforma do Hospital Geraldo da Rocha): i. Achado 2.3.1, no valor de R$ 582.902,94; ii. Achado 2.3.3, no valor de R$ 140.388,00; III. Inexecução parcial do objeto identificada em inspeção no Termo de Contrato nº 50/2012-SUSAM (reforma e ampliação do Hospital Universitário  Dona  Francisca Mendes) - achado 3.3.2 - no valor de R$ 1.699.743,34;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária o Sr.  José Duarte  dos  Santos  Filho no  valor  de R$3.945.805,99 (três  milhões, novecentos e quarenta e cinco mil, oitocentos e cinco reais e noventa e nove  centavos),  nos  termos  do  art.  304,  inciso  I  da  Resolução  nº 04/2002-RI-TCE-AM,  e fixar  prazo  de  30  (trinta)  dias para  que  o responsável  recolha  o  valor  do  ALCANCE,  na  esfera  Estadual  para  o órgão  Secretaria  de  Estado  da  Fazenda  -  SEFAZ,  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 outras indenizações  PRINCIPAL  -  ALCANCE  APLICADO  PELO TCE/AM',  órgão  Secretaria  de  Estado  da  Fazenda  -  SEFAZ  com  a devida comprovação perante esta Corte de Contas e a devida atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RI-TCE-AM), de acordo com o Relatório Técnico Conclusivo nº 69/2017-DICOP, considerando o dano ao erário relativo a: I.  Inexecução  parcial  do  objeto  identificada  em  inspeção  no  Termo  de Contrato  nº  140/2013-SUSAM  (adequação  e  ampliação  do  Centro  de Reabilitação  de  Dependentes Químicos,  situado  no  KM-53  da  Rodovia AM 010): i. Achado 1.2.6, no valor de R$ 156.728,00; ii. Achado 1.2.7, no valor de R$ 162.370,80; iii. Achado 1.3.1, no valor de R$ 195.636,65; iv. Achado 1.3.2, no valor de R$ 437.279,69; v. Achado 1.3.3, no valor de R$ 81.220,80; vi. Achado 1.3.6, no valor de R$ 194.398,41; vii. Achado 1.3.7, no valor de R$ 295.137,36; II.  Inexecução  parcial  do  objeto  identificada  em  inspeção  no  Termo  de Contrato nº 038/2013-SUSAM (reforma do Hospital Geraldo da Rocha): i. Achado 2.3.1, no valor de R$ 582.902,94; ii. Achado 2.3.3, no valor de R$ 140.388,00; III.  Inexecução parcial do objeto identificada em inspeção no Termo de Contrato nº 50/2012-SUSAM (reforma e ampliação do Hospital Universitário Dona Francisca Mendes) - achado 3.3.2 - no valor de R$ 1.699.743,34;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária o Sr. Allan Almeida  dos  Reis no  valor  de R$894.979,38 (oitocentos  e  noventa  e quatro mil, novecentos e setenta e nove reais e trinta e oito centavos), nos termos do art. 304, inciso I da Resolução nº 04/2002-RI-TCE-AM, e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor do ALCANCE,  na  esfera  Estadual  para  o  órgão  Secretaria  de  Estado  da Fazenda - SEFAZ, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações - PRINCIPAL ALCANCE APLICADO PELO TCE/AM', órgão Secretaria de Estado da Fazenda  -  SEFAZ  com  a  devida  comprovação  perante  esta  Corte  de Contas  e  a  devida  atualização  monetária  (art.72,  III,  'a',  da  Lei  nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RITCE-AM),  de  acordo  com  o  Relatório  Técnico  Conclusivo  nº  69/2017DICOP, considerando o dano ao erário relativo a inexecução parcial do objeto  identificada  no  Termo  de  Contrato  nº  140/2013  (adequação  e ampliação do Centro de Reabilitação de Dependentes Químicos, situado no KM-53 da Rodovia AM 010): i. Achado 1.2.6, no valor de R$ 156.728,00; ii. Achado 1.2.7, no valor de R$ 162.370,80; iii. Achado 1.3.1, no valor de R$ 33.092,62; iv. Achado 1.3.2, no valor de R$ 221.902,11; v. Achado 1.3.6, no valor de R$ 194.398,41; vi. Achado 1.3.7, no valor de R$ 126.487,44;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária o Sr. Jailton Lima Freitas no valor de R$882.787,06 (oitocentos e oitenta e dois mil, setecentos  e  oitenta  e  sete  reais  e  seis  centavos),  nos  termos  do  art. 304, inciso I da Resolução nº 04/2002-RI-TCE-AM, e fixar prazo de 30 (trinta)  dias para  que  o  responsável recolha  o valor  do  ALCANCE,  na esfera  Estadual  para  o  órgão  Secretaria  de  Estado  da  Fazenda  SEFAZ, através de DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações - PRINCIPAL ALCANCE APLICADO PELO TCE/AM', órgão Secretaria de Estado da Fazenda  -  SEFAZ  com  a  devida  comprovação  perante  esta  Corte  de Contas  e  a  devida  atualização  monetária  (art.72,  III,  'a',  da  Lei  nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RITCE-AM),  de  acordo  com  o  Relatório  Técnico  Conclusivo  nº  69/2017DICOP, considerando o dano ao erário relativo a inexecução parcial do objeto  identificada  no  Termo  de  Contrato  nº  140/2013  (adequação  e ampliação do Centro de Reabilitação de Dependentes Químicos, situado no KM-53 da Rodovia AM 010): i. Achado 1.3.1, no valor de R$ 195.636,65; ii. Achado 1.3.2, no valor de R$ 437.279,69; iii. Achado 1.3.3, no valor de R$ 81.220,80; iv. Achado 1.3.7, no valor de R$ 168.649,92;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em  Alcance por Responsabilidade Solidária o Sr. Hudson Mar Simith de Oliveira no valor de R$723.290,94 ( setecentos e vinte e três mil, duzentos e noventa reais e noventa e quatro centavos), nos termos do art. 304, inciso I da Resolução nº 04/2002-RI-TCE-AM, e fixar prazo de 30 (trinta) dias para que o responsável recolha o valor do ALCANCE,  na  esfera  Estadual  para  o  órgão  Secretaria  de  Estado  da Fazenda - SEFAZ, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações - PRINCIPAL ALCANCE APLICADO PELO TCE/AM', órgão Secretaria de Estado da Fazenda  -  SEFAZ  com  a  devida  comprovação  perante  esta  Corte  de Contas  e  a  devida  atualização  monetária  (art.72,  III,  'a',  da  Lei  nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RITCE-AM),  de  acordo  com  o  Relatório  Técnico  Conclusivo  nº  69/2017DICOP, considerando o dano ao erário relativo a inexecução parcial do objeto  identificada  no  Termo  de  Contrato  nº  038/2013  (reforma  do Hospital Geraldo da Rocha): i. Achado 2.3.1, no valor de R$ 582.902,94; ii. Achado 2.3.3, no valor de R$ 140.388,00;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em  Alcance por Responsabilidade Solidária o Sr. Jerocilio Roberto Simoes Alves da Silva no valor de R$1.699.743,34 (um milhão, seiscentos e noventa e nove mil, setecentos e quarenta e três reais e trinta e quatro centavos), nos termos do art. 304, inciso I da Resolução  nº  04/2002-RI-TCE-AM,  e fixar  prazo  de  30  (trinta)  dias para que o responsável recolha o valor do ALCANCE, na esfera Estadual para  o  órgão  Secretaria  de  Estado  da  Fazenda  -  SEFAZ,  através  de DAR  avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código '5670  -  outras  indenizações  -  PRINCIPAL  -  ALCANCE  APLICADO PELO TCE/AM', órgão Secretaria de Estado da Fazenda - SEFAZ com a devida  comprovação  perante  esta  Corte  de  Contas  e  a  devida atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RI-TCE-AM), de acordo com o Relatório  Técnico  Conclusivo  nº  69/2017-DICOP,  considerando  o  dano ao erário relativo a inexecução parcial do objeto identificada no Termo de Contrato  nº  050/2012  (reforma  e  ampliação  do  Hospital  Universitário Dona Francisca Mendes), indicado no achado 3.3.2.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária a  empresa Construtora  Alcance  Ltda. no  valor  de R$1.522.771,71 (um  milhão, quinhentos e vinte e dois mil, setecentos e setenta e um reais e setenta e um centavos), nos termos do art. 304, inciso I da Resolução nº 04/2002RI-TCE-AM, e fixar  prazo  de  30  (trinta)  dias para  que  o  responsável recolha o valor do ALCANCE,  na  esfera  Estadual  para  o  órgão Secretaria  de  Estado  da  Fazenda  -  SEFAZ,  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações  -  PRINCIPAL  -  ALCANCE  APLICADO  PELO  TCE/AM', órgão  Secretaria  de  Estado  da  Fazenda  -  SEFAZ  com  a  devida comprovação  perante  esta  Corte  de  Contas  e  a  devida  atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, § 3º,  da  Resolução  nº  04/2002-RI-TCE-AM),  de  acordo  com  o  Relatório Técnico Conclusivo nº 69/2017-DICOP, considerando o dano ao erário relativo a inexecução parcial do objeto identificada no Termo de Contrato nº  140/2013  (adequação  e  ampliação  do  Centro  de  Reabilitação  de Dependentes Químicos, situado no KM-53 da Rodovia AM 010): i. Achado 1.2.6, no valor de R$ 156.728,00; ii. Achado 1.2.7, no valor de R$ 162.370,80; iii. Achado 1.3.1, no valor de R$ 195.636,65; iv. Achado 1.3.2, no valor de R$ 437.279,69; v. Achado 1.3.3, no valor de R$ 81.220,80; vi. Achado 1.3.6, no valor de R$ 194.398,41; vii. Achado 1.3.7, no valor de R$ 295.137,36;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária a empresa M C a Construtora Ltda. no valor de R$723.290,94 (setecentos e vinte e três  mil,  duzentos  e  noventa  reais  e  noventa  e  quatro  centavos),  nos termos do art. 304, inciso I da Resolução nº 04/2002-RI-TCE-AM, e fixar prazo  de  30  (trinta)  dias para  que  o  responsável  recolha  o  valor  do ALCANCE,  na  esfera  Estadual  para  o  órgão  Secretaria  de  Estado  da Fazenda - SEFAZ, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5670 - outras indenizações - PRINCIPAL ALCANCE APLICADO PELO TCE/AM', órgão Secretaria de Estado da Fazenda  -  SEFAZ  com  a  devida  comprovação  perante  esta  Corte  de Contas  e  a  devida  atualização  monetária  (art.72,  III,  'a',  da  Lei  nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RITCE-AM),  de  acordo  com  o  Relatório  Técnico  Conclusivo  nº  69/2017DICOP, considerando o dano ao erário relativo a inexecução parcial do objeto  identificada  no  Termo  de  Contrato  nº  038/2013  (reforma  do Hospital Geraldo da Rocha): i. Achado 2.3.1, no valor de R$ 582.902,94; ii. Achado 2.3.3, no valor de R$ 140.388,00;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance por Responsabilidade Solidária a empresa S. H. Engenharia e Construçoes Ltda. no valor de R$ 1.699.743,34 (um milhão,  seiscentos  e  noventa  e  nove  mil,  setecentos  e  quarenta  e  três reais  e  trinta  e  quatro  centavos),  nos  termos  do  art.  304,  inciso  I  da Resolução  nº  04/2002-RI-TCE-AM,  e fixar  prazo  de  30  (trinta)  dias para que o responsável recolha o valor do ALCANCE, na esfera Estadual para  o  órgão  Secretaria  de  Estado  da  Fazenda  -  SEFAZ,  através  de DAR  avulso  extraído  do  sítio  eletrônico  da  SEFAZ/AM,  sob  o  código '5670  -  outras  indenizações  -  PRINCIPAL  -  ALCANCE  APLICADO PELO TCE/AM', órgão Secretaria de Estado da Fazenda - SEFAZ com a devida  comprovação  perante  esta  Corte  de  Contas  e  a  devida atualização monetária (art.72, III, 'a', da Lei nº 2423/96 - LOTCE/AM c/c o art.308, § 3º, da Resolução nº 04/2002-RI-TCE-AM), de acordo com o Relatório  Técnico  Conclusivo  nº  69/2017-DICOP,  considerando  o  dano ao erário relativo a inexecução parcial do objeto identificada no Termo de Contrato  nº  050/2012  (reforma  e  ampliação  do  Hospital  Universitário Dona Francisca Mendes), indicado no achado 3.3.2.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar Multa ao Sr. Wilson Duarte Alecrim, no valor de R$68.271,96 (sessenta  e  oito  mil,  duzentos  e  setenta  e  um  reais  e  noventa  e  seis centavos), nos termos do art.  54,  inciso  VI  da Lei AM nº 2.423/1996LOTCE-AM , e fixar prazo de 30 dias para que o responsável recolha o valor  da  MULTA,  na  esfera  Estadual  para  o  órgão  Fundo  de  Apoio  ao Exercício do Controle Externo -FAECE',  em  face  das  seguintes impropriedades, constantes do Relatório Técnico Conclusivo nº 069/2017-DICOP e da Informação Conclusiva nº 015/2017-DICAD, que permaneceram não sanadas abaixo:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Achado  11  da  DICAD/AM,  descumprimento  do  art.  26 parágrafo  único,  incisos  I,  II  e  III  da  Lei  nº  8.666/1993, compras  diretas  realizadas  sem  observância  do  devido processo  de  dispensa,  sem  caracterização  da  situação emergencial  calamitosa  ou  de  grave  e  iminente  risco  à segurança  pública,  nem  mesmo  da  razão  da  escolha  do fornecedor ou executante, ou da justificativa do preço",
+      "trechos_identificados": [
+        {
+          "trecho": "Achado  11  da  DICAD/AM,  descumprimento  do  art.  26 parágrafo  único,  incisos  I,  II  e  III  da  Lei  nº  8.666/1993, compras  diretas  realizadas  sem  observância  do  devido processo  de  dispensa,  sem  caracterização  da  situação emergencial  calamitosa  ou  de  grave  e  iminente  risco  à segurança  pública,  nem  mesmo  da  razão  da  escolha  do fornecedor ou executante, ou da justificativa do preço",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "justificativa_tipologia": "O trecho descreve a ausência de caracterização da situação emergencial, o que é típico em justificativas inadequadas para dispensas de licitação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "26",
+              "descricao": "O artigo 26 da Lei nº 8.666/1993 trata das condições para a dispensa de licitação, incluindo a necessidade de justificação da situação emergencial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Achados 13 e 15 da DICAD/AM, descumprimento do art. 37, inciso XXI da Constituição Federal de 1988 c/c art. 2º da Lei nº 8.666/1993, bem  como  do  art. 60 da Lei nº 4.320/1964, prestação de serviços sem cobertura contratual quitada de forma indenizatória",
+      "trechos_identificados": [
+        {
+          "trecho": "Achados 13 e 15 da DICAD/AM, descumprimento do art. 37, inciso XXI da Constituição Federal de 1988 c/c art. 2º da Lei nº 8.666/1993, bem  como  do  art. 60 da Lei nº 4.320/1964, prestação de serviços sem cobertura contratual quitada de forma indenizatória",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A31B",
+          "tipologia_irregularidade": "Despesa sem cobertura contratual",
+          "descricao": "Despesa sem cobertura contratual",
+          "justificativa_tipologia": "O trecho descreve a prestação de serviços sem a devida cobertura contratual, configurando despesa irregular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal de 1988",
+              "artigo": "37, XXI",
+              "descricao": "O artigo 37, inciso XXI da Constituição Federal de 1988 exige licitação para contratações públicas, exceto nos casos especificados na legislação."
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "2º",
+              "descricao": "O artigo 2º da Lei nº 8.666/1993 estabelece a obrigatoriedade de licitação para obras e serviços."
+            },
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "60",
+              "descricao": "O artigo 60 da Lei nº 4.320/1964 estabelece que é proibida a realização de qualquer despesa sem prévio empenho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Achados 1.1.1.1, 1.1.1.2, 2.1.1.1, 2.1.1.2, 3.1.1.1, 3.1.1.2,  4.1.1.1  e  4.1.1.2  da  DICOP,  descumprimento  do disposto no art. 2º da Resolução 27/2012-TCE-AM, existência de procedimentos de controle interno de obras e serviços  de  engenharia,  todos  destes  contratos  nº  038  e 140/2013-SUSAM",
+      "trechos_identificados": [
+        {
+          "trecho": "Achados 1.1.1.1, 1.1.1.2, 2.1.1.1, 2.1.1.2, 3.1.1.1, 3.1.1.2,  4.1.1.1  e  4.1.1.2  da  DICOP,  descumprimento  do disposto no art. 2º da Resolução 27/2012-TCE-AM, existência de procedimentos de controle interno de obras e serviços  de  engenharia,  todos  destes  contratos  nº  038  e 140/2013-SUSAM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho descreve a ausência de implementação de controles internos, o que é característico da tipologia selecionada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 27/2012-TCE-AM",
+              "artigo": "2º",
+              "descricao": "O artigo 2º da Resolução 27/2012-TCE-AM estabelece a necessidade de procedimentos de controle interno em obras e serviços de engenharia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",

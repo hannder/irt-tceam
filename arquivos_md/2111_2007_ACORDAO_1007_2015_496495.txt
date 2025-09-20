@@ -1,0 +1,54 @@
+{
+  "acordao": "1007/2015",
+  "processo": "2111/2007",
+  "data_sessao": "25 de novembro de 2015",
+  "orgao": "Secretaria Municipal de Direitos Humanos - SEMDIH",
+  "municipio": "Manaus",
+  "exercicio": "2006",
+  "responsavel": [
+    "Jorge Trajano Silva",
+    "Francisco Jorge Ribeiro Guimarães"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular, com ressalvas , nos termos do artigo 1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE; art. 18, II, da LC n. 6/91; c/c art. 188, §1º,  II,  da  Res.  n.  4/2002,  a  Prestação  de  Contas,  exercício  de  2006,  da  Secretaria Municipal  de  Direitos  Humanos  -  SEMDIH,  de  responsabilidade  dos  Senhores Jorge Trajano  Silva (período  de  01.01.2006  a  29.03.2006) e Francisco  Jorge  Ribeiro Guimarães (período de  30.03.2006  a  31.12.2006),  Secretários  e  Ordenadores  de Despesas, à época",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Nos termos do artigo 24, inciso I, da Lei nº. 2423/1996 - LOTCE, c/c o  artigo189,  inciso  II,  da  Resolução  nº.  04/2002-RITCE, dar  quitação aos  Senhores Jorge Trajano Silva (período de 01.01.2006 a 29.03.2006) e Francisco Jorge Ribeiro Guimarães (período de  30.03.2006  a  31.12.2006),  Secretários  e  Ordenadores  de Despesas, à época",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Multar o Senhor Francisco Jorge Ribeiro Guimarães (período de 30.03.2006  a  31.12.2006),  Secretário  e  Ordenador  de  Despesas,  à  época,  na  forma prevista no artigo 1º, inciso XXVI e artigo 52 da Lei nº. 2423/1996 - LOTCE, no valor de R$  2.000,00 (dois  mil  reais),  de  acordo  com  o  artigo  53,  parágrafo  único,  da  Lei  nº. 2423/1996 - LOTCE; c/c o artigo 54, §2º, da Lei nº. 2423/1996 - LOTCE; e artigo 1º, da Resolução nº. 25/2012 - TCE/AM, pelas impropriedades constantes dos itens 04, 05, 06, 07 e 08 do relatório/voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Prazo para Recolhimento",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Francisco  Jorge  Ribeiro  Guimarães (período  de  30.03.2006  a  31.12.2006), Secretário e Ordenador de Despesas, à época , recolha aos cofres da Fazenda Estadual o valor das multas ora aplicadas, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei nº. 2423/1996-LOTCE), ficando a DICREX  autorizada a adotar as medidas das Subseções III e IV da Secção III, do Capítulo X, da Resolução nº. 04/2002 - RITCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhe  à  Administração  da  Secretaria  Municipal  de  Direitos Humanos  -  SEMDIH,  cópias  das  peças  emitidas  pela  Comissão  de  Inspeção  e  pelo Representante Ministerial, visando evitar o cometimento das mesmas impropriedades em Prestação de Contas futuras",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Notifique o Senhor Francisco Jorge Ribeiro Guimarães (período de 30.03.2006 a 31.12.2006), Secretário e Ordenador de Despesas, à época, com cópia do Relatório/Voto e  Acórdão para ter ciência do decisório e, querendo,  apresente o devido recurso",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002-RITCE, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "POR MAIORIA, multar o Senhor Francisco Jorge Ribeiro Guimarães (período de 30.03.2006 a 31.12.2006), Secretário e Ordenador de Despesas, à época, na forma prevista no artigo 1º, inciso  XXVI e artigo 52 da Lei nº. 2423/1996  - LOTCE, no valor de R$ 12.056,33 (doze mil, cinquenta e seis reais e trinta e três centavos), de acordo com o artigo 308, inciso II, da Resolução nº. 04/2002 (RITCE), alterada pela Resolução nº. 25/2012,  correspondente  a  R$  1.096,03,  por  mês  de  competência  ( janeiro a novembro do  exercício  de  2006),  relativo  aos  dados  e  demonstrativos  contábeis ACP/Captura,  remetidos  ao  Tribunal  de  Contas,  fora  do  prazo  fixado  no  artigo  4.º  da Resolução n°. 07/2002- TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

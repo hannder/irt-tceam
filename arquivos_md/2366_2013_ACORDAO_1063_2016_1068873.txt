@@ -1,0 +1,91 @@
+{
+  "acordao": "1063/2016",
+  "processo": "2366/2013",
+  "data_sessao": "06 de Dezembro de 2016",
+  "orgao": "Fundo Municipal de Direitos do Idoso - FMDI",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "MARTHA MOUTINHO DA COSTA CRUZ"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a  Prestação de Contas da Sra. MARTHA  MOUTINHO DA COSTA CRUZ, responsável pela pelo Fundo  Municipal de Direitos do Idoso - FMDI, no curso do exercício do ano de 2012, nos termos dos arts. 22, I e 23, da Lei n. 2.423/96 e art. 188, § 1º, I, da Resolução n.º 04/02-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a  Prestação de Contas da Sra. MARTHA  MOUTINHO DA COSTA CRUZ, responsável pela pelo Fundo  Municipal de Direitos do Idoso - FMDI, no curso do exercício do ano de 2012, nos termos dos arts. 22, I e 23, da Lei n. 2.423/96 e art. 188, § 1º, I, da Resolução n.º 04/02-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apenas informa o julgamento regular das contas, sem indicar irregularidades que justifiquem marcar como True.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Termos da Lei n. 2.423/96"
+            },
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "23",
+              "descricao": "Termos da Lei n. 2.423/96"
+            },
+            {
+              "norma": "Resolução n.º 04/02-TCE/AM",
+              "artigo": "188, § 1º, I",
+              "descricao": "Termos da Resolução n.º 04/02-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação a Sra. MARTHA  MOUTINHO  DA  COSTA  CRUZ (responsável), conforme preceitua o art. 23, da Lei n.º 2.423/1996 c/c o art. 189, I, da Resolução 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação a Sra. MARTHA  MOUTINHO  DA  COSTA  CRUZ (responsável), conforme preceitua o art. 23, da Lei n.º 2.423/1996 c/c o art. 189, I, da Resolução 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho apenas informa a quitação das contas, sem indicar irregularidades que justifiquem marcar como True.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "23",
+              "descricao": "Termos da Lei n.º 2.423/1996"
+            },
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "189, I",
+              "descricao": "Termos da Resolução 04/2002-TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ofício",
+      "descricao": "Oficiar a Sra. MARTHA MOUTINHO DA C. CRUZ sobre a decisão do presente feito.",
+      "trechos_identificados": [
+        {
+          "trecho": "Oficiar a Sra. MARTHA MOUTINHO DA C. CRUZ sobre a decisão do presente feito.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho apenas informa sobre o envio de um ofício, sem indicar irregularidades que justifiquem marcar como True.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

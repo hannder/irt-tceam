@@ -1,0 +1,457 @@
+{
+  "acordao": "611/2023",
+  "processo": "16185/2022",
+  "data_sessao": "03 de Abril de 2023",
+  "orgao": "Prefeitura Municipal de Caapiranga",
+  "municipio": "Caapiranga",
+  "exercicio": "2022",
+  "responsavel": [],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  SECEX  que  junte  esses  autos  e  extraia  cópia  do Relatório  do  Departamento  de  Auditoria  em  Saúde  (DEAS)  às  fls. 54/123 e do Parecer nº 611/2023-MPC/ELCM (fls. 124/126) à Prestação  de  Contas  Anual  de  Caapiranga,  exercício  2022,  para abertura do contraditório e da ampla defesa, na forma do o inciso I do art.19  e  do  art.  18  da  Lei  nº  2.423/96  c/c  o  art.  81  da  Resolução  nº 4/2002 (RI-TCE/AM), referente aos achados",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  SECEX  que  junte  esses  autos  e  extraia  cópia  do Relatório  do  Departamento  de  Auditoria  em  Saúde  (DEAS)  às  fls. 54/123 e do Parecer nº 611/2023-MPC/ELCM (fls. 124/126) à Prestação  de  Contas  Anual  de  Caapiranga,  exercício  2022,  para abertura do contraditório e da ampla defesa, na forma do o inciso I do art.19  e  do  art.  18  da  Lei  nº  2.423/96 c/c o  art.  81  da  Resolução  nº 4/2002 (RI-TCE/AM), referente aos achados",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O trecho descreve a necessidade de juntar documentos para análise na prestação de contas anual, o que está relacionado à tipologia de ausência de documentação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "18",
+              "descricao": "Abertura de contraditório e ampla defesa"
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "19, I",
+              "descricao": "Abertura de contraditório e ampla defesa"
+            },
+            {
+              "norma": "Resolução nº 4/2002",
+              "artigo": "81",
+              "descricao": "Abertura de contraditório e ampla defesa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "A administração municipal não observou os procedimentos normativos para a realização da conferência municipal de saúde; não apresentou  evidências  de  realização  da  conferência  municipal  de saúde no primeiro ano da gestão e não autuou processo administrativo para a realização da conferência de saúde, tudo em afronta ao art. 1º, §1º, da Lei nº 8142/1990.",
+      "trechos_identificados": [
+        {
+          "trecho": "A administração municipal não observou os procedimentos normativos para a realização da conferência municipal de saúde; não apresentou  evidências  de  realização  da  conferência  municipal  de saúde no primeiro ano da gestão e não autuou processo administrativo para a realização da conferência de saúde, tudo em afronta ao art. 1º, §1º, da Lei nº 8142/1990.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O descumprimento dos procedimentos normativos e a falta de evidências da realização da conferência afetam a transparência na gestão da saúde.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8142/1990",
+              "artigo": "1º, §1º",
+              "descricao": "Procedimentos para a realização da conferência municipal de saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "a administração municipal não apresentou evidências da definição  do  tema  e  diretrizes  pelo  Conselho  Municipal  de Saúde, contrariando o art. 1º, §2º, da Lei nº 8142/1990",
+      "trechos_identificados": [
+        {
+          "trecho": "a administração municipal não apresentou evidências da definição  do  tema  e  diretrizes  pelo  Conselho  Municipal  de Saúde, contrariando o art. 1º, §2º, da Lei nº 8142/1990",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de evidências sobre a definição do tema e diretrizes impacta a transparência e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8142/1990",
+              "artigo": "1º, §2º",
+              "descricao": "Definição do tema e diretrizes pelo Conselho Municipal de Saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "bem como  restou  inerte  quanto  a  estimular  a  população  a participar da  conferência,  divergindo  do  Manual  do  Gestor Municipal do SUS - 2ª edição digital - revisada e ampliada",
+      "trechos_identificados": [
+        {
+          "trecho": "bem como  restou  inerte  quanto  a  estimular  a  população  a participar da  conferência,  divergindo  do  Manual  do  Gestor Municipal do SUS - 2ª edição digital - revisada e ampliada",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A inércia em estimular a participação popular afeta a transparência e o controle social na gestão da saúde.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "o  plano  de  governo  para  a  saúde,  protocolado  junto  à  justiça eleitoral por ocasião das eleições, não foi colocado em debate na  conferência  de  saúde,  sem  obediência  ao  manual  em epígrafe",
+      "trechos_identificados": [
+        {
+          "trecho": "o  plano  de  governo  para  a  saúde,  protocolado  junto  à  justiça eleitoral por ocasião das eleições, não foi colocado em debate na  conferência  de  saúde,  sem  obediência  ao  manual  em epígrafe",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A não apresentação do plano de governo para debate impacta a transparência e a participação popular na gestão da saúde.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "não fora apresentada a formalização dos procedimentos para a escolha  dos  membros  da  comissão  organizadora,  segundo  os critérios  legais,  em  divergência  ao  art.  7º  do  regimento  da conferência",
+      "trechos_identificados": [
+        {
+          "trecho": "não fora apresentada a formalização dos procedimentos para a escolha  dos  membros  da  comissão  organizadora,  segundo  os critérios  legais,  em  divergência  ao  art.  7º  do  regimento  da conferência",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A ausência de formalização dos procedimentos prejudica a transparência e legalidade do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento da conferência",
+              "artigo": "7º",
+              "descricao": "Procedimentos para a escolha dos membros da comissão organizadora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "o Conselho Municipal de Saúde, em conjunto com a comissão organizadora, não elaborou o regimento da conferência descrevendo o processo organizativo, o papel dos delegados e a  regulamentação  para  a  realização  da  plenária  final,  em divergência com o art. 1º, §5º, da Lei nº 8142/1990",
+      "trechos_identificados": [
+        {
+          "trecho": "o Conselho Municipal de Saúde, em conjunto com a comissão organizadora, não elaborou o regimento da conferência descrevendo o processo organizativo, o papel dos delegados e a  regulamentação  para  a  realização  da  plenária  final,  em divergência com o art. 1º, §5º, da Lei nº 8142/1990",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A ausência de elaboração do regimento impacta a transparência e organização da conferência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8142/1990",
+              "artigo": "1º, §5º",
+              "descricao": "Elaboração do regimento da conferência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "administração  municipal  não  apresentou  evidências  de  ampla publicidade à conferência com a definição da localização, data e hora do evento, e nem do seu funcionamento, com os horários de  credenciamento,  abertura,  duração  das  mesas  e  plenária final, em desobediência ao art. 8º, §5º, inciso IV, da Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+      "trechos_identificados": [
+        {
+          "trecho": "administração  municipal  não  apresentou  evidências  de  ampla publicidade à conferência com a definição da localização, data e hora do evento, e nem do seu funcionamento, com os horários de  credenciamento,  abertura,  duração  das  mesas  e  plenária final, em desobediência ao art. 8º, §5º, inciso IV, da Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de publicidade compromete a transparência e o acesso à informação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+              "artigo": "8º, §5º, inciso IV",
+              "descricao": "Ampla publicidade à conferência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "administração  municipal  não  apresentou  a  regulamentação, nem  formalização  dos  procedimentos  para  a  escolha  dos delegados segundo os critérios legais",
+      "trechos_identificados": [
+        {
+          "trecho": "administração  municipal  não  apresentou  a  regulamentação, nem  formalização  dos  procedimentos  para  a  escolha  dos delegados segundo os critérios legais",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de regulamentação e formalização afeta a transparência e legalidade na escolha dos delegados.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "a administração municipal não apresentou evidências de convites  a  palestrantes  especialistas  para  o  enriquecimento técnico dos debates, e nem outros atores, tais como, trabalhadores  da  saúde  e  de  outras  secretarias  de  governo, suplentes de delegados e demais pessoas de outras instituições que poderiam participas na qualidade de observadores",
+      "trechos_identificados": [
+        {
+          "trecho": "a administração municipal não apresentou evidências de convites  a  palestrantes  especialistas  para  o  enriquecimento técnico dos debates, e nem outros atores, tais como, trabalhadores  da  saúde  e  de  outras  secretarias  de  governo, suplentes de delegados e demais pessoas de outras instituições que poderiam participas na qualidade de observadores",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de evidências sobre os convites impacta a transparência e inclusão de diferentes atores.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "a  administração  municipal  não  apresentou  o  orçamento  para custeio das despesas, nem previsão de dotação relacionada à realização  da  conferência,  segundo  os  critérios  no  Manual  do Gestor  Municipal  do  SUS  -  2ª  edição  digital  -  revisada  e ampliada",
+      "trechos_identificados": [
+        {
+          "trecho": "a  administração  municipal  não  apresentou  o  orçamento  para custeio das despesas, nem previsão de dotação relacionada à realização  da  conferência,  segundo  os  critérios  no  Manual  do Gestor  Municipal  do  SUS  -  2ª  edição  digital  -  revisada  e ampliada",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A não apresentação do orçamento afeta a transparência e planejamento financeiro.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "a comissão organizadora não elaborou a minuta do decreto de convocação para o Prefeito assinar, bem como as portarias par publicar  as  decisões  do  conselho  municipal  de  saúde,  com esteio no princípio da oficialidade",
+      "trechos_identificados": [
+        {
+          "trecho": "a comissão organizadora não elaborou a minuta do decreto de convocação para o Prefeito assinar, bem como as portarias par publicar  as  decisões  do  conselho  municipal  de  saúde,  com esteio no princípio da oficialidade",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A ausência da minuta do decreto e das portarias dificulta a transparência e a formalização dos atos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "o processo de votação das proposições da conferência não está claramente  fixado  nas  normas  de  organização (regimento  ou outro ato) da conferência, em desatenção ao art. 1º, §5º, da Lei nº 8142/1990",
+      "trechos_identificados": [
+        {
+          "trecho": "o processo de votação das proposições da conferência não está claramente  fixado  nas  normas  de  organização (regimento  ou outro ato) da conferência, em desatenção ao art. 1º, §5º, da Lei nº 8142/1990",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A não fixação clara do processo de votação impacta a transparência e organização da conferência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8142/1990",
+              "artigo": "1º, §5º",
+              "descricao": "Processo de votação das proposições da conferência"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "não houve registro em ata ou documento similar do resultado de votações,  em  dissonância  com  o  Manual  do  Gestor  Municipal do SUS - 2ª edição digital - revisada e ampliada",
+      "trechos_identificados": [
+        {
+          "trecho": "não houve registro em ata ou documento similar do resultado de votações,  em  dissonância  com  o  Manual  do  Gestor  Municipal do SUS - 2ª edição digital - revisada e ampliada",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A ausência de registro dos resultados das votações impacta a transparência e rastreabilidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "o relatório final da  conferência  não  elencou  as  principais discussões e não detalhou as propostas aprovadas, em divergência  com  o  Manual  do  Gestor  Municipal  do  SUS-  2º edição digital - revisada e ampliada",
+      "trechos_identificados": [
+        {
+          "trecho": "o relatório final da  conferência  não  elencou  as  principais discussões e não detalhou as propostas aprovadas, em divergência  com  o  Manual  do  Gestor  Municipal  do  SUS-  2º edição digital - revisada e ampliada",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de detalhamento no relatório final dificulta a transparência e a compreensão das propostas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "a administração municipal não apresentou evidências da ampla publicidade ao relatório final da conferência, em afronta ao art. 31, parágrafo único, da Lei Complementar nº 141/2012 (transparência e visibilidade da gestão da saúde)",
+      "trechos_identificados": [
+        {
+          "trecho": "a administração municipal não apresentou evidências da ampla publicidade ao relatório final da conferência, em afronta ao art. 31, parágrafo único, da Lei Complementar nº 141/2012 (transparência e visibilidade da gestão da saúde)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de publicidade ao relatório final compromete a transparência e visibilidade da gestão da saúde.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 141/2012",
+              "artigo": "31, parágrafo único",
+              "descricao": "Transparência e visibilidade da gestão da saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "a administração municipal não realizou a conferência de saúde para  servir  de  preparação  e  base  para  o  planejamento  das ações  que  constarão  do  plano  municipal  de  saúde  para  o período 2022-2025, contrariando o art. 96, §7º, da Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+      "trechos_identificados": [
+        {
+          "trecho": "a administração municipal não realizou a conferência de saúde para  servir  de  preparação  e  base  para  o  planejamento  das ações  que  constarão  do  plano  municipal  de  saúde  para  o período 2022-2025, contrariando o art. 96, §7º, da Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A não realização da conferência para o planejamento impacta a transparência e o planejamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+              "artigo": "96, §7º",
+              "descricao": "Conferência de saúde para planejamento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "A administração municipal não observou os procedimentos normativos  para  a  elaboração  do  plano  municipal  de  saúde,  em desobediência ao art. 96, §3º, inciso I, alínea 'e' da PCMS nº 01/2017.",
+      "trechos_identificados": [
+        {
+          "trecho": "A administração municipal não observou os procedimentos normativos  para  a  elaboração  do  plano  municipal  de  saúde,  em desobediência ao art. 96, §3º, inciso I, alínea 'e' da PCMS nº 01/2017.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A não observância dos procedimentos normativos afeta a transparência e o planejamento da saúde.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+              "artigo": "96, §3º, inciso I, alínea 'e'",
+              "descricao": "Elaboração do plano municipal de saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "restou  ausente  a  previsão  orçamentária  para  a  construção  do plano municipal de saúde 2022-2025, em afronta ao art. 1, §2º, da Lei nº 8142/1990",
+      "trechos_identificados": [
+        {
+          "trecho": "restou  ausente  a  previsão  orçamentária  para  a  construção  do plano municipal de saúde 2022-2025, em afronta ao art. 1, §2º, da Lei nº 8142/1990",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A ausência de previsão orçamentária compromete a transparência e planejamento financeiro.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8142/1990",
+              "artigo": "1, §2º",
+              "descricao": "Previsão orçamentária para a construção do plano municipal de saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "não  constam  as  considerações  das  diretrizes  aprovadas  pelo Conselho  Municipal  de  Saúde  e  Conferência  de  Saúde,  na construção do plano municipal de saúde para o período 20222025,  em  dissonância  com  o  art.  96,  §7º,  da  Portaria  de Consolidação do Ministério da Saúde nº 01/2017",
+      "trechos_identificados": [
+        {
+          "trecho": "não  constam  as  considerações  das  diretrizes  aprovadas  pelo Conselho  Municipal  de  Saúde  e  Conferência  de  Saúde,  na construção do plano municipal de saúde para o período 20222025,  em  dissonância  com  o  art.  96,  §7º,  da  Portaria  de Consolidação do Ministério da Saúde nº 01/2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de diretrizes afeta a transparência e a qualidade do planejamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Portaria de Consolidação do Ministério da Saúde nº 01/2017",
+              "artigo": "96, §7º",
+              "descricao": "Considerações das diretrizes no plano municipal de saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "inexistem evidências que comprovem a participação popular na construção do plano municipal de saúde período 2022-2025, em desatenção o art. 31, parágrafo único, da Lei Complementar nº 141/2012",
+      "trechos_identificados": [
+        {
+          "trecho": "inexistem evidências que comprovem a participação popular na construção do plano municipal de saúde período 2022-2025, em desatenção o art. 31, parágrafo único, da Lei Complementar nº 141/2012",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A falta de participação popular impacta a transparência e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 141/2012",
+              "artigo": "31, parágrafo único",
+              "descricao": "Participação popular na construção do plano municipal de saúde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "não

@@ -1,0 +1,255 @@
+{
+  "acordao": "839/2016",
+  "processo": "10156/2013",
+  "data_sessao": "04 de Outubro de 2016",
+  "orgao": "Câmara Municipal de Uarini",
+  "municipio": "Uarini",
+  "exercicio": "2012",
+  "responsavel": [
+    "Agberto de Castro  Marinho"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregular",
+      "descricao": "Julgar Irregular a Prestação de Contas Anuais Câmara Municipal de Uarini, exercício 2012, sob a responsabilidade do senhor Agberto de Castro Marinho, Presidente da Câmara e Ordenadora de Despesa, em decorrência de atos praticados com grave infração às normas legais nos termos da alínea 'b' do inciso III do art. 188 da Resolução 04/2002-TCE/AM, conforme a irregularidade 4",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas Anuais Câmara Municipal de Uarini, exercício 2012, sob a responsabilidade do senhor Agberto de Castro Marinho, Presidente da Câmara e Ordenadora de Despesa, em decorrência de atos praticados com grave infração às normas legais nos termos da alínea 'b' do inciso III do art. 188 da Resolução 04/2002-TCE/AM, conforme a irregularidade 4",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica uma falha grave na apresentação das contas, especificamente a ausência de informações detalhadas que permitam o entendimento da situação financeira da Câmara Municipal, algo que prejudica a transparência e o controle externo. É um descumprimento do princípio da transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002-TCE/AM",
+              "artigo": "188",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar multa ao Sr. Agberto de Castro Marinho, Presidente da Câmara Municipal de Uarini, referente ao exercício 2013, no valor de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do inciso VI do art. 308 da Resolução 4/2002 (RITCE/AM), em decorrência de ato praticado com grave infração às normas legais (irregularidade 4 do Relatório Conclusivo da Unidade Técnica)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Agberto de Castro Marinho, Presidente da Câmara Municipal de Uarini, referente ao exercício 2013, no valor de R$ 8.768,25 (oito mil setecentos e sessenta e oito reais e vinte e cinco centavos), nos termos do inciso VI do art. 308 da Resolução 4/2002 (RITCE/AM), em decorrência de ato praticado com grave infração às normas legais (irregularidade 4 do Relatório Conclusivo da Unidade Técnica)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada em decorrência de atos que infringem normas legais, confirmando a ocorrência de irregularidades contábeis que dificultam a transparência e o controle das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres da Fazenda Estadual do valor das multas impostas, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96, c/c o §4° do art. 174 da Resolução 4/2002 (RI-TCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei 2.423/96)",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias para o recolhimento aos cofres da Fazenda Estadual do valor das multas impostas, com comprovação perante este Tribunal dos valores recolhidos, tudo em conformidade com a alínea 'a' do inciso III do art. 72 da Lei 2.423/96, c/c o §4° do art. 174 da Resolução 4/2002 (RI-TCE/AM), corrigido monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei 2.423/96)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento de multas é um procedimento administrativo padrão, sem indicar irregularidades na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "72",
+              "descricao": "Lei que dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução 4/2002 (RI-TCE/AM)",
+              "artigo": "174",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE-AM."
+            },
+             {
+              "norma": "Lei 2.423/96",
+              "artigo": "55",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Remessa",
+      "descricao": "Remeter os autos à DICREX para que efetue os procedimentos previstos no art. 3º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeter os autos à DICREX para que efetue os procedimentos previstos no art. 3º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A remessa dos autos para a DICREX seguir os procedimentos é uma ação processual interna do TCE/AM, não indicando por si só uma irregularidade, apenas uma etapa do processo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "3º",
+              "descricao": "Dispõe sobre os procedimentos a serem adotados pela Diretoria de Controle Externo do Tribunal de Contas do Amazonas."
+            },
+             {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "5º",
+              "descricao": "Dispõe sobre os procedimentos a serem adotados pela Diretoria de Controle Externo do Tribunal de Contas do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem , nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: não atrase o envio da movimentação contábil, nos termos do art. 4º da Res. n. 07/02 c/c o parágrafo 1º, art. 15, da Lei Complementar n. 06/91, com nova redação dada pela LC n. 24/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "não atrase o envio da movimentação contábil, nos termos do art. 4º da Res. n. 07/02 c/c o parágrafo 1º, art. 15, da Lei Complementar n. 06/91, com nova redação dada pela LC n. 24/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação para não atrasar o envio da movimentação contábil indica um problema recorrente no cumprimento dos prazos estabelecidos, o que prejudica a transparência e o controle das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Res. n. 07/02",
+              "artigo": "4º",
+              "descricao": "Não foi possível identificar a norma exata a que se refere a Res. n. 07/02, sendo necessária mais informações para saber a qual resolução se refere."
+            },
+            {
+              "norma": "Lei Complementar n. 06/91",
+              "artigo": "15",
+              "descricao": "Não foi possível identificar a norma exata a que se refere a Lei Complementar n. 06/91, sendo necessária mais informações para saber a qual Lei Complementar se refere."
+            },
+            {
+              "norma": "LC n. 24/2000",
+              "artigo": "Não informado",
+              "descricao": "Não foi possível identificar a norma exata a que se refere a LC n. 24/2000, sendo necessária mais informações para saber a qual Lei Complementar se refere."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem , nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: implante, urgentemente, sistema de controle interno no Município, com vistas nos termos do exigido pelo caput do art. 74 da Constituição Federal",
+      "trechos_identificados": [
+        {
+          "trecho": "implante, urgentemente, sistema de controle interno no Município, com vistas nos termos do exigido pelo caput do art. 74 da Constituição Federal",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para implantar urgentemente um sistema de controle interno indica uma grave deficiência na gestão pública, com ausência de mecanismos essenciais para garantir a legalidade e a eficiência dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "74",
+              "descricao": "Dispõe sobre o Sistema de Controle Interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem , nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: realize planejamento de compras a fim de que possam ser feitas aquisições de produtos da mesma natureza de uma só vez, pela modalidade de licitação compatível com a estimada da totalidade do valor ser adquirido, abstendo-se de utilizar, nesses casos, o art. 24, inciso II, da Lei federal nº 8.666/93 para justificar a dispensa de licitação, por se caracterizar fracionamento de despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "realize planejamento de compras a fim de que possam ser feitas aquisições de produtos da mesma natureza de uma só vez, pela modalidade de licitação compatível com a estimada da totalidade do valor ser adquirido, abstendo-se de utilizar, nesses casos, o art. 24, inciso II, da Lei federal nº 8.666/93 para justificar a dispensa de licitação, por se caracterizar fracionamento de despesas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Despesa sem cobertura contratual.",
+          "justificativa_tipologia": "A determinação explicita a necessidade de um planejamento de compras para evitar o fracionamento de despesas e a utilização indevida da dispensa de licitação, revelando uma prática inadequada na gestão dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal nº 8.666/93",
+              "artigo": "24",
+              "descricao": "Dispõe sobre as dispensas de licitação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem , nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: encaminhe no prazo estipulado os Relatórios de Gestão Fiscal, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "encaminhe no prazo estipulado os Relatórios de Gestão Fiscal, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A determinação para encaminhar os Relatórios de Gestão Fiscal no prazo estipulado indica um descumprimento das obrigações legais de transparência e controle fiscal, prejudicando o acompanhamento das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "32",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Resolução 11/2009",
+              "artigo": "Não informado",
+              "descricao": "Não foi possível identificar a norma exata a que se refere a Resolução 11/2009, sendo necessária mais informações para saber a qual resolução se refere."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "165",
+              "descricao": "Dispõe sobre a elaboração dos orçamentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem , nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que: observe, por último, que a reincidência, nas próximas Prestações de Contas, das determinações ora veiculadas acarretará o julgamento da Irregularidade da respectiva Conta, conforme prevê a alínea 'e' do inciso III do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+      "trechos_identificados": [
+        {
+          "trecho": "observe, por último, que a reincidência, nas próximas Prestações de Contas, das determinações ora veiculadas acarretará o julgamento da Irregularidade da respectiva Conta, conforme prevê a alínea 'e' do inciso III do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Descumprimento do Programa de Integridade",
+          "justificativa_tipologia": "A reiteração de irregularidades, mesmo após as determinações do órgão de controle, demonstra uma falha sistemática no cumprimento das normas e procedimentos administrativos, o que é característico de um controle interno ineficaz ou inexistente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno/TCE-AM",
+              "artigo": "188",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE-AM."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

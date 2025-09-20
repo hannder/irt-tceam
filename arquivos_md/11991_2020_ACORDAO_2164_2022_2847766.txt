@@ -1,0 +1,45 @@
+{
+  "acordao": "2164/2022",
+  "processo": "11991/2020",
+  "data_sessao": "13 de dezembro de 2022",
+  "orgao": "Câmara Municipal de Amaturá",
+  "municipio": "Amaturá",
+  "exercicio": "2019",
+  "responsavel": [
+    "Orlandino Torquato de Araujo"
+  ],
+  "itens": [
+    {
+      "tipo": "ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Câmara  Municipal  de  Amaturá,  relativa  ao  exercício  de  2019,  de responsabilidade do Sr. Orlandino Torquato de Araújo ,  nos termos do art. 71, II, da CF/88, art. 40, II, da CE/89, art. 1°, II, c/c art. 22, II da Lei n° 2.423/96, e art. 188, § 1°, II, da Resolução n° 04/02-TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar à Câmara Municipal de Amaturá que encaminhe no prazo os balancetes mensais a esta Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Câmara Municipal de Amaturá que encaminhe no prazo os balancetes mensais a esta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação explicita o não envio dos balancetes mensais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "quitação",
+      "descricao": "Dar quitação ao Sr. Orlandino Torquato de Araújo ,  Presidente da Câmara Municipal de Amaturá, nos termos do art. 24, da Lei Estadual nº 2423/96 c/c art. 189, II, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que promova o arquivamento dos presentes autos, após o cumprimento das formalidades legais.",
+      "trechos_identificados": []
+    }
+  ]
+}

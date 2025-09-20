@@ -1,0 +1,225 @@
+{
+  "acordao": "662/2021",
+  "processo": "11345/2017",
+  "data_sessao": "14 de Julho de 2021",
+  "orgao": "Fundo Municipal de Fomento a Micro e Pequena Empresa - FUMIPEQ",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Ananda da Silva Carvalho",
+    "David Valente Reis",
+    "Vicente de Lima Filizzola"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar  regular a  Prestação  de  Contas  Anual  do Fundo  Municipal  de Fomento  a  Micro  e  Pequena  Empresa  -  FUMIPEQ,  exercício  2016,  de responsabilidade  do Sr. David  Valente  Reis -Secretário  Municipal  e Ordenador das despesas no período 01.01 a 31.03, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, I c/c o 24 da Lei 2.423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular a  Prestação  de  Contas  Anual  do Fundo  Municipal  de Fomento  a  Micro  e  Pequena  Empresa  -  FUMIPEQ,  exercício  2016,  de responsabilidade  do Sr. David  Valente  Reis -Secretário  Municipal  e Ordenador das despesas no período 01.01 a 31.03, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, I c/c o 24 da Lei 2.423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Ação de Julgar sem indicação de irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Julgamento das contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos"
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Dispositivo equivalente na Constituição Estadual"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "24",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas do Fundo Municipal de Fomento a Micro e Pequena Empresa -FUMIPEQ, exercício de 2016, de responsabilidade do Sr. Vicente de Lima Filizzola - Secretário Municipal e Ordenador das despesas no período de 01.04 a 23.05, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, I c/c o 24 da Lei 2.423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Fundo Municipal de Fomento a Micro e Pequena Empresa -FUMIPEQ, exercício de 2016, de responsabilidade do Sr. Vicente de Lima Filizzola - Secretário Municipal e Ordenador das despesas no período de 01.04 a 23.05, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, I c/c o 24 da Lei 2.423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Ação de Julgar sem indicação de irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Julgamento das contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos"
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Dispositivo equivalente na Constituição Estadual"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "24",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular a Prestação de Contas do Fundo Municipal de Fomento a Micro e Pequena Empresa -FUMIPEQ, exercício 2016, de responsabilidade da Sra. Ananda da Silva Carvalho -Secretária Municipal e Ordenadora das despesas no período de 24.05 a 31.12, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, I c/c o 24 da Lei 2.423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas do Fundo Municipal de Fomento a Micro e Pequena Empresa -FUMIPEQ, exercício 2016, de responsabilidade da Sra. Ananda da Silva Carvalho -Secretária Municipal e Ordenadora das despesas no período de 24.05 a 31.12, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, I c/c o 24 da Lei 2.423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "Ação de Julgar sem indicação de irregularidades",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "Julgamento das contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos"
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "Dispositivo equivalente na Constituição Estadual"
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "2º",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "5º",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, I",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "24",
+              "descricao": "Define a competência do Tribunal de Contas para fiscalizar as contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo  Municipal  de  Fomento  a  Micro  e  Pequena Empresa - FUMIPEQ que observe com o máximo zelo a Lei de Licitações e Contratos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Fundo  Municipal  de  Fomento  a  Micro  e  Pequena Empresa - FUMIPEQ que observe com o máximo zelo a Lei de Licitações e Contratos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "recomenda a necessidade de observar a lei de licitações, o que indica um risco de descumprimento prévio.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência da decisão ao Sr. David Valente Reis, Sr. Vicente de Lima Filizzola e Sra. Ananda da Silva Carvalho.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência da decisão ao Sr. David Valente Reis, Sr. Vicente de Lima Filizzola e Sra. Ananda da Silva Carvalho.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Ação de dar ciência sem indicar problemas de gestão",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos nos termos regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os autos nos termos regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "Ação de arquivamento sem indicar problemas de gestão",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

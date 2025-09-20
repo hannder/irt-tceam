@@ -1,0 +1,371 @@
+{
+  "acordao": "016/2013",
+  "processo": "1791/2008",
+  "data_sessao": "23 de outubro de 2013",
+  "orgao": "Prefeitura Municipal de Jutaí",
+  "municipio": "Jutaí",
+  "exercicio": "2007",
+  "responsavel": [
+    "Umberto Afonso Lasmar"
+  ],
+  "itens": [
+    {
+      "tipo": "revelia",
+      "descricao": "Declarar a revelia, referente à matéria constante da notificação nº 321 (fl. 321) e 332/2012-DCAMI (fl. 414) e as notificações publicadas no DOE em 28 (fl. 416), 29 (fl. 417) e 30 (fl. 418) de novembro de 2009 e 02/2012-DCOP (fls. 855/858) e Of. nº 2099/2013SP (fl. 452), do Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal de Jutaí , exercício 2007, nos termos do art. 20, § 4º, da Lei Estadual nº 2.423/96, c/c o art. 88 da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Declarar a revelia, referente à matéria constante da notificação nº 321 (fl. 321) e 332/2012-DCAMI (fl. 414) e as notificações publicadas no DOE em 28 (fl. 416), 29 (fl. 417) e 30 (fl. 418) de novembro de 2009 e 02/2012-DCOP (fls. 855/858) e Of. nº 2099/2013SP (fl. 452), do Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal de Jutaí , exercício 2007, nos termos do art. 20, § 4º, da Lei Estadual nº 2.423/96, c/c o art. 88 da Resolução nº 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "Omitir o envio de informação solicitada pelo órgão de controle.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "20, § 4º",
+              "descricao": "Dispõe sobre a revelia."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "88",
+              "descricao": "Dispõe sobre a revelia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar Irregular , a Prestação de Contas da Prefeitura Municipal de Jutaí, exercício de 2007 , de responsabilidade do Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal , enquanto Ordenador de Despesas, nos termos do art. 1º, II e 22, III, 'b)' da Lei nº 2.423/96 c/c o art.188, §1º, III, 'b)' da Resolução nº 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular , a Prestação de Contas da Prefeitura Municipal de Jutaí, exercício de 2007 , de responsabilidade do Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal , enquanto Ordenador de Despesas, nos termos do art. 1º, II e 22, III, 'b)' da Lei nº 2.423/96 c/c o art.188, §1º, III, 'b)' da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Ausencia de informações sobre a origem e a aplicação dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do TCE/AM para julgar as contas dos administradores públicos."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III, 'b)'",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidade das contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, III, 'b)'",
+              "descricao": "Regulamenta o processo de julgamento das contas no âmbito do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "glosa",
+      "descricao": "Determinar a Glosa na importância total de R$ 85.055,00 (oitenta e cinco mil e cinqüenta e cinco reais), nos termos do art. 305 da Resolução nº 04/2002-TCE/AM, considerando em ALCANCE o Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal , resultante da soma dos seguintes valores e respectivas irregularidades:",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a Glosa na importância total de R$ 85.055,00 (oitenta e cinco mil e cinqüenta e cinco reais), nos termos do art. 305 da Resolução nº 04/2002-TCE/AM, considerando em ALCANCE o Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal , resultante da soma dos seguintes valores e respectivas irregularidades",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "Determinação para devolução de valores ao erário devido a ausência de comprovação de despesas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "305",
+              "descricao": "Dispõe sobre a glosa de valores em processos de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "glosa",
+      "descricao": "R$ 7.000,00 (sete mil reais), em razão da ausência de comprovação das despesas com Obras e Instalações da Secretaria Municipal de Infra-estrutura (Urbanismo), referente à Abertura, Drenagem e Pavimentação de Ruas e Avenidas, conforme item 2, do Relatório Conclusivo da DCOP, às fls. 103/105, do Proc. nº 2172/2007.",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 7.000,00 (sete mil reais), em razão da ausência de comprovação das despesas com Obras e Instalações da Secretaria Municipal de Infra-estrutura (Urbanismo), referente à Abertura, Drenagem e Pavimentação de Ruas e Avenidas, conforme item 2, do Relatório Conclusivo da DCOP, às fls. 103/105, do Proc. nº 2172/2007.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A1A",
+          "tipologia_irregularidade": "Fracionamento do objeto, resultando em fuga ao procedimento licitatório",
+          "descricao": "Ausência da conta Depreciação/Amortização/Exaustão acumulada no Balanço Patrimonial.",
+          "justificativa_tipologia": "Despesas com obras sem a devida comprovação, indicando irregularidades nos processos licitatórios e contratações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "glosa",
+      "descricao": "R$ 78.055,00 (setenta e oito mil e cinqüenta e cinco reais), em razão da ausência de comprovação das despesas com Obras e Instalações da Secretaria Municipal de Infra-estrutura (Urbanismo), referente à Ampliação da Rede de Distribuição de Energia Elétrica no Município, conforme item 2, do Relatório Conclusivo da DCOP, às fls. 103/105, do Proc. nº 2172/2007.",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 78.055,00 (setenta e oito mil e cinqüenta e cinco reais), em razão da ausência de comprovação das despesas com Obras e Instalações da Secretaria Municipal de Infra-estrutura (Urbanismo), referente à Ampliação da Rede de Distribuição de Energia Elétrica no Município, conforme item 2, do Relatório Conclusivo da DCOP, às fls. 103/105, do Proc. nº 2172/2007.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A1A",
+          "tipologia_irregularidade": "Fracionamento do objeto, resultando em fuga ao procedimento licitatório",
+          "descricao": "Ausência da conta Depreciação/Amortização/Exaustão acumulada no Balanço Patrimonial.",
+          "justificativa_tipologia": "Ausência de comprovação de despesas em obras, o que sugere irregularidades nos processos licitatórios.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias para o recolhimento da glosa no valor de R$ 85.055,00 (oitenta e cinco mil e cinqüenta e cinco reais), pelo Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal , aos cofres do Tesouro da Fazenda Municipal de Jutaí , com comprovação perante a este Tribunal, acrescido de atualização monetária e dos juros de mora devidos, nos termos do art. 72, III, 'a', da Lei nº 2.423/96, art. 169, I e art. 174, da Resolução nº 04/02, autorizando-se desde já a inscrição do débito na divida ativa e a instauração da cobrança executiva em caso de não recolhimento do valor da condenação, ex vi do art. 173, do Regimento Interno deste Tribunal de Contas;",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias para o recolhimento da glosa no valor de R$ 85.055,00 (oitenta e cinco mil e cinqüenta e cinco reais), pelo Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal , aos cofres do Tesouro da Fazenda Municipal de Jutaí , com comprovação perante a este Tribunal, acrescido de atualização monetária e dos juros de mora devidos, nos termos do art. 72, III, 'a', da Lei nº 2.423/96, art. 169, I e art. 174, da Resolução nº 04/02, autorizando-se desde já a inscrição do débito na divida ativa e a instauração da cobrança executiva em caso de não recolhimento do valor da condenação, ex vi do art. 173, do Regimento Interno deste Tribunal de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "O texto determina o prazo para recolhimento de valores, relacionado a despesas sem comprovação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "72, III, 'a'",
+              "descricao": "Define os procedimentos para o recolhimento de valores devidos ao erário."
+            },
+            {
+              "norma": "Resolução nº 04/02",
+              "artigo": "169, I",
+              "descricao": "Regulamenta a atualização monetária dos débitos."
+            },
+            {
+              "norma": "Resolução nº 04/02",
+              "artigo": "174",
+              "descricao": "Regulamenta a inscrição em dívida ativa e a cobrança executiva."
+            },
+            {
+              "norma": "Regimento Interno",
+              "artigo": "173",
+              "descricao": "Autoriza a inscrição do débito na dívida ativa e a instauração da cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Recomendar à origem a estrita observância das normas legais aplicáveis, notadamente da Lei 8.666/93, Lei 101/2000 (LRF), Lei 2.423/96 (Lei Orgânica do TCE/AM), bem como a Resolução nº 04/2002 (Regimento Interno do TCE/AM) e demais Resoluções desta Corte e ainda o envio tempestivo dos dados informatizados e os demonstrativos contábeis via ACP-TCE/AM, conforme disposto nos art. 3º e 4º da Res. nº 07/2002-ACP/TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar à origem a estrita observância das normas legais aplicáveis, notadamente da Lei 8.666/93, Lei 101/2000 (LRF), Lei 2.423/96 (Lei Orgânica do TCE/AM), bem como a Resolução nº 04/2002 (Regimento Interno do TCE/AM) e demais Resoluções desta Corte e ainda o envio tempestivo dos dados informatizados e os demonstrativos contábeis via ACP-TCE/AM, conforme disposto nos art. 3º e 4º da Res. nº 07/2002-ACP/TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "Recomendação para que o órgão fiscalizado observe as normas de transparência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "N/A",
+              "descricao": "Normas gerais sobre licitações e contratos administrativos."
+            },
+            {
+              "norma": "Lei 101/2000",
+              "artigo": "N/A",
+              "descricao": "Lei de Responsabilidade Fiscal (LRF)."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "N/A",
+              "descricao": "Lei Orgânica do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "N/A",
+              "descricao": "Regimento Interno do TCE/AM."
+            },
+            {
+              "norma": "Res. nº 07/2002-ACP/TCE/AM",
+              "artigo": "3º",
+              "descricao": "Dispõe sobre o envio de dados informatizados ao TCE/AM."
+            },
+            {
+              "norma": "Res. nº 07/2002-ACP/TCE/AM",
+              "artigo": "4º",
+              "descricao": "Dispõe sobre o envio de dados informatizados ao TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "revelia",
+      "descricao": "Declarar a revelia nos processos nºs: 4055/2008; 2172/2007 e 835/2007 , referente à matéria constante da notificação nº 321 (fl. 321), 02/2012-DCOP (fls. 855/858, do proc. 1791/2008) e Of. nº 2099/2013-SP (fl. 452, do proc. nº 1791/2008), do Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal de Jutaí, exercício 2007, nos termos do art. 20, § 4º, da Lei Estadual nº 2.423/96, c/c o art. 88 da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Declarar a revelia nos processos nºs: 4055/2008; 2172/2007 e 835/2007 , referente à matéria constante da notificação nº 321 (fl. 321), 02/2012-DCOP (fls. 855/858, do proc. 1791/2008) e Of. nº 2099/2013-SP (fl. 452, do proc. nº 1791/2008), do Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal de Jutaí, exercício 2007, nos termos do art. 20, § 4º, da Lei Estadual nº 2.423/96, c/c o art. 88 da Resolução nº 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A21B",
+          "tipologia_irregularidade": "Falta de treinamento dos servidores sobre os controles internos",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O texto indica a declaração de revelia devido à falta de resposta às notificações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "20, § 4º",
+              "descricao": "Dispõe sobre a decretação de revelia no âmbito do TCE/AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "88",
+              "descricao": "Regulamenta a aplicação do art. 20, § 4º, da Lei Estadual nº 2.423/96."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "tomar conhecimento",
+      "descricao": "Tomar conhecimento e julgar procedente as denúncias e a representação constantes nos processos nºs: 4055/2008; 2172/2007; 835/2007; 193/2008 e 5506/2007 (apensos).",
+      "trechos_identificados": [
+        {
+          "trecho": "Tomar conhecimento e julgar procedente as denúncias e a representação constantes nos processos nºs: 4055/2008; 2172/2007; 835/2007; 193/2008 e 5506/2007 (apensos).",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "Por confirmar a ocorrencia das denuncias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "arquivamento",
+      "descricao": "Arquivar os processos nºs: 4055/2008; 2172/2007; 835/2007; 193/2008; 5506/2007 e 6439/2007 , do presente feito, tendo em vista que o objeto das denúncias já foram analisados no presente processo 1791/2008, Prestação de Contas da Prefeitura Municipal de Jutaí, exercício 2007, nos quais já consta pela irregularidade, recomendações, aplicação de multa e glosa, inclusive, a determinação da Glosa na importância total de R$ 85.055,00 (oitenta e cinco mil e cinqüenta e cinco reais), nos termos do art. 305 da Resolução nº 04/2002-TCE/AM, considerando em ALCANCE o Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar os processos nºs: 4055/2008; 2172/2007; 835/2007; 193/2008; 5506/2007 e 6439/2007 , do presente feito, tendo em vista que o objeto das denúncias já foram analisados no presente processo 1791/2008, Prestação de Contas da Prefeitura Municipal de Jutaí, exercício 2007, nos quais já consta pela irregularidade, recomendações, aplicação de multa e glosa, inclusive, a determinação da Glosa na importância total de R$ 85.055,00 (oitenta e cinco mil e cinqüenta e cinco reais), nos termos do art. 305 da Resolução nº 04/2002-TCE/AM, considerando em ALCANCE o Sr. UMBERTO AFONSO LASMAR, Prefeito Municipal.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O texto determina o arquivamento dos processos após análise das denúncias.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "305",
+              "descricao": "Menciona a determinação da Glosa na importância total de R$ 85.055,00."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "R$ 1.644,89 , nos termos do artigo 308, inciso I, alínea \"c\", da Resolução nº. 4/2002 - Regimento Interno, em razão do encaminhamento a este Tribunal de Contas, dos registros analíticos (ACP), referente aos meses de janeiro a dezembro do exercício de 2007, com mais de 30 (trinta) dias além do prazo fixado no artigo 4º da Resolução TCE n. 7/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 1.644,89 , nos termos do artigo 308, inciso I, alínea \"c\", da Resolução nº. 4/2002 - Regimento Interno, em razão do encaminhamento a este Tribunal de Contas, dos registros analíticos (ACP), referente aos meses de janeiro a dezembro do exercício de 2007, com mais de 30 (trinta) dias além do prazo fixado no artigo 4º da Resolução TCE n. 7/2002",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O texto aplica multa devido ao envio de registros analíticos (ACP) fora do prazo estabelecido.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 4/2002",
+              "artigo": "308, inciso I, alínea \"c\"",
+              "descricao": "Regimento Interno, em razão do encaminhamento a este Tribunal de Contas, dos registros analíticos (ACP), referente aos meses de janeiro a dezembro do exercício de 2007, com mais de 30 (trinta) dias além do prazo."
+            },
+            {
+              "norma": "Resolução TCE n. 7/2002",
+              "artigo": "4º",
+              "descricao": "Regulamenta o prazo para envio dos registros analíticos (ACP)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "R$ 1.644,89 , conforme artigo 308, inciso I, alínea \"c\", da Resolução n. 4/2002 - Regimento Interno, pelo descumprimento dos artigos 1º e 3º, da Resolução nº. 06/2000; isto é, remessa extemporânea, a esta Corte de Contas, dos Relatórios Resumidos de Execução Orçamentária, previsto no § 3º do artigo 165 da CR/1988 e artigo 52 da LRF;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 1.644,89 , conforme artigo 308, inciso I, alínea \"c\", da Resolução n. 4/2002 - Regimento Interno, pelo descumprimento dos artigos 1º e 3º, da Resolução nº. 06/2000; isto é, remessa extemporânea, a esta Corte de Contas, dos Relatórios Resumidos de Execução Orçamentária, previsto no § 3º do artigo 165 da CR/1988 e artigo 52 da LRF",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa é aplicada pelo descumprimento do prazo de envio dos Relatórios Resumidos de Execução Orçamentária (RREO).",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002 - Regimento Interno",
+              "artigo": "308, inciso I, alínea \"c\"",
+              "descricao": "Define as multas por descumprimento de normas."
+            },
+            {
+              "norma": "Resolução nº. 06/2000",
+              "artigo": "1º",
+              "descricao": "Regulamenta os Relatórios Resumidos de Execução Orçamentária (RREO)."
+            },
+            {
+              "norma": "Resolução nº. 06/2000",
+              "artigo": "3º",
+              "descricao": "Regulamenta os Relatórios Resumidos de Execução Orçamentária (RREO)."
+            },
+            {
+              "norma": "CR/1988",
+              "artigo": "165, § 3º",
+              "descricao": "Prevê os Relatórios Resumidos de Execução Orçamentária (RREO)."
+            },
+            {
+              "norma": "LRF",
+              "artigo": "52",
+              "descricao": "Lei de Responsabilidade Fiscal: Relatórios Resumidos de Execução Orçamentária."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "multa",
+      "descricao": "R$ 3.289,73 , de acordo com o artigo 54, II, da Lei 2.423 de 10.12.1996, c/c o artigo 308, inciso V, alínea 'c', da Resolução TCE n. 4/2002 - Regimento Interno, alterada pela Resolução nº. 01/2009, em razão das irregularidades constantes no item IV do voto do Relator, configuradas como ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial;",
+      "trechos_identificados": [
+        {
+          "trecho": "R$ 3.289,73 , de acordo com o artigo 54, II, da Lei 2.423 de 10.12.1996, c/c o artigo 308, inciso V, alínea 'c', da Resolução TCE n. 4/2002 - Regimento Interno, alterada pela Resolução nº. 01/2009, em razão das irregularidades constantes no item IV do voto do Relator, configuradas como ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "O texto aplica multa por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, o que afeta a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423 de 10.12.1996",
+              "artigo": "54

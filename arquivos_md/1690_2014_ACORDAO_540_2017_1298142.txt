@@ -1,0 +1,48 @@
+{
+  "acordao": "540/2017",
+  "processo": "1690/2014",
+  "data_sessao": "16 de Maio de 2017",
+  "orgao": "Fundo  de Manutenção  e  Desenvolvimento  da  Educação  Básica  e  de Valorização dos Profissionais da Educação - FUNDEB/SEMED",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Darcy  Humberto  Michiles",
+    "Pauderney Tomaz Avelino"
+  ],
+  "itens": [
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o presente processo, em razão de seu objeto já estar analisado e julgado no processo principal nº 1665/2014, o qual abrange seu conteúdo;",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o presente processo, em razão de seu objeto já estar analisado e julgado no processo principal nº 1665/2014, o qual abrange seu conteúdo",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho se refere ao arquivamento do processo por já ter sido analisado em outro processo.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SEPLENO  -  Secretaria  do  Tribunal  Pleno que  após  a ocorrência de coisa julgada administrativa, efetue o registro e proceda ao arquivamento, nos moldes regimentais.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SEPLENO  -  Secretaria  do  Tribunal  Pleno que  após  a ocorrência de coisa julgada administrativa, efetue o registro e proceda ao arquivamento, nos moldes regimentais.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "O trecho se refere a determinar a SEPLENO que efetue registro e arquivamento nos moldes regimentais",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

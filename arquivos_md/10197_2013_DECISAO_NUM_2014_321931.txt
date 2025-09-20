@@ -1,0 +1,131 @@
+{
+  "acordao": "29/2013",
+  "processo": "10138/2012",
+  "data_sessao": "02/05/2013",
+  "orgao": "Prefeitura Municipal de Japurá",
+  "municipio": "Japurá",
+  "exercicio": "2012",
+  "responsavel": [
+    "Raimundo Guedes dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa de R$ 1.096,03 ao Senhor RAIMUNDO GUEDES DOS SANTOS, ex-prefeito de Japurá, em razão da inadimplência de dados relacionados ao Relatório de Gestão Fiscal (1º semestre) nos termos do art. 308, II, da Resolução n 4/2002-TCE/AM com a nova redação dada art. 20, da Resolução n 25/2012 TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa de R$ 1.096,03 ao Senhor RAIMUNDO GUEDES DOS SANTOS, ex-prefeito de Japurá, em razão da inadimplência de dados relacionados ao Relatório de Gestão Fiscal (1º semestre) nos termos do art. 308, II, da Resolução n 4/2002-TCE/AM com a nova redação dada art. 20, da Resolução n 25/2012 TCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho indica descumprimento da legislação relacionada à publicação de dados sobre a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n 4/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Artigo que versa sobre a multa aplicada devido a inadimplência de dados."
+            },
+            {
+              "norma": "Resolução n 25/2012 TCE/AM",
+              "artigo": "20",
+              "descricao": "Artigo que versa sobre a nova redação dada a Resolução n 4/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa de RS 2192,06 ao Senhor RAIMUNDO GUEDES DOS SANTOS, ex-prefeito de Japurá, em razão da inadimplência de dados relacionados aos Relatórios Resumidos de Execução Orçamentária (1º e 2º bimestres), nos temos do art. 308, II, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pelo art. 20, da Resolução n. 25/2012-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa de RS 2192,06 ao Senhor RAIMUNDO GUEDES DOS SANTOS, ex-prefeito de Japurá, em razão da inadimplência de dados relacionados aos Relatórios Resumidos de Execução Orçamentária (1º e 2º bimestres), nos temos do art. 308, II, da Resolução n. 4/2002-TCE/AM, com a nova redação dada pelo art. 20, da Resolução n. 25/2012-TCE/AM.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Não Envio dos dados do RREO.",
+          "justificativa_tipologia": "O trecho indica descumprimento da legislação relacionada ao envio de dados sobre a gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 4/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Artigo que versa sobre a multa aplicada devido a inadimplência de dados."
+            },
+            {
+              "norma": "Resolução n. 25/2012-TCE/AM",
+              "artigo": "20",
+              "descricao": "Artigo que versa sobre a nova redação dada a Resolução n 4/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias (artigo 174 do Regimento Interno) para que o Senhor RAIMUNDO GUEDES DOS SANTOS, recolha aos cofres da Fazenda Estadual as multas ora aplicadas, com a devida comprovação nos autos. Na hipótese de expirar este prazo; os valores das multas deverão ser atualizados monetariamente (artigo 55, da Lei n. 2423/1996) , ficando a DICREX autorizada a adotar as medidas previstas no artigo 173 da Subseção III, da Seção IlI, do Capítulo X; da Resolução TC n. 4/2002.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias (artigo 174 do Regimento Interno) para que o Senhor RAIMUNDO GUEDES DOS SANTOS, recolha aos cofres da Fazenda Estadual as multas ora aplicadas, com a devida comprovação nos autos.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho determina o prazo para cumprimento de uma sanção, sem indicar um problema estrutural ou recorrente na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "174",
+              "descricao": "Artigo que define o prazo para o cumprimento da determinação."
+            }
+          ]
+        },
+        {
+          "trecho": "Na hipótese de expirar este prazo; os valores das multas deverão ser atualizados monetariamente (artigo 55, da Lei n. 2423/1996) , ficando a DICREX autorizada a adotar as medidas previstas no artigo 173 da Subseção III, da Seção IlI, do Capítulo X; da Resolução TC n. 4/2002.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho descreve procedimentos internos do TCE para cobrança de multas, sem apontar problemas na gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "55",
+              "descricao": "Artigo que determina a atualização monetária dos valores das multas."
+            },
+            {
+              "norma": "Resolução TC n. 4/2002",
+              "artigo": "173",
+              "descricao": "Artigo que autoriza a DICREX a adotar medidas para cobrança das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Encaminhar à DICAMI, cópia dessa Decisão; para que proceda à juntada nos autos da Prestação de Contas do Município de Japurá; exercício de 2012, quando do seu ingresso nesta Corte de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "Encaminhar à DICAMI, cópia dessa Decisão; para que proceda à juntada nos autos da Prestação de Contas do Município de Japurá; exercício de 2012, quando do seu ingresso nesta Corte de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho descreve um procedimento interno do TCE, e não se refere a uma irregularidade ou problema estrutural na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

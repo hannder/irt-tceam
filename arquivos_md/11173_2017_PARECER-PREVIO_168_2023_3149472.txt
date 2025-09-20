@@ -1,0 +1,69 @@
+{
+  "acordao": "168/2023",
+  "processo": "11173/2017",
+  "data_sessao": "17 de Outubro de 2023",
+  "orgao": "Prefeitura Municipal de Presidente Figueiredo",
+  "municipio": "Presidente Figueiredo",
+  "exercicio": "2016",
+  "responsavel": [
+    "Neilson da Cruz Cavalcante"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas anuais:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência de apresentação do documento comprovando que as Contas Anuais foram apresentadas ao Poder Executivo do Estado, no prazo  estabelecido  no  artigo  51,  parágrafo  1º,  I,  da  LC  nº  101/2000 (LRF);",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de apresentação do documento comprovando que as Contas Anuais foram apresentadas ao Poder Executivo do Estado, no prazo  estabelecido  no  artigo  51,  parágrafo  1º,  I,  da  LC  nº  101/2000 (LRF);",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "O trecho descreve a ausência de documento obrigatório para a prestação de contas, conforme especificado na LRF.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC nº 101/2000",
+              "artigo": "51, parágrafo 1º, I",
+              "descricao": "Estabelece o prazo para apresentação das contas anuais ao Poder Executivo do Estado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Ausência  de  esclarecimento  sobre  o  atraso  no  envio  das movimentações  contábeis  da  Prefeitura  de  Presidente  Figueiredo  do referido exercício, as quais deveriam ter sido encaminhadas por meio Sistema  e-Contas  (Resolução  n°  13/2015/TCEAM)  ao  Tribunal  de Contas no prazo estabelecido na LC n° 06/1991.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  esclarecimento  sobre  o  atraso  no  envio  das movimentações  contábeis  da  Prefeitura  de  Presidente  Figueiredo  do referido exercício, as quais deveriam ter sido encaminhadas por meio Sistema  e-Contas  (Resolução  n°  13/2015/TCEAM)  ao  Tribunal  de Contas no prazo estabelecido na LC n° 06/1991.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho descreve o atraso no envio de informações contábeis e a ausência de justificativa para tal atraso.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 13/2015/TCEAM",
+              "artigo": "Não aplicável",
+              "descricao": "Estabelece procedimentos para o envio de informações contábeis ao TCE/AM por meio do sistema e-Contas."
+            },
+            {
+              "norma": "LC n° 06/1991",
+              "artigo": "Não aplicável",
+              "descricao": "Estabelece prazos para o envio de movimentações contábeis."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

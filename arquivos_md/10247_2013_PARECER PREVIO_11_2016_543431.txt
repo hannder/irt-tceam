@@ -1,0 +1,305 @@
+{
+  "acordao": "11/2016",
+  "processo": "10247/2013",
+  "data_sessao": "09 de Março de 2016",
+  "orgao": "Prefeitura Municipal de Atalaia do Norte",
+  "municipio": "Atalaia do Norte",
+  "exercicio": "2012",
+  "responsavel": [
+    "Anete Peres Castro Pinto"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar IRREGULAR a Prestação de Contas do Chefe do Poder Executivo Municipal  de  Atalaia  do  Norte,  referente  ao  exercício  de  2012,  de  responsabilidade  da Sra. Anete Peres Castro Pinto , na qualidade de ordenadora de despesas, nos termos do art. 22, III, 'b', c/c o art. 25, ambos da Lei n. 2423/96 e artigos 11, III, 'a', e 188, §1º, III, 'a' e 'b', todos da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar IRREGULAR a Prestação de Contas do Chefe do Poder Executivo Municipal  de  Atalaia  do  Norte,  referente  ao  exercício  de  2012,  de  responsabilidade  da Sra. Anete Peres Castro Pinto , na qualidade de ordenadora de despesas, nos termos do art. 22, III, 'b', c/c o art. 25, ambos da Lei n. 2423/96 e artigos 11, III, 'a', e 188, §1º, III, 'a' e 'b', todos da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A deliberação indica que a prestação de contas foi julgada irregular, apontando para possíveis distorções na forma como as contas foram apresentadas e avaliadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "Responsabilidades do ordenador de despesas."
+            },
+            {
+              "norma": "Lei n. 2423/96",
+              "artigo": "25",
+              "descricao": "Penalidades para irregularidades."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "11, III, 'a'",
+              "descricao": "Procedimentos para julgamento de contas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "188, §1º, III, 'a' e 'b'",
+              "descricao": "Disposições sobre irregularidades e sanções."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Julgar a  gestora,  Sra. Anete  Peres  Castro  Pinto , Prefeita  à  época, REVEL ,  na  forma do art.  20,  § 3º,  Lei nº 2423/96, por não ter apresentado documento e/ou  justificativa  no  prazo  estabelecido  por  este  Tribunal  de  Contas,  das  Restrições contidas  na  notificação  n°  01/2013-CI/DICAMI/ATALAIA  DO  NORTE/2012  e  notificação 01/2013-CI/DICOP/ATL EXERCÍCIO/2012",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar a  gestora,  Sra. Anete  Peres  Castro  Pinto , Prefeita  à  época, REVEL ,  na  forma do art.  20,  § 3º,  Lei nº 2423/96, por não ter apresentado documento e/ou  justificativa  no  prazo  estabelecido  por  este  Tribunal  de  Contas,  das  Restrições contidas  na  notificação  n°  01/2013-CI/DICAMI/ATALAIA  DO  NORTE/2012  e  notificação 01/2013-CI/DICOP/ATL EXERCÍCIO/2012",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A gestora foi considerada em REVELIA por não apresentar os documentos requeridos no prazo estabelecido.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "20, § 3º",
+              "descricao": "Consequências da revelia no processo de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  ALCANCE a  responsável,  Sra. Anete  Peres  Castro Pinto , Prefeita à época: 9.3.1 pelo  valor  de  R$ 6.621.000,86 (seis milhões, seiscentos e vinte e um mil  reais  e  oitenta  e  seis  centavos),  na  forma  do  art.  304,  da  Resolução  n°  04/2002RITCE,  referente  às  restrições  contidas  nos  itens:  '9..25',  '9.28','9.29',  '9.30',  '9.31', '9.33', '9.34' e '9.35' do Relatório-Voto, diante da apuração realizada na Informação n° 1096/2015-DICAMI",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  ALCANCE a  responsável,  Sra. Anete  Peres  Castro Pinto , Prefeita à época: 9.3.1 pelo  valor  de  R$ 6.621.000,86 (seis milhões, seiscentos e vinte e um mil  reais  e  oitenta  e  seis  centavos),  na  forma  do  art.  304,  da  Resolução  n°  04/2002RITCE,  referente  às  restrições  contidas  nos  itens:  '9..25',  '9.28','9.29',  '9.30',  '9.31', '9.33', '9.34' e '9.35' do Relatório-Voto, diante da apuração realizada na Informação n° 1096/2015-DICAMI",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A gestora foi responsabilizada por alcance de recursos, indicando irregularidades na execução orçamentária e pagamentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "304",
+              "descricao": "Procedimentos para alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar  em  ALCANCE a  responsável,  Sra. Anete  Peres  Castro Pinto , Prefeita à época: 9.3.2  pelo  débito  apurado  no  valor  de  R$ 9.541.412,30 (nove  milhões quinhentos e quarenta e um mil quatrocentos e doze reais e trinta centavos), nos termos do  art.  304  da  Resolução  nº  04/2002,  descritos  no  item  11.a.,  11.b,  11.c,  11.d  do Relatório-Voto, conforme apuração realizada na Informação n° 524/2015-DICOP",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  ALCANCE a  responsável,  Sra. Anete  Peres  Castro Pinto , Prefeita à época: 9.3.2  pelo  débito  apurado  no  valor  de  R$ 9.541.412,30 (nove  milhões quinhentos e quarenta e um mil quatrocentos e doze reais e trinta centavos), nos termos do  art.  304  da  Resolução  nº  04/2002,  descritos  no  item  11.a.,  11.b,  11.c,  11.d  do Relatório-Voto, conforme apuração realizada na Informação n° 524/2015-DICOP",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A gestora foi responsabilizada por alcance de recursos, indicando irregularidades na execução orçamentária e pagamentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002",
+              "artigo": "304",
+              "descricao": "Procedimentos para alcance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores: R$ 2.192,06 (Dois mil, cento e noventa e dois reais e seis centavos), nos termos do art. 308, I, 'a', da Resolução n° 04/2002-RITCE, por não  atendimento à diligência desta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores: R$ 2.192,06 (Dois mil, cento e noventa e dois reais e seis centavos), nos termos do art. 308, I, 'a', da Resolução n° 04/2002-RITCE, por não  atendimento à diligência desta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Multa aplicada por não atendimento à diligência, o que caracteriza falha no envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "308, I, 'a'",
+              "descricao": "Sanções por não atendimento às solicitações do TCE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores: R$ 13.152,36 (Treze mil, cento e cinquenta e dois reais e trinta e seis centavos), nos ternos do art. 308, II, da Resolução n° 04/2002-RITCE, referente ao item 9.1 deste Voto que versa sobre a intempestividade na remessa via ACP dos Registros Analíticos dos meses de Janeiro a dezembro de 2012",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores: R$ 13.152,36 (Treze mil, cento e cinquenta e dois reais e trinta e seis centavos), nos ternos do art. 308, II, da Resolução n° 04/2002-RITCE, referente ao item 9.1 deste Voto que versa sobre a intempestividade na remessa via ACP dos Registros Analíticos dos meses de Janeiro a dezembro de 2012",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Multa aplicada devido à intempestividade na remessa de registros, caracterizando falha no envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "308, II",
+              "descricao": "Sanções por atraso no envio de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores: R$ 6.576,18 (seis  mil,  quinhentos  e  setenta  e  seis  reais  e  dezoito centavos), nos termos do art. 308,  II, da Resolução n° 04/2002-RITCE, pelo atraso no envio  ao  TCE/AM  dos  dados  referentes  ao  RREO  do  2º  ao  6º  bimestre  de  2012,  em relação ao item 9.15.1 do Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores: R$ 6.576,18 (seis  mil,  quinhentos  e  setenta  e  seis  reais  e  dezoito centavos), nos termos do art. 308,  II, da Resolução n° 04/2002-RITCE, pelo atraso no envio  ao  TCE/AM  dos  dados  referentes  ao  RREO  do  2º  ao  6º  bimestre  de  2012,  em relação ao item 9.15.1 do Relatório-Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Multa aplicada pelo atraso no envio dos dados referentes ao RREO, indicando descumprimento de prazos para envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "308, II",
+              "descricao": "Sanções por atraso no envio de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores:R$ 2.192,06 (Dois mil, cento e noventa e dois reais e seis centavos), nos  termos  do  art.  308,  II,  da  Resolução  n°  04/2002-RITCE,  pelo  atraso  no  envio  ao TCE/AM dos dados referentes ao RGF dos dois semestres, referente ao item 9.15.2 do Relatório-Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores:R$ 2.192,06 (Dois mil, cento e noventa e dois reais e seis centavos), nos  termos  do  art.  308,  II,  da  Resolução  n°  04/2002-RITCE,  pelo  atraso  no  envio  ao TCE/AM dos dados referentes ao RGF dos dois semestres, referente ao item 9.15.2 do Relatório-Voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Multa aplicada devido ao atraso no envio dos dados referentes ao RGF, indicando descumprimento de prazos para envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RITCE",
+              "artigo": "308, II",
+              "descricao": "Sanções por atraso no envio de documentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores:R$ 15.000,00 (Quinze  mil  reais),  nos  termos  do  art.  308,  VI,  da Resolução nº 04/2002-RITCE, relacionados aos itens do Relatório-Voto: 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8, 9.9, 9.10, 9.11, 9.12, 9.13, 9.14, 9.15, 9.16, 9.17, 9.18, 9.19, 9.20, 9.21, 9.22,  9.23,  9.24,  9.26,  9.27,  9.28,  9.29, 9.30,  9.31,  9.32,  9.33,  9.34,  9.35  e  9.36  em consonância com a análise realizada pela DICAMI, e aos itens:  10.1, 10.2, 10.3, 10.4, 10.5, 10.6, 10.7, 10.8, 10.9, 10.10, 10.11, 10.12, 10.13, 10.14, 10.15, 10.16, 10.17, 10.18, 10.19, 10.20, 10.21, 10.22, 10.23, 10.24, 10.25, 10.26, 10.27, 10.28, 10.29, 10.30, 10.31, 10.32, 10.33 e 10.34, em relação ao apurado pela DICOP",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  MULTAS à  Sra. Anete  Peres Castro Pinto ,  Prefeita  à  época, nos seguintes valores:R$ 15.000,00 (Quinze  mil  reais),  nos  termos  do  art.  308,  VI,  da Resolução nº 04/2002-RITCE, relacionados aos itens do Relatório-Voto: 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 9.7, 9.8, 9.9, 9.10, 9.11, 9.12, 9.13, 9.14, 9.15, 9.16, 9.17, 9.18, 9.19, 9.20, 9.21, 9.22,  9.23,  9.24,  9.26,  9.27,  9.28,  9.29, 9.30,  9.31,  9.32,  9.33,  9.34,  9.35  e  9.36  em consonância com a análise realizada pela DICAMI, e aos itens:  10.1, 10.2, 10.3, 10.4, 10.5, 10.6, 10.7, 10.8, 10.9, 10.10, 10.11, 10.12, 10.13, 10.14, 10.15, 10.16, 10.17, 10.18, 10.19, 10.20, 10.21, 10.22, 10.23, 10.24, 10.25, 10.26, 10.27, 10.28, 10.29, 10.30, 10.31, 10.32, 10.33 e 10.34, em relação ao apurado pela DICOP",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Distorção de apresentação, avaliação e classificação contábil",
+          "descricao": "Distorção de apresentação, avaliação e classificação contábil",
+          "justificativa_tipologia": "A multa foi aplicada com base em diversos itens do relatório, o que indica irregularidades materiais na gestão contábil e administrativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002-RITCE",
+              "artigo": "308, VI",
+              "descricao": "Sanções por diversas irregularidades identificadas na gestão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Representação",
+      "descricao": "REPRESENTAR ao Ministério  Público  Estadual,  enviando-lhe  cópia integral do processo, para adoção de medidas que julgar necessárias, sobre as restrições não  sanadas,  contidas  nos  itens:  '9.25',  '9.28',  '9.29',  '9.30',  '9.31',  '9.33',  '9.34'  e '9.35', à salvaguarda dos recursos públicos geridos pela Prefeitura Municipal de Atalaia do Norte, art. 1º, XXIV, da Lei 2.423/96 c/c art. 71, IX, da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "REPRESENTAR ao Ministério  Público  Estadual,  enviando-lhe  cópia integral do processo, para adoção de medidas que julgar necessárias, sobre as restrições não  sanadas,  contidas  nos  itens:  '9.25',  '9.28',  '9.29',  '9.30',  '9.31',  '9.33',  '9.34'  e '9.35', à salvaguarda dos recursos públicos geridos pela Prefeitura Municipal de Atalaia do Norte, art. 1º, XXIV, da Lei 2.423/96 c/c art. 71, IX, da CF/88",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Suposto Desvio de recursos públicos",
+          "justificativa_tipologia": "A representação ao Ministério Público indica suspeita de desvio de recursos públicos não sanados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, XXIV",
+              "descricao": "Competências do TCE para salvaguarda de recursos públicos."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "71, IX",
+              "descricao": "Competências do TCU, aplicáveis por analogia, para fiscalização e representação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar  o  prazo de  30  (trinta)  dias  para  o  recolhimento  das  multas  aos cofres da Fazenda Estadual, com a devida comprovação nos autos perante este Tribunal, nos termos do art. 72, III, da Lei 2423/96. Expirado prazo estabelecido, os valores das  multas deverão ser atualizados monetariamente (art. 55, da Lei nº 2.423/96 c/c o art. 308, § 3º da Resolução nº 04/2002-TCE/AM), autorizando desde já a inscrição das penalidades na dívida ativa e a instauração da Cobrança Executiva em caso de não-recolhimento dos valores  das  condenações, ex  vi do  art.  173,  do  Regimento  Interno  deste  Tribunal  de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar  o  prazo de  30  (trinta)  dias  para  o  recolhimento  das  multas  aos cofres da Fazenda Estadual, com a devida comprovação nos autos perante este Tribunal, nos termos do art. 72, III, da Lei 2423/96. Expirado prazo estabelecido, os valores das  multas deverão ser atualizados monetariamente (art. 55, da Lei nº 2.423/96 c/c o art. 308, § 3º da Resolução nº 04/2002-TCE/AM), autorizando desde já a inscrição das penalidades na dívida ativa e a instauração da Cobrança Executiva em caso de não-recolhimento dos valores  das  condenações, ex  vi do  art.  173,  do  Regimento  Interno  deste  Tribunal  de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A8B",
+          "tipologia_irregularidade": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "descricao": "Execução financeira de programas em percentual superior ao programado/autorizado",
+          "justificativa_tipologia": "Prazo estabelecido para o recolhimento de multas, referente a irregularidades na execução orçamentária e financeira.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "72, III",
+              "descricao": "Disposições sobre o recolhimento de multas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "55",
+              "descricao": "Atualização monetária de débitos."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308, § 3º",
+              "descricao": "Atualização monetária de multas."
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Inscrição em dívida ativa e cobrança executiva."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Prazo",
+      "descricao": "Fixar  o  prazo de  30  (trinta)  dias  para  o  recolhimento  dos  valores aplicados em alcance a responsável, para que sejam devolvidos aos cofres da Prefeitura Municipal  de  Atalaia  do  Norte,  com  a  devida  comprovação  nos  autos  perante  a  este Tribunal, acrescido de atualização monetária e dos juros de mora devidos, nos termos do art 72, III, da Lei nº 2.423/96 e art 169, I, da Resolução nº 04/02, autorizando desde já a inscrição do débito na dívida ativa e a instauração da Cobrança Executiva em caso de não recolhimento dos valores das condenações , ex vi do art. 173, do Regimento Interno deste Tribunal de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar  o  prazo de  30  (trinta)  dias  para  o  recolhimento  dos  valores aplicados em alcance a responsável, para que sejam devolvidos aos cofres da Prefeitura Municipal  de  Atalaia  do  Norte,  com  a  devida  comprovação nos autos perante a  este Tribunal, acrescido de atualização monetária e dos juros de mora devidos, nos termos do art 72, III, da Lei nº 2.423/96 e art 169,

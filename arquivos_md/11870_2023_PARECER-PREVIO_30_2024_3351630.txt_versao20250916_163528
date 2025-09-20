@@ -1,0 +1,222 @@
+{
+  "acordao": "30/2024",
+  "processo": "11870/2023",
+  "data_sessao": "23 de abril de 2024",
+  "orgao": "TCE",
+  "municipio": "Boa Vista do Ramos",
+  "exercicio": "2022",
+  "responsavel": [
+    "Eraldo Trindade da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar que o Poder Executivo Municipal cumpra com rigor os prazos de envio ao TCE/AM e de publicação, do RREO (bimestral) e do RGF (semestral ou quadrimestral)",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que  o  Poder  Executivo  Municipal  cumpra  com  rigor  os prazos de envio ao TCE/AM e de publicação, do RREO (bimestral) e do RGF (semestral ou quadrimestral)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação está relacionada a publicação de documentos obrigatórios por lei, portanto relevante para o índice. A tipologia reflete a ausência de publicação do RREO, que é o objeto da determinação.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar que o Poder Executivo Municipal cumpra com rigor os prazos de remessa dos dados Sistema de Informações sobre Orçamentos Públicos em Educação - SIOPE",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que  o  Poder  Executivo  Municipal  cumpra  com  rigor  os prazos de remessa dos dados Sistema de Informações sobre Orçamentos Públicos em Educação - SIOPE",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A9B",
+          "tipologia_irregularidade": "Incompatibilidade entre dados do E-contas e SIOPE",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação exige cumprimento de prazos para o SIOPE, visando a compatibilidade entre dados de diferentes sistemas, o que é relevante. A tipologia reflete a incompatibilidade entre os sistemas, uma falha de reporte.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar que o Poder Executivo Municipal atente para que a realização da conferência aconteça no primeiro ano da gestão e antes da construção do Plano Municipal de Saúde e do encaminhamento projeto de lei do PPA à Câmara Municipal dos Vereadores, sob pena de irregularidade nas contas conforme art. 22, III, § 3º, da Lei Estadual nº 2.423/96, bem como penalizações, de acordo com art. 308, IV, \"b\", RITCEAM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar que  o  Poder  Executivo  Municipal  atente  para  que  a realização da conferência aconteça no primeiro ano da gestão e antes da  construção  do  Plano  Municipal  de  Saúde  e  do  encaminhamento projeto de lei do PPA à Câmara Municipal dos Vereadores, sob pena de irregularidade nas contas conforme art. 22, III, § 3º, da Lei Estadual nº 2.423/96,  bem  como  penalizações,  de  acordo  com  art.  308,  IV,  \"b\", RITCEAM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "PLANEJAMENTO",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação visa garantir a realização da conferência de saúde no tempo adequado, o que é relevante para o planejamento e legitimidade das ações. A tipologia reflete o empenho em desacordo com o planejamento, que seria a ausência de detalhamento adequado no planejamento orçamentário.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "22, III, § 3º",
+              "descricao": "Estabelece penalidades para irregularidades nas contas."
+            },
+            {
+              "norma": "RITCEAM",
+              "artigo": "308, IV, \"b\"",
+              "descricao": "Regulamento Interno do TCE-AM, dispõe sobre penalizações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar em articulação com o Conselho Municipal de Saúde e a Secretaria municipal de saúde, que seja realizada a conferência municipal de saúde para a construção das diretrizes que nortearão a elaboração do planejamento em saúde do município para o período 2022 - 2025 considerando que o requisito de legitimidade e de validade do orçamento da saúde perpassa pela observância ao procedimento legal estabelecido para a elaboração do Plano Plurianual, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual. Por conseguinte, poderão reputar-se ilegítimas as despesas com ações e serviços públicos de saúde para fins de cômputo do limite mínimo na forma do Art. 2º, inciso II da Lei Complementar nº 141/2012",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar em  articulação  com  o  Conselho  Municipal  de  Saúde  e  a Secretaria municipal de  saúde,  que  seja  realizada  a conferência municipal  de  saúde  para  a  construção  das  diretrizes  que  nortearão  a elaboração  do  planejamento  em  saúde  do  município  para  o  período 2022 - 2025 considerando que o requisito de legitimidade e de validade do  orçamento  da  saúde  perpassa  pela  observância  ao  procedimento legal  estabelecido  para  a  elaboração  do  Plano  Plurianual,  Lei  de Diretrizes  Orçamentárias  e  Lei  Orçamentária  Anual.  Por  conseguinte, poderão  reputar-se  ilegítimas  as  despesas com ações e serviços públicos de saúde para fins de cômputo do limite mínimo na forma do Art. 2º, inciso II da Lei Complementar nº 141/2012",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação exige a realização da conferência municipal de saúde, enfatizando a construção de diretrizes para o planejamento em saúde. A tipologia reflete o empenho em desacordo com o planejamento orçamentário.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 141/2012",
+              "artigo": "2º, inciso II",
+              "descricao": "Estabelece critérios para o cômputo do limite mínimo de despesas com ações e serviços públicos de saúde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar o encaminhamento de Projeto de Lei à Câmara dos Vereadores para adequar o PPA 2022 - 2025 a fim de conferir legitimidade às despesas com as ações e serviços públicos de saúde executados pelo município e cômputo das despesas com a aplicação mínima na forma do Art. 2º, inciso II da LC nº 141/2012",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  de  Projeto  de  Lei  à  Câmara  dos Vereadores  para  adequar  o  PPA  2022  -  2025  a  fim  de  conferir legitimidade às despesas com as ações e serviços públicos de saúde executados pelo município e cômputo das despesas com a aplicação mínima na forma do Art. 2º, inciso II da LC nº 141/2012",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "SAÚDE",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação exige o encaminhamento de um projeto de lei para adequar o PPA, buscando legitimidade para as despesas com saúde. A tipologia reflete o empenho em desacordo com o planejamento, ou seja, ações sendo feitas sem o devido planejamento orçamentário.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC nº 141/2012",
+              "artigo": "2º, inciso II",
+              "descricao": "Estabelece critérios para o cômputo do limite mínimo de despesas com ações e serviços públicos de saúde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar por força do Art. 48 da LRF, a publicação dos instrumentos da gestão fiscal, inclusive em meios eletrônicos de acesso público: os planos, orçamentos e leis de diretrizes orçamentárias; as prestações de contas e o respectivo parecer prévio; o Relatório Resumido da Execução Orçamentária e o Relatório de Gestão Fiscal; e as versões simplificadas desses documentos",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar por força do Art. 48 da LRF, a publicação dos instrumentos da gestão fiscal, inclusive em meios eletrônicos de acesso público: os planos, orçamentos e leis de diretrizes orçamentárias; as prestações de contas e o respectivo parecer prévio; o Relatório Resumido  da Execução Orçamentária e o Relatório de Gestão Fiscal; e as versões simplificadas desses documentos",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação exige a publicação de instrumentos de gestão fiscal, o que é crucial para a transparência. A tipologia reflete a ausência de divulgação das publicações no site de transparência.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "LRF",
+              "artigo": "48",
+              "descricao": "Determina a publicação dos instrumentos de gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar a Prefeitura Municipal de Boa Vista do Ramos, que realize a convocação da conferência municipal de saúde para avaliar a situação de saúde no município e propor as diretrizes para a formulação da política de saúde para a construção do planejamento do município para o quadriênio 2022 - 2025",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar a  Prefeitura  Municipal  de  Boa  Vista  do  Ramos, que realize a convocação da conferência municipal de saúde para avaliar a situação de saúde no município e propor as diretrizes para a formulação da política de saúde para a construção do planejamento do município para o quadriênio 2022 - 2025",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "PLANEJAMENTO",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação diz respeito à convocação da conferência municipal para avaliar a situação de saúde e propor diretrizes para o planejamento do município, o que impacta o planejamento como um todo. A tipologia reflete o empenho em desacordo com o planejamento orçamentário, que parte do planejamento da saúde e da política.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar a Prefeitura Municipal de Boa Vista do Ramos autue, em conjunto com o Conselho Municipal de Saúde e Direção Municipal do SUS, processo administrativo no âmbito da prefeitura para a juntada de todos os atos praticados para a realização da conferência municipal de saúde por meio do sistema de processo administrativo utilizado pela prefeitura",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar a Prefeitura Municipal de Boa Vista do Ramos autue, em conjunto com o Conselho Municipal de Saúde e Direção Municipal do SUS, processo administrativo no âmbito da prefeitura para a juntada de todos os atos praticados para a realização da conferência municipal de saúde  por  meio  do  sistema  de  processo  administrativo  utilizado  pela prefeitura",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1C",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação visa a formalização do processo administrativo, garantindo o registro e rastreamento dos atos, impactando o controle interno. A tipologia reflete a ausência de normatização, dado que o processo em si não possui o controle adequado.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Recomendar a Prefeitura Municipal de Boa Vista do Ramos a articulação com a Direção do SUS e o Conselho Municipal de Saúde para que o projeto de lei do PPA 2022 - 2025 esteja em conformidade com as diretrizes, objetivos, metas e indicadores previstos no plano municipal de saúde",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar a Prefeitura Municipal de Boa Vista do Ramos a articulação com a Direção do SUS e o Conselho Municipal de Saúde para que o projeto de lei do PPA 2022 - 2025 esteja em conformidade com  as  diretrizes,  objetivos,  metas  e  indicadores  previstos  no  plano municipal de saúde",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "PLANEJAMENTO",
+          "codigo_irregularidade": "T4A22B",
+          "tipologia_irregularidade": "Empenho em desacordo com o planejamento",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A recomendação diz respeito à necessidade de articulação para garantir a conformidade do projeto de lei do PPA com o plano municipal de saúde, afetando o planejamento orçamentário. A tipologia reflete o empenho em desacordo com o planejamento adequado.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Dar ciência a Prefeitura Municipal de Boa Vista do Ramos e demais interessados deste relatório técnico",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar ciência a Prefeitura  Municipal  de  Boa  Vista  do  Ramos  e  demais interessados deste relatório técnico",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=False; doc_origem=\"\"; justificativa=\"A ciência é dada devido a ausência de publicação, então, eh irregularidade a falta de transparência.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

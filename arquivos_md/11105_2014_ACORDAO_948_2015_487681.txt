@@ -1,0 +1,80 @@
+{
+  "acordao": "948/2015",
+  "processo": "11105/2014",
+  "data_sessao": "18 de novembro de 2015",
+  "orgao": "Câmara Municipal de Rio Preto da Eva",
+  "municipio": "Rio Preto da Eva",
+  "exercicio": "2013",
+  "responsavel": [
+    "Jamerson Zênio da Costa Faria",
+    "Luiz Horomberg Almino Paz",
+    "Francisco Batista da Silva"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar Irregular a  Prestação de Contas do Sr. Jamerson  Zênio da Costa Faria, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período  de  01/01/2013  a  20/06/2013  e  05/07/2013  a  10/07/2013,  nos  termos  do  art.  22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multar",
+      "descricao": "Multar o Sr. Jamerson Zênio da Costa Faria, pelos subitens 9.2 Restrição 2,  9.4  Restrição 4, 9.6 Restrição 10  do Relatório/voto, no  valor de R$ 8.768,25 (Oito  mil, setecentos e sessenta e oito reais e vinte e cinco centavos), por grave infração à norma legal, conforme disposto no art. 308, inciso VI, da Resolução TCE nº 04/2002 com a nova redação dada pelo art. 2º da Resolução nº 25/2012",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar prazo de 30 dias para recolher a multa constante no subitem 12.1.1  do  Relatório/voto,  aos  cofres  da  Fazenda  Pública  Estadual  nos  termos  do  art.  72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Julgar Regular",
+      "descricao": "Julgar Regular a Prestação de Contas do Sr. Luiz Horomberg Almino Paz, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período de 20/06/2013 a 05/072013 e 11/07/2013 a 01/08/2013, nos termos do art. 22, inciso I, c/c o art. 23, ambos da Lei nº 2423/96, dando- lhe plena quitação",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar Irregular a Prestação de Contas do Sr. Francisco Batista da Silva, Presidente e Ordenador de Despesas da Câmara Municipal de Rio Preto da Eva no período de 02/08/2013 a 31/12/2013 nos termos do art. 22, inciso III, 'b' c/c o art. 25, ambos da Lei nº 2423/96",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multar",
+      "descricao": "Multar o Sr. Francisco Batista da Silva, pelo subitem 8.3 Restrição 4, no valor de R$ 8.768,25 (Oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), por grave infração à norma legal, conforme disposto no art. 308, inciso VI, da Resolução TCE nº 04/2002 com a nova redação dada pelo art. 2º da Resolução nº 25/2012",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar o prazo de 30 dias para recolher a multa constante no subitem 12.3.1 deste voto, aos cofres da Fazenda Pública Estadual nos termos do art. 72, inciso II, da Lei nº 2423/1996 c/c o art. 174 da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Estadual, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar ao Sr. Francisco Batista da Silva, a devolução do débito no valor de R$ 3.227,20 (três mil, duzentos e vinte e sete reais e vinte centavos), subitem 8.6 Restrição 8, do Relatório/voto",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar prazo  de 30  dias para  recolher  a  devolução  do  débito constante no subitem 12.3.4 do Relatório/voto, aos cofres da Fazenda Pública Municipal nos termos do art. 72, inciso  II,  da Lei nº 2423/1996 c/c o art. 174  da Resolução nº  04/2002TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorizar",
+      "descricao": "Autorizar , caso o valor da referida condenação não venha a ser recolhido dentro do  prazo estabelecido, a inscrição do débito na Dívida  Ativa pela Fazenda Pública Municipal, bem como a instauração da cobrança executiva , em consonância com o art. 72, inciso  III,  'a'  c/c  art.  73  ambos  da  Lei  2423/96  e  arts.  169,  inciso  II,  173  e  308,  §6º  da Resolução 04/2002 - TCE/AM",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendar",
+      "descricao": "Recomendar à administração da Câmara Municipal de Rio Preto da Eva que: a) Sejam observados e cumpridos os prazos para a remessa da movimentação contábil via ACP conforme estabelece o art.4º da Resolução 10/12-TCE; b) Proceda à abertura dos trâmites para realização de concurso público, a fim de sanear a deficiência de pessoal da sua área administrativa e compor o Controle Interno com cargo de provimento efetivo; c)  Revise  o  Anexo  II,  da  Lei  n°  01/2011,  alterando  o  cargo  de  Controlador Interno, de livre nomeação e exoneração, para cargo de provimento efetivo; d)  Proceda  à  criação  do  cargo  de  provimento  efetivo  de  Procurador  Geral, bem como a realização do seu respectivo concurso público; e)  Proceda  à  regulamentação  do  seu  sistema  de  registro  de  preços,  bem como  efetue  a  elaboração  dos  Projetos  Básicos, cotações  de  preços  e  pagamentos  por regime de empreitada global conforme dispostos na legislação; f) Proceda  com  maior  zelo  na  juntada  e  paginação  dos  seus  processos administrativos,  com  vistas  a manter  a  ordem  cronológica  dos  atos  e  a  evitar  a  retirada, alteração ou inclusão de folhas; g) Efetue a comprovação da ida dos Vereadores às localidades previamente listadas  no  planejamento  mensal  por  meio  do  recebimento  de  Relatórios  descrevendo  as datas e atividades desenvolvidas dentro do interesse público; h)  Proceda  ao  repasse  imediato  dos  valores  referentes  as  pendências  do Legislativo junto ao Executivo.",
+      "trechos_identificados": []
+    }
+  ]
+}

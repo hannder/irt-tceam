@@ -1,0 +1,364 @@
+{
+  "acordao": "1641/2023",
+  "processo": "12126/2022",
+  "data_sessao": "01 de agosto de 2023",
+  "orgao": "Câmara Municipal de Manaquiri",
+  "municipio": "Manaquiri",
+  "exercicio": "2021",
+  "responsavel": [
+    "Maria das Gracas Araujo de Freitas"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Câmara Municipal  de  Manaquiri,  referente  ao  exercício  de  2021,  de responsabilidade  da  Senhora Maria das Graças Araújo de Freitas , Presidente  da  Câmara  Municipal  de  Manaquiri  e  Ordenadora  de Despesas,  à  época, nos  termos  do  artigo  1º,  inciso  II,  e  artigo  22, inciso II, da Lei nº. 2423/1996 - LOTCE; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  Anual  da Câmara Municipal  de  Manaquiri,  referente  ao  exercício  de  2021,  de responsabilidade  da  Senhora Maria das Graças Araújo de Freitas , Presidente  da  Câmara  Municipal  de  Manaquiri  e  Ordenadora  de Despesas,  à  época, nos  termos  do  artigo  1º,  inciso  II,  e  artigo  22, inciso II, da Lei nº. 2423/1996 - LOTCE; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento regular com ressalvas, a menção à ausência de justificativa em notas explicativas indica uma falha na transparência contábil, o que pode ser um problema recorrente na gestão pública, se não houver correção.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "1º, inciso II",
+              "descricao": "Julgamento da Prestação de Contas Anual"
+            },
+            {
+              "norma": "Lei nº. 2423/1996",
+              "artigo": "22, inciso II",
+              "descricao": "LOTCE"
+            },
+            {
+              "norma": "Resolução nº. 04/2002",
+              "artigo": "188, §1º, inciso II",
+              "descricao": "RITCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:\nAusência de justificativa Ausência de comprovação de que as contas  do  Chefe  do  Poder  Executivo  ficaram  disponíveis,  durante  o exercício, no respectivo Poder Legislativo e no órgão técnico responsável  pela  sua  elaboração,  para  consulta  e  apreciação  dos cidadãos e instituições da sociedade, conforme determina o art. 49, da LRF;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativa Ausência de comprovação de que as contas  do  Chefe  do  Poder  Executivo  ficaram  disponíveis,  durante  o exercício, no respectivo Poder Legislativo e no órgão técnico responsável  pela  sua  elaboração,  para  consulta  e  apreciação  dos cidadãos e instituições da sociedade, conforme determina o art. 49, da LRF",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A ausência de comprovação da disponibilidade das contas para consulta pública indica uma falha na transparência da gestão fiscal, o que pode ser um problema estrutural se não houver melhoria na publicidade dos atos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LRF",
+              "artigo": "49",
+              "descricao": "Determina a disponibilidade das contas do Chefe do Poder Executivo para consulta e apreciação dos cidadãos e instituições da sociedade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de justificativa e o documento quanto ao não envio junto  a  Prestação  de  Contas  Anual  da  Cópia  da  Lei  de  fixação  dos subsídios dos Vereadores e respectivas alterações, para legislatura de 2021/2024, contrariando o que estabelece a Resolução nº 006, de 22 de julho de 2009;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativa e o documento quanto ao não envio junto  a  Prestação  de  Contas  Anual  da  Cópia  da  Lei  de  fixação  dos subsídios dos Vereadores e respectivas alterações, para legislatura de 2021/2024, contrariando o que estabelece a Resolução nº 006, de 22 de julho de 2009",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A33A",
+          "tipologia_irregularidade": "Ausência da remuneração do cargo em lei",
+          "descricao": "Falha na informação sobre a remuneração do cargo.",
+          "justificativa_tipologia": "A ausência de documentos que fixam os subsídios dos vereadores impede o controle sobre os gastos com pessoal, sendo uma falha de transparência que pode ser recorrente se não houver regularização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 006",
+              "artigo": "Não consta",
+              "descricao": "Estabelece a necessidade de envio da lei de fixação dos subsídios dos Vereadores e respectivas alterações na Prestação de Contas Anual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de documentos comprovando que foi dada publicidade,  mensalmente,  em  órgão  de  divulgação  oficial  ou  em quadro  de  avisos  de  amplo  acesso  público,  à  relação  de  todas  as compras  feitas  pela  Administração  direta  ou  indireta,  de  maneira  a clarificar a  identificação  do  bem  comprado,  seu  preço  unitário,  a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação, art. 16, da Lei nº. 8.666/93;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentos comprovando que foi dada publicidade,  mensalmente,  em  órgão  de  divulgação  oficial  ou  em quadro  de  avisos  de  amplo  acesso  público,  à  relação  de  todas  as compras  feitas  pela  Administração  direta  ou  indireta,  de  maneira  a clarificar a  identificação  do  bem  comprado,  seu  preço  unitário,  a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação, art. 16, da Lei nº. 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A ausência de documentos que comprovem a publicação mensal das compras realizadas impede o controle social e indica uma falha persistente na transparência, especialmente em relação à identificação dos bens comprados e seus respectivos valores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 8.666/93",
+              "artigo": "16",
+              "descricao": "Determina a publicidade das compras feitas pela Administração direta ou indireta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de publicação dos balanços (orçamentário, financeiro e patrimonial) no Diário Oficial do Estado e/ou do Município, conforme estabelece o art. 9º, da Lei Complementar nº 06/91;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de publicação dos balanços (orçamentário, financeiro e patrimonial) no Diário Oficial do Estado e/ou do Município, conforme estabelece o art. 9º, da Lei Complementar nº 06/91",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A ausência de publicação dos balanços no Diário Oficial impede o acesso público às informações financeiras e orçamentárias, sendo uma falha recorrente que prejudica a transparência e o controle social.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06/91",
+              "artigo": "9º",
+              "descricao": "Estabelece a necessidade de publicação dos balanços no Diário Oficial do Estado e/ou do Município"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de documentação comprobatória para existência de saldo  na  conta  'Valores  em  Trânsito  Realizáveis  a  Curto  Prazo',  no valor de R$ 4.077,56;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de documentação comprobatória para existência de saldo  na  conta  'Valores  em  Trânsito  Realizáveis  a  Curto  Prazo',  no valor de R$ 4.077,56",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ausência de documentação comprobatória para a existência de saldo em contas contábeis indica uma falta de controle financeiro e pode ser um problema recorrente na gestão pública se não houver correção.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de justificativa para a diferença de saldos, ocasionada  pelos  Pagamentos  Extra  Orçamentários,  em  Depósitos Restituíveis, e os Recebimentos Extra Orçamentários;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de justificativa para a diferença de saldos, ocasionada  pelos  Pagamentos  Extra  Orçamentários,  em  Depósitos Restituíveis, e os Recebimentos Extra Orçamentários",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ausência de justificativa para a diferença de saldos em pagamentos extra orçamentários é uma falha grave de controle e pode ser recorrente se não houver melhoria na gestão financeira.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência  de  explicitação, adequadamente,  para  o  saldo existente na conta 'Valores em Trânsito Realizáveis a Curto Prazo', no valor de R$ 867.584,09;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  explicitação, adequadamente,  para  o  saldo existente na conta 'Valores em Trânsito Realizáveis a Curto Prazo', no valor de R$ 867.584,09",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ausência de explicitação adequada para o saldo em contas de valores em trânsito indica uma falta de controle financeiro e pode ser recorrente se não houver melhoria na gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Verificou-se  o  registro  na  rubrica  'Bens  Móveis'  no  valor  de R$ 188.270,00, contudo, não ficou evidenciado a origem de tal quantia, fazendo-se necessário apresentar os documentos comprobatórios que a fundamentaram;",
+      "trechos_identificados": [
+        {
+          "trecho": "Verificou-se  o  registro  na  rubrica  'Bens  Móveis'  no  valor  de R$ 188.270,00, contudo, não ficou evidenciado a origem de tal quantia, fazendo-se necessário apresentar os documentos comprobatórios que a fundamentaram",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Imobilizado” do Balanço Patrimonial",
+          "justificativa_tipologia": "A ausência de comprovação da origem de quantias registradas em rubricas contábeis indica uma falta de controle patrimonial e pode ser recorrente se não houver melhoria na gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de informação sobre o método  utilizado para realizar a Depreciação dos Bens Móveis;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de informação sobre o método  utilizado para realizar a Depreciação dos Bens Móveis",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T5A54C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "A ausência de informação sobre o método utilizado para realizar a depreciação dos bens móveis indica uma falta de controle patrimonial e pode ser recorrente se não houver melhoria na gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Sobre  o  porquê  a  Câmara  Municipal  de  Manaquiri,  não realizou concurso público, considerando que todos os seus servidores foram admitidos em  cargo comissionado, sem  a realização de concurso público, contrariando art. 37, inciso II da Constituição Federal de 1988;",
+      "trechos_identificados": [
+        {
+          "trecho": "Sobre  o  porquê  a  Câmara  Municipal  de  Manaquiri,  não realizou concurso público, considerando que todos os seus servidores foram admitidos em  cargo comissionado, sem  a realização de concurso público, contrariando art. 37, inciso II da Constituição Federal de 1988",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência de Concurso público",
+          "justificativa_tipologia": "O não provimento de cargos efetivos por meio de concurso público, com a admissão de todos os servidores em cargos comissionados, sugere um possível desvirtuamento da função dos cargos comissionados, em violação ao art. 37, II, da Constituição Federal. Essa situação pode ser recorrente e comprometer a eficiência e a impessoalidade na administração pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal de 1988",
+              "artigo": "37, inciso II",
+              "descricao": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Conforme  análise  dos  processos  de  pagamento  de  diárias não  localizamos,  bilhetes  de  passagem  aérea,  marítima,  locação  de veículos, Certificado, Diploma ou Atestado Comprovante de Frequência  no  caso  de  participação  em  Congressos,  Seminários, Treinamento e outros eventos similares ou quaisquer outros comprovantes de deslocamento, na forma do art. 8º, III,  letra  'd',  do Decreto Estadual nº 26.337/2006;",
+      "trechos_identificados": [
+        {
+          "trecho": "Conforme  análise  dos  processos  de  pagamento  de  diárias não  localizamos,  bilhetes  de  passagem  aérea,  marítima,  locação  de veículos, Certificado, Diploma ou Atestado Comprovante de Frequência  no  caso  de  participação  em  Congressos,  Seminários, Treinamento e outros eventos similares ou quaisquer outros comprovantes de deslocamento, na forma do art. 8º, III,  letra  'd',  do Decreto Estadual nº 26.337/2006",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A6B",
+          "tipologia_irregularidade": "Ausência de documentação de suporte em processo de pagamento de diária",
+          "descricao": "Ausência de documentação de suporte em processo de pagamento de diária",
+          "justificativa_tipologia": "A não apresentação de comprovantes de despesas com diárias indica uma falha de controle interno e pode ser recorrente na gestão pública se não houver melhoria na documentação dos gastos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Decreto Estadual nº 26.337/2006",
+              "artigo": "8º, III, letra 'd'",
+              "descricao": "Determina a documentação necessária para comprovação de despesas com diárias"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Inexistência de sistema de controle de registro do patrimônio eficaz e departamento  específico,  com  servidor  responsável  pela guarda,  conforme  determina  os  artigos  94,  95,  96  e  106  da  Lei  nº 4.320/64;",
+      "trechos_identificados": [
+        {
+          "trecho": "Inexistência de sistema de controle de registro do patrimônio eficaz e departamento  específico,  com  servidor  responsável  pela guarda,  conforme  determina  os  artigos  94,  95,  96  e  106  da  Lei  nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A1B",
+          "tipologia_irregularidade": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "descricao": "Ausência ou deficiência dos registros analíticos de bens de caráter permanente",
+          "justificativa_tipologia": "A inexistência de um sistema de controle patrimonial eficaz e de um departamento específico responsável pela guarda dos bens indica uma falha grave na gestão do patrimônio público, sendo um problema que pode se perpetuar se não forem implementadas medidas para corrigi-lo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "95",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "96",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "106",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência  de  registro  e  tombamento  dos  bens  permanentes, assim  como  livro  tombo  e  agentes  responsáveis  pela  sua  guarda  e administração, de acordo com o art. 94 da Lei nº 4.320/64;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência  de  registro  e  tombamento  dos  bens  permanentes, assim  como  livro  tombo  e  agentes  responsáveis  pela  sua  guarda  e administração, de acordo com o art. 94 da Lei nº 4.320/64",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de registro e tombamento dos bens permanentes, assim como a falta de um livro tombo e de agentes responsáveis por sua guarda e administração, são indicativos de fragilidade nos controles patrimoniais, o que, se não corrigido, pode levar à perda de bens e prejuízos ao erário.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Dispõe sobre a escrituração dos bens patrimoniais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de sistema de controle de almoxarifado eficaz, com registro contínuo  e  permanente  de  entrada  e  saída  dos  objetos adquiridos, nos termos exigidos pelo art. 244, inciso III, da Resolução TCE nº 04/2002;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de sistema de controle de almoxarifado eficaz, com registro contínuo  e  permanente  de  entrada  e  saída  dos  objetos adquiridos, nos termos exigidos pelo art. 244, inciso III, da Resolução TCE nº 04/2002",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A3B",
+          "tipologia_irregularidade": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A ausência de um sistema de controle de almoxarifado eficaz, com registro contínuo e permanente de entrada e saída dos objetos adquiridos, representa uma grave deficiência no controle dos materiais e bens públicos, o que pode levar a desvios, perdas e outros prejuízos ao erário. Essa falha pode ser persistente se não houver medidas para corrigi-la.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE nº 04/2002",
+              "artigo": "244, inciso III",
+              "descricao": "Norma para o controle de entrada e saída de objetos adquiridos no almoxarifado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento  Interno,  evite  a  ocorrência  das  seguintes  impropriedades, em futuras prestações de contas:Ausência de Projeto Básico como exige art. 7º, inciso I da Lei nº 8.666/93;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de Projeto Básico como exige art. 7º, inciso I da Lei nº 8.666/93",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A3B",
+          "tipologia_irregularidade": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "descricao": "Ausência de requisitos legais do instrumento convocatório da licitação",
+          "justificativa_tipologia": "A ausência de projeto básico em obras públicas compromete o planejamento, a execução

@@ -1,0 +1,79 @@
+{
+  "acordao": "759/2021",
+  "processo": "11267/2017",
+  "data_sessao": "04 de Agosto de 2021",
+  "orgao": "Gabinete do Vice-Prefeito do Município de Manaus",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Ramiz Wladimir Braga dos Santos Junior"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas Anual do Gabinete do Vice-Prefeito do Município de Manaus, exercício 2016, de responsabilidade do Sr. Ramiz Wladimir Braga dos Santos Junior -Secretário Municipal e Ordenador das Despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, II e 24 da Lei 2.423/96.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Gabinete do Vice-prefeito do Município de Manaus que: Cumpra com o máximo rigor a Lei Complementar n. 131/09 - Lei da Transparência e Lei n. 12527/11 - Lei de Acesso à Informação.",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra com o máximo rigor a Lei Complementar n. 131/09 - Lei da Transparência e Lei n. 12527/11 - Lei de Acesso à Informação.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de cumprimento da Lei de Acesso à Informação, indicando uma deficiência na transparência da gestão pública.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n. 131/09",
+              "artigo": "Não consta",
+              "descricao": "Lei da Transparência"
+            },
+            {
+              "norma": "Lei n. 12527/11",
+              "artigo": "Não consta",
+              "descricao": "Lei de Acesso à Informação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Gabinete do Vice-prefeito do Município de Manaus que: Cumpra com o máximo rigor a Lei n. 4320/64, e especialmente o princípio da oportunidade",
+      "trechos_identificados": [
+        {
+          "trecho": "Cumpra com o máximo rigor a Lei n. 4320/64, e especialmente o princípio da oportunidade",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A recomendação indica uma necessidade de maior rigor no cumprimento da Lei nº 4.320/64, especialmente no que tange ao princípio da oportunidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 4320/64",
+              "artigo": "Não consta",
+              "descricao": "Lei que estatui normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Ramiz Wladimir Braga dos Santos Junior",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os autos nos termos regimentais.",
+      "trechos_identificados": []
+    }
+  ]
+}

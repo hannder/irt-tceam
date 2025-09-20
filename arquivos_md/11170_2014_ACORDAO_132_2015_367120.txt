@@ -1,0 +1,245 @@
+{
+  "acordao": "132/2015",
+  "processo": "11170/2014",
+  "data_sessao": "04 de março de 2015",
+  "orgao": "Câmara Municipal de Itapiranga",
+  "municipio": "Itapiranga",
+  "exercicio": "2013",
+  "responsavel": [
+    "João Batista da Mata Sousa"
+  ],
+  "itens": [
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observância no Sistema GEFIS  que seja informado  no campo 620 a disponibilidade  financeira  (caixa  e  contas  bancárias),  conforme  consta  na  Prestação  de contas",
+      "trechos_identificados": [
+        {
+          "trecho": "Observância no Sistema GEFIS  que seja informado  no campo 620 a disponibilidade  financeira  (caixa  e  contas  bancárias),  conforme  consta  na  Prestação  de contas",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho menciona a necessidade de observância no sistema GEFIS para informar a disponibilidade financeira, o que se relaciona ao tema de envio de informações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Observância  ao  art.  164,  §  3º,  da  CF/88  c/c  o  art.  156,  §  3º,  da Constituição Estadual, e ainda o art. 43 da Lei Complementar 101/00, mantendo no caixa apenas quantias de pequenos vultos para despesas de pronto pagamento",
+      "trechos_identificados": [
+        {
+          "trecho": "Observância  ao  art.  164,  §  3º,  da  CF/88  c/c  o  art.  156,  §  3º,  da Constituição Estadual, e ainda o art. 43 da Lei Complementar 101/00, mantendo no caixa apenas quantias de pequenos vultos para despesas de pronto pagamento",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho recomenda a observância de normas para manutenção de quantias de pequenos vultos em caixa, o que se relaciona à execução financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "164, § 3º",
+              "descricao": "Norma constitucional sobre a utilização de recursos financeiros."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "156, § 3º",
+              "descricao": "Norma estadual sobre a utilização de recursos financeiros."
+            },
+            {
+              "norma": "Lei Complementar 101/00",
+              "artigo": "43",
+              "descricao": "Artigo da LRF sobre a gestão de recursos financeiros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Para  que  seja  observado  e  cumprido  o  prazo  de  recolhimento  do Imposto de Renda Retido na Fonte - IRRF dos vereadores e dos servidores que atingirem o limite  de  desconto,  dentro  prazo  de  retenção  do  imposto  devido,  evitando  prejuízos  com pagamento de multa e juros de mora pelos atrasos ocorridos e cumprindo assim a legislação vigente que regula a matéria",
+      "trechos_identificados": [
+        {
+          "trecho": "Para  que  seja  observado  e  cumprido  o  prazo  de  recolhimento  do Imposto de Renda Retido na Fonte - IRRF dos vereadores e dos servidores que atingirem o limite  de  desconto,  dentro  prazo  de  retenção  do  imposto  devido,  evitando  prejuízos  com pagamento de multa e juros de mora pelos atrasos ocorridos e cumprindo assim a legislação vigente que regula a matéria",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A13A",
+          "tipologia_irregularidade": "LRF. Descumprimento do limite de despesa total de 54% com pessoal LRF",
+          "descricao": "Realização de despesas não previstas no Plano de Trabalho (R$3.570,72), transferência entre contas sem identificação do recebedor (1.219,48) e pagamento de Tarifa Bancária (191,55).",
+          "justificativa_tipologia": "O trecho trata do recolhimento de IRRF de vereadores e servidores, o que se relaciona à gestão de pessoal e ao cumprimento de obrigações fiscais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Quanto  o  cumprimento  o  prazo  de  recolhimento  do  Imposto  Sobre Serviços/ISS, dentro do prazo de retenção do imposto devido, cumprindo assim a legislação vigente pertinente a matéria",
+      "trechos_identificados": [
+        {
+          "trecho": "Quanto  o  cumprimento  o  prazo  de  recolhimento  do  Imposto  Sobre Serviços/ISS, dentro do prazo de retenção do imposto devido, cumprindo assim a legislação vigente pertinente a matéria",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho menciona o cumprimento do prazo de recolhimento do ISS, o que se relaciona à gestão fiscal e ao cumprimento de obrigações tributárias.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "A  Secretaria  Municipal  de  Finanças  do  Município  de  Itapiranga,  que proceda a inscrição na Dívida Ativa do Município nos termos do art. 39 da Lei nº 4.320/1964 e,  consequentemente,  seja  feita  a  cobrança  administrativa  no  valor  de  R$  237.970,574, devidamente  corregida  monetariamente,  de  responsabilidade  do  Sr.  Whild  Franco  Batista Mori, Presidente da Câmara de Itapiranga no  biênio 2011/2012, caso não logre êxito, seja feita a cobrança judiciária de imediato",
+      "trechos_identificados": [
+        {
+          "trecho": "A  Secretaria  Municipal  de  Finanças  do  Município  de  Itapiranga,  que proceda a inscrição na Dívida Ativa do Município nos termos do art. 39 da Lei nº 4.320/1964 e,  consequentemente,  seja  feita  a  cobrança  administrativa  no  valor  de  R$  237.970,574, devidamente  corregida  monetariamente,  de  responsabilidade  do  Sr.  Whild  Franco  Batista Mori, Presidente da Câmara de Itapiranga no  biênio 2011/2012, caso não logre êxito, seja feita a cobrança judiciária de imediato",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho recomenda a inscrição na Dívida Ativa e a cobrança administrativa e judicial de valores devidos, o que se relaciona à gestão fiscal e à recuperação de créditos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/1964",
+              "artigo": "39",
+              "descricao": "Norma sobre a inscrição na Dívida Ativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Que seja observado e cumprido o exposto no inciso III, do art. 13º da Lei Complementar nº 06//1991",
+      "trechos_identificados": [
+        {
+          "trecho": "Que seja observado e cumprido o exposto no inciso III, do art. 13º da Lei Complementar nº 06//1991",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "O trecho indica o cumprimento de uma lei que versa sobre a cobrança da dívida ativa, estando relacionado ao tema gestão fiscal",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 06//1991",
+              "artigo": "13º, inciso III",
+              "descricao": "Não especificado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Que  observe  e  cumpra  o  expresso  no  art.  37,  incisos  II  e  X  da Constituição da República e no art. 109, incisos II e VIII da Constituição do Estado (Itens 8 e 9)",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  observe  e  cumpra  o  expresso  no  art.  37,  incisos  II  e  X  da Constituição da República e no art. 109, incisos II e VIII da Constituição do Estado (Itens 8 e 9)",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "O trecho determina o cumprimento de normas constitucionais relacionadas a concurso público e remuneração, o que se relaciona à gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição da República",
+              "artigo": "37, incisos II e X",
+              "descricao": "Normas sobre concurso público e remuneração."
+            },
+            {
+              "norma": "Constituição do Estado",
+              "artigo": "109, incisos II e VIII",
+              "descricao": "Normas estaduais sobre concurso público e remuneração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Para que observe e cumpra o estabelecido no art. 13, § 2º da Lei nº Lei Federal nº 8.429/92, de  forma efetiva e ainda, que apresente às declarações de bens do agentes  políticos  e  demais  servidores  que  atingirem o  limite  de  desconto  do  imposto  de renda  na  sede  da  Comuna,  quando  solicitados  pelas  Comissões  de  Inspeções  Ordinária desta Corte de Contas, a fim de evitar restrições",
+      "trechos_identificados": [
+        {
+          "trecho": "Para que observe e cumpra o estabelecido no art. 13, § 2º da Lei nº Lei Federal nº 8.429/92, de  forma efetiva e ainda, que apresente às declarações de bens do agentes  políticos  e  demais  servidores  que  atingirem o  limite  de  desconto  do  imposto  de renda  na  sede  da  Comuna,  quando  solicitados  pelas  Comissões  de  Inspeções  Ordinária desta Corte de Contas, a fim de evitar restrições",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A8B",
+          "tipologia_irregularidade": "Ausência de Declaração de bens",
+          "descricao": "Ausência de Declaração de bens",
+          "justificativa_tipologia": "O trecho indica que sejam apresentadas as declarações de bens de agentes políticos e servidores, estando relacionado ao tema de pessoal",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.429/92",
+              "artigo": "13, § 2º",
+              "descricao": "Norma sobre a apresentação de declaração de bens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao gestor que adote, com a máxima urgência, medidas para a implantação  dos  instrumentos  de  transparência  da  gestão  fiscal,  inclusive  por  meios eletrônicos de acesso público, consoante exige a Lei Complementar n.º 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao gestor que adote, com a máxima urgência, medidas para a implantação  dos  instrumentos  de  transparência  da  gestão  fiscal,  inclusive  por  meios eletrônicos de acesso público, consoante exige a Lei Complementar n.º 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência",
+          "justificativa_tipologia": "A deliberação determina a adoção de instrumentos de transparência na gestão fiscal, o que se relaciona diretamente ao tema.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar n.º 101/2000",
+              "artigo": "Não especificado",
+              "descricao": "Lei de Responsabilidade Fiscal, que exige transparência na gestão fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação ao responsável, nos termos do art. 24, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação ao responsável, nos termos do art. 24, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A quitação ao responsável é um procedimento formal do TCE, mas não indica um problema concreto na gestão pública que possa persistir ao longo do tempo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "24",
+              "descricao": "Norma sobre a quitação do responsável."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "189, II",
+              "descricao": "Norma interna do TCE sobre a quitação do responsável."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

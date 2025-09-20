@@ -1,0 +1,67 @@
+{
+  "acordao": "452/2014",
+  "processo": "2339/2013",
+  "data_sessao": "20 de agosto de 2014",
+  "orgao": "Coordenação da Defesa Civil do Município de Manaus",
+  "municipio": "Manaus",
+  "exercicio": "2012",
+  "responsavel": [
+    "Otávio Queiroz de Oliveira Cabral Júnior"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgamento",
+      "descricao": "julgar Regular, com  Ressalvas, a Prestação de Contas da Coordenação da Defesa Civil do  Município de  Manaus, referente ao exercício de 2012, sob  a  responsabilidade  do  Sr.  Otávio  Queiroz  de  Oliveiro  Cabral  Júnior,  ex-Secretário Chefe do Gabinete Militar e Coordenador, nos termos do inciso II do art. 1º e do inciso II do art. 22, dando-se quitação à Responsável, condicionados ao atendimento do art. 24 e do inciso II do art.  72, todos da Lei  2.423/96, considerando que  as contas evidenciam impropriedades de natureza formal, de que não resultaram dano ao Erário",
+      "trechos_identificados": [
+        {
+          "trecho": "julgar Regular, com  Ressalvas, a Prestação de Contas da Coordenação da Defesa Civil do  Município de  Manaus, referente ao exercício de 2012, sob  a  responsabilidade  do  Sr.  Otávio  Queiroz  de  Oliveiro  Cabral  Júnior,  ex-Secretário Chefe do Gabinete Militar e Coordenador, nos termos do inciso II do art. 1º e do inciso II do art. 22, dando-se quitação à Responsável, condicionados ao atendimento do art. 24 e do inciso II do art.  72, todos da Lei  2.423/96, considerando que  as contas evidenciam impropriedades de natureza formal, de que não resultaram dano ao Erário",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho descreve o julgamento das contas como regulares com ressalvas devido a impropriedades formais, sem dano ao erário, o que justifica a classificação em CONTABILIDADE, dada a menção à análise de contas. O trecho não indica problemas concretos ou recorrentes que justifiquem marcar como 'relevante_para_indice'",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei  2.423/96",
+              "artigo": "2º",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei  2.423/96",
+              "artigo": "24",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Lei  2.423/96",
+              "artigo": "72, II",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "determinar  à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que:\n9.2.1observe  atentamente  o  prazo  de  publicação  previsto  no  parágrafo único do art. 61 da Lei 8.666/93",
+      "trechos_identificados": [
+        {
+          "trecho": "determinar  à  Origem,  nos  termos  do  art.  188,  §2º  do  Regimento Interno/TCE-AM, que: observe  atentamente  o  prazo  de  publicação  previsto  no  parágrafo único do art. 61 da Lei 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "O trecho determina a observância do prazo de publicação previsto na Lei 8.666/93, indicando uma deficiência processual que, se não corrigida, pode levar a irregularidades em licitações e contratos. A tipologia escolhida reflete a falta de análise jurídica, que é crucial para a legalidade dos processos licitatórios. É um problema recorrente e estrutural, justificando o 'relevante_para_indice = True'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "61",
+              "descricao": "Art. 61. Todo contrato deverá mencionar os nomes das partes contratantes e da

@@ -1,0 +1,98 @@
+{
+  "acordao": "659/2021",
+  "processo": "11159/2019",
+  "data_sessao": "14 de Julho de 2021",
+  "orgao": "Fundo de Previdência Municipal de Carauari",
+  "municipio": "Carauari",
+  "exercicio": "2018",
+  "responsavel": [
+    "Nelson José Batista Lacerda"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Fundo de Previdência Municipal de Carauari -Carauariprev, exercício 2018, de responsabilidade do Sr. Nelson José Batista Lacerda -DiretorPresidente e Ordenador das despesas, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 2º e 5º, art. 22, III e 25 da Lei 2.423/96.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Nelson José Batista Lacerda no valor de R$ 6.827,19 (Seis mil, oitocentos e vinte e sete reais e dezenove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, com fundamento no art. 54, V da Lei n. 2.423/96 c/c o art. 308, V da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pela prática de ato ilegítimo que resultou em injustificado dano ao erário, pelas restrições 10, 11 e 12 do Relatório Conclusivo n. 65/2019-DICERP",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Nelson José Batista Lacerda no valor de R$ 13.654,39 (Treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, com fundamento no art. 54, VI da Lei n. 2.423/96 c/c o art. 308, VI da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pela prática de ato com grave infração a norma legal, pelas restrições 01, 02, 03, 04, 05, 06, 07, 08, 09 e 10 do Relatório Conclusivo n. 65/2019-DICERP",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr.  Nelson José Batista Lacerda no  valor de R$ 47.136,00 (quarenta e sete mil, cento e trinta e seis reais) e fixar prazo  de  30  (trinta)  dias para  que  o  responsável  recolha  o  valor  do Alcance, na esfera Municipal para o órgão Fundo  de  Previdência Municipal de Carauari, fundamentado no art. 304, I, da Resolução TCE 04/2002 c/c art. 53 da Lei nº 2.423/1996 pelas seguintes glosas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$1.956,00 (um mil, novecentos e cinquenta e seis reais) pelo contrato sn./2018 (restrição 10 do Relatório Conclusivo n. 65/2019-DICERP);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$15.000,00 (quinze  mil  reais)  pelo  contrato  n.  02/2018 restrição 10 do Relatório Conclusivo n. 65/2019-DICERP);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$12.000,00 (doze  mil  reais)  pela  NE  36  (restrição  11  do Relatório Conclusivo n. 65/2019-DICERP);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$3.800,00 (três mil e oitocentos reais) pela NE 53 (restrição 11 do Relatório Conclusivo n. 65/2019-DICERP);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$5.980,00 (cinco mil, novecentos e oitenta reais) pela NE 37 (restrição 11 do Relatório Conclusivo n. 65/2019DICERP);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$6.000,00 (seis  mil  reias)  pela  NE  20  (restrição  11  do Relatório Conclusivo n. 65/2019-DICERP);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "R$2.400,00 (dois  mil  e  quatrocentos  reais)  (restrição  11  do Relatório Conclusivo n. 65/2019-DICERP);",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de CarauariCarauriprev que: Cumpra com o máximo zelo a Lei de Licitações e Contratos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de CarauariCarauriprev que: Cumpra  com  o  máximo  rigor  a  legislação  pertinente  aos regimes próprios de previdência",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de CarauariCarauriprev que: Observe com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de CarauariCarauriprev que: Observe com cautela a Lei complementar nº 101/2000",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de CarauariCarauriprev que: Observe com o máximo zelo a Lei n. 4.320/64, principalmente quanto as fases da despesa pública",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Fundo Municipal de Previdência Social de CarauariCarauriprev que: Cumpra rigorosamente os prazos para a remessa de dados à esta Corte de Contas por meio eletrônico",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "acordao": "469/2018",
+  "processo": "10913/2015",
+  "data_sessao": "24 de Julho de 2018",
+  "orgao": "TCE-AM",
+  "municipio": "Codajás",
+  "exercicio": "2018",
+  "responsavel": [
+    "Abraham Lincoln Dib Bastos"
+  ],
+  "itens": [
+    {
+      "tipo": "conhecimento",
+      "descricao": "Conhecer os  presentes  Embargos  de  Declaração  opostos  pelo Sr. Abraham Lincoln Dib Bastos",
+      "trechos_identificados": [
+        {
+          "trecho": "Conhecer os  presentes  Embargos  de  Declaração  opostos  pelo Sr. Abraham Lincoln Dib Bastos",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Não se trata de irregularidade.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "Negar Provimento aos presentes Embargos de Declaração opostos pelo Sr. Abraham  Lincoln  Dib  Bastos , por  ausência  dos  pressupostos exigidos no art. 148, do RITCE/AM, mantendo-se na íntegra o Acórdão nº 14/2018-TCE- Tribunal Pleno, de fls. 1616/1619 dos autos",
+      "trechos_identificados": [
+        {
+          "trecho": "Negar Provimento aos presentes Embargos de Declaração opostos pelo Sr. Abraham  Lincoln  Dib  Bastos , por  ausência  dos  pressupostos exigidos no art. 148, do RITCE/AM, mantendo-se na íntegra o Acórdão nº 14/2018-TCE- Tribunal Pleno, de fls. 1616/1619 dos autos",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não cumprimento de decisões do TCE.",
+          "justificativa_tipologia": "justificativa=\"O não cumprimento de decisões do TCE demonstra falhas na implementação do controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "RITCE/AM",
+              "artigo": "148",
+              "descricao": "Ausência dos pressupostos para provimento dos embargos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à  Sepleno  -  Secretaria  do  Tribunal  Pleno que  oficie  o Embargante sobre o teor deste Acórdão, acompanhando Relatório e Voto para conhecimento.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  Sepleno  -  Secretaria  do  Tribunal  Pleno que  oficie  o Embargante sobre o teor deste Acórdão, acompanhando Relatório e Voto para conhecimento.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "",
+          "tema_irregularidade": "NULL",
+          "codigo_irregularidade": "NULL",
+          "tipologia_irregularidade": "NULL",
+          "descricao": "NULL",
+          "justificativa_tipologia": "justificativa=\"Não se trata de irregularidade.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

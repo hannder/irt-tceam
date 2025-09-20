@@ -1,0 +1,153 @@
+{
+  "acordao": "625/2019",
+  "processo": "11804/2018",
+  "data_sessao": "23 de Julho de 2019",
+  "orgao": "Sistema  de  Previdência  Social  dos  Servidores  Públicos  do  Município  de Manicoré - SISPREV",
+  "municipio": "Manicoré",
+  "exercicio": "2017",
+  "responsavel": [
+    "Janderlan Brito Barbosa"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  do Sr.  Janderlan  Brito Barbosa , Diretor-Presidente do Sistema de Previdência dos Servidores Públicos  do  Município  de  Manicoré  -  SISPREV,  exercício  de  2017, conforme art. 22, III,  da  Lei  nº  2.423/96  c/c  art.  188,  §  1º,  III,  'b',  da Resolução nº 04/02- RI TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  do Sr.  Janderlan  Brito Barbosa , Diretor-Presidente do Sistema de Previdência dos Servidores Públicos  do  Município  de  Manicoré  -  SISPREV,  exercício  de  2017",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A ausência de notas explicativas impede a devida transparência e clareza das demonstrações contábeis, dificultando a análise e fiscalização das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "22, III",
+              "descricao": "Define as irregularidades nas prestações de contas."
+            },
+            {
+              "norma": "Resolução nº 04/02- RI TCE/AM",
+              "artigo": "188, § 1º, III, 'b'",
+              "descricao": "Regulamento Interno do TCE/AM que estabelece os critérios para julgamento das contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Alcance",
+      "descricao": "Considerar em Alcance o Sr. Janderlan Brito Barbosa no  valor de R$ 5.592,31 (cinco mil quinhentos e noventa e dois reais e trinta e um centavos),  nos  moldes do  art.  305  da  Resolução  n°  04/2002-RI/TCE, face à irregularidade atentatória à incolumidade do erário verificada na instrução e transcrita na fundamentação do Voto, item 15, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Manicoré por descumprimento de/pelas improbidades apontadas. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  (autenticado  pelo Banco)  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a',  da  Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará a continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. Janderlan Brito Barbosa no  valor de R$ 5.592,31 (cinco mil quinhentos e noventa e dois reais e trinta e um centavos),  nos  moldes do  art.  305  da  Resolução  n°  04/2002-RI/TCE, face à irregularidade atentatória à incolumidade do erário verificada na instrução e transcrita na fundamentação do Voto, item 15, que devem ser recolhidos na esfera Municipal para o órgão Prefeitura Municipal de Manicoré por descumprimento de/pelas improbidades apontadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A determinação de alcance indica que houve dano ao erário decorrente de burla ao processo legal de pagamento, configurando a tipologia T4A6A.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-RI/TCE",
+              "artigo": "305",
+              "descricao": "Estabelece os procedimentos para alcance em caso de irregularidades que causem dano ao erário."
+            },
+             {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea a",
+              "descricao": "Obrigatoriedade de encaminhamento do comprovante de pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Janderlan  Brito  Barbosa no  valor  de R$ 13.654,39 (treze  mil  seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, devido às restrições 2, 3, 4, 5, 15,  16  e  20,  transcritas  na  fundamentação  do  Voto, que  deverá  ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 Multas  aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do Controle Externo - FAECE. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado  pelo  Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III, alínea \"a\" , da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária  no  prazo  legal  importará  na  continuidade  da  cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Janderlan  Brito  Barbosa no  valor  de R$ 13.654,39 (treze  mil  seiscentos  e  cinquenta  e  quatro  reais  e  trinta  e nove centavos), nos termos do art. 54, II, da Lei n° 2.423/96 c/c o art. 308, VI, da Resolução 4/2002, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial, devido às restrições 2, 3, 4, 5, 15,  16  e  20,  transcritas  na  fundamentação do  Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A aplicação de multa por grave infração à norma contábil, financeira, orçamentária, operacional e patrimonial, indica a ocorrência de irregularidades que afetam a transparência e a correta gestão dos recursos públicos, justificando a classificação na tipologia T2A1B.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define as sanções aplicáveis em caso de irregularidades na gestão pública."
+            },
+            {
+              "norma": "Resolução 4/2002",
+              "artigo": "308, VI",
+              "descricao": "Estabelece os procedimentos para aplicação de multas pelo TCE/AM."
+            },
+             {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea a",
+              "descricao": "Obrigatoriedade de encaminhamento do comprovante de pagamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à  origem  que  observe  as  normas  sobre  a  gestão  e organização previdenciária, conforme itens de restrições elencados no Relatório da Unidade Técnica",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação para que a origem observe as normas sobre a gestão e organização previdenciária indica que há deficiências no controle interno que precisam ser corrigidas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à SECEX que oriente as próximas Comissões designadas a  vistoriar o  RPPS  do  Município  de  Manicoré  que  verifiquem  o cumprimento das determinações elencadas no voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à SECEX que oriente as próximas Comissões designadas a  vistoriar o  RPPS  do  Município  de  Manicoré  que  verifiquem  o cumprimento das determinações elencadas no voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação à SECEX para orientar as próximas comissões designadas a vistoriar o RPPS indica uma necessidade de reforçar a fiscalização e o acompanhamento das medidas corretivas, o que se relaciona com a ausência de normatização das rotinas internas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o  encaminhamento  de  cópia  do  Relatório  Conclusivo  n. 16/2019-DICERP, ao Coordenador-Geral de Auditoria, Atuária, Contabilidade e Investimentos - CGACI / Departamento dos Regimes de Previdência no Serviço Público - DRPSP Secretaria de Políticas de Previdência  Social  -  SPPS,  no  endereço:  Ministério  da  Previdência Social - MPS Esplanada dos Ministérios, Bloco 'F', Ed. Anexo, Ala A, Sala 450 CEP 70.059-900 - Brasília DF",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o  encaminhamento  de  cópia  do  Relatório  Conclusivo  n. 16/2019-DICERP, ao Coordenador-Geral de Auditoria, Atuária, Contabilidade e Investimentos - CGACI / Departamento dos Regimes de Previdência no Serviço Público - DRPSP Secretaria de Políticas de Previdência  Social  -  SPPS,  no  endereço:  Ministério  da  Previdência Social - MPS Esplanada dos Ministérios, Bloco 'F', Ed. Anexo, Ala A, Sala 450 CEP 70.059-900 - Brasília DF",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "O encaminhamento do relatório conclusivo a outros órgãos de controle e fiscalização indica uma preocupação com a comunicação e o compartilhamento de informações relevantes sobre a gestão previdenciária, o que se relaciona com a necessidade de envio de dados periódicos ao e-Contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "acordao": "555/2014",
+  "processo": "1593/2014",
+  "data_sessao": "15 de outubro de 2014",
+  "orgao": "Hospital de Isolamento Chapot Prevost",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Sandra Lúcia Loureiro de Queiroz Lima"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar REGULAR, COM RESSALVAS, a Prestação de Contas do Hospital Geral de Isolamento Chapot Prevot, relativa ao exercício de 2013, de responsabilidade da Sra. Sandra Lúcia Loureiro de Queiroz Lima, em conformidade com o disposto no art. 22, inciso II, c/c 24, da lei 2.423/96 e artigo 188, § 1º, II, da Resolução n. 04/02-TCE",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem:\na) Para que tome providências no sentido de sanar as pendências, constantes nos itens 2, 3, 4 e 5, supramencionados;\nb) Que dê cumprimento do art. 13, § 1º e § 2º, da Lei nº 8.429/92 e artigo 289, § 1º e § 2º, da Resolução nº 04/2002-TCE e atualize as pastas funcionais dos servidores onde foram detectadas ausências das declarações de bens atualizadas",
+      "trechos_identificados": [
+        {
+          "trecho": "Para que tome providências no sentido de sanar as pendências, constantes nos itens 2, 3, 4 e 5, supramencionados.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação de sanar pendências indica deficiências nos controles internos que precisam ser corrigidas para garantir a conformidade e a boa gestão dos recursos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Que dê cumprimento do art. 13, § 1º e § 2º, da Lei nº 8.429/92 e artigo 289, § 1º e § 2º, da Resolução nº 04/2002-TCE e atualize as pastas funcionais dos servidores onde foram detectadas ausências das declarações de bens atualizadas",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A8B",
+          "tipologia_irregularidade": "Ausência de Declaração de bens",
+          "descricao": "Ausência de Declaração de bens",
+          "justificativa_tipologia": "A ausência de declarações de bens atualizadas nas pastas funcionais dos servidores é uma irregularidade que compromete a transparência e o controle patrimonial, conforme estabelecido no art. 13, § 1º e § 2º, da Lei nº 8.429/92 e artigo 289, § 1º e § 2º, da Resolução nº 04/2002-TCE.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.429/92",
+              "artigo": "13, § 1º e § 2º",
+              "descricao": "Determina a apresentação de declaração de bens e valores pelos agentes públicos."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE",
+              "artigo": "289, § 1º e § 2º",
+              "descricao": "Regulamenta a apresentação de declaração de bens e valores pelos agentes públicos no âmbito do TCE."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Quitação",
+      "descricao": "Dar quitação à responsável, nos termos do art. 23, da Lei Estadual nº 2423/96, c/c art. 189, II, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "acordao": "501/2020",
+  "processo": "11487/2019",
+  "data_sessao": "20 de Maio de 2020",
+  "orgao": "Secretaria de Estado da Casa Civil",
+  "municipio": "Manaus",
+  "exercicio": "2018",
+  "responsavel": [
+    "Arthur Cesar Zahluth Lins"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar  regular com  ressalvas a Prestação  de  Contas Anual, referente ao exercício de 2018, da Casa Civil, de responsabilidade do Senhor Arthur Cesar Zahluth Lins , Ex-Secretário de Estado da Casa Civil  e  Ordenador  de  Despesas,  à  época, nos  termos  do  artigo  1º, inciso II, e artigo 22, inciso II, da Lei nº. 2423/1996 - LOTCE/AM; c/c o artigo 188, §1º, inciso II, da Resolução nº. 04/2002 - RITCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Dar Quitação",
+      "descricao": "Dar quitação ao Senhor Arthur Cesar Zahluth Lins, Ex-Secretário de Estado da Casa Civil e Ordenador de Despesas, à época, nos termos dos artigos 24 e 72, inciso II, da Lei nº. 2423/1996 - LOTCE, c/c o artigo 189, inciso II, da Resolução nº. 04/2002 - RITCE.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  origem que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência da Declaração de Bens do Ordenador da Despesa da Casa Civil;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência da Declaração de Bens do Ordenador da Despesa da Casa Civil;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A8B",
+          "tipologia_irregularidade": "Ausência de documentação na Prestação de Contas Anuais",
+          "descricao": "Ausência de documentação na Prestação de Contas Anuais.",
+          "justificativa_tipologia": "A ausência da Declaração de Bens do Ordenador da Despesa na Casa Civil representa uma falha na documentação da prestação de contas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência do Parecer do Controle Interno do Órgão, de acordo com o que prevê o Inciso III, do art. 10 da Lei Orgânica do TCEAM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do Parecer do Controle Interno do Órgão, de acordo com o que prevê o Inciso III, do art. 10 da Lei Orgânica do TCEAM;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A ausência do Parecer do Controle Interno impede a avaliação adequada das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCEAM",
+              "artigo": "art. 10",
+              "descricao": "Obrigatoriedade do parecer do controle interno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Justificar e encaminhar documentos comprobatórios das metas alcançadas,  discriminando  detalhadamente  conforme  objeto  do Relatório Circunstanciado do Contrato de Gestão;",
+      "trechos_identificados": [
+        {
+          "trecho": "Justificar e encaminhar documentos comprobatórios das metas alcançadas,  discriminando  detalhadamente  conforme  objeto  do Relatório Circunstanciado do Contrato de Gestão;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas.",
+          "justificativa_tipologia": "A falta de justificativas e documentos comprobatórios das metas alcançadas impede a análise completa da gestão.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Impropriedades detectadas no exame dos Termos de Contratos e Aditivos;",
+      "trechos_identificados": [
+        {
+          "trecho": "Impropriedades detectadas no exame dos Termos de Contratos e Aditivos;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "A detecção de impropriedades nos Termos de Contratos e Aditivos indica falhas nos processos de gestão contratual.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Ausência do pronunciamento da Assessoria Jurídica, conforme o art. 38, VI, da Lei nº 8.666/93;",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência do pronunciamento da Assessoria Jurídica, conforme o art. 38, VI, da Lei nº 8.666/93;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A2B",
+          "tipologia_irregularidade": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "descricao": "Ausência da razão da escolha do fornecedor.",
+          "justificativa_tipologia": "A ausência do pronunciamento da Assessoria Jurídica nos contratos e aditivos indica descumprimento da Lei nº 8.666/93.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "38, VI",
+              "descricao": "Exigência de pronunciamento da Assessoria Jurídica nos processos licitatórios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Deve a Casa Civil  esclarecer  se  a  licitação  para  compra  de passagem aéreas fora precedida de estimativas das quantidades de  bilhetes  e  trechos  a  serem  percorridos;  se  os  contratos previram  o  repasse  à  Casa  Civil  dos  descontos  eventualmente oferecidos pelos transportadores; se foram elaborados os relatórios das  viagens  pelos  servidores  beneficiados;  se  as viagens  satisfizeram  os  princípios  da  necessidade,  moralidade, impessoalidade e, particularmente, o da economicidade;",
+      "trechos_identificados": [
+        {
+          "trecho": "Deve a Casa Civil esclarecer se a licitação para compra de passagem aéreas fora precedida de estimativas das quantidades de bilhetes e trechos a serem percorridos; se os contratos previram o repasse à Casa Civil dos descontos eventualmente oferecidos pelos transportadores; se foram elaborados os relatórios das viagens pelos servidores beneficiados; se as viagens satisfizeram os princípios da necessidade, moralidade, impessoalidade e, particularmente, o da economicidade;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A4B",
+          "tipologia_irregularidade": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "descricao": "Detalhamento insuficiente na Planilha de composição de custos e formação de preços.",
+          "justificativa_tipologia": "A falta de estimativas, repasses de descontos, relatórios de viagem e avaliação dos princípios da gestão pode indicar irregularidades na compra de passagens aéreas.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Juntar relação pormenorizada das diárias concedida e respectivos  beneficiários,  dos  deslocamentos,  do  período  de afastamento e dos objetivos do deslocamento, esclarecendo a sua finalidade e se satisfizeram interesse público e os princípios da moralidade e eficiência; aplicando, por analogia, o critério do art. 457,  §  2°,  da  CLT,  informar  se  as  diárias  excederam  50%  da retribuição de qualquer dos beneficiários;",
+      "trechos_identificados": [
+        {
+          "trecho": "Juntar relação pormenorizada das diárias concedida e respectivos beneficiários, dos deslocamentos, do período de afastamento e dos objetivos do deslocamento, esclarecendo a sua finalidade e se satisfizeram interesse público e os princípios da moralidade e eficiência; aplicando, por analogia, o critério do art. 457, § 2°, da CLT, informar se as diárias excederam 50% da retribuição de qualquer dos beneficiários;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A ausência de informações detalhadas sobre as diárias e seus beneficiários impede a verificação da regularidade dos gastos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CLT",
+              "artigo": "457, § 2°",
+              "descricao": "Critério para avaliação do valor das diárias em relação à remuneração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Em  relação  aos  veículos,  houve  a  devida  identificação  dos mesmos? Ou seja, os automóveis em questão eram passíveis de serem  percebidos/identificados  pela  população  como  sendo  de serviço exclusivo da Casa Civil? Que medidas foram tomadas no sentido de controlar o uso dos veículos à disposição da Casa Civil (por  exemplo,  identificação  dos  motivos  do  deslocamento,  da autoridade  competente  para  autorizar  o  uso,  do  motorista,  do trajeto  e  da  quilometragem;  elaboração  de  mapas  de  controle; limitação do uso somente em dias úteis ou para fins fiscalizatórios e horários previamente  fixados; especificação das medidas adotadas para preservar os instrumentos de medição, tais como velocímetro,  hidrômetro  ou  celerímetro,  e  medidor  do  nível  de combustível etc.)?",
+      "trechos_identificados": [
+        {
+          "trecho": "Em  relação  aos  veículos,  houve  a  devida  identificação  dos mesmos? Ou seja, os automóveis em questão eram passíveis de serem  percebidos/identificados  pela  população  como  sendo  de serviço exclusivo da Casa Civil? Que medidas foram tomadas no sentido de controlar o uso dos veículos à disposição da Casa Civil (por  exemplo,  identificação  dos  motivos  do  deslocamento,  da autoridade  competente  para  autorizar  o  uso,  do  motorista,  do trajeto  e  da  quilometragem;  elaboração  de  mapas  de  controle; limitação do uso somente em dias úteis ou para fins fiscalizatórios e horários previamente  fixados; especificação das medidas adotadas para preservar os instrumentos de medição, tais como velocímetro,  hidrômetro  ou  celerímetro,  e  medidor  do  nível  de combustível etc.)?",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A ausência de identificação dos veículos e de controle do uso pode indicar irregularidades na gestão patrimonial.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Deve a Casa Civil informar como era adquirido o combustível para os veículos; relacionar as compras de combustíveis ocorridas no exercício e juntar cópias das notas fiscais respectivas; atestar se tais compras observaram as regras da Lei 8.666/93; atestar se os preços eram compatíveis com os praticados no mercado; juntar aos autos o preço médio apurado pela ANP.",
+      "trechos_identificados": [
+        {
+          "trecho": "Deve a Casa Civil informar como era adquirido o combustível para os veículos; relacionar as compras de combustíveis ocorridas no exercício e juntar cópias das notas fiscais respectivas; atestar se tais compras observaram as regras da Lei 8.666/93; atestar se os preços eram compatíveis com os praticados no mercado; juntar aos autos o preço médio apurado pela ANP.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A13B",
+          "tipologia_irregularidade": "Falta de planejamento orçamentário",
+          "descricao": "Ausência de registro da entrada no inventário de bens",
+          "justificativa_tipologia": "A ausência de informações sobre a aquisição de combustível e a conformidade com a Lei 8.666/93 pode indicar irregularidades na execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Normas para licitações e contratos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que, após a ocorrência da coisa julgada, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE/AM, adote as providências do artigo 162, §1º, do RITCE.",
+      "trechos_identificados": []
+    }
+  ]
+}

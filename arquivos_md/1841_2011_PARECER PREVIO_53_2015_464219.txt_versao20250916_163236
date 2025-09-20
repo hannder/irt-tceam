@@ -1,0 +1,235 @@
+{
+  "acordao": "053/2015",
+  "processo": "1841/2011",
+  "data_sessao": "23 de setembro de 2015",
+  "orgao": "Prefeitura Municipal de Coari",
+  "municipio": "Coari",
+  "exercicio": "2010",
+  "responsavel": [
+    "Arnaldo Almeida Mitouso"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Declarar  a  Revelia do  Sr. Arnaldo  Almeida  Mitouso , ex  Prefeito Municipal de Coari e Ordenador de Despesas, no exercício de 2010, nos termos do art. 20, § 3º, da Lei Estadual nº 2.423/96, c/c o art.88 da Resolução nº 04/2002- TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Declarar  a  Revelia do  Sr. Arnaldo  Almeida  Mitouso , ex  Prefeito Municipal de Coari e Ordenador de Despesas, no exercício de 2010, nos termos do art. 20, § 3º, da Lei Estadual nº 2.423/96, c/c o art.88 da Resolução nº 04/2002- TCE/AM",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A24B",
+          "tipologia_irregularidade": "Não cumprimento das responsabilidades do SIC**",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A revelia do gestor impede o cumprimento das responsabilidades do Sistema de Controle Interno, como a apresentação de informações sobre o quadro de pessoal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2.423/96",
+              "artigo": "20, § 3º",
+              "descricao": "Define as consequências da revelia no âmbito do TCE-AM."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE/AM",
+              "artigo": "88",
+              "descricao": "Regulamenta o processo de declaração de revelia no âmbito do TCE-AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "- 9.2- Julgar Irregular as Contas da Prefeitura Municipal de Coari, referente ao exercício  financeiro  de  2010,  sob  a  responsabilidade  do  ex  Prefeito  e  ordenador  de despesas  Sr.  Arnaldo  Almeida  Mitouso,  nos  termos  do  art.  22,  III,  'a',  'c'  e  'd'  da  lei 2423/96, em razão de praticas de atos com graves infrações as normas legais",
+      "trechos_identificados": [
+        {
+          "trecho": "- 9.2- Julgar Irregular as Contas da Prefeitura Municipal de Coari, referente ao exercício  financeiro  de  2010,  sob  a  responsabilidade  do  ex  Prefeito  e  ordenador  de despesas  Sr.  Arnaldo  Almeida  Mitouso,  nos  termos  do  art.  22,  III,  'a',  'c'  e  'd'  da  lei 2423/96, em razão de praticas de atos com graves infrações as normas legais",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A irregularidade nas contas, decorrente de graves infrações, indica uma falta de documentação e controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "lei 2423/96",
+              "artigo": "22, III, 'a', 'c' e 'd'",
+              "descricao": "Fundamenta o julgamento das contas como irregulares devido a infrações às normas legais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar multa , ao  Sr. Arnaldo  Almeida  Mitouso , no  valor  de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos), nos termos do inciso VI, do artigo 308, da Resolução 04/2002-TCE, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial (art. 54,inciso II da Lei n. 2423, de 10.12.1996 )",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa , ao  Sr. Arnaldo  Almeida  Mitouso , no  valor  de R$ 43.841,28 (quarenta e três mil, oitocentos e quarenta e um reais e vinte e oito centavos), nos termos do inciso VI, do artigo 308, da Resolução 04/2002-TCE, por ato praticado com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional e patrimonial (art. 54,inciso II da Lei n. 2423, de 10.12.1996 )",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A10A",
+          "tipologia_irregularidade": "Despesas sem prévio empenho",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A multa é aplicada em razão de grave infração a normas legais, o que sugere despesas realizadas sem o devido processo legal.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 04/2002-TCE",
+              "artigo": "308, VI",
+              "descricao": "Fundamenta a aplicação de multa por infração a normas legais."
+            },
+            {
+              "norma": "Lei n. 2423, de 10.12.1996",
+              "artigo": "54,inciso II",
+              "descricao": "Descreve o ato praticado com grave infração à norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar multa , ao  Sr. Arnaldo  Almeida  Mitouso , no  valor  de R$ 13.152,16 (treze mil, cento e cinquenta e dois reais e dezesseis centavos), pelo atraso na remessa da movimentação contábil da Prefeitura Municipal de Coari, referente aos meses de JANEIRO À DEZEMBRO do exercício financeiro de 2010",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa , ao  Sr. Arnaldo  Almeida  Mitouso , no  valor  de R$ 13.152,16 (treze mil, cento e cinquenta e dois reais e dezesseis centavos), pelo atraso na remessa da movimentação contábil da Prefeitura Municipal de Coari, referente aos meses de JANEIRO À DEZEMBRO do exercício financeiro de 2010",
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A multa é aplicada devido ao atraso na remessa da movimentação contábil, o que configura descumprimento de prazos.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar a glosa com a devolução aos cofres públicos, devidamente corrigidos,  conforme  art.  305,  §1º  do  Regimento  Interno  desta  Corte  de  Contas,  dos seguintes valores:\n\n9.5.1- R$ 1.409.198,00 ,  referente ao montante dos pagamentos feitos a maior à empresa WILLEM WAGNER S. RODRIGUES - W. W. EMPREENDIMENTOS CNPJ 03.468.288/0001-11, relativo ao CONTRATO Nº 061/2010",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar a glosa com a devolução aos cofres públicos, devidamente corrigidos,  conforme  art.  305,  §1º  do  Regimento  Interno  desta  Corte  de  Contas,  dos seguintes valores:\n\n9.5.1- R$ 1.409.198,00 ,  referente ao montante dos pagamentos feitos a maior à empresa WILLEM WAGNER S. RODRIGUES - W. W. EMPREENDIMENTOS CNPJ 03.468.288/0001-11, relativo ao CONTRATO Nº 061/2010",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação de glosa por pagamentos a maior sugere a ocorrência de sobrepreço, indicando falta de pesquisa de mercado.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno desta Corte de Contas",
+              "artigo": "305, §1º",
+              "descricao": "Estabelece as diretrizes para a correção de valores a serem devolvidos aos cofres públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "9.5.2- R$ 3.460.933,13, referente à ausência de comprovação das obras inspecionadas",
+      "trechos_identificados": [
+        {
+          "trecho": "9.5.2- R$ 3.460.933,13, referente à ausência de comprovação das obras inspecionadas",
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A23B",
+          "tipologia_irregularidade": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "descricao": "Ausência ou deficiência de acompanhamento adequado pela fiscalização",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A ausência de comprovação das obras indica falhas na fiscalização e acompanhamento da execução contratual.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "irregularidade",
+      "descricao": "- 9.6-  Considerar  em  alcance o  Sr.  Arnaldo  Almeida  Mitouso,  ex  Prefeito Municipal e Ordenador de despesas de Coari, no valor de R$ 59.324.198,09 (cinquenta e nove milhões, trezentos e vinte e quatro mil, cento e noventa e oito reais e nove centavos), em razão das irregularidades apontadas pela DICAMI, discriminadas no Relatório acima",
+      "trechos_identificados": [
+        {
+          "trecho": "- 9.6-  Considerar  em  alcance o  Sr.  Arnaldo  Almeida  Mitouso,  ex  Prefeito Municipal e Ordenador de despesas de Coari, no valor de R$ 59.324.198,09 (cinquenta e nove milhões, trezentos e vinte e quatro mil, cento e noventa e oito reais e nove centavos), em razão das irregularidades apontadas pela DICAMI, discriminadas no Relatório acima",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "eh_irregularidade=True; relevante_para_indice=True; doc_origem=\"DICAMI\"; justificativa=\"O alcance ao gestor, devido a irregularidades apontadas em relatório, sugere a não realização da execução orçamentária no exercício.\"",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Fixar o prazo de 30 (trinta) dias ao Sr. Arnaldo Almeida Mitouso, para o recolhimento  cofres  do  Município dos  valores  de glosas  e  alcance ,  com comprovação perante a este Tribunal, acrescido de atualização monetária e dos juros de mora devidos, nos termos do art. 72, III, da Lei nº 2.423/96 e art. 169, I, da Resolução nº 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias ao Sr. Arnaldo Almeida Mitouso, para o recolhimento  cofres  do  Município dos  valores  de glosas  e  alcance ,  com comprovação perante a este Tribunal, acrescido de atualização monetária e dos juros de mora devidos, nos termos do art. 72, III, da Lei nº 2.423/96 e art. 169, I, da Resolução nº 04/02",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A5B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "descricao": "Divergência Contábil de Restos a Pagar processados e não processados com a conta restos a pagar inscritos no exercício",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para recolhimento dos valores de glosas e alcance, acrescidos de atualização e juros, indica a existência de divergências contábeis.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "72, III",
+              "descricao": "Estabelece o prazo e condições para recolhimento de valores devidos ao município."
+            },
+            {
+              "norma": "Resolução nº 04/02",
+              "artigo": "169, I",
+              "descricao": "Define os procedimentos para atualização monetária e juros de mora sobre os valores a serem recolhidos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "- 9.8-  Fixar  prazo  de  30  (trinta)  dias  para  o  recolhimento  das  multas aos cofres  da  Fazenda  Estadual,  com  a  devida  comprovação  perante  a  este  Tribunal,  nos termos dos arts. 72, III,  da Lei nº 2.423/96. Expirado prazo estabelecido, os valores das multas deverá ser atualizado monetariamente (art. 55, da Lei nº 2.423/96 c/c o art. 308, § 3º da Resolução nº 04/2002-TCE/AM), autorizando desde já a inscrição das penalidades na dívida ativa e a instauração da cobrança executiva em caso de não-recolhimento dos valores  das  condenações,  ex  vi  do  art.  173,  do  Regimento  Interno  deste  Tribunal  de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "- 9.8-  Fixar  prazo  de  30  (trinta)  dias  para  o  recolhimento  das  multas aos cofres  da  Fazenda  Estadual,  com  a  devida  comprovação  perante  a  este  Tribunal,  nos termos dos arts. 72, III,  da Lei nº 2.423/96. Expirado prazo estabelecido, os valores das multas deverá ser atualizado monetariamente (art. 55, da Lei nº 2.423/96 c/c o art. 308, § 3º da Resolução nº 04/2002-TCE/AM), autorizando desde já a inscrição das penalidades na dívida ativa e a instauração da cobrança executiva em caso de não-recolhimento dos valores  das  condenações,  ex  vi  do  art.  173,  do  Regimento  Interno  deste  Tribunal  de Contas.",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A1B",
+          "tipologia_irregularidade": "Não-adoção de providências para cobrança de dívida ativa",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado.",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"A determinação para recolhimento de multas e a autorização para inscrição na dívida ativa indicam uma preocupação com a cobrança de débitos.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "72, III",
+              "descricao": "Define o prazo para recolhimento de multas."
+            },
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "55",
+              "descricao": "Estabelece a atualização monetária das multas."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "308, § 3º",
+              "descricao": "Regulamenta a atualização monetária das multas."
+            },
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "173",
+              "descricao": "Autoriza a inscrição na dívida ativa e a cobrança executiva em caso de não recolhimento das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "recomendacao",
+      "descricao": "Representar  ao Ministério  Público  Estadual ,  encaminhando  cópia  do processo, de acordo com o inciso XXIV do art. 1º da Lei Nº 2423/96, para  que apure a responsabilidade civil e penal por práticas de atos com  indícios de improbidade administrativa do ex Prefeito  Municipal de Coari, Sr.  Arnaldo  Almeida  Mitouso,  gestor e ordenador das despesas referente ao exercício financeiro de 2010, e dos engenheiros, na época, responsáveis pela fiscalização das obras inspecionadas, senhores Geraldo S. da Costa  Sobrinho,  Gilmar  Pereira  Barbosa,  Ildison  Barroncas  Passos  e  o  Sr.  Cleomir  de Araújo Costa, então Secretário Municipal de Obras de Coari.",
+      "trechos_identificados": [
+        {
+          "trecho": "Representar  ao Ministério  Público  Estadual ,  encaminhando  cópia  do processo, de acordo com o inciso XXIV do art. 1º da Lei Nº 2423/96, para  que apure a responsabilidade civil e penal por práticas de atos com  indícios de improbidade administrativa do ex Prefeito  Municipal de Coari, Sr.  Arnaldo  Almeida  Mitouso,  gestor e ordenador das despesas referente ao exercício financeiro de 2010, e dos engenheiros, na época, responsáveis pela fiscalização das obras inspecionadas, senhores Geraldo S. da Costa  Sobrinho,  Gilmar  Pereira  Barbosa,  Ildison  Barroncas  Passos  e  o  Sr.  Cleomir  de Araújo Costa, então Secretário Municipal de Obras de Coari.",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A9B",
+          "tipologia_irregularidade": "Omissão do Responsável pela Unidade de Controle Interno",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "eh_irregularidade=False; relevante_para_indice=True; doc_origem=\"\"; justificativa=\"O encaminhamento ao Ministério Público para apuração de responsabilidade por improbidade administrativa indica indícios de omissão ou falha no controle interno.\"",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Nº 2423/96",
+              "artigo": "1º, XXIV",
+              "descricao": "Autoriza o TCE a representar ao Ministério Público em caso de indícios de improbidade administrativa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

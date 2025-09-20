@@ -1,0 +1,41 @@
+{
+  "acordao": "272/2019",
+  "processo": "11264/2018",
+  "data_sessao": "23 de Abril de 2019",
+  "orgao": "Câmara Municipal de Santo Antônio do Içá",
+  "municipio": "Santo Antônio do Içá",
+  "exercicio": "2017",
+  "responsavel": [
+    "Rodolfo Ferreira de Magalhães"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Sr. Rodolfo Ferreira de Magalhães, Presidente da Câmara Municipal de Santo Antônio do Içá, exercício de 2017, dando-lhe a devida quitação, nos termos do art. 22, inciso I, c/c o art. 23, ambos da Lei nº 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Sr. Rodolfo Ferreira de Magalhães, Presidente da Câmara Municipal de Santo Antônio do Içá, exercício de 2017, dando-lhe a devida quitação, nos termos do art. 22, inciso I, c/c o art. 23, ambos da Lei nº 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A deliberação em si é o julgamento das contas como regular, não indicando uma irregularidade, mas é necessário classificar como um tema, para isso foi escolhido o tema da contabilidade por se tratar de contas anuais.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso I",
+              "descricao": "Dispositivo legal que fundamenta a decisão de regularidade."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "23",
+              "descricao": "Dispositivo legal que fundamenta a decisão de quitação."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

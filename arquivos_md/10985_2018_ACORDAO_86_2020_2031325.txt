@@ -1,0 +1,182 @@
+{
+  "acordao": "86/2020",
+  "processo": "10985/2018",
+  "data_sessao": "11 de Fevereiro de 2020",
+  "orgao": "Câmara Municipal de Nova Olinda do Norte",
+  "municipio": "Nova Olinda do Norte",
+  "exercicio": "2017",
+  "responsavel": [
+    "Francelin Mendes dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar irregular",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de  Nova  Olinda  do  Norte , referente  ao  exercício  de  2017,  sob responsabilidade do Sr. Francelin Mendes dos Santos , Presidente da Câmara, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 22, II, e art. 24 da Lei 2.423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas Anual da Câmara Municipal de  Nova  Olinda  do  Norte , referente  ao  exercício  de  2017,  sob responsabilidade do Sr. Francelin Mendes dos Santos , Presidente da Câmara, com fulcro no art. 71, II, da CF/88 c/c o art. 40, II, da CE/89 e art. 1º, II, art. 22, II, e art. 24 da Lei 2.423/96",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "O trecho descreve o julgamento como irregular da prestação de contas, indicando falhas na documentação e procedimentos contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "71, II",
+              "descricao": "Competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos."
+            },
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "40, II",
+              "descricao": "Dispositivo similar ao art. 71, II, da Constituição Federal, aplicável no âmbito estadual."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Define a competência do TCE/AM para fiscalizar as contas dos responsáveis por recursos públicos."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "22, II",
+              "descricao": "Estabelece a obrigatoriedade de prestar contas dos recursos públicos geridos."
+            },
+            {
+              "norma": "Lei 2.423/96",
+              "artigo": "24",
+              "descricao": "Define as responsabilidades dos gestores públicos em relação à prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Francelin Mendes dos Santos no valor de R$ 3.413,60 , que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no art. 308, II, 'b' do Regimento Interno desta Corte, em razão do achado 2 do relatório-voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Francelin Mendes dos Santos no valor de R$ 3.413,60 , que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no art. 308, II, 'b' do Regimento Interno desta Corte, em razão do achado 2 do relatório-voto",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "SANÇÃO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "NA",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa, uma penalidade administrativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno desta Corte",
+              "artigo": "308, II, 'b'",
+              "descricao": "Estabelece as bases para a aplicação de multas por irregularidades verificadas nas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Aplicar Multa",
+      "descricao": "Aplicar Multa ao Sr. Francelin Mendes dos Santos no valor de R$ 13.654,39 , que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no art. 308, VI, do Regimento Interno desta Corte, em razão das impropriedades remanescentes do achado 10",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Francelin Mendes dos Santos no valor de R$ 13.654,39 , que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE, com base no art. 308, VI, do Regimento Interno desta Corte, em razão das impropriedades remanescentes do achado 10",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "SANÇÃO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "NA",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa, uma penalidade administrativa.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno desta Corte",
+              "artigo": "308, VI",
+              "descricao": "Estabelece as bases para a aplicação de multas por irregularidades verificadas nas contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Câmara Municipal de Nova Olinda do Norte que: observe com rigor o determinado art. 51, § 1º, inciso I, da Lei n.º 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Câmara Municipal de Nova Olinda do Norte que: observe com rigor o determinado art. 51, § 1º, inciso I, da Lei n.º 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A68B",
+          "tipologia_irregularidade": "Descumprimento de metas fiscais",
+          "descricao": "A entidade não cumpriu as metas fiscais estabelecidas na Lei de Responsabilidade Fiscal (LRF) ou em outras leis aplicáveis, o que pode comprometer a sustentabilidade fiscal e a capacidade de investimento público.",
+          "justificativa_tipologia": "Recomendação para que a Câmara observe rigorosamente o artigo da LRF, que trata da necessidade de acompanhamento e divulgação das metas de resultado primário e nominal, essenciais para a gestão fiscal responsável.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 101/2000",
+              "artigo": "51, § 1º, inciso I",
+              "descricao": "Define a necessidade de acompanhamento e divulgação das metas de resultado primário e nominal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Câmara Municipal de Nova Olinda do Norte que: Promova  implementação  de  controles  internos  relativos  aos almoxarifados  e  patrimônio  do  órgão,  nos  termos  da  Lei  nº 4320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Câmara Municipal de Nova Olinda do Norte que: Promova  implementação  de  controles  internos  relativos  aos almoxarifados  e  patrimônio  do  órgão,  nos  termos  da  Lei  nº 4320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A recomendação explicita a necessidade de estruturar e implementar um controle interno para garantir o cumprimento das normas e regulamentos, bem como salvaguardar os ativos da organização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4320/64",
+              "artigo": "Não especificado",
+              "descricao": "Estabelece normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados e dos Municípios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr. Francelin Mendes  dos  Santos e demais interessados, desta decisão",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  ciência ao Sr. Francelin Mendes  dos  Santos e demais interessados, desta decisão",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "NA",
+          "justificativa_tipologia": "A ciência é um ato formal de comunicação, não indicando diretamente uma irregularidade.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivar",
+      "descricao": "Arquivar o  presente  processo  após  cumprimento  de  decisão,  nos termos regimentais",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o  presente  processo  após  cumprimento  de  decisão,  nos termos regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "NA",
+          "justificativa_tipologia": "O arquivamento é um procedimento padrão do TCE após o cumprimento das determinações.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

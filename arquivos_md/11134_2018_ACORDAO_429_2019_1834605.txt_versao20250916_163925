@@ -1,0 +1,331 @@
+{
+  "acordao": "429/2019",
+  "processo": "11134/2018",
+  "data_sessao": "28 de Maio de 2019",
+  "orgao": "TCE - Tribunal Pleno",
+  "municipio": "Eirunepé",
+  "exercicio": "2017",
+  "responsavel": [
+    "Walter Alexandre Menezes Bezerra"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Eirunepé, referente ao exercício financeiro de 2017, de responsabilidade do Gestor, ordenador de despesa, Sr. Walter Alexandre Menezes Bezerra , conforme o art. 22, inciso III, 'b' e 'c' c/c art.  25,  da  Lei  n.º  2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da  Câmara  Municipal  de Eirunepé, referente ao exercício financeiro de 2017, de responsabilidade do Gestor, ordenador de despesa, Sr. Walter Alexandre Menezes Bezerra , conforme o art. 22, inciso III, 'b' e 'c' c/c art.  25,  da  Lei  n.º  2.423/96-LO/TCE, considerando as ocorrências das restrições sobreditas e não sanadas desta instrução",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Julgamento irregular da prestação de contas devido a restrições não sanadas.",
+          "justificativa_tipologia": "justificativa=A irregularidade no julgamento da prestação de contas indica problemas na comprovação de valores no balanço patrimonial.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  n.º  2.423/96-LO/TCE",
+              "artigo": "22, inciso III, 'b' e 'c' c/c art.  25",
+              "descricao": "Fundamenta a irregularidade da prestação de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Considerar  em  Alcance o Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente  da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no valor  de R$  58.200,00 (cinquenta  e  oito  mil  e  duzentos  reais),  que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Câmara Municipal  de  Eirunepé  com  fulcro  no  artigo  304,  I,  da  Resolução  nº 04/2002 - Regimento Interno do TCE, pela concessão de diárias sem a devida comprovação da finalidade pública das despesas, visto não ter apresentado quaisquer documentos (Certidões, Declarações de Comparecimento) que demonstrassem o nexo causal entre as viagens e finalidade pública",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente  da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no valor  de R$  58.200,00 (cinquenta  e  oito  mil  e  duzentos  reais),  que devem  ser  recolhidos  na  esfera  Municipal  para  o  órgão  Câmara Municipal  de  Eirunepé  com  fulcro  no  artigo  304,  I,  da  Resolução  nº 04/2002 - Regimento Interno do TCE, pela concessão de diárias sem a devida comprovação da finalidade pública das despesas, visto não ter apresentado quaisquer documentos (Certidões, Declarações de Comparecimento) que demonstrassem o nexo causal entre as viagens e finalidade pública",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Concessão de diárias sem comprovação da finalidade pública, indicando burla ao processo legal de pagamento.",
+          "justificativa_tipologia": "justificativa=A concessão de diárias sem comprovação da finalidade pública caracteriza burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução  nº 04/2002 - Regimento Interno do TCE",
+              "artigo": "304,  I",
+              "descricao": "Fundamenta a decisão de alcance devido à concessão de diárias sem comprovação."
+            },
+              {
+              "norma": "Constituição Federal/88",
+              "artigo": "70",
+              "descricao": "Fundamenta  legal a necessidade de comprovação de despesas com dinheiro público."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar Multa ao Sr.  Walter  Alexandre Menezes Bezerra ,  Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 15.000,00 (quinze mil reais), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, VI, da Resolução nº 04/2002 TCE/AM, em face do disposto nos itens 19-22, 34-39, 40-47, 48-51, do Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr.  Walter  Alexandre Menezes Bezerra ,  Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 15.000,00 (quinze mil reais), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, VI, da Resolução nº 04/2002 TCE/AM, em face do disposto nos itens 19-22, 34-39, 40-47, 48-51, do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A15A",
+          "tipologia_irregularidade": "Superfaturamento de preços",
+          "descricao": "Aplicação de multa devido a irregularidades na execução orçamentária e financeira, possivelmente relacionadas a superfaturamento.",
+          "justificativa_tipologia": "justificativa=A aplicação de multa, com base nos itens do Voto, sugere irregularidades na execução orçamentária e financeira, possivelmente relacionadas a superfaturamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Fundamenta a aplicação da multa."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308, VI",
+              "descricao": "Fundamenta a aplicação da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sancao",
+      "descricao": "Aplicar  Multa ao Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, I, 'b' da Resolução nº  04/2002  TCE/AM, por  atraso  na  remessa  dos  Relatórios  de  Gestão Fiscal do 1º e 2º semestres de 2017, conforme disposto nos itens 52-55, do  Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Walter  Alexandre  Menezes  Bezerra , Presidente da  Câmara  Municipal  de  Eirunepé,  exercício  de  2017,  no  valor  de R$ 3.413,60 (três mil, quatrocentos e treze reais e sessenta centavos), com fulcro no artigo 54, II da Lei nº 2.423/96 c/c art. 308, I, 'b' da Resolução nº  04/2002  TCE/AM, por  atraso  na  remessa  dos  Relatórios  de  Gestão Fiscal do 1º e 2º semestres de 2017, conforme disposto nos itens 52-55, do  Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A70B",
+          "tipologia_irregularidade": "Envio dos dados do RREO não realizado",
+          "descricao": "Multa aplicada por atraso na remessa dos Relatórios de Gestão Fiscal, indicando falha no cumprimento dos prazos legais.",
+          "justificativa_tipologia": "justificativa=O atraso na remessa dos Relatórios de Gestão Fiscal configura descumprimento de obrigações legais de envio de dados.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Fundamenta a aplicação da multa."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308, I, 'b'",
+              "descricao": "Fundamenta a aplicação da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Que  cumpra  o  disposto  artigos  48,  II  e  48-A  da  Lei  de Responsabilidade Fiscal, assim como art. 8º, §§ 1º e 2, da Lei 12.527/11",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  artigos  48,  II  e  48-A  da  Lei  de Responsabilidade Fiscal, assim como art. 8º, §§ 1º e 2, da Lei 12.527/11",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Determinação para cumprir as disposições da Lei de Responsabilidade Fiscal e da Lei de Acesso à Informação, referente à publicação de informações.",
+          "justificativa_tipologia": "justificativa=A determinação de cumprimento das leis sugere uma não conformidade prévia em relação à transparência e responsabilidade fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "48, II",
+              "descricao": "Obrigatoriedade de transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei de Responsabilidade Fiscal",
+              "artigo": "48-A",
+              "descricao": "Obrigatoriedade de transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei 12.527/11",
+              "artigo": "8º, §§ 1º e 2",
+              "descricao": "Obrigatoriedade de transparência na gestão pública."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Que  cumpra  o  disposto  na  Lei  Municipal  nº  004/1999  e que apresente certidões emitidas pelas entidades e órgãos que motivaram a viagem e o recebimento das diárias, dando cumprimento ao art. 70, parágrafo único, da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  na  Lei  Municipal  nº  004/1999  e que apresente certidões emitidas pelas entidades e órgãos que motivaram a viagem e o recebimento das diárias, dando cumprimento ao art. 70, parágrafo único, da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A20B",
+          "tipologia_irregularidade": "Concessão de diárias e ajudas de custo irregulares",
+          "descricao": "Determinação para apresentar documentos que comprovem a finalidade pública das despesas com diárias, conforme legislação municipal e federal.",
+          "justificativa_tipologia": "justificativa=A determinação para comprovar a finalidade pública das despesas com diárias indica uma falha prévia na documentação e justificativa desses gastos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Municipal nº 004/1999",
+              "artigo": "Não aplicável",
+              "descricao": "Obrigatoriedade de cumprir as disposições da lei municipal."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "70, parágrafo único",
+              "descricao": "Obrigatoriedade de comprovar a finalidade pública das despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Que  cumpra  o  disposto  no  art.  37,  XXI,  da  CF,  assim como na Lei nº 8.666/1993, em especial, art.  3º  e  art.  23, §5º, que trata do fracionamento de despesas",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  no  art.  37,  XXI,  da  CF,  assim como na Lei nº 8.666/1993, em especial, art.  3º  e  art.  23, §5º, que trata do fracionamento de despesas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Determinação para cumprir as normas constitucionais e legais sobre licitações, evitando o fracionamento de despesas.",
+          "justificativa_tipologia": "justificativa=A determinação para cumprir as normas sobre licitações e evitar o fracionamento de despesas indica uma preocupação com possíveis irregularidades nessa área.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF",
+              "artigo": "37, XXI",
+              "descricao": "Obrigatoriedade de licitação para contratações públicas."
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "3º",
+              "descricao": "Princípios da licitação."
+            },
+            {
+              "norma": "Lei nº 8.666/1993",
+              "artigo": "23, §5º",
+              "descricao": "Proibição do fracionamento de despesas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Que cumpra o disposto no art. 29-A, I, da CF/88",
+      "trechos_identificados": [
+        {
+          "trecho": "Que cumpra o disposto no art. 29-A, I, da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Determinação para cumprir o limite de gastos com pessoal conforme a LRF.",
+          "justificativa_tipologia": "justificativa=A determinação para cumprir o limite de gastos com pessoal indica uma preocupação com o controle das despesas com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "29-A, I",
+              "descricao": "Obrigatoriedade de destinar recursos para a saúde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Que  cumpra  o  disposto  no  art.  5º,  da  Resolução  nº 24/2013  TCE/AM,  assim  como  aos  artigos  48,  48-A  e  55, §1º, da Lei Complementar nº 101/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Que  cumpra  o  disposto  no  art.  5º,  da  Resolução  nº 24/2013  TCE/AM,  assim  como  aos  artigos  48,  48-A  e  55, §1º, da Lei Complementar nº 101/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A5B",
+          "tipologia_irregularidade": "Controle Interno insuficientemente implementado ou estruturado",
+          "descricao": "Determinação para cumprir as normas sobre controle interno e transparência na gestão fiscal.",
+          "justificativa_tipologia": "justificativa=O descumprimento de normas relacionadas ao controle interno e a transparência na gestão fiscal indica uma fragilidade no sistema de controle e monitoramento dos gastos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 24/2013  TCE/AM",
+              "artigo": "5º",
+              "descricao": "Normas sobre gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "48",
+              "descricao": "Transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "48-A",
+              "descricao": "Transparência na gestão fiscal."
+            },
+            {
+              "norma": "Lei Complementar nº 101/2000",
+              "artigo": "55, §1º",
+              "descricao": "Limites de endividamento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinacao",
+      "descricao": "Determinar à próxima Comissão de Inspeção do TCE/AM  que acrescente no Plano de Auditoria as matérias trazidas como DETERMINAÇÃO à origem, para no caso de reincidência aplicar-se o disposto  no  art.  54,  IV,  da  Lei  nº  2.423/96  c/c  art.  308,  IV,  'b',  da Resolução nº 04/2002 TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à próxima Comissão de Inspeção do TCE/AM  que acrescente no Plano de Auditoria as matérias trazidas como DETERMINAÇÃO à origem, para no caso de reincidência aplicar-se o disposto  no  art.  54,  IV,  da  Lei  nº  2.423/96  c/c  art.  308,  IV,  'b',  da Resolução nº 04/2002 TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de fomento ao controle social",
+          "descricao": "Ausência de fomento ao controle social",
+          "justificativa_tipologia": "justificativa=Diretriz ao TCE para incluir itens em auditoria futura; não indica irregularidade presente.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "54, IV",
+              "descricao": "Sanções em caso de reincidência."
+            },
+            {
+              "norma": "Resolução nº 04/2002 TCE/AM",
+              "artigo": "308, IV, 'b'",
+              "descricao": "Sanções em caso de reincidência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "ciencia",
+      "descricao": "Notificar o Sr.  Walter  Alexandre  Menezes  Bezerra com  cópia  do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr.  Walter  Alexandre  Menezes  Bezerra com  cópia  do Relatório/Voto, e o Acórdão para ciência do decisório e, para querendo, apresentar o devido recurso.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "doc_origem": "ACÓRDÃO Nº429/2019 - TCE - TRIBUNAL PLENO",
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1B",
+          "tipologia_irregularidade": "Ausência de fomento ao controle social",
+          "descricao": "Ausência de fomento ao controle social",
+          "justificativa_tipologia": "justificativa=A medida de notificação visa apenas dar ciência da decisão, sem implicar necessariamente a existência de uma irregularidade ou falha que seja relevante para o índice de governança.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

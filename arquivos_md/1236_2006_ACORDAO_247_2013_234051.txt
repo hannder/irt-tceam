@@ -1,0 +1,296 @@
+{
+  "acordao": "247/2013",
+  "processo": "1236/2006",
+  "data_sessao": "16 de dezembro de 2013",
+  "orgao": "Secretaria de Estado de Educação e Qualidade de Ensino - SEDUC",
+  "municipio": "Manaus",
+  "exercicio": "2005",
+  "responsavel": [
+    "Vera Lúcia Marques Edwards",
+    "Maria de Lourdes Hawat",
+    "Gedeão Timóteo Amorim",
+    "Marly Honda de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "MULTA",
+      "descricao": "MULTAR a  Sra.  Vera  Lúcia  Marques Edwards, Secretária da SEDUC no período de 01.01.2005 a 08.08.2005: a) no valor de R$ no valor de R$ 1.096,03 (hum mil, noventa e seis reais e três centavos), conforme art. 308, inciso II, da Resolução nº. 04/2002-TCE/AM, alterado pela Resolução nº 25/2012-TCE/AM por cada mês de atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos meses de janeiro a maio 2005 (5 meses), totalizando o montante de R$ 5.480,15 (cinco mil, quatrocentos e oitenta reais e cinquenta centavos), item 1 deste voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 1.096,03 (hum mil, noventa e seis reais e três centavos), conforme art. 308, inciso II, da Resolução nº. 04/2002-TCE/AM, alterado pela Resolução nº 25/2012-TCE/AM por cada mês de atraso no encaminhamento, por meio magnético (ACP), dos demonstrativos contábeis referentes aos meses de janeiro a maio 2005 (5 meses), totalizando o montante de R$ 5.480,15 (cinco mil, quatrocentos e oitenta reais e cinquenta centavos), item 1 deste voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio dos demonstrativos contábeis, o que dificulta a fiscalização e o controle das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-TCE/AM",
+              "artigo": "308, inciso II",
+              "descricao": "Multa por cada mês de atraso no encaminhamento dos demonstrativos contábeis."
+            },
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução nº 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "b) no valor de no  valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito  reais  e  vinte  e  cinco centavos), com fulcro no art. 308, VI da Resolução n° 04/2002, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 3, 4, 17, 18, 19, 20, 35-a, 36, 37-a e 37-b deste voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito  reais  e  vinte  e  cinco centavos), com fulcro no art. 308, VI da Resolução n° 04/2002, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 3, 4, 17, 18, 19, 20, 35-a, 36, 37-a e 37-b deste voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada devido a atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, refletindo falhas na gestão e controle dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Multa por atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            },
+            {
+              "norma": "Resolução n° 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução n° 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "MULTAR o  Sr.  Gedeão  Timóteo  Amorim,  Secretário  da  SEDUC  no período de 09.08.2005 a 31.12.2005: a) Sr. Gedeão Timóteo Amorim, no valor de R$ 1.096,03 (hum mil, noventa e  seis  reais  e  três  centavos),  conforme  art.  308,  inciso  II,  da  Resolução  nº.  04/2002TCE/AM,  alterado  pela  Resolução  nº  25/2012-TCE/AM por  cada  mês  de  atraso no encaminhamento, por meio magnético (ACP), dos  demonstrativos contábeis referentes aos meses de outubro a  dezembro de  2005 (3 meses), totalizando  o montante de R$ 3.288,09 (três mil, duzentos e oitenta e oito reais e nove centavos), item 1 deste.",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 1.096,03 (hum mil, noventa e seis reais e três centavos), conforme art. 308, inciso II, da Resolução nº. 04/2002TCE/AM, alterado pela Resolução nº 25/2012-TCE/AM por cada mês de atraso no encaminhamento, por meio magnético (ACP), dos  demonstrativos contábeis referentes aos meses de outubro a  dezembro de  2005 (3 meses), totalizando  o montante de R$ 3.288,09 (três mil, duzentos e oitenta e oito reais e nove centavos), item 1 deste.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso no envio dos demonstrativos contábeis, o que dificulta a fiscalização e o controle das contas públicas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002-TCE/AM",
+              "artigo": "308, inciso II",
+              "descricao": "Multa por cada mês de atraso no encaminhamento dos demonstrativos contábeis."
+            },
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução nº 04/2002-TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "b) no valor de no  valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito  reais  e  vinte  e  cinco centavos), com fulcro no art. 308, VI da Resolução n° 04/2002, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 3, 4, 17, 18, 19, 20, 35-c e 35-d deste voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito  reais  e  vinte  e  cinco centavos), com fulcro no art. 308, VI da Resolução n° 04/2002, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 3, 4, 17, 18, 19, 20, 35-c e 35-d deste voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada devido a atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, refletindo falhas na gestão e controle dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Multa por atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            },
+            {
+              "norma": "Resolução n° 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução n° 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "MULTAR as  ordenadoras de despesas Sra. Maria de Lourdes Hawat (período de 01.01.2005 a 08.08.2005), bem como a Sra. Marly Honda de Souza (período de 09.08.2005 a 31.12.2005), no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito  reais  e  vinte  e  cinco centavos), com fulcro no art. 308, VI da Resolução n° 04/2002, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 3, 4, 17, 18, 19 e 20 deste voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito  reais  e  vinte  e  cinco centavos), com fulcro no art. 308, VI da Resolução n° 04/2002, alterada pela Resolução n° 25/2012-TCE/AM, pelos atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, constantes nos itens 3, 4, 17, 18, 19 e 20 deste voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A multa é aplicada devido a atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial, refletindo falhas na gestão e controle dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002",
+              "artigo": "308, VI",
+              "descricao": "Multa por atos praticados com grave infração de natureza contábil, financeira, orçamentária, operacional e patrimonial."
+            },
+            {
+              "norma": "Resolução n° 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Alteração da Resolução n° 04/2002."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "FIXAR PRAZO",
+      "descricao": "FIXAR o  prazo  de  30  (trinta)  dias,  para  que  as  Sras.  Vera  Lúcia Marques  Edwards,  Secretária  da  SEDUC  e  Maria  de  Lourdes  Hawat,  ordenadora  de despesas,  no  período  de  01.01.2005  a  08.08.2005,  bem  como  do  Sr.  Gedeão  Timóteo Amorim,  Secretário  da  SEDUC  e  Sra.  Marly  Honda  de  Souza,  recolha  os  valores  das multas que lhe foram aplicados aos cofres públicos (art. 72,  III, 'c', da Lei nº 2423/96), ficando  a  DICREX  autorizada  a  dotar  as  medidas  previstas  nas  subseções  III  e  IV  da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o  prazo  de  30  (trinta)  dias,  para  que  as  Sras.  Vera  Lúcia Marques  Edwards,  Secretária  da  SEDUC  e  Maria  de  Lourdes  Hawat,  ordenadora  de despesas,  no  período  de  01.01.2005  a  08.08.2005,  bem  como  do  Sr.  Gedeão  Timóteo Amorim,  Secretário  da  SEDUC  e  Sra.  Marly  Honda  de  Souza,  recolha  os  valores  das multas que lhe foram aplicados aos cofres públicos (art. 72,  III, 'c', da Lei nº 2423/96), ficando  a  DICREX  autorizada  a  dotar  as  medidas  previstas  nas  subseções  III  e  IV  da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento de multas é um procedimento padrão do TCE e, por si só, não indica um problema estrutural na gestão, o que justifica a escolha desta tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Dispõe sobre o prazo e os procedimentos para o recolhimento de multas aplicadas pelo TCE."
+            },
+            {
+              "norma": "Resolução nº 04/2002-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Autorização à DICREX para adotar medidas em caso de não recolhimento das multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "AUTORIZAR",
+      "descricao": "AUTORIZAR , em  caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73  da  Lei  nº  2.423/96,  art.  169,  II,  art.  173,  e  §  6º  do  art.  308,  todos  da  Resolução  nº 04/2002- TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR , em  caso de não recolhimentos dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73  da  Lei  nº  2.423/96,  art.  169,  II,  art.  173,  e  §  6º  do  art.  308,  todos  da  Resolução  nº 04/2002- TCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A autorização para inscrição em dívida ativa é um procedimento padrão do TCE em caso de não pagamento das multas, não indicando um problema estrutural na gestão, o que justifica a escolha desta tipologia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "73",
+              "descricao": "Dispõe sobre a inscrição do débito na Dívida Ativa e a possibilidade de ação executiva."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "169, II",
+              "descricao": "Regulamenta a inscrição do débito na Dívida Ativa."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "173",
+              "descricao": "Regulamenta a ação executiva para cobrança dos débitos."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "308, § 6º",
+              "descricao": "Regulamenta a inscrição do débito na Dívida Ativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAR",
+      "descricao": "RECOMENDAR à Origem que: a) Nos exercícios vindouros seja adotado um melhor planejamento de suas ações e metas a serem alcançados no ano letivo, para que fatos como estes não voltem a acontecer, evitando assim, dispensa de licitação, sob pena de não serem mais aceitas por este Tribunal, por tornarem-se hábito na Entidade Educacional, não se enquadrando mais no inciso IV, do art. 24, da Lei n° 8.666/93; b) Observe com maior rigor os ditames da Resolução n° 10/2012, referente a inserção de dados no Sistema ACP; c) Observe com maior rigor os dispositivos da Lei n° 4.320/64; d) Observe com maior rigor os ditames da Lei n° 8.666/93, principalmente no que diz respeito ao artigo 24 e seus incisos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Nos exercícios vindouros seja adotado um melhor planejamento de suas ações e metas a serem alcançados no ano letivo, para que fatos como estes não voltem a acontecer, evitando assim, dispensa de licitação, sob pena de não serem mais aceitas por este Tribunal, por tornarem-se hábito na Entidade Educacional, não se enquadrando mais no inciso IV, do art. 24, da Lei n° 8.666/93",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "O trecho recomenda um melhor planejamento para evitar a reincidência de dispensas de licitação, indicando uma deficiência na gestão que pode comprometer a economicidade e a legalidade das contratações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "24, inciso IV",
+              "descricao": "Estabelece os casos em que é permitida a dispensa de licitação."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe com maior rigor os ditames da Resolução n° 10/2012, referente a inserção de dados no Sistema ACP",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A recomendação para observar os ditames da Resolução n° 10/2012, referente à inserção de dados no Sistema ACP, está relacionada ao envio adequado de informações e documentos, o que se alinha com a tipologia selecionada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 10/2012",
+              "artigo": "N/A",
+              "descricao": "Referente à inserção de dados no Sistema ACP."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe com maior rigor os dispositivos da Lei n° 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "A recomendação para observar os dispositivos da Lei n° 4.320/64 está relacionada à execução financeira e orçamentária, o que se alinha com a tipologia selecionada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 4.320/64",
+              "artigo": "N/A",
+              "descricao": "Normas gerais de direito financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados e dos Municípios."
+            }
+          ]
+        },
+        {
+          "trecho": "Observe com maior rigor os ditames da Lei n° 8.666/93, principalmente no que diz respeito ao artigo 24 e seus incisos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A1B",
+          "tipologia_irregularidade": "Justificativa inadequada para expediente de Dispensa de Licitação Eletrônica em caráter emergencial",
+          "descricao": "Ausência ou Deficiência na caracterização da situação emergencial ou calamitosa que justifique a dispensa",
+          "justificativa_tipologia": "O trecho recomenda observar os ditames da Lei n° 8.666/93, principalmente no que diz respeito ao artigo 24 e seus incisos, está relacionada às licitações e contratos, o que se alinha com a tipologia selecionada.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "24",
+              "descricao": "Dispensa de licitação"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

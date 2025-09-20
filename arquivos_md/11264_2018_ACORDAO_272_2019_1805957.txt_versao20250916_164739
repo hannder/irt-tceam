@@ -1,0 +1,41 @@
+{
+  "acordao": "272/2019",
+  "processo": "11264/2018",
+  "data_sessao": "23 de Abril de 2019",
+  "orgao": "Câmara Municipal de Santo Antônio do Içá",
+  "municipio": "Santo Antônio do Içá",
+  "exercicio": "2017",
+  "responsavel": [
+    "Rodolfo Ferreira de Magalhães"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade",
+      "descricao": "Julgar regular a Prestação de Contas Anual do Sr. Rodolfo Ferreira de Magalhães,  Presidente da Câmara Municipal de Santo Antônio do Içá, exercício de 2017, dando-lhe a devida quitação, nos termos do art. 22, inciso I, c/c o art. 23, ambos da Lei nº 2423/96.",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual do Sr. Rodolfo Ferreira de Magalhães,  Presidente da Câmara Municipal de Santo Antônio do Içá, exercício de 2017, dando-lhe a devida quitação, nos termos do art. 22, inciso I, c/c o art. 23, ambos da Lei nº 2423/96.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "N/A",
+          "codigo_irregularidade": "N/A",
+          "tipologia_irregularidade": "N/A",
+          "descricao": "N/A",
+          "justificativa_tipologia": "A deliberação se refere ao julgamento das contas como regulares, sem apontar nenhuma irregularidade ou problema na gestão. Este tipo de deliberação é um julgamento formal e não indica falhas estruturais ou recorrentes.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "22, inciso I",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            },
+            {
+              "norma": "Lei nº 2423/96",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

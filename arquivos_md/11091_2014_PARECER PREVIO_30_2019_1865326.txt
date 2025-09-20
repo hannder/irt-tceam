@@ -1,0 +1,103 @@
+{
+  "acordao": "30/2019",
+  "processo": "11091/2014",
+  "data_sessao": "16 de Julho de 2019",
+  "orgao": "Prefeitura Municipal de Apuí",
+  "municipio": "Apuí",
+  "exercicio": "2013",
+  "responsavel": [
+    "Adimilson Nogueira"
+  ],
+  "itens": [
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 8.534,00 (Oito mil, quinhentos e trinta e quatro reais) que deverá ser recolhida no  prazo  de  30  dias  para  o  Cofre  Estadual através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas  pelo  TCE/AM  -  Fundo  de  Apoio  ao  Exercício  do  Controle Externo - FAECE, com fundamento no art. 308, I, 'b' da Resolução n. 04/2002 com redação dada pela Resolução n. 04/2018 pelo item 27 do Voto. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  ( autenticado  pelo Banco )  a  esta  Corte  de  Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 4.000,00 (Quatro mil reais) que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, com fundamento no art. 308, II da Resolução n. 04/2002 com redação dada pela  Resolução  n.  04/2018  pelo  item  10  do  Voto.  Dentro  do  prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\"  ,  da  Lei  Orgânica  do  TCE/AM), condição imprescindível  para  emissão  do  Termo  de  Quitação.  O  não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Multa",
+      "descricao": "Aplicar  Multa ao Sr.  Adimilson  Nogueira no  valor  de R$ 4.000,00 (Quatro mil reais) que deverá ser recolhida no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o  código  5508  -  Multas  aplicadas  pelo  TCE/AM  Fundo  de  Apoio  ao  Exercício  do  Controle  Externo  -  FAECE, com fundamento  no  art.  308,  VII  da  Resolução  n.  04/2002  com  redação dada pela Resolução n. 04/2018 pelos itens 7.1, 7.2, 7.3, 5, 20 e 30 do Voto. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento  do  comprovante  de  pagamento  (autenticado  pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\"  ,  da  Lei Orgânica  do  TCE/AM),  condição  imprescindível  para  emissão  do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Autorização",
+      "descricao": "Autorizar Inscrição na Dívida Ativa do Sr. Adimilson Nogueira em caso  de  recolhimento  das  multas  no  prazo  estabelecido  com  as devidas atualizações monetárias, ficando, desde já, autorizada a DERED  a  adoção  das  medidas  previstas  no  art.  175  da  Resolução TCE 04/02",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Mantenha durante todo o exercício em local de fácil acesso e, na Câmara Municipal, cópia da Prestação de Contas Anuais enviada a este Tribunal de Contas após o prazo de apresentação (31/03)",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Mantenha  atualizado  o  Portal  da  Transparência  do  Município, observando com o máximo zelo as disposições da Lei Complementar n. 131/2009 - Lei da Transparência",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Realize  inventário  anual  dos  bens  móveis  e  imóveis,  assim como  proceda  à  atualização  dos  respectivos  valores  contábeis  por ocasião  da  elaboração  de  Balanço  Patrimonial,  em  observância  aos princípios  contábeis  da  Continuidade,  Oportunidade,  Competência  e, principalmente do Registro pelo Valor Original",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Verifique  a  implantação  do  Manual  de  Contabilidade  Aplicado ao  Setor  Público  (MCASP)  no  que  tange  à  nomeação  formal  de responsável  pelo  controle  de  materiais  de  consumo  com  prazo  até  o fim deste exercício por ocasião da Auditoria a ser realizada em 2015",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Apresente nos prazos legais as devidas prestações de contas quadrimestrais e anual nos termos da legislação vigente sob pena de aplicação  da  sanção  prevista  na  alínea  'b'  do  inc.  IV  do  art.  308  da Resolução  TCE-AM nº  04/2002  e  alterações  posteriores  em  caso  de reincidência",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Mantenha  atualizadas  as  fichas  funcionais  dos  servidores públicos sob pena de aplicação da sanção prevista na alínea 'b' do inc. IV do  art. 308  da  Resolução  TCE-AM  nº  04/2002  e  alterações posteriores em caso de reincidência.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Regulamente  e  inclua  em  sua  legislação  a  inclusão  dos comprovantes de embarque nos processos de concessão de viagens a outras sedes municipais ou outras em que haja o pagamento de diárias para confirmação da efetivação da medida apresentada na defesa",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Mantenha um Controle Interno funcione de forma eficiente",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Observe com cautela a Lei complementar nº 101/2000",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Observe com o máximo zelo a Lei n. 4.320/64, principalmente quanto as fases da despesa pública",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Cumpra rigorosamente os prazos para publicação do Relatório de  Gestão  Fiscal  e  Relatório  Resumido  da  Execução  Orçamentária, conforme determinar a Lei de Responsabilidade Fiscal",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à Prefeitura Municipal de Apuí que: Instaure  a  tomada  de  contas  das  diárias  pagas  em  2013  ou comprove a adoção de medidas que comprovem a restituição do erário público ou a regular aplicação dos recursos",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência deste Acordão ao Sr. Adimilson Nogueira",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar os presentes autos e seus apensos nos termos regimentais após cumpridas as medidas acima",
+      "trechos_identificados": []
+    }
+  ]
+}

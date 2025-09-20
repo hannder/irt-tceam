@@ -1,0 +1,383 @@
+{
+  "acordao": "36/2018",
+  "processo": "2535/2010",
+  "data_sessao": "28 de Agosto de 2018",
+  "orgao": "Prefeitura Municipal de Canutama",
+  "municipio": "Canutama",
+  "exercicio": "2009",
+  "responsavel": [
+    "João Ocivaldo Batista de Amorim"
+  ],
+  "itens": [
+    {
+      "tipo": "irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas do Sr.João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, nos termos do inciso II do art . 1º e das alíneas 'b' e 'c' do inciso III do art. 22, todos da Lei estadual nº 2.423/96, em decorrência de dano ao erário e grave infração a norma legal;",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar irregular a Prestação de Contas do Sr.João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, nos termos do inciso II do art . 1º e das alíneas 'b' e 'c' do inciso III do art. 22, todos da Lei estadual nº 2.423/96, em decorrência de dano ao erário e grave infração a norma legal",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "O trecho descreve o julgamento irregular das contas devido a dano ao erário e infração de norma legal, o que justifica a classificação no tema de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei estadual nº 2.423/96",
+              "artigo": "1º, inciso II e art. 22, alíneas 'b' e 'c' do inciso III",
+              "descricao": "Base legal para o julgamento irregular das contas devido a dano ao erário e grave infração a norma legal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Considerar em Alcance o Sr. João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, no valor de R$180.507,21 (cento e oitenta mil, quinhentos e sete reais e vinte e um centavos), que devem ser recolhidos na esfera Municipal para a Prefeitura Municipal de Canutama, nos termos dos incisos I e III do art. 304 do RI-TCE/AM, em razão de gastos feitos com dinheiro de licitações relativos às Reformas de Escolas Municipais, na sede e na zona rural do município, que não foram objeto de Licitação, bem como ausência de comprovação efetiva das reformas realizadas:\na) No valor de R$74.590,61 (setenta e quatro mil, quinhentos e noventa e sessenta e um centavos), gastos na licitação com relação aos Serviços de Reforma de Escola Municipal localizada na Zona Rural do Município de Canutama;\nb) No valor de R$105.916,60 (cento e cinco mil, novecentos e dezesseis reais e sessenta centavos), gastos na licitação acerca dos Serviços de Reforma nas Escolas Municipais, localizadas na Sede e Zona Rural do Município de Canutama e a não comprovação efetiva da reforma.",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar em Alcance o Sr. João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, no valor de R$180.507,21 (cento e oitenta mil, quinhentos e sete reais e vinte e um centavos), que devem ser recolhidos na esfera Municipal para a Prefeitura Municipal de Canutama, nos termos dos incisos I e III do art. 304 do RI-TCE/AM, em razão de gastos feitos com dinheiro de licitações relativos às Reformas de Escolas Municipais, na sede e na zona rural do município, que não foram objeto de Licitação, bem como ausência de comprovação efetiva das reformas realizadas:",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A2A",
+          "tipologia_irregularidade": "Contratação irregular por dispensa ou inexigibilidade",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques).",
+          "justificativa_tipologia": "O trecho descreve alcance devido a gastos com licitações irregulares e ausência de comprovação das reformas, o que se enquadra na tipologia de contratação irregular.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304, incisos I e III",
+              "descricao": "Base legal para a determinação de alcance devido a irregularidades encontradas."
+            }
+          ]
+        },
+        {
+          "trecho": "No valor de R$74.590,61 (setenta e quatro mil, quinhentos e noventa e sessenta e um centavos), gastos na licitação com relação aos Serviços de Reforma de Escola Municipal localizada na Zona Rural do Município de Canutama",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A2A",
+          "tipologia_irregularidade": "Contratação irregular por dispensa ou inexigibilidade",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques).",
+          "justificativa_tipologia": "O trecho descreve o valor gasto irregularmente em licitação para reforma de escola municipal, o que se enquadra na tipologia de contratação irregular.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "No valor de R$105.916,60 (cento e cinco mil, novecentos e dezesseis reais e sessenta centavos), gastos na licitação acerca dos Serviços de Reforma nas Escolas Municipais, localizadas na Sede e Zona Rural do Município de Canutama e a não comprovação efetiva da reforma.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A2A",
+          "tipologia_irregularidade": "Contratação irregular por dispensa ou inexigibilidade",
+          "descricao": "Divergência Contábil entre Balanço Patrimonial e o Saldo do Inventário (bens de consumo, estoques).",
+          "justificativa_tipologia": "O trecho descreve o valor gasto irregularmente em licitação para reforma de escolas municipais e a ausência de comprovação da efetiva reforma, o que se enquadra na tipologia de contratação irregular.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa ao Sr. João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, no valor de R$32.267,08 (trinta e dois mil, duzentos e sessenta e sete reais e oito centavos), nos termos do inciso VI do art. 308 da Resolução n° 04/2002 (RITCE/AM), em decorrência de atos praticados com grave infração às normas legais conforme as restrições apontadas no Relatório Conclusivo de Vistoria 'In Loco' II, da DICOP (fls. 836-895), 5.1.4, 5.2.4, 5.3.4, 5.4.4, 5.5.4, 5.6.4, 5.7.4, 5.8.4 e 5.9.4 e pelas impropriedades apontadas na Informação nº 44/2013 (fls. 897-901) abaixo relacionadas:\na) Atraso no encaminhamento da Prestação de Contas em forma de Balanço Geral.\nb) Ausência de encaminhamento dos Relatórios de Gestão Fiscal e Execução Orçamentária referentes ao 1° e 2° semestre, assim como dos Relatórios Resumidos da Execução Orçamentária referentes ao 1°, 2°, 3°, 4°, 5° e 6° bimestre.\nc) Ausência de Controle do Patrimônio por via de Livro de Tombo, além de não possuir plaquetas de identificação e controle desses materiais (art. 94 da Lei federal n° 4.320/1964).\nd) Contratação de servidores temporários sem observância ao Princípio do Concurso Público.\ne) Ausência de informações quanto aos recursos disponíveis.\nf) Ausência de informações específicas sobre o processamento da despesa e a gestão atuarial e previdenciária do Fundo Previdenciário Municipal.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, no valor de R$32.267,08 (trinta e dois mil, duzentos e sessenta e sete reais e oito centavos), nos termos do inciso VI do art. 308 da Resolução n° 04/2002 (RITCE/AM), em decorrência de atos praticados com grave infração às normas legais conforme as restrições apontadas no Relatório Conclusivo de Vistoria 'In Loco' II, da DICOP (fls. 836-895), 5.1.4, 5.2.4, 5.3.4, 5.4.4, 5.5.4, 5.6.4, 5.7.4, 5.8.4 e 5.9.4 e pelas impropriedades apontadas na Informação nº 44/2013 (fls. 897-901) abaixo relacionadas:",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa devido a grave infração às normas legais, o que justifica a classificação no tema de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002 (RITCE/AM)",
+              "artigo": "308, inciso VI",
+              "descricao": "Base legal para a aplicação de multa devido a infração às normas legais."
+            }
+          ]
+        },
+        {
+          "trecho": "Atraso no encaminhamento da Prestação de Contas em forma de Balanço Geral.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho menciona o atraso no encaminhamento da prestação de contas, o que se enquadra no tema de documentos e envio de informações.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de encaminhamento dos Relatórios de Gestão Fiscal e Execução Orçamentária referentes ao 1° e 2° semestre, assim como dos Relatórios Resumidos da Execução Orçamentária referentes ao 1°, 2°, 3°, 4°, 5° e 6° bimestre.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O trecho menciona a ausência de encaminhamento de relatórios de gestão fiscal e execução orçamentária, o que se enquadra no tema de gestão fiscal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de Controle do Patrimônio por via de Livro de Tombo, além de não possuir plaquetas de identificação e controle desses materiais (art. 94 da Lei federal n° 4.320/1964).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A4B",
+          "tipologia_irregularidade": "Inventário do estoque de materiais sem indicação do valor total dos materiais",
+          "descricao": "Inventário do estoque de materiais sem indicação do valor total dos materiais.",
+          "justificativa_tipologia": "O trecho descreve a ausência de controle do patrimônio por meio de livro de tombo e identificação dos materiais, o que se enquadra no tema de patrimônio.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei federal n° 4.320/1964",
+              "artigo": "94",
+              "descricao": "Base legal para o controle do patrimônio por meio de livro de tombo e identificação dos materiais."
+            }
+          ]
+        },
+        {
+          "trecho": "Contratação de servidores temporários sem observância ao Princípio do Concurso Público.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A3A",
+          "tipologia_irregularidade": "Ausência de Concurso público",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais.",
+          "justificativa_tipologia": "O trecho descreve a contratação de servidores temporários sem concurso público, o que se enquadra no tema de pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de informações quanto aos recursos disponíveis.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho descreve a ausência de informações sobre os recursos disponíveis, o que se enquadra no tema de contabilidade.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de informações específicas sobre o processamento da despesa e a gestão atuarial e previdenciária do Fundo Previdenciário Municipal.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PREVIDÊNCIA",
+          "codigo_irregularidade": "T13A67B",
+          "tipologia_irregularidade": "Ausência do Inventário de Bens Patrimoniais",
+          "descricao": "Foi identificado ausência de justificativa ao não envio do Inventário dos Bens Patrimoniais.",
+          "justificativa_tipologia": "O trecho descreve a ausência de informações sobre o processamento da despesa e a gestão previdenciária, o que se enquadra no tema de previdência.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Aplicar Multa ao Sr. João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, no valor de R$3.226,70 (três mil, duzentos e vinte e seis reais e setenta centavos), nos termos do inciso II do art. 308 da Resolução nº 4/2002 (RITCE/AM), em decorrência das infrações constatadas com relação às seguintes restrições da Informação nº 44/2013 (fls. 897-901):\na) Ausência de encaminhamento da movimentação contábil referente ao período de janeiro a dezembro de 2009, via ACP.\nb) Ausência de registro, por meio magnético no ACP, dos atos de pessoal referentes ao exercício de 2009.\nc) Ausência de registro por meio magnético no ACP, das Licitações, Contratos e Convênios realizados pelo município.\nd) Ausência de registro no ACP, das informações constantes no Balanço Geral, com relação aos gastos relativos ao FUNDEB",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. João Ocivaldo Batista de Amorim , Prefeito Municipal de Canutama e Ordenador de Despesas, referente ao exercício 2009, no valor de R$3.226,70 (três mil, duzentos e vinte e seis reais e setenta centavos), nos termos do inciso II do art. 308 da Resolução nº 4/2002 (RITCE/AM), em decorrência das infrações constatadas com relação às seguintes restrições da Informação nº 44/2013 (fls. 897-901)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa devido a infrações, o que se enquadra no tema de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 4/2002 (RITCE/AM)",
+              "artigo": "308, inciso II",
+              "descricao": "Base legal para a aplicação de multa devido a infrações constatadas."
+            }
+          ]
+        },
+        {
+          "trecho": "Ausência de encaminhamento da movimentação contábil referente ao período de janeiro a dezembro de 2009, via ACP.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho descreve a ausência de encaminhamento da movimentação contábil, o que se enquadra no tema de contabilidade.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de registro, por meio magnético no ACP, dos atos de pessoal referentes ao exercício de 2009.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A46A",
+          "tipologia_irregularidade": "Ausência de publicação do ato de autorização do certame",
+          "descricao": "Ausência de publicação do ato de autorização do certame.",
+          "justificativa_tipologia": "O trecho descreve a ausência de registro dos atos de pessoal, o que se enquadra no tema de pessoal.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de registro por meio magnético no ACP, das Licitações, Contratos e Convênios realizados pelo município.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A40B",
+          "tipologia_irregularidade": "Ausência de divulgação de informações de interesse coletivo ou geral, relativo a procedimentos licitatórios",
+          "descricao": "Ausência de informações sobre composição do Quadro de Pessoal",
+          "justificativa_tipologia": "O trecho descreve a ausência de registro das licitações, contratos e convênios, o que se enquadra no tema de licitações e contratos.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Ausência de registro no ACP, das informações constantes no Balanço Geral, com relação aos gastos relativos ao FUNDEB",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A6B",
+          "tipologia_irregularidade": "Despesas com recursos do FUNDEB estranhas à Manutenção e Desenvolvimento do Ensino - MDE (não de folha)",
+          "descricao": "Inventário do estoque de materiais sem indicação do valor total dos materiais",
+          "justificativa_tipologia": "O trecho descreve a ausência de registro das informações do balanço geral relacionadas aos gastos com o FUNDEB, o que se enquadra no tema de educação.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "sanção",
+      "descricao": "Inabilitar o Sr. João Ocivaldo Batista de Amorim por 05 (cinco) anos para o exercício de cargo em comissão ou função de confiança dos órgãos da administração estadual, em virtude da existência de graves infrações por ele praticadas, nos termos do art. 56 da Lei OrgânicaTCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Inabilitar o Sr. João Ocivaldo Batista de Amorim por 05 (cinco) anos para o exercício de cargo em comissão ou função de confiança dos órgãos da administração estadual, em virtude da existência de graves infrações por ele praticadas, nos termos do art. 56 da Lei OrgânicaTCE/AM",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A16A",
+          "tipologia_irregularidade": "Aplicação de 20% de recursos para a constituição do FUNDEB",
+          "descricao": "Realização de despesa sem prévio empenho.",
+          "justificativa_tipologia": "O trecho descreve a inabilitação para o exercício de cargo em comissão ou função de confiança, o que justifica a classificação no tema de gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei OrgânicaTCE/AM",
+              "artigo": "56",
+              "descricao": "Base legal para a inabilitação devido à existência de graves infrações praticadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Conceder Prazo ao Sr.João Ocivaldo Batista de Amorim de 30 (trinta) dias , a contar do Ofício de comunicação da Decisão, para que comprove, perante este Tribunal, o recolhimento aos cofres do Tesouro do Município de Canutama do montante declarado em alcance, em conformidade com a alínea 'a' do inciso III do art. 72 da Lei n. 2.423/96, corrigidos monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n. 2.423/96);",
+      "trechos_identificados": [
+        {
+          "trecho": "Conceder Prazo ao Sr.João Ocivaldo Batista de Amorim de 30 (trinta) dias , a contar do Ofício de comunicação da Decisão, para que comprove, perante este Tribunal, o recolhimento aos cofres do Tesouro do Município de Canutama do montante declarado em alcance, em conformidade com a alínea 'a' do inciso III do art. 72 da Lei n. 2.423/96, corrigidos monetariamente, caso o recolhimento ocorra fora do prazo determinado (art. 55 da Lei n. 2.423/96)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A23A",
+          "tipologia_irregularidade": "Pagamento de precatórios fora da ordem dos respetivos créditos.",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "A determinação de prazo para recolhimento de valores em alcance está diretamente relacionada à execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "72, alínea 'a' do inciso III",
+              "descricao": "Base legal para o recolhimento de valores em alcance aos cofres públicos."
+            },
+            {
+              "norma": "Lei n. 2.423/96",
+              "artigo": "55",
+              "descricao": "Base legal para a correção monetária caso o recolhimento ocorra fora do prazo determinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar o envio dos autos à DICREX para que efetue os procedimentos previstos no art. 3º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar o envio dos autos à DICREX para que efetue os procedimentos previstos no art. 3º da Resolução 3/2011-TCE, observado o disposto no art. 5º da mesma Resolução",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de envio dos autos à DICREX para procedimentos específicos está relacionada à atuação do controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 3/2011-TCE",
+              "artigo": "3º e 5º",
+              "descricao": "Base legal para os procedimentos a serem efetuados pela DICREX."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "determinação",
+      "descricao": "Determinar à Origem, nos termos do art. 188, §2º do Regimento Interno/TCE-AM, que:\na) Que estruture um Sistema de Controle Interno Municipal observando as diretrizes da Resolução n° 09/2016-TCE/AM;\nb) Encaminhem no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88;\nc) Envie via Sistema ACP às informações pertinentes relatadas na Resolução n° 07/2002;\nd) Adote as medidas necessárias para a realização de concurso público, nos termos do inciso II do art. 37 da CF/88;\ne) Mantenha registro próprio da disponibilidade de caixa, de modo que os recursos vinculados a órgão, fundo ou despesa obrigatória fiquem identificados e escriturados de forma individualizada, nos termos do art. 50 da LRF; e\nf) Observe, por último, que a reincidência do agente responsável no cumprimento destas determinações acarretará o julgamento das suas respectivas Contas irregulares, conforme prevê a alínea 'e' do inciso III do parágrafo 1º do art. 188 do Regimento Interno/TCE-AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Que estruture um Sistema de Controle Interno Municipal observando as diretrizes da Resolução n° 09/2016-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação de estruturar o Sistema de Controle Interno está diretamente relacionada ao controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 09/2016-TCE/AM",
+              "artigo": "Não consta",
+              "descricao": "Diretrizes para a estruturação do Sistema de Controle Interno Municipal."
+            }
+          ]
+        },
+        {
+          "trecho": "Encaminhem no prazo estipulado os Relatórios de Gestão Fiscal e os Relatórios Resumidos da Execução Orçamentária, nos termos da alínea 'h' do inciso II do art. 32 da Lei 2423/96 e do §1º da Resolução 11/2009 c/c §3º do art. 165 da CF/88",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A determinação de encaminhar os relatórios de gestão fiscal e execução orçamentária está relacionada à gestão fiscal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 2423/96",
+              "artigo": "32, alínea 'h' do inciso II",
+              "descricao": "Base legal para o encaminhamento dos Relatórios de Gestão Fiscal e Execução Orçamentária."
+            },
+            {
+              "norma": "Resolução 11/2009",
+              "artigo": "§1º",
+              "descricao": "Base legal para o encaminhamento dos Relatórios de Gestão Fiscal e Execução Orçamentária."
+            },
+            {
+              "norma": "CF/88",
+              "artigo": "165, §3º",
+              "descricao": "Base legal para o encaminhamento dos Relatórios de Gestão Fiscal e Execução Orçamentária."
+            }
+          ]
+        },
+        {
+          "trecho": "Envie via Sistema ACP às informações pertinentes relatadas na Resolução n° 07/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A2B",
+          "tipologia_irregularidade": "Não envio de dados periódicos ao e-Contas",
+          "descricao": "Não envio de dados periódicos ao e-Contas",
+          "justificativa_tipologia": "A determinação de enviar informações via Sistema ACP está relacionada a documentos e envio de informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 07/2002",
+              "artigo": "Não consta",
+              "descricao": "Base legal para o envio de informações via Sistema ACP."
+            }
+          ]
+        },
+        {
+          "trecho": "Adote as medidas necessárias para a realização de concurso público, nos termos do inciso II do art. 37 da CF/88",
+          "irregularidade":

@@ -1,0 +1,51 @@
+{
+  "acordao": "364/2022",
+  "processo": "11288/2017",
+  "data_sessao": "22 de março de 2022",
+  "orgao": "Corpo de Bombeiros Militar do Estado do Amazonas - CBMAM",
+  "municipio": "Manaus",
+  "exercicio": "2016",
+  "responsavel": [
+    "Fernando Sérgio Austregésilo Luz"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar regular com ressalvas",
+      "descricao": "Julgar regular com ressalvas a Prestação de Contas de Contas Anual do  Corpo  de  Bombeiros  Militar  do  Estado  do  Amazonas  -  CBMAM, exercício de 2016, de responsabilidade do Sr. Fernando  Sérgio Austregésilo  Luz , Comandante-Geral  do  CBMAM  e  Ordenador  de Despesas à época dos fatos, nos termos do art. 22, inciso II, da Lei n.º 2.423/96-LOTCE/AM  c/c  art.  188,  §1º,  inciso  II,  da  Resolução  n.º 04/2002- RITCE/AM.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à Origem, nos termos do art. 188, §1º, inciso III, alínea 'e', da Resolução n.º 04/2002-RITCE/AM, que encaminhe  à  Assessoria  Jurídica,  ou  na  ausência  dela,  à Procuradoria Geral do Estado-PGE, todos os processos de contratação direta,  por  dispensa  ou  inexigibilidade  de  licitação,  em  atendimento  ao art. 38, VI, da Lei Federal nº 8.666/93.",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar à Origem, nos termos do art. 188, §1º, inciso III, alínea 'e', da Resolução n.º 04/2002-RITCE/AM, que encaminhe  à  Assessoria  Jurídica,  ou  na  ausência  dela,  à Procuradoria Geral do Estado-PGE, todos os processos de contratação direta,  por  dispensa  ou  inexigibilidade  de  licitação,  em  atendimento  ao art. 38, VI, da Lei Federal nº 8.666/93.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A8B",
+          "tipologia_irregularidade": "Incompatibilidade entre o certificado de registros cadastrais e a documentação exigida",
+          "descricao": "Ausência de Estudo Técnico Preliminar, Parecer jurídico e Pesquisa de preços de mercado.",
+          "justificativa_tipologia": "A determinação para encaminhar os processos de contratação direta à assessoria jurídica ou PGE indica uma preocupação com a legalidade e conformidade desses processos, sugerindo uma possível deficiência na análise e documentação prévia. A falta de um parecer jurídico prévio pode resultar em falhas nos procedimentos de contratação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Federal nº 8.666/93",
+              "artigo": "38, VI",
+              "descricao": "Exigência de parecer jurídico em processos de dispensa ou inexigibilidade de licitação."
+            },
+             {
+              "norma": "Resolução n.º 04/2002-RITCE/AM",
+              "artigo": "188, §1º, inciso III, alínea 'e'",
+              "descricao": "Norma interna do TCE/AM que permite determinar o encaminhamento de processos à assessoria jurídica."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Fernando Sérgio Austregésilo Luz , com cópia do Relatório/Voto e do Acórdão adotado pelo colegiado.",
+      "trechos_identificados": []
+    }
+  ]
+}

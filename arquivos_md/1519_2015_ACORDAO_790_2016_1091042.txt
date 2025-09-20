@@ -1,0 +1,74 @@
+{
+  "acordao": "790/2016",
+  "processo": "1519/2015",
+  "data_sessao": "20 de Setembro de 2016",
+  "orgao": "Agência Amazonense de Desenvolvimento Econômico Social - AADES",
+  "municipio": "Manaus",
+  "exercicio": "2014",
+  "responsavel": [
+    "Ana Paula Machado Andrade Aguiar"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Agência de Desenvolvimento  Econômico  e  Social  -  AADES,  exercício  de  2014,  que  tem  como responsável  a  Sra.  Ana  Paula  Machado  Andrade  Aguiar,  presidente  da  entidade  e ordenadora de despesas, à época, nos termos dos arts. 22, I e 23, da Lei n.º 2.423/1996, c/c o art. 188, II, § 1º, I, da Resolução n.º 4/2002 - TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual da Agência de Desenvolvimento  Econômico  e  Social  -  AADES,  exercício  de  2014,  que  tem  como responsável  a  Sra.  Ana  Paula  Machado  Andrade  Aguiar,  presidente  da  entidade  e ordenadora de despesas, à época, nos termos dos arts. 22, I e 23, da Lei n.º 2.423/1996, c/c o art. 188, II, § 1º, I, da Resolução n.º 4/2002 - TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A regularidade das contas, por si só, não indica um problema estrutural na gestão, mas sim a aprovação formal das contas após análise.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "22, I",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução n.º 4/2002 - TCE/AM",
+              "artigo": "188, II, § 1º, I",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar quitação à responsável, Sra. Ana Paula Machado Andrade Aguiar , presidente da entidade e ordenadora de despesas, à época, durante o exercício de 2014, conforme determinação do art. 23 da Lei n.º 2.423/1996 c/c art. 189, inciso I da Resolução n.º 4/2002 - TCE/AM.",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar quitação à responsável, Sra. Ana Paula Machado Andrade Aguiar , presidente da entidade e ordenadora de despesas, à época, durante o exercício de 2014, conforme determinação do art. 23 da Lei n.º 2.423/1996 c/c art. 189, inciso I da Resolução n.º 4/2002 - TCE/AM.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A quitação, por si só, não indica um problema estrutural na gestão, mas sim a aprovação formal das contas após análise.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/1996",
+              "artigo": "23",
+              "descricao": "Dispõe sobre a organização do Tribunal de Contas do Estado do Amazonas, e dá outras providências"
+            },
+            {
+              "norma": "Resolução n.º 4/2002 - TCE/AM",
+              "artigo": "189, inciso I",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "acordao": "506/2015",
+  "processo": "1630/2014",
+  "data_sessao": "22 de junho de 2015",
+  "orgao": "Secretaria Estadual de Ciência, Tecnologia e Inovação - SECTI",
+  "municipio": "Manaus",
+  "exercicio": "2013",
+  "responsavel": [
+    "Odenildo Teixeira Sena"
+  ],
+  "itens": [
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "fazer-se RECOMENDAÇÃO à origem quanto:a ) à criação, no âmbito da SECTI, do setor de controle interno, em atendimento ao comando constitucional;b) à observância de critérios objetivos e impessoais para a contratação dos serviços de hospedagem aos colabores convidados pela SECTI;c) à observância da Lei nº 8.666/93, em especial quando da contratação de serviços de fornecimento de passagens aéreas, que devem ser precedidos de estudos para estimar a quantidade de bilhetes de viagens;d) a não utilização de recursos públicos para pagamento de despesas com anuidade em favor de Conselhos ou entidades de classe, com cunho meramente corporativo.",
+      "trechos_identificados": [
+        {
+          "trecho": "à criação, no âmbito da SECTI, do setor de controle interno, em atendimento ao comando constitucional;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "O trecho aponta para a ausência de um setor de controle interno na SECTI, o que indica uma deficiência na estrutura de controle da organização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Estadual",
+              "artigo": "Art. 39",
+              "descricao": "Determina a organização da administração pública, incluindo controles internos."
+            }
+          ]
+        },
+        {
+          "trecho": "à observância de critérios objetivos e impessoais para a contratação dos serviços de hospedagem aos colabores convidados pela SECTI;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A6A",
+          "tipologia_irregularidade": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "descricao": "Aquisição de bens e/ou contratações de serviços com sobrepreço",
+          "justificativa_tipologia": "A falta de critérios objetivos e impessoais na contratação de serviços de hospedagem pode levar a sobrepreço.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "Art. 37",
+              "descricao": "Princípios da administração pública, incluindo legalidade, impessoalidade, moralidade, publicidade e eficiência."
+            }
+          ]
+        },
+        {
+          "trecho": "à observância da Lei nº 8.666/93, em especial quando da contratação de serviços de fornecimento de passagens aéreas, que devem ser precedidos de estudos para estimar a quantidade de bilhetes de viagens;",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho descreve a necessidade de realizar estudos prévios para estimar a quantidade de bilhetes de viagem, o que está relacionado ao planejamento e à pesquisa de preços para contratações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 8.666/93",
+              "artigo": "caput",
+              "descricao": "Normas gerais sobre licitações e contratos administrativos."
+            }
+          ]
+        },
+        {
+          "trecho": "a não utilização de recursos públicos para pagamento de despesas com anuidade em favor de Conselhos ou entidades de classe, com cunho meramente corporativo.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O pagamento de despesas com anuidade em favor de conselhos ou entidades de classe, com cunho meramente corporativo, pode não atender ao interesse público, caracterizando um desvio de finalidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "Art. 37",
+              "descricao": "Princípios da administração pública, incluindo legalidade, impessoalidade, moralidade, publicidade e eficiência."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "DETERMINAR à SEPLENO que após a ocorrência da coisa julgada administrativa, nos termos dos arts. 159 e 160 da Res. 04/2002 (RITCE), adote as providências previstas no art. 161 do Regimento Interno.",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR à SEPLENO que após a ocorrência da coisa julgada administrativa, nos termos dos arts. 159 e 160 da Res. 04/2002 (RITCE), adote as providências previstas no art. 161 do Regimento Interno.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A determinação à SEPLENO para adotar providências após a ocorrência da coisa julgada administrativa se relaciona com a implementação e o cumprimento dos procedimentos de controle interno.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº 04/2002 (RITCE)",
+              "artigo": "Arts. 159 e 160",
+              "descricao": "Referem-se à coisa julgada administrativa."
+            },
+            {
+              "norma": "Regimento Interno do TCE",
+              "artigo": "Art. 161",
+              "descricao": "Provimentos a serem tomados após a coisa julgada administrativa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "SANÇÃO",
+      "descricao": "APLICAR MULTA ao Sr. ODENILDO TEIXEIRA SENA, ordenador de despesas, no valor de R$ 3.000,00 (três mil reais) , com base no artigo 53, § único, da Lei Estadual nº 2423/96, pela impropriedade descrita no item 12.7 do Voto;",
+      "trechos_identificados": [
+        {
+          "trecho": "APLICAR MULTA ao Sr. ODENILDO TEIXEIRA SENA, ordenador de despesas, no valor de R$ 3.000,00 (três mil reais) , com base no artigo 53, § único, da Lei Estadual nº 2423/96, pela impropriedade descrita no item 12.7 do Voto",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OUTROS",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Aplicação de multa ao responsável",
+          "justificativa_tipologia": "O trecho descreve a aplicação de multa ao responsável, indicando uma sanção por alguma irregularidade.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual nº 2423/96",
+              "artigo": "Artigo 53, § único",
+              "descricao": "Base legal para aplicação da multa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "PRAZO",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias para o recolhimento aos cofres públicos dos valores imputados como multa, respectivamente, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art.73 da Lei Estadual n.2423/96 e art. 169, I, da Resolução n. 04/02-TCE.",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias para o recolhimento aos cofres públicos dos valores imputados como multa, respectivamente, com comprovação perante este Tribunal, acrescidos da atualização monetária e dos juros de mora devidos, nos termos do art.73 da Lei Estadual n.2423/96 e art. 169, I, da Resolução n. 04/02-TCE.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OUTROS",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Fixação de prazo para recolhimento de multa",
+          "justificativa_tipologia": "O trecho fixa um prazo para o recolhimento de valores, o que não se enquadra nas tipologias predefinidas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n.2423/96",
+              "artigo": "Art. 73",
+              "descricao": "Termos para recolhimento aos cofres públicos dos valores imputados como multa"
+            },
+            {
+              "norma": "Resolução n. 04/02-TCE",
+              "artigo": "Art. 169, I",
+              "descricao": "Termos para recolhimento aos cofres públicos dos valores imputados como multa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "AUTORIZAÇÃO",
+      "descricao": "AUTORIZAR desde já a inscrição do débito da Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento do valor da condenação, ex vi o art. 173 do Regimento Interno deste Tribunal de Contas.",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR desde já a inscrição do débito da Dívida Ativa e instauração da cobrança executiva, no caso de não recolhimento do valor da condenação, ex vi o art. 173 do Regimento Interno deste Tribunal de Contas.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "OUTROS",
+          "codigo_irregularidade": "NA",
+          "tipologia_irregularidade": "NA",
+          "descricao": "Autorização para inscrição em dívida ativa e cobrança executiva",
+          "justificativa_tipologia": "O trecho autoriza a inscrição do débito na dívida ativa e instauração da cobrança executiva, que não se enquadra nas tipologias predefinidas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno deste Tribunal de Contas",
+              "artigo": "Art. 173",
+              "descricao": "Refere-se à inscrição do débito na Dívida Ativa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

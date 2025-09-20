@@ -1,0 +1,274 @@
+{
+  "acordao": "1559/2024",
+  "processo": "11875/2023",
+  "data_sessao": "10 de Setembro de 2024",
+  "orgao": "Central de Medicamentos da Secretaria de Estado da Saúde do Amazonas CEMA",
+  "municipio": "Manaus",
+  "exercicio": "2022",
+  "responsavel": [
+    "Francisco Daniel de Oliveira Sena",
+    "Erike Barbosa de Carvalho Araújo",
+    "Herbenya Silva Peixoto"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar irregular a Prestação de Contas Anual da Central de Medicamentos da Secretaria de Estado de Saúde do Amazonas (CEMA), exercício 2022, sob responsabilidade da Sra. Herbenya Silva Peixoto , de 25/01/2022 a 16/05/2022 e do Sr. Francisco Daniel de Oliveira Sena , de 17/05/2022 a 31/12/2022, na forma do art. 22, III, b), da Lei nº 2423/1996 c/c art. 188, III, b), da Resolução nº 04/2002, haja vista as seguistes irregularidades:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ACHADO  DE  AUDITORIA  1 (NT  276/2022  e  NT  277/2022)  -  Não reconhecimento de depreciação dos bens imobilizados. Situação  Encontrada:  Não  foi  contabilizada,  no  Balanço  Patrimonial (BP), a depreciação  acumulada  referente  a  bens  móveis  (conta 1231000000000),  nem  a  respectiva  Variação  Patrimonial  Diminutiva referente  à  depreciação  de  bens  móveis  (conta  3331101000000),  na Demonstração das Variações Patrimoniais (DVP).",
+      "trechos_identificados": [
+        {
+          "trecho": "Não reconhecimento de depreciação dos bens imobilizados.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "O trecho descreve a não contabilização da depreciação acumulada referente a bens móveis no Balanço Patrimonial (BP) e a respectiva Variação Patrimonial Diminutiva na Demonstração das Variações Patrimoniais (DVP).",
+          "fundamentacao_legal": [
+            {
+              "norma": "NBC TSP 07",
+              "artigo": "71",
+              "descricao": "Ativo Imobilizado"
+            },
+            {
+              "norma": "Manual de Contabilidade Aplicada ao Setor Público (MCASP)",
+              "artigo": "Não aplicável",
+              "descricao": "Item do Manual de Contabilidade Aplicada ao Setor Público"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ACHADO DE AUDITORIA 2 (NT 276/2022 e NT 277/2022) - Ausência de registro, em notas explicativas, das políticas contábeis referentes à depreciação do imobilizado. Situação Encontrada: Não foram evidenciadas, em Notas Explicativas, as políticas contábeis acerca da depreciação do subgrupo imobilizado, registrado no ativo não circulante da CEMA.",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de registro, em notas explicativas, das políticas contábeis referentes à depreciação do imobilizado.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O trecho descreve a ausência de registro, em notas explicativas, das políticas contábeis referentes à depreciação do imobilizado, registrado no ativo não circulante da CEMA.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Itens 2.3, 3.3, 4.3, 5.3 e 8 do MCASP – 9ª edição",
+              "artigo": "Não aplicável",
+              "descricao": "Itens do Manual de Contabilidade Aplicada ao Setor Público – 9ª edição."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ACHADO  DE  AUDITORIA  3 -  Eventuais  erros  de  lançamento  em contas de VPD. Situação Encontrada: Foi identificado um aumento de mais de 8.000% na  conta Outras  Variações  Patrimoniais Diminutivas, quando  em comparação  ao  exercício  de  2021.  Nota-se  ainda  que  tais  variações também não são espelhadas no Balanço Analítico do órgão. Evidência: Demonstração das variações Patrimoniais e Balanço Analítico da CEMA, 2022.",
+      "trechos_identificados": [
+        {
+          "trecho": "Foi identificado um aumento de mais de 8.000% na conta Outras Variações Patrimoniais Diminutivas, quando em comparação ao exercício de 2021.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Variação relevante na conta Outras Variações Patrimoniais Diminutivas da DVP",
+          "descricao": "Variação relevante na conta Outras Variações Patrimoniais Diminutivas da DVP",
+          "justificativa_tipologia": "O trecho descreve um aumento significativo na conta Outras Variações Patrimoniais Diminutivas, com um aumento de mais de 8.000% em comparação com o exercício de 2021.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ACHADO DE AUDITORIA 4 - Contabilização do inventário no balanço patrimonial. Situação  Encontrada:  Ausência  de  contabilização  do  inventário  no Balanço Patrimonial, cujo valor é na ordem  de R$  462.614,61 (quatrocentos  e  sessenta  e  dois  mil,  seiscentos  e  catorze  reais  e sessenta e um centavos);",
+      "trechos_identificados": [
+        {
+          "trecho": "Ausência de contabilização do inventário no Balanço Patrimonial, cujo valor é na ordem de R$ 462.614,61",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “Estoques” do Balanço Patrimonial",
+          "justificativa_tipologia": "O trecho descreve a ausência de contabilização do inventário no Balanço Patrimonial, com um valor de R$ 462.614,61.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Artigo 94, da Lei nº 4.320/64",
+              "artigo": "94",
+              "descricao": "Artigo da Lei nº 4.320/64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ACHADO DE AUDITORIA 02 Situação  encontrada:  Execução  do  4º  Termo  Aditivo  ao  Contrato n°01/2018, firmado entre a CEMA e a empresa OM BOAT LOGÍSTICA LTDA; Evidência:  Itens  de  atesto,  Notas  Fiscais  incapazes  de  descrever  de forma clara o serviço executado;",
+      "trechos_identificados": [
+        {
+          "trecho": "Execução do 4º Termo Aditivo ao Contrato n°01/2018, firmado entre a CEMA e a empresa OM BOAT LOGÍSTICA LTDA; Itens de atesto, Notas Fiscais incapazes de descrever de forma clara o serviço executado",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A16A",
+          "tipologia_irregularidade": "Falta de licitação em casos obrigatórios",
+          "descricao": "Falta de licitação em casos obrigatórios",
+          "justificativa_tipologia": "O trecho descreve a execução do 4º Termo Aditivo ao Contrato n°01/2018, firmado entre a CEMA e a empresa OM BOAT LOGÍSTICA LTDA, com itens de atesto e Notas Fiscais incapazes de descrever de forma clara o serviço executado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "art. 63",
+              "artigo": "§1 e §2º",
+              "descricao": "da Lei 4.320/64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "ACHADO  DE  AUDITORIA  06 Pagamentos sem cobertura contratual. Situação  Encontrada:  Foram  identificadas  despesas  na  ordem  de  R$ 20.777.812,90 (vinte milhões, setecentos e setenta e sete mil, oitocentos e doze reais e noventa centavos) classificadas na natureza 33909301 (indenizações).",
+      "trechos_identificados": [
+        {
+          "trecho": "Foram identificadas despesas na ordem de R$ 20.777.812,90 classificadas na natureza 33909301 (indenizações)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho descreve a identificação de despesas classificadas como indenizações, possivelmente burlando o processo legal de pagamento.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Francisco Daniel de Oliveira Sena no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Sandreia Lima Martel no valor de R$ 15.654,39 (quinze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo -FAECE'.  Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa à Sra. Herbenya Silva Peixoto no valor de R$ 13.654,39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 Multas aplicadas pelo TCE/AM - Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil - Seção Amazonas - IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Ricardo da Silva Almeida , fiscal do contrato de 25/01 a 16/05/2022, no valor de R$ 13.654, 39 (treze mil, seiscentos e cinquenta e quatro reais e trinta e nove centavos) e fixar prazo de 30 dias para que o responsável recolha o valor da multa, na esfera Estadual para o órgão Fundo de Apoio ao Exercício do Controle Externo - FAECE, através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código '5508 - Multas aplicadas pelo TCE/AM Fundo de Apoio ao Exercício do Controle Externo - FAECE'. Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento (autenticado pelo Banco) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição imprescindível para emissão do Termo de Quitação. O não adimplemento dessa obrigação pecuniária no prazo legal importará na continuidade da cobrança administrativa ou judicial do título executivo (art. 73 da Lei Orgânica do TCE/AM), ficando o DERED autorizado, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução nº 04/2002-TCE/AM, bem como proceder, conforme estabelecido no Acordo de Cooperação firmado com o Instituto de Estudos de Protesto de Títulos do Brasil -Seção Amazonas -IEPTB/AM, ao encaminhamento do título executivo para protesto em nome do responsável;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Considerar revel a Sra. Sandreia Lima Martel , contadora, por ausência de resposta à Notificação nº 135/2023-DICAD (fls. 575/580), na lição do art. 88, da Resolução nº 04/2002;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que: O Contrato n°01/2018, firmado entre a CEMA e a empresa OM BOAT LOGÍSTICA LTDA, seja fiscalizado e pago conforme cláusula contratual que estabelece o regime de execução 'empreitada por preço unitário';",
+      "trechos_identificados": [
+        {
+          "trecho": "O Contrato n°01/2018, firmado entre a CEMA e a empresa OM BOAT LOGÍSTICA LTDA, seja fiscalizado e pago conforme cláusula contratual que estabelece o regime de execução 'empreitada por preço unitário'",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A14B",
+          "tipologia_irregularidade": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "descricao": "Ausência de Pesquisa de preços de mercado, Justificativa de preço e Razão da escolha do contratado",
+          "justificativa_tipologia": "O trecho determina a fiscalização e pagamento do contrato conforme o regime de execução estabelecido.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que: Adote o procedimento contábil da depreciação em bases mensais, de forma que a informação contábil seja útil, completa, neutra e livre de erros, conforme determina o MCASP - 9ª edição;",
+      "trechos_identificados": [
+        {
+          "trecho": "Adote o procedimento contábil da depreciação em bases mensais, de forma que a informação contábil seja útil, completa, neutra e livre de erros, conforme determina o MCASP - 9ª edição",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1C",
+          "tipologia_irregularidade": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "descricao": "Não atualização dos valores das contas depreciação/amortização e exaustão do balanço patrimonial",
+          "justificativa_tipologia": "O trecho descreve a necessidade de adotar o procedimento contábil da depreciação em bases mensais, de forma que a informação contábil seja útil, completa, neutra e livre de erros, conforme determina o MCASP - 9ª edição.",
+          "fundamentacao_legal": [
+            {
+              "norma": "MCASP - 9ª edição",
+              "artigo": "Não aplicável",
+              "descricao": "Manual de Contabilidade Aplicada ao Setor Público - 9ª edição"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à origem que: Evite pagamentos indenizatórios, planejando contratações futuras, de forma a se evitar fracionamento de despesas, racionalizar os gastos e obter economia de escala, inclusive, para isso, pode-se fazer o uso, se assim entender o jurisdicionado, do Plano de Contratação Anual (PCA), conforme orientações da Lei 14.133/2021.",
+      "trechos_identificados": [
+        {
+          "trecho": "Evite pagamentos indenizatórios, planejando contratações futuras, de forma a se evitar fracionamento de despesas, racionalizar os gastos e obter economia de escala, inclusive, para isso, pode-se fazer o uso, se assim entender o jurisdicionado, do Plano de Contratação Anual (PCA), conforme orientações da Lei 14.133/2021.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A22A",
+          "tipologia_irregularidade": "Fracionamento de despesas",
+          "descricao": "Fracionamento de despesas",
+          "justificativa_tipologia": "O trecho determina que se evitem pagamentos indenizatórios e se planejem contratações futuras, de forma a evitar o fracionamento de despesas, racionalizar os gastos e obter economia de escala, inclusive, para isso, pode-se fazer o uso do Plano de Contratação Anual (PCA), conforme orientações da Lei 14.133/2021.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei 14.133/2021",
+              "artigo": "Não aplicável",
+              "descricao": "Lei de Licitações e Contratos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à Sra. Herbenya  Silva  Peixoto ,  acerca  da  decisão, na forma  do  art.  95,  da  Resolução  nº  04/2002,  ficando  autorizada  a emissão  de  nova  notificação,  caso  a  primeira  seja  frustrada.  Ato contínuo,  se,  porventura,  persistir  a  problemática,  para  não  restarem dúvidas quanto à sua validade e eficácia, desde  já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Francisco  Daniel  de  Oliveira  Sena ,  acerca  da decisão, na  forma  do  art.  95,  da  Resolução  nº  04/2002,  ficando autorizada  a  emissão  de  nova  notificação,  caso  a  primeira  seja frustrada.  Ato  contínuo,  se,  porventura,  persistir  a  problemática,  para não  restarem  dúvidas  quanto  à  sua  validade  e  eficácia,  desde  já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência ao Sr.  Erike  Barbosa  de  Carvalho  Araújo ,  acerca  da decisão, na  forma  do  art.  95,  da  Resolução  nº  04/2002,  ficando autorizada  a  emissão  de  nova  notificação,  caso  a  primeira  seja frustrada.  Ato  contínuo,  se,  porventura,  persistir  a  problemática,  para não  restarem  dúvidas  quanto  à  sua  validade  e  eficácia,  desde  já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à Sra.  Maria  do  Socorro  Freire  da  Silva ,  acerca  da decisão, na  forma  do  art.  95,  da  Resolução  nº  04/2002,  ficando autorizada  a  emissão  de  nova  notificação,  caso  a  primeira  seja frustrada.  Ato  contínuo,  se,  porventura,  persistir  a  problemática,  para não  restarem  dúvidas  quanto  à  sua  validade  e  eficácia,  desde  já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar  ciência à Sra. Sandreia Lima Martel , acerca da decisão, na forma do art. 95, da Resolução nº 04/2002, ficando autorizada a emissão de nova  notificação,  caso  a  primeira  seja  frustrada.  Ato  contínuo,  se, porventura, persistir a problemática, para não restarem dúvidas quanto à sua validade e eficácia, desde já autorizo a comunicação via edital, com fulcro no art. 97,da Resolução nº 04/2002;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Ciência",
+      "descricao": "Dar ciência ao Sr. Ricardo da Silva Almeida , acerca da decisão, na forma  do  art.  95,  da  Resolução  nº  04/2002,  ficando  autorizada  a emissão  de  nova  notificação,  caso  a  primeira  seja  frustrada.  Ato contínuo,  se,  porventura,  persistir  a  problemática,  para  não  restarem dúvidas quanto à sua validade e eficácia, desde  já autorizo a comunicação  via  edital,  com  fulcro  no  art.  97,  da  Resolução  nº 04/2002;",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo, após cumpridos os prazos regimentais.",
+      "trechos_identificados": []
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "acordao": "11/2016",
+  "processo": "10747/2015",
+  "data_sessao": "20 de Janeiro de 2016",
+  "orgao": "Câmara Municipal de Anamã",
+  "municipio": "Anamã",
+  "exercicio": "2014",
+  "responsavel": [
+    "Benedito Soares Bastos"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar Irregular",
+      "descricao": "Julgar Irregular, com fulcro no artigo 1º, inciso III, artigo 22, alínea 'b', da Lei nº. 2.423/1996 - LOTCE; e artigo 188, §1º, inciso III, alínea 'b', da Resolução nº. 04/2002-RITCE, a Prestação de Contas, referente ao exercício de 2014, da Câmara Municipal de Anamã, de responsabilidade do Senhor Benedito Soares Bastos, Presidente e Ordenador de Despesas, à época",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular, com fulcro no artigo 1º, inciso III, artigo 22, alínea 'b', da Lei nº. 2.423/1996 - LOTCE; e artigo 188, §1º, inciso III, alínea 'b', da Resolução nº. 04/2002-RITCE, a Prestação de Contas, referente ao exercício de 2014, da Câmara Municipal de Anamã, de responsabilidade do Senhor Benedito Soares Bastos, Presidente e Ordenador de Despesas, à época",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A deliberação indica que a prestação de contas foi considerada irregular devido a falhas que comprometem a transparência e a rastreabilidade das operações financeiras, o que justifica a classificação na tipologia 'Ausência de Notas Explicativas das Demonstrações Contábeis', pois a falta de informações detalhadas impede a correta interpretação dos dados contábeis.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº. 2.423/1996",
+              "artigo": "1º, inciso III",
+              "descricao": "LOTCE - Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº. 2.423/1996",
+              "artigo": "22, alínea 'b'",
+              "descricao": "LOTCE - Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "188, §1º, inciso III, alínea 'b'",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Multar",
+      "descricao": "Multar o Senhor Benedito Soares Bastos, na forma prevista no artigo 1º, inciso XXVI e artigo 52 da Lei n. 2423/1996 - LOTCE, nos seguintes valores:\n- a) R$ 10.960,30 (dez mil, novecentos e sessenta reais e trinta centavos), na forma prevista no artigo 308, inciso II, da Resolução nº. 04/2002  - RITCE, alterada pela Resolução nº. 25/2012, correspondente a R$ 1.096,03, por mês de competência (janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro e dezembro, do exercício de 2014), relativo aos dados e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 10/2012 - TCE/AM, listado no item nº. 03 deste Voto;\n- b) R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), de acordo com o artigo 308, inciso VI, da Resolução nº. 04/2002 - RITCE, alterado pela Resolução n. 25, de 30 de agosto de 2012, referente aos atos praticados com grave infração à norma legal indicados nos itens nºs. 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 e 22 deste voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Multar o Senhor Benedito Soares Bastos, na forma prevista no artigo 1º, inciso XXVI e artigo 52 da Lei n. 2423/1996 - LOTCE, nos seguintes valores:\n- a) R$ 10.960,30 (dez mil, novecentos e sessenta reais e trinta centavos), na forma prevista no artigo 308, inciso II, da Resolução nº. 04/2002  - RITCE, alterada pela Resolução nº. 25/2012, correspondente a R$ 1.096,03, por mês de competência (janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro e dezembro, do exercício de 2014), relativo aos dados e demonstrativos contábeis ACP/Captura, remetidos ao Tribunal de Contas, fora do prazo fixado no artigo 4.º da Resolução nº. 10/2012 - TCE/AM, listado no item nº. 03 deste Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O trecho indica aplicação de multa devido ao envio de dados e demonstrativos contábeis fora do prazo estabelecido, o que se enquadra diretamente na tipologia 'Balancetes Mensais entregues fora do prazo'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "1º, inciso XXVI",
+              "descricao": "LOTCE - Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "52",
+              "descricao": "LOTCE - Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "308, inciso II",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 25/2012",
+              "artigo": "Não especificado",
+              "descricao": "Alteração da Resolução nº. 04/2002 - RITCE"
+            },
+            {
+              "norma": "Resolução nº. 10/2012 - TCE/AM",
+              "artigo": "4.º",
+              "descricao": "Fixação de prazo para remessa de dados e demonstrativos contábeis"
+            }
+          ]
+        },
+        {
+          "trecho": "b) R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), de acordo com o artigo 308, inciso VI, da Resolução nº. 04/2002 - RITCE, alterado pela Resolução n. 25, de 30 de agosto de 2012, referente aos atos praticados com grave infração à norma legal indicados nos itens nºs. 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 e 22 deste voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "A multa aplicada devido a atos praticados com grave infração à norma legal, conforme indicado nos itens 04 a 22 do voto, sugere falhas sistêmicas e abrangentes no controle interno, justificando a tipologia 'Não implementação do Controle Interno'.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "308, inciso VI",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução n. 25, de 30 de agosto de 2012",
+              "artigo": "Não especificado",
+              "descricao": "Alteração da Resolução nº. 04/2002 - RITCE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Fixar prazo",
+      "descricao": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Benedito Soares Bastos, recolha aos cofres da Fazenda Estadual o valor das multas ora aplicadas, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei nº. 2423/1996-LOTCE), ficando a DICREX autorizada a adotar as medidas das Subseções III e IV da Secção III, do Capítulo X, da Resolução nº. 04/2002-RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Fixar o prazo de 30 (trinta) dias (artigo 174 do RITCE), para que o Senhor Benedito Soares Bastos, recolha aos cofres da Fazenda Estadual o valor das multas ora aplicadas, com a devida comprovação nos autos, o qual deverá ser atualizado monetariamente, na hipótese de expirar o prazo concedido (artigo 55, da Lei nº. 2423/1996-LOTCE), ficando a DICREX autorizada a adotar as medidas das Subseções III e IV da Secção III, do Capítulo X, da Resolução nº. 04/2002-RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A7B",
+          "tipologia_irregularidade": "Não realização de execução orçamentária no exercício",
+          "descricao": "Não realização de execução orçamentária no exercício",
+          "justificativa_tipologia": "A determinação de prazo para recolhimento de multas, embora necessária para a regularização financeira, não indica diretamente uma falha na execução orçamentária em si, mas sim a consequência de irregularidades já identificadas. A tipologia reflete a ação necessária para corrigir um desvio financeiro, mas não aponta para uma deficiência na gestão orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "artigo 174 do RITCE",
+              "artigo": "Não especificado",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Lei nº. 2423/1996-LOTCE",
+              "artigo": "55",
+              "descricao": "Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002-RITCE",
+              "artigo": "Não especificado",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinar",
+      "descricao": "Determinar à Secretaria do Tribunal Pleno que:\n- a) Remeta à atual Administração da Câmara Municipal de Anamã, cópias autênticas do Relatório de Vistoria Conclusivo, às fls. 216/227; Relatório Conclusivo nº. 129/2015-DICAMI, às fls. 266/296 e no Parecer Ministerial nº. 3905/2015, às fls. 297/311, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras;\n- b) Notifique o Senhor Benedito Soares Bastos, Presidente e Ordenador de Despesas da Câmara Municipal de Anamã, com cópia do Relatório/Voto e deste Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso;\n- c) Após a ocorrência da coisa julgada administrativa, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE adote as providências do artigo 162, §2º, do RITCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Remeta à atual Administração da Câmara Municipal de Anamã, cópias autênticas do Relatório de Vistoria Conclusivo, às fls. 216/227; Relatório Conclusivo nº. 129/2015-DICAMI, às fls. 266/296 e no Parecer Ministerial nº. 3905/2015, às fls. 297/311, visando evitar o cometimento das mesmas impropriedades em Prestações de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A determinação de remessa de documentos à administração da Câmara Municipal visa evitar a reincidência de irregularidades em futuras prestações de contas. Este objetivo está alinhado à necessidade de garantir a entrega tempestiva e correta dos balancetes mensais, uma vez que a falta de cumprimento dos prazos de envio compromete a fiscalização e o controle das contas públicas.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Notifique o Senhor Benedito Soares Bastos, Presidente e Ordenador de Despesas da Câmara Municipal de Anamã, com cópia do Relatório/Voto e deste Acórdão para ter ciência do decisório e, querendo, apresente o devido recurso",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "A notificação do responsável é um procedimento administrativo padrão para garantir o direito de defesa e ciência do processo, não indicando diretamente uma falha no controle interno, mas sim o cumprimento de um rito processual.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "Após a ocorrência da coisa julgada administrativa, nos termos dos artigos 159 e 160, da Resolução nº. 04/2002 - RITCE adote as providências do artigo 162, §2º, do RITCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Não implementação do Controle Interno",
+          "justificativa_tipologia": "Este trecho descreve procedimentos internos do TCE para execução de decisões após o trânsito em julgado administrativo, sem indicar diretamente uma falha no controle interno do órgão fiscalizado. A menção aos artigos do RITCE apenas estabelece os passos a serem seguidos pelo tribunal, não refletindo uma deficiência na gestão do controle interno do jurisdicionado.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "159 e 160",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº. 04/2002 - RITCE",
+              "artigo": "162, §2º",
+              "descricao": "Regimento Interno do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

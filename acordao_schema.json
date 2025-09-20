@@ -1,0 +1,188 @@
+{
+  "$defs": {
+    "FundamentacaoLegal": {
+      "description": "Modelo para fundamentação legal de um trecho.",
+      "properties": {
+        "norma": {
+          "description": "Nome completo da norma ou lei aplicável",
+          "title": "Norma",
+          "type": "string"
+        },
+        "artigo": {
+          "description": "Artigo ou seção específica da lei ou norma citada",
+          "title": "Artigo",
+          "type": "string"
+        },
+        "descricao": {
+          "description": "Resumo claro e completo da fundamentação legal",
+          "title": "Descricao",
+          "type": "string"
+        }
+      },
+      "required": [
+        "norma",
+        "artigo",
+        "descricao"
+      ],
+      "title": "FundamentacaoLegal",
+      "type": "object"
+    },
+    "ItemDeliberacao": {
+      "description": "Modelo para item de deliberação de um acórdão.",
+      "properties": {
+        "tipo": {
+          "description": "Tipo da deliberação (irregularidade, recomendação, sanção, determinação)",
+          "title": "Tipo",
+          "type": "string"
+        },
+        "descricao": {
+          "description": "Texto completo da deliberação",
+          "title": "Descricao",
+          "type": "string"
+        },
+        "trechos_identificados": {
+          "description": "Lista de trechos extraídos",
+          "items": {
+            "$ref": "#/$defs/TrechoIdentificado"
+          },
+          "title": "Trechos Identificados",
+          "type": "array"
+        }
+      },
+      "required": [
+        "tipo",
+        "descricao",
+        "trechos_identificados"
+      ],
+      "title": "ItemDeliberacao",
+      "type": "object"
+    },
+    "TrechoIdentificado": {
+      "description": "Modelo para trecho identificado em um acórdão.",
+      "properties": {
+        "trecho": {
+          "description": "Trecho específico extraído do inteiro teor",
+          "title": "Trecho",
+          "type": "string"
+        },
+        "irregularidade": {
+          "description": "Indica se o trecho descreve uma irregularidade",
+          "title": "Irregularidade",
+          "type": "boolean"
+        },
+        "relevante_para_indice": {
+          "description": "Indica se o trecho é relevante para o índice",
+          "title": "Relevante Para Indice",
+          "type": "boolean"
+        },
+        "tema_irregularidade": {
+          "description": "Tema da irregularidade",
+          "title": "Tema Irregularidade",
+          "type": "string"
+        },
+        "codigo_irregularidade": {
+          "description": "Código da tipologia da irregularidade",
+          "title": "Codigo Irregularidade",
+          "type": "string"
+        },
+        "tipologia_irregularidade": {
+          "description": "Tipologia da irregularidade",
+          "title": "Tipologia Irregularidade",
+          "type": "string"
+        },
+        "descricao": {
+          "description": "Descrição da irregularidade",
+          "title": "Descricao",
+          "type": "string"
+        },
+        "justificativa_tipologia": {
+          "description": "Justificativa para a classificação",
+          "title": "Justificativa Tipologia",
+          "type": "string"
+        },
+        "fundamentacao_legal": {
+          "description": "Lista de fundamentações legais",
+          "items": {
+            "$ref": "#/$defs/FundamentacaoLegal"
+          },
+          "title": "Fundamentacao Legal",
+          "type": "array"
+        }
+      },
+      "required": [
+        "trecho",
+        "irregularidade",
+        "relevante_para_indice",
+        "tema_irregularidade",
+        "codigo_irregularidade",
+        "tipologia_irregularidade",
+        "descricao",
+        "justificativa_tipologia",
+        "fundamentacao_legal"
+      ],
+      "title": "TrechoIdentificado",
+      "type": "object"
+    }
+  },
+  "description": "Modelo principal para representação de um acórdão.",
+  "properties": {
+    "acordao": {
+      "description": "Número do acórdão",
+      "title": "Acordao",
+      "type": "string"
+    },
+    "processo": {
+      "description": "Número do processo",
+      "title": "Processo",
+      "type": "string"
+    },
+    "data_sessao": {
+      "description": "Data da sessão de julgamento",
+      "title": "Data Sessao",
+      "type": "string"
+    },
+    "orgao": {
+      "description": "Órgão relacionado ao acórdão",
+      "title": "Orgao",
+      "type": "string"
+    },
+    "municipio": {
+      "description": "Município do órgão fiscalizado",
+      "title": "Municipio",
+      "type": "string"
+    },
+    "exercicio": {
+      "description": "Ano do exercício analisado",
+      "title": "Exercicio",
+      "type": "string"
+    },
+    "responsavel": {
+      "description": "Lista de responsáveis",
+      "items": {
+        "type": "string"
+      },
+      "title": "Responsavel",
+      "type": "array"
+    },
+    "itens": {
+      "description": "Lista de deliberações",
+      "items": {
+        "$ref": "#/$defs/ItemDeliberacao"
+      },
+      "title": "Itens",
+      "type": "array"
+    }
+  },
+  "required": [
+    "acordao",
+    "processo",
+    "data_sessao",
+    "orgao",
+    "municipio",
+    "exercicio",
+    "responsavel",
+    "itens"
+  ],
+  "title": "Acordao",
+  "type": "object"
+}

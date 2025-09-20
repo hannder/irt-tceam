@@ -1,0 +1,137 @@
+{
+  "acordao": "2109/2024-TCE-TRIBUNAL PLENO",
+  "processo": "12229/2022",
+  "data_sessao": "20 de dezembro de 2024",
+  "orgao": "Secretaria Municipal de Educação - SEMED",
+  "municipio": "Manaus",
+  "exercicio": "2021",
+  "responsavel": [
+    "Pauderney Tomaz Avelino"
+  ],
+  "itens": [
+    {
+      "tipo": "Julgar",
+      "descricao": "Julgar regular a Prestação de Contas Anual da Secretaria Municipal de Educação de Manaus -SEMED, exercício 2021, sob a responsabilidade  do Sr.  Pauderney  Tomaz  Avelino ,  Secretário  da SEMED, à época, nos termos do art. 1º, II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002- TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas Anual da Secretaria Municipal de Educação de Manaus -SEMED, exercício 2021, sob a responsabilidade  do Sr.  Pauderney  Tomaz  Avelino ,  Secretário  da SEMED, à época, nos termos do art. 1º, II da Lei Estadual n. 2.423/96 c/c art. 5º, II da Resolução n. 04/2002- TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A5C",
+          "tipologia_irregularidade": "Ausência do botão Radar no site institucional",
+          "descricao": "Não consta no website institucional o banner com link de acesso ao Portal Radar da Transparência Pública que direcione o usuário a página vinculada a ATRICON.",
+          "justificativa_tipologia": "O trecho relata o julgamento regular das contas, não indicando nenhuma irregularidade em si. Por outro lado, o julgamento formal da prestação de contas sem detalhar problemas específicos não é considerado relevante para o índice de reincidência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "1º, II",
+              "descricao": "Trata da aprovação das contas"
+            },
+            {
+              "norma": "Resolução n. 04/2002- TCE/AM",
+              "artigo": "5º, II",
+              "descricao": "Trata da aprovação das contas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Secretaria Municipal De Educação - Semed que: atualize o  Portal da  Transparência  com  todos  os  dados ausentes referente às diárias concedidas no decorrer do exercício de 2021",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Secretaria Municipal De Educação - Semed que: atualize o  Portal da  Transparência  com  todos  os  dados ausentes referente às diárias concedidas no decorrer do exercício de 2021",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "O trecho recomenda a atualização do Portal da Transparência com dados ausentes sobre diárias, indicando uma falha na divulgação de informações essenciais à sociedade, tornando o trecho relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Secretaria Municipal De Educação - Semed que: observe com maior rigor dos preceitos disposto no art. 4º c/c art. 12, §1º, ambos da Lei nº 4.320/64",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Secretaria Municipal De Educação - Semed que: observe com maior rigor dos preceitos disposto no art. 4º c/c art. 12, §1º, ambos da Lei nº 4.320/64",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A20B",
+          "tipologia_irregularidade": "Concessão de diárias e ajudas de custo irregulares",
+          "descricao": "Ausência da razão da escolha do fornecedor",
+          "justificativa_tipologia": "Embora seja uma recomendação, o trecho em si não especifica nenhuma irregularidade, apenas recomenda maior rigor no cumprimento da lei. Por outro lado, a orientação geral, sem especificar uma falha concreta, não é considerada relevante para o índice de reincidência.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "4º",
+              "descricao": "Dispõe sobre os princípios orçamentários."
+            },
+            {
+              "norma": "Lei nº 4.320/64",
+              "artigo": "12, §1º",
+              "descricao": "Dispõe sobre a competência para assinatura de empenhos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Secretaria Municipal De Educação - Semed que: instrua melhor a Prestação de Contas de exercícios futuros, a fim de que sejam apresentados todos os documentos necessários para a demonstração do atendimento das normas que regem a Administração  Pública,  com  destaque  para  a  Lei  de  Licitações  e Contratos.",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Secretaria Municipal De Educação - Semed que: instrua melhor a Prestação de Contas de exercícios futuros, a fim de que sejam apresentados todos os documentos necessários para a demonstração do atendimento das normas que regem a Administração  Pública,  com  destaque  para  a  Lei  de  Licitações  e Contratos.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A9B",
+          "tipologia_irregularidade": "Falhas na prestação de contas",
+          "descricao": "A entidade apresentou falhas na prestação de contas dos recursos públicos recebidos, o que dificulta o acompanhamento da execução orçamentária e financeira e o controle social.",
+          "justificativa_tipologia": "A recomendação para melhor instruir as futuras prestações de contas indica uma deficiência na apresentação dos documentos necessários, o que dificulta a demonstração do atendimento às normas da Administração Pública, o que torna o trecho relevante para o índice.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Notificação",
+      "descricao": "Notificar o Sr. Pauderney Tomaz Avelino , pessoalmente e por meio de  seus  Advogados  constituídos,  acerca  do  decisum  a  ser  exarado por este Tribunal",
+      "trechos_identificados": [
+        {
+          "trecho": "Notificar o Sr. Pauderney Tomaz Avelino , pessoalmente e por meio de  seus  Advogados  constituídos,  acerca  do  decisum  a  ser  exarado por este Tribunal",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A5C",
+          "tipologia_irregularidade": "Ausência do botão Radar no site institucional",
+          "descricao": "Não consta no website institucional o banner com link de acesso ao Portal Radar da Transparência Pública que direcione o usuário a página vinculada a ATRICON.",
+          "justificativa_tipologia": "O trecho trata apenas de um procedimento formal de notificação, não indicando nenhuma irregularidade ou problema na gestão pública.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Arquivamento",
+      "descricao": "Arquivar o processo após o trânsito em julgado.",
+      "trechos_identificados": [
+        {
+          "trecho": "Arquivar o processo após o trânsito em julgado.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A5C",
+          "tipologia_irregularidade": "Ausência do botão Radar no site institucional",
+          "descricao": "Não consta no website institucional o banner com link de acesso ao Portal Radar da Transparência Pública que direcione o usuário a página vinculada a ATRICON.",
+          "justificativa_tipologia": "O trecho trata apenas de uma ação processual interna do TCE, não indicando nenhum impacto direto na gestão pública ou irregularidade a ser corrigida.",
+          "fundamentacao_legal": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "acordao": "871/2015",
+  "processo": "1935/2009",
+  "data_sessao": "21 de outubro de 2015",
+  "orgao": "Secretaria Municipal de Esporte e Lazer - SEMESP",
+  "municipio": "Manaus",
+  "exercicio": "2008",
+  "responsavel": [
+    "Francisco Evilázio Pereira",
+    "Eduardo Henrique Granja Cogo",
+    "Sotaro Pio Suwa"
+  ],
+  "itens": [
+    {
+      "tipo": "Regular",
+      "descricao": "Julgar regular a Prestação de Contas da Secretaria Municipal de Esporte e Lazer - SEMESP, exercício de 2008, de responsabilidade do Sr. Francisco Evilázio Pereira (01/01/2008 a 21/06/2008), nos termos do art. 22, I e art. 23, da Lei n.º 2.423/96LO/TCE c/c o art. 188º, §1º I da Resolução nº 04/2002-RI/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas da Secretaria Municipal de Esporte e Lazer - SEMESP, exercício de 2008, de responsabilidade do Sr. Francisco Evilázio Pereira (01/01/2008 a 21/06/2008), nos termos do art. 22, I e art. 23, da Lei n.º 2.423/96LO/TCE c/c o art. 188º, §1º I da Resolução nº 04/2002-RI/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento da regularidade das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, I e art. 23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-RI/TCE",
+              "artigo": "188º, §1º I",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Regular",
+      "descricao": "Julgar regular a Prestação de Contas da Secretaria Municipal de Esporte e Lazer - SEMESP, exercício de 2008, de responsabilidade do  Sr. Eduardo Henrique Granja  Cogo (23/06/2008  a  03/07/2008),  nos  termos  do  art22,  I  e  art.  23,  da  Lei  n.º 2.423/96-LO/TCE c/c o art. 188º, §1º, I da Resolução nº 04/2002-RI/TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar regular a Prestação de Contas da Secretaria Municipal de Esporte e Lazer - SEMESP, exercício de 2008, de responsabilidade do  Sr. Eduardo Henrique Granja  Cogo (23/06/2008  a  03/07/2008),  nos  termos  do  art22,  I  e  art.  23,  da  Lei  n.º 2.423/96-LO/TCE c/c o art. 188º, §1º, I da Resolução nº 04/2002-RI/TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento da regularidade das contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, I e art. 23",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução nº 04/2002-RI/TCE",
+              "artigo": "188º, §1º I",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Regular com ressalvas",
+      "descricao": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Secretaria Municipal de Esporte e Lazer - SEMESP, exercício de 2008, de responsabilidade do Sr. Sotaro  Pio  Suwa (03/07/2008  a  31/12/2008),  gestor  e  ordenador  de  despesas,  nos termos  do  art.  22,  II  e  art.  24,  da  Lei  n.º  2.423/96-LO/TCE  c/c  o  art.  188,  §1º,  II  da Resolução  nº  04/2002-RI/TCE,  considerando  as  ocorrências  das  restrições  constantes nesta instrução",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  regular  com  ressalvas a  Prestação  de  Contas  da  Secretaria Municipal de Esporte e Lazer - SEMESP, exercício de 2008, de responsabilidade do Sr. Sotaro  Pio  Suwa (03/07/2008  a  31/12/2008),  gestor  e  ordenador  de  despesas,  nos termos  do  art.  22,  II  e  art.  24,  da  Lei  n.º  2.423/96-LO/TCE  c/c  o  art.  188,  §1º,  II  da Resolução  nº  04/2002-RI/TCE,  considerando  as  ocorrências  das  restrições  constantes nesta instrução",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Julgamento com ressalvas devido às restrições identificadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "22, II e art. 24",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            },
+            {
+              "norma": "Resolução  nº  04/2002-RI/TCE",
+              "artigo": "188, §1º, II",
+              "descricao": "Dispõe sobre o Regimento Interno do TCE/AM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa ao Sr. Sotaro Pio Suwa no valor de R$ 6.000,00 (seis mil reais),  nos  termos  do  art.  53,  parágrafo  único,  da  Lei  n.º  2.423/96-LO-TCE/AM,  pelas restrições não sanadas, porém formais descritas nos itens 12.1, 12.2, 12.3 descritos no Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa ao Sr. Sotaro Pio Suwa no valor de R$ 6.000,00 (seis mil reais),  nos  termos  do  art.  53,  parágrafo  único,  da  Lei  n.º  2.423/96-LO-TCE/AM,  pelas restrições não sanadas, porém formais descritas nos itens 12.1, 12.2, 12.3 descritos no Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Aplicação de multa devido a restrições não sanadas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96-LO-TCE/AM",
+              "artigo": "53, parágrafo único",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar à origem : 9.5.1Ausência  de  composição  de  BDI  (art.  7º  da  Lei  nº  8.666/93). Recomendação:  Demonstre,  nos  próximos certames  licitatórios,  na  fase  de  elaboração das  planilhas  orçamentárias  para  a  contratação  de  obras  e  serviços  de  engenharia,  a composição  do  BDI  (bonificação  e  despesas  indiretas)  que  está  sendo  utilizado  nas planilhas de custo referencial",
+      "trechos_identificados": [
+        {
+          "trecho": "Demonstre,  nos  próximos certames  licitatórios,  na  fase  de  elaboração das  planilhas  orçamentárias  para  a  contratação  de  obras  e  serviços  de  engenharia,  a composição  do  BDI  (bonificação  e  despesas  indiretas)  que  está  sendo  utilizado  nas planilhas de custo referencial",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A12B",
+          "tipologia_irregularidade": "O Orçamento não representa a avaliação do custo da obra com base em documentação técnica (desenhos, memoriais e especificação)",
+          "descricao": "O Orçamento não representa a avaliação do custo da obra com base em documentação técnica (desenhos, memoriais e especificação)",
+          "justificativa_tipologia": "Para melhorar a transparência e a precisão na elaboração de orçamentos para contratação de obras e serviços de engenharia.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei  nº  8.666/93",
+              "artigo": "7º",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "9.5.2Observe nos próximos exercícios o fiel cumprimento da Resolução n. 05/90, especialmente art.2º, I quanto ao Parecer da Inspetoria Setorial de Finanças ou equivalente; art. 2º VI Relação das Provisões Recebidas, com data, número e valor; Demonstrativos dos Recebimentos e Pagamentos Independentes da Execução Orçamentária, conforme art. 2º, VII",
+      "trechos_identificados": [
+        {
+          "trecho": "Observe nos próximos exercícios o fiel cumprimento da Resolução n. 05/90, especialmente art.2º, I quanto ao Parecer da Inspetoria Setorial de Finanças ou equivalente; art. 2º VI Relação das Provisões Recebidas, com data, número e valor; Demonstrativos dos Recebimentos e Pagamentos Independentes da Execução Orçamentária, conforme art. 2º, VII",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A20C",
+          "tipologia_irregularidade": "Falta de documentação dos controles internos",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "Necessidade de fortalecer os controles internos e garantir a documentação adequada para a prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 05/90",
+              "artigo": "2º, I",
+              "descricao": "Dispõe sobre a necessidade de Parecer da Inspetoria Setorial de Finanças ou equivalente"
+            },
+            {
+              "norma": "Resolução n. 05/90",
+              "artigo": "2º VI",
+              "descricao": "Dispõe sobre a Relação das Provisões Recebidas, com data, número e valor"
+            },
+            {
+              "norma": "Resolução n. 05/90",
+              "artigo": "2º, VII",
+              "descricao": "Dispõe sobre os Demonstrativos dos Recebimentos e Pagamentos Independentes da Execução Orçamentária"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "9.5.3Atente para que as Demonstrações contábeis devem  ser assinadas por profissional habilitado pelos respectivos Conselhos Regionais de Contabilidade,  para  que  não  incorra  na  perda  da  validade  do demonstrativo,  em cumprimento  as  Resoluções  ns.  960/2003  do  Conselho  Federal  de  Contabilidade  e 871/2000",
+      "trechos_identificados": [
+        {
+          "trecho": "Atente para que as Demonstrações contábeis devem  ser assinadas por profissional habilitado pelos respectivos Conselhos Regionais de Contabilidade,  para  que  não  incorra  na  perda  da  validade  do demonstrativo,  em cumprimento  as  Resoluções  ns.  960/2003  do  Conselho  Federal  de  Contabilidade  e 871/2000",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Assegurar que as demonstrações contábeis sejam assinadas por profissionais habilitados para garantir a validade e confiabilidade dos documentos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resoluções  ns.  960/2003  do  Conselho  Federal  de  Contabilidade",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre as normas de habilitação dos profissionais contábeis"
+            },
+            {
+              "norma": "Resolução 871/2000",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre as normas de habilitação dos profissionais contábeis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "9.5.4O  fiel cumprimento  da  Lei  n°  8.666/93  especialmente  nos processos licitatórios, formalização de contratos e aditivos em  especial quando necessários for a substituição de materiais e serviços.",
+      "trechos_identificados": [
+        {
+          "trecho": "O  fiel cumprimento  da  Lei  n°  8.666/93  especialmente  nos processos licitatórios, formalização de contratos e aditivos em  especial quando necessários for a substituição de materiais e serviços.",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A13B",
+          "tipologia_irregularidade": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "descricao": "Ausência de Análise e aprovação jurídica da minuta de edital",
+          "justificativa_tipologia": "Para garantir a conformidade legal e a correta formalização dos processos licitatórios e contratos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 8.666/93",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública e dá outras providências."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

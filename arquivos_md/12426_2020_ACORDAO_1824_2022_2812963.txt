@@ -1,0 +1,36 @@
+{
+  "acordao": "1824/2022",
+  "processo": "12426/2020",
+  "data_sessao": "25 de outubro de 2022",
+  "orgao": "Fundo de Custeio ao Plano de Saúde dos Servidores Públicos do Municipio de Manaus",
+  "municipio": "Manaus",
+  "exercicio": "2019",
+  "responsavel": [
+    "Roberto Valiante de Souza"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar ao  Fundo de Custeio ao Plano de Saúde dos Servidores Públicos de Manaus -FUNSERV que tome providências administrativas  quanto  a  apuração  de  possível  acúmulo  de  cargo  da servidora Maria  de  Fátima  Lima  de  Oliveira (FUNSERV  e  SES), aparentemente  em  afronta  ao  art.  37,  inciso  XVI,  da  Constituição Federal;",
+      "trechos_identificados": [
+        {
+          "trecho": "Determinar ao  Fundo de Custeio ao Plano de Saúde dos Servidores Públicos de Manaus -FUNSERV que tome providências administrativas  quanto  a  apuração  de  possível  acúmulo  de  cargo  da servidora Maria  de  Fátima  Lima  de  Oliveira (FUNSERV  e  SES), aparentemente  em  afronta  ao  art.  37,  inciso  XVI,  da  Constituição Federal;",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A deliberação determina a apuração de possível acúmulo ilegal de cargos, indicando uma potencial irregularidade na gestão de pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Constituição Federal",
+              "artigo": "37, inciso XVI",
+              "descricao": "Refere-se à proibição de acumulação de cargos públicos, salvo nos casos expressos na Constituição."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

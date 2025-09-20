@@ -1,0 +1,176 @@
+{
+  "acordao": "238/2013",
+  "processo": "1995/2009",
+  "data_sessao": "16 de dezembro de 2013",
+  "orgao": "Cadeia Pública Desembargador Raimundo Vidal Pessoa",
+  "municipio": "Manaus",
+  "exercicio": "2008",
+  "responsavel": [
+    "Jhones Macário da Silva Muneymne",
+    "Expedito Rocha dos Santos"
+  ],
+  "itens": [
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR, COM RESSALVAS, de acordo com o art. 18, inc. II da  LC  06/1991,  arts  1º,  inc.  II  e  22,  II,  da  Lei  n.  2423/1996  c/c  art.188,  §1º,  inc.  II,  da Resolução TC n. 04/2002, a Prestação de Contas, referente ao exercício de 2008, da Cadeia Pública Raimundo  Vidal Pessoa,  de  responsabilidade  do  Senhor Jhones Macário  da  Silva Muneymne, Diretor e Ordenador de Despesas, no período de 1.1.2008 a 7.4.2008",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR, COM RESSALVAS, de acordo com o art. 18, inc. II da  LC  06/1991,  arts  1º,  inc.  II  e  22,  II,  da  Lei  n.  2423/1996  c/c  art.188,  §1º,  inc.  II,  da Resolução TC n. 04/2002, a Prestação de Contas, referente ao exercício de 2008, da Cadeia Pública Raimundo  Vidal Pessoa,  de  responsabilidade  do  Senhor Jhones Macário  da  Silva Muneymne, Diretor e Ordenador de Despesas, no período de 1.1.2008 a 7.4.2008",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares com ressalvas, indicando que, apesar de algumas impropriedades, a gestão foi aceitável, e a tipologia é a que melhor se adequa ao contexto.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC  06/1991",
+              "artigo": "18, inc. II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "1º, inc. II e 22, II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Resolução TC n. 04/2002",
+              "artigo": "188, §1º, inc. II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Considerar REVEL o Senhor EXPEDITO ROCHA DOS SANTOS, Diretor e  Ordenador  de  Despesas , no  exercício  de  2008 , em  face  de  não  ter  respondido  aos chamamentos desta Corte para produzir defesa de acordo com o § 3º, do artigo 20 da Lei n. 2423/1996 (LOTCE) c.c o caput do artigo 88 da Resolução n. 4/2002 (RITCE)",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar REVEL o Senhor EXPEDITO ROCHA DOS SANTOS, Diretor e  Ordenador  de  Despesas , no  exercício  de  2008 , em  face  de  não  ter  respondido  aos chamamentos desta Corte para produzir defesa de acordo com o § 3º, do artigo 20 da Lei n. 2423/1996 (LOTCE) c.c o caput do artigo 88 da Resolução n. 4/2002 (RITCE)",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A revelia por não responder aos chamamentos do Tribunal de Contas está relacionada à ausência de envio de informações dentro dos prazos estabelecidos, e a tipologia selecionada reflete essa falha no cumprimento dos prazos para envio de documentos e informações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996 (LOTCE)",
+              "artigo": "20",
+              "descricao": "Consideração de revelia por não responder aos chamamentos da Corte para produzir defesa."
+            },
+            {
+              "norma": "Resolução n. 4/2002 (RITCE)",
+              "artigo": "88",
+              "descricao": "Consideração de revelia por não responder aos chamamentos da Corte para produzir defesa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Julgar REGULAR, COM RESSALVAS, de acordo com o art. 18, inc. II da  LC  06/1991,  arts  1º,  inc.  II  e  22,  II,  da  Lei  n.  2423/1996  c/c  art.188,  §1º,  inc.  II,  da Resolução TC n. 04/2002, a Prestação de Contas, referente ao exercício de 2008, da Cadeia Pública Raimundo Vidal Pessoa, de responsabilidade do Senhor Expedito Rocha dos Santos, Diretor e Ordenador de Despesas, no período de 7.4.2008 a 31.12.2008",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar REGULAR, COM RESSALVAS, de acordo com o art. 18, inc. II da  LC  06/1991,  arts  1º,  inc.  II  e  22,  II,  da  Lei  n.  2423/1996  c/c  art.188,  §1º,  inc.  II,  da Resolução TC n. 04/2002, a Prestação de Contas, referente ao exercício de 2008, da Cadeia Pública Raimundo Vidal Pessoa, de responsabilidade do Senhor Expedito Rocha dos Santos, Diretor e Ordenador de Despesas, no período de 7.4.2008 a 31.12.2008",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "O trecho relata o julgamento das contas como regulares com ressalvas, indicando que, apesar de algumas impropriedades, a gestão foi aceitável, e a tipologia é a que melhor se adequa ao contexto.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC  06/1991",
+              "artigo": "18, inc. II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "1º, inc. II e 22, II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            },
+            {
+              "norma": "Resolução TC n. 04/2002",
+              "artigo": "188, §1º, inc. II",
+              "descricao": "Julgamento das contas como regulares com ressalvas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DELIBERAÇÃO",
+      "descricao": "Dar  quitação  aos  Senhores Jhones  Macário  da  Silva  Muneymne  e Expedito Rocha dos Santos , nos termos dos artigos 24, 72, inciso II, da Lei n. 2423/1996, c/c o artigo 189, II, da Resolução nº. 4/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Dar  quitação  aos  Senhores Jhones  Macário  da  Silva  Muneymne  e Expedito Rocha dos Santos , nos termos dos artigos 24, 72, inciso II, da Lei n. 2423/1996, c/c o artigo 189, II, da Resolução nº. 4/2002",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1A",
+          "tipologia_irregularidade": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "descricao": "Balanço Orçamentário. Ausência de justificativa em notas explicativas sobre alterações significativas do orçamento inicial",
+          "justificativa_tipologia": "A quitação das contas, apesar das ressalvas, indica que a gestão foi considerada aceitável dentro de certos limites. ",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n. 2423/1996",
+              "artigo": "24, 72, inciso II",
+              "descricao": "Concessão de quitação aos responsáveis."
+            },
+            {
+              "norma": "Resolução nº. 4/2002",
+              "artigo": "189, II",
+              "descricao": "Concessão de quitação aos responsáveis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "à atual Administração da Cadeia Pública Desembargador Raimundo Vidal  Pessoa  (U.G.  21103)  maior  presteza  e  zelo  em  relação  às  Prestações  de  Contas futuras, para que não se repitam as falhas demonstradas no Relatório de Inspeção e no Parecer Ministerial, cujas cópias reprográficas deverão ser remetidas bem como atenção para a correta elaboração do inventário físico/financeiro de bens móveis, relativamente aos bens  adquiridos nos  exercícios anteriores ao examinado  na  Prestação  de  Contas submetida aresta Corte de Contas",
+      "trechos_identificados": [
+        {
+          "trecho": "à atual Administração da Cadeia Pública Desembargador Raimundo Vidal  Pessoa  (U.G.  21103)  maior  presteza  e  zelo  em  relação  às  Prestações  de  Contas futuras, para que não se repitam as falhas demonstradas no Relatório de Inspeção e no Parecer Ministerial, cujas cópias reprográficas deverão ser remetidas bem como atenção para a correta elaboração do inventário físico/financeiro de bens móveis, relativamente aos bens  adquiridos nos  exercícios anteriores ao examinado  na  Prestação  de  Contas submetida aresta Corte de Contas",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A7B",
+          "tipologia_irregularidade": "Ausência de parecer na Prestação de Contas",
+          "descricao": "Ausência de parecer na Prestação de Contas",
+          "justificativa_tipologia": "A determinação para maior presteza e zelo nas futuras prestações de contas indica uma preocupação com a qualidade e completeza das informações apresentadas, e a menção à correta elaboração do inventário físico/financeiro de bens móveis reforça a necessidade de atenção aos detalhes contábeis e patrimoniais.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "à Secretaria do Tribunal Pleno que adote as providências previstas no artigo 162, § 1º do Regimento Interno",
+      "trechos_identificados": [
+        {
+          "trecho": "à Secretaria do Tribunal Pleno que adote as providências previstas no artigo 162, § 1º do Regimento Interno",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A1A",
+          "tipologia_irregularidade": "Ausência de Normatização das Rotinas Internas",
+          "descricao": "Ausência de Normatização das rotinas internas",
+          "justificativa_tipologia": "A determinação à Secretaria do Tribunal Pleno para adotar providências internas é uma ação administrativa para garantir o cumprimento de procedimentos internos, e a ausência de normatização das rotinas internas se encaixa nesse contexto.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Regimento Interno",
+              "artigo": "162, § 1º",
+              "descricao": "Adoção de providências internas pela Secretaria do Tribunal Pleno."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

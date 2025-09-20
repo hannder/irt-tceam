@@ -1,0 +1,292 @@
+{
+  "acordao": "287/2015",
+  "processo": "10802/2014",
+  "data_sessao": "13 de maio de 2015",
+  "orgao": "Câmara Municipal de Humaitá",
+  "municipio": "Humaitá",
+  "exercicio": "2013",
+  "responsavel": [
+    "Rademacker Chaves"
+  ],
+  "itens": [
+    {
+      "tipo": "Regularidade com ressalvas",
+      "descricao": "julgar pela regularidade, com ressalvas , das Contas da Câmara Municipal    de  Humaitá,  referente  ao  exercício  de  2013,  de  responsabilidade  do Sr. Rademacker Chaves ,  presidente da Câmara Municipal de Humaitá, nos termos do art. 22,  III,  \"b\"  c/c  o  art.  25,  ambos  da  Lei  n.°  2.423/96-TCE/AM e art. 5°,  II, da Resolução TCE/AM n.° 04/02",
+      "trechos_identificados": [
+        {
+          "trecho": "julgar pela regularidade, com ressalvas , das Contas da Câmara Municipal    de  Humaitá,  referente  ao  exercício  de  2013,  de  responsabilidade  do Sr. Rademacker Chaves ,  presidente da Câmara Municipal de Humaitá, nos termos do art. 22,  III,  \"b\"  c/c  o  art.  25,  ambos  da  Lei  n.°  2.423/96-TCE/AM e art. 5°,  II, da Resolução TCE/AM n.° 04/02",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "Apesar do julgamento pela regularidade com ressalvas, o texto não apresenta indícios de problemas concretos, estruturais ou recorrentes na gestão contábil pública, mas sim uma avaliação geral da prestação de contas.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.° 2.423/96-TCE/AM",
+              "artigo": "22, III, \"b\" c/c o art. 25",
+              "descricao": "Disposições sobre as competências e procedimentos do TCE/AM em relação à fiscalização e julgamento de contas públicas."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 04/02",
+              "artigo": "5°, II",
+              "descricao": "Normas sobre o processo de prestação de contas anual perante o TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "MULTAR o Sr. Rademacker Chaves, Presidente da Câmara Municipal de Humaitá e Ordenador de Despesas:\na) no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), referente a 10% do valor previsto no art. 54, §2.º, da Lei n.º 2.423/96, c/c o art. 1.º, da Resolução TCE/AM n.º 25/12, conforme estabelece o art. 53, parágrafo único, da Lei n.° 2.423/96, alterado pela Lei Complementar n.º 114/2013, pelas impropriedades identificadas nos itens 1; 2; 10; 13, 14 e 15 do Relatório/Voto;\nb) no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), com fulcro no art. 54, VII, da Lei n.º 2.423/96, c/c o art. 308, IV, 'b' da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pela reincidência no descumprimento de determinação do Tribunal, item 8.1 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "MULTAR o Sr. Rademacker Chaves, Presidente da Câmara Municipal de Humaitá e Ordenador de Despesas: a) no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), referente a 10% do valor previsto no art. 54, §2.º, da Lei n.º 2.423/96, c/c o art. 1.º, da Resolução TCE/AM n.º 25/12, conforme estabelece o art. 53, parágrafo único, da Lei n.° 2.423/96, alterado pela Lei Complementar n.º 114/2013, pelas impropriedades identificadas nos itens 1; 2; 10; 13, 14 e 15 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa é aplicada devido a impropriedades que podem indicar impacto na gestão fiscal, como gastos com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, §2.º",
+              "descricao": "Estabelece os critérios para aplicação de multas por irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Resolução TCE/AM n.º 25/12",
+              "artigo": "1.º",
+              "descricao": "Define os valores e procedimentos para aplicação de multas pelo TCE/AM."
+            },
+            {
+              "norma": "Lei Complementar n.º 114/2013",
+              "artigo": "53, parágrafo único",
+              "descricao": "Altera a Lei n.º 2.423/96, estabelecendo novas regras para aplicação de multas."
+            }
+          ]
+        },
+        {
+          "trecho": "MULTAR o Sr. Rademacker Chaves, Presidente da Câmara Municipal de Humaitá e Ordenador de Despesas,  b) no valor de R$ 4.384,12 (quatro mil, trezentos e oitenta e quatro reais e doze centavos), com fulcro no art. 54, VII, da Lei n.º 2.423/96, c/c o art. 308, IV, 'b' da Resolução TCE/AM n.° 04/02, alterada pela Resolução TCE/AM n.° 25/12, pela reincidência no descumprimento de determinação do Tribunal, item 8.1 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A82A",
+          "tipologia_irregularidade": "Gasto total com pessoal (54%) ultrapassado",
+          "descricao": "Não cumpriu Gasto total com pessoal (54%).",
+          "justificativa_tipologia": "A multa é aplicada devido à reincidência no descumprimento de determinações do Tribunal, o que pode indicar impacto na gestão fiscal, como gastos com pessoal.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "54, VII",
+              "descricao": "Define os critérios para aplicação de multas por descumprimento de determinações do TCE/AM."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 04/02",
+              "artigo": "308, IV, 'b'",
+              "descricao": "Estabelece os procedimentos para aplicação de multas por reincidência no descumprimento de determinações do TCE/AM."
+            },
+            {
+              "norma": "Resolução TCE/AM n.° 25/12",
+              "artigo": "Não especificado",
+              "descricao": "Altera a Resolução TCE/AM n.° 04/02, estabelecendo novas regras para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "FIXAR PRAZO",
+      "descricao": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. Rademacker Chaves, recolha os valores das multas que lhe foram imputadas aos cofres públicos (art. 72,  III,  'c',  da  Lei  n.º  2.423/96), ficando a DICREX autorizada desde já a adotar as medidas previstas nas subseções III e  IV da Seção III, do Capítulo X, da Resolução n.º 04/2002-TCE/AM",
+      "trechos_identificados": [
+        {
+          "trecho": "FIXAR o prazo de 30 (trinta) dias, para que o Sr. Rademacker Chaves, recolha os valores das multas que lhe foram imputadas aos cofres públicos (art. 72,  III,  'c',  da  Lei  n.º  2.423/96), ficando a DICREX autorizada desde já a adotar as medidas previstas nas subseções III e  IV da Seção III, do Capítulo X, da Resolução n.º 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A fixação de prazo para recolhimento de multas, por si só, não indica um problema estrutural na gestão fiscal, mas sim um procedimento padrão para garantir o cumprimento de sanções.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "72, III, 'c'",
+              "descricao": "Estabelece as diretrizes para a cobrança de multas aplicadas pelo TCE/AM."
+            },
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Define os procedimentos para a execução de decisões do TCE/AM, incluindo a cobrança de multas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "AUTORIZAR",
+      "descricao": "AUTORIZAR, em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n.º 2.423/96, art. 169, II, art. 173, e § 6.º do art. 308, todos da Resolução nº 04/2002- TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "AUTORIZAR , em caso de não recolhimento dos valores de condenação, a inscrição do débito na Dívida Ativa e ensejo à ação executiva, ex vi do art. 73 da Lei n.º 2.423/96, art. 169,  II, art. 173, e § 6.º  do art. 308, todos da Resolução nº 04/2002- TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A autorização para inscrição em dívida ativa, por si só, não revela uma falha estrutural no controle interno, mas sim um mecanismo para garantir a recuperação de valores devidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 2.423/96",
+              "artigo": "73",
+              "descricao": "Estabelece as diretrizes para a inscrição de débitos na Dívida Ativa e a execução fiscal."
+            },
+            {
+              "norma": "Resolução nº 04/2002- TCE",
+              "artigo": "169, II, art. 173, e § 6.º  do art. 308",
+              "descricao": "Define os procedimentos para a inscrição de débitos na Dívida Ativa e a execução fiscal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "DETERMINAÇÃO",
+      "descricao": "DETERMINAR à Câmara Municipal de Humaitá que:\na) providencie a nomeação de pessoa que preencha os requisitos necessários para o preenchimento do cargo de presidente da Comissão de Licitação (item 1);\nb) proceda às medidas cabíveis para adequação à norma vigente no que tange ao setor de almoxarifado, em consonância com os arts. 94, 95, 96 da Lei n.º 4.320/64 (item 9);\nc) providencie os devidos ajustes de sua norma de concessão de diárias visando adequá-la ao art. 9°, parágrafo único, I, II e III, da Resolução TCE n.° 05/2008 (item 13);\nd) faça constar nos seus atos concessórios de diárias a motivação da necessidade do deslocamento dos servidores (item 14);\ne) proceda aos levantamentos necessários visando apurar se os servidores que acumulam cargos indevidamente agiram ou não de má-fé, e, em caso positivo, adote as medidas necessárias à regularização da situação. E ainda, que adote e/ou reforce os procedimentos necessários visando coibir a incidência da prática de acúmulo indevido de cargo, emprego e função públicos (item 15)",
+      "trechos_identificados": [
+        {
+          "trecho": "DETERMINAR à Câmara Municipal de Humaitá que: a) providencie a nomeação de pessoa que preencha os requisitos necessários para o preenchimento do cargo de presidente da Comissão de Licitação (item 1)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "LICITAÇÕES E CONTRATOS",
+          "codigo_irregularidade": "T8A11B",
+          "tipologia_irregularidade": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "descricao": "Inaptidão do Agente Público para promover o Processo de Licitação",
+          "justificativa_tipologia": "A determinação para nomear pessoa que preencha os requisitos para o cargo de presidente da Comissão de Licitação indica uma falha na qualificação dos agentes públicos responsáveis pelos processos licitatórios, o que pode comprometer a legalidade e a eficiência das contratações.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR à Câmara Municipal de Humaitá que: b) proceda às medidas cabíveis para adequação à norma vigente no que tange ao setor de almoxarifado, em consonância com os arts. 94, 95, 96 da Lei n.º 4.320/64 (item 9)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais.",
+          "justificativa_tipologia": "A necessidade de adequação do setor de almoxarifado à norma vigente indica deficiências no controle e registro dos bens patrimoniais, o que pode levar a perdas, desvios e má gestão do patrimônio público.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n.º 4.320/64",
+              "artigo": "94, 95, 96",
+              "descricao": "Artigos que tratam da escrituração e controle dos bens patrimoniais."
+            }
+          ]
+        },
+        {
+          "trecho": "DETERMINAR à Câmara Municipal de Humaitá que: c) providencie os devidos ajustes de sua norma de concessão de diárias visando adequá-la ao art. 9°, parágrafo único, I, II e III, da Resolução TCE n.° 05/2008 (item 13)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A necessidade de ajustar a norma de concessão de diárias indica falhas nos controles internos relacionados a despesas com pessoal, o que pode levar a pagamentos indevidos ou irregulares.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução TCE n.° 05/2008",
+              "artigo": "9°, parágrafo único, I, II e III",
+              "descricao": "Estabelece os requisitos e procedimentos para a concessão de diárias."
+            }
+          ]
+        },
+        {
+          "trecho": "DETERMINAR à Câmara Municipal de Humaitá que: d) faça constar nos seus atos concessórios de diárias a motivação da necessidade do deslocamento dos servidores (item 14)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A4B",
+          "tipologia_irregularidade": "Ausência ou falha na prestação de contas de diárias",
+          "descricao": "Ausência ou falha na prestação de contas de diárias",
+          "justificativa_tipologia": "A determinação para explicitar a motivação da necessidade de deslocamento dos servidores nos atos de concessão de diárias indica ausência de transparência e controle adequado sobre as despesas com pessoal, o que pode levar a pagamentos indevidos ou irregulares.",
+          "fundamentacao_legal": []
+        },
+        {
+          "trecho": "DETERMINAR à Câmara Municipal de Humaitá que: e) proceda aos levantamentos necessários visando apurar se os servidores que acumulam cargos indevidamente agiram ou não de má-fé, e, em caso positivo, adote as medidas necessárias à regularização da situação. E ainda, que adote e/ou reforce os procedimentos necessários visando coibir a incidência da prática de acúmulo indevido de cargo, emprego e função públicos (item 15)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A10B",
+          "tipologia_irregularidade": "Acúmulo ilegal de cargos",
+          "descricao": "Acúmulo ilegal de cargos",
+          "justificativa_tipologia": "A determinação para apurar a ocorrência de acúmulo indevido de cargos e adotar medidas para regularizar a situação indica uma falha nos controles internos relacionados à gestão de pessoal, o que pode levar a pagamentos indevidos e prejuízo ao erário.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "RECOMENDAÇÃO",
+      "descricao": "RECOMENDAR à próxima Comissão de Inspeção que verifique o cumprimento das alegações firmadas pelo responsável no item 16 do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "RECOMENDAR à próxima Comissão de Inspeção que verifique o cumprimento das alegações firmadas pelo responsável no item 16 do Relatório/Voto.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "Recomendações para que futuras comissões de inspeção verifiquem o cumprimento de alegações anteriores não implicam necessariamente numa falha grave ou recorrente na gestão, e sim um acompanhamento da situação encontrada.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "COMUNICAR",
+      "descricao": "COMUNICAR ao Chefe do Executivo Municipal, a ocorrência de usurpação de suas competências (item 2 do Relatório/Voto).",
+      "trechos_identificados": [
+        {
+          "trecho": "COMUNICAR ao Chefe do Executivo Municipal, a ocorrência de usurpação de suas competências (item 2 do Relatório/Voto).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTROLE INTERNO",
+          "codigo_irregularidade": "T1A2B",
+          "tipologia_irregularidade": "Não implementação do Controle Interno",
+          "descricao": "Controle Interno insuficientemente implementado ou estruturado",
+          "justificativa_tipologia": "A comunicação ao Chefe do Executivo Municipal sobre a ocorrência de usurpação de suas competências sugere uma falha nos controles internos e na definição de responsabilidades, o que pode comprometer a gestão e a legalidade dos atos administrativos.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "MULTA",
+      "descricao": "MULTAR o Sr. Rademacker Chaves, Presidente da Câmara Municipal de Humaitá e Ordenador de Despesas, no valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, inciso II, da Resolução n.º 04/2002-TCE/AM, alterado pela Resolução nº 25/2012-TCE/AM, pelo semestre (2° semestre) em que foi entregue com atraso o Relatório de Gestão Fiscal, item 11, do Relatório/Voto.",
+      "trechos_identificados": [
+        {
+          "trecho": "MULTAR o Sr. Rademacker Chaves, Presidente da Câmara Municipal de Humaitá e Ordenador de Despesas, no valor de R$ 1.096,03 (um mil, noventa e seis reais e três centavos), conforme art. 308, inciso II, da Resolução n.º 04/2002-TCE/AM, alterado pela Resolução nº 25/2012-TCE/AM, pelo semestre (2° semestre) em que foi entregue com atraso o Relatório de Gestão Fiscal, item 11, do Relatório/Voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A multa aplicada devido ao atraso na entrega do Relatório de Gestão Fiscal indica uma falha no cumprimento das obrigações de transparência e controle fiscal, o que pode comprometer a gestão responsável dos recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "308, inciso II",
+              "descricao": "Estabelece os critérios para aplicação de multas por atraso na entrega de documentos."
+            },
+            {
+              "norma": "Resolução nº 25/2012-TCE/AM",
+              "artigo": "Não especificado",
+              "descricao": "Altera a Resolução n.º 04/2002-TCE/AM, estabelecendo novas regras para aplicação de multas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

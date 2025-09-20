@@ -1,0 +1,173 @@
+{
+  "acordao": "56/2022",
+  "processo": "12228/2020",
+  "data_sessao": "23 de Agosto de 2022",
+  "orgao": "Prefeitura Municipal de Jutaí",
+  "municipio": "Jutaí",
+  "exercicio": "2019",
+  "responsavel": [
+    "Pedro Macário Barboza"
+  ],
+  "itens": [
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar À  ORIGEM que,  nos  termos  do  §2º,  do  artigo  188,  do Regimento Interno, evite a ocorrência das seguintes impropriedades, em futuras prestações de contas anuais:",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Desatualização do Portal de Transparência, pois tal impropriedade  prejudica  a  instrumentalização  do  controle social e descumpre a Lei Complementar nº 131/2009 e seu regulamento, Decreto nº. 7.185/2010",
+      "trechos_identificados": [
+        {
+          "trecho": "Desatualização do Portal de Transparência, pois tal impropriedade  prejudica  a  instrumentalização  do  controle social e descumpre a Lei Complementar nº 131/2009 e seu regulamento, Decreto nº. 7.185/2010",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "TRANSPARÊNCIA",
+          "codigo_irregularidade": "T14A1B",
+          "tipologia_irregularidade": "Ausência de divulgação de publicações no site Transparência",
+          "descricao": "Ausência de divulgação de publicações no site Transparência.",
+          "justificativa_tipologia": "A desatualização do portal de transparência impede o controle social e descumpre a legislação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Complementar nº 131/2009",
+              "artigo": "Não consta",
+              "descricao": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal e institui normas para a consolidação do regime fiscal, e dá outras providências."
+            },
+            {
+              "norma": "Decreto nº. 7.185/2010",
+              "artigo": "Não consta",
+              "descricao": "Dispõe sobre os padrões mínimos de qualidade do Sistema Integrado de Administração Financeira do Governo Federal e dá outras providências."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Remessas referentes ao 1º, 2º, 3º, 4º e 6º bimestre fora do prazo  de  45  (quarenta  e cinco) dias estabelecido em legislação.  Na  tabela  é possível  visualizar  os  registros  dos dias em atraso de cada bimestre, em atenção à Resolução n°  15/2013,  alterada  pela  Resolução  n°  24/2013,  art.  4º inciso III (45 dias após o período) c/c inciso II, 'b' do art. 308 da Resolução TCE 04/2002",
+      "trechos_identificados": [
+        {
+          "trecho": "Remessas referentes ao 1º, 2º, 3º, 4º e 6º bimestre fora do prazo  de  45  (quarenta  e cinco) dias estabelecido em legislação.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "O envio de documentos fora do prazo dificulta o controle e a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 15/2013",
+              "artigo": "4º inciso III",
+              "descricao": "Regulamenta o Sistema de Acompanhamento da Gestão dos Recursos da Sociedade Amazonense – GEFIS, e dá outras providências."
+            },
+            {
+              "norma": "Resolução n° 24/2013",
+              "artigo": "art. 4º inciso III",
+              "descricao": "Altera a Resolução nº 15/2013-TCE/AM, que regulamenta o Sistema de Acompanhamento da Gestão dos Recursos da Sociedade Amazonense – GEFIS, e dá outras providências."
+            },
+            {
+              "norma": "Resolução TCE 04/2002",
+              "artigo": "308",
+              "descricao": "Dispõe sobre o Regimento Interno do Tribunal de Contas do Estado do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Descumprimento nos prazos de publicações dos demonstrativos do Relatório Resumido de Execução Orçamentária  -  RREO  inerente  ao  1º,  2º,  4º,  5º  e  6º bimestres de 2019  ao  sistema  E-Contas  (GEFIS),  em atenção  à  art.  165,  §  3º,  CF/88  c/cart.  52,  da  LC  101/00 (prazo legal 30 dias após o período)",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento nos prazos de publicações dos demonstrativos do Relatório Resumido de Execução Orçamentária  -  RREO  inerente  ao  1º,  2º,  4º,  5º  e  6º bimestres de 2019  ao  sistema  E-Contas  (GEFIS),  em atenção  à  art.  165,  §  3º,  CF/88  c/cart.  52,  da  LC  101/00 (prazo legal 30 dias após o período)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "A não publicação do RREO impede o acompanhamento da execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "165, § 3º",
+              "descricao": "A Lei do Orçamento Anual compreenderá:"
+            },
+            {
+              "norma": "LC 101/00",
+              "artigo": "52",
+              "descricao": "O relatório a que se refere o § 3o do art. 165 da Constituição Federal abrangerá, no mínimo, as informações nele discriminadas, referentes:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Verificou-se que a Prefeitura Municipal de Jutaí enviou ao TCE-AM fora do prazo as remessas do 1º e 2º Semestre do Relatório de Gestão Fiscal- RGF, em atenção ao art. 32, II, 'h', da Lei Estadual 2423/96 c/c Resoluções TCE 15 e 24/13 (prazo legal 60 dias após o período)",
+      "trechos_identificados": [
+        {
+          "trecho": "Verificou-se que a Prefeitura Municipal de Jutaí enviou ao TCE-AM fora do prazo as remessas do 1º e 2º Semestre do Relatório de Gestão Fiscal- RGF, em atenção ao art. 32, II, 'h', da Lei Estadual 2423/96 c/c Resoluções TCE 15 e 24/13 (prazo legal 60 dias após o período)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O envio do RGF fora do prazo dificulta a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual 2423/96",
+              "artigo": "32, II, 'h'",
+              "descricao": "Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Amazonas, e dá outras providências."
+            },
+            {
+              "norma": "Resoluções TCE 15 e 24/13",
+              "artigo": "Não consta",
+              "descricao": "Regulamenta o Sistema de Acompanhamento da Gestão dos Recursos da Sociedade Amazonense – GEFIS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Descumprimento dos prazos de publicações dos demonstrativos dos Relatórios de Gestão FiscalRGF inerente ao 1º e 2º semestres de 2019 ao sistema E-Contas (GEFIS), em atenção ao art. 55, § 2º da LC 101/00 (prazo legal 30 dias após o período). Evidência: Print do Sistema Econtas- GEFIS",
+      "trechos_identificados": [
+        {
+          "trecho": "Descumprimento dos prazos de publicações dos demonstrativos dos Relatórios de Gestão FiscalRGF inerente ao 1º e 2º semestres de 2019 ao sistema E-Contas (GEFIS), em atenção ao art. 55, § 2º da LC 101/00 (prazo legal 30 dias após o período).",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "GESTÃO FISCAL",
+          "codigo_irregularidade": "T6A69B",
+          "tipologia_irregularidade": "Publicação do RREO não realizada",
+          "descricao": "Não Publicação Publicação do RREO.",
+          "justificativa_tipologia": "O não cumprimento dos prazos de publicação dificulta a fiscalização.",
+          "fundamentacao_legal": [
+            {
+              "norma": "LC 101/00",
+              "artigo": "55, § 2º",
+              "descricao": "Nos trinta dias após o encerramento de cada semestre, serão divulgados, inclusive por meio de rede eletrônica de comunicação de acesso público, o relatório resumido da execução orçamentária e o balanço orçamentário."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar o encaminhamento  deste Parecer Prévio, publicado e acompanhado  de  cópias  integrais  do  presente  processo,  à  Câmara Municipal de Jutaí, para que, na competência prevista no artigo 127, da CE/1989, julgue as referidas Contas.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  de  Controle  Externo  -  SECEX  que  tome  as medidas cabíveis para a autuação de processos apartados, que deverão ser  devidamente  instruídos,  respeitando  a  competência  de  cada  órgão técnico,  e  as  documentações referentes às impropriedades atinentes às Contas de Gestão mencionadas nos itens de 01 a 22 apresentados pela DICOP;  de 23 a 24 apresentados pela DICREA  e  de  25 a 51 apresentados  pela  DICAMI,  bem  como  aqueles  referentes  à  possível imputação de multas dos itens 52 a 56 que se referem a Atos de Governo, todas listadas na fundamentação do Relatório/Voto.",
+      "trechos_identificados": []
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Determinar à  Secretaria  do  Tribunal  Pleno  que  dê  ciência  do  desfecho destes autos aos interessados, bem como à Câmara Municipal de Jutaí e à Prefeitura Municipal.",
+      "trechos_identificados": []
+    }
+  ]
+}

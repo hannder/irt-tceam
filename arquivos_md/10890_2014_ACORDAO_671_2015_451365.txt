@@ -1,0 +1,162 @@
+{
+  "acordao": "671/2015",
+  "processo": "10890/2014",
+  "data_sessao": "02 de setembro de 2015",
+  "orgao": "Instituto Municipal de Trânsito e Transporte de Itacoatiara - IMTT",
+  "municipio": "Itacoatiara",
+  "exercicio": "2013",
+  "responsavel": [
+    "Célia da Silva Costa Gadelha"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas Anual do Instituto Municipal de Trânsito  e  Transporte  de  ItacoatiaraIMTT relativas ao exercício de 2013, de responsabilidade da Sra. Célia da Silva Costa Gadelha nos termos do art. 71,  II, da CF/88, art. 40, II, da CE/89, art. 1°, II, 2°, 5°, I e 22, III, 'b' da Lei n° 2.423/96 c/c art. 11, III, 'a', '3' e art. 188, § 1°, III, 'b' da Resolução n° 04/02-TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas Anual do Instituto Municipal de Trânsito  e  Transporte  de  ItacoatiaraIMTT relativas ao exercício de 2013, de responsabilidade da Sra. Célia da Silva Costa Gadelha",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "A prestação de contas foi considerada irregular, indicando falhas na apresentação das informações financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "CF/88",
+              "artigo": "71, II",
+              "descricao": "A Constituição Federal, art. 71, II, estabelece a competência do Tribunal de Contas para julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta."
+            },
+            {
+              "norma": "CE/89",
+              "artigo": "40, II",
+              "descricao": "A Constituição Estadual, art. 40, II, replica a competência do Tribunal de Contas para julgar as contas dos responsáveis por recursos públicos no âmbito estadual."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "1°, II",
+              "descricao": "A Lei n° 2.423/96, art. 1°, II, trata da organização do Tribunal de Contas e de suas competências."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "2°",
+              "descricao": "A Lei n° 2.423/96, art. 2°, estabelece os requisitos e procedimentos para a prestação de contas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "5°, I",
+              "descricao": "A Lei n° 2.423/96, art. 5°, I, define os responsáveis pela prestação de contas."
+            },
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "A Lei n° 2.423/96, art. 22, III, 'b', estabelece as sanções aplicáveis em caso de irregularidade das contas."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "11, III, 'a', '3'",
+              "descricao": "A Resolução n° 04/02-TCE, art. 11, III, 'a', '3', detalha os procedimentos para o julgamento das contas."
+            },
+            {
+              "norma": "Resolução n° 04/02-TCE",
+              "artigo": "188, § 1°, III, 'b'",
+              "descricao": "A Resolução n° 04/02-TCE, art. 188, § 1°, III, 'b', regulamenta a aplicação de sanções em processos de contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multa no  montante  de R$  8.768,25 (oito  mil,  setecentos  e sessenta e oito reais e vinte e cinco centavos) a Sra. Célia da Silva Costa Gadelha, com base no art. 54, II, da Lei Estadual n. 2.423/96, c/c o art. 308, VI, da Resolução n. 04/02TCE, em virtude das impropriedades não sanadas: itens 1, letras 'b', 'c', 'd', 'e' e 'f'; 2; 3; 4; 5; 6; 8; 9 e 10 do Relatório/Voto",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multa no  montante  de R$  8.768,25 (oito  mil,  setecentos  e sessenta e oito reais e vinte e cinco centavos) a Sra. Célia da Silva Costa Gadelha, com base no art. 54, II, da Lei Estadual n. 2.423/96, c/c o art. 308, VI, da Resolução n. 04/02TCE, em virtude das impropriedades não sanadas: itens 1, letras 'b', 'c', 'd', 'e' e 'f'; 2; 3; 4; 5; 6; 8; 9 e 10 do Relatório/Voto",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A aplicação de multa indica que houve irregularidades que causaram dano ao erário ou descumprimento de normas financeiras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Estadual n. 2.423/96",
+              "artigo": "54, II",
+              "descricao": "A Lei Estadual n. 2.423/96, art. 54, II, estabelece as bases para a aplicação de multas por irregularidades nas contas."
+            },
+            {
+              "norma": "Resolução n. 04/02TCE",
+              "artigo": "308, VI",
+              "descricao": "A Resolução n. 04/02TCE, art. 308, VI, regulamenta a aplicação de multas pelo Tribunal de Contas do Amazonas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Determinação",
+      "descricao": "Autorizar desde já a instauração de cobrança executiva, no caso de nãorecolhimento do  valor da condenação, nos moldes do art.  173  da Resolução n. 04/02TCE",
+      "trechos_identificados": [
+        {
+          "trecho": "Autorizar desde já a instauração de cobrança executiva, no caso de nãorecolhimento do  valor da condenação, nos moldes do art.  173  da Resolução n. 04/02TCE",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "descricao": "Ausência de Notas Explicativas das Demonstrações Contábeis",
+          "justificativa_tipologia": "O texto determina a instauração de cobrança executiva, indicando um procedimento administrativo padrão para garantir o ressarcimento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n. 04/02TCE",
+              "artigo": "173",
+              "descricao": "A Resolução n. 04/02TCE, art. 173, estabelece os procedimentos para a cobrança executiva de débitos perante o Tribunal de Contas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Recomendação",
+      "descricao": "Recomendar ao Instituto  Municipal  de  Trânsito  e  Transporte  de Itacoatiara-  IMTT, que sejam  observados  e  cumpridos  os  prazos  legais  e  regimentais, assim  como  maior  controle  sobre  seu  patrimônio,  a  fim  de  evitar  a  reincidência  que poderá ensejar na irregularidade de Prestações de Contas futuras, nos termos do art. 22, §1°, da Lei n° 2423/96",
+      "trechos_identificados": [
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Trânsito  e  Transporte  de Itacoatiara-  IMTT, que sejam  observados  e  cumpridos  os  prazos  legais  e  regimentais",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A recomendação para observar os prazos legais e regimentais sugere um problema recorrente no cumprimento das obrigações.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2423/96",
+              "artigo": "22, §1°",
+              "descricao": "A Lei n° 2423/96, art. 22, §1°, estabelece as consequências da reincidência em irregularidades."
+            }
+          ]
+        },
+        {
+          "trecho": "Recomendar ao Instituto  Municipal  de  Trânsito  e  Transporte  de Itacoatiara-  IMTT,  assim  como  maior  controle  sobre  seu  patrimônio,  a  fim  de  evitar  a  reincidência  que poderá ensejar na irregularidade de Prestações de Contas futuras",
+          "irregularidade": false,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PATRIMÔNIO",
+          "codigo_irregularidade": "T7A2B",
+          "tipologia_irregularidade": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "descricao": "Ausência de elementos mínimos de caracterização dos bens no inventário de bens patrimoniais",
+          "justificativa_tipologia": "A recomendação de maior controle sobre o patrimônio indica fragilidades na gestão patrimonial que podem levar a irregularidades futuras.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2423/96",
+              "artigo": "22, §1°",
+              "descricao": "A Lei n° 2423/96, art. 22, §1°, estabelece as consequências da reincidência em irregularidades."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

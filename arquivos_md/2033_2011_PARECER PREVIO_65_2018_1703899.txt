@@ -1,0 +1,297 @@
+{
+  "acordao": "65/2018",
+  "processo": "2033/2011",
+  "data_sessao": "18 de Dezembro de 2018",
+  "orgao": "Prefeitura Municipal de Manacapuru",
+  "municipio": "Manacapuru",
+  "exercicio": "2010",
+  "responsavel": [
+    "Edson Bastos Bessa",
+    "Jaziel Nunes de Alencar",
+    "Angelus Cruz Figueira"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Manacapuru, referente ao exercício de 2010, sob responsabilidade do Sr.Edson Bastos Bessa , Prefeito e Ordenador de Despesas do período de 1/1/2010 à 13/4/2010 , à época, nos termos do art. 19, II, c/c o art. 22, III, 'b', da Lei Orgânica deste Tribunal de Contas n.º 2.423/96, c/c o art. 11,  III,  'a',  item  1,  da  Resolução  n°  04/2002-TCE/AM,  em  razão  das falhas e restrições não sanadas constantes nos itens da fundamentação",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Manacapuru, referente ao exercício de 2010, sob responsabilidade do Sr.Edson Bastos Bessa , Prefeito e Ordenador de Despesas do período de 1/1/2010 à 13/4/2010 , à época, nos termos do art. 19, II, c/c o art. 22, III, 'b', da Lei Orgânica deste Tribunal de Contas n.º 2.423/96, c/c o art. 11,  III,  'a',  item  1,  da  Resolução  n°  04/2002-TCE/AM,  em  razão  das falhas e restrições não sanadas constantes nos itens da fundamentação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A tipologia escolhida reflete a ausência de comprovação de valores no balanço patrimonial, indicando uma falha na gestão contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n.º 2.423/96",
+              "artigo": "19, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores públicos."
+            },
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n.º 2.423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "Estabelece as responsabilidades dos ordenadores de despesa."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "11, III, 'a', item 1",
+              "descricao": "Detalha os procedimentos para o julgamento das contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar  Multa ao Sr.  Edson  Bastos  Bessa ,  prefeito  e  ordenador  de despesa, no valor de R$ 1.096,03 (um mil e noventa e seis reais e três centavos),  conforme  o  art.  308,  II  da  Resolução  n.º  04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, pelo atraso nos meses de janeiro e fevereiro para o encaminhamento, por meio magnético (ACP), dos  demonstrativos  contábeis,  totalizando  o  montante  de R$  2.192,06(dois  mil,  cento  e  noventa  e  dois  reais  e  seis  centavos),  item  3  da fundamentação. O valor deverá ser recolhido no prazo de 30 dias para o Cofre  Estadual  através  de  DAR  avulso  extraído  do  sítio  eletrônico  da SEFAZ/AM,  sob  o código  5508  -  Multas  aplicadas  pelo  TCE/AM  Secretaria de Estado da Fazenda - SEFAZ . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar  Multa ao Sr.  Edson  Bastos  Bessa ,  prefeito  e  ordenador  de despesa, no valor de R$ 1.096,03 (um mil e noventa e seis reais e três centavos),  conforme  o  art.  308,  II  da  Resolução  n.º  04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, pelo atraso nos meses de janeiro e fevereiro para o encaminhamento, por meio magnético (ACP), dos  demonstrativos  contábeis,  totalizando  o  montante  de R$  2.192,06(dois  mil,  cento  e  noventa  e  dois  reais  e  seis  centavos),  item  3  da fundamentação.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa é aplicada devido ao atraso na entrega dos balancetes mensais, uma falha no cumprimento dos prazos estabelecidos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n.º 04/2002-TCE/AM",
+              "artigo": "308, II",
+              "descricao": "Estabelece a multa por atraso no encaminhamento de documentos."
+            },
+            {
+              "norma": "Resolução n.º 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Altera a Resolução n.º 04/2002-TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "O valor deverá ser recolhido no prazo de 30 dias para o Cofre  Estadual  através  de  DAR  avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o código  5508  -  Multas  aplicadas  pelo  TCE/AM  Secretaria de Estado da Fazenda - SEFAZ . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho descreve o procedimento para recolhimento da multa ao cofre estadual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Dispõe sobre os procedimentos para cumprimento das decisões do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Edson Bastos Bessa, gestor e ordenador de despesa,  no  valor  de R$  43.841,28 (quarenta  e  três  mil,  oitocentos  e quarenta e um reais e vinte e oito centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96 c/c art. 308, inciso VI, da Resolução n° 04/2002TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos praticados com grave infração à norma legal ou regulamentar de natureza operacional, financeira e orçamentária, itens 4, 5, 6, 7, 8, 9, 10, 11, 14, 17 e 18 subitens b e c da fundamentação . O valor deverá ser recolhido no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda - SEFAZ . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Edson Bastos Bessa, gestor e ordenador de despesa,  no  valor  de R$  43.841,28 (quarenta  e  três  mil,  oitocentos  e quarenta e um reais e vinte e oito centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96 c/c art. 308, inciso VI, da Resolução n° 04/2002TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos praticados com grave infração à norma legal ou regulamentar de natureza operacional, financeira e orçamentária, itens 4, 5, 6, 7, 8, 9, 10, 11, 14, 17 e 18 subitens b e c da fundamentação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "A multa é aplicada por atos que representam grave infração às normas de natureza operacional, financeira e orçamentária, impactando a execução orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define as sanções aplicáveis por irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Detalha as multas aplicáveis em caso de irregularidades na gestão financeira e orçamentária."
+            },
+            {
+              "norma": "Resolução n.º 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Altera a Resolução n° 04/2002-TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "O valor deverá ser recolhido no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda - SEFAZ . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho descreve o procedimento para recolhimento da multa ao cofre estadual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Dispõe sobre os procedimentos para cumprimento das decisões do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar  irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Manacapuru, referente ao exercício de 2010, sob responsabilidade do Sr.Jaziel  Nunes  de  Alencar ,  Prefeito  e  Ordenador  de  Despesas  do período de 14/4/2010 à 20/4/2010 , à época, nos termos do art. 19, II, c/c o art. 22, III, 'b', da Lei Orgânica deste Tribunal de Contas n.º 2.423/96, c/c o art. 11, III, 'a', item 1, da Resolução n° 04/2002-TCE/AM, em razão das falhas e restrições não sanadas constantes nos itens da fundamentação",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar  irregular a  Prestação  de  Contas  da  Prefeitura  Municipal  de Manacapuru, referente ao exercício de 2010, sob responsabilidade do Sr.Jaziel  Nunes  de  Alencar ,  Prefeito  e  Ordenador  de  Despesas  do período de 14/4/2010 à 20/4/2010 , à época, nos termos do art. 19, II, c/c o art. 22, III, 'b', da Lei Orgânica deste Tribunal de Contas n.º 2.423/96, c/c o art. 11, III, 'a', item 1, da Resolução n° 04/2002-TCE/AM, em razão das falhas e restrições não sanadas constantes nos itens da fundamentação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A tipologia escolhida reflete a ausência de comprovação de valores no balanço patrimonial, indicando uma falha na gestão contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n.º 2.423/96",
+              "artigo": "19, II",
+              "descricao": "Define a competência do Tribunal de Contas para julgar as contas dos administradores públicos."
+            },
+            {
+              "norma": "Lei Orgânica deste Tribunal de Contas n.º 2.423/96",
+              "artigo": "22, III, 'b'",
+              "descricao": "Estabelece as responsabilidades dos ordenadores de despesa."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "11, III, 'a', item 1",
+              "descricao": "Detalha os procedimentos para o julgamento das contas anuais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Responsabilização",
+      "descricao": "Considerar  em  Alcance o Sr.  Jaziel  Nunes  de  Alencar ,  Gestor  e Ordenador  de  Despesas  da  Prefeitura  Municipal  de  Manacapuru,  no valor de R$15.596,09 (quinze mil, quinhentos e noventa e seis reais e nove  centavos),  por  deixar  de  demonstrar  o  bom  e  regular  uso  do dinheiro  público, nos  termos  do  art.  304,  inciso  I, da  Resolução nº04/2002-TCE/AM, itens 21 e 22 da fundamentação do relatório /voto. O valor deverá ser recolhido no prazo de 30 dias na esfera Municipal para  o  órgão  Prefeitura  Municipal  de  Manacapuru,  ficando  a  DICREX autorizada, caso expirado o referido prazo, a adotar as medidas previstas nas  subseções  III  e  IV  da  Seção  III,  do  Capítulo  X,  da  Resolução  n° 04/2002-TCE/AM;",
+      "trechos_identificados": [
+        {
+          "trecho": "Considerar  em  Alcance o Sr.  Jaziel  Nunes  de  Alencar ,  Gestor  e Ordenador  de  Despesas  da  Prefeitura  Municipal  de  Manacapuru,  no valor de R$15.596,09 (quinze mil, quinhentos e noventa e seis reais e nove  centavos),  por  deixar  de  demonstrar  o  bom  e  regular  uso  do dinheiro  público, nos  termos  do  art.  304,  inciso  I, da  Resolução nº04/2002-TCE/AM, itens 21 e 22 da fundamentação do relatório /voto.",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "A não comprovação do uso regular do dinheiro público sugere uma burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução nº04/2002-TCE/AM",
+              "artigo": "304, inciso I",
+              "descricao": "Define as condições para a responsabilização em casos de uso irregular de recursos públicos."
+            }
+          ]
+        },
+        {
+          "trecho": "O valor deverá ser recolhido no prazo de 30 dias na esfera Municipal  para  o  órgão  Prefeitura  Municipal  de  Manacapuru,  ficando  a DICREX autorizada, caso expirado o referido prazo, a adotar as medidas previstas nas subseções III e IV da Seção III, do Capítulo X, da Resolução n° 04/2002-TCE/AM",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho especifica o destino e as condições de recolhimento do valor devido, relacionado ao regime de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Regulamenta os procedimentos para a execução das decisões do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Jaziel Nunes de Alencar ,  gestor e ordenador de despesa, no valor de R$ 21.920,64 (vinte  e um mil, novecentos e vinte reais e sessenta e quatro centavos), conforme os termos do art. 54, III, da Lei n° 2.423/96 c/c art. 308, inciso V, da Resolução n° 04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos de gestão ilegítimo ou antieconômico de que resulte injustificado danos ao erário, itens 21 e 22 da fundamentação . O valor deverá ser recolhido no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda - SEFAZ . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas (art. 72, inciso III, alínea \"a\", da Lei Orgânica do TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Jaziel Nunes de Alencar ,  gestor e ordenador de despesa, no valor de R$ 21.920,64 (vinte  e um mil, novecentos e vinte reais e sessenta e quatro centavos), conforme os termos do art. 54, III, da Lei n° 2.423/96 c/c art. 308, inciso V, da Resolução n° 04/2002-TCE/AM, alterado pela Resolução n.º 25/2012-TCE/AM, por atos de gestão ilegítimo ou antieconômico de que resulte injustificado danos ao erário, itens 21 e 22 da fundamentação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "A multa é aplicada por atos de gestão que resultam em dano ao erário, indicando uma gestão ilegítima ou antieconômica.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, III",
+              "descricao": "Define as sanções aplicáveis por atos de gestão ilegítimos ou antieconômicos."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso V",
+              "descricao": "Estabelece as multas aplicáveis em caso de gestão ilegítima ou antieconômica."
+            },
+            {
+              "norma": "Resolução n.º 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Altera a Resolução n° 04/2002-TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "O valor deverá ser recolhido no prazo de 30 dias para o Cofre Estadual através de DAR avulso extraído do sítio eletrônico da SEFAZ/AM, sob o código 5508 - Multas aplicadas pelo TCE/AM - Secretaria de Estado da Fazenda - SEFAZ . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+          "irregularidade": false,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1A",
+          "tipologia_irregularidade": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "descricao": "Inobservância do regime de conta única - Principio da Unidade de Tesouraria",
+          "justificativa_tipologia": "O trecho descreve o procedimento para recolhimento da multa ao cofre estadual.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei Orgânica do TCE/AM",
+              "artigo": "72, inciso III, alínea \"a\"",
+              "descricao": "Dispõe sobre os procedimentos para cumprimento das decisões do TCE/AM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar Multa ao Sr. Jaziel Nunes de Alencar ,  gestor e ordenador de despesa, no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM, alterado  pela  Resolução  n.º  25/2012-TCE/AM, por atos praticados com grave infração à norma legal ou regulamentar de natureza operacional, financeira e orçamentária, item 20 da fundamentação . O valor deverá ser recolhido  no  prazo  de  30  dias  para  o  Cofre  Estadual  através  de  DAR avulso extraído do sítio eletrônico da SEFAZ/AM,  sob  o código  5508  -  Multas  aplicadas  pelo  TCE/AM  Secretaria de Estado da Fazenda - SEFAZ . Dentro do prazo anteriormente conferido, é obrigatório o encaminhamento do comprovante de pagamento ( autenticado pelo Banco ) a esta Corte de Contas  (art.  72,  inciso  III,  alínea  \"a\",  da  Lei  Orgânica  do  TCE/AM), condição  imprescindível  para  emissão  do Termo  de  Quitação .  O  não adimplemento dessa obrigação  pecuniária  no  prazo  legal  importará  na continuidade da cobrança administrativa ou judicial do título executivo.",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar Multa ao Sr. Jaziel Nunes de Alencar ,  gestor e ordenador de despesa, no valor de R$ 8.768,25 (oito mil, setecentos e sessenta e oito reais e vinte e cinco centavos), conforme os termos do art. 54, II, da Lei n° 2.423/96  c/c  art.  308,  inciso  VI,  da  Resolução  n°  04/2002-TCE/AM, alterado  pela  Resolução  n.º  25/2012-TCE/AM, por atos praticados com grave infração à norma legal ou regulamentar de natureza operacional, financeira e orçamentária, item 20 da fundamentação",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A1B",
+          "tipologia_irregularidade": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "descricao": "Divergência Contábil de Restos a Pagar entre Balanço Financeiro e Balanço Orçamentário",
+          "justificativa_tipologia": "A multa é aplicada por atos que representam grave infração às normas de natureza operacional, financeira e orçamentária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei n° 2.423/96",
+              "artigo": "54, II",
+              "descricao": "Define as sanções aplicáveis por irregularidades na gestão de recursos públicos."
+            },
+            {
+              "norma": "Resolução n° 04/2002-TCE/AM",
+              "artigo": "308, inciso VI",
+              "descricao": "Detalha as multas aplicáveis em caso de irregularidades na gestão financeira e orçamentária."
+            },
+            {
+              "norma": "Resolução n.º 25/2012-TCE/AM",
+              "artigo": "N/A",
+              "descricao": "Altera a Resolução n° 04/2002-TCE/AM."
+            }
+          ]
+        },
+        {
+          "trecho": "O valor deverá ser recolhido no prazo de

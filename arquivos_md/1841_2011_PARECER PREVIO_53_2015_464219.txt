@@ -1,0 +1,12 @@
+{
+  "acordao": "053/2015",
+  "processo": "1841/2011",
+  "data_sessao": "23 de setembro de 2015",
+  "orgao": "Prefeitura Municipal de Coari",
+  "municipio": "Coari",
+  "exercicio": "2010",
+  "responsavel": [
+    "Arnaldo Almeida Mitouso"
+  ],
+  "itens": []
+}

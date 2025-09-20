@@ -1,0 +1,244 @@
+{
+  "acordao": "04/2016",
+  "processo": "2952/2011",
+  "data_sessao": "26 de janeiro de 2016",
+  "orgao": "Prefeitura Municipal de Fonte Boa",
+  "municipio": "Fonte Boa",
+  "exercicio": "2010",
+  "responsavel": [
+    "Antônio Gomes Ferreira"
+  ],
+  "itens": [
+    {
+      "tipo": "Irregularidade",
+      "descricao": "Julgar Irregular a Prestação de Contas da Prefeitura Municipal de Fonte Boa, referente ao exercício de 2010, sob a responsabilidade do Sr. Antônio Gomes Ferreira , Prefeito e Ordenador de Despesas, nos termos do inciso I do art. 1º, das alíneas b e c do inciso III do art. 22 e do parágrafo único do art. 25, todos da Lei nº 2.423/96, em decorrência de atos praticados com grave infração às normas legais (2.1,  2.5,  2.8, '2.9',  '2.10',  '2.14'  '2.16'  2.26,  2.27,  2.28,  2.29,  2.31,  2.32,  2.36,  2.38,  2.39,  2.41,  2.44, 2.45, 2.46, 2.47, 2.48, 2.49 e 2.43, discriminadas  no  item 2 do Relatório/Voto; irregularidades  elencadas  no  contrato  4/2010  (objeto:  melhoria  de  arquibancada),  ao contrato  10/2010  (objeto:  construção  do  sistema  viário),  à  expropriação  de  imóvel,  ao contrato  5/2010  (objeto:  construção  de  abastecimento  de  água  em  comunidade),  ao contrato 6/2010  (objeto: construção  de  abastecimento  de  água  em  bairros)  e  as construções de escolas em madeira de  lei, discriminadas no item 3   do Relatório/Voto; irregularidade 1.1 relacionada ao  Processo 3761/201) e de dano ao erário (irregularidade  2.12,  2.17,  2.20,  2.33,  2.37,  2.45,  2.42,  discriminadas  no  item  2  do Relatório/Voto, irregularidade 10.1, 10.2 10.3, 10.5, 10.6, 10.8, 10.7, 10.10, 10.11 e 10.12, discriminadas no item 10 do Relatório/Voto, irregularidade 15.1, discriminada no item 15 do Relatório/Voto, e irregularidade 6.1 do Processo 3761/201)",
+      "trechos_identificados": [
+        {
+          "trecho": "Julgar Irregular a Prestação de Contas da Prefeitura Municipal de Fonte Boa, referente ao exercício de 2010, sob a responsabilidade do Sr. Antônio Gomes Ferreira , Prefeito e Ordenador de Despesas, nos termos do inciso I do art. 1º, das alíneas b e c do inciso III do art. 22 e do parágrafo único do art. 25, todos da Lei nº 2.423/96, em decorrência de atos praticados com grave infração às normas legais (2.1,  2.5,  2.8, '2.9',  '2.10',  '2.14'  '2.16'  2.26,  2.27,  2.28,  2.29,  2.31,  2.32,  2.36,  2.38,  2.39,  2.41,  2.44, 2.45, 2.46, 2.47, 2.48, 2.49 e 2.43, discriminadas  no  item 2 do Relatório/Voto; irregularidades  elencadas  no  contrato  4/2010  (objeto:  melhoria  de  arquibancada),  ao contrato  10/2010  (objeto:  construção  do  sistema  viário),  à  expropriação  de  imóvel,  ao contrato  5/2010  (objeto:  construção  de  abastecimento  de  água  em  comunidade),  ao contrato 6/2010  (objeto: construção  de  abastecimento  de  água  em  bairros)  e  as construções de escolas em madeira de  lei, discriminadas no item 3   do Relatório/Voto; irregularidade 1.1 relacionada ao  Processo 3761/201) e de dano ao erário (irregularidade  2.12,  2.17,  2.20,  2.33,  2.37,  2.45,  2.42,  discriminadas  no  item  2  do Relatório/Voto, irregularidade 10.1, 10.2 10.3, 10.5, 10.6, 10.8, 10.7, 10.10, 10.11 e 10.12, discriminadas no item 10 do Relatório/Voto, irregularidade 15.1, discriminada no item 15 do Relatório/Voto, e irregularidade 6.1 do Processo 3761/201)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A6A",
+          "tipologia_irregularidade": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "descricao": "Burla do processo legal de pagamento (fuga de empenho, licitação e contrato) através do pagamento de fornecedores a título de Indenização",
+          "justificativa_tipologia": "O trecho descreve a aprovação irregular das contas da Prefeitura devido a atos com grave infração às normas legais e dano ao erário, configurando burla ao processo legal de pagamento.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Lei nº 2.423/96",
+              "artigo": "1º, alíneas b e c do inciso III do art. 22 e do parágrafo único do art. 25",
+              "descricao": "Define as responsabilidades e penalidades para irregularidades na gestão de recursos públicos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: a) R$ 5.469.364,02 (cinco milhões, quatrocentos e sessenta e nove mil, trezentos e sessenta e quatro reais e dois centavos) em razão da falta de comprovação da origem dos registros contábeis realizados no Balanço Patrimonial/2010: R$ 5.459.898,26  na  conta  'Realizável  -  Diversos Responsáveis  -  Poder  Legislativo'  e  R$ 9.465,76 (nove mil, quatrocentos e sessenta e cinco reais e setenta e seis centavos) na conta 'Realizável - Créditos a Receber - Poder Executivo', nos termos do inciso VI do art. 304 do RI-TCE/AM (irregularidades 10.1 e 10.2); b) R$  4.000.000,00 (quatro  milhões)  em  razão  da  divergência  entre  o valor registrado na conta caixa - Saldo para o exercício seguinte do Balanço Financeiro (R$ 6.101.365,49) e o valor no Termo de Conferência de Caixa do mesmo exercício (R$ 2.101.365,49), nos termos do inciso VI do art. 304 do RI-TCE/AM (irregularidades 10.3 e 2.17); c) R$  3.112.559,01 (três  milhões,  cento  e  doze  mil,  quinhentos  e cinquenta  e  nove  reais  e  um  centavo)  em  razão  da  não  comprovação  da  finalidade alcançada com os saques realizados em Contas da Prefeitura, nos termos da segunda parte do inciso I do art. 304 do RI-TCE/AM (irregularidades 2.20 e 15.1); d) R$ 106.748,92 (cento e seis mil, setecentos e quarenta e oito reais e noventa e dois centavos) em razão do não repasse às instituições financeiras dos valores descontados da folha de pagamento dos servidores (irregularidade 2.33 e 10.5); e)  R$  2.000,00 (dois  mil  reais)  em  razão  de  pagamento  de  auxíliodoença a servidor já falecido, nos termos da segunda parte do inciso I do art. 304 do RITCE/AM (irregularidade 2.37 e 10.6); f) R$ 186.000,00 (cento e oitenta e seis mil reais) em razão da falta de comprovação da execução dos serviços contratados mediante as Dispensas de Licitação 3/2010  e  4/2010,  nos  termos  da  segunda  parte  do  inciso  I  do  art.  304  do  RI/TCE-AM (irregularidades 2.45 e 10.8); g) R$ 137.715,00 (cento e trinta e sete mil, setecentos e quinze reais) em razão da não comprovação da distribuição de produtos e quites para grávidas, nos termos  da segunda  parte  do  inciso  I  do  art.  304  do  RI/TCE-AM  (irregularidade  2.42  e 10.7); h) R$ 210.000,00 (duzentos e dez mil)  em razão da não comprovação de  que  a  obra  relacionada  ao  Contrato  4/2010  foi  executada,  nos  termos  da segunda parte do inciso I do art. 304 do RI/TCE-AM (irregularidade 10.10); i)  R$  196.327,26 (cento e noventa e seis mil, trezentos e vinte e sete reais e vinte e seis centavos)  em razão da não comprovação da execução dos serviços contratados (irregularidade 10.11 e 10.12); j) R$  8.667.790,96 (oito  milhões,  seiscentos  e  sessenta  e  seis  mil, setecentos e noventa reais e noventa e seis centavos) em razão da falta de comprovação da aplicação dos recursos recebidos a título de Fundeb (irregularidade  6.1 do Processo 3761/2011)",
+      "trechos_identificados": [
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: a) R$ 5.469.364,02 (cinco milhões, quatrocentos e sessenta e nove mil, trezentos e sessenta e quatro reais e dois centavos) em razão da falta de comprovação da origem dos registros contábeis realizados no Balanço Patrimonial/2010: R$ 5.459.898,26  na  conta  'Realizável  -  Diversos Responsáveis  -  Poder  Legislativo'  e  R$ 9.465,76 (nove mil, quatrocentos e sessenta e cinco reais e setenta e seis centavos) na conta 'Realizável - Créditos a Receber - Poder Executivo', nos termos do inciso VI do art. 304 do RI-TCE/AM (irregularidades 10.1 e 10.2)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "descricao": "Ausência de comprovação do valor registrado na conta “VPD Pagas Antecipadamente” do Balanço Patrimonial",
+          "justificativa_tipologia": "A declaração em alcance ao responsável indica a falta de comprovação de valores no balanço patrimonial, caracterizando ausência de comprovação contábil.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: b) R$  4.000.000,00 (quatro  milhões)  em  razão  da  divergência  entre  o valor registrado na conta caixa - Saldo para o exercício seguinte do Balanço Financeiro (R$ 6.101.365,49) e o valor no Termo de Conferência de Caixa do mesmo exercício (R$ 2.101.365,49), nos termos do inciso VI do art. 304 do RI-TCE/AM (irregularidades 10.3 e 2.17)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "CONTABILIDADE",
+          "codigo_irregularidade": "T2A1B",
+          "tipologia_irregularidade": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "descricao": "Conciliação Bancária. Divergência entre saldo contábil e saldo bancário",
+          "justificativa_tipologia": "A declaração em alcance devido à divergência entre o saldo contábil e o saldo bancário caracteriza uma falha de conciliação bancária.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: c) R$  3.112.559,01 (três  milhões,  cento  e  doze  mil,  quinhentos  e cinquenta  e  nove  reais  e  um  centavo)  em  razão  da  não  comprovação  da  finalidade alcançada com os saques realizados em Contas da Prefeitura, nos termos da segunda parte do inciso I do art. 304 do RI-TCE/AM (irregularidades 2.20 e 15.1)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A17A",
+          "tipologia_irregularidade": "Suposto Desvio de recursos públicos",
+          "descricao": "Ausência do Termo de Responsabilidade dos Bens Patrimoniais",
+          "justificativa_tipologia": "A declaração em alcance por não comprovação da finalidade dos saques indica possível desvio de recursos públicos.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: d) R$ 106.748,92 (cento e seis mil, setecentos e quarenta e oito reais e noventa e dois centavos) em razão do não repasse às instituições financeiras dos valores descontados da folha de pagamento dos servidores (irregularidade 2.33 e 10.5)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A83A",
+          "tipologia_irregularidade": "Ausência de pagamento devido",
+          "descricao": "Ausência de pagamento de valores devidos a trabalhadores, como salários, horas extras, férias, etc.",
+          "justificativa_tipologia": "A declaração em alcance devido ao não repasse de valores descontados da folha de pagamento configura ausência de pagamento devido aos servidores.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: e)  R$  2.000,00 (dois  mil  reais)  em  razão  de  pagamento  de  auxíliodoença a servidor já falecido, nos termos da segunda parte do inciso I do art. 304 do RITCE/AM (irregularidade 2.37 e 10.6)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "PESSOAL",
+          "codigo_irregularidade": "T11A83A",
+          "tipologia_irregularidade": "Ausência de pagamento devido",
+          "descricao": "Ausência de pagamento de valores devidos a trabalhadores, como salários, horas extras, férias, etc.",
+          "justificativa_tipologia": "A declaração em alcance devido ao pagamento de auxílio-doença a servidor falecido caracteriza pagamento indevido.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: f) R$ 186.000,00 (cento e oitenta e seis mil reais) em razão da falta de comprovação da execução dos serviços contratados mediante as Dispensas de Licitação 3/2010  e  4/2010,  nos  termos  da  segunda  parte  do  inciso  I  do  art.  304  do  RI/TCE-AM (irregularidades 2.45 e 10.8)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "A declaração em alcance devido à falta de comprovação da execução dos serviços contratados caracteriza superfaturamento quantitativo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: g) R$ 137.715,00 (cento e trinta e sete mil, setecentos e quinze reais) em razão da não comprovação da distribuição de produtos e quites para grávidas, nos termos  da segunda  parte  do  inciso  I  do  art.  304  do  RI/TCE-AM  (irregularidade  2.42  e 10.7)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EXECUÇÃO FINANCEIRA E ORÇAMENTÁRIA",
+          "codigo_irregularidade": "T4A11B",
+          "tipologia_irregularidade": "Despesas sem comprovação",
+          "descricao": "Ausência de registro contínuo e permanente de controle de entrada e saída dos objetos",
+          "justificativa_tipologia": "A declaração em alcance devido à não comprovação da distribuição de produtos caracteriza despesas sem comprovação.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: h) R$ 210.000,00 (duzentos e dez mil)  em razão da não comprovação de  que  a  obra  relacionada  ao  Contrato  4/2010  foi  executada,  nos  termos  da segunda parte do inciso I do art. 304 do RI/TCE-AM (irregularidade 10.10)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "A declaração em alcance devido à não comprovação da execução da obra contratada caracteriza superfaturamento quantitativo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: i)  R$  196.327,26 (cento e noventa e seis mil, trezentos e vinte e sete reais e vinte e seis centavos)  em razão da não comprovação da execução dos serviços contratados (irregularidade 10.11 e 10.12)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "OBRAS PUBLICAS",
+          "codigo_irregularidade": "T10A27B",
+          "tipologia_irregularidade": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "descricao": "Superfaturamento quantitativo por serviços pagos que não foram executados nas quantidades contratadas",
+          "justificativa_tipologia": "A declaração em alcance devido à não comprovação da execução dos serviços contratados caracteriza superfaturamento quantitativo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "RI-TCE/AM",
+              "artigo": "304",
+              "descricao": "Estabelece os termos para declaração em alcance."
+            }
+          ]
+        },
+        {
+          "trecho": "Declarar em alcance o Sr. Antônio Gomes Ferreira, Prefeito  de Fonte Boa e Ordenador de Despesas, no exercício de 2010, no valor de: j) R$  8.667.790,96 (oito  milhões,  seiscentos  e  sessenta  e  seis  mil, setecentos e noventa reais e noventa e seis centavos) em razão da falta de comprovação da aplicação dos recursos recebidos a título de Fundeb (irregularidade  6.1 do Processo 3761/2011)",
+          "irregularidade": true,
+          "relevante_para_indice": true,
+          "tema_irregularidade": "EDUCAÇÃO",
+          "codigo_irregularidade": "T3A6B",
+          "tipologia_irregularidade": "Despesas com recursos do FUNDEB estranhas à Manutenção e Desenvolvimento do Ensino - MDE (não de folha)",
+          "descricao": "Ausência de comprovação de regularidade fiscal e trabalhista",
+          "justificativa_tipologia": "A declaração em alcance devido à falta de comprovação da aplicação dos recursos do FUNDEB caracteriza despesas estranhas à MDE.",
+          "fundamentacao_legal": []
+        }
+      ]
+    },
+    {
+      "tipo": "Sanção",
+      "descricao": "Aplicar multas ao Sr. Antônio Gomes Ferreira , Prefeito de Fonte Boa e Ordenador de Despesas, no exercício de 2010: a) no  valor  de R$  806,67 (oitocentos  e  seis  reais  e  sessenta  e  sete centavos),  nos  termos  da  alínea 'a'  do  inciso  I  do  art.  308  da  Resolução  4/2002 (RITCE/AM),  conforme  os  valores à época,  em  virtude  do  não  atendimento,  no  prazo fixado, sem  causa  justificada, à diligência deste Tribunal (irregularidade 2.35  do Relatório/Voto); b) no valor de R$ 9.680,04 (nove mil, seiscentos e oitenta reais e quatro centavos), (R$ 806,67 x 12 meses), na forma do inciso II do art. 308 da Resolução 4/2002 (RITCE/AM), conforme os valores à época, em razão de inobservância de prazos legais ou regulamentares para remessa ao Tribunal, por meios informatizado ou documental, de balancetes, balanços, informações, demonstrativos contábeis ou quaisquer outros documentos solicitados (irregularidades 2.2 e 2.7 do Relatório/Voto); c) no  valor de R$ 32.267,08 (trinta  e  dois  mil,  duzentos e sessenta e sete  reais  e  oito  centavos), nos  termos  do  inciso  VI  do  art.  308  da  Resolução  4/2002 (RITCE/AM), conforme os valores à época, em razão de grave infração às normas legais (2.1, 2.5, 2.8, '2.9', '2.10', '2.14' '2.16' 2.26, 2.27, 2.28, 2.29, 2.31, 2.32, 2.36, 2.38, 2.39, 2.41, 2.44, 2.45, 2.46, 2.47, 2.48, 2.49 e 2.43, discriminadas no item 2 do Relatório/Voto; irregularidades  elencadas  no  contrato  4/2010  (objeto:  melhoria  de  arquibancada),  ao contrato  10/2010  (objeto:  construção  do  sistema  viário),  à  expropriação  de  imóvel,  ao contrato  5/2010  (objeto:  construção  de  abastecimento  de  água  em  comunidade),  ao contrato 6/2010  (objeto: construção  de  abastecimento  de  água  em  bairros)  e  as construções de escolas em madeira de  lei, discriminadas no item 3   do Relatório/Voto)",
+      "trechos_identificados": [
+        {
+          "trecho": "Aplicar multas ao Sr. Antônio Gomes Ferreira , Prefeito de Fonte Boa e Ordenador de Despesas, no exercício de 2010: a) no  valor  de R$  806,67 (oitocentos  e  seis  reais  e  sessenta  e  sete centavos),  nos  termos  da  alínea 'a'  do  inciso  I  do  art.  308  da  Resolução  4/2002 (RITCE/AM),  conforme  os  valores à época,  em  virtude  do  não  atendimento,  no  prazo fixado, sem  causa  justificada, à diligência deste Tribunal (irregularidade 2.35  do Relatório/Voto)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa aplicada devido ao não atendimento, no prazo fixado, à diligência do Tribunal, caracteriza o envio de balancetes mensais fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Define os termos para aplicação de multas."
+            }
+          ]
+        },
+        {
+          "trecho": "Aplicar multas ao Sr. Antônio Gomes Ferreira , Prefeito de Fonte Boa e Ordenador de Despesas, no exercício de 2010: b) no valor de R$ 9.680,04 (nove mil, seiscentos e oitenta reais e quatro centavos), (R$ 806,67 x 12 meses), na forma do inciso II do art. 308 da Resolução 4/2002 (RITCE/AM), conforme os valores à época, em razão de inobservância de prazos legais ou regulamentares para remessa ao Tribunal, por meios informatizado ou documental, de balancetes, balanços, informações, demonstrativos contábeis ou quaisquer outros documentos solicitados (irregularidades 2.2 e 2.7 do Relatório/Voto)",
+          "irregularidade": true,
+          "relevante_para_indice": false,
+          "tema_irregularidade": "DOCUMENTOS E ENVIO DE INFORMAÇÕES DA PCA E OUTROS",
+          "codigo_irregularidade": "T12A1B",
+          "tipologia_irregularidade": "Balancetes Mensais entregues fora do prazo",
+          "descricao": "Balancetes Mensais entregues fora do prazo",
+          "justificativa_tipologia": "A multa aplicada devido à inobservância de prazos para remessa de documentos caracteriza o envio de balancetes mensais fora do prazo.",
+          "fundamentacao_legal": [
+            {
+              "norma": "Resolução 4/2002 (RITCE/AM)",
+              "artigo": "308",
+              "descricao": "Define os termos para aplicação de multas."
+            }
+          ]
+        },
+        {
+          "trecho": "Aplicar multas ao Sr. Antônio Gomes Ferreira , Prefeito de Fonte Boa e Ordenador de Despesas, no exercício de 2010: c) no  valor de R$ 32.267,08 (trinta  e  dois  mil,  duzentos e sessenta e sete  reais  e  oito  centavos), nos  termos  do  inciso  VI  do  art.  308  da  Resolução  4/2002 (RITCE/AM), conforme os
